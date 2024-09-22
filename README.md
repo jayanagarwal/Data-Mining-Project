@@ -1,2 +1,6 @@
-# Data-Mining-Project
-Group Project for Data Mining course at CU Boulder
+### Resume Analysis and Recommendation System
+Group 20 | 5502 CSCI | Data Mining | CU Boulder
+Jayan Agarwal | Tuan Nguyen | Shivani Madan
+
+Project website: 
+
