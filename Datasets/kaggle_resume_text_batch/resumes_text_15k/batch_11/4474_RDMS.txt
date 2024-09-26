@@ -1,0 +1,562 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions for preparing your “Resume”
+
+
+
+Mr. ABHISHEK BASU                                          Mobile: +1-404-952-5327
+
+
+Professional Summary
+	
+· Over 10 years of experience in implementing end to end BI solutions using various ETL, Reporting and visualization tools.
+· Worked with Manufacturing, Banking & Insurance customers during various phases of a project life-cycle - requirement gathering, implementation Roll out, enhancement, Migration and Post production support.
+· Proficient in ETL design and implementations using Talend & SAP BODS.  Expert in data extraction techniques from different source systems like Flat Files or Excel Files, RDMS, SAP ECC and SAP BW etc. 3+ years of development experience with Talend and 6+ years of development experience with SAP BODS.
+· 3+ years of extensive hands on experience in data source design & data visualizations using Tableau.
+· Great understanding of SQL with two Relational Databases like Oracle and MS SQL Server.
+· Good understanding of Data Lake Concepts and hands on expertise in Data Lake implementation on Greenplum.
+    Experien
+   Experience Details
+	
+	Organization
+	Designation
+	Duration
+
+	Tech Mahindra (formerly Mahindra Satyam)
+	Business analyst
+	August/2011—Till date
+
+	MindTree Ltd
+	Software Engineer
+	July/2007--July/2011
+
+
+
+
+  Work Experience
+	
+
+Project Profile#1 :  PS Finance Backlog Reporting -  Business Analyst
+
+	
+Customer
+	
+GE Power Services
+
+	Project Type
+	Development
+
+	Project Domain
+	Manufacturing
+
+	Location
+	Atlanta - USA
+
+	Duration
+	November 5th , 2016- Till Date
+
+	Team Size
+	12
+
+	Environment
+	Reporting & ETL
+
+	Tools (With Versions)
+	Reporting Tool
+	Tableau 10.2
+
+	
+	Database:
+	GreenPlum, SQL Server and Oracle.
+
+	
+	ETL
+	Talend 6.1
+
+	
+	Programming Language
+	SQL
+
+
+
+
+Project Description:
+ 	Purpose of this project is to build an integration with SAP ECC to extract PS, SD and MM module information and create a Self Service BI Model on GreenPlum Data Lake, to be consumed by Tableau Reporting Layer. Responsibility of our team was to interact with Business to identify most frequently used reporting needs, identify data elements for ingestion into the data-lake, Design and development of Data Models, creation of Talend Jobs for Data ingestion and building reporting layer, Creation of Tableau connections and reporting templates to be used by GE Power Services business user community.
+
+Apart from the self-service BI models team was also responsible for creation of Complex Tableau reports Talend integrations for user specific requirements.
+
+
+Role and Contribution:
+
+
+Requirements Gathering and Analysis – For preparing High Level Design and Prototype 
+
+· Requirements Gathering and Analysis 
+· Work with the Business Analysts to prepare functional specification during the project requirements stage. Direct the offshore team for documentation of functional requirements for client submission and approvals. 
+· Preparation of technical design document and submit document for client approval. Implement client revisions and comments to the application design. 
+Development of ETL and Reporting artifacts and UAT and Testing
+
+· Creation of Database tables as per approved Data Model.
+· Creation of complex Talend Jobs for Data ingestion in GreenPlum after applying business rules identified during ETL design phase.
+· Building Tableau Connections for self-service reporting.
+· Creation of Tableau reporting templates for business users.
+· Unit and Integration testing.
+· Active participation during UAT phase.
+
+ Onsite – Offshore Coordination/Status Review and meetings with the offshore Team and 
+other vendors 
+
+· Coordinate with onsite and offshore team during developing, testing and deployment 
+· Coordinate with client and vendors in case of production issues. 
+ Preparation of Technical/Business documentation 
+
+· Prepare documents for Technical design processes and post implementation documents 
+· Prepare Technical and Business processes documents for Bug-Fix, Maintenance, Stabilization and development work. 
+
+
+
+
+
+
+
+Project Profile#2:  PGS R5 Release -  Systems Analysts
+
+	
+Customer
+	
+GE Power Generation Services
+
+	Project Type
+	Development
+
+	Project Domain
+	Manufacturing
+
+	Location
+	Atlanta - USA
+
+	Duration
+	16th September,2014 – November 4tth 2016
+
+	Team Size
+	5
+
+	Environment
+	Reporting & ETL
+
+	Tools (With Versions)
+	Reporting Tool
+	Tableau 8.X,9.X
+
+	
+	Database:
+	GreenPlum, SQL Server and Oracle.
+
+	
+	ETL
+	Talend
+
+	
+	Programming Language
+	SQL
+
+
+
+
+Project Description:
+ 	Purpose of this project was to create Self Service BI solutions for GE Power Services Business. Responsibility of our team was to interact with Business to identify most frequently used reporting elements, Extract data from different source systems like FSP, OFS, Smart Outage, Alpha Oracle ERP, Primavera and different third party flat files and perform data ingestion into the data-lake and Design and develop self- service BI Data Model, Design and development of Reporting Layer and creation of self-service Tableau data connections to enable self-service BI reporting. 
+
+Apart from the self-service BI models team was also responsible for creation of Complex Tableau reports and design and development of Data Model and ETL processes.
+
+Role and Contribution:
+
+Application production support and bug fixing 
+· Maintain and monitor all the related applications in all the environments that is, development, staging and production, 
+· Fixing all the bugs that may arise in production. 
+· Deployment of the enhanced modules. 
+· Unit Testing and integration testing of the enhanced modules 
+
+Requirements Gathering and Analysis – For preparing High Level Design and Prototype 
+
+· Requirements Gathering and Analysis 
+· Work with the Business Analysts to prepare functional specification during the project requirements stage. Direct the offshore team for documentation of functional requirements for client submission and approvals. 
+· Preparation of technical design document and submit document for client approval. Implement client revisions and comments to the application design. 
+· Unit Testing, Integration Testing and deployment. 
+
+Major/Minor Enhancements – Detailed Design and review, Integration and Regression 
+Testing 
+· Prepare Technical Detail design documents 
+· Work on reviews of Technical Deliverables during the project verification phase and Quality Control phase. 
+· Preparation of Integration Plan document and submit document for client approval.
+· Implement client revisions and comments. 
+· Perform Regression testing on the deliverables. 
+
+Stabilization Activities for applications 
+
+· Identify the root cause of the issues and providing a permanent solution. 
+· Work with the client in proposing solutions for the overall stability of the applications. 
+
+ Onsite – Offshore Coordination/Status Review and meetings with the offshore Team and 
+other vendors 
+
+· Coordinate with onsite and offshore team during developing, testing and deployment 
+· Coordinate with client and vendors in case of production issues. 
+ Preparation of Technical/Business documentation 
+
+· Prepare documents for Technical design processes and post implementation documents 
+· Prepare Technical and Business processes documents for Bug-Fix, Maintenance, Stabilization and development work. 
+
+
+
+Project Profile#3: Industrial RTS 	Project Lead
+
+	
+Customer
+	
+GE Industrial Solutions
+
+	Project Type
+	Support and Enhancement
+
+	Project Domain
+	Manufacturing
+
+	Location
+	Hyderabad - India
+
+	Duration
+	12 March-2012—12th September ,2014
+
+	Team Size
+	4
+
+	Environment
+	ETL & Reporting
+
+	Tools (With Versions)
+	ETL
+	BODS 3,2
+
+	
+	Reporting
+	Tableau 8.X
+
+	
+	Database
+	Oracle 11g
+
+	
+	Programing Language
+	SQL
+
+
+   
+Project Description:
+
+This is a Support and enhancement project where apart of daily monitoring of production jobs, creation of new jobs as per user requests (Extraction from SAP R3, Flat Files, Data base tables and loading to Oracle Tables after applying various business rules and transforms), bug/break fixing of jobs during daily production job execution, performance improvement of the jobs/oracle procedures, enhancement of the existing jobs are the primary responsibilities of the team.
+
+Contribution:
+
+· Leading a team of seven members and providing technical solutions to our customers as per the business requests.
+· Daily Job Monitoring and production bug fixing.
+· Resolving tickets raised by business users to solve different user queries and data related issues.
+· Performance improvement of the BODS jobs and Oracle stored procedures.
+· Data Extraction from different source systems like SQP ECC, SAP BW, Oracle ERP ,flat files and load into Oracle Data warehouse applying different data transformation rules to support the enhancement and new development requests.
+· Unit testing and peer review of different data objects developed by team members/
+· Train and monitor the performance of team members
+
+
+
+
+
+Project Profile#4: Industrial DM activities	Project Lead
+   
+	Customer
+	GE Industrial Solutions
+
+	Project Type
+	Migration
+
+	Project Domain
+	Manufacturing
+
+	Location
+	Hyderabad - India
+
+	Duration
+	August-2011 - February-2012
+
+	Team Size
+	4
+
+	Environment
+	ETL 
+
+	Tools (With Versions)
+	ETL
+	BODS 3,2
+
+	
+	Database
+	Oracle 11g
+
+
+
+Project Description:
+
+              This project aims to migrate 600 production jobs from BODS 6.5 (Windows Server) to BODS 3.2 (LINUX Server) and it also involves migration of Oracle database from 9i to 11g and conversion of windows batch scripts to LINUX shell scripts for various operations like ftp/sftp etc.
+
+Contribution:
+
+·  Installing BODS 12.2.0 on LINUX server, repository creation, job server, SMTP server configuration
+·  Job migration from older version of BODI to BODS 12.2.0. 
+·  Writing shell scripts
+·  Testing jobs in the newly installed BODS 12.2.0 & oracle 11g environment 
+·  Data validation 
+·  Migration data from production to test system via DB links
+·  Documentation
+
+
+Project Profile#5: Sonoco DWH Migration        Project Lead 
+
+	Customer
+	Sonoco Products Company
+
+	Project Type
+	Development
+
+	Project Domain
+	Manufacturing
+
+	Duration
+	April-2011 - July-2011
+
+	Team Size
+	11
+
+	Environment
+	ETL
+
+	Tools (With Versions)
+	Software:
+	BODI 11.7.3
+
+	
+	Database:
+	SQL Server 2005
+
+
+   
+Project Description:
+
+It aims to replace the old Informix DW for IPD division into a fast and robust DWH on SQL Server 2005.Oracle ERP system was source and ATTUNITY tool was used to read oracle data and store in its own file structures. BODI jobs were created to read the ATTUNITY files and load the Data warehouse and Data Mart tables in SQL Server. The Data warehouse was designed on  Data Vault Modeling methodology.
+
+Contribution:
+
+· Leading a team of 8 members at offshore and was responsible for all the ETL deliverables of the project from offshore.
+· ETL design.
+· Job development in BODS.
+· Preparing test cases for various types of ETL loads and job testing.
+
+
+Project Profile#6: N.F.U.M BO Reporting	Team Member
+
+	Customer
+	National Farmers union Mutual (N.F.U.M)
+
+	Project Type
+	Development
+
+	Project Domain
+	Insurance
+
+	Duration
+	November-2010 – April-2011
+
+	Team Size
+	Project: 7
+
+	Environment
+	ETL & Reporting
+
+	Tools (With Versions)
+	ETL
+	BODI 11.7.3
+
+	
+	Database:
+	SQL Server 2005
+
+	
+	Reporting Tool
+	BOXI R2
+
+
+   
+Project Description:
+Worked on various business requirements which involve creation/modifications of BODS jobs and BO reports satisfying the needs of the business users.
+
+
+Contribution:
+
+· Requirement analysis.
+· Estimation
+· BODI and BOXI Developer and Designer
+
+
+
+Project Profile#7: Sonoco DWH Migration      Team Member 
+
+	Customer 
+	Sonoco Products Company
+
+	Project Type
+	Development
+
+	Project Domain
+	Manufacturing
+
+	Duration
+	November-2007- October-2010
+
+	Team Size
+	Project: 11
+
+	Environment
+	ETL, Data Modeling
+	
+
+	Tools (With Versions)
+	Software:
+	BODI 11.7.3
+
+	
+	Database:
+	SQL Server 2005
+
+	
+	Data Modeling Tool
+	MS Visio
+
+
+   
+Project Description:
+
+The objective of the project was to migrate the decade old Informix, DB2 data warehouse to SQL Server 2005.All the Informix stored procedures were replaced by BODI jobs for ETL. The Data warehouse to design per Data vault modeling methodology.
+
+Contribution:
+
+· ETL Developer on BODI 11.7.3
+· Data Modeler on Data Vault Modeling technology.
+
+
+	Educational Details
+
+
+
+    Education	
+	Degree
+	Specialization
+	University/School
+	Year of passing
+	Marks (%)
+
+	Graduation
+	B.E/B.TECH INFORMATION TECHNOLOGY
+	Bengal Engineering and Science University
+
+	2007
+	73
+
+	WBHSE
+	Science
+	Burdwan C.M.S High school
+	2003
+	78.2
+
+	WBSE
+	General
+	Burdwan C.M.S High school
+	2001
+	86.375
+
+
+
+
+	Personal Details
+
+
+
+
+
+	Date of Birth
+	10th December,1984
+
+	Nationality
+	Indian
+
+	Mobile 
+	+1-404-952-5327
+
+	Email
+	abhishekbasu8gmail.com
+
+
+
+
+
+
+
+
+
