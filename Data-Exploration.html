@@ -86,20 +86,66 @@
             <h2>
               Data Preprocessing Methodology
             </h2>
-            <p>
-               Add stuff here
-            </p>
-
+          
+          <div class="container">
+            
+            <!-- First Row: Image left, Text right -->
+            <div class="row">
+              <div class="content">
+                <div class="textbox">
+                  <pre>
+                    The data we have scraped is in raw structure i.e txt files. We have compiled a single csv from the data to extract some knowledge 
+                    out of it (explained in attached image). As the data is a collection of Resume txt files which include alphabets, digits and
+                    special characters in it and no specific format .
+                    As the data we have , the process of cleaning requires usage of NLP (Natural Language Processing) based modelling which will be
+                    part of the next Milestone. So currently we have collected all the txt files that we had into a csv file which checks for some 
+                    specific patterns using regex to give us info on the data. 
+                    We have performed the following cleanup:
+                    1.	We could see some files had ‘0’ word count, hence were empty so we removed them.
+                    2.	We identified that a few files had different language (4 files) we removed them as well as we are currently focusing only on
+                        the English language.
+                    3.	We have got a brief idea on the special characters count (the files which have 50% word count are mostly corrupted data and 
+                        few files do exist) so we have been checking on them. Not removed yet as we will first test the NLP model on them.
+                    4.	We have identified a few resume begin with the word continued (which might have been a user error) so we removed that word
+                    5.	There was a common text in some resume (“Candidate has been called”) this might have been a part of the Resume feedback. 
+                        But as this doesn’t give us any knowledge we have removed them from our data.
+                    6.	We expect to gain more insights after training NLP Model on it.
+                  </pre>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Second Row: Text left, Image right (Alternate) -->
             <h2>
               Dataset Before vs After Preprocessing
             </h2>
-            <p>
-               Add screenshot of dataset 
-            </p>
-
-
+            <div class="row">
+              <div class="image">
+                <img src="assets/img/Resumetxt.png" alt="Resumetxt">
+              </div>
+              <div class="content">
+                <div class="textbox">
+                  <pre>
+                    Dataset Before Preprocessing (Raw txt file) 
+                  </pre>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="image">
+                <img src="assets/img/CompiledResume.png" alt="CompiledResume">
+              </div>
+              <div class="content">
+                <div class="textbox">
+                  <pre>
+                    Dataset After Preprocessing (Compiled into csv file)
+                  </pre>
+                </div>
+              </div>
+            </div>
+          </div>
             <h2>
-              Data Visualization
+              Data Visualizations
             </h2>
 
             <!DOCTYPE html>
