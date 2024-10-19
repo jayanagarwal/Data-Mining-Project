@@ -1,0 +1,190 @@
+OLAOSUN O. AMOS
+AWS Solution Architect/ DevOps Engineer
+ad1vqj@r.postjobfree.com / 202-***-****
+
+PROFESSIONAL SUMMARY
+Talented and results driven AWS Solutions Architect with over 8 years of experience in the IT Industry as a whole, software configuration, design, development, and cloud implementation which comprised of helping various organizations to migrate their on-premises databases and applications into the AWS cloud environment.
+Deep understanding of highly available business applications for enterprise customers like Cloud computing, Linux System Administration and Network and Security Management.
+Excellent base conceptualization and understanding of the Amazon Web Services (AWS) as an infrastructure and its related services.
+Competent with handling operations and maintenance support for AWS cloud resources for example launching, maintaining, and troubleshooting EC2 instances, S3 buckets, Virtual Private Cloud (VPC).
+Have experience in monitoring metrics on EC2, EBS, and RDS using CloudWatch as well as configuring and managing Elastic Load Balancer to avoid single point of failure of application servers.
+Experience in backup services like EBS snapshots, S3 backups, and Amazon Glacier.
+Experience with creating and manipulating the various policies involving Security Groups, IAM roles and Multi Factor Authentication.
+Well versed and thoroughly knowledgeable in Iterative Software Development Life Cycle. This also includes building according to Functionality and Technical Specifications, Resource Planning, Development, Testing and releasing quality software and its maintenance.
+Have work experience and knowledge of Agile and Scrum technologies.
+Have hands-on experience of the build and deployment phase and usage of Continuous Integration (CI) and Continuous Deployment tools (CD) such as Jenkins and Gitlab, change history for releases, and the maintenance of the built system.
+Experience in working with user interface (UI) applications and deploying professional web applications using HTML 4.0/5, CSS, JavaScript, JSON and XML.
+Firsthand experience with building servers and tools such as Jenkins. Worked on Jenkins for continuous integration and for End-to-End automation for all build and deployment.
+A deeper understanding of the principles and best practices of Software Configuration Management (SCM).
+Experience when it comes to DevOps tools like Ansible, Git, Jenkins and containerization tools like Docker and Kubernetes.
+Experience in creating Docker containers, leveraging existing Linux containers and AMIs. In addition to creating Docker containers from scratch. Building/ maintaining Docker container clusters managed by Kubernetes, Linux, Bash, Git, Docker on AWS.
+Expertise in handling operations, maintenance, support up to and including deployment using the AWS resources like EC2 instances, S3 buckets, Virtual Private Cloud (VPC), Elastic Load Balancer (ELB) and Relational Database Service (RDS).
+
+TECHNICAL SKILLS:
+
+Languages
+Java, Python, JavaScript, SQL, PowerShell
+RDBMS
+Oracle, SQL Server, MySQL, DynamoDB
+Testing Tools
+Selenium, Win Runner, and Load Runner
+Operating System
+Windows Server 9X, 2003, 2000, ME, XP, Vista, 7, 8, 10
+Unix/ Linux (Centos, Red hat, Ubuntu)
+Software Engineering
+MS Office (Word, Excel, Power Point, Visio), UML, AWS, Rational Suite
+Hardware Tools
+TC/IP Configuration LAN and Networking
+DevOps Tools
+Git, GitHub, Ansible, Kubernetes, Terraform, Jenkins, Vagrant, AWS EC2, Docker and Prometheus
+Tools and Applications
+AWS- EC2, ELB (Elastic Load Balancer), Auto-Scaling Groups, Glacier, Elastic Beanstalk, Cloud Formation, RDS (Relational Database Service), VPC (Virtual Private Cloud), Direct Connect, Route 3, Cloud Watch, Cloud Trail, IAM (Identity and Access Management), DynamoDB, AWS WAF, Terraform.
+
+PROFESSIONAL EXPERIENCE:
+
+GE Digital – Bothell, WA
+AWS Solution Architect / DevOps Engineer Sept 2022 – To date
+
+Responsibilities:
+Organizing and participating in migrating from on-premises infrastructure to AWS cloud.
+Designing and creating the Virtual Private Cloud (VPC) infrastructure for the company and its clients including private and public subnets, creating security groups and network access lists, and configuring internet gateways.
+Engaging in the creation of ACLs, Subnets, Route Tables, Internet Gateway, and Nat Gateway for company to ensure the infrastructure was working effectively, efficiently and its security was excellent.
+Created Auto-scaling groups from the launch configurations to scale out or scale back instances depending on whether there was high or low traffic/demand. This service was supplemented by the SNS notifications from CPU utilization and other monitoring services.
+Competent in use of on demand, spot and reserved instances based on scenarios and tasks and leveraging resources to mitigate unnecessary high costs.
+Execute Global Content Delivery Network (CDN) service for accelerated delivery of websites, APIs, video content or other web assets through the CDN caching using Cloud Front
+Set up life cycle to automatically migrate old data into AWS Glacier for archiving as new files got closed as per company policies.
+Created and defined AWS Security groups which in turn functioned as firewalls to control the incoming traffic onto one or more AWS EC2 instances.
+Hosting static website on AWS and S3 for various company clients.
+Worked efficiently and effectively with on-site OS/Applications/Services/Packages using Ansible together with AWS for EC2, S3, Route 53 and ELB.
+Deployed Microservices, including provisioning AWS environment using Ansible Playbooks.
+Involved in setting up builds using Ansible as a configuration management tool.
+Configured and managed various AWS Services including EC2, RDS, VPC, S3, Glacier, Cloud Watch, Cloud Front, CloudTrail, AWS Inspector, AWS Guard Duty and Route 53
+Configured various performance metrics in real- time using the monitoring and alert services like Cloud Watch, Cloud Trail, and Simple Notification Service (SNS).
+
+Configured ELK (Elastic search, Log stash & Kibana) stack for log aggregation and analysis to support business critical application and system logs and hence have these logs available on Web interface for searching and visualizing and analysis purpose.
+Worked on configuring Cross-Account deployments using AWS Code Pipeline, Code Build and Code Deploy by creating Cross-Account Policies & Roles on IAM.
+Maintain the user accounts (IAM), RDS, Route 53, VPC, RDB, Dynamo DB, SES, SQS and SNS services in AWS cloud.
+Build, customize and configure OPENVPN to allow connectivity to private AWS resources through OPENVPN, help end users to troubleshoot establishing connectivity to private AWS resources and configure AD server to authenticate users via radius authentication, once reached a level of stability, scripted entire OPENVPN infrastructure to launch similar environments.
+Develop, deploy, and manage event-driven and scheduled AWS Lambda functions to be triggered in response to events on various AWS sources including logging, monitoring, and security related events and to be invoked on scheduled basis to take backups.
+Implemented Continuous Integration and Delivery (CICD) using Jenkins plugin to automatically deploy builds with AWS Code Deploy including creating an AWS Code Commit repository, installing Jenkins and the Jenkins plugin, adding files to the Code Commit repository, and configuring the plugin to create a deployment when changes are committed to an AWS Code Commit repository.
+Managed GIT repository, Code merging, and production deployments.
+Creating and maintaining infrastructure using reusable Terraform scripts and deploying infrastructure to different environments (Test, Dev, and Prod).
+Deployed configuration management and provisioning to AWS using Packer-Docker and Terraform, involved in auto-mated deployment of EBS on to the AWS cloud EC2 instances server and automated the complete deployment environment on AWS.
+Created multiple terraform modules to manage configurations, applications, services and automate installation process for Web Server and AWS instances.
+Implemented AWS Code Pipeline and Created Cloud formation YAML templates & Terraform scripts for infrastructure as code.
+Used Sentinel to write and test governance policies that restrict the infrastructure provisioned by Terraform and used Sentinel print function in policies for debugging and clarity of code, enacted a 4-step methodology for restricting resources with the tfplan import.
+Building/Maintaining Docker container clusters managed by Kubernetes Linux, Bash, GIT, Docker, on AWS platform. Utilized Kubernetes and Docker for the runtime environment of the CI/CD pipeline system to build, test and deploy.
+Involved in development of test environment on docker containers and configuring the docker containers using Kubernetes.
+Used Jenkins pipelines to drive all microservices builds out to the docker registry and then deployed to Kubernetes, created pods and managed using Kubernetes.
+Building/Maintaining Docker container clusters managed by Kubernetes Linux, Bash, GIT, Docker
+Used Kubernetes to orchestrate the deployment, Scaling, and management of Docker Containers.
+Collaborated with teams to partake in User Acceptance Testing (UAT).
+
+Environment:
+AWS, AWS SMS, AWS SDK for Java, AWS CLI, Git, ECS, EKS, Lambda, Elastic Beanstalk, Jason, YML, Tomcat, Visio, Ansible, Terraform, Docker, Kubernetes, Virtual Private Cloud (VPC), Jenkins, MAVEN, GitHub, Apache, Cloud Watch, Cloud, S3, Load Balancers, Route53.
+
+Sierra Lobo, Inc, White Sands, NM
+AWS Solution Architect/DevOps Engineer July 2020 – Sept 2022
+
+Responsibilities:
+Engaged in regular hands-on activities involving AWS services, such as provisioning EC2, EBS, S3, Elastic Load Balancer, Autoscaling, ECS, CloudWatch alarms, Cloud Formation templates, building Virtual Private Cloud (VPC), assigning IAM roles based on the day-to-day business activities and needs.
+Involved in Building VPC from scratch, creating both private and public subnets, configuring routing tables, creating security groups and network access lists, and configuring the Internet Gateway and the Nat Gateway to make the application available yet securing, hence boosting its performance.
+Created Auto-scaling groups from the launch configurations to scale out or scale back instances depending on whether there was high or low traffic/demand. This service was supplemented by the SNS notifications from CPU utilization and other monitoring services.
+Create and maintain highly scalable and fault tolerant multi-tier AWS and Azure environments spanning across multiple availability zones using Terraform and CloudFormation.
+Worked with Continuous Integration (CI)/ Continuous Deployment tools (CD) tools like Jenkins, Gitlab, and orchestration tool (Ansible).
+Created Jenkins CICD pipelines for continuous build & deployment and integrated SonarQube plugins in Jenkins for automated testing and for Code quality check.
+Extensive experience in setting up the CI/CD pipelines using Jenkins, Maven, Nexus, GitHub, Ansible, Terraform and AWS
+Write terraform scripts from scratch for building Dev, Staging, Prod and DR environments.
+Responsible for creating Jenkins pipeline for deployment using Ansible.
+Building/Maintaining Docker container clusters managed by Kubernetes Linux, Bash, GIT, Docker
+Implemented testing environment for Kubernetes and administered the Kubernetes Clusters. Also developed scripts for auto-scaling of Pods.
+Created Docker Containers leveraging existing Linux Containers and AMI’s in addition to creating.
+Built and deployed Docker containers to break up monolithic apps into microservices, improving developer’s workflows, increasing scalability, and optimizing speed.
+Leveraged Terraform modules to create various resources in the clients AWS environments (dev, test, prod).
+Worked as part of development team in developing front-end systems with JavaScript, Bootstrap, HTML5, CSS, MVC frameworks such as AngularJS and Angular2 as a platform for web applications.
+Worked with Express.js for development of RESTful web services and middleware configurations.
+Redesigning, restructuring, and configuring the current SaaS model from a single- tenant environment hosting an application for single clients to making it a multi-tenant environment hosting multiple-client environment.
+Using AWS methods and best practices to move an existing business into the AWS infrastructure, increasing its overall performance, making it more scalable, available, reliable, and secure hence increasing its productivity and competitiveness in the market.
+Actively monitored resources and applications using AWS CloudWatch including creating alarms to monitor metrics such as EBS, EC2, ELB, RDS, and SNS. Also configured notifications for the alarms generated based on the events specified.
+Set up appropriate and necessary monitoring and alerts for various events related to performance, scalability, availability, and reliability.
+Deployed and monitored applications on various platforms using Elastic Beanstalk and Lambda, also setting up the life cycle policies to back up the data from AWS S3 and to send it to AWS Glacier as needed.
+Was involved with ECS and EKS deployment to an application on a Tomcat server hosted in containers.
+Configured and tailored Identity Access management (IAM) features to set-up Multi-Factor Authentication (2FA) for added security layer to root account, enterprise user account and assigning roles based on lease privilege to user.
+
+Environment:
+EC2, S3, Glacier, SMS, DBMS, RDS, SQS, SNS, SES, CloudFormation, VPC, Redshift, DynamoDB, Python, MySQL, Jenkins, MAVEN, GitHub, Docker, Kubernetes, Terraform.
+
+Dematic- Atlanta, Georgia
+Junior AWS Devops Engr. March 2018 – July 2020
+
+Responsibilities:
+Migrating and maintaining build and test environments into the Cloud Infrastructure.
+Installing applications on AWS EC2 instances and configuring the storage on S3 Buckets including configuring the S3 Bucket policies and IAM (Identity and Access Management) role-based policies.
+Creation of Security Groups, Auto-scaling, Load balancers (ELBs) in the virtual private connection.
+Creation, configuration of monitoring systems e.g., alarms and notifications using the SNS, CloudWatch and SQS. Configured notifications for the alarms generated based on the events defined.
+Working with AWS CLI in creating and configuring various AWS services like creating and configuring S3 bucket policies, versioning and archiving infrequently used data to Amazon Glacier.
+Configuring AWS Identity and access Management (IAM) users and groups for improved login authentication and for improved overall security of the system.
+Worked on version control environment like Git and with continuous integration tools like Jenkins.
+Designing and implementing CI (Continuous Integration) system configuring Jenkins servers, Jenkins nodes, creating required scripts (Perl & Python), and creating/configuring VMs (Windows/Linux).
+Coordinate/assist developers with establishing and applying appropriate branching, labeling/naming conventions using Subversion (SVN) and GIT source control.
+Managed GIT repository, Code merging, and production deployments.
+Analyzed and resolved conflicts related to merging of source code for SVN and GIT.
+Implemented, maintained, and supported reliable, timely and reproducible builds for project teams.
+Move development application from Docker containers and deploy into production Cloud Foundry environment.
+Experience in Configuration Management, Cloud Infrastructure, and Automation like Amazon Web Services (AWS), Ant, Maven, Jenkins, SVN, GITHUB, Clear Case, Tomcat, and Linux.
+Implemented docker-mavin-plugin in maven pom to build docker images for all microservices and later used docker file to build the docker images from the java jar files.
+Used ANT and MAVEN as a build tool on java projects for the development of build artifacts on the source code.
+Worked with development/testing, deployment, systems/infrastructure, and project teams to ensure continuous operation of build and test systems.
+Used Jenkins pipelines to drive all microservices builds out to the Docker registry and then deployed to Kubernetes, Created Pods and managed using Kubernetes.
+Developed microservice on boarding tools leveraging Python and Jenkins allowing for easy creation and maintenance of build jobs and Kubernetes deploy and services.
+Experience in deployment Automation & Containerization (Docker, Kubernetes).
+Changing the AWS infrastructure Elastic Beanstalk to Docker with Kubernetes
+Created Docker images using a Docker file, worked on Docker container snapshots, removing images, and managing Docker volumes then deploy to Kubernetes.
+Used Fabric for launching and deploying instances in AWS.
+Used Cloud watch logs to move application logs to S3 and create alarms based on a few exceptions raised by applications.
+Used CloudFront to deliver content from AWS edge locations to users, allowing for further reduction of load on front-end servers.
+Managed network security using Load balancer, Auto scaling, Security groups and NACLS.
+Built Cloud infrastructure for Multi-Tier Applications with Failover and High Availability Mode.
+Supported current migration of Data Center to Amazon Cloud.
+Focus on continuous integration and deployment, promoting Enterprise Solutions to target environments.
+Implemented and maintained the monitoring and alerting of production and corporate servers/storage using CloudWatch.
+Documented system configurations, Instance, OS, and AMI build practices, backup procedures, troubleshooting guides, and keep infrastructure and architecture drawings current with changes.
+Provided oversight and guidance for the architecture, development best practices for application hosting, and infrastructure deployment for each application.
+Utilized AWS CLI to automate backups of ephemeral data-stores to S3 buckets, EBS and create nightly AMIs for mission critical production servers as backups.
+Developed Cloud Formation scripts to automate EC2 instances.
+Responsible for maintaining 4-5 Different Testing/QA Environments and erection of the PROD Environment in AWS.
+Configured AWS IAM and Security Group in Public and Private Subnets in VPC.
+Created AWS Route53 to route traffic between different regions.
+Experience with analysis of logs and performing root cause analysis for various issues coming up on daily basis.
+Monitoring Live Traffic, logs, Memory utilization, Disk utilization and various other factors which are important for deployment.
+Utilized Ansible for configuration management of hosted Instances within AWS. Configuring and Networking of Virtual Private Cloud (VPC).
+
+Environment:
+AWS- EC2, RDS, S3, Glacier, SQS, SNS, SES, CloudFormation, Virtual Private Cloud (VPC), IAM, Route 53, EBS, Lambda, CI/CD (CodePipeline and CodeDeploy) Cloud Watch, Cloud, S3, Load Balancers, Jenkins, Maven, GitHub, Apache, RDBMS (MySQL, SQL Server, AWS Aurora), NoSQL (DynamoDB), Java, Linux, Maven, Nexus, Jenkins, Docker, Nginix, Nagios, GIT, AWS EC- 2, Route 53, S3, VPC, Autoscaling, ELB, Shell Scripts, Unix/ Linux environment, Kubernetes, CICD.
+
+Intel Corp Santa Clara, CA
+Compliance & Quality Lead IT Auditor Feb 2016 - March 2018
+
+Responsibilities:
+Analyzing the current IT audit process to identify weaknesses and develop opportunities for improvement.
+Review the terms of Service level Agreement (SLA) for the protection of data stored on the cloud and clauses for the termination of contract between organization and cloud service provider.
+Verify the sufficiency and appropriateness of policies, practices, and procedures for the protection of data stored in the cloud.
+Review legal and regulatory requirement that an organization is required to comply for the protection of data which is stored in the cloud.
+Understanding key elements of design controls, design input, design review, design transfer, design verification and validation.
+Handled of special projects such as Segregation of Duties (SOD), business challenge projects HIPAA and identify conflicts or inadequate internal controls and provide recommendations.
+Having a continuous monitoring in place as it should overtime, the test of control and test of effectiveness.
+Maintain responsibility for the development, execution, oversight, and delivery of operational audit engagements across the Organization.
+Perform risk assessment by using available tools or methodologies to identify the vulnerabilities specific to a criteria, being evaluated and create a strategy to remediate the vulnerabilities by Identifying the risk, categorizing/rating the risk in terms of impact to determine the risk criteria( low, moderate,high), Assess and managing the risk( Remediation action plan) and prioritizing it by reviewing the risk(follow up to make sure the risk has been remediated).
+Have in depth experience performing audit with IT general controls such as, access control, change management, IT operations, disaster recovery and platform reviews (Windows and UNIX OS).
+Reviewed of IT General Controls (ITGC) and various applications, databases, operating systems, and network devices
+Performed all stages of audit planning, fieldwork, executive, reporting and follow up.
+Promoted a zero-tolerance control environment where fraud or noncompliance is unacceptable and difficult to conceal.
+
+EDUCATION:
+BSc Information Technology (Arizona state university)
+
+CERTIFICATION:
+AWS Certified Solutions Architect Associate
+Certified Information System Auditor
+CSM Certified Scrum Master
+Contact this candidate

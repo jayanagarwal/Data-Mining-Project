@@ -1,0 +1,213 @@
+SRIKANTH
+Senior Azure DevOps CICD Engineer
+Ph: 448-***-****
+Email: ad66gz@r.postjobfree.com
+
+PROFESSIONAL SUMMARY
+Around 8+ years of experience as a Cloud/Azure/DevOps Engineer, with expertise in DevOps, Build/Release Continuous Integration, Continuous Deployment, Configuration Management, Disaster Recovery, and Data Recovery Management.
+Worked with container-based technologies like Docker, Kubernetes.
+Used Kubernetes to orchestrate the deployment, scaling and management of Docker Containers.
+Experience in working with Docker, ECS, Kubernetes, AWS Lambda container services and successfully deployed images in the cloud environment for managing applications.
+Created Stored Procedure and Scheduled them in Azure Environment.
+Experience in administering and maintaining Atlassian products like JIRA, bamboo, Confluence.
+DevOps practice for Micro Service and docker based cluster using Kubernetes and spinnaker as Orchestrator on application development for cloud platforms using like Spring boot, Microservices.
+Building/Maintaining Docker container clusters managed by AWS, Linux, Bash, GIT, Docker. Utilized Kubernetes kops cluster and Docker for the runtime environment of the CICD system to build, test deploy.
+Automated Various infrastructure activities like Continuous Deployment, Application Server setup, Stack Monitoring using Ansible Playbooks and integrated Ansible with Jenkins also provisioned and patched servers using Ansible.
+Used monitoring tool like Dynatrace, Splunk, Nagios, Configured, and Managed Monitoring Tools such as Nagios for Resources Monitoring/Network Monitoring/Log Trace Monitoring.
+Proficient knowledge with Helm charts to manage and release of helm packages.
+Expertise with Docker images using a Docker file, worked on container snapshots, removing Images and managing Docker volumes.
+Orchestration of Docker images and Containers using Kubernetes by creating master and node.
+Good experience in writing Helm Charts, Kubernetes yaml files for deployment of microservices into Kubernetes clusters.
+Experienced in designing and implementing Azure cloud solutions using IAC/ARM templates, AKS (Azure Kubernetes Service), and ADO (Azure DevOps) CI/CD pipelines.
+Proficient in Azure SQL database development/programming, creating stored procedures and managing database environments.
+Skilled in designing and implementing data pipelines with Azure Data Factory, utilizing scheduled and blob storage event triggers.
+Extensive experience in application development using SQL Server databases for backend integration and API development.
+Strong backend development skills in Java, with proficiency in integrating user-facing elements using Node.js.
+Proficient in frontend development with Angular/React/JavaScript/HTML, integrating front-end and back-end elements.
+Experienced in API management with AWS, creating APIs using Python and Node.js for various applications.
+Familiar with SCD (Slowly Changing Dimension) SQLs and managing data transformation projects.
+Expertise in writing complex SQL queries and managing databases like MySQL, PostgreSQL, and MongoDB.
+Experienced in T-SQL development, writing queries and stored procedures for various applications.
+Proficient with SDLC tools such as Jira, Confluence, and Jenkins, supporting full SDLC processes.
+Extensive experience working in Agile methodologies and DevOps environments, implementing CI/CD pipelines and adhering to Agile practices.
+
+TECHNICAL SKILLS:
+Cloud Environments
+AWS, Azure, Google Cloud (GCP), Confluent Cloud, Kafka
+Operating Systems
+Red Hat Linux, CentOS 6 & 7, Ubuntu12.x, 13.x, 14.x, Windows 98, Vista,
+Windows Server 2003, 2008, 2012, VMware ESX and Mac OS.
+Web/ Application Servers
+Apache Tomcat, WebLogic, JBoss 5.x/6.x/7.x, Web Sphere Administration, IIS and Nginix
+Web UI (Angular/React/JavaScript/HTML), JAVA, API Technologies,
+
+Databases
+MySQL, Oracle, MySQL, Mongo DB, PostgreSQL, RDS, Elastic ache, Azure SQL database development/programming, T-SQL, SCD SQLs, Complex SQL
+Version Control Tools
+Subversion, TFS, GIT, GITHUB, SVN, Bitbucket.
+Configuration Management
+Ansible, Chef, Puppet, Atlassian
+CICD Tools
+Cloud Bees Jenkins/Hudson, GITHUB Actions, GitLab, Maven, SonarQube, Urban code
+Deploy (uDeploy), Azure Data Factory
+Container Tools
+Kubernetes, Docker, OpenShift
+Monitoring Tools
+Dynatrace, Grafana, Nagios, Splunk, AWS cloud watch, ELK, Azure Monitor
+Scripting Languages
+Ruby, Python, Golang, groovy, Unix Shell scripting, Node JS, XML, HTML, JAVA, JEE,
+JavaScript, Angular JS, Power Shell, JSON, YAML, AWS Lambda.
+Bug Tracking & Testing tools
+JIRA, J Unit, Selenium.
+Networking
+TCP/IP, NFS, DNS, VPN, DHCP, WAN, HTTP, LAN, FTP/TFTP, VMware
+nexus switch, IP Networking, F5 load balancer.
+
+PROFESSIONAL EXPERIENCE
+Senior Azure DevOps Engineer
+Clover, Sunnyvale, CA Jan 2022 - Till date
+Responsibilities:
+Primarily responsible for designing and implementing the architecture to migrate the data from on premises to Azure cloud.
+Working closely with Data Engineering team on Azure Data Factory to design and implement data pipelines.
+Created ADF data pipelines and implemented scheduled and blob storage event triggers to load the data from multiple data sources.
+Collaborating with data engineers and python developers to develop python notebooks for Azure Databricks and deploy into multiple environments.
+Developed python notebooks to run in Azure data bricks environments.
+Created Azure storage accounts and created containers to store data.
+Implemented containerized based applications on Azure Kubernetes by using Azure Kubernetes service (AKS), Kubernetes Cluster, which are responsible for cluster management.
+Created the Azure Kubernetes cluster in different environments like Dev, Prod and Sandbox from scratch and configured the network settings.
+Designed and implemented the entire Network architecture in Azure cloud by creating VNets, Subnets and Network Security Groups (NSG).
+Created IAC/ARM templates and deployed into Azure portal using ADO CICD pipelines.
+Integration of user facing elements developed by Front end team with serve side logic using Node.js.
+Virtual Network to deploy agent nodes, Ingress API Gateway, MySQL Databases and Cosmo DB for stateless storage of external data, and setup reverse proxy Nginx in the cluster.
+Authored new suite of disaster recovery procedures covering a wide variety of scenarios including planned and unplanned failovers for critical machine-to-machine management console platform.
+Designed and implemented Azure cloud solutions using IAC/ARM templates and Azure Kubernetes Service (AKS).
+Developed Azure SQL databases, created stored procedures, and managed database environments.
+Implemented data pipelines with Azure Data Factory, utilizing scheduled and blob storage event triggers.
+Integrated user-facing elements with server-side logic using Node.js for backend services.
+Designed and implemented frontend applications using Angular/React/JavaScript/HTML.
+Implemented and managed CI/CD pipelines using Azure DevOps, and administered various Azure services like ADF, Logic Apps, Blob Storage, ADLS, and Key Vault.
+Managed Databricks workspaces, Unity Catalog, and volumes.
+Used Terraform for infrastructure provisioning and management.
+Utilized Git and GitHub Actions for version control and CI/CD processes.
+Set up and maintained CI/CD pipelines for automated deployments.
+
+Senior Azure Kubernetes/DevOps Engineer
+Cisco Systems, San Jose, CA March 2019 – Dec 2021
+Responsibilities:
+Working as Kubernetes Administrator, involved in configuration for web apps, Azure App services, Azure Application insights, Azure Application gateway, Azure DNS, Azure traffic manager, App services.
+Created Clusters using Kubernetes and worked on creating many pods, replication controllers, replica sets, services, deployments, labels, health checks and ingress by writing Yaml files.
+Primarily responsible for implementing containerized based applications on Azure DevOps and Kubernetes by using Azure Kubernetes service (AKS) Kubernetes Cluster, which are responsible for cluster management.
+Managed Kubernetes charts using Helm and created reproducible builds of the Kubernetes applications, templatize Kubernetes manifests, provide a set of configuration parameters to customize the deployment and Managed releases of Helm packages.
+Using Docker and Kubernetes heavily to manage micro services for development of continuous integration and continuous delivery.
+Designed and developed the automated deployment and scaling processes based on Docker and Ansible for all the services.
+Have built Elastic search, Log Stash, Kibana (ELK) for centralized logging and then store logs and metrics into S3 bucket using Lambda functions.
+Installed and configured NGINX for the running services.
+Managed host Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise.
+Managed local deployments in Kubernetes, creating local sandbox cluster and deploying application containers.
+Using Kubernetes to orchestrate the deployment, scaling and management of Docker Containers.
+Responsible for creating the namespaces, fixing the broken clusters for different teams.
+Designed and implemented automation deployment using Urban Deploy code to promote major releases, monthly releases and patches from Development, Integration, Staging/UAT and Production.
+Creating JIRA confluence articles for recent development performed, POC and tech designs.
+Worked on the Service now form enhancements for AKS Namespace, AKS RBAC, AKS Key Vault services.
+Installed, configure, test, monitor, upgrade, and tune new and existing PostgreSQL databases.
+Proficient in Python, Shell Scripting, Terraform, SQL.
+Deployed Postgres SQL, Ansible AWX into a specific namespace by supporting the Ansible AWX team.
+Created JSON pay load to run a Jenkins job for the deployments into a Kubernetes cluster.
+Focused on Kubernetes expertise, Docker deployments, and CI/CD pipelines.
+Managed Kubernetes deployments and orchestrated Docker containers using Helm charts.
+Implemented CI/CD pipelines for microservices using Docker and Kubernetes.
+Managed and optimized SQL databases including MySQL, PostgreSQL, and MongoDB.
+Implemented T-SQL queries and stored procedures for various applications.
+Utilized Microsoft Azure Services extensively for application deployment and management.
+Administered Azure services including ADF, Logic Apps, Blob Storage, ADLS, and Key Vault.
+Designed and implemented CI/CD pipelines using Azure DevOps and Jenkins.
+Worked extensively with Git for version control and integrated GitHub Actions for CI/CD.
+Managed infrastructure as code using Terraform for Azure resources.
+Worked with Databricks, managing workspaces and Unity Catalog.
+Automated deployment and scaling with Docker and Ansible.
+Logging and metrics storage with ELK and AWS S3 and PostgreSQL database management.
+ServiceNow form enhancements for AKS Namespace, RBAC, and Key Vault services.
+Python, Shell Scripting, Terraform, and SQL proficiency.
+Environment: Azure, Terraform, Jenkins, Kubernetes, PostgreSQL, Docker, Spark Data Frame AP, Azure, Ansible, Jira, Confluence, PowerShell Windows, IIS, Python, Splunk, Grafana, Prometheus, Twist lock, Istio, Jenkins, git, Ansible.
+AWS/Azure Cloud Engineer
+Verizon, Irving, TX July 2018 – Feb 2019
+Responsibilities:
+Administrating and supporting company’s AWS and Azure Kubernetes infrastructure, ensuring it is secure, resilient and performance and responsible for complete DevOps activities and coordinating with development team.
+Installed, configure, test, monitor, upgrade, and tune new and existing PostgreSQL databases.
+Worked with API management with AWS API to manage resources on AWS for many services such as EC2, S3, VPC, Cloud watch, created python script using AWS API Calls to manage all resources deployed on AWS.
+Responsible to configure alert notification to monitor CPU metrics, VM health’s and events logs.
+Deployed VNETs and site-site VPN using PowerShell and deployed VMs into various subnets and enabled communications between subnets.
+Configured Amazon S3, Elastic Load Balancing, IAM and Security Groups in Public and Private Subnets in VPC, created storage cached and storage volume gateways to store data and other services in the AWS.
+Worked on Amazon EC2 setting up instances, virtual private cloud (VPCs), and security groups and created AWS Route53 to route traffic between different regions and used BOTO3 and Fabric for launching and deploying instances in AWS.
+Responsible for estimating the cluster size, monitoring, and troubleshooting of the Spark data bricks cluster.
+Developed PowerShell scripts and ARM templates to automate the provisioning and deployment process.
+Gathered Client requirements and converting them into the Technical Specifications and developed Web forms using C#.NET.
+Successfully created Kubernetes pipeline of deployment & operation activities where all code is written in Java, C#, python & stored into bitbucket, for staging & testing purpose.
+Developed customer facing web application using ASP.NET 4.0 C# and convert to XML data file.
+Implemented cluster services using Docker and using AWS ECS and Kubernetes services (EKS) to manage local deployments in Kubernetes by building a self-hosted Kubernetes cluster using Jenkins CICD pipeline.
+Experience in infrastructure as a code using terraform & Azure ARM templates.
+Worked closely with the cloud teams to build and deploy VM’s using Open stack and VMware.
+Familiar with helm charts for deployment manager to use of charts and templates for listed file names.
+Experienced working in Istio installation to enable Node to Node encryption on Azure Kubernetes service for Security requirement that intercepts all network communication between micro services.
+Implemented Twist lock for rule-based access control policy system for Docker and Kubernetes containers to scan monitor events, runtime, vulnerabilities, Compliance for containers, images, Hosts, Registry, Jenkins Jobs.
+Managed SDLC processes with tools like Jira, Confluence, and Jenkins.
+Implemented CI/CD pipelines for applications using Python, Node.js, and Docker.
+Developed and supported middleware solutions including API Management and IT Service Automation tools.
+Configured and managed various Azure services.
+Implemented CI/CD pipelines using Jenkins and Azure DevOps.
+Employed Git for version control and integrated with CI/CD tools and provisioned infrastructure using Terraform.
+Administered Databricks workspaces and volumes.
+
+Environment: Azure, Terraform, Jenkins, Kubernetes, PostgreSQL, Docker, Spark Data Frame AppAssure, Datadog, Jira, Confluence, PowerShell `Windows, IIS, Python, Splunk, Grafana, Prometheus, Twist lock, Jenkins, git, Ansible.
+AWS DevOps/SRE Engineer
+Mastercard, St Louis, MO Aug 2017 – June 2018
+Responsibilities:
+Experience in creating the company's DevOps strategy in a mix environment of Linux (RHEL, Ubuntu, CentOS) servers along with creating and implementing a cloud strategy.
+Represent the SRE organization in design reviews and operational readiness exercises for new and existing services.
+Experience in migrating on-premise data center to AWS cloud using VM Import/Export, AWS Data Migration Services.
+Configured Jenkins as a build engine to build and deploy applications to DEV, QA, UAT and PROD environments.
+Perform periodic on-call duty as part of the SRE team.
+Build and deployed Docker images on AWS ECS and automated CI/CD pipeline.
+Used AWS CLI to suspend an AWS Lambda function processing an Amazon Kinesis stream, then to resume it again.
+Experienced on Docker and Ansible to build automation pipeline and Continuous Deployment for code using Jenkins and wrote Ansible Playbooks to automate AWS services like launching EC2, Provisioning IAM, Ansible Servers using YAML scripting.
+Extensively Worked on Docker service rolling updates to implement zero downtime PROD deployments and worked with Docker Trusted Registry as repository for our Docker images and worked with Docker swarm.
+Installed and deployed VMware ESX containers for the VMCloud and VSphere.
+Developed backup and recovery engine for VM backup/recovery using VMware vSphere APIs, Golang programming language also Contributed source code in Golang to developing an automation framework.
+Developed and implemented DevOps strategies in AWS environments.
+Managed SQL databases and developed T-SQL queries and stored procedures.
+Experienced with Microsoft software administration, including Windows Server and related tools.
+Supported and managed Azure environments.
+Developed and deployed CI/CD pipelines using Jenkins and Azure DevOps.
+Utilized Git and GitHub for version control and CI/CD and implemented infrastructure as code with Terraform.
+Experienced with Databricks, managing various aspects of the platform.
+
+Environment: Azure, Aws, Docker, Swarm, Jenkins, Ansible, Jira, GCP, Confluence chef, Git, Lambda, Git-Hub, Maven, PowerShell Windows, Terraform, SRE, JIRA, Apache Tomcat, Shell Script, Python, Linux, Dynatrace, Splunk.
+
+DevOps/Cloud Engineer
+SP Soft (Hyderabad), India June 2013 – Dec 2015
+Responsibilities:
+Experience in using Cloud Infrastructure management and Implementation Working experience on various Azure services like Compute (Web Roles, Worker Roles), Azure Websites. Caching, SQL Azure, NoSQL, Storage, Network services, Azure Active Directory, Scheduling, Auto Scaling, and Power Shell Automation.
+Extensive working experience with different SDLC methodologies such as Agile and Waterfall with an ability to be creative and to take self-initiatives to execute/manage multiple projects in parallel during time critical situations.
+Deployed Azure IaaS Virtual Machines (VM’s) and PaaS role instance`s (Cloud Services) into secure VNets and subnets, designed VNets and Subscriptions to confirm to Azure Network Limits.
+Experience in migrating on-premise data center to Aws cloud using VM Import/Export, Aws Data Migration Services.
+Maintained the user accounts (IAM), Cloud SQL, Cloud DNS, VPC, RDB, Cloud Datastore Cloud Bigtable, SQS and Cloud Pub/Sub services in Aws.
+Designed and implementing Aws Cloud Infrastructure by creating templates for Aws platform also used Terraform to deploy the infrastructure necessary to create development, test and production environments.
+Configured Jenkins as a build engine to build and deploy applications to DEV, QA, UAT and PROD environments.
+Configured in setting up CI/CD pipeline integrating various tool with Cloud Bees Jenkins to build and run Terraform script templates to create infrastructure in Azure.
+Worked on Power Shell scripts to automate the Azure Cloud system in creation of Resource groups, Web Applications, Azure Storage Blobs & Tables, firewall rules and used Python scripts to automate day to day administrative tasks.
+Experienced managing release planning and branching strategy of GIT servers and worked on creating repositories in GIT Stash for multiple applications configured GIT repositories in CI setup in Jenkins and Injected Groovy scripts in Jenkins for dashboard and customized email triggers.
+Experienced on Docker and Ansible to build automation pipeline and Continuous Deployment for code using Jenkins and wrote Ansible Playbooks to automate Ansible Servers using YAML scripting.
+Managed cloud infrastructure on AWS and Azure, deploying IAC with Terraform.
+Implemented and supported middleware solutions including batch job services.
+Proficient in Linux administration, including Red Hat and Ubuntu.
+Set up CI/CD pipelines using Jenkins and Azure DevOps.
+Worked with Git for version control and integrated with CI/CD pipelines.
+Extensive experience with Databricks, handling workspaces and Unity Catalog.
+
+Environment Azure, Aws, Docker, Swarm, Jenkins, Ansible, Jira, Confluence, Git, Git-Hub, Maven, MySQL, PowerShell Windows, Terraform, JIRA, SRE, Apache Tomcat, Shell Script, Python, Linux, Dynatrace, Splunk.
+
+EDUCATION
+
+MASTER’S IN COMPUTER SCIENCE FLORIDA STATE UNIVERSITY, TALLAHASSEE, FL 2015- 2017
+BACHELOR’S IN COMPUTER SCIENCE JNTUH, INDIA 2009-2013
+Contact this candidate

@@ -1,0 +1,194 @@
+RICHARD BRANDT
+Denver, CO
+ad7gyt@r.postjobfree.com mailto:ad7gyt@r.postjobfree.com
+Phone 1-312-***-****
+
+QUALIFICATIONS PROFILE
+Solutions-oriented Development Manager/Technical Lead for large-scale rollouts, offering broad-based IT background within banking, finance, telecommunications, retail, and other industries.
+* Able to successfully identify root causes and resolve complex issues.
+* Integrate multi-sourced components into functioning systems.
+* Well-versed in all aspects of scaling software and systems into production, possess project experience within both development and management sides.
+* Excellent communicator, author of feature articles for professional IT journals.
+
+CORE COMPETENCIES:
+* Enterprise monitoring using ITCAM, ITM, NETCOOL, Datadog, CA Spectrum, Dynatrace
+* Large scale Deployment skills using various deployment methodologies
+* Web based and Client/Server Applications and Languages
+* Database Deployment (Tuning, replication, distributed sync, backup)
+* Reporting and visualization using COGNOS, KIBANA
+TECHNICAL BACKGROUND
+Platforms: Windows 10, LINUX, Websphere V8.5(WINDOWS, AIX, LINUX), VMWARE virtual machine, Microsoft Hypervisor, Amazon Cloud(AWS)
+
+Databases: Oracle through 11.2, DB2 UDB through V10.5, MYSQL, Microsoft SQL
+
+Languages and major packages: C/C++, Java, SQL, T-SQL, PL/SQL, LINUX Shell, PYTHON, PERL, MQSERIES, COGNOS reporting tool, Google map API
+
+Java related: Java Messaging Service, Java Advanced Imaging, Java Native Interface, SWING, Java Api for XML(JAX-WS,JAX-RPC,JAXP),IBM Tivoli Composite Application Manager
+
+IDE, Version Control, Deployment Tools: ECLIPSE, GIT, Ansible
+
+Web Related Technologies HTML, XML, SOAP, WSDL, JavaScript, JSP, STRUTS, Tivoli ITCAM, AJAX,REST
+
+Analytics and Statistics: SPSS, ESPER complex Event Processing
+
+Monitoring Technologies: Tivoli ITM through 6.3, ITCAM, NETCOOL/OMNIBUS 8.1, IMPACT,NAGIOS XI, Datadog, CA Spectrum, SPLUNK, Dynatrace
+
+Reporting: COGNOS through version 11.2, COGNOS Framework Manager, DB2 through version 10.5, Oracle through version 11.2, Elasticsearch, Kibana, Logstash
+
+Application Performance Monitoring: Applied ITM and ITCAM for APM at several large corporations around the world for IBM. Applied APM and synthetic transactions at CNA Insurance, US Cellular, and GOGO. Applied APM at Faurecia and Harris for NASA/NOAA Weather satellite product production. Total APM/synthetic transactions experience greater than 8 years.
+
+PROFESSIONAL EXPERIENCE
+
+Ford Motor Company Dearborn, MI - 06/22 - Present
+
+Ford Motor uses Netcool as the monitor of monitors for its alerting and correlation logic. Alerts are gathered from more than 20 different sources. The alerts are available for operator review from several Netcool displays. Alerts are also sent to Remedy for ticket production and management. Most of the logic for Netcool is implemented in Impact Policies. I assist in the maintenance of those policies.
+
+In addition IBM Tivoli Monitoring (ITM) is being replaced by Dynatrace as the EMS monitoring all Netcool servers. I implemented the Dynatrace monitoring for the Netcool servers.
+
+Charter Communications Greenwood Village, CO – 06/21 – 06/22
+
+Charter Communications provides internet connectivity nationwide. We use Netcool, CA Spectrum, Datadog, and OP5 to monitor over 400,000 endpoints in our nationwide network. I work as a Netcool engineer changing the Netcool configuration rules on a weekly basis as new equipment is added and old equipment is deleted. I also am part of the on call rotation for problems that come up out of business hours.
+
+CLS Bank (Contracted by IBM) – 01/21 - 06/21
+Working on a sustainability team to monitor the servers and network for CLS Bank. They handle a large portion of the funds transfers between several different currencies. This is a 24/7 multi site installation using various IBM tools to guarantee maximum availability.
+
+Harris 09/15 – 09/20
+
+Worked as an SME for Netcool/Omnibus V7.4 and Tivoli Common Reporting/Cognos 10.2. These products are being used to monitor ground stations for weather satellites which will be flown later this year as part of the NASA/NOAA GOES-R weather satellite project. The ground stations process data streams that are analyzed and sold to various customers as products. Some of the SLA requirements are in the 5 second range.
+
+IBM 05/15 – 09/15
+IBM Tivoli Monitoring SME
+
+Worked remote for IBM on several ITM 6.3 deployments. IBM operates a shared environment that gathers monitoring information from several accounts and sends the alerts to a shared Netcool environment. I am working on the deployment of agents, RTEMS, situations, and other activities related to transitioning customers to the shared environment.
+
+Faurecia 02/15 - 05/15
+
+World Wide Rollout of Tivoli monitoring stack and Netcool/Omnibus
+
+Faurecia is a manufacturer of automobile part for various new car manufacturers. They have 300 manufacturing locations around the world. They have established a center of competence for Tivoli products in the Czech Republic. I have been in the Czech republic helping to move a Windows based proof of concept based on Netcool 7.4 to the Linux environment based on Netcool 8.1 in preparation for a world wide rollout. This has involved installation of the Tivoli monitoring product as well as the Netcool/Omnibus and Impact products. User presentation is based on JazzSM using the DASH server. The project involves a lot of custom presentations and several custom monitoring agents. The product will be used to replace a large Nagios based monitoring system that is used to control Just In Time manufacturing of interior parts and exhaust systems.
+
+First Data 06/14 - 01/15
+Enterprise Monitoring/Event Reporting
+
+The First Data Enterprise monitoring team is headquartered in Omaha, Nebraska. Members of the team are located in FDC offices around the world. I am located in the FDC office in the Chicago, IL area. First Data has just finished refreshing a large Netcool/Omnibus installation to version 7.4. This involved building a group of 40+ servers with various parts of the Netcool/Omnibus suite. As part of the refresh, several home grown reports based on scripts and BIRT specifications were converted to Cognos 8.4. I am functioning as the Netcool/Omnibus/Impact subject matter expert for FDC. Netcool is used as the console to consolidate alerts from a number of other products at FDC. First Data processes a large portion of all credit card transactions world wide.
+
+IBM 12/13 - 06/14
+Enterprise Monitoring Solutions Lab (EMSL)
+
+The EMSL organization is located in the Global Delivery Center at Dubuque, Iowa.
+I am working as a remote contractor from the Chicago, IL area. I am a Subject Matter Expert
+supporting the deployment and use of the IBM Tivoli Composite Applications Monitoring (ITCAM)
+product suite. We deploy application diagnostics for websphere, Transaction tracking, Robotic transactions and SOA monitoring. We also provide a reporting infrastructure for the ITCAM products if the customer wants to use it.
+
+GOGO 03/13 – 12/13
+Tivoli Monitoring and Network Performance Reporting Engineer
+
+GOGO supplies wifi connections to commercial airlines. Their sister company, AIRCELL, supplies wifi connections to private aircraft. We are also working to supply movies, text, and voice service.
+
+I am the reporting lead for network performance metrics. We use BIRT and COGNOS to mine data from DB2, SQL, MYSQL, and INFORMIX databases. I am also the focal point for Tivoli Netcool Performance Manager implementation.
+
+US Cellular 06/12 – 03/13
+Tivoli Monitoring Architect and Implementation Engineer
+
+U.S. Cellular® has selected the Tivoli product suite for enterprise monitoring. Tivoli will replace Sitescope, NetIQ, True Sight, and a variety of other monitoring products in legacy systems. In addition U.S. Cellular® is rolling out a new system covering sales, billing, customer care, etc. Tivoli is being rolled out with the new system to do health monitoring and application monitoring. We have implemented Netcool/Omnibus with Impact, Remedy Integration, and a full set of ITM (IBM Tivoli Monitoring). We monitor around 300 different applications, 50 large Oracle databases, and over 100 weblogic application servers hosted on 1,500 servers that are a mix of linux, AIX, and Windows.
+
+We use Cognos/TCR for reporting and Netcool/Omnibus as our MOM. The Omnibus layer is used for the Remedy interface, email alerting, and integration OEM, SNMP, and Ping Probes.
+
+CNA Insurance 08/11 – 06/12
+OS/2 and DB2 performance improvement
+
+The IT infrastructure at CNA Insurance has been outsourced to IBM. CNA has a legacy application that runs under OS/2 using an outdated version of DB2. This application now runs under PC Virtual and is moving to PC Virtual presented by CITRIX. There are some performance problems related to this which I am working to eliminate. Basically, we are replacing individual copies of DB2 for each user session with a central DB2 database. This database will be deployed under OS/2 at first. After that deployment we will move it to Windows or AIX.
+
+IBM Delivery Center Central Europe Brno, Czech Republic 11/09 – 07/11
+Focal Point Tivoli TADDM team and level 2 support ITM and ITCAM for transactions
+
+The IBM Delivery Center serves customers all over Europe. The Tivoli team provides remote monitoring support for these customers. The monitoring support is provided via shared environments that service a large number of customers. Total servers monitored exceeds 10,000. We provide support for the full line of Tivoli products. My involvement is concerned with the TADDM, ITM 6.2, and ITCAM for transactions products. We instrument servers, monitor and send alerts to a central command center, and develop transaction monitoring scenarios. We also maintain several large DB2 V9.5 databases that store historical metrics and are used provide a few hundred different dashboard style reports based on SQL queries and the BIRT reporting tool.
+
+SURNA, INC. 11/09 – 6/10
+Developer for open source project for a computer related start up
+
+During the first 8 months of my stay in Brno, I developed an open source project called GCEP after work hours. GCEP was a project that extended the ESPER Complex Event Processing engine in order to process geospatial information. We produced the extension libraries in Java and a simple geo fencing demo using the Google Map API and AJAX libraries in Java Script.
+
+CNA Insurance 06/08 – 08/09
+Contractor Enterprise Production Monitoring
+
+Implemented ITCAM and ITM 6.2 monitoring for the CNA Enterprise. The CNA ITCAM/ITM is integrated with Openview as the coordinating monitoring framework. Websphere application server JVM’s, MQ queues, and message brokers are monitored with ITCAM/ITM. The agent inventory is greater than 1,000 agents. Historical data from the agents is kept in a large DB2 datrabase and used for capacity and forecasting reports based on the BIRT reporting tool.
+
+IBM Corporation 04/06 – 06/08
+Sr. IT Specialist Composite Application Manager
+IBM Tivoli ACE(Application Calibration Experts) Team Member
+
+As a member of the ACE team, I was deployed worldwide to help large corporations solve performance problems related to web applications. We provided installation and tuning support for the IBM Tivoli Composite Application Manager for Websphere and Weblogic products. We also provided support for IBM Tivoli Monitoring products and for ITCAM for Response Time Tracking products. We participated in troubleshooting and fine-tuning Websphere and Weblogic applications on Windows, AIX, UNIX, and Mainframe platforms. I was involved in critical situation and tuning support for some of the largest web application rollouts in the world.
+
+During 2008, I spent three months in France instrumenting large Weblogic installations for production monitoring. This involved modifying start up scripts and configuring agents for JMX instrumentation on Windows 2000/2003 and AIX installations. I worked with three large customers. The total number of Weblogic instances that were instrumented was greater than 1,000.
+
+During my time with IBM, I was also deployed to several locations in the USA and Europe to present technical enablement “deep dive” classes in the use of ITCAM and ITM products. I developed all of the course materials and the lab exercises to support these classes.
+
+Asia Payment Systems, Shenzhen, China 04/05 - 03/06
+Chief Technology Officer
+
+Environment: Clustered servers running Windows 2003 Server, IIS, MS SQL Server 2000, with .NET framework. Communications protocols supported SOAP, HTTP, Sockets, ISO8583
+
+During my term as CTO at Asia Payment Systems, the original software created for the Japanese market has been extended to Singapore, Thailand and China. In addition, e-commerce function has been added to the current card present function.
+
+AS CTO, I was charged with providing the technical vision for Asia Pay. In addition, I was charged with initial delivery and operation of data centers in Japan, Singapore, China, and Thailand.
+
+CNA INSURANCE, Chicago, IL 12/04 - 03/05
+Systems integrator/Analyst
+
+Environment: Windows XP, IBM OS/2, APPC(LU6.2), DB/2 V2.1, DB2 UDB V8, SVISTA, Windows 2003 Server, Citrix
+
+The Tailored Account Program (TAP) at CNA is a mission critical system that runs on OS/2. Currently, CNA has an OS/2 workstation and an XP workstation on every desk that needs the TAP program. A proof of concept was created around a virtual operating system from SVISTA. The model involved using the XP machines as the host for SVISTA which ran OS/2 as a guest operating system. In this way, the extra OS/2 workstation could be eliminated.
+
+BLACK DIAMOND DATA/ASIA PAYMENT SYSTEMS, China 4/04 - 11/04
+
+Environment: Microsoft Visual Studio .NET 2003, Windows Server 2003, MS SQL Server 2000, C#, C++, Windows Forms, MSMQ, XML, SOAP
+
+As part of a three man team, designed and coded all of the database access and all of the XML processing code for a system which receives credit card sales information from cash registers via XML and processes these transactions through GPNET, a Japanese credit card processing network.
+The system produced 3 second response time which was far better than the competition in Japan. In addition, it allowed retailers to interface from their existing cash registers, saving expensive equipment upgrades.
+
+TITAN CORPORATION Kingdom of Saudi Arabia 5/03 - 12/03
+Team Lead Saudi Arabian National ID Card System
+
+Environment: Windows XP, IBM Mainframe, Canon Powershot Camera, Smart Chip running MULTOS, Fargo Id Card Printer, Laser strip encoder, JAVA, SWING, WSAD, Websphere 5.0, DB2, MySQL, JMS, JNI, Java Advanced Imaging, JSP, Struts, Servlets, JavaScript, CICS
+
+As the leader of a six man team, designed and produced a new National ID System for the Kingdom of Saudi Arabia. This system involved both National IDs for all male citizens over the age of 15 and Family Cards for Heads of Households. The National IDs include the capability to store personalized data on individuals (and family data if applicable) on Smart Chips using MULTOS and Laser Strip holograms for the picture, name, and National ID Number. This project included both software and hardware distribution to over 85 sites throughout the Kingdom. It is expected that 10 million cards will be issued
+over the next three years by this system.
+
+The system was delivered on time and on budget. Part of my function was to create and monitor the project plan for both software development and hardware deployment. I also gathered user requirements from the Saudi customers. This included their requirements for the Arabic language GUI.
+
+Jobs not related to IT
+Assistant Professor at Michigan State University
+Assistant Dean at California State University Dominguez Hills
+Director of New Product Development at a major controlled access company
+
+EDUCATION
+Doctorate in Administration of Higher Education, Michigan State University
+
+Master's Degree in Community School Leadership, Eastern Michigan University
+
+Bachelor's Degree in Sociology and Psychology, Houghton College
+
+ITIL Foundations certified
+
+IBM Courses/Badges
+
+IBM Cognos 11 Cloud Training
+Python
+Artificial Intelligence Concepts
+Containers and Kubernetes Essentials
+Data and AI Essentials
+App Security and Threat Modeling
+Microservices Architect
+Pipleline Builder
+Serverless Innovator
+IBM Netcool OMNIbus 8.1 Administration and Maintenance
+IBM Netcool Operations Insight 1.6 - Implementation and Configuration
+
+PUBLICATIONS
+Feature articles in AS/400 Client/Server Today and AS/400 Connectivity Expert
+Several published articles on the subjects of Distributed Database Design, SQL techniques, use of various communications protocols, and Internet services use.
+
+- Excellent References Available Upon Request -
+RICHARD BRANDT
+Contact this candidate

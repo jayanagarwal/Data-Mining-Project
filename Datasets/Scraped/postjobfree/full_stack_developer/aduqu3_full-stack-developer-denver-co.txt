@@ -1,0 +1,87 @@
+Katherine Kent
+Westminster, CO *****
+aduqu3@r.postjobfree.com
++1-303-***-****
+GitHub: k4tiek3nt
+Work Experience
+Full Stack Developer
+Revature
+May 2022 - October 2022
+Project 3: Full Stack Library of Wonders - Library MVC App that allows users to register, login, search books, view their checked out items as well as events and about us info. (Team Project)
+● Worked as Team Lead
+● As a team worked to develop both front-end and back-end functionality
+● Created Stored Procedures to assign Book ID Number (bookIdNo) and a location in library
+● The Book ID Number allows book to be checked out
+● A future improvement would be to allow books to be reserved and/or checked out online and picked up at the physical library
+● Created After Insert Triggers, when new book is added automatically gets assigned Book ID
+● Assisted with integrating HTML and CSS template into MVC Environment / Technologies: Asp.Net Core MVC, ASP.NET Core Web API, Sql Server, HTML, CSS, jQuery
+Project 2: FIFA Web API - Web api which allows users to view 32 teams participating in the FIFA world cup,including all players for each team. Users can add, update, or delete team and/or team players as well as search for a player by name to view details about the player (i.e. team, position, jersey number, etc.). (Solo Project)
+● Built Database and tables in SSMS
+● Built WebAPI in Visual Studio with CRUD operations for both teams and players - this included classes and controllers for both
+● Populated 32 teams and 765 players using both SSMS and WebAPI
+● SSMS allowed me to confirm direct input was allowed and functioned as expected
+● WebAPI allowed me to confirm my crud operations worked
+● Learned how to alter, copy, and merge tables in SSMS for this project
+● Applied error handling through both methods in the classes and try,catch blocks in controller
+● Created Presentation Powerpoint and presented
+Environment / Technologies: Web API, ASP.NET Core Web API, ADO.NET, Sql Server, Swagger, REST Project 1: Online Banking Application - This project is based on a real world banking system. The application allows login for Admin and Customer. Admin can create new accounts, enable or disable locked accounts, transfer funds, view balance, and view all customer transactions. Customers can view balance, perform a transfer, view last transactions, and change their password. This works similar to an ATM system. (Solo Project)
+● Built Library in Visual Studio
+● Includes all methods, some logic, all properties and some error handling
+● Built Main App in Visual Studio
+● The main App had the rest of the logic, implementation of methods, remainder of error handling and variables that passed to the properties in the library as well as objects that assisted in calling the methods in the library
+● Built in the ability to have more than one account for each user (Bonus Feature)
+● Multiple accounts:
+● Withdrawal, deposit, and balance inquiry require selecting an account based on logged in user.
+● Transfer requires selecting an account based on logged in user
+● Must start from any account they own but then can deposit to any existing account in the system.
+● One account:
+● Transfer requires inputting an account to transfer to, starting account is automatically the single logged in account
+● All other options (withdraw, deposit, balance inquiry) automatically use the single logged in account
+● Tested that all functionality worked as expected
+● Admin had access to all the correct menu options and each functioned as expected
+● User had access to all the correct menu options and each functioned as expected
+● Created Presentation Powerpoint and presented
+Environment / Technologies: ADO.NET, C#, Sql Server Product Specialist
+TransFirst - Broomfield, CO
+January 2006 to November 2015
+● Tier 4 Escalated Support
+Troubleshoot internal and customer identified issues via support tickets, email, or phone
+Responsible for testing for reported issue(s) and determining the fix and reporting back in a timely manner.
+● Research and development
+Learned details of software and/or hardware product
+Tested for product releases
+Worked with vendors to correct any found errors in software
+● Knowledge Base content creation and maintenance on Share Point
+Create and maintain internal and external documentation on software and hardware for both informational and technical support
+Trained all departments on any new or updated content
+● Training on new products and bug fixes
+Technical training for end users on the functionality and capabilities of software and/or hardware (i.e. new credit card machine or pin pad) as well as known errors and their solution.
+Assisted as the technical expert with product demos for any and all impacted departments.
+● Vendor relations
+First point of contact to research unplanned outages.
+■ Created timely notification for help desk reps on outages that includes time outage started, reason for outage and expected resolution time frame with updates as they are received to keep merchants informed on why product is unable to process cards including which networks are impacted (i.e. Visa and MC vs EBT and Debit)
+Created and maintained notifications for all known outages due to network maintenance on company wide accessible calendar that also fed to rss for external support such as sales reps in the field
+● SQL Database
+Creation and maintenance of all tables that contained software and hardware, which feed into auto build software for new and existing merchants
+● Cross-trained on collections, data entry, and billing Education
+Revature
+Tech Stack: .Net Full Stack Developer
+May 2022 to October 2022
+Associate's degree in Architectural Drafting with AutoCAD Westwood College of Technology Denver - Westminster, CO October 1999 to June 2001
+High school diploma
+Westminster High School - Westminster, CO
+August 1995 to May 1999
+Certifications
+Relational Database
+freeCodeCamp.org
+Developer Certification, representing approximately 300 hours of coursework. November 2022 to Present
+Skills
+Drafting with AutoCAD
+Research & Development
+Blueprint Reading
+Quality Assurance
+Microsoft Products (Outlook, Excel, Access, PowerPoint, Word, MS SQL) Product Development
+Training
+Full Stack Developer
+Technical Support
+Contact this candidate

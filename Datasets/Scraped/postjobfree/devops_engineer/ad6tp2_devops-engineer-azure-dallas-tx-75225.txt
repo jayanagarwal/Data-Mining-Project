@@ -1,0 +1,97 @@
+Vinay Chetlapally
+Phone: 469-***-****
+Email ID: ad6tp2@r.postjobfree.com
+Systems & Infrastructure/DevOps Engineer
+
+Professional Summary
+Over 10+ years of IT experience as a Cloud Infrastructure Engineer (Azure, AWS), Redhat OpenShift, Unix/Linux System Administration (RHEL, CentOS, Fedora, Ubuntu), Build and Release Management, DevOps Engineer, CI (Continuous Integration), CD (Continuous Delivery) with good expertise in Building, Automating, Managing and Deploying codebase in different environments.
+Experience in:
+Azure services like Landing Zone (Firewall, Network Security Groups, Vnet, Subnets, Application Service Groups, Web Application Firewall), Compute (Azure Virtual Machines, Scale sets), Azure Websites (App services and Webapp), Databases (Azure SQL Managed Instances, PostgreSQL), Azure Storage Account
+Deploying Azure resources via Infrastructure as Code (IaC) using Terraform and remote state management using storage account.
+Designing Terraform modules for Azure Landing zone, IaaS, PaaS resources, and deploying them via Azure Pipelines.
+Working with Terraform Cloud to deploy Azure resources in various environments like Dev, QA, UAT, Prod etc.
+Deploying artifacts on both Windows and Linux Virtual machines using Ansible playbooks.
+Integrating Hashicorp vault and maintain secrets while using Terraform and Ansible.
+Continuous Integration (CI) and Continuous Deployment (CD) methodologies.
+Design and Development of End-to-End Projects in Azure DevOps Services, using Azure Boards, Repos, Pipelines, Deployment Groups, Artifacts, Agent pools, Service Connections etc.
+Implementing template-based approach in AZDO pipelines to promote modularization and reusability, reducing redundancy in pipeline definitions.
+Developing and maintaining reusable templates in YAML, streamlining the pipeline definition process across multiple projects, and ensuring consistency.
+Automating various build and deployments tasks by using MAVEN, MS Build, PowerShell, Shell Scripts, Jenkins, Azure DevOps.
+Multi Cloud integrations in Azure DevOps, configuring Service connections.
+Design and Development of pipeline as code using groovy scripts in Jenkins.
+Design and Development of Shared libraries in Jenkins.
+Implementing security checks in AZDO and Jenkins pipelines using SonarQube, Veracode, BlackDuck.
+Handling Windows and Linux environments while deploying codebase. Can troubleshoot configuration issues in both Windows and Linux based environments.
+Configuring Nginx and IIS webservers.
+Implementing health checkups using monitoring tools like Splunk and Azure Monitor.
+Integrating CI/CD pipelines into Agile workflows, ensuring a seamless and automated delivery process for software releases
+Good understanding of:
+Docker based container deployments in Azure Kubernetes Services (AKS) using Jenkins and AZDO Pipelines
+Configuring Prometheus Monitoring and Alerting and integrating with Grafana dashboards to identify trends, anomalies, and potential areas for improvement in system reliability.
+
+Technical Skills
+
+Operating Systems & Cloud
+RHEL/CentOS 7.x,8.x, Windows Server 2012/2016/2019
+Source Control
+GitHub, Azure Repos, Bitbucket
+Scripting Languages
+PowerShell, Python, Groovy.
+IAAS
+Terraform, Azure CLI, ARM templates
+Databases
+Azure SQL, MySQL, PostgreSQL
+Web Servers
+IIS, Nginx
+Networking
+DNS, DHCP, TCP/IP, SMTP, LDAP, SNMP, Telnet, Ip addressing
+Monitoring Tools
+Azure Monitor, Splunk
+Artifacts Management
+Azure Artifacts, Jfrog
+Agile Tools
+Wiki Confluence, JIRA, Azure Boards
+
+Education
+Bachelor of Technology – JNTU, India May 2011
+Master of Science in Computer and Information Sciences – Southern Arkansas University, AR Dec 2016
+
+Professional Experience
+
+RPR Wyatt – Dallas, TX Feb 2017 – Present
+DevOps Engineer/ Systems & Infrastructure
+
+Design and development of Azure Landing Zone using Terraform, ensuring a secure and scalable foundation for applications.
+Design and development of Terraform modules for Azure resources like Windows VM, Linux VM, Windows WebApp, Linux WebApp, Private DNS, Private Endpoint, Azure SQL Managed Instances, Azure PostgreSQL and publish them in Terraform Private registry (Terraform Cloud)
+Facilitating the seamless creation of Azure resources through integration with the ServiceNow catalog and Terraform Cloud, optimizing the provisioning process.
+Develop custom PowerShell scripts for activities like Domain join and implement them as extensions for Azure Virtual Machines.
+PowerShell scripts to attach Private endpoint to pass services like Azure Storage Account, Azure SQL Managed Instance, Azure PostgreSQL, Webapps etc.
+Configuring Azure Self Hosted agents, create service connections, and configure Azure managed Identities wherever needed.
+Configuring multi-cloud environments (Azure, AWS) by creating service connections in Azure DevOps and service accounts in Jenkins credential Manager.
+Configuring Azure Application insights, log analytics workspace and parse the logs in Azure Monitor.
+Configure Pull Requests policies, Branch Policies in Azure DevOps and Bitbucket for better code quality and release management.
+Configure Azure artifact feeds, design different environments, and configure them with Symantec version Tags for better release management.
+Design and development of Jenkins pipelines for Continuous Integration and Continuous Deployment in Groovy.
+Design and development of Jenkins shared libraries to standardize common tasks across the environments.
+Configuring and managing Jenkins cluster to be secure and up to date. To update plugins, and upgrade to LTS Jenkins versions.
+Design and Implementation of Ansible configuration management system with 3 node Linux controller cluster and its Inventory containing Windows 2019, Windows 2016, RHEL 7.8 servers etc.
+Design and Develop Ansible playbooks with roles and tasks to manage configurations in Windows and Linux servers to reduce time for deployment and save 5 Manual hours during every release cycle.
+Designed Roles in Ansible playbooks to organize deployments in different category of servers.
+Implementing Shift Left Security analysis using SonarQube, Veracode before deploying the artifacts into Dev, Test, UAT and Prod environments.
+Enabled Continuous Delivery through Deployment into several environments of Dev, QA and UAT environments.
+Design, Develop and troubleshoot Deployment pipelines in Jenkins across multiple environments like Dev, Test, UAT, PROD.
+Performed tasks on F5 load balancer like installing and renewing SSL certificates and bouncing servers with performance issues after taking them out of the server pools.
+
+Havey Solutions Limited - Hyderabad, India Feb 2012 – May 2015
+System Engineer
+
+Creating Azure Cloud Services like VNET, VM’s, Availability sets and load balanced Endpoints. Adding/Removing the users and groups in azure for a subscription or for multiple subscriptions.
+Manage terraform state using Azure storage account and configure the settings in Terraform Backend.
+Automating the terraform deployments by triggering terraform code from Azure DevOps Pipelines and Jenkins pipelines.
+Implement or propose a Solution to migrate on premise infrastructure to Azure. Migrating On-premises VMs, Databases to Microsoft Azure Cloud using Azure Site Recovery.
+Server build activities like Provisioning of VM's with windows OS (or) RedHat Linux (RHEL). Installation, Configuration, and modification of VM extensions. Upgrade RAM and CPU cores
+Create/Attach Availability Set & Availability Zone. Configure and management of new Blob Storage Account. Change the existing storage account SKU (e.g. LRS, GRS and ZRS etc.) Upgrade from Standard HDD to Premium SSD disks. Create and attach additional Data Disk
+Configure and management of Virtual Network (VNet). Create and delete Subnets based on requirement. Create VNet peering connection. Apply NSGs to subnets to control traffic flow as per the client requirements. Configuration and management of Azure Load Balancers.
+Creating, Configuring and Managing Azure application Gateway, Azure Traffic Manager. Subscription Management via Azure portal. Creation of shared image gallery. Creating customized images and pushing them to shared image gallery. Creating and managing VMSS.
+Define guidelines to maintain cloud Infrastructure for the provisioning, configuration, and compliance of technical environments. Configuration management, release and deployment management, support and problem management. Drive process and improve day-to-day operational efficiency. Interacting with clients, interpreting the needs and requirements, and representing them in the field.
+Contact this candidate

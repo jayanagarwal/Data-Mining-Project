@@ -1,0 +1,135 @@
+SRIKANTH ONTERU
+Senior Data Engineer
+Phone: 312-***-****
+Mail: ad53a9@r.postjobfree.com
+LinkedIn: www.linkedin.com/in/srikanth-o-53a11a94
+PROFESSIONAL SUMMARY
+Over a decade of extensive experience in Data Warehouse and Data Engineering, I offer proven expertise in Azure, Big Data technologies, and ETL processes.
+Extensive experience with Microsoft Azure services like Azure ADLS GEN2, Azure Blob Storage, Azure Synapse Analytics, ADF, Azure Functions, Azure Stream Analytics, Azure Logic Apps, and Azure Cosmos DB.
+Led ETL development using Azure Data Factory (ADF) and SQL Server, leveraging extensive SQL skills to optimize data flows and enhance data modeling in healthcare analytics.
+Proficient in Snowflake, implementing performance tuning techniques, and leveraging Snowflake features like partitioning, multi-cluster warehouses, virtual warehouses, caching, and Snow pipe for real-time data ingestion and processing.
+Demonstrating proficiency in Snowflake scripting for automating ETL processes, data transformations, and data pipelines, coupled with expertise in utilizing Azure Blob Storage for scalable and cost-effective data storage and retrieval.
+Expertise in the Snowflake normalized data schemas and created dynamic and evolving schema references using window functions, aggregations, and joins using PySpark/Spark SQL on Databricks
+Designed and implemented a scalable delta lake architecture using Azure Databricks and was Proficient in integrating Azure Notification Hubs and Service Bus for real-time event processing and messaging.
+Experience in developing Hadoop-based applications using HDFS, MapReduce, Spark, Hive, Kafka, Zookeeper, YARN, HBase, and Cloudera platform.
+Designed and implemented end-to-end data pipelines leveraging Snowflake for cloud data warehousing and Apache Airflow for workflow orchestration, ensuring seamless data integration, transformation, and analysis.
+using PySpark to generate the output response and acquiring, cleaning, and pre-processed diverse datasets to prepare them for AI and ML model development, ensuring data quality and integrity.
+Proficient in doing ETLs using Spark - in-memory processing, Spark SQL, and Spark streaming using Kafka distributed messaging system.
+Implemented and maintained high-throughput Kafka clusters, developing producers and consumers for scalable data pipelines, and integrating Kafka with systems like Spark and Elasticsearch for real-time analytics.
+Proficient in infrastructure as code (IaC) methodologies, utilizing Terraform to automate the provisioning, configuration, and management of cloud resources across multi-cloud environments.
+Proficient in architecting and implementing data pipelines leveraging Medallion architecture, including extensive experience with Delta Lake for reliable, ACID-compliant data lake management, Unity Catalog for centralized metadata management, and Delta Sharing for secure data sharing across organizational boundaries.
+Skilled in management and Live Tables (DLT) for real-time data ingestion, processing, and analytics, ensuring efficient data lifecycle management, and enabling seamless integration of streaming and batch data pipelines within the Medallion ecosystem.
+Experienced in scheduling and workflow management using IBM Tivoli, Control-M, Oozie, and Airflow for efficient job orchestration.
+Implemented Docker containerization best practices to streamline the packaging and deployment of data processing workflows, optimizing performance and resource utilization within Kubernetes-managed environments, and enhancing the agility and scalability of data engineering operations.
+Experienced in developing interactive dashboards and visualizations using both Tableau and Power BI, leveraging data modeling, DAX calculations, and multiple data source integrations to support data-driven decision-making and effectively communicate business insights.
+Proficient in shell scripting, SQL Server, UNIX, and Linux, with good experience in version control software like GitHub, Git, GitLab, and VSS for effective code repository management and collaboration.
+Worked on different file formats JSON, XML, CSV, ORC, and Parquet with experience in processing both structured and semi-structured data with the given file formats.
+Strong experience in Software Development Life Cycle (SDLC) including Requirements Analysis, Design Specification, and Testing as per Cycle in both Waterfall and Agile methodologies.
+
+TECHNICAL SKILLS
+Cloud technologies: Azure Data Factory, ADLS GEN2, Azure Blob Storage, Azure Synapse Analytics, Azure Databricks, Azure HDInsight, Azure Cosmos DB, Azure DevOps, Purview, Azure Functional Apps, Azure Logic Apps, Azure Synapse Analytics, Azure Resource Manager, Azure Virtual Machines, Azure Load Balancer.
+Big Data: Spark, Hadoop, HDFS, MapReduce, YARN, Airflow, Hive, Oozie, Pig, Sqoop, Presto, Zeppelin, Flink, Zookeeper.
+Programming languages: Python, Scala, Java, SAS, PySpark, SQL, PL/SQL, T-SQL.
+Database: HBase, MongoDB, MYSQL, SQL SERVER, Oracle, PostgreSQL, Snowflake, Teradata.
+Data Visualization tools: Tableau, Power BI
+Machine Learning Libraries: Sci-kit learn, Pandas, NumPy, PyTorch, Azure ML.
+Version control: Git, GitHub, Bitbucket.
+Scripting languages: Shell scripting, Power Shell, Bash, UNIX/Linux
+Streaming platforms: Kafka, Confluent Kafka, Azure Event Hubs.
+Development Methods: Agile/Scrum, Waterfall.
+
+WORK EXPERIENCE:
+Role: Senior Data Engineer Nov 2022 - Present
+Client: National Institute of Health, Bethesda, MD.
+Responsibilities:
+Automated data pipelines, ETL processes, and transformations using Python scripting, optimizing data management and accessibility on Azure platforms (ADLS GEN2, Databricks, Azure Synapse Analytics, Azure Data Factory).
+Utilized Apache Airflow as a workflow orchestration tool to automate and schedule ETL processes within Azure Data Factory pipelines, orchestrating data movement from raw data zones to unified zones like Azure Health Lake and Azure Synapse Analytics, ensuring compliance with health data standards (FHIR, OMOP, CDISC)
+Designed and implemented data streaming solutions using Azure Event Hubs for real-time data processing and Azure Data Share for third-party data, alongside Azure Data Factory for on-premises data ingestion into Azure Blob Storage.
+Integrated Azure Functions with various Azure services such as Azure Blob Storage, Azure Cosmos DB, and Azure Service Bus, streamlining data processing pipelines and enhancing overall system efficiency, leading to improved agility and reduced time-to-market for new features.
+Proficient in designing, implementing, and optimizing Azure Synapse Analytics (formerly SQL Data Warehouse) for large-scale data warehousing solutions. Skilled in schema design, query optimization, and performance tuning to ensure efficient data processing and analytics.
+Implemented Terraform configurations to define and deploy infrastructure components supporting data processing and analytics workloads on Azure, ensuring consistency and repeatability in infrastructure deployments for data streaming solutions using Azure Event Hubs and Azure Data Share alongside Azure Blob Storage
+Configured and optimized Azure Virtual Machines (VMs) to host healthcare applications, ensuring optimal performance and responsiveness for healthcare professionals and end-users.
+Integrated Snowflake data warehouse with Azure Functions for serverless data processing, streamlining data ingestion and transformation workflows within Azure Synapse Analytics, and enhanced with Apache Airflow for scheduling and orchestration, resulting in improved agility and reduced time-to-market for new features.
+Utilized Unity Catalog in Azure Databricks and Azure Purview for comprehensive data governance, ensuring data integrity and compliance across the organization while integrating Snowflake seamlessly into governance processes.
+Utilized Azure Monitor for monitoring and managing resources, setting up alerts, and collecting metrics.
+Leveraged Azure Purview as a fully managed data governance service utilizing machine learning, while storing diverse healthcare data in FHIR standard format within Azure Data Lake.
+Deployed Azure services to enable version control and ACID transactions, ensuring data consistency and reliability for critical data assets.
+Executed De-identifying patient identifiers (PHI) while preserving data utility and extracting data from HL7-formatted Electronic Health Records (EHR) to transform it into structured formats like JSON.
+Championed data quality initiatives by leading cleaning efforts to address missing values, outliers, and inconsistencies using PySpark, followed by normalization techniques to ensure consistent data formats and structures for downstream analysis.
+Engineered transformations on individual files using Azure Functions, scheduled through Azure Logic Apps, ensuring timely execution and maintenance of data processing tasks with minimal manual intervention.
+Proficiently utilized Azure services for historical data tracking and restoration, leveraging features like Azure Synapse Analytics or Azure Data Lake Analytics, coupled with adept use of surrogate keys to uniquely identify and manage records in data warehousing environments.
+Successfully implemented Change Data Capture (CDC) solutions in Azure for real-time data change tracking, utilizing services such as Azure Data Factory or Azure Event Grid, coupled with demonstrated expertise in designing and maintaining Slowly Changing Dimensions (SCDs) to meet diverse data retention and tracking requirements.
+Designed scalable database solutions using Azure SQL Database and implemented secure authentication and authorization mechanisms within Azure API Management, ensuring data protection and optimal API performance.
+Implemented transformation strategies for unstructured, incomplete, and inconsistent data, focusing on standards such as HL7/CCDA formats, with expertise in Azure Data Factory for visual data preparation without code.
+Optimized data workflows with Azure Logic Apps for orchestration and monitoring, alongside real-time event processing and messaging via Azure Service Bus and Azure Event Hubs.
+Collaborated with DevOps teams to define and implement CI/CD pipelines integrated with Kubernetes deployments, automating the build, test, and deployment processes for containerized applications, and enabling rapid delivery of features and updates to production.
+Developed data pipelines and workflows to automate data ingestion, transformation, and loading processes, streamlining the development and deployment of AI and ML solutions.
+Implemented Azure Data Lake Analytics for ad-hoc data analysis and querying on Azure Data Lake Storage and Azure Health Lake data, seamlessly integrating Azure Service Bus and Azure Event Hubs for real-time event processing and messaging within the Azure environment.
+Integrated Snowflake with Azure DevOps for efficient version control management, enabling seamless collaboration and deployment of data pipelines and workflows.
+Designed and configured data processing and ETL pipeline workflows while employing Git and Azure DevOps for efficient version control management.
+Created interactive dashboards with Power BI, enabling stakeholders to gain actionable insights into business metrics and KPIs.
+Environment: Azure Data Factory, Azure Synapse Analytics, Azure Health Lake, Azure Blob Storage, Azure Event Hubs, Azure Data Share, Azure Functions, Azure Monitor, Azure Cosmos DB, Azure Service Bus, Azure Virtual Machines (VMs), Azure Databricks, Azure Role-Based Access Control (RBAC), Unity Catalog, Azure Purview, Azure DNS, Change Data Capture (CDC), Azure SQL Database, Azure API Management, HL7/CCDA formats, Airflow, Azure Logic Apps, Kubernetes, Azure Data Lake Analytics, Azure Data Lake Storage, SQL, PLSQL, Python, Scala, IICS, Spark (PySpark, SparkSQL, Tableau, Linux, Java, Airflow, PostgreSQL, Oracle PL/SQL Git, Azure DevOps, and Power BI.
+
+Role: Data Engineer Sep 2018 - Oct 2022
+Client: Apptium Technologies, VA.
+Responsibilities:
+Developed and optimized ETL workflows using Apache Airflow to extract, transform, and load data from diverse sources into Snowflake for efficient data processing.
+Configured and fine-tuned Snowflake clusters for high-performance data processing and streamlined querying, integrating Kafka for real-time event processing and messaging.
+Utilized Apache Spark for advanced data analytics, machine learning, and big data processing, integrating with Apache Airflow for seamless data pipeline management.
+Utilized serverless computing on Azure, leveraging services such as Azure Functions to execute code in response to triggers. Integrated these functions with other Azure services for seamless automation and orchestration of tasks.
+Collaborated with stakeholders to establish consistent surrogate key naming conventions and maintained comprehensive data dictionaries to track the usage and meaning of surrogate keys in Snowflake databases. Implemented advanced partitioning techniques in Snowflake to significantly enhance query performance and expedite data retrieval.
+Developed and maintained data orchestration workflows using Apache Airflow, automating ETL pipelines and scheduling tasks for seamless data processing and analysis.
+Integrated Snowflake with Apache Airflow to orchestrate end-to-end data pipelines, ensuring data consistency and reliability across the analytics ecosystem.
+Collaborated with cross-functional teams to design and deploy ETL workflows, utilizing Snowflake for storage, Apache Airflow for orchestration, and DBT for transformation, resulting in efficient and robust data pipelines.
+Conducted performance tuning and optimization of SQL queries in Snowflake and Airflow workflows, improving overall system efficiency and reducing processing time for critical business insights.
+Defined robust roles and access privileges within Snowflake to enforce strict data security and governance protocols.
+Proficient in data migration processes, including extracting, transforming, and loading data from legacy systems into SaaS platforms, as well as integrating SaaS applications with other systems and tools.
+Developed data pipelines for the BI Team utilizing Microsoft PowerBI for live dashboards using Snowflake data warehouse.
+Orchestrated complex data workflows using Kubernetes and Docker, optimizing resource utilization and scalability for high-volume data processing tasks.
+Implemented fault-tolerant data pipelines by deploying resilient Kubernetes clusters and utilizing features like pod replication and auto-scaling.
+Designed and implemented real-time data streaming pipelines using Apache Kafka, facilitating high-throughput, fault-tolerant data ingestion from diverse sources.
+Developed custom Airflow operators and sensors to integrate with external systems and APIs, enhancing workflow automation and extensibility. Implemented Terraform configurations for deploying infrastructure components, ensuring consistency and repeatability for data processing and analytics workloads.
+Configured and launched Linux and Windows server instances for Splunk deployment, addressing performance and functionality issues.
+Utilized Docker containerization technology to encapsulate and deploy data engineering applications, facilitating seamless integration with Kubernetes for efficient resource management and deployment automation within data processing clusters.
+Implemented CI/CD pipelines using tools like Jenkins, GitLab CI/CD, and Terraform, automating software build, test, and deployment processes. Designed and developed database solutions using Teradata, Oracle, and SQL Server, including schema design and optimization, stored procedures, triggers, and cursors.
+Proficient in data migration from Excel, Flat files, and Oracle to MS SQL Server using SQL Server SSIS, ensuring process improvement, data extraction, cleansing, and manipulation.
+Hands-on experience with data visualization tools like Power BI and Tableau, and version control systems like Git, GitLab, and VSS, using JIRA for issue and project workflow management.
+Environment: Apache Airflow, Snowflake, Apache Kafka, Azure Functions, Apache Spark, DBT, Hadoop, MapReduce, HDFS, Sqoop, Pig, Hive, HBase, Oozie, Flume, NiFi, Zookeeper, and YARN), Erwin Data Modeler, Power Designer, Embarcadero E-R Studio, Microsoft PowerBI, Apache Kafka, Terraform, Splunk, Docker, Kubernetes, Jenkins, GitLab CI/CD, Teradata, Oracle, SQL Server, SQL Server SSIS, Power BI, Tableau, Git, JIRA.
+Role: Big Data Developer Mar 2016 – Aug 2018
+Client: Change Healthcare Technologies, LLC, Alpharetta, GA.
+Responsibilities:
+Developed and maintained large-scale data processing systems for Change Healthcare Technologies, LLC
+Installed and configured essential Hadoop ecosystem components like Hive, Pig, Sqoop, Flume, and Oozie on Hadoop clusters.
+Developed and maintained data processing scripts and applications in Python, leveraging libraries such as Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization.
+Proficient in data ingestion using Sqoop, including import/export and Sqoop Job creation, for seamless transfer of data between relational databases and HDFS.
+Worked extensively with Snowflake cloud data warehouse for storing and analyzing large volumes of data.
+Skilled in implementing robust error handling mechanisms and logging strategies within SSIS packages to detect and address data inconsistencies, ensuring high data quality and reliability, and providing comprehensive monitoring and troubleshooting capabilities.
+Conducted performance tuning and optimization of SQL queries and data loading processes in Snowflake, utilizing features such as query caching and materialized views to improve efficiency.
+Skilled in converting Hive/SQL queries into Spark transformations using Spark RDDs and Spark SQL for enhanced data processing.
+Proficient in configuring and managing SSRS subscriptions to automate report delivery via email, file share, or SharePoint, enabling timely access to critical business information and improving organizational efficiency and decision-making capabilities.
+Utilized Spark with Python and Scala, leveraging Data Frames, Datasets, and Spark SQL API for efficient data processing.
+Developed recommendation systems using association rule mining algorithms in Spark MLlib for identifying frequent buying patterns and product recommendations.
+Integrated Kafka with Spark Streaming for real-time data processing and dynamic price surging using machine learning algorithms.
+Developed and executed efficient PySpark scripts for processing healthcare datasets, incorporating SparkSQL for structured data analysis, and creating DAGs for workflow orchestration.
+Proficient in Hive and Impala for ad-hoc analysis and querying to meet end-user requirements.
+Designed data pipelines using Kafka and Spark for efficient data storage and processing in HDFS.
+Proficient in performing in-memory batch processing using Spark Streaming and Spark-SQL.
+Developed SQL scripts for comprehensive data validation and comparison at each phase of the data movement process and developed many insights with PowerBi and Tableau.
+Environment: Hadoop, Pig, Oozie, Kafka, Zookeeper, Hive, spark, PySpark, MapReduce, eetl, SSIS, SSRS, Impala, Sqoop, Spark SQL, Cassandra, YAML, ETL. PowerBI, Tableau Apache Airflow, Snowflake, Apache Kafka, Azure Functions, Apache Spark, DBT, Hadoop, MapReduce, HDFS, Sqoop, Pig, Hive, HBase, Oozie, Flume, NiFi, Zookeeper, and YARN), Erwin Data Modeler, Power Designer, Embarcadero E-R Studio, Microsoft PowerBI, Apache Kafka, Terraform, Splunk, Docker, Kubernetes, Jenkins, GitLab CI/CD, Teradata, Oracle, SQL Server, SQL Server SSIS, Power BI, Tableau, Git, JIRA
+Role: Data Warehouse Developer July 2013 – Feb 2016
+Client: JPMorgan Chase & Co, Chicago, IL.
+Responsibilities:
+Developed comprehensive data validation processes, load processes, and test cases using PL/SQL, MySQL Stored Procedures, Functions, and Triggers in Oracle.
+Implemented data partitions to facilitate parallel processing of data, and Python scripts for data manipulation, analysis, and automation tasks within the data warehouse environment.
+Proficient in designing, developing, and deploying SSIS packages for seamless data integration across heterogeneous sources, ensuring data consistency and integrity throughout the ETL (Extract, Transform, Load) process.
+Created XML documents for generating dynamic SQL statements tailored to different Compensation groups, enhancing flexibility and scalability.
+Utilized Informatica extensively for data extraction from databases and loading into the data warehouse repository, ensuring data integrity and reliability.
+Enhanced and fine-tuned PL/SQL code to optimize the data load process, thereby improving overall system performance, and performed SQL tuning to optimize queries, resulting in enhanced query performance and overall system efficiency.
+Utilized Ab Initio and Informatica Power Exchange for efficient data integration and ETL processes, ensuring high data quality and reliability.
+Designed and deployed interactive and visually appealing SSRS reports for various stakeholders, ensuring timely access to critical information and facilitating informed decision-making.
+Proficient in SQL Server and Oracle for database management, query optimization, and data manipulation tasks within the data warehouse, alongside managing and optimizing automated Oracle jobs using CRON Tab to ensure timely and efficient execution of critical processes.
+Proficiently managed XML files for structured data interchange and integration within the data warehouse ecosystem, while also implementing the Parquet file format with Snappy compression to optimize storage utilization and query performance for large-scale datasets.
+Experienced in both Waterfall methodology and Agile/Scrum methodologies for software development lifecycle management, ensuring timely delivery and stakeholder collaboration.
+
+Environment: Oracle, Informatica, SSIS, PL/SQL, SQL, ETL, Teradata, Teradata SQL Assistant, SSIS, SSRS, Fast Load, BTEQ Script, SAS Code, Clear Case, Pearl Scripts, XML Source, TOAD, MapReduce, SQL Loader, Windows NT, UNIX, Informatica, Erwin, XML, Agile/Scrum.
+Contact this candidate

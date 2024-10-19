@@ -1,0 +1,65 @@
+William Chong Ly
+***** ************ ***
+Huntsville, AL 35803
+Mobile: 256-***-****
+Home: 256-***-****
+Email: ad7mtj@r.postjobfree.com
+-Desired locations: Huntsville, AL, United States
+-Employed with Arcarithms of Huntsville, AL from 06/23 to 09/23:
+-Have been working as Python software developer on Linux system for radar and ballistic missile model.
+-Currently have security clearance in secret level. Education:
+• Bachelor of Science in Electrical Engineering. Graduated December 1989 University of Alabama in Huntsville,
+• Graduate studies in Computer Science
+-Programming languages: C, C++, Matlab/Simulnk (over 10 years experiences) on Linux, Unix and Window.
+-Rocket engine/controller/models for HWIL testing.
+-GPS simulator.
+-Reviewed technical documents & provided feedback (controller software specifications, software description, software safety etc.)
+• Simulation software development on RTS
+Training:
+• Software Safety
+• System Engineering
+• Software Configuration Management
+• Programming Languages (C, C++, Matlab/Simulink, Labview).
+-Working as principal software engineer at Northrop Grumman from Work Experience:
+11/09/19 to 06/02/20 (Project ended on my part).
+-Working as software engineer at Northrop Grumman from 08/19/19-11/09/19.
+-Developed software for client/server application in Python on real-time Linux system.
+.Received cash prize for this task.
+-Using Elipse COTS product for SW development in Java.
+-Applied project in Agile software development cycle
+.Participated in daily meeting & biweekly meeting (Updated processes on task). Marshall Space Flight Center, Huntsville, AL, 09/1990 - 09/2015 (retired). Work Experience: Marshall Space Flight Center-Computer Engineer (GS13)
+-Developed simulation software in both real time & digital version for HWIL tasks. Dev of SW Models, Sensor, Controller Model, Engine Sim Controller, Integration of Mathlab/Simulink and Labview.
+Duties, Accomplishments and Related Skills
+-Developed simulation software for rocket engine & controller, fuel tank, ground telescope etc.:
+:
+• Developed non-real-time simulation model of fuel tank for rocket engine.The model simulated the requirements for the tank using C & Matlab/Simulink programming language on a Window PC.
+For this task, I was given 5 requirements to develop the non-real-time simulation SW:
++I developed the flow charts which described the flow of my SW.
++Brief description of the characteristics of the tank.
++My approach to develop models respectively.
++Simulated both models & verified against the requirements.
++Trade studies on advantages & disadvantages for using these 2 languages.
+• Developed real-time simulation model of MC-1 Engine for LCBT (Low Cost Boost Technology) project using ADRTS (Applied Dynamic Real Time System) programming language on Unix system. The model was tested in the lab to verify the controller model (developed by another engineer), which was used for hot-fire tests for MC-1 Engine at test stand.
+For this task, MC-1 Engine was designed at MSFC. I was given the table look-up of the propulsion data (pressure, temperature, and valves-schedule)
+& the SW model (real time) was developed based on these data. The model was run in the lab with hardware in the loop with the controller (both SW & HW). The controller SW was used in the hot fires with a similar controller HW at Stennis Space Center.
++ADRTS is the computer system which was built by a company in Michigan. The programming language was RTS run on this system on Unix operating system.
+• Developed real-time simulation model of SSME (Space Shuttle Main Engine) using ADRTS programming language on Unix system for Quick-Fire II project. For this task, a different method to hot fire the SSME was developed at MSFC. My task was to develop the SW model with ADRTS with this hot fire method. The controller SW model (developed by another engineer) was tested in the lab before it was taken down to STFC for hot fire.
+• Developed non-real-time simulation model of the Segment Alignment Maintenance System (SAMS) Matrix Generator. The calculation of the boundary condition were initially written in Matlab scripts. Those scripts were translated into C programming language, then compiled and run on a Sun (Unix) system. The C programs were eventually implemented in Labview. This task was for HET
+(Hobby-Eberly Telescope) project.
+The Segment Alignment Maintenance System (SAMS) was installed on McDonald Observatory’s Hobby-Eberly Telescope (HET) in August 2001. The SAMS became fully operational in October 2001. The SAMS uses a system of 480 inductive edge sensors to correct misalignments of the HET’s 91 primary mirror segments when the segments are perturbed from their aligned reference positions.
+• Developed non-real-time simulation model for GPS receiver in C on Unix system for RITAT (Robust Integration Technology and Testbed) project. For this task, my job was to develop the simulation SW for a GPS simulator on UNIX operating system in C. I tested the SW model successfully by injecting simulated data. (The SW was supposed to test with the rate table in the lab (3-dof). I believed the project was canceled due to lack of funding.
+-Supported CLV (Crew Launch Vehicle) project as software insight:
+• Reviewed and provided comments on controller software specification requirements, software configuration management, software test procedures, and software safety documents etc.
+For this task, my job was to review the controller system specifications document & provided feedback (SW safety, configuration management, SW design document were also review). The controller was developed by Rocketdyne. (EX: the purge sequences of the controller SW, shutdown & post shutdown requirements for the SW etc.)
+-Researched and studied software life cycle models (Agile, Incremental, Iterative, Spiral and Waterfall).
+-Presented the MC-1 software model of MC-1 Engine at the 2002 RTS (Real-Time System) conference.
+• Group achievement awards: This award is for outstanding project accomplishment for the group or subgroup (LCBT and HET). Jobs Related Awards:
+• Personal Performance awards: Individual outstanding achievement - Low Cost Boost Technology project.
+• Software of the Year award (group): Best software award for the whole center - Hobby-Eberly Telescope project.
+Name Employer Phone
+References:
+Dean Daugherty Northrop Grumman 256-***-****
+Nathan Bowman Arcarithms 256-***-****
+Leann Thomas Marshall Space Flight Center 256-***-**** Jeremy Richard Marshall Space Flight Center 256-***-**** Daniel Mitchell Marshall Space Flight Center 256-***-**** Drew Hall Marshall Space Flight Center 256-***-****
+*
+Contact this candidate

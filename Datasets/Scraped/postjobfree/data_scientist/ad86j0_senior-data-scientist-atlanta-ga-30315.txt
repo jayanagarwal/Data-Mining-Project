@@ -1,0 +1,204 @@
+Asher Nuckolls
+Lead Data Scientist
+Email: ad86j0@r.postjobfree.com, Phone: 640-***-****
+
+Professional Summary
+
+A highly skilled Data Scientist with over 14 years of experience in AI, data mining, deep learning, predictive analytics, and machine learning.
+Expert in managing the full data science project lifecycle, extracting valuable insights from large datasets, and developing innovative solutions.
+Currently leading as a Lead Data Scientist at Georgia Pacific, with a focus on data extraction, modeling, wrangling, statistical analysis, machine learning, and data visualization.
+Holds a Master of Science in Analytics backed by Bachelor of Science in Applied Mathematics and Bachelor of Science in Physics from Georgia Institute of Technology.
+Specializes in Natural Language Processing (NLP), with expertise in BERT, ELMO, word2vec, sentiment analysis, Named Entity Recognition, Topic Modeling, and Time Series Analysis. Proficient in Python and R, leveraging tools such as Pandas, NumPy, SciPy, Matplotlib, Seaborn, TensorFlow, Scikit-learn, and ggplot2.
+Extensive experience with cloud platforms like AWS, Google Cloud, and Azure, and skilled in machine learning models such as Naïve Bayes, Regression, Classification, Neural Networks, Deep Neural Networks, Decision Trees, and Random Forests.
+Adept at querying large datasets from Hadoop Data Lakes, Data Warehouses, AWS Redshift, Aurora, Cassandra, and NoSQL databases. Proficient in statistical analysis and machine learning techniques using PySpark and batch processing.
+Proven ability to lead teams in operationalizing statistical and machine learning models, creating APIs and data pipelines for business leaders and product managers. Experienced in developing visualizations, interactive dashboards, reports, and data stories using Tableau and Power BI.
+Hands-on experience with advanced algorithm techniques like Bagging, Boosting, and Stacking, and familiar with cutting-edge AI models including PaLM and OpenAI Davinci (GPT-3.5, GPT-4).
+Skilled in Exploratory Data Analysis (EDA) and presenting findings through Matplotlib, Seaborn, and Plotly. Proficient in defect tracking using Jira and version control with Git.
+Strong ability to collaborate with stakeholders, gather requirements, define business processes, and assess risks using Agile methodology and Scrum. Developed innovative deep learning architectures including CNNs, LSTMs, and Transformers.
+Expert in NLP techniques, time series analysis, and statistical modeling, including methodologies such as Hypothesis Testing, ANOVA, Time Series, Principal Component Analysis, Factor and Cluster Analysis, and Discriminant Analysis.
+Known for quickly grasping new domains, designing and implementing effective solutions, with excellent communication, analytical, leadership, and interpersonal skills. Highly adept at explaining complex data science concepts to stakeholders and clients.
+
+Technical Skills
+
+Libraries:
+NumPy, SciPy, Pandas, Theano, Caffe, SciKit-learn, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, NLTK, PyTorch, Gensim, Urllib, BeautifulSoup4, PySpark, PyMySQL, SQAlchemy, MongoDB, sqlite3, Flask, Deeplearning4j, EJML, dplyr, ggplot2, reshape2, tidyr, purrr, readr, Apache, Spark.
+Machine Learning Techniques:
+Supervised Machine Learning Algorithms (Linear Regression, Logistic Regression, Support Vector Machines, Decision Trees and Random Forests, Naïve Bayes Classifiers, K Nearest Neighbors), Unsupervised Machine Learning Algorithms (K Means Clustering, Gaussian Mixtures, Hidden Markov Models, Auto Encoders), Imbalanced Learning (SMOTE, AdaSyn, NearMiss), Deep Learning Artificial Neural Networks, Machine Perception
+Analytics:
+Data Analysis, Data Mining, Data Visualization, Statistical Analysis, Multivariate Analysis, Stochastic Optimization, Linear Regression, ANOVA, Hypothesis Testing, Forecasting, ARIMA, Sentiment Analysis, Predictive Analysis, Pattern Recognition, Classification, Behavioral Modeling
+Natural Language Processing:
+Processing Document Tokenization, Token Embedding, Word Models, Word2Vec, FastText, BagOfWords, TF/IDF, Bert, Elmo, LDA
+Programming Languages:
+Python, R, SQL, Java, MATLAB, and Mathematica
+Applications:
+Machine Language Comprehension, Sentiment Analysis, Predictive Maintenance, Demand Forecasting, Fraud Detection, Client Segmentation, Marketing Analysis, Cloud Analytics in cloud-based platforms (AWS, MS Azure, Google Cloud Platform)
+Deployment:
+Continuous improvement in project processes, workflows, automation, and ongoing learning and achievement
+Development:
+Git, GitHub, GitLab, Bitbucket, SVN, Mercurial, Trello, PyCharm, IntelliJ, Visual Studio, Sublime, JIRA, TFS, Linux
+Big Data & Cloud Tools:
+HDFS, SPARK, Google Cloud Platform, MS Azure Cloud, SQL, NoSQL, Data Warehouse, Data Lake, SWL, HiveQL, AWS (RedShift, Kinesis, EMR, EC2, Lambda
+
+Professional Experience
+
+Lead Data Scientist/ AI Sep 2023 to Present
+Georgia Pacific, Atlanta, GA
+
+At Georgia Pacific, I led a team of data scientists to implement generative AI solutions, developing intelligent chatbots for plant operations. By integrating NLP models with domain-specific knowledge bases, we enhanced operational efficiency and increased user satisfaction by 30%. I also conducted causal analysis using Bayesian Networks and Do-Calculus, identifying key factors that improved lead conversion rates by 5%, while mentoring junior data scientists and ensuring ethical AI practices.
+
+Led a team of data scientists at Georgia Pacific to implement generative AI solutions for developing intelligent chatbots tailored to plant operations.
+Integrated natural language processing (NLP) models with domain-specific knowledge bases, enabling chatbots to instantly retrieve and synthesize technical documentation for plant staff.
+Increased user satisfaction by 30% through improved access to operational knowledge, enhancing flexibility and minimizing downtime across plant operations.
+Conducted causal analysis on lead conversion data to identify factors impacting lead conversion rates.
+Applied causal inference techniques, such as Bayesian Networks and Do-Calculus, to assess the effects of different variables on conversion rates.
+Collaborated with a cross-functional team using Kanban methodology to design and optimize a causal graph by combining domain expertise with machine learning.
+Ran intervention simulations to alter feature distributions and assess their impact on business outcomes, identifying key factors to enhance lead conversion rates by 5%.
+Leveraged Snowflake for data querying and utilized Azure Databricks to train Bayesian Network models on virtual clusters.
+Develop and integrate LangGraph's NLP models into various business applications, enabling dynamic query resolution and enhancing user interactions through efficient language comprehension and generation.
+Developed an interactive Streamlit application to visualize causal relationship graphs, run simulations, and present insights to stakeholders.
+Led initiatives to generate synthetic datasets that captured statistical properties and correlations from real-world data while maintaining privacy and confidentiality.
+Fine-tune and optimize large language models for domain-specific tasks, ensuring the model generates accurate, context-aware responses while minimizing computational resource usage.
+Worked closely with stakeholders to ensure the responsible and ethical deployment of generative AI models, addressing concerns regarding bias, fairness, and transparency.
+Design and manage vector databases to store high-dimensional embeddings for fast retrieval of similar data points, supporting real-time recommendation systems and search functionalities.
+Mentored junior data scientists and AI practitioners, fostering continuous learning and professional growth.
+
+Data Science Consultant Jun 2022 – Aug 2023
+DaVita, Boulder, CO (worked remotely from Atlanta)
+
+At DaVita, I collaborated with a team to develop an end-to-end model, from requirements gathering to deployment on GCP using AutoML and VertexAI. We trained XGBoost models on over 2 million patient treatment records, fine-tuning them to patient clusters to predict the effectiveness of prescriptions generated by both rules and physicians. The goal was to recommend optimized prescriptions for patients undergoing peritoneal dialysis. The model predicted improved outcomes for 93% of patients, with 81% no longer considered at risk.
+
+Led a team consisting of two data scientists, one intern, a data engineer, and a technical writer.
+Managed project planning through GitLab task tracking.
+Applied various machine learning and deep learning algorithms, including LightGBM, CatBoost, and Support Vector Machines (SVM), to drive project outcomes.
+Deployed models using Google Kubernetes and Docker engines and containerized them for scalability and performance.
+Implement LangGraph-based algorithms to visualize relationships between language components, optimizing data flow and ensuring precise contextual understanding across various natural language inputs.
+Utilized NLP techniques such as sentiment analysis (BERT) and text classification (ULM Fit) to gain insights for improving customer or patient outcomes.
+Leveraged GCP services like Vertex AI, AutoML, Colab, DataProc, and BigQuery to develop, train, and deploy models efficiently.
+Worked with TensorFlow and Keras for deep learning applications, optimizing models for conversion predictions.
+Delivered weekly presentations to business and medical teams, communicating insights and progress.
+Collaborated with physicians to gain domain knowledge and worked with the UX team to develop a physician-facing application.
+Partnered with a technical writer to create documentation for doctor end-users.
+Optimize the performance and scalability of vector-based databases to handle large-scale data sets, ensuring efficient indexing, querying, and response times for applications utilizing embeddings from machine learning models.
+Performed data cleaning, preparation, and analysis using statistical and visual techniques.
+Ensured compliance with HIPAA regulations, focusing on cloud computing and the protection of electronic protected health information (ePHI).
+Deploy large language models into production environments, monitor performance, and continuously update models based on real-time user feedback and changing data patterns.
+Employed clustering algorithms with Sklearn to optimize recommendation processes and improve decision-making.
+Utilized Airflow, BigQuery, and SQL for efficient data processing and analysis, and implemented feature engineering for model enhancement.
+Created live interactive dashboards and visualizations to present project results to stakeholders.
+
+Generative AI/ ML Engineer Mar 2021 – May 2022
+Anthem Inc., Atlanta, GA
+
+As a Generative AI/ML Engineer at Anthem Inc., I spearheaded the development of an advanced OCR system that streamlined the extraction of patient information from medical documents, significantly reducing manual data entry by 75%. Leveraging deep learning techniques such as CNNs and RNNs, along with BERT for natural language processing, I improved claims processing efficiency, resulting in a 20% decrease in denied claims. My role involved utilizing cutting-edge technologies like Google Kubernetes Engine and Amazon Textract, while collaborating with stakeholders to ensure alignment with project goals and deliverables.
+
+Extracted text from documents using OCR techniques and employed cosine similarity along with BERT to identify relevant sections.
+Applied an OCR-based system to automatically extract patient information from medical documents, simplifying data entry and enhancing patient care.
+Developed and implemented advanced OCR models using deep learning techniques like Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to extract data from diverse healthcare forms, including prescriptions, lab reports, and patient information forms, reducing manual data entry by 75%.
+Implemented the connectionist temporal classification (CTC) loss function to improve the performance of RNN-based OCR models for recognizing text in variable-length documents.
+Utilized OCR and NLP models to extract codes and information required for claims processing, reducing manual intervention and increasing the speed and accuracy of the process, resulting in a 20% decrease in denied claims.
+Developed Regex patterns to extract specific text from relevant sections and utilized OpenCV to detect page numbers and text coordinates within scanned documents.
+Stored extracted data in a local Hadoop cluster for efficient processing.
+Created ensembles of CNNs and RNNs models for text recognition in images, significantly improving the accuracy and robustness of the OCR system.
+Led weekly presentations to business stakeholders to refine outputs and align project goals.
+Managed project tasks using Jira for sprint planning and Bitbucket/Git for version control and code management.
+Built deep learning neural network models from scratch using GPU-accelerated libraries like PyTorch and employed libraries such as Scikit-Learn & XGBoost to build and evaluate various machine learning models.
+Utilized Amazon Textract to automatically extract text, handwriting, and data from scanned documents.
+Leveraged transfer learning techniques to fine-tune pre-trained CNNs and RNNs models on a healthcare-specific dataset, significantly reducing training time while increasing accuracy.
+Configured Pandas for data manipulation and troubleshooting machine learning models using PyTest packages in Python (TensorFlow).
+Applied Fuzzysearch algorithms to help locate records relevant to searches.
+Deployed OCR and NLP models on Google Kubernetes Engine (GKE) and Google Vertex AI for scalable and efficient processing of healthcare documents.
+Implemented Google Cloud Functions to trigger the OCR and NLP models for real-time processing of incoming healthcare documents.
+Facilitated team communication using MS Teams.
+
+Lead Data Scientist Nov 2018 – Feb 2021
+Neal Analytics, Seattle, WA
+
+As a Senior Data Scientist at Neal Analytics, I developed advanced predictive models to optimize shipping lane negotiations using a Gaussian Mixture Model and XGBoost regression trees. By implementing a Kalman filter, I refined bidding strategies for Niagara’s negotiators, ensuring accuracy in real-time decision-making. Leveraging tools like Azure Databricks and AWS SageMaker, I performed extensive data cleaning, feature engineering, and exploratory data analysis while deploying models within Docker containers and managing workflows with Apache Airflow. My efforts included crafting visual dashboards in Tableau to provide stakeholders with actionable insights and recommendations.
+
+Utilized a Gaussian Mixture Model to cluster shipping lanes and fitted clusters into an XGBoost regression tree for predictions and negotiation targets based on statistical likelihood.
+Implemented a Kalman filter during bidding to correct mispredictions and provide updated negotiation targets for Niagara’s bid negotiators.
+Developed the model using Azure Notebook and Azure Databricks, programming functions primarily in Python within a Databricks environment that leveraged Spark, PySpark, MLlib, Pandas, and NumPy.
+Performed data cleaning, feature scaling, and feature engineering, and created models using deep learning frameworks.
+Conducted exploratory data analysis (EDA) with Scikit-Learn, SciPy, Matplotlib, and Plotly, while utilizing R’s dplyr for data manipulation and ggplot2 for visualization.
+Employed various machine learning algorithms, including XGBoost, MLFlow, CatBoost, LightGBM, and KNN regression, while applying Long Short-Term Memory (LSTM) and Recurrent Neural Network (RNN) architectures for deep learning.
+Built Artificial Neural Network models to detect anomalies and fraud in transaction data and performed data mining to provide tactical recommendations.
+Used AWS SageMaker for end-to-end machine learning development, optimizing models for resource efficiency and cost-effectiveness.
+Designed and managed data workflows with Apache Airflow, creating and maintaining Directed Acyclic Graphs (DAGs) for automating data pipelines.
+Deployed models using a Flask API within Docker containers and utilized Kubernetes for clustering.
+Evaluated model performance with metrics such as confusion matrix, accuracy, recall, precision, and F1 score, while utilizing Git for version control on GitHub.
+Designed dashboards with Tableau to present complex reports, including summaries and visualizations, for stakeholders.
+Developed unsupervised K-Means and Gaussian Mixture Models (GMM) in NumPy to detect anomalies and employed a stacked ensemble of methods for fraud detection.
+Engaged in predictive modeling using tools such as SAS, SPSS, R, and Python.
+
+ML and Data Scientist Jul 2016 – Oct 2018
+Buoy Health, Boston, MA
+
+At Buoy Health, I developed data models using Erwin and built relational database systems while analyzing business requirements from the Business Requirement Specification document. I translated complex business problems into defined Machine Learning challenges and established Key Performance Indicators (KPIs) to assess project success. Utilizing tools like R and Python for data analysis, I delivered actionable insights through visualizations and collaborated with Data Architects and DBAs to implement robust data model changes across various environments.
+
+Generated data models using Erwin and developed relational database systems.
+Analyzed business requirements by reviewing the Business Requirement Specification document.
+Translated business problems into well-defined Machine Learning challenges.
+Established Key Performance Indicators (KPIs) to measure project success.
+Delivered actionable insights to stakeholders.
+Conducted Exploratory Data Analysis, ANOVA tests, and hypothesis testing using R and Python.
+Applied linear regression techniques in Python and SAS to explore relationships between dataset attributes.
+Created data visualizations using Matplotlib in Python to convey results and insights.
+Utilized Spark, Scala, Hadoop, HBase, Kafka, Spark Streaming, and MLLib for various machine learning methods, including classification, regression, and dimensionality reduction.
+Designed mapping processes to handle incremental changes in source tables, ensuring compliance with third normal form in OLTP databases.
+Provided expertise and recommendations for physical database design, architecture, testing, performance tuning, and implementation.
+Developed logical and physical data models for multiple OLTP and analytic applications, including Oracle 9i databases.
+Identified datasets, source data, source metadata, data definitions, and data formats during data analysis.
+Tuned database performance by optimizing indexes and SQL statements.
+Wrote SQL queries and scripts to generate standard and ad-hoc reports for management.
+Facilitated data extraction and loading from various databases, ensuring seamless integration.
+Collaborated with Data Architects and the DBA team to implement data model changes across all environments.
+
+Data Scientist Dec 2013 – Jun 2016
+Baltimore Orioles, Baltimore Maryland (Remote)
+
+While collaborating with the Baltimore Orioles, I focused on predicting pitcher relief. I analyzed game statistics from the 2017-2018 season and categorized pitchers into three distinct clusters. These clusters were then fed into a random forest model to identify the optimal timing for substitutions. The insights gained from this model were ultimately used to develop a paper-based framework to assist the General Manager in making informed decisions for the bullpen.
+
+Conducted visual data exploration in Python using the Matplotlib and Seaborn libraries.
+Employed Principal Component Analysis (PCA) with Singular Value Decomposition (SVD) for variable selection, thereby reducing model complexity.
+Utilized K-Means, Gaussian Mixture Models (GMM), and DBSCAN to categorize pitchers into distinct strategic classes for further analysis.
+Normalized data to enhance accuracy and performance, applying statistical tests such as Grubb’s to identify and eliminate outliers.
+Analyzed the data both statistically and visually to support the development of the model.
+Gained specific domain knowledge by collaborating with non-technical experts and incorporating their insights into the models.
+Executed feature engineering and selection to create high-performing and interpretable models.
+Developed a final model using decision trees within a random forest ensemble to predict pitcher substitutions.
+
+Data Scientist Apr 2013 – Nov 2013
+YRC Freight, Atlanta, GA
+
+At YRC, I focused on enhancing the efficiency of trailer loading and unloading processes. By employing machine vision, I implemented a convolutional neural network to identify irregular loads. I then applied a linear programming solution based on convex hulls to optimize trailer space utilization. This model significantly reduced both labor costs and the time required for loading trailers, streamlining operations overall.
+
+Employed linear programming and optimization methods to efficiently tessellate the space on each trailer.
+Utilized TensorFlow in Python for machine vision to identify non-standard labeling.
+Developed a Convolutional Neural Network for machine vision to interpret non-uniform labels.
+Crafted the solution in Python, leveraging libraries such as NumPy, CVXPY, and PuLP for linear programming.
+Deployed the solution on an EC2 instance using AWS, ensuring accessibility for forklift operators.
+Integrated models to ensure compliance with federal regulations and company standards.
+Conducted visual data exploration in Python using the Matplotlib and Seaborn libraries.
+
+Data Scientist Jan 2010 – Mar 2013
+Target Corporation, Minneapolis, Minnesota
+
+At Target Corporation, I focused on forecasting future sales by analyzing three years of historical sales data and fitting it to various models. I applied an ARIMA model to predict weekly sales for the upcoming quarter. Through this analysis, I uncovered shopping trends that Target had yet to fully capitalize on, providing valuable insights for strategic planning.
+
+Developed a solution utilizing the R programming language.
+Explored time series models such as ARIMA and GARCH to generate accurate forecasts.
+Retrieved and integrated large datasets from remote servers using SQL.
+Conducted statistical tests on the model to identify suitable autocorrelation and partial autocorrelation lags.
+Projected sales for the upcoming quarter.
+Processed and standardized the dataset to enhance prediction performance and reliability.
+Collaborated with the advertising team to devise a strategy for capitalizing on emerging consumer trends.
+Presented findings through interactive visualizations using the D3 JavaScript library.
+
+Education
+
+Master of Science in Analytics from Georgia Institute of Technology, Atlanta, Georgia
+
+Bachelor of Science in Applied Mathematics from Georgia Institute of Technology, Atlanta, Georgia
+
+Bachelor of Science in Physics from Georgia Institute of Technology, Atlanta, Georgia
+Contact this candidate

@@ -1,0 +1,148 @@
+KODINAGULA VENKATARAO
+SAP ABAP/TM/EM Technical Consultant
+Email id: ac43kb@r.postjobfree.com
+Mobile No: +91-988*******
+
+Career Profile:
+
+Having more than 3.6 years of strong hands-on experience in SAP with focus on ABAP, BOPF, TM, EM.
+Worked as Technical ABAP Developer helping the clients to streamline design of new and existing solutions.
+Worked closely with business to translate their business requirement into SAP Solution.
+Ensured that all of the designs are future proof with minimal changes required in case of future enhancements or expansion of business.
+Good understanding of Functional modules SD, TM, EM
+Good understanding of performance improvement methodologies in ABAP
+Involved in design of some of the most complex SAP Solutions.
+Worked for Implementation (to ECC 6.0) projects.
+A Proactive and Highly motivated individual who likes challenges and thrives on them.
+Excellent analytical and problem solving skills.
+Good understanding of quality processes to be followed during a project.
+Strong Communication and Inter-Personal skills.
+
+Technical Expertise:
+
+Data Dictionary
+Reports: Classical, Interactive, ALV.
+Familiar with Debugging.
+Performance Improvement Techniques
+Module Pool Programming: Screen painter, Menu painter, Dialog programming.
+Forms: Adobe Forms
+SAP-740 ABAP methodologies
+Enhancements: Implicit/Explicit Enhancements, User Exits, BADI.
+Interface: ABAP Proxy, BAPI, IDOC
+BOPF : Report Programming, Enhancing Business Objects,
+Enhancing Business object tables, POWL
+FPM (Floor Plan Manager), FBI( FPM BOPF Integration )
+Linking ECC & TM Systems.
+Knowledge on Gateway Services
+Employment Details:
+
+Employer:
+BPS Business Solutions Pvt.Ltd (SBP consulting Inc.)
+Designation:
+SAP Technical Consultant
+Location:
+Hyderabad
+Duration:
+Aug 2014 to Present.
+
+Client, Roles & Projects Summary
+
+Client: John Deere
+Duration: Mar 2016 to Present
+Role: SAP-Technical Consultant
+Version: SAP ECC 6.0 with EHP 6.
+Project Name: Order Management – TM( upgrade Project for North America & Canada )
+
+Project Description: John Deere is an American corporation that manufactures agricultural, construction, and forestry machinery, diesel engines, drive trains (axles, transmissions, gearboxes) used in heavy equipment, and lawn care equipment. John Deere is nearly 175 years of quality products, innovative solutions and honest value.
+Order management is the administration of business processes related to orders for goods or services.
+A transportation management (TM) is a subset of supply chain management concerning transportation operations and may be part of an enterprise resource planning system. A TMS usually "sits" between an ERP or legacy order processing and warehouse/distribution module. A typical scenario would include both inbound (procurement) and outbound (shipping) orders to be evaluated by the TMS Planning Module offering the user various suggested routing solutions and integrating TM with Event Management(EM) to track the orders in the form of Events.
+.
+
+Role: Technical Consultant
+
+Responsibilities :
+
+I Resolving the new additions/changes through Change request process and delivers with in defined time lines
+Specifically involved in overseeing development and unit testing of SAP TM
+module (ABAP, FPM and BOPF) and SAP EM & SD module.
+Reviewing ABAP programs to ensure efficiency and fine-tuning where necessary
+Experience in enhancing the standard business objects in TM
+Preparation of the Technical Specifications based on the Functional Specifications
+Development of Code based on the approved Technical Specifications
+Analysis and development of objects as per client requirements
+Performed Unit Testing for the work objects.
+
+Environment : Reporting, BADIs, IDOCs, BOPF, Adobe Forms, Proxies, FBI, FPM, FM .
+
+Contribution:
+Sales Order Integration with TM: JD needs to transfer sales documents from ECC to TM in order to plan and execute the transportation on it. Changes have to be made to the XML to not use Shipping condition from the header, but to use the Shipping type at the line item level and still map the service level value
+Purchase Order Integration with TM: Need VMS tracking number and associated COMAR order number for visibility purposes in EM. Feeds from JDSN should have this information. Both of these fields need to be added to the Freight Unit and Freight Orders so that they can be kept track of and matched to the JDSN info and VMS Event handler, respectively.
+Outbound Delivery integration with TM: Once outbound delivery is created in ECC, delivery line item level serial number is sent to the TM and it is stored in product details in DTR(Delivery based Transportation Request)Created a custom field serial number in DTR to hold that serial number coming from ECC.
+Inbound Delivery integration with TM: As part of the International Inbound scenario JD will be creating Inbound Deliveries of those bookings via a batch process (standard batch job).It is required to add serial number and container ID to these inbound deliveries which is a field that will need to be added to the freight unit in TM.
+Shipment Integration with TM: TM system send the default Transportation planning point ‘1000’ to ECC. On ECC, need to find TPP based on Shipping point and Shipping type while shipment creation.
+Visibility Extracts from JDSN: Details on shipments planned by other units need to be transmitted to SAP TM for Visibility Purposes. This flat file will be read by SAP TM to update Freight Units and Bookings that represent these shipping.
+Auto Create FO for 3PL: After getting the EDI 204 conformation from 3PL, comparing the source and destination of 3pl stages and FU stages and adjust the FU stages with 3PL as intermediate stage and create FO.
+Auto sending 3PL from TM : Sending FO data to 3PL when shipment got created or Shipment completed and Freight charges added in to FO from ECC.
+Auto Create FWO/FU/FO & Shipment: Creating a new Forwarding order and Freight Unit based on EDI 204 - 3PL new intermediate stages and convert those into new FO and create the shipment automatically if all these process is success then we are sending these updated data to 3PL through EDI - 219 .
+ZMULTI Tracking Id in EM: Updating all the tracking ids FU, COMAR, VMS with ZMULTI to simplify the process and a report program to change tracking Id other than ZMULTI to ZMULTI.
+ETA Event Message Trigger:
+Auto Shipment Process: When Shipment is created from TM, we are updating Flags in the Shipment based on shipping type and shipping point values that maintained in Enhancement parameter table
+POWL: Created a POWL list for Freight unit, Freight Order and Freight Booking to display specific standard fields, Custom fields and adding new checks and links.
+Send To 3PL: EDI-219 Sending Freight unit details to 3PL for Root planning through proxy.
+EDI-204 3PL Response: It sends the picking date, delivery date and Stages to TM for creating Freight Order.
+EM EDI-214 and 315 : Updating all the Event Handlers FU and VMS when Sales Order DTR assigned Freight Unit Planned into FO, Sales Order Outbound Delivery Update, Delivery Date Changed on Planned Sales Order FU, ETA Date from JDSN with WDI 214 and 315 event code sets.
+Developed Adobe Forms for shipment outputs packing list and shipping label.
+Developed report program to auto update all he flags in TM related shipment based on dates.
+Developed an ALV report program to display Freight Booking and Freight Order details.
+Developed reporting program to update existing tracking id with new once.
+Developed a program to create FO manually based on source & destination and dates.
+
+Client, Roles & Projects Summary
+
+Client: John Deere
+Duration: Aug 2014 to Feb2017
+Role: SAP-Technical Consultant
+Version: SAP ECC 6.0 with EHP 6.
+Project Name: Order Management – TM( Life cycle implementation Project for Australia & New zealand )
+
+Project Description: John Deere is an American corporation that manufactures agricultural, construction, and forestry machinery, diesel engines, drive trains (axles, transmissions, gearboxes) used in heavy equipment, and lawn care equipment. John Deere is nearly 175 years of quality products, innovative solutions and honest value.
+Order management is the administration of business processes related to orders for goods or services.
+A transportation management (TM) is a subset of supply chain management concerning transportation operations and may be part of an enterprise resource planning system. A TMS usually "sits" between an ERP or legacy order processing and warehouse/distribution module. A typical scenario would include both inbound (procurement) and outbound (shipping) orders to be evaluated by the TMS Planning Module offering the user various suggested routing solutions and integrating TM with Event Management(EM) to track the orders in the form of Events..
+
+Role: Technical Consultant
+
+Responsibilities :
+
+I Resolving the new additions/changes through Change request process and delivers with in defined time lines
+Specifically involved in overseeing development and unit testing of SAP TM
+module (ABAP, FPM and BOPF) and SAP EM & SD module.
+Reviewing ABAP programs to ensure efficiency and fine-tuning where necessary
+Experience in enhancing the standard business objects in TM
+Preparation of the Technical Specifications based on the Functional Specifications
+Development of Code based on the approved Technical Specifications
+Analysis and development of objects as per client requirements
+Performed Unit Testing for the work objects.
+
+Environment : Reporting, BADIs, IDOCs, BOPF, Adobe Forms, Proxies, FBI .
+
+Contribution:
+Sales Order Integration with TM: JD needs to transfer sales documents from ECC to TM in order to plan and execute the transportation on it. Changes have to be made to the XML to not use Shipping condition from the header, but to use the Shipping type at the line item level and still map the service level value
+Purchase Order Integration with TM: Need VMS tracking number and associated COMAR order number for visibility purposes in EM. Feeds from JDSN should have this information. Both of these fields need to be added to the Freight Unit and Freight Orders so that they can be kept track of and matched to the JDSN info and VMS Event handler, respectively.
+Outbound Delivery integration with TM: Once outbound delivery is created in ECC,delivery line item level serial number is sent to the TM and it is stored in product details in DTR(Delivery based Transportation Request)Created a custom field serial number in DTR to hold that serial number coming from ECC.
+Inbound Delivery integration with TM: As part of the International Inbound scenario JD will be creating Inbound Deliveries of those bookings via a batch process (standard batch job).It is required to add serial number and container ID to these inbound deliveries which is a field that will need to be added to the freight unit in TM.
+Shipment Integration with TM: TM system send the default Transportation planning point ‘1000’ to ECC. On ECC, need to find TPP based on Shipping point and Shipping type while shipment creation.
+Visibility Extracts from JDSN: Details on shipments planned by other units need to be transmitted to SAP TM for Visibility Purposes. This flat file will be read by SAP TM to update Freight Units and Bookings that represent these shipping.
+ETA Event Message Trigger: Whenever an International Booking exists in JDSN and a Freight Booking has been created within TM there will be entry in an IDOC that is read daily into TM. This IDOC contains information on the booking in JDSN and will be used to update the corresponding TM Freight Booking. The data point relevant to this development is the Estimated-time of Arrival of the booking. When the JDSN date is different from the FB date then FB will be updated. Along with the successful updating of the ETA date the ‘Arrival at Point of Entry’ event will be triggered to EM. The event will then be propagated to the TM FUs through standard TM propagation.
+Auto Shipment Process: When Shipment is created from TM, we are updating Flags in the Shipment based on shipping type and shipping point values that maintained in Enhancement parameter table
+POWL: Created a POWL list for Freight unit, Freight Order and Freight Booking to display specific standard fields, Custom fields and adding new checks and links.
+Send To 3PL: EDI-219 Sending Freight unit details to 3PL for Root planning through proxy.
+EDI-204 3PL Response: It sends the picking date, delivery date and Stages to TM for creating Freight Order.
+EM EDI-214 and 315 : Updating all the Event Handlers FU and VMS when Sales Order DTR assigned Freight Unit Planned into FO, Sales Order Outbound Delivery Update, Delivery Date Changed on Planned Sales Order FU, ETA Date from JDSN with WDI 214 and 315 event code sets.
+Developed Adobe Forms for shipment outputs packing list and shipping label.
+Developed an ALV report program to display Freight Booking and Freight Order details.
+
+Education
+Bachelor of Technology in Computer science Engineering from AIMS college of Engineering, JNTU Kakinada, Andhra pradesh, India.
+Intermediate in M.P.C. (Mathematics, Physics, and Chemistry) from Sri Chaitanya Junior College, Kakinada, Andhra pradesh, India.
+SSC from SVN Public School, Jaggampeta mandal, East Godavari(Dist.), Andhra pradesh, India.
+Contact this candidate

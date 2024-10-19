@@ -1,0 +1,185 @@
+Dora Babu Dowluri
+Email ID: ad7h52@r.postjobfree.com
+Mobile: +1-415-***-****
+
+Over 10 plus years of experience working as DevOps Engineer, SRE and Linux Admin with focus on build and release in various technologies/ applications like Terraform, GitLab, SVN, Jenkins, Chef, Ansible, Docker, Kubernetes(AKS), Helm Charts, Elasticsearch, Kafka, AWS, Azure, APIM, App Gateway. Windows Admin, Python.
+Expertise in Development and Implementation of Continuous Integration (CI) and Continuous Deployment (CD) pipeline involving Jenkins, Ansible, Terraform and Docker containers to complete the automation from commit to deployment.
+Excellent understanding of the principles and best practices of Software Configuration Management (SCM) in Agile and SCRUM methodologies.
+Managed and maintained the API lifecycle using APIM tool, e.g., Azure API Management, Apigee.
+Designed, developed, and maintained APIs using Azure API Management, ensuring secure, scalable, and efficient operations. Utilized OpenAPI for defining API specifications and versioning.
+Integrated Azure API Management with CI/CD pipelines using Azure DevOps, automating deployment, testing, and versioning processes. Ensured seamless integration with other Azure services.
+Monitored API performance using Azure Monitor and Application Insights. Implemented logging and analyzed usage patterns to optimize API performance and reliability.
+Implemented OAuth2, JWT, and API keys for secure API access. Applied rate limiting, throttling, and data protection policies to safeguard APIs.
+Experience in managing applications using AWS Cloud which includes services like: EC2, S3, EBS, VPC, ELB, AMI, RDS, IAM, Route 53, Auto scaling, Cloud Front, AWS Lambda, Cloud Watch, Cloud Formation, OPS Work, Security Groups.
+Implemented scaling strategies, caching, and continuous optimization to enhance API response times and efficiency.
+Configured Azure Application Gateway instances, including the setup of front-end IP configurations, listeners, and backend pools.
+Deployed Application Gateway in various environments (development, staging, and production) ensuring high availability and scalability.
+Monitored the performance and health of the Application Gateway using Azure Monitor, Application Insights, and Network Watcher.
+Automated routine tasks using Azure CLI, PowerShell, and ARM templates/Terraform templates to manage and scale Application Gateway instances.
+Developed Jenkins Files as groovy scripted pipelines to build the Docker images, push them to the Docker registry and perform the rolling deployments on to the Kubernetes Clusters. Managed Kubernetes using Helm charts.
+Extensive experience in developing and maintaining build, deployment scripts for test, Staging and Production environments using Bash/Shell scripts.
+Worked on all phases of Software Development Life Cycle. Well versed with Software development (SDLC) and understanding of the principles and best practices of SCM in Agile, Scrum.
+Monitoring Infrastructure and applications with, Grafana, CloudWatch and Nagios.
+
+Bachelor of Technology in 2011 at BVC Institute of Technology & Science under JNTU Kakinada, India.
+TECHNICAL SKILLS
+
+Git, SVN, GitHub, Atlassian Bitbucket, GitLab’s, Jenkins, Atlassian Bamboo, Apache ANT, Maven, Kafka
+Version Control Tools, CI Tools & Build Tools
+Shell, Python
+Languages
+Oracle, MySQL, PostgreSQL, Amazon Aurora, MariaDB and MSSQL
+Databases
+
+Nexus, JFrog.
+Artefact Repository Management Tools
+Chef, Ansible, Ansible Tower
+Configuration Management Tools
+Docker, Kubernetes, ECS, ECR,EKS, AKS, ACR, Helm Charts
+Containerization/Orchestration
+AWS, Azure, PCF, Terraform
+Cloud Providers / IAC
+JIRA, Kanban Board
+Bug Tracking Tools
+NAGIOS, Splunk, Zabbix, Cloud Watch and Grafana.
+Monitoring Tools
+Linux, Windows Servers, Ubuntu, Virtual Box, VMware, CentOS, RHEL and Hyper-V
+Operating Systems/Virtualization Tools
+Apache Tomcat, WebSphere
+Application Servers/ Middleware
+
+PROFESSIONAL EXPERIENCE
+
+Client – Gap Inc, Pleasanton, CA 02/2024 to till date
+Role: Senior DevOps Engineer
+Responsibilities:
+
+Implement CI/CD pipelines and automation processes using tools like Jenkins, GitLab CI/CD to enable seamless delivery of software updates and releases.
+Developed and maintained complex stored procedures, functions, and triggers to automate business processes and improve data integrity.
+Deployed and managed AKS clusters, ensuring high availability and scalability of containerized applications.
+Configured node pools, pod scaling, and auto-scaling to optimize resource usage and performance.
+Implemented network policies, role-based access control (RBAC), and Azure AD integration for secure access control.
+Integrated AKS with CI/CD pipelines using tools like Azure DevOps and Jenkins for automated build, test, and deployment processes.
+Administered and maintained GitLab instances, ensuring high availability and performance.
+Configured and optimized GitLab CI/CD pipelines to automate build, test, and deployment processes.
+Managed GitLab Runner configurations, integrating Docker for scalable and isolated build environments.
+Implemented security best practices, including access controls, SSH keys management, and SSL/TLS configurations.
+Collaborated with development teams to design and implement efficient branching and merging strategies.
+Monitored system performance and logs using Prometheus and Grafana, proactively addressing issues.
+Provided training and support to development teams on GitLab usage and best practices
+Created and maintained Helm charts for deploying complex applications, ensuring reusable and version-controlled deployments.
+Worked on designing AWS cloud models for establishing secure and cross-premise connectivity with APIM gateway and Content Delivery Network.
+Worked on a variety of services involving in public cloud AWS to provision and configure such as EC2, EKS, ECR, VPC, CloudWatch, CloudTrail, Route53, Lambda etc. and automated the services using Terraform.
+Implemented monitoring and logging solutions using Azure Monitor, Prometheus, and Grafana to track cluster performance and health.
+Configured Azure CNI or Kubernetes for networking in AKS, managing network policies, service endpoints, and ingress controllers.
+Configured horizontal pod autoscaling (HPA) and cluster auto scaler to dynamically adjust the number of pods and nodes based on workload demand.
+Managed Helm repositories and chart releases, automating deployments and upgrades through CI/CD pipelines.
+Provisioned and managed a variety of Azure resources, including virtual machines, virtual networks, and Azure SQL databases.
+Implemented continuous deployment strategies using Helm charts, Kubernetes manifests, and customize.
+Utilized Azure Resource Manager (ARM) templates, Terraform templates, Azure CLI, and PowerShell scripts for automated deployment and configuration
+Creating several Terraform scripts to build the infrastructure in cloud environment and configured it using Chef Cookbooks.
+Using Azure Terraform to deploy the infrastructure necessary to create development, test, and production environments for a software development project.
+Using Ansible to manage & configure infrastructure, wrote Playbooks to automate the configuration setups, by using the Ansible best practice.
+Work closely with the development team to streamline new applications' deployment through the CI/CD Pipeline on the AWS/Azure Cloud Platform.
+Worked on Ansible playbooks for mapping of hosts to a set of roles.
+
+Client - Development Bank of Singapore, Singapore May 2023 – Feb 2024
+Role: Sr DevOps / Site Reliability Engineer
+Responsibilities:
+
+Creating several Terraform scripts to build the infrastructure in cloud environment and configured it using Ansible playbooks.
+Managed user identities, roles, and group memberships within Azure AD.
+Implemented self-service password reset and multi-factor authentication (MFA) to enhance security.
+Integrated Azure AD with on-premises Active Directory for hybrid identity management.
+Enabled single sign-on (SSO) for various SaaS applications and custom applications.
+Configured and managed Azure Blob Storage accounts, containers, and blobs.
+Implemented data lifecycle management policies to automate data tiering and retention.
+Ensured compliance with data protection regulations by implementing Azure Storage policies and auditing access logs.
+Developed custom Helm templates to meet specific application requirements, optimizing for performance and resource utilization.
+Designed and optimized database schemas to support efficient data storage and retrieval, adhering to best practices in normalization and indexing.
+Developed inventory management system using PostgreSQL, incorporating advanced SQL techniques and optimization strategies to ensure fast and reliable data access
+Using Azure Terraform to deploy the infrastructure necessary to create development, test, and production environments for a software development project.
+Using Ansible to manage & configure infrastructure, wrote Playbooks to automate the configuration setups, by using the Ansible best practice.
+Using Jenkins and Pipelines to drive all micro services builds out to the Docker registry and then deployed to Kubernetes, created Pods and managed using Kubernetes.
+Configuring and administrating Jenkins for automated builds Responsible for installing Jenkins master and slave nodes.
+Worked on installation, configuration, performance tuning, security, backup, recovery and upgrades of Linux/Unix environment.
+
+Client – NTTCOM, Japan Jan-2022 to Apr-2023
+Role: DevOps Engineer
+Responsibilities:
+
+Designed and optimized database schemas to support efficient data storage and retrieval, adhering to best practices in normalization and indexing.
+Deployed and managed Kafka clusters on AKS using Kubernetes operators and Helm charts.
+Automated Kafka cluster provisioning, scaling, and configuration using Infrastructure as Code (IaC) tools like Terraform.
+Configured Kafka topics, partitions, and replication factors to ensure high availability and fault tolerance.
+Managed Kafka brokers, ensuring optimal performance and reliability.
+Implemented security best practices for Kafka, including encryption in transit and at rest, and access controls using SASL and ACLs.
+Integrated Kafka monitoring tools like Prometheus and Grafana to monitor Kafka metrics and performance.
+Designed and deployed CI/CD pipelines using GitLab, reducing deployment time.
+Automated infrastructure provisioning and configuration management using scripts and configuration management tools.
+Conducted regular audits and implemented security measures to protect code repositories and build environments.
+Developed documentation and conducted workshops to educate teams on GitLab features and workflow optimization.
+Troubleshot and resolved issues related to GitLab instances, CI/CD pipelines, and build environments.
+Handled working with tools for log analysis and alert triggering and connecting them to different monitoring tools (ELK, AWS CloudWatch).
+Built Jenkins jobs to create AWS infrastructure from Git repos containing Terraform code. Responsible for implementing, maintaining, monitoring solutions in Terraform, Docker, Kubernetes, and Jenkins.
+Used Terraform and ARM templates to automate the provisioning and management of AKS clusters and Kafka resources.
+Participated in database performance tuning efforts, identifying bottlenecks and implementing solutions to improve overall database performance.
+Implemented email notification systems for user account activities, resulting in a 25% improvement in user engagement.
+Using Ansible to manage & configure infrastructure, wrote Playbooks to automate the configuration setups, by using the Ansible best practice.
+Using Kubernetes to deployed Docker Containers into Pod Clusters on multiple Nodes in QA, Test and Production Environments.
+Worked on installation, configuration, performance tuning, security, backup, recovery, and upgrades of Linux/Unix environment.
+
+Client - LG CNS, South Korea Jul-2021 to Mar-2022
+Role: DevOps Engineer
+Responsibilities:
+
+Used version control system Bitbucket, which includes branching strategy like Feature, Master, and Release branches. Created projects and repositories. Configured project securities, pull requests and merging strategies.
+Created and maintained Helm charts for deploying complex applications, ensuring reusable and version-controlled deployments.
+Managed Helm repositories and chart releases, automating deployments and upgrades through CI/CD pipelines.
+Designed and deployed CI/CD pipelines using GitLab, reducing deployment.
+Developed custom Helm templates to meet specific application requirements, optimizing for performance and resource utilization.
+Configured and optimized GitLab CI/CD pipelines to automate build, test, and deployment processes.
+Created custom GitHub Actions to address specific automation needs and improve pipeline efficiency.
+Managed GitLab Runner configurations, integrating Docker for scalable and isolated build environments.
+Monitored system performance and logs using Prometheus and Grafana, proactively addressing issues.
+Creating and maintaining Infrastructure for Applications in AZURE using Terraform. Building and Automating CICD pipelines for different applications using Jenkins & Azure Pipelines.
+Managed access controls using IAM policies, ensuring only authorized personnel could make changes to DNS settings.
+Developed custom polling mechanisms and dead-letter queues to handle message failures and retries effectively.
+Experience with Jenkins administration, backups and plugins. Using master slave configuration maintained various jobs in Jenkins and supported development teams.
+
+Client – Halliburton, Texas, USA Dec-2020 to Aug-2021
+Role: Cloud Engineer/Site Reliability Engineer
+Responsibilities:
+
+Managed and maintained compliance with industry standards for email sending and data handling.
+Involved in Development and Implementation of CI/CD pipeline involving Jenkins, Ansible, Terraform and Docker containers to complete the automation from commit to deployment.
+Contributed to the automation of infrastructure provisioning using Terraform, reducing manual errors and improving deployment speed.
+Installed various Kubernetes packages using Helm charts and created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed releases of Helm packages.
+Supporting and managing client’s infrastructures on AWS. Managing AWS Services EC2, Route53, VPC, EBS, S3, and IAM. Launched and managed Amazon EC2 and VPC instances. Create and manage VPC, Subnet and Security groups.
+Application Deployment to all environments (Dev, Staging, UAT and Production). Worked in the process of hosting/deploying the entire application into AWS and Microsoft Azure Cloud.
+Monitoring Infrastructure and applications with, Grafana, CloudWatch and Nagios.
+Used version control system GIT, which includes Git branching strategy like developing branches, staging branches, master, push, pull requests and code reviews are performed.
+
+Client - Fidelity & Financial Services, Florida, USA Mar-2014 to Nov-2020
+Role: Linux Admin / DevOps Engineer
+Responsibilities:
+
+Installed, configured, and maintained Linux servers (Ubuntu, CentOS, RHEL) for various applications and services, ensuring high availability and optimal performance.
+Automated routine tasks and system configurations using shell scripting (Bash) and configuration management tools such as Ansible, reducing manual errors and improving efficiency.
+Implemented and maintained monitoring solutions (Nagios, CloudWatch) to proactively identify and resolve system issues, ensuring minimal downtime and optimal performance.
+Managed user accounts, groups, and permissions using useradd, usermod and chown.
+Integrated and maintained LDAP for centralized authentication and user management.
+Managed custom repositories and package versions for compatibility and security.
+Installed, updated, and removed packages using apt-get,yum, rpm.
+Configured network interfaces, routing, and bonding using ifconfig, ip and network scripts.
+Implemented network monitoring and troubleshooting with ping, traceroute, tcpdump.
+Set up and managed NFS, DNS (BIND), DHCP, HTTP (Apache/Nginx), and SNMP services.
+Collaborated with cross-functional teams to plan and execute system upgrades, patches, and migrations, minimizing disruption to business operations and ensuring smooth transitions.
+Conducted regular system performance tuning and optimization using tools like SAR, vmstat, and system logs, optimizing resource utilization and improving overall system responsiveness.
+Developed and implemented automation solutions using shell scripting (Bash) and configuration management tools such as Ansible and Chef, reducing manual efforts and improving operational efficiency.
+Created Jenkins CICD pipelines for continuous build & deployment and integrated Junit and Sonar Qube plugins in Jenkins for automated testing and for Code quality check.
+Experience in working on source control management tools like GIT (GitHub), Subversion (SVN) and creating GIT repositories with specified branching strategies.
+
+PROFESSIONAL SUMMARY
+EDUCATION
+Contact this candidate

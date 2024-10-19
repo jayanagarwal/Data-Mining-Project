@@ -1,0 +1,161 @@
+Sung Hoon Yoon
+
+Main: 646-***-**** ad8sjj@r.postjobfree.com
+https://www.linkedin.com/in/sung-yoon-b3295524/
+
+**/****-******* ******** ****** Sr Data Scientist & Consultant
+•Working with senior management to migrate Redshift & Sagemaker ML pipelines to Snowflake & Databricks utilizing Python for Pfizer Medical Research & Marketing projects
+•Instituted a comprehensive EDA foundation to find duplicates, missing data, descriptive statistics, univariate /multivariate analysis, outliers, etc... for patients based on IC10 codes & Symphony's consumer data. The analysis will extend to a SaaS dashboard based on Plotly & Dash for the future.
+•Automate and streamline AutoML pipelines using AWS cloud
+
+06/2023-present Legacy Labs Pte Ltd Lead Data Consultant
+•Consulted closely with the Management Team to set up a USA-based operation
+•Migrated Legacy database to AWS S3 Delta Lakes utilizing PySpark
+•Prepared & pitched plans on headcount, marketing analysis, market outlook, strategies, expansion plan, cybersecurity, use of LLM, etc. for a Machine Learning line of solutions
+
+03/2023-06/2023 FHLBNY SME Sr Data Engineer
+•Sr Data Engineer and Cyber Security Professional in charge of Python Anaconda (update, management, & maintenance) in AWS environment with Snowflake. And resolved CVE issues and ETL for MLOps for the risk calculations
+•Researched AI and deep learning topics for internal LangChain projects POC such as Retrieval Augmented Generation (RAG), Maximum marginal relevance (MMR), SelfQueryRetriever, Conversational Retrieval Chain using memory, llama_index, Trulens, etc...
+
+10/2020-12/2022 Forian.com: PA Lead Data Engineer
+•Lead senior Data Scientist & Engineer of Cannabis & Medical Data with Glue, EC2, Stepfuncions, EMR, Spark, Python, Scala, & Delta Lake. Planned & executed AWS architecture data pipeline from the initial point & ground-up
+•Implemented PySpark Encoders (OHE, Ordinal, Hash, Binary, etc.) for NLP, ML, & AI models
+•Chose & implemented AWS solutions & architecture from the initial point for ETL processing of big data. Modeled and visualized data into Plotly Scripts with Dash interaction
+•Contributed to Cannalytics 2.0 dashboard Project to provide dashboards for retailers, growers, & state government regulatory agencies by connecting with various stakeholders to identify various business & regulatory requirements & translated to Looker application in Snowflakes API with SnowPark.
+•Developed & incorporated models, such as LDA, FpGrowth, PrefixSpan, content-based, and collab filtering recommendations, into Cannalytics on Spark’s MLlib
+•Expanded existing Classification Tree models by various Bagging & Boosting methods such as Gradient Boost. Train, test, and cross-validate models.
+•Migrated ETL pipeline from existing AWS Glue, EC2, Step functions, etc... to Databricks Compute, SQL Warehouse, Serverless Compute, Pools, Endpoints, Photon, Workflows, etc... Setup users, configurations, and permissions
+•Linked Petabytes of Personally Identifiable Information (PII) of the POS Customers via Datavant with Consumer Characteristic Data, Medical Diagnosis, Medical Claims + RX for insight & analysis for own internal Forian Data Factory, while adhering to HIPAA
+•Used Splink to create a Person Master via probabilistic record linkage & deduplication
+
+4/2019- 10/2020 Neon Partners: NYC Sr. Fintech SME Advisor
+•Private Investment Advisor of Fintech firms’ technology merit & Market Analysis
+•Pre & post analysis of target companies’ business environment vs clients, then gathered relevant data for ETL, full analysis, modeling, & product pipeline
+•Enhanced simple models (GLM) with Piecewise Linear, Ensemble, & Boosted models. Selected and tested new and alternative features to retrain models.
+•Advised & worked closely with invested startups on implementation or transition to AWS cloud architecture. Deployed S3, Boto3, Glue, Crawler, Glue, Glue Endpoint, VPC access, Athena, EC2, PySpark, Sagemaker, Pytorch, Keras, & Tensorflow
+•Wrote ETL vs XML files & automated model execution in Python using AWS Glue in py script & pyspark
+
+4/2018- 4/2019 Arthena: NYC Lead Data Engineering Head
+Initiated & managed Art Bidder SaaS Dashboard project for the bidding business team which numerically & visually represented Price distribution & various Risk parameters.
+•Ensemble Modeling (Random Forest), Boosted Tree, & Timeseries Backtesting strategies of Art Pieces for Bidding & Portfolio construction based on historical data implemented on GCP Cloud environment with Docker & Kubernetes cluster & auto-checked by CircleCi
+•Performed training, testing, and Cross-Validation on the art Pricing models
+•Visualization & Modeling in Jupyterlab & Plotly w/ Python Packages (scikit, scipy, numpy, spaCy, etc.) in pyenv & Pipfile environment
+•ETL via Python w/ heavy usage of re, pandas, tqdm, peewee, sqlalchemy, jinja2, fuzzywuzzy, pyodbc, SVM (Support Vector Machine), etc
+•Utilized PyTorch for Convolutional Neural Network (CNN) to identify priorart
+•Proposed Artwork index based on genre, style, medium, auction results, counts, equivalent works, etc...
+•Guaranteed product development for the bidding as a 3rd party insurance provider
+
+02/2018- 5/2018 Qraft: Seoul External Project Lead
+•As an external lead, analyzed the first Artificial-Intelligence ETFs (Qraft AI-Enhanced U.S. Large-Cap & Qraft AI-Enhanced U.S. Large Cap Momentum) for potential investment & utilization of intellectual property by 2nd largest Chinese asset management firm by AUM
+•Extensive backtesting & performance attribution of GAN (Generative Adversarial Network) model in Python with Scikit, Plotly, & Pandas
+•Invited by Harvest Group’s Chairman to present project findings to the management
+•QRAFT & AMOM were listed on NYSE as of July 2019
+
+11/2017- 02/2018 Knowledgent/Citi Group: NY Data Engineering Manager
+•External project-specific consultant for the Repricing of Bank Transactional Clients by ingesting accounting receivable & payable records using Python & Conda
+•Gathered requirements for repricing by interviewing sales, accounting, back office, etc...
+•Supported AdHoc requests for data analysis & created visual reports to support quality checks & transaction pricing strategy sanity, which aided Financial Planning in pricing configuration & structure changes
+•Gathered requirements for the Model & applied Machine Learning & Visualization techniques in Python w/ Matplotlib, numpy, pandas, etc... in Xhost & SSL connected to Redhat Linux analysis cluster w/ PySpark
+
+05/2017-08/2017 Securities & Exchange Commission Subject Matter Expert
+•Regulatory & Compliance analysis of Registrants using Python w/ SEC’s NEAT in Jupyter Notebook for Quantitative Analysis Unit (QAU)
+•Working closely with legal, analysis to spot regulatory violations such as insider trading, Rule 105 violations, front-running, churning, excessive trading, & deliberate index ex/inclusion during rebalancing
+
+11/2016-5/2017 Bank of America: NYC Sr. Data Enginer / Contract
+•Analyzed unstructured log Data with Python, utilizing regex, Levenshtein, Quartz, & Sandra (BoA internal platform) to improve trade/settlement flow, & adhere to emerging accounting & regulatory standards
+•Contributed to Muni trading & accounting operation system to enhance the quality of calculations, add new instruments/products, & migrate from legacy to Python-based Quartz platform
+
+01/2013 – 06/2016 Fort Inno: Seoul StartUp Business Development Head (Sr VP)
+•Setup local Dynamic hedging Desk for Variable Annuity for Life Insurance Industry, which required a full trading & execution cycle for derivative & ETF products for Asset Liability Risk management
+•Proposed benchmark index for the comparative framework of the underlying rainbow asset portfolio choices available to VA products with an Asian funding mechanism
+•Integral part of Structured Product based Variable Annuity (spVA) solutions – functional & Data science / Engineer requirement processing via Python for legacy databases
+•Big Data project lead: worked with Hadoop w/ Anaconda (Python) to feed the calculation of VA solutions
+•Market Analysis projects in Spark, Scala, & Python for the immigrants' insurance product demand pattern
+•Structured products sales & consultation for Asset Managers & Insurance Industry lead
+•Successfully completed a joint venture with the main competitor & engaged in potential VC funding
+10/2011 – 08/2012 Accenture: Seoul Senior Manager
+•Sales & implementation lead for newly initiating OTC derivative Central Counterparty (CCP), Alternative Investment, and Prime Brokerage (PB) adoption in Korea
+•Engaged in one RFI & four RFPs, working with 14 consultants, and won a new project worth $2m USD
+•Developed vertical alliances with vendors (data & systems) & developers for initiating local PB industry
+•Led Alternative Investment ($30 billion Alternative Investment AUM) reporting & control system for Korea National Pension Service & responsible for winning an additional $1.2m USD in new business. Managed seven consultants over four months working with Credit Suisse Asset Management
+•Prototyped alternative portfolio mockup in Anaconda Python with Pandas & Scikit
+
+01/2009 – 03/2011 Samsung SDS: Seoul Principal Consultant / Contract
+•Thought Leadership Center (TLC) financial team leader for Samsung Asset Management (SAM) & Samsung Securities Inc. (SSI) affiliates. Managed four consultants. TLC mission was to advise future directions to CEO, CFO, CIO, & COO within the Samsung Group
+•Worked with SAM’s Quant Team on new ETF developments & index replication projects. Currently, SAM ETF product line commands 60% of the local market
+•Consulted for Samsung Securities, Life, and Asset Management on International expansion, Darkpool, Algorithmic Trading, Private Banking, Alternative Investment, Hedge Funds, FICC, etc. ...
+•Alliances and benchmarked cloud operators, GPU, fund admins, & multilateral trading facility (MTF)
+•Engaged in SSI’s ‘Long Term IT Innovation’ task force to win $21m USD project for SDS
+
+07/2003-01/2009 IQ Strategy Inc.: NY & London Quantitative Consultant
+•Acted as Benchmarking & Strategy consultant for Samsung Securities on International expansion, Darkpool, Algorithmic Trading, Private Banking, and 130/30 business, Wrap account, and Private Banking management. (Samsung introduced Wrap account in 2008 & currently has $3b USD AUM, and is the #1 in Korea. Also, ranks #1 in High-Net-Worth Clients in Korea according to Merrill’s Financial Advisors)
+•Contributed to a Russell Index strategy that returned over 7% in a month ($14m USD in profit).
+•2004: Consulted for No. 1 ranked Derivative & Quantitative Research Team (Credit Suisse) - revamped Russell Index reconstitution efforts, and developed industry model. Predicted Russell index changes were ranked as best among the brokers by independent client research in 2004 (by Barra E3 tracking-error).
+•Led development effort (seven developers) of client’s pre and post-trade analytics for London Bank (Dresdner’s €11m algo project) with Impact Cost Analysis, implementation shortfall, enhancement (via creating new metrics of performance off) VWAP, TWAP, sniper, etc
+•Acted as a product specialist for an Algorithmic Trading EMS company (Aegis) to promote competitive advantage, product alignment, encapsulation of trading business rules and data feed logical structures.
+•Acted as sales & product specialist for a Risk Management company for the alternative investment industry
+•2004/11-2005/7: Consulted with leading algorithmic trading operation to advise on improving algorithm development (VWAP, TWAP, volume participation), transaction cost analysis, implementation shortfall, S&P index tracking, and portfolio optimization using S+ and Python (Vie Capital) w/ numeric package
+
+12/2001 –06/2003 Knight Securities, L.P. Head of Quant Analytics: Program Trading
+•Authored Russell index rebalance strategies for client consumption & utilized them for prop trading
+•Developed Pre-trade and Post-trade analytics with Impact, Volatility, slippage, and shortfall using Python & VB
+•In charge of Blind-bidding and agency trading book with an average AUM of $60m
+•Implemented rule-based decimalization trading and market-making strategies based on a quantitative long/short model by working closely with quant model developers and IT team members written in C++.
+•Directed seven IT and three quant staffs for program trading systems implementation and regulatory review
+•Sat on Firm’s 401K investment committee
+
+03/2000 –11/2001 Bear Stearns Inc., Principal & Proprietary Trading VP
+•Traded successful Russell rebalance strategy (33% in & 14% out returns for long/short book)
+•Evaluated and critiqued on risk & performance analysis of the firm’s proprietary trading strategies (earnings, reversal, and pairs trading) effects by developing GUI-based backtesting & monitoring apps
+•Published study of the year 2000 Exchange Decimalization effect & 1st tax efficient portfolio reconstitution
+•Conducted regulatory reviews on the firm’s principal, proprietary, and agency trading & monitoring
+•Managed and developed algorithms for customer-facilitated Guaranteed Market on Close trades with IT
+•Published Research on Russell Rebalance to clients & facilitated guaranteed close & agency trades.
+•Quantitative Analysis of S&P growth & value index constituents’ additions & deletions
+•Published reports on Russell Rebalance, ETF strategy, Market Microstructure, Industry & Sector relative value, etc.… based on research done in Python
+•Committee member of Trading GUI and implementation of the trading procedure of the new Bear Box (EMS)
+
+03/97 –3/2000 Merrill Lynch Inc. Proprietary Program Trading Desk VP
+•Contributed to Merril’s S&P Sector SPDRs initial launch as a quant by conducting analysis & working with SEC. Later continued to serve as a primary quant for the sales & trading desk.
+•Ran a profitable statistical arbitrage book based on the Short-Term Residual Reversal model (17% return), which is a multi-variable regression model taking into account for multi-collinearity and Heteroskedasticity
+•Performed return contribution & risk analysis for factors like section, industry, shocks, earnings, volatility
+•Developed multi-threaded GUI-based trade monitoring application in VB with real-time data feeds from Reuters, position updates, graphical, and tabular interactions.
+•Implemented non-linear Impact Cost model and Opportunity Cost model for Risk Blind Bidding. The impact Cost model was built on tick-by-tick data downloaded from C-API to Bloomberg and matching it to executions done by traders, which calculated of actual Impact Cost using Splus & Python
+•Formulated real-time Volume Weight Average Price (VWAP) and interval VWAP mechanism for usage in client trading (overseas) and DOT strategy execution (Dot system captures institutional clients flow)
+•Developed on real-time trading model based on bid/ask size & spread, past transaction/impact cost, historical patterns, industry/sector momentum.
+•Developed automated VWAP execution strategy by looking at non-synchronous trading, the curvature of volume, interval risk, impact cost, binomial price volatility, and real-time monitoring using Splus and Python
+•Developed dividend projection model for usage in EFP, Basis trade, and index arbitrage: the model accounted for future increases, jumps, manual intervention, and special dividends using Python
+•Ran & compared simulated model vs. actual portfolios based on technical analysis, trading execution studies, earnings studies, industry/sector rotation performance
+•Managed two quants and several IT staff on the distribution of client pre and post-trade analytics applications written in VB, which included heat maps, RT updated graphs, and user interactive tables, which were distributed to 30+ client sites.
+
+09/93 -03/97 Salomon Brothers Inc.: New York
+Derivative and Equity Portfolio Analysis Quantitative Analyst
+•Co-developed Portwatch Product in Gauss: A stock selection System based on 400 different Styles, Technical, Options, Earnings, Value, Growth, Risk, Insider, Institutional, and Industry indicators screened for trading candidate identification. Used to identify technical momentum added option writing/buying strategies for the trading desk. Alerted changes in earnings and value effect strategies for institutional investors on a daily basis, for example. Portwatch was used by nearly 300 clients.
+•Developed HOLMES product in Gauss: (Heuristic Outlier Model Estimation for Stocks) portfolio investment style and risk analyzer. Used by institutional investors to check their own portfolio against prospectus benchmarks defined in the prospectus for deviations via t-test, Wilcox test, Cook’s distance. HOLMES was used by quantitative salespeople to pinpoint risk in client portfolios and also to select optimal Index replication portfolio, focus on sales strategy
+•Co-developed Salomon's U.S. & international Predicted Earnings Model, which identified earning surprise reaction, price & earnings momentum, and fundamental indicators. Familiar with International Accounting Standards and GAAP adjustments, since the definition of earnings differs significantly due to the different accounting standards around the world. Worked extensively with First Call and IBES data
+•Oversaw production of Daily Index Derivative Reports: Reports contained daily Implied rate, Mispricing, Fair Value of Index Futures, & Implied Volatility of Options on major international financial markets
+•Wrote and maintained Index Futures and Options Pricing model.
+•Worked with index group on enhancing the construction of index & accuracy of corporate actions
+•Constructed Black Scholes and Binomial Model with American exercise and discrete dividends to calculate implied volatility and spread trading strategy with cost/benefit analysis
+•Programmed sanity checks, ensure data integrity, and wrote conversion C to postscript for publishing
+•Contributed to monthly publication (“Quantitative Equity Strategy”)
+•Modeled Liquidity Risk for U.S. and international markets using historical and real-time data.
+
+EDUCATION:
+•Masters level classes, NYU, New York NY (Econometrics, Intl Accounting, Risk Management)
+•BA, University of California at Berkeley, Economics w/ Business Minor {3.6 Major & 3.9 Minor GPA}
+
+COMPUTER SKILLS:
+Bigdata: Spark 3.x, (PySpark, MlLib, & Graphix), Databricks, Tensor Flow, Keras, Pytorch
+EMR, S3, Boto, Glue, Crawler, VPC access, Athena, EC2, Sagemaker, Delta Lakes
+Postgres SQL, SQL Server, Github, Google Cloud, Kubernetes, Docker, CircleCI,
+Linux: CentOS, Ubuntu, bash, csh, (e)grep, find, neoVim, Emacs, pudb, sed, awk, ssh, ssl
+
+Languages: Python, Visual Basic, C#, C, & Scala
+Jira, Asana, Slack, Confluence, Draw.io, MS Office, Quick Books API, MQA, Bloomberg API
+
+Certifications:
+LangChain Chat with Your Data DeepLearning.AI
+Prompt Engineering for ChatGPT Vanderbilt University
+Cybersecurity Professional Google
+Contact this candidate

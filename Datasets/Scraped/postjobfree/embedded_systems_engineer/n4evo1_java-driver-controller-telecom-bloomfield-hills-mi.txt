@@ -1,0 +1,146 @@
+Embedded/Systems Software Engineer
+
+Venkat R Mandava 
+
+
+SUMMARY 
+
+ 
+
+ * Over 10 years of IT industry experience in developing large-scale real time embedded system applications, System Programming, Telecom & networking Software.
+ * Excellent programming expertise in C/C++ on Linux, Embedded Linux, VxWorks/Tornado platforms with very good exposure to Object Oriented Architecture (OOA), Programming (OOP) and Design (OOD).
+ * Hands on skills on GNU development tools (GCC, AutoConf, Automake) and scripting languages such as Perl (Windows/UNIX/Linx), CSH/KSH/BASH shells (Linux).
+ * Hands on experience in Kernel configuration, building, installation and debugging.
+ * Hands on expertise in Inter-Process communication (IPC) mechanism (Pipe, Socket, RPC, Shared Memory), Process Synchronization techniques (Semaphores, Mutex, Critical Section) techniques, multi-threading/multi-processing models (POSIX, Windows) and system programming on Linux and VxWorks platforms.
+ * Working experience in development of various layer protocols including TCP/IP, ICMP, ARP, RARP, SS7, SONET/SDH and have good understanding of other protocols such as ATM, telnet. 
+ * Experience in working multi-site configuration management (version control) systems such as ClearCase, Visual SourceSafe, CVS etc. 
+ * Experienced in entire system life cycle including analysis, design, programming, testing, debugging and implementation of client/server based applications and Firmware Development. 
+ * Hands on experience in Collision Detection and Prevention systems on Locomotives using GPS and Radio Modem, Remote Diagnosis of the System.
+ * Good level of experience and knowledge in Powertrain ECU’s, CAN-Bus, FlexRay
+ * Worked as a consultant from Wipro in the areas of Firmware Development at Ericsson Labs, Rome, Italy on several projects.
+
+ EDUCATION:
+
+ 
+
+ * Master's Degree in Computer Science (M Sc) from Nagarjuna University with distinction.
+
+Skills:
+Operating Systems Windows 2K/XP, Linux (RHL), SOLARIS, VxWorks, OSE Delta.
+Prog. Languages C/C++, VC++/MFC, Assembler for 80x86, PPC860
+Scripting CSH/BASH/KSH, Perl
+Kernel Linux Kernel 2.4/2.6, Kernel Module programming, Custom Kernel Build, GRUB/LILO, Kernel Driver in SMP/UP environment.
+Networking TCP/IP, ICMP, ARP, RARP, SS7, SONET/SDH Frames
+Embedded Systems Embedded Linux, VxWorks, Tornado, Initial Boot System, Board Bring-up Activities
+Tools Rational Rose
+Source Control ClearCase, WinCVS, Visual SourceSafe
+
+WORK EXPERIENCE: 
+
+ 
+
+IBM (Internet Security Systems)., Atlanta, GA June 07 to Jan 08
+
+SR. Embedded Software Engineer
+
+The IBM’s ISS group centrally manages family of Proventia multi-function protection products that unify antivirus, firewall, VPN, IDS (Intrusion Detection System), IPS (Intrusion Prevention System), application protection, antispam and content filtering technologies on a single engine. The Proventia Network Intrusion Prevention System (IPS) GX6116 preemptively blocks known and unknown threats like worms, Trojans and spyware, preserving network uptime, reducing emergency patching and preventing security breaches. These appliances sit inline on the network or gateway. Built with two set of processors, the network processor handles high speed processing of network packets and 64 –bit multi-core processor examine traffic across all seven OSI layers. The appliance also offers HA options for continuous protection and network availability.
+
+Responsibilities:
+
+ * Port the common sensor framework, daemon, network engine, SPA Net Protect, PAM, CRM projects from old Linux kernel 2.4 (RHL) to newer Linux kernel 2.6 (Suse derived proprietary Linux kernel).
+ * Modify the Makefiles, RPM specs and build scripts for the above mentioned projects for the Gx6116 appliance.
+ * Modify the Adapter, NIC, Packet Consumer, Display drivers for the Gx6116 appliance.
+ * Modify and validate kernel modules pcilkm, sct and pciinet for Gx6116 appliance.
+ * Update the design documents and test scripts for the projects/modules ported to the new platform.
+
+ 
+
+Environment: C/C++/Linux (Kernel 2.4 & 2.6), PERL, Shell Scripts, GNU Tools.
+
+ 
+
+Hewlett-Packard Corporation, Atlanta, GA. Jan 06 to Jun 07
+
+Senior Software Engineer
+
+The Strategic Store Infrastructure (SSI) Project uses a highly customized version of the HP Legacy Application Analysis Service (AAS) to address the issue of migrating The Home Depot’s (THD) existing in-store C code applications which comprise the Architectural software functionality to a new platform. The applications that needed to be ported includes AA (Application Architecture), SH (Shared libraries), CA (Communications Architecture), Vault, Credit and RPC.
+
+Responsibilities:
+
+ * Reverse engineer and perform Static C code analysis for THD (The Home Depot) In-Store-Process (ISP) modules.
+ * Re-Design and Implement the AA (Application Architecture), SH (Shared libraries), CA (Communications Architecture) modules using C/Linux platform.
+ * Convert the K-Shell business logic scripts to C and Java on Linux platform.
+ * Port the K-Shell ISP install scripts to BASH on Linux platform.
+ * Write and execute Acceptance test plans.
+
+ 
+
+Environment: C/C++/Linux, PERL, GCC, GNU Tools.
+
+WIPRO June 01 to Dec 05
+
+Senior Software Engineer/Project Lead
+
+Projects Handled at Ericsson Labs, Rome, Italy:
+
+ * ST-EB Firmware for NB and HSL
+ * PBIST ST-HSL (High Speed Link Signaling Terminals)
+ * PBOOT/EBOOT for ST-EB
+ * RPI Firmware Development for CSPB2.0 (Common Speech Processing Board)
+ * PBIST CSPB2.0 (Production Built in Self Test)
+ * CDD (Cicero or Capella (ASIC) Device Driver)
+
+Projects Handled at Wipro(Offshore) for Ericsson:
+
+ * ET155-1 SONET/SDH Firmware Maintenance
+ * Linux Device Drivers for I2C, SPI, GPIO
+ * MD110 Ericsson Enterprise Switch
+
+Responsibilities:
+
+ * Trouble Report analysis, Problem Identification, Problem Reproduction and Bug Fixing.
+ * Understanding SDH standards and make sure of the standards followed correctly and train other teams in the same area
+ * Monitor and Track all Firmware team’s day to day responsibilities and assignments and ensure that all deliverables are on time.
+ * Establish Communication between teams and client to get the required information for problem solving and to update the work status.
+ * Arrange weekly meetings between teams and daily meetings on demand.
+ * Identify and Arrange trainings in inter-related areas between teams under continuous learning process.
+ * Design and Develop Linux Device Drivers
+ * Porting, Building, Installation and Configuration of Linux kernel for customized applications and processors.
+ * Worked as a Firmware consultant at Ericsson Labs, Rome, Italy for two years in the areas of Board Bring up activities, Diagnostic software’s like PBIST, Initial Boot software’s like PBOOT/EBOOT and Firmware Applications and Device Drivers using DIAB C/C++, DAS, OSE Delta.
+ * Preparing the Build Scripts for Environment setup
+ * Modify and creates Makefiles
+ * Porting of PBOOT/EBOOT and BIST from MPC860 to MPC750 of ST-ET Board.
+ * Enhancements, Bug fixing and work around development for interface between Master Controller and DSP processors on CSPB board.
+ * Gain the knowledge of MD110 and involve in TR analysis, problem identification and bug fixing.
+
+Environment: DIAB C/C++, OSE Delta, REOS, Linux, PERL,GCC, DDS, Illuminator, TIP serial interface, Serpent Central Procssor Simulator, MPC860 QUICC, MPC750 and M68000.
+
+KERNEX MICROSYSTEMS, INDIA Jan 98 to May 01
+
+Software Engineer
+
+ 
+
+Projects Handled:
+
+ * Anti Collision Device (ACD) or Raksha Kavach
+ * Konkan Railway Telecontrol System (KRTCS)
+ * TrainX
+
+Responsibilities:
+
+ * Performance Monitoring and Analysis of system using Wind River Debugging Tools
+ * Design and Develop Device Drivers in VxWorks
+ * Porting of LOCO ACD modules from DOS to VxWorks
+ * Design of ACD System in VxWorks
+ * Study and Build the Environment (Installation and configuration) for VxWorks
+ * Train the people in VxWorks
+ * Study and Understand the Old Design System of ACD
+ * Test the System both in Lab and in Field
+ * Develop the System in C/C++ and DOS
+ * Feasibility study and Development of KRTCS
+ * Develop and test the Application for TrainX in C and DOS
+
+Environment: GNU C/C++, Tornado, Wind River Debugging Tools, UNIX, MS-DOS, 80386 Embedded Processor, GPS, Radio Modem, LCD.
+
+Contact this candidate

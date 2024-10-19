@@ -1,0 +1,118 @@
+Gary M. Janssen
+**** ******* ***. #****
+Glen Burnie, MD 21061
+ad2swu@r.postjobfree.com
+443-***-****
+
+SUMMARY:
+
+With 25 years of system integration experience including the consolidation and migration of private and public secured infrastructures to government and service provider cloud based solutions. Extensive data collection, analytical modeling, simulation, reporting, and executive level presentations providing answers to upper echelon military, government, and business leaders. International system performance monitoring and management expert serving the federal government including the United States Army, Air Force, and the Federal Aviation Administration (FAA) along with industry leaders including Chevron, Freddie Mac, Time Warner Cable, Blue Cross Blue Shield, General Motors, and Comcast.
+
+Top Secret with Special Compartmentalized Information Active
+
+EDUCATION:
+
+Bachelor of Science/Information Systems, University of Michigan School of Engineering
+
+EXPERIENCE:
+
+09/2022 - 09/2023 Infrastructure Integration Engineer - US Army/DISA
+Flash Services/Railhead, Ft. Meade/Aberdeen Proving Grounds MD
+
+Integrated the United States Army Stryker Brigade Combat Teams tactical communication capabilities within Division and Corps Command Post (CP) vehicles providing remote access for Voice over IP and Unified Communications over wireless and satellite backbones. Created, registered, and implemented NSA approved Commercial Solutions for Classified (CSfC) technologies while completing and documenting capability packages (CPs) for submission and authorization for expedited field deployment. Engineered iBGP and OSPF to support IPSec with GRE tunnels secured with Transport Layer Security (TLS) 2.0 for TLS Target of Evaluation (TOE) supporting Brigade and Combat Team (BCT) vehicles. Created test plans and recommendations implementing 5G mmWave transport while configuring ground stations to pass Command and Control (C2) application messages from and through vehicles in formation "At the halt", "At the quick halt", "On the move” and “On the Go”.
+
+11/2019 - 09/2022 United States FVEY Pegasus CWAN Representative
+Targeted Approach LLC/Paragone - Andrews AFB
+
+Provided Systems Engineering and Technical Assistance (SETA) for the United States Air Force representing the United States as the FVEY Pegasus Coalition Wide Area Network (CWAN) Program Lead working with national representatives from Australia, Canada, New Zealand, and the United Kingdom. Engineered and diagrammed the resilient wide area network (WAN) red and black architecture to better support secured joint military communications. Configured IOSs for wide area network routing including OSPF, EGRP, and BGP with IPSec multipoint generic routing encapsulated (mGRE) tunnels connecting national networks and high side HAIPEs through Type 1 COMSEC device sub interfaces at the National Federated Gateways (NFGs). Integrated national Voice over IP installations into Cisco’s Unified Communication’s Call Manager for redundant routing and resilience while migrating off DISA’s milCloud to Amazon’s Web Services (AWS) and DISA’s Stratus cloud solutions.
+
+Interpreted Combined Communications-Electronics Board (CCEB) Allied Communications Publications (ACP) to migrate the coalition CWAN from ATM to DISAs Common Mission Network Transport (CMNT) MPLS backbone for resilience and issue remediation. Engineered single pane of glass CWAN monitoring using SolarWinds modules and championed passive test unit installations at national network points for failure remediation. Work products included infrastructure diagrams, white papers, 101 and 201 CWAN Deep Dive slide decks, analysis papers, briefs, and presentations to senior Air Force, Pentagon, and Coalition leadership.
+
+01/2019 - 10/2019 Independent Consultant
+Network Integration and Architect
+
+Engaged with clients from Conduent, Riverbed, and Spry Squared integrating Network Performance Management (NPM) and Application Performance Monitoring (APM) tools from Riverbed (OPNET), SolarWinds, AppDynamics, Wireshark, Splunk, and various proprietary tools across their wide area networks (WANs). Designed, Installed, and Configured Infrastructure Management tools within hybrid enterprise networks monitoring local data centers with VMware components, SaaS installations, and Cloud based solutions. Performed data collection and deep packet analysis using Wireshark and SolarWinds for load and flow mapping allowing real time dashboard presentations.
+
+Used predictive analytics and business rule monitoring providing complete visibility within all tiers of infrastructure in hybrid networks for virtualized and local data center-based application, database, and web servers. Provided 3rd level root cause analysis and remediation through packet capture and flow analysis integrating application, network, and business transaction correlations. Developed dashboards presenting real time performance metrics and historic traffic analyses providing trend identification projecting future problems and remediations before encountered in production.
+
+01/2017 – 01/2019 Federal Aviation Authority (FAA)/Select Group
+System Integration Engineer Ashburn, VA
+
+Proved the Federal Aviation Administration’s (FAA) Flight System for 21st Century (FS21) Automated Flight Service Station (AFSS) could process Voice over IP (VoIP) capabilities using their existing infrastructure. Using a custom radio interface unit built by Harris Communications specifically for this project, used ED-137B VoIP standards to prove that the FAA can replace push to talk (PTT) communications for ground control to small and medium sized aircraft across the existing FAA Telecommunications’ Infrastructure (FTI) using VoIP.
+
+Built a custom lab using the existing FAA Voice Communication Subsystem (VCS) channel bank and DSX/DNX/X-connects, connected a Cisco 3800 router and Cisco Catalyst switches through a FirePower firewall, configured and installed hardware and software from GL Communications including a VQuad dual universal telephony adapter (UTA) to generate Push to Talk (PTT) voice through a custom Harris ED-137B VoiP convertor and ported the traffic into a GL WAN emulator for cleaning the voice traffic while inserting channel impedances for latency, and jitter. After the custom Harris device converted G.711 and G.722 to ED-137B VoIP, the standard VoIP protocol being used in Europe, it generated, measured, and recorded the signaling and voice channels of live air traffic while comparing mean-opinion scores (MOS), latency, jitter, and bandwidth utilization. Also responsible for Python scripting for data adherence during import and presentation activities.
+
+Ancillary projects included upgrading all Wireshark and SolarWind modules to the latest releases in new server platforms including transferring all user and historic data for each module (Network Performance Manager (NPM), Network Configuration Manager (NCM), User Device Tracker (UDT), Network Traffic Analyzer (NTA), and Network Topology Mapper (NTM) to map and monitor FAA network infrastructure in the AFSS lab and the FS21 data centers in Ashburn, VA (DCA) and Fort Worth, TX (FTW). Once mapped, SolarWinds Network Traffic Analyzer was used for resolving operational issues and completing major projects or change requests (CRQs)
+
+04/2016 – 12/2016 Freddie Mac (BlueAlley)
+Network Engineer Ashburn, VA
+
+Supported Freddie Mac Loan Advisor Suite (LAS) business units and Network Operations with real time web application reporting using AppDynamics, Riverbed’s Portal, AppInternals (AI), Application Transaction eXpert (ATX) and Application Reporting eXpert (ARX). We interviewed each line of business to define the critical business and technical transactions being used by their customers and translated that into a real-time dashboard to monitor their applications. The web applications and J2EE transactions were defined and collected using the Riverbed (formerly OPNET) AI and ARX tools which pass information to Riverbed’s Portal where we further defined the custom real-time dashboards. We installed AppDynamics agents for data collection and reporting the multitude of statistics (response time, utilizations, end user experience, etc.) to proactively identify application performance problems, manage capacity in the physical and virtual data centers, and provide service level agreement (SLA) adherence reporting required for each customer. Also responsible for the installation, maintenance, upgrades, support, and decommissioning of 25+ AppResponse eXpert appliances. Tasked regularly to perform packet capture extraction and analysis using Application Transaction eXpert (ATX) for both LAS client support and Network Operations trouble tickets that had wide visibility and exposure.
+
+8/2011 – 4/2016 MiSource/ViaTech/H2K Solutions Inc (US Army)
+US Army Data Collection Engineer, Aberdeen MD
+
+Worked within the US Army Space and Terrestrial Communications Directorate (S&TCD) Systems Architecture, Engineering, Analysis, Modeling, and Simulations (SEAMS) branch performing data collection and analysis for US Army Wide Area Networks, applications and systems on 18 bases, camps, posts, and stations. Assisted the Defense Health Agency (DHA) on identifying all applications and networks in the Madigan Army Medical Center using Riverbed tools including ARX appliances, ATX, SP Guru, and SolarWinds products including NetFlow Traffic Analyzer for ports and protocol collection. Created Capacity Planning assessments for all networks and servers for each data center on each base.
+Assisted in the Conditioned Based Maintenance Program (CBM+) with data collection and bandwidth analysis at the annual E15 test event on Range 1 at Ft. Dix, NJ. Installed, configured, and assessed 4 new tools for the SEAMS branch including OPNET’s ACE Live, VMON, and ACE Analyst as well as VMware’s Capacity Planner for virtual requirements in order to plan network capacity for current and future ground vehicle networks. Designed and implemented lab environment for the CBM+ program supporting analysis and modeling while managing licenses and tools for the entire branch.
+
+6/2010 – 8/2011 BoozAllenHamilton
+Network Engineer Arundel Mills MD
+
+While waiting on polygraphs to be performed, worked on pre-proposal and research projects with topics including cross domain guards and HAIPE with DISA and NSA. Independently reviewed HAIPE research focusing on network infrastructure interoperability using peer and neighbor discovery for routing within large networks using OPNET JCSS. Trained 10 peers using OPNET ACE Analyst and SP Guru while working on modeling cross domain guards based on vendor specifications provided from Radiant Mercury and OWL. Created visualizations and documentation using OPNET, Visio, and MD Word for proposals in order to provide exciting while informative presentations for the customer.
+
+02/2010 – 06/2010 ECS (TransCanada
+Infrastructure Design Specialist Houston TX
+
+Reviewed current network infrastructure for TransCanada’s US SCADA (ANR) operations headquartered in Houston while designing segmented connectivity for the corporate and pipeline networks. Created documentation and presentations for SCADA network diversity and monitoring. Designed merger of the US and Canadian conglomerates for corporate requirement to consolidate business units based on geography. Challenges included information gathering and network segregation due to moving locations without a centralized data repository.
+
+09/2008 – 11/2009 Pyramid Consulting (Eli Lilly)
+Modeling and Simulation Engineer Indianapolis IN
+
+Worked for AT&T at Eli Lilly performing application pre-deployment assessments using Opnet ACE analysis to predict network application performance. Engagement also included supporting highest level trouble ticket remediation using packet captures for analysis. Captured, analyzed, and resolved production issues when vendors (Microsoft, Cisco, etc.) and other engineers couldn’t determine the root cause. Provided an executive summary as well as technical documentation for the identification and solution of all production problems and pre-deployment applications. Used Network General sniffers to collect data while using OPNET to identify and resolve production issues. Created standardized OPNET application reports for presentation of results for all projects.
+
+08/2007 – 08/2008 Oxford Global (Chevron)
+Infrastructure Modeling Engineer Houston TX
+
+Worked for Oxford at Chevron performing capacity planning and modeling within Chevron’s international wide area network infrastructure using OPNET SP-Guru 14.0. Application modeling included feasibility studies using OPNET ACE Analyst for Video Conferencing and VoIP. The core network connected through satellite links to remote offices and oil platforms with limited bandwidth. Tools used included OPNET ACE Analyst Plus 14.5, SP Guru 12.0, IT-Guru 14.0, NetQoS Report Analyzer, SuperAgent, and Voyance, among several others. Accomplishments included developing the standardized process to predict application performance through Cisco, Riverbed Steelhead appliances, and F5 load balancers for optimization using OPNET ACE Plus, IT-Guru, and SP-Guru. Documented loads and flows importation into OPNET to model video conferencing internationally.
+
+10/2006 – 08/2007 The Robinson Group (Comcast)
+Modeling and Simulation Engineer Mount Laurel NJ
+
+Worked at Comcast’s national engineering and technical operations center modeling the network infrastructure for high speed data, video on demand, and Voice over IP. Used OPNET SP-Guru 12.0, ACE, and VNE server to import infrastructure and equipment configurations to validate market models, and then geo-coded each OTN. Models were used for simulations to support feature engineering, cost accounting, and network redesign as well as capacity planning. Created spreadsheets for VoIP capacity planning which ensured that the infrastructure would support the expected growth based on models of current network.
+
+04/2006 – 10/2006 GDLS General Dynamics Land Systems (contractor)
+FCS Network Engineer Sterling Heights MI
+
+Performed network bandwidth analysis using OPNET SP Guru 11.5 and JCSS on 8 vehicles to determine future growth for capacity planning. Hired for FCS (future combat systems) for the RSV (recon/surveillance) vehicle using multiple ICS (computers) with multiple communications (C4ISR, TCP/IP, etc.) to multiple LAN/WAN/Satellite distribution (AirStrike or LOS/NLOS support, RSV, etc). Accessed Stryker and M1A2 Abrams communication systems and collected data using Network Associates sniffers. Secondary projects included the evaluation of blades w/ multiple CPUs and HW/SW configuration, 1-10GbE up to high-end DARPA standards including CWDM, fiber to the CPU, fiber technology (DWDM, CWDM, fiber capabilities and limitations). Among others, I consulted on DOD VLAN connectivity for simulations.
+
+04/2005 - 03/2006 BearingPoint (Time Warner Cable)
+Sr. Consultant Herndon, VA
+
+Hired to document and evaluate the network provisioning status of Time Warner Cable for VoIP (voice over IP). Duties included interviews, reporting, and providing the BearingPoint package of documentation leading to further work at the client site. After successfully completing this engagement, I was positioned as a networking SME (senior consultant) at General Motor’s headquarters consolidating call centers and implementing an IVR-CTI that included both local fail over and remote disaster recovery. My responsibilities included MPLS circuit delivery, vendor compliance, technical validity for network, feasibility, risk analysis and mitigation as well as capacity planning and utilization.
+
+06/2004-04/2005 Digitrain Training and Beyond
+Instructor – Southfield MI
+
+Primary duties included teaching students A+, MSCA, MSCE, CCNA, and Checkpoint firewall technologies for certification for 25+ students. Accomplishments included configuring lab and student equipment with Windows NT (server and workstation), Windows 2000 (server and workstation), Checkpoint, Cisco NOS on Cisco 2500s, CompTIA connectivity, VPNs for different labs, and troubleshooting DNS/TCP/IP connectivity. Between classes, I was a consultant for Digitrain clients on Windows NT Server, Windows 2003 Server, SQL Server 2000, and domain controllers on 2003.
+
+01/2002- 06/2004 APCT Consulting
+Network Consultant Wyandotte, MI
+
+Primary responsibilities consisted of planning, co-coordinating, and meeting clients regarding network connectivity projects. Duties included network design, system security, feasibility studies, job costing, redundancy planning, installation, and integration of existing infrastructure. Responsibilities also included the coordination of vendors, contractors, and service providers for the wiring and router services. Ancillary skills included DSL installations for both residential and business clients.
+
+07/2002-12/2002 The Epitec Group
+Network Engineer – Detroit MI
+
+This short-term engagement included planning and analyzing network and applications due to communication issues at a major accounting firm. Diagnosed and resolved Netware and Frame Relay delays of DOS based financial applications in 1 day which was expected to last two weeks. I was able to optimize TCP/IP and IPX transmissions for inter-office applications while providing recommendations for software and hardware upgrades. The second project consisted of providing an 11-point analysis for a multi-national manufacturing firm. After meeting with the key departmental leaders, I documented current network problems, solutions, ramifications, time frames, and cost analyses for optimization. This included a network security analysis for threats and vulnerability. Secondary duties included supporting software including Windows 2000, Office 2000, MS-Exchange Server, EDI, MFG-PRO, and other proprietary software including barcode-scanning software, which was delaying order delivery.
+
+04/2000 - 07/2002 Sierra Systems (BCBSM)
+Data Communication’s Project Leader Detroit MI
+
+Worked for Blue Cross Blue Shield of Michigan managing the data communications requirements for organizational projects in conjunction with the engineering team. Responsible for leading the network services’ department attending meetings with the project groups and leading the meetings explaining the user requirements, assigning resources, and ensuring that all 200+ projects were staffed from the data communication's department. This included security adherence using authentication and encryption, Aspect ACD relocation and redundancy for disaster recovery, IVR-CTI Pilot and Production, wide area network (WAN) re-design, Blue Pumpkin, and ANX circuit utilization analysis while performing bandwidth and latency analysis to eliminate bottlenecks and response time issues. This often included vendor relations and RFI/RFP development for all service providers. Departmental projects have included mapping the entire BCBSM wide area network including equipment, circuits, and external customers including ANX, SNA tail circuits throughout Michigan, the WAN Re-Design before and after diagrams using Visio. Major accomplishments include estimating the departmental resources for the 2000-2002 STC and PMO projects while providing expertise and diagramming support to the WAN Re-Design team. Secondary responsibilities included costing out projects, developing time lines, and assigning resources to ensure that the 100+ projects were fully staffed by the network services group contracting team including HIPAA compliance.
+
+08/1999 - 02/2000 OJ Transportation Company
+Network Administrator Detroit MI
+
+Primary duties included LAN/WAN administration in a multiple platform environment for approximately 300 users.
+The frame relay network consisted of multiple locations using Netware 3.x, 4.x, and Microsoft NT servers on a 10baseT Ethernet platform. Primary responsibilities included administration of all hardware and software including the Cisco routers, switches, NOS’, Back Office 4.5, SQL server 7.0, and Exchange Server administration for all aspects ranging from security and identity management, network security, telephony and mailbox configuration, disaster recovery and hardware maintenance. Day to day responsibilities included user, printer, and disk space maintenance as well as the coordination and implementation of all hardware and software maintenance and upgrades in a 24 hour, 7-day operation. Major projects included upgrading all corporate equipment for Y2K compliance.
+Contact this candidate

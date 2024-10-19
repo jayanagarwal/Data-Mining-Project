@@ -1,0 +1,215 @@
+GOPICHAND
+Data Engineer
+ad58ms@r.postjobfree.com
+732-***-****
+
+PROFESSIONAL SUMMARY
+Dynamic and motivated 9+ years IT professional as a Data Engineer with expertise in designing data-intensive applications using Cloud Data engineering, Data Warehouse, Hadoop Ecosystem, Big Data Analytical, Data Visualization, Reporting, Data Quality solutions, and AI/ML technologies.
+Hands-on experience across the Hadoop Ecosystem that includes extensive experience in Big Data technologies like HDFS, MapReduce, YARN, Apache Cassandra, NoSQL, Spark, Python, Scala, Sqoop, HBase, Hive, Oozie, Impala, Pig, Zookeeper, and Flume.
+Built real-time data pipelines by developing Kafka producers and Spark streaming applications for consumption. Utilized Flume to analyze log files and write them into HDFS.
+Experienced with Spark improving the performance and optimization of the existing algorithms in Hadoop using Spark Context, Spark-SQL, Dataframe API, Spark Streaming, and Pair RDD and worked explicitly on PySpark.
+Developed framework for converting existing PowerCenter mappings to PySpark (Python and Spark) Jobs.
+Hands-on experience in setting up workflow using Apache Airflow and Oozie workflow engine for managing and scheduling Hadoop / DevOps jobs.
+Designed and implemented robust data cleansing processes to improve data quality, consistency, and integrity within data pipelines and repositories.
+Migrated an existing on-premises application to AWS. Used AWS services like EC2 and S3 for small data sets processing and storage, Experienced in Maintaining the Hadoop cluster on AWS EMR.
+Hands-on experience with Amazon EC2, S3, RDS(Aurora), IAM, CloudWatch, SNS, Athena, Glue, Kinesis, Lambda, EMR, Redshift, DynamoDB, and other services of the AWS family and in Microsoft Azure.
+Proven expertise in deploying major software solutions for various high-end clients meeting business requirements such as big data Processing, Ingestion, Analytics, and Cloud Migration from On-prem to AWS Cloud.
+Experience in Work on AWS Databases like Elastic Cache (Memcached & Redis) and NoSQL databases - HBase, Cassandra & MongoDB, database performance tuning & data modeling.
+Established connection from Azure to On-premises data center using Azure Express Route for Single and Multi-Subscription.
+Optimized PL/SQL code for performance by implementing efficient algorithms, SQL tuning, and database indexing strategies.
+Designed and implemented robust data pipelines and ETL processes using Oracle Data Integrator (ODI) for data extraction, transformation, and loading.
+Designed and implemented graph databases using TigerGraph for storing and querying highly connected data
+I possess hands-on experience in developing and customizing Splunk apps and dashboards. My expertise extends to implementing and maintaining Splunk platform infrastructure, configuring its settings, and integrating Splunk with external systems and services.
+Utilized Talend components and connectors to extract data from various sources, including databases (e.g., Oracle, SQL Server, MongoDB), flat files, APIs, and cloud storage (e.g., AWS S3, Azure Blob Storage).
+designing a framework that outlines the physical components, functional organization, configuration, and protocols of a computer network.
+Created Azure SQL database, and performed monitoring and restoring of Azure SQL database. Performed migration of Microsoft SQL server to Azure SQL database.
+Experienced in Data Modeling & Data Analysis experience using Dimensional Data Modeling and Relational Data Modeling, Star Schema/Snowflake Modeling, FACT & Dimensions tables, and Physical & Logical Data Modeling.
+Expertise in OLTP/OLAP System Study, Analysis, and E-R modeling, developing Database Schemas like Star schema and Snowflake schema used in relational, dimensional, and multidimensional modeling.
+Designed and implemented data pipelines and ETL workflows using Azure Synapse Analytics (formerly Azure SQL Data Warehouse) for large-scale data processing and analytics.
+Experience with Partitions, and bucketing concepts in Hive and designed both Managed and External tables in Hive to optimize performance. Experience with different file formats like Avro, parquet, ORC, JSON, XML, and compressions like Snappy & zip.
+
+TECHNICAL SKILLS
+
+Cloud Technologies
+Azure (Data Factory(V2), Data Lake, Databricks, Blob Storage, Data Box), Amazon EC2, IAM, Amazon S3, Amazon RDS, Amazon Elastic Load Balancing, AWS Lambda, Amazon EMR, Amazon Glue, Amazon Kinesis, Google Cloud Platforms (GCP)
+Tools
+Azure Logic App, Crontab, Terraform, DBT .
+Big Data
+Hadoop, MapReduce, HDFS, Hive, Impala, Spark, Sqoop, HBase, Flume, Kafka, Oozie, Zookeeper, NiFi.
+Code Repository Tools
+Git, GitHub, Bit Bucket.
+Database
+MySQL, SQL Server Management Studio 18, MS Access, MySQL WorkBench, Oracle Database 11g Release 1, Amazon Redshift, Azure SQL, Azure Cosmos DB, SnowFlake FACETS.
+End User Analytics
+Power BI, Tableau, Looker, QlikView.
+NoSQL Databases
+HBase, Cassandra, MongoDB, Dynamo DB.
+Languages
+Python, SQL, PostgreSQL, PySpark, PL/SQL, UNIX Shell Script, Perl, JAVA, C, C++
+ETL
+Azure Data Factory, SnowFlake, AWS Glue, Fivetran.
+Operating System
+Windows 10/7/XP/2000/NT/98/95, UNIX, LINUX, DOS.
+PROFESSIONAL EXPERIENCE
+Cisco - Raleigh, NC Oct 2022 – Till the date
+(GCP/AWS Data Engineer)
+Responsibilities:
+Designed and set up Enterprise Data Lake to provide support for various cases including Analytics, processing, storing, and Reporting of voluminous, rapidly changing data.
+Provided production support by monitoring, troubleshooting, and resolving issues related to data pipelines, ensuring minimal downtime and high availability.
+Used Data Integration to manage data with speed and scalability using the Apache Spark Engine and AWS Databricks.
+Developed and optimized Oracle PL/SQL packages, procedures, and functions for complex data transformations and business logic.
+Developed complex data cleansing rules and algorithms using SQL, Python, or specialized ETL tools (e.g., Talend, Informatica) to handle missing data, duplicates, outliers, and inconsistent formats.
+Monitored and optimized data migration performance, addressing bottlenecks and scaling resources as needed.
+Used SQL approach to create notebooks and DHF_UI in DHF 2.1.
+Converted the Code from Scala to PySpark in DHF (Data Harmonization Framework) AND Migrated the Code and DHF_UI from DHF 1.0 to DHF 2.1.
+Extracted structured data from multiple relational data sources as Data Frames in Spark SQL on Databricks.
+Utilized Apache Airflow to orchestrate and manage workflow for scheduling Hadoop/DevOps jobs, ensuring efficient execution and monitoring.
+Leveraged Kubernetes to orchestrate and manage containerized applications, ensuring scalability, reliability, and ease of deployment within the AWS environment.
+Collaborated with DevOps teams to integrate Kubernetes into CI/CD pipelines, enabling continuous deployment and integration of cloud-native applications.
+Planned and executed complex data migration projects from legacy systems to modern data platforms, ensuring data integrity and business continuity.
+Implemented complex data transformations, cleansing, and enrichment logic using Talend's built-in components and custom Java or Spark components.
+Responsible for loading data from the internal server and the Snowflake data warehouse into S3 buckets.
+Developed ETL pipelines to extract, transform, and load data from various sources into TigerGraph databases
+implemented data ingestion pipelines for Adobe Experience Platform using services like Sources, Flow Service
+Performed the migration of large data sets to Databricks (Spark), created and administered cluster, loaded data, configured data pipelines, loading data from Oracle to Databricks.
+Leveraged Oracle Analytics Cloud and Oracle Integration Cloud to develop robust data pipelines for seamless data ingestion, transformation, and analysis.
+Executed dry-run and mock migrations to identify potential issues and refine migration strategies before production cutover.
+Created Databrick notebooks to streamline and curate the data from various business use cases.
+Triggering and monitoring the Harmonization and curation Jobs in the Production Environment. Also scheduled a few Jobs by using DHF jobs and ESP Jobs.
+Developed complex PL/SQL packages, procedures, functions, and triggers for data processing, validation, and transformation logic.
+Raised the Change Request and SNOW Request in ServiceNow to deploy or send changes into Production.
+Also guiding the development of a team working on PySpark (Python and Spark) jobs.
+Using Snowflake cloud data warehouse and AWS S3 bucket to integrate data from multiple sources, including loading nested JSON formatted data into Snowflake table.
+Created AWS Lambda, EC2 instances provisioning on AWS environment and implemented security groups, administered Amazon VPC's.
+Designed and developed a Security Framework to provide fine-grained access to objects in AWS S3 using AWS Lambda, and DynamoDB.
+Implemented Lambda to configure Dynamo DB Autoscaling feature and implemented Data Access Layer to access AWS DynamoDB data.
+Designed and implemented data archiving strategies for legacy systems, ensuring compliance with data retention policies and regulatory requirements.
+Utilized Oracle SQL Developer and SQL*Plus for writing efficient SQL queries, stored procedures, and data manipulation scripts.
+Developed Spark Applications for various business logic using Python.
+Extracted, Transformed, and Loaded (ETL) data from disparate sources to Azure Data Storage services using a combination of Azure Data Factory, T-SQL, Spark SQL, and Azure Data Lake Analytics.
+Worked on different files like CSV, JSON, Flat, and Parquet to load the data from source to raw tables
+Implemented Triggers to schedule pipelines.
+Designed and developed Power BI graphical and visualization solutions with business requirement documents and plans for creating interactive dashboards
+Collaborated with cross-functional teams, including business stakeholders, application owners, and database administrators, to understand data requirements and Data migration constraints.
+Created Build and Release for multiple projects (modules) in the production environment using Visual Studio Team Services (VSTS).
+Collaborated with subject matter experts and business stakeholders to define data cleansing rules and validate cleansed data against business requirements.
+Utilized advanced PL/SQL features such as cursor manipulation, dynamic SQL, exception handling, and bulk operations for efficient data processing.
+Have Knowledge regarding Streamsets which are pipelines used for Injecting data into the Raw layer from Oracle Source.
+Configured and administered Oracle databases, including user management, backup and recovery, performance tuning, and database security.
+Optimized data cleansing processes for performance and scalability, leveraging techniques such as parallelization, partitioning, and distributed processing.
+Used Terraform scripts to Automate Instances for Manual Instances that were launched before.
+Developed environments of different applications on AWS by provisioning on EC2 instances using Docker, Bash, and Terraform.
+Environment: Snowflake, Scala, PySpark, Python, SQL, PL/SQL, Data migration, data cleansing, Streamsets, Kafka 1.1.0, Sqoop, Spark 2.0, ETL, Power BI, Import and Export Data wizard, Terraform, GCP.
+
+Bank of America, NC Sept 2020 –Oct 2022
+Sr. Data Engineer
+Responsibilities:
+Developed Apache presto and Apache drill setups in AWS EMR (Elastic Map Reduce) cluster, to combine multiple databases like MySQL and Hive. This enables the comparison of results like joins and inserts on various data sources controlled through a single platform.
+Writing to the Glue metadata catalog allows us to query the improved data from Athena, resulting in a serverless querying environment.
+Performed data mapping and transformation between legacy and target data models, resolving structural and semantic differences.
+Implemented data warehousing solutions using Oracle Database and Oracle Warehouse Builder, ensuring data integrity and consistency.
+Implemented data quality checks and business rules using PL/SQL constructs, ensuring data integrity and consistency.
+Designed and maintained data cleansing frameworks, libraries, and reusable components to streamline cleansing efforts across multiple projects.
+Coordinated with infrastructure teams to provision and configure target environments for data migration and testing activities.
+Deployed and scheduled Talend jobs and data pipelines in on-premises and cloud environments, utilizing tools like Talend Administration Center and Talend Cloud.
+Created PySpark frame to bring data from DB2 to Amazon S3.
+Worked on Kafka Backup Index, Log4j appender minimized logs, and pointed Ambari server logs to NAS Storage.
+Used Curator API on Elasticsearch to data back up and restoring. Implemented Apache Airflow for orchestrating and scheduling ETL pipelines, improving automation and reliability in data processing tasks
+Created AWS RDS (Relational database services) to work as Hive metastore and could combine 20 EMR cluster’s metadata into a single RDS, which avoids data loss even by terminating the EMR.
+Built a Full-Service Catalog System that has a full workflow using Elasticsearch, Kinesis, and CloudWatch.
+Spin up the EMR clusters from 30 to 50 nodes which are memory-optimized such as R2, R4, X1, and X1e instances with autoscaling feature.
+Documented data cleansing rules, processes, and data lineage to ensure transparency, auditability, and knowledge transfer.
+Implemented change data capture (CDC) mechanisms to synchronize data changes between legacy and target systems during migration phases.
+Hive Being the primary query engine of EMR, we have created external table schemas for the data that is being processed.
+Designed and developed PL/SQL-based ETL processes for data extraction, transformation, and loading from various data sources.
+Designed and deployed Oracle BI Publisher reports and dashboards for data visualization and business intelligence.
+Mounted Local directory file path to Amazon S3 using S3fs fuse, to have KMS encryption enabled on the data reflecting in S3 buckets.
+Documented data migration processes, mapping rules, and cutover plans to ensure knowledge transfer and future maintainability.
+Designed and implemented ETL pipelines on S3 parquet files on data lake using AWS Glue.
+Created and maintained PL/SQL-based data marts and reporting solutions for business intelligence and analytics.
+Played a vital role in production support activities, including debugging, performance tuning, and ensuring the reliability and stability of data pipelines and analytics platforms.
+Environment: Data cleansing, Elastic Map Reduce cluster, EC2s, Data migration, CloudFormation, PL/SQL, Amazon S3, Hive, Scala, PySpark, Snowflake, Shell Scripting, Tableau, Kafka
+
+Dematic, GA Mar 2019 - Aug 2020
+Data Engineer
+Responsibilities:
+Developed and maintained scalable data pipelines using Python, Pandas, and NumPy for efficient data processing.
+Big data technologies such as Hadoop, Spark, Hive, and Pig were used to process and analyze vast datasets.
+Collaborated with cross-functional teams to understand business requirements and translate them into efficient data models and ETL processes.
+Implemented data integration solutions with Sqoop and Kafka, ensuring smooth data transfer between various systems.
+Trained and mentored team members on data cleansing best practices, techniques, and tooling, fostering a culture of data quality.
+Developed automated testing frameworks and scripts to validate data integrity, completeness, and business rules after Data migration.
+Utilized Tiger Graph’s native parallel graph analytics to perform complex querying and pattern matching
+Designed and optimized ETL processes using tools like Informatica, transforming raw data into meaningful insights.
+Documented PL/SQL packages, procedures, and functions following coding standards and best practices.
+Automated database processes and ETL workflows using Oracle Scheduler and Oracle Data Integrator (ODI) agents.
+Worked with cloud-based data warehousing solutions like Amazon Redshift and DynamoDB to store and retrieve structured and unstructured data.
+Created interactive and responsive web applications using HTML, CSS, and JavaScript to visualize data and enhance user experience.
+Developed data-driven applications in Scala, integrating them with Gradle and Jenkins for continuous integration and deployment.
+Collaborated on agile development teams, employed Agile and Scrum methodologies, and managed tasks and workflows using Jira.
+Created interactive dashboards and reports using Tableau, ensuring stakeholders had real-time access to key performance indicators.
+Mentored and trained team members on PL/SQL programming techniques, best practices, and database development methodologies.
+Implemented centralized logging and monitoring systems with ELK stack (Elasticsearch, Logstash, Kibana) for comprehensive system analysis.
+Containerized applications and services using Docker, enabling seamless deployment across different environments.
+Orchestrated containerized applications using Kubernetes, ensuring efficient resource management and scalability.
+Version controlled and collaborated on code repositories using GitHub, facilitating team collaboration and code versioning.
+Implemented end-to-end data pipelines, ensuring data accuracy, reliability, and timeliness in processing and analysis.
+Continually evaluated and implemented new data cleansing technologies, algorithms, and approaches to enhance data quality and efficiency.
+Troubleshoot and optimize data processes, identify bottlenecks, and implement solutions for improved performance.
+Environment: Python, Pandas, NumPy, Hadoop, Spark, Hive, Pig, Sqoop, data cleansing, ETL, Informatica, Redshift, HTML, CSS, JavaScript, Oracle, DynamoDB, Scala, Gradle, Jenkins, Data migration, GitHub, Data Pipelines, PL/SQL, Agile, Scrum, Jira, Tableau, ELK, Docker, Kubernetes.
+
+Brown Brothers Harriman, NJ Nov 2017 – Feb 2019
+Azure/SnowFlake Python Data Engineer
+Responsibilities:
+Analyze, develop, and build modern data solutions with the Azure PaaS service to enable data visualization. Understand the application's current Production state and the impact of new installation on existing business processes.
+Worked on migration of data from On-prem SQL server to Cloud databases (Azure Synapse Analytics (DW) & Azure SQL DB).
+Extract Transform and Load data from Sources Systems to Azure Data Storage services using a combination of Azure Data Factory, T-SQL, Spark SQL, and U-SQL Azure Data Lake Analytics.
+Data Ingestion to one or more Azure Services - (Azure Data Lake, Azure Storage, Azure SQL, Azure DW) and processing the data in Azure Databricks.
+Pipelines were created in Azure Data Factory utilizing Linked Services/Datasets/Pipeline/ to extract, transform, and load data from many sources such as Azure SQL, Blob storage, Azure SQL Data warehouse, write-back tool, and backward.
+Implemented data security and access control measures within Azure Synapse, including row-level security, column-level security, and integration with Azure Active Directory (AAD).
+Used Azure ML to build, test, and deploy predictive analytics solutions based on data. Leveraged Azure ML to build, test, and deploy predictive analytics solutions, demonstrating proficiency in AI/ML technologies.
+Developed Spark applications with Azure Data Factory and Spark-SQL for data extraction, transformation, and aggregation from different file formats to analyze and transform the data to uncover insights into customer usage patterns.
+Applied technical knowledge to architect solutions that meet business, and IT needs, created roadmaps, and ensured long-term technical viability of new deployments, infusing key analytics and AI & ML
+technologies where appropriate (e.g., Azure Machine Learning, Machine Learning Server, BOT framework, Azure Cognitive Services, Azure Databricks, etc.)
+Managed relational database service in which Azure SQL handles reliability, scaling, and maintenance.
+Integrated data storage solutions with Spark, particularly with Azure Data Lake storage and Blob storage.
+Configured stream analytics and event hubs and worked to manage IoT solutions with Azure.
+completed a proof of concept for Azure implementation, with the larger goal of migrating on-premises servers and data to the cloud.
+Responsible for estimating cluster size, monitoring, and troubleshooting the Spark Databricks cluster.
+Experienced in adjusting the performance of Spark applications for the proper batch interval time, parallelism level, and memory tuning.
+Extensively involved in the Analysis, design and Modeling. Worked on Snowflake Schema, Data Modeling and Elements,, and Source to Target Mappings, Interface Matrix and Design elements.
+To meet specific business requirements wrote UDF’s in Scala and PySpark.
+Analyzed large data sets using Hive queries for Structured data, unstructured and semi-structured data.
+Worked with structured data in Hive to improve performance by various advanced techniques like Bucketing, Partitioning, and Optimizing self joins.
+Written and used complex data type in storing and retrieving data using HQL in Hive.
+Developed JSON Scripts for deploying the Pipeline in Azure Data Factory (ADF) that process the data using the SQL Activity.
+Used Snowflake cloud data warehouse for integrating data from multiple source system which include nested JSON formatted data into Snowflake table.
+Hands-on experience on developing SQL Scripts for automation purposes.
+Environment: Azure Data Factory(V2), Snowflake, Azure Databricks, Azure SQL, Azure Data Lake, Azure Blob Storage, Hive, Azure ML, Scala, ETL, PySpark.
+
+Reliable soft, India Apr 2015 – Aug 2017
+Data Engineer
+Responsibilities:
+Performed multiple MapReduce jobs in Hive for data cleaning and pre-processing. Loaded the data from Teradata tables into Hive Tables.
+Experience in importing and exporting data by Sqoop between HDFS and RDBMS and migrating according to client's requirement.
+Used Flume to collect, aggregate, and store the web log data from different sources like web servers and pushed to HDFS.
+Developed Big Data solutions focused on pattern matching and predictive modeling.
+Involved in Agile methodologies, Scrum meetings and Sprint planning.
+Worked on installing cluster commissioning decommissioning of data node name node recovery capacity planning and slots configuration.
+Resource management of HADOOP Cluster including adding/removing cluster nodes for maintenance and capacity needs.
+Involved in loading data from UNIX file system to HDFS.
+Partitioned the fact tables and materialized views to enhance the performance. Implemented Hive Partitioning and Bucketing on the collected data in HDFS.
+Involved in integrating hive queries into the spark environment using Spark SQL.
+Used Hive to analyze the partitioned and bucketed data to compute various metrics for reporting.
+Improved performance of the tables through load testing using the Cassandra stress tool.
+Involved with the admin team to set up, configure, troubleshoot and scaling the hardware on a Cassandra cluster.
+Created data models for customers data using Cassandra Query Language (CQL).
+Developed and ran Map-Reduce Jobs on YARN and Hadoop clusters to produce daily and monthly reports as per user's need.
+Experienced in connecting Avro Sink ports directly to Spark Streaming for analyzation of weblogs.
+Address the performance tuning of Hadoop ETL processes against very large data set work directly with statistically on implementing solutions involving predictive analytics.
+Performed Linux operations on the HDFS server for data lookups, job changes if any commits were disabled, and rescheduling data storage jobs.
+Created data processing pipelines for data transformation and analysis by developing spark jobs in Scala.
+Testing and validating database tables in relational databases with SQL queries, as well as performing Data Validation and Data Integration. Worked on visualizing the aggregated datasets in Tableau.
+Migrating code to version controllers using Git Commands for future use and to ensure a smooth development workflow.
+Environment: Hadoop, Spark, MapReduce, Hive, HDFS, YARN, MobaExtrm, Linux, Cassandra, NoSQL database, Python Spark SQL, Tableau, Flume, Spark Streaming.
+Contact this candidate

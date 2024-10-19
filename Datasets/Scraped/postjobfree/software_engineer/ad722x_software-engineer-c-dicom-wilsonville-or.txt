@@ -1,0 +1,195 @@
+Steven Leach
+Wilsonville, OR *****
+ad722x@r.postjobfree.com
+
+C++ 18 years C++11 last used 2022 c++14 Last used 2024 advanced
+C++ DICOM dcmtk 8 years total last used 2021
+Python 8 years multi-threaded and multi-process Numpy, pyDICOM,,CUDAfy, argparse, matplotlib, & simpleGUI
+Linux User apps 8 years with C++ and Python CLI embedded 1 GUI App GTK+
+OpenCV 12 years C++ Python Raspbian, Linux, & Windows CLAHE, SIFT, BeBlid ORB, Deep Learning, convolutions, LUT’s Object Recognition,
+Deep Learning 8 years Kornia, YOLO v5 – v9 pyTorch, Tensorflow Lite Super resolution U^2Net, Unet, instance segmentation
+CUDA 8,9, 10 8 years total Algorithms, and optimizations, parallelization
+Databases sqlite, firebird and MySQL 20 years SQL advanced Table Normalization, Inner & Outer Joins
+
+PROFESSIONAL EXPERIENCE
+Contract Motorola/Lenovo November 2023 – March 2024
+Optimize Low Light Image capture on their Android phone. Optimized variable usage to speed loops over the 3 captured images by 10%. Improved registration of 3 captured images so particularly selfies were more detailed, less fuzzy. Introduce quantification of image qualities instead of subjective assessment.
+
+Contract Hitachi – High Tech America
+June 2023 – Nov2023
+Automated extraction of Electron Microscopy reports to Excel spreadsheets using Python, Openpyxl and created standalone exe with pyInstaller
+
+Contract with Boeing: Dec 2021-Jan 2023
+Visual Studio 2019 & 2022 using c++ 11
+Make sln compile and debug on special 64 core Xeon dual GPU NVIDIA Tesla P100 hardware. Converted algorithm from DFT to Chirp Z. Using proprietary tools written in Java, and Python revamp python code to remove hardcoded JSON embedded in python code. Optimize GPU memory and rework buffering architecture to handle greater through put of 5 Gb/sec. Optimize peak finding algorithm for 256 peaks using CUDA Kernel.
+
+Small Contracts mostly through upwork.com
+
+Scout Inc.
+Implemented Feature transform call beBlid on NVIDIA Jetson Xavier to perform recognition of satellite using camera on another satellite. I was only allowed to use Blender Models as examples. When I tried to use Neural Network Recognition the client was dissappointed that the neural network recognition was only 90 – 95% accurate. I enabled the GPU extensions in NumPy, and PyTorch.
+Plumera : Stanford start up that uses fluoroscope images to define Brochii
+I implemented Level Set Segmentation Algorithms for the tubular bronchii for proof of concept. Used various OpenCV algorithms like CLAHE, and segmentation. They wanted a full time person for the neural network work, so I bowed out. I enabled the GP/GPU extensions in OpenCV, NumPy, and PyTorch. I also rewrote some of my code to parallelize the code to enable GP/GPU computing on an RTX 1080 TI 20GB of VRAM The contract is on going but paused.
+Parkimon : Implemented Neural network facial removal, and license removal of lawfully parked cars, used OpenCV to load and manipulate images. Completed.
+Automation Hero : For windows, performed c# .NET app to record keystrokes and image capture. Worked with Neural Net engineer to recognize object on screen that is being manipulated by customer, COVID 19 interrupted work.
+MySelfieStyler : Used U^2Net and OpenCV to implement functionality of remove.bg
+Made Python code multi-process on S3 so dress warping that originally took 5.3 sec was reduced to less than 1.1 seconds. Cloudfront added 800 ms for replication, so architecture was changed to direct to web server. Optimization of annotation points using binary search using opencv image pixel values.
+
+Forever.com Senior Windows Developer Dec 2015 to Oct 2021
+C# Desktop and Web App, DirectX using SharpDX, WPF interface and GDI+ graphics
+Implement new safety features when deleting, and adding pages to a book project
+Rectify User Interface Issues, by editing XAML, and converting proprietary GUI elements to standard WPF elements
+Added in Saving Options of tools to a multiDictionary
+Added logging using Nlog
+Threadized the save, and a few image processing operations so the UI would remain responsive while working on 2 – 3 Gigabyte files.
+Incorporated TensorFlow into the Desktop Application to provide simple image captioning, and automatic labeling of customer images, style transfer, inpainting, and denoising. Added in DirectCompute and CUDA code to enable higher end laptops with NVIDIA cards like Alienware to operate on image processes more quickly.
+
+Rapiscan Senior Software Engineer May 2015 to Dec 2015
+Develop and implement fixes and new features for existing code base.
+Exporting of PNG frames from DirectX capture of x-ray images using DirectX API
+Develop and automate developer test procedures. Troubleshoot new C# N25 addition to old code base. Utilized Python and AutoHotkey for automating testing.
+Automate some tests to handle capturing infrequent exceptions
+Passed Certified SCRUM master test.
+
+ImaginAB Lead Software Engineer Nov 2014 to May 2015
+Provide automation software, for various instrumentation, and applications.
+Specify, cost out, and develop Sharepoint collaboration software.
+Provide Excel importation of business card, and contact databases for SalesForce software. Created Python apps to scrape data from various instruments.
+Create Several Single Page Web Apps using HTML5, javascript and CSS.
+Reverse engineer peer reviewed medical nomographs and implement them as single page Web App. Used CUDA to handle GPU computing.
+
+DirecTV Contract Software Engineer July 2014 to Nov 2014
+Add functionality to current C++ code, develop test scripts to automate testing of new features. Use Boost program options to add command line arguments to transcoder software. On a set top prototype utilized inbuilt NVIDIA GPU to offload CPU from H265 Decode. I do not know if this protype was ever commercialized. Utilized DirectCompute OpenCL & OpenGL to performm optimized graphic rendering on set top box, and in backend streaming.
+
+Volcano Therapeutics Senior Contract Software Engineer Feb 2013 to 30 May 2014
+Write and Debug C++ MFC applications to acquire ultrasound flow data every 10 milliseconds from a proprietary USB device consisting of an FPGA and microblaze combination. I wrote an application level USB DLL using overlapped threaded reads so the limited buffers on the USB device never overflow. I also used boost queues, threads, and signal2 to provide events when USB devices were connected, and when buffers are available. I then wrote an interface/facade class to process this data using the Intel Performance Primitives. This whole process takes less than 2% of the CPU of an Intel Atom D525 SOC system. The software I have written has been re-purposed for Bluetooth LE virtual comports. Wrote Python scripts to test DLL’s for USB 2D doppler capture. Along the way when the FPGA was not performing the FFT’,s of the Doppler return signal I utilized FFTW to use the GPU to construct the FFT of the incoming Doppler signal so the software development was not stalled. Used DirectShow, DirectDraw & OpenGL to handle graphics rendering of 2D FFT information.
+
+Intel Folsom Campus Contract Software Engineer Nov 2012 to Jan 2013
+Write and debug C++ code to simulate System on a Chip Like Ivy Bridge, Haswell, and Sky Lake. The team I was on worked on the portion that enabled the simulation to handle these different Architectures with the same basic simulation code. Tested Graphics Drivers with OpenCL, DirectCompute and DirectShow Apps I wrote.
+
+GE Energy Minden Nevada Contract Software Engineer 7/30/2012 to Nov 2012
+Write and debug C# and C++/CLI with real time graphics components. Time based Trend Plots and Frequency based plots. Debugged and modified the code using Studio 2010.
+
+Intel Folsom Campus Visual Computing and Parallel Group 10/2011 to 6/2012
+Contract Software Engineer
+Developed and implemented validation and verification automated tests for the Intel PAVE automated Validation Engine, also developed Web Based HTML5, and C# Silverlight tests for old and new generation graphics drivers. Taught managers about statistical analysis of results, including co-relation tests, and several family tests. Used Microsoft DirectCompute, and OpenCL to write .NET 3.5 apps, and Metro apps to test SandyBridge, IvyBridge and Haswell graphics drivers. Wrote tests for OpenCL encode and decode of video streams. Tested Graphics Driver with OpenCV, OpenGL, OpenCL, DirectCompute tests.
+
+Vision For Instruments Lead Software Engineer
+Wrote a combination of C# front end, and C++/CLI to connect a Canon C++ SDK for their USB based Digital Single Lens Reflex cameras for Ophthalmic Imaging. Devised a database Schema, and implemented FireBird Database Connectivity in the C# layer using LINQ This product was handed off to a maintenance team. All work was done in Studio 2010. I also found a conversion app to convert database information from MS Access to Firebird. Provide Montage facility with Super Resolution refinement. There are certain operations which I have enabled CUDA on like defect detection of retinas and image registration using blood vessel bifurcations Handle all image processing using CUDA 10, DirectX Added in 3D rotation and Estimation using tomographic calculation for pictures taken at different angles to provide 3D visualization.
+
+Axsys Technologies 10/2007 to 08/2011
+Software Engineer II
+Create real time Overlay software used in aircraft systems with actively stabilized camera Systems, using 3D OpenGL and DirectShow. Used Boost to make the application cross platform between Windows and Linux. Setup XP Embedded masters to be cloned to Solid State Drives, by manufacturing.
+Architeched a DirectShow App to provide a GUI color keyed on a 1080i Video Stream
+with menuing system. Used CUDA for tracking.
+I used a Quad core and 2 Black Magic boards to implement Picture in Picture and Picture and Picture. I had to use OpenMP to parallelize the conversion from the YcbCr color space to the Windows RGB colorspace and move/resize the 1080i image onto the screen bitmap which was blitted to the onboard intel Graphics GME 950 graphics engine. OpenCL was too slow to speed things up, that is why I used the Quad Core with OpenMP & OpenCV.
+Optimized a C# and C++/CLI application using Studio 2005/2008 to provide real time graphics, interaction through serial communication with a Texas Instrument DSP on an actively stabilized camera system. Provided 3D representation of the Gimbal with Transformations in ral-time. I used STL, and BOOST to increase vectors, and file operations by 2 fold. I then added WCF, and WPF using C# for various aspects of the GUI to enhance the user friendliness of this application. I used multi-threading to provide real time graphics update, for this application at 5 datasets at 1000 point updates per second. Added in use of Quaternion calculations for 3D Display
+Architected a generalized framework to allow multiple embedded devices to communicate to prevent initial boot-up issues, and handle field updates.
+Wrote 2 different bootloaders in a combination of C and Assembler for the PIC32 and the TI DSP TMS320C67X that is used to provide real time control. Created Python automated testing of Gimbal Equipment through RS485 interface.
+
+EiGEN Medical LLC 04/2007 to 10/2007
+Software Engineer
+Develop code for conversion of proprietary RAW format to MPEG 2 using the Intel Performance Primitives, STL and BOOST. Created new DICOM and image processing classes associated with DCMTK, and Intel Performance Primitives, used by several neophyte scientists. The library I created was tested to be thread safe, while the DCMTK is not considered thread safe. Used Cuda to show others enhancement of 3D parallel processing using VTK for 3D representation of the Ultrasound image.
+
+Patent 7,854,510 Apparatus and method for imaging the eye
+
+North American Imaging 08/2005 to 02/2007
+Software Engineer
+Developed and automated InstallShield setup creation and un-installation or trial ware version of software OEM'd to Fuji and sold directly to customers.
+Used C++, wxWindows, STL and the WIN32 API to develop DICOM SCP software to accept print jobs from multiple DICOM devices. Each network connection took place in a separate thread, and STL queues, and dequeues were used with thread local storage to manage DICOM Objects.
+Used C++, and Win32API to develop software to print these DICOM print jobs on standard Windows Printers with decision making so that grayscale prints went to one printer and color prints to another separate printer. Each print job was queued into STL fifo stacks and was handled by a separate thread as well.
+Setup XP Embedded masters for new and existing motherboards, with new drivers for existing devices.
+Developed software to implement localhost TCP/IP interprocess communication.
+Reverse engineered an RS-232 interface for a SONY VCR recorder, and wrote software to emulate the interface on a piece of equipment, so the NAI MDR Video could replace the SONY VCR.
+
+EiGEN Medical LLC 06/2004 to 08/2005
+Principal Software Engineer
+Used C++, ATL, Win32API, OpenGL and DirectX to create a multi-threaded Digital Subtraction Angiography product line that is currently being sold. This provides up to 15 fps 1024 x 1024 image subtraction using a Matrox framegrabber board, with storage to hard disk.
+Corrected the DICOM implementation of several products including the Digital Fluoro Loop
+that acquires images from 512 x 512 to 1024 x 1024 at 30 fps and uses the C-STORE
+protocol to send the DICOM Packages to the PACS system.
+All products provide for real time display and immediate playback as well as user
+selected runs to playback.
+Created algorithms for Digital Subtraction Angiography using a specialized video grabber board. Added Modality Worklist capability to several of the EiGEN products.
+Created Networking and DICOM sending software for the bi-Plane Digital Fluoro Loop, thus creating an entirely new product line.
+
+Zeta Development Laboratories Lead Software Engineer 04/2002 to 06/2004
+Software Development Manager
+Developed from scratch Architecture and complete software specifications for a networked DICOM viewer, and capture application. I implemented the capture application myself, while the client viewer application was farmed out to a 3rd party
+due to time constraints
+Used C++, Win32 API,Open GL, MFC, COM, and DirectX to create an application that was hardware independent. Chose the open source database engine, and open source graphics and imaging libraries to develop an entirely new opthalmic image capture software. Implemented Conjugate Garient Method to Demosaic CCD for illunis 11 megapixel camera. I parallelized the Demosaic process so that on a dual Xeon the Demosaic took less than 1 second. Originally this application was written with Linux (wxWindows) in mind, but later it was determined that the tech support staff was more comfortable with Windows, so I moved all my code to the Windows Platform.This application captured from 6 different camera systems using CamLink, GigE, frame grabber and proprietary interfaces. With the help of contract consultants specified and developed a completely new image review software, all graphics rendering used OpenGL. Utilizing XML embedded into the PNG images the review software is able to track each and every image and any and all manipulations performed on the images. Further developed automated archival and cleanup software that run as services. This suite of software was then tied to a web based analysis software package called Ocunet.
+
+Ophthalmic Imaging Systems 04/1997 to 04/2002
+Principal Software Engineer
+Converted their entire 16 Bit Windows 3.x program consisting of 185 modules to Windows NT. This application used Windows C++ with MFC, Win32API and COM to provide database independence. This was accomplished in approximately 4 months. This application used no less than 5 separate threads with pipes for communication. Added DICOM compliant file saving and SCU and SCP functionality using the DAVIS DICOM communications toolkit. The NT product was the current deliverable for all new systems. The product acquires images from a CCD color or grayscale camera using several different frame grabber boards at a rate of 1 frame/second. Instituted a program structure that allows the use of other imagegrabber boards and camera combinations with no change in the main application. This has been shipping so that we can utilize 12 bit gray scale systems for our high end customers, while the low end cameras are also supported by the same application. I added DICOM capability using the Leadtools toolkit, and DCMTK and DICOM Structured Query/Response capability to satisfy the Veterans Administration requirements for interoperability. The images are used by ophthalmologists to diagnose retinal and corneal problems.
+I created several COM classes to provide 3rd parties access to our database.
+
+EiGEN Medical 04/1994 to 04/1997
+Senior Software Engineer
+The 3 member software engineering team used Visual C++ with the MFC classes and Borland C++ 5.1 to develop X-Ray archival software in the NT operating system. The software is highly user oriented, extremely usable to the degree that no manuals are ever consulted with this product. The last project required making an NT PC acts as a SCSI target device so that a proprietary hardware device could transmit information to the NT box which then acts as the server for a medical intranet. Helped developed an intranet utilizing HTML and CGI code. While no JAVA code was used in this product I have written several classes for my own amusement and have used our intranet to be sure that they work as intended. That way the current proprietary hardware can be utilized in an open system.
+
+Wrote several RS232 interface modules to allow the EiGEN specialized
+control panel to be used in place of a mouse and allow the special "menu" and
+"keep" keys on their interface box to act the way to access the menu and
+navigate within the menu. Thoroughly familiar with the use of sockets and
+the MFC classes that allow streaming over the NT and Windows 95/98 networking. Wrote software that converts EiGEN proprietary optical disk format into a corresponding CD-ROM format so EiGEN images would conform to the DICOM 3.0 standard. Along the way developed several special drivers to attach specialized EiGEN equipment to the NT operating system.
+
+Photon Inc. 06/1992 to 04/1994
+Senior Software Engineer
+The chief architect and implementor of the MS Windows products for this
+company that develops LASER measurement systems for use by Xerox, NCR, IBM and
+many other well known companies. This software was developed using Borland C++
+and the Object Window Libraries. While the heart of the software is the DLL to
+receive data from the Photon interface card my pride in the project is the
+impressive multivariate interface which allowed the user to view this information in a myriad of ways simultaneously and to save the current settings as a specialized file so other users would not be disturbed when the options and window placement were changed. This software development effort yielded 3 products that are superior in speed and flexibility to the previous offerings of the company. The software is device independent through the use of DLL's to provide all the machine interface and provides for such sophisticated graphics
+as 3D constructions, 2D contours and mathematical fitting of nonlinear functions
+at such rapid rates that the user may have all views going simultaneously and
+still maintain a refresh rate that was as fast as the sensor could provide.
+
+Luxtron Corp. / XINIX 06/1989 to 06/1992
+Software Manager
+The Endpoint Controllers and Particle Sensors developed by LUXTRON/XINIX are the
+most sensitive and sophisticated controllers in use for the manufacture of
+Integrated Circuits. Special features include multiple sensor capability,
+specialized noise rejection, user programmable interfaces, and sophisticated
+trend charting capabilities including Statistical Process Control Rules, and in and out of control Rule.
+
+RESPONSIBILITIES: Develop generalized software tools, specialized noise
+filtering algorithms, develop new machine-machine interfaces and maintain the
+older software versions. Direct and guide the porting of the software systems
+from Microsoft to Borland C++, and enhance the capabilities of several already
+existing software packages. I hired 4 software engineers and directed the
+efforts of more than 3 contract software engineers. To complete up to 5
+software tasks simultaneously, on schedule.
+
+Patents:
+5,208644 , Interference Removal
+5,138,149, Apparatus and Method for Monitoring Radiant
+Energy Signal with Variable Signal Gain and Resolution Enhancement
+5,190,614, Method of Endpoint Detection and Structure Thereof
+
+SRI International 09/1977 to 02/1989
+Electrochemical Engineer
+Awards: Received 2 Exceptional Achievement awards for software data analysis packages.
+Only person to receive 2 achievement awards.
+RESPONSIBILITIES:Coordinate the efforts of several research technicians, develop automated testing procedures using Macintosh and 80x86 PC's .
+ACCOMPLISHMENTS: Developed interface electronics and wrote software for the Macintosh to allow automatic testing of various sensor technologies. This software and electronics package has subsequently been sold by myself to 5 universities and research facilities. Specified and Developed Software Package to interface to KEVEX EDAX with scanning capability to allow 2 dimensional elemental X-Ray Fluorescence data to be acquired and viewed using a Macintosh II. The system was written using Aztec C and allowed background subtraction, contour plotting, iso-elemental plots and of course such modern
+visualization techniques as edge detection, shading of various concentration
+ranges, and slicing of 2 dimensional information into single dimensional plots.
+Used LabView to acquire data from various experiments using GPIB, RS232, and Proprietary interfaces.
+Developed interface electronics and wrote software for the Macintosh to acquire data from X-ray diffractometer. The software to analyze that acquired data to extract critical cell parameters was also written by myself. For this effort I received an exceptional achievement award.
+Developed complete experimental apparatus and sensors to test samples for
+corrosivity in various solutions. In order to monitor the long term experiment
+( 7 Months) I programmed the Macintosh to acquire data from several IEEE-488
+instruments. The data was then later analyzed, graphed and correlated using MS
+EXCEL, as well as my own graphing routines which were used because they graphed
+the data in 1/10 the time.
+
+Patents: 4,609,440 Electrochemical Synthesis of CH4 from CO2
+4,609,441 Electrochemical Reduction of aqueous Carbon dioxide to methanol.
+
+EDUCATION:
+M.S. Chemical Engineering, Stanford University, Stanford CA. GPA 3.5 of 4.0
+B.S. Chemical Engineering, Univ. of Calif. Davis, CA. GPA 2.7 of 4.0
+
+Published papers on the subjects of Electrochemistry, Silicon Solar Cells, mathematical analysis of images in the Journal of Electrochemical Society, and presented papers at some conferences.
+Contact this candidate

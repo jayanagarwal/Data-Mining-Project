@@ -1,0 +1,89 @@
+C. Kavya Sri DevOps Engineer
+ad7uak@r.postjobfree.com 408-***-****
+PROFESSIONAL SUMMARY
+* ***** ** ********** ** the IT industry, with expertise in Delivery Management, Development, Build and Release Management, DevOps practices, Containerization, and Cloud Implementation.
+Extensive experience with the Software Development Life Cycle (SDLC), including Software Change Management
+(SCM) and Build and Release Management. Proficient in Agile, Waterfall, and Scrum methodologies.
+Proficient in a range of tools and technologies, including Git, Subversion, Maven, Jenkins, Chef, Puppet, Ansible, Terraform, Docker, Kubernetes, and Nagios.
+Deep understanding of Docker files and automated builds on Docker Hub, with extensive experience in configuring Kubernetes using Docker.
+Experience with Git, Bitbucket, Maven, Jenkins, TeamCity, Octopus, Chef, Ansible, Terraform, Docker, Kubernetes, Nagios, and ELK tools.
+Profound Working knowledge of scheduling, deploying, and managing container replicas on a Kubernetes cluster, as well as setting up K8's runtime environment for testing, deploying, and building.
+Detailed knowledge of Jenkins for Continuous Integration (CI) and Continuous Delivery (CD) processes, along with Shell scripts for automating routine processes.
+Expertise in deployments using Ansible, Chef, and Puppet.
+Expert in Ansible automation - writes playbooks, creates test-driven development modules, and builds AWS virtual servers with Ansible.
+Demonstrated experience with Kubernetes, Docker, and ECS containers.
+Experience with configuring and managing Puppet master servers, updating and creating modules, and sending them to Puppet clients.
+Strong understanding of analytics tools such as Spotfire, AppDynamics, CloudWatch, Zabbix, Datadog, and Datadog.
+Experience branching, tagging, and maintaining Linux and Windows versions using tools like github, SVN, GIT, and Team Foundation Server.
+Good knowledge of software build tools like Apache Maven and Apache Ant, as well as Pom.xml and Build.xml.
+Extensive experience in developing Docker containers and managing Kubernetes clusters using the OpenShift platform.
+Exceptional design skills, computer proficiency, and ability to work under pressure. TECHNICAL SKILLS
+Programming Python, Java, Shell Scripting, YAML template. Version Tools SVN, GIT, Perforce, TFS
+CM Tools Puppet, Chef, Ansible, Salt
+Cloud Technologies Amazon Web Services(AWS)
+Web/Application servers Apache Tomcat, WebSphere
+Databases Amazon RDS, Dynamo DB, Amazon Aurora, RedShift warehousing and MySQL Virtualization VMware, Vagrant, Docker, Elastic Container Service, Kubernetes Monitoring Tools CloudWatch, Nagios, Datadog, Zabbix, Splunk, Sumo logic Operating Systems Windows, Sun Solaris, Red Hat (LINUX) PROFESSIONAL EXPERIENCE
+Columbia Sportswear, Portland, OR
+DevOps Engineer Jul 2023 – Till Date
+Coordinated deployment details for higher environments and resolved build failures by collaborating with multiple development teams.
+Created Ansible Playbooks based on puppet modules for various environments.
+Used Cloud Formation, Terraform templates, and Docker setup in Vagrant, Amazon Virtual Private Cloud, and AWS to establish CI/CD processes.
+Deployed, scaled, and managed web containers using Kubernetes.
+Assigned IAM roles to EC2 instances by creating S3 bucket policies.
+Executed scripts and managed infrastructure with Terraform through terminal sessions.
+Automated Puppet platform using multiple modules for each component of the system, including Kafka, Zookeepers, MySQL, Logstash, and HTTP.
+Built, tested, and deployed the system using Kubernetes and Docker.
+Configured and installed Kubernetes and wrote Docker files to automate the build process.
+Automated the deployment of J2EE applications to application servers using an Agile continuous integration process.
+Implemented multi branch pipelines in Jenkins using groovy scripts.
+Updated existing ANT/MAVEN files when project requirements changed or errors occurred.
+Utilized Docker files to create images and manage Docker volumes.
+Created scripts to move between environments using Jenkins' MAVEN build tool.
+Supported agile software development teams using Jenkins' CI/CD pipeline. Environment: Java, Docker, Jenkins, Ansible, Kubernetes, AWS(IAM, EC2, S3), Jenkins, Tomcat Server, Maven, GIT, Groovy, Terraform, MySQL, Puppet, Jira, Windows.
+Exchange Bank, Santa Rose, CA
+DevOps Engineer Dec 2021 – Jun 2023
+Assisted in daily Scrum meetings, sprint planning, estimating tasks for user stories, and the retrospective and demo at the end of the sprint. Ensure that daily communication is conducted both verbally and in writing with external teams.
+Integrated Jenkins pipelines with GitHub using the continuous delivery framework and developed Jenkins pipelines for Jenkins jobs.
+Managed Kubernetes using Helm. Created reproducible builds for Kubernetes applications by managing manifest files and Helm package releases.
+Created S3 buckets for storing logs and metrics using Lambda functions.
+Utilized Python scripts to automate tasks related to AWS, such as the creation of snapshots.
+Created and deployed Ansible playbooks for use within the organization.
+Utilized Chef, Python, and Amazon Web Services Cloud Formation tools to develop cloud deployment templates.
+Deployed Chef Cookbooks containers to different servers using Docker images with different artifacts.
+Maintained legacy bash scripts, converted to Ruby scripts, for the configuration of environments with IIS7 and Nginx.
+Implemented Jenkins-based CI/CD pipelines for management of application software lifecycles.
+Tracked issues and integrated code with Atlassian products such as JIRA and Confluence.
+Developed Terraform scripts for development, staging, production, and disaster recovery environments.
+Implemented continuous delivery using Jenkins and Maven. Environment: Python, Docker, Ansible, Kubernetes, AWS, Terraform, Nginx, Jenkins, Maven, GITHUB, Jira, Linux. Grange Insurance, Columbus, OH
+DevOps Engineer Jan 2020 – Nov 2021
+Improved the user experience by implementing continuous integration, automating the build and deployment process, and reengineering the setup.
+Achieved the goal of developing and implementing agile software release management strategies.
+Created CI/CD running environment for Jenkins, and used Kubernetes and Docker for building, testing, and deploying.
+Utilized Jenkins, Python, and Shell scripts to implement CI/CD processes.
+Automated infrastructure scaling using scripts and ideas.
+Developed and deployed development environments to Amazon AWS and EC2 using Ansible, and tested them using Jenkins.
+Managed AWS EC2 instances, volumes, DNS, and S3 with Ansible modules.
+Installed and configured Jenkins continuous integration tools.
+Supported trunk, development baseline codes, and a number of feature branches for development teams.
+Contributed to building frameworks such as Jenkins and Maven for new projects.
+Developed build artifacts for Java projects using Maven for development of the build artifacts.
+Implemented GIT for branching, tagging, and releasing software.
+Solved 95% of build problems caused by infrastructure issues. Implemented an effective code review process.
+Developed an automated deployment process for cloud deployments of applications.
+Implemented Java applications on Tomcat web servers by developing and installing Java applications.
+Incorporated into QA, Integration, UAT, and Production environments.
+Developed close working relationships with product development, quality assurance and support personnel around the globe.
+Developed and implemented Apache and Firewalls both in development and production environments.
+Utilized Atlassian Jira for issue tracking, workflow collaboration, and tool-chain automation. Environment: Java, AWS, Jenkins, Maven, Nagios, SQL, Ansible, Kubernetes, Tomcat, Docker, Git, JIRA, Linux. Virinchi Technologies Ltd Hyderabad, India
+Build & Release/DevOps Engineer May 2017 – Mar 2019
+Implemented, maintained, and upgraded the Phabricator branching and build/release strategies.
+Provisioned and automated infrastructure across environments using Chef enterprise modules.
+Automated domain provisioning and re-provisioning by using LDAP data and templates.
+Managed and maintained my existing infrastructure with Chef. Developed a lot of recipes in cookbooks and bootstrapped the nodes with chef enterprise servers
+Created a build environment using Web Hooks and slave machines using Docker container-based test infrastructure.
+Deployed Build artifacts (war, ear) into Tomcat and WebLogic servers using scripts.
+Automated builds using Jenkins by installing, configuring, and maintaining it.
+Identified and predicted common build failures in collaboration with developers.
+Implemented and maintained GIT repositories, views, and access control measures.
+Worked with LINUX tools for building, patching, source control, tracking, and reporting software. Environment: Java, Docker, Chef, Jenkins, GIT, Hudson, Jira, Apache Tomcat Server, Jira, Bitbucket, Linux. EDUCATION: Bachelors Degree in Computer Sciences from Gokaraju Rangaraju Institute of Engineering and Technology in the year April 2013- 2017
+Contact this candidate

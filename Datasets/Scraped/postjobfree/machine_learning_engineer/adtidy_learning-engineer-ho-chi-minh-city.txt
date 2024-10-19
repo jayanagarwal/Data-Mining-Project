@@ -1,0 +1,49 @@
+DƯƠNG CÔNG TÍNH
+Ho Chi Minh, Viet Nam
+Phone: 036*******
+Email:adtidy@r.postjobfree.com
+PROFESSIONAL SUMMARY
+Have experience with Python, C++, Terraform, AWS, Deepstream.
+Have experience with Artificial Intelligence, Machine Learning, Deep Learning, Data processing and analysis
+Have experience with Data Structures and Algorithms by participating in Competitive Programming. TECHNICAL EXPERTISE
+Machine Learning Linear Regression, Logistic Regression, Decision tree, KNN, SVM, Random Forest Deep Learning CNN (VGG, Resnet, Inception Net, DenseNet). LSTM, GRU,Unet Framework Tensorflow, Pytorch
+Library Pandas, Numpy, Matplotlib, OpenCV
+Operating Systems Windows, Linux
+Orthers Git, AWS, Deepstream.
+PROFESSIONAL EXPERIENCE
+6/2022 – 10/2022 Company:Greystone Data Systems
+Projects: Camera de-kit
+Position: Machine learning Engineer
+Responsibility:
+- Research model segmentation to recognize and crop image and damaged position detection
+- Create Data box and bag for model.
+- Processing, Analysis data for model yolov5 and ResUnetPlusPlus
+- Recognize box and bag:
++ Pipeline: Image ->Yolov5-> Resnet50 -> Output.
+- Crop box and bag:
++ Pipeline: Image -> Yolov5 -> ResUnetPlusPlus -> OpenCV to crop and rotation image.
+- Damaged position detection:
++ Pipeline crop box -> Yolov5.
+- Train, Test, Improve model.
+- Build Dockerfile environment to integrate model into software. Projects: Detect and Action recognition: (Research + Test) Position: Artificial Intelligence
+Engineer Responsibility:
+- Research patterns to Detect and compare models: Yolov5, Yolov4, SSD, Mask RCNN
+- Research patterns to Track and compare models: Strongsort, Deepsort
+- Build model Classification.: Transfer learning resnet50+GRU
+- Choosing the right technology for Xavier NX of Nvidia
+- Collect 5 category data for yolov5 and 2 class for Classification from source RTSP.
+- Processing, Analysis, Selection of Data and Label for model yolov5. Analysis 2 class of model Classification, process data into 5D form for input (B, T, H, W, C) and output are 1 and 0 for 2 class
++ Pipeline Source RTSP -> Yolov5-> Strongsort with Osnet -> Classification -> Output
+- Use yolov5 to detect, strongsort to Tracking and Classification to action recognition
+- Deploy project on Xavier NX with SDK Deepstream of nvidia
++ Pipeline on Deepstream: 2 Source -> Stream Mux ->Primary Detector (yolov5.engine)-> Object Tracker (Deepsort + Reid) -> Secondary classifies (Classification) -> OSD -> Sink Techniques:
+- Deep Learning, Pytorch, Tensorflow, Linux, Github and Deepstream 6/2021 – 4/2021 Company: Gtopia (6 months internship) Projects: Smoke and Fire detection
+Position: Machine Learning Engineer Responsibility:
+- Collect data from source: youtube google…
+- Data processing, analysis and evaluation
+- Analyze and evaluate model, improve model in accuracy and FPS.
+- Researching and building models for yolov5 to detect. Resnet50 for classification Techniques:
+- Deep Learning (Object detection, Classification), Pytorch, Tensorflow, Linux and Github. AWS HONOURS AND AWARDS
+4/2018 Programming competition in University of Education HCMC 2018 (UP - OLP)
+- My team was placed 2nd among 25 teams.
+Contact this candidate

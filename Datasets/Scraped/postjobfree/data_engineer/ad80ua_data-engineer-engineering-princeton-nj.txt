@@ -1,0 +1,221 @@
+Professional Summary
+Big Data architect with AI/ML (LLM specially) with vast experience in MDM (informatica), development and implementation of Data Warehousing. Strong experience with Data Warehouse, Informatica (8.6,9.1 and 10.0,10.1), Tableau, Snowflake,Python,Oracle, Sybase, Perl, Python, Java, IBM MQSeries, SQL, and Unix. Independent team leader with strong ETL design and development of mappings. Proven history of building large-scale data processing systems and serving as an expert in data warehousing solutions while working with a variety of database technologies. Experience architecting highly scalable, distributed systems using different open-source tools as well as designing and optimizing large, multi-terabyte data warehouses. Able to integrate state-of-the-art Big Data technologies into the overall architecture and lead a team of developers through the construction, testing and implementation phase. Recently implemented alert system using LLM on news data.
+
+Area of expertise
+Databases and Tools:
+Data Warehouses: Snowflake, Redshift,Databricks, Teradata, Netezza, Greenplum.
+RDS: MS SQL Server, Oracle, DB2, Postgres
+NoSQL: HBase, DynamoDB, SAP HANA, HDFS, Cassandra, MongoDB, CouchDB, Vertica, Greenplum,
+Agile Tools: Jira, Confluence, Github,Terraform,Ansible,DBT
+
+Technical Skills: DevOps using Linux OS’s, Bigdata using Scala, spark. Snowflake,Redshift,Informatica version 8.6, 9.1,10, Informatica IDQ, Hadoop technologies (HDFS, Hive, Impala, Spark), AWS, WSRR architecture, SOA,
+
+Oracle (PL/SQL), Perl, Shell, Java,w UML, Unix,
+
+Professional Experience
+Senior data manager/engineer
+LONDON STOCK EXchange,NYC,NY SEP 2021 – Jul 1
+Core Responsibilities:
+Led the implementation and management of infrastructure provisioning using Terraform in a DevOps environment, driving efficiency through automation and adhering to industry best practices.
+Architected and deployed a robust Data Warehouse solution using Snowflake, ensuring scalable and optimized data storage for enterprise-wide analytics, while enabling seamless data integration across LSEG's cloud platforms.
+Integrated AI and machine learning capabilities within the Snowflake environment, leveraging advanced analytics to drive real-time insights and decision-making for LSEG’s fixed income product teams.
+Implemented advanced security protocols, including data masking, encryption, and role-based access control, to safeguard HIPAA and PHI data, ensuring compliance with stringent regulatory standards and maintaining the highest levels of data privacy.
+Set up and optimized a comprehensive monitoring system for the Databricks platform, proactively identifying and resolving issues while enhancing resource utilization to support large-scale data processing and analytics workloads, including AI model training and deployment.
+Developed a strategic analytics roadmap for LSEG business stakeholders, leveraging Atlassian Confluence to align near-term and long-term initiatives with organizational goals, ensuring clear and effective project planning and execution.
+Defined and implemented value-based prioritization frameworks, aligning with LSEG’s Affordability and Product strategies, ensuring that AI-driven and data-centric business initiatives delivered maximum ROI.
+Collaborated with AI engineers and data scientists to design machine learning models for fixed income products, optimizing performance using Databricks MLflow and Snowflake’s data-sharing capabilities for real-time market trend analysis and risk management.
+Led the integration of Salesforce with the KONG API management platform, enabling seamless data flow and enhanced operational efficiencies across customer relationship management and data platforms.
+Architected and set up multiple Snowflake Data Warehouses, successfully integrating with various departments to centralize data management and enable scalable analytics.
+Developed a comprehensive migration strategy for Snowflake, conducting an in-depth assessment of legacy databases, identifying critical data transformations and cleansing requirements, and executing an optimal data migration approach, ensuring minimal disruption and maximum efficiency.
+Administered all Snowflake instances across the firm, maintaining robust data governance, security, and operational excellence.
+Built and deployed a cutting-edge Machine Learning platform using Databricks, enabling advanced analytics, model development, and real-time insights for data-driven decision-making across the organization.
+Led the implementation of Data Vault 2.0 modeling for EU and UK financial products (MBS loans), ensuring a scalable and auditable framework for complex data storage and processing needs.
+Designed and implemented Dimensional modeling (Star and Snowflake schema) for News Analytics, optimizing data structures for high-performance querying and reporting.
+Executed advanced data-sharing mechanisms using Snowflake’s Private Exchange, facilitating secure and seamless data exchange between internal and external stakeholders.
+Enabled cross-cloud data sharing by integrating GCP and S3 buckets with Snowflake, empowering clients with flexible and efficient access to critical datasets.
+Engineered secure and efficient data sharing solutions using Snowflake’s Private Exchange, enabling seamless data exchange between internal teams and external partners.
+Implemented cross-cloud data sharing by integrating GCP and S3 storage buckets with Snowflake, providing clients with fast, scalable, and secure access to critical datasets.
+Clouds Used: AWS,Azure for AD login to Snowflake,Databricks, Data Dog, Terraform Cloud and GitHub for
+version control.
+Tools used: DBT, AWS Glue, EMR and Snowpark and EC2 instance.
+Data Model: Data Vault 2.0
+
+Data architect/data engineer (Digital platform): TD Ameritrade: NOV 2017 – SEP 2021
+Established a Machine Learning platform for compliance models, enabling advanced analytics and real-time insights into regulatory adherence.
+Developed a Master Data Management (MDM) solution with a strong emphasis on data quality, ensuring accurate and consistent data across the organization.
+Built a robust Compliance Data Warehouse leveraging Informatica MDM, facilitating enhanced data governance and analytics capabilities.
+Set up a container-based platform using Kubernetes for model training, optimizing resource allocation and scalability in machine learning processes.
+Created analytic queries that empowered upper management to make data-driven decisions, significantly enhancing operational effectiveness.
+Integrated Salesforce with the MuleSoft platform, streamlining data flow and improving operational efficiencies across customer relationship management.
+Utilized Informatica PowerCenter for data ingestion, executing ETL processes to seamlessly transfer data into Oracle databases.
+Developed complex queries and stored procedures in Oracle for Mantas scenarios, ensuring precise data processing and analysis.
+Migrated critical data from Oracle databases to Snowflake cloud, enhancing data accessibility and performance.
+Designed and implemented data ingestion pipelines for the Compliance Department, ensuring timely and accurate trade data processing.
+Executed dimensional and 3NF data modeling for the Compliance Data Warehouse, establishing a solid foundation for analytics.
+Implemented data pipelines using the Big Data Framework (Cloudera), subsequently migrating to Databricks to leverage enhanced capabilities.
+Conducted proof of concepts (POCs) on Databricks for the Big Data Spark environment, demonstrating the platform's potential for scalability and efficiency.
+Developed AI-based analytics queries for Mantas scenarios, driving deeper insights into financial compliance and risk factors.
+Built a comprehensive security framework with data masking to protect HIPAA and PHI data, ensuring regulatory compliance and data privacy.
+Converted Mantas financial scenarios into a machine learning framework, enabling predictive analytics for compliance scenarios.
+Trained numerous predictive models using various methodologies, including:
+Linear Regression for forecasting future interest rates (TBAs).
+Random Forest for assessing transaction risk factors.
+Support Vector Machines (SVM) for identifying potential money laundering issues.
+k-Nearest Neighbors (k-NN) for monitoring trades approaching critical thresholds.
+Deep Learning techniques (CNNs and RNNs) for modeling fixed income market distributions.
+Executed all tasks within an Agile framework, utilizing Kanban boards to ensure efficient project management and collaboration.
+
+UBS(Through milestone), NYC, NY Oct 2015 – Oct 2017
+Solution Architect for CCAR (Comprehensive Capital Analysis and Review)
+Led the CCAR project for UBS, successfully developing an extraction process for CCAR data using Informatica PowerCenter 9.6, ensuring accurate and efficient data handling.
+Established a Big Data environment to process CCAR data utilizing Oracle data warehouse, significantly enhancing data processing capabilities and performance.
+Provided strategic leadership to the entire project team, delivering the complete product on time and ensuring alignment with organizational objectives.
+Leveraged Scala and Python to process CCAR data, implementing robust data processing workflows that improved efficiency and accuracy.
+Designed a comprehensive Data Quality framework using Informatica IDQ, ensuring the integrity and reliability of CCAR data throughout the processing lifecycle.
+Developed a monitoring tool for the CCAR dashboard using Python, enabling real-time insights and proactive issue resolution.
+Created an API consistent with LAYER 7 for load balancing across CCAR applications, optimizing performance and ensuring seamless data flow.
+Implemented the complete infrastructure for the CCAR system, establishing a scalable and secure environment for data processing and analysis.
+Authored a robust framework using Unix Shell, Python, and Perl, enhancing automation and operational efficiency within the CCAR project.
+Presented a proof of concept (POC) for a Big Data warehouse utilizing AWS, demonstrating its potential for scalability and cost-effectiveness.
+Executed ER modeling and dimensional modeling for CCAR data, laying the groundwork for efficient data organization and retrieval.
+Developed Data Quality reports using Tableau, providing stakeholders with actionable insights and fostering data-driven decision-making.
+Utilized Jira, Confluence, and GitHub for source code management, ensuring effective collaboration and version control throughout the project lifecycle.
+Integrated ERP systems with CCAR, enhancing data consistency and operational efficiencies across business processes.
+
+Israel Discount Bank of New York, NYC,NY June 2014 – September 2015
+Data Architect (Compliance Data Warehouse)
+
+Successfully implemented dimensional modeling utilizing Star and Snowflake schemas to enhance reporting capabilities, improving data accessibility and insights for stakeholders.
+Led the compliance team by providing mentorship and training, fostering a culture of accountability and continuous improvement in compliance monitoring.
+Integrated Informatica ETL capabilities with the MANTAS application, implementing the Trusted Pair feature to enhance data integrity and accuracy for compliance violations related to historical transactions.
+Established Development and User Acceptance Testing (UAT) environments for MANTAS using Informatica PowerCenter, ensuring a robust and reliable framework for compliance applications.
+Designed and implemented a reconciliation tool using Python for the Compliance Reconciliation process, streamlining operations and improving accuracy in compliance reporting.
+Developed a comprehensive compliance monitoring system for Cash Trade Reports (CTR), money laundering activities, watch list management, and risk scoring, enhancing regulatory adherence and risk management.
+Configured an environment using Informatica to support the Oracle MANTAS application, ensuring seamless data processing and compliance functionality.
+Designed a Data Quality tool using Informatica PowerCenter to validate the compliance database, ensuring high standards of data integrity and reliability.
+Implemented Oracle partitioning strategies for historical data, optimizing performance and improving data retrieval efficiency.
+Leveraged AWS cloud infrastructure for Salesforce-based reconciliation applications, enhancing scalability and reliability of compliance operations.
+Utilized Jira and Confluence for effective project management, facilitating collaboration, tracking progress, and maintaining clear documentation throughout the project lifecycle.
+Developed CRM synchronization processes with Salesforce using IICS, ensuring accurate and timely data integration between platforms to support compliance initiatives.
+
+Morgan Stanley, NYC,NY February 2014 – May 2014
+Informatica Architect
+Enhancement and maintenance of existing mortgage application
+Introduced exceptions in Object Oriented Perl Framework which processes feeds.
+Worked on Data Quality based framework using Informatica IDQ
+Enhanced the extraction of mortgage data for large volumes using Informatic Power Center 9.6.
+Wrote Procs in Sybase and Oracle to support mortgage application.
+Presented dimensional modeling concept to current Data Warehouse.
+Provided production support for CBR applications.
+Used Jira and confluence for status check.
+
+TD Ameritrade, Jersey city,NJ February 2013 – January 2014
+Informatica Architect (Risk and Compliance Dept.)
+Worked on ETL Mantas application.
+Worked on the dimensional modeling (Star Schema, Snowflake Schema) of Risk and Compliance Data Warehouse.
+Implemented mappings for SCD1 and SCD2 using Informatica Power Center.
+Worked on the Capacity Planning for Informatica 9.5 version.
+Worked on the installation of Informatica 9.5 on Linux cluster.
+Worked on the upgrade of 8.6 repository to 9.5 and fixed the issues with mappings after upgrade.
+Defined the standards for naming convention and deployment procedures in Power Center.
+Developed Informatica mappings to load data for IBM Compliance Platform MANTAS.
+Worked on the product integration from different sources and participated in production support.
+Worked on the setting up of Uat and Dev environments.
+Proposed the Grid design to support multiple Informatica nodes.
+Worked in the DR site for Informatica server with infrastructure team.
+Developed Object Oriented Framework using Perl to support Data Integration which uses Informatica.
+Developed Object Oriented testing tool using Perl which supports multiple QA tasks.
+Developed a watch dog in Perl which scans all log files and sends alerts with different colors depending on severity (red being critical, amber warning etc.).
+Tuned the mappings to handle large volumes of data. Proposed the design of parameter file creation during run time.
+
+Barclays Capital, Jersey VITY, NJ April 2011 – February 2013
+Informatica Architect
+Data warehouse setup, Cost Basis Reporting, Trading and reporting applications.
+Presented the concept of dimensional Data Warehouse to Barclays Capital.
+Implemented Star Schema and Snowflake schemas for Costs Basis Data Warehouse.
+Configured the Grid for Dev, Uat and Prod Informatica Power Center platform.
+Worked on the standards of naming convention and deployment strategies.
+Developed framework using Perl to automate SCM for Informatica deployment.
+Developed framework using Perl and shell to support dynamic updates of parameter files in Informatica.
+Responsible for the automation of whole process for Informatica using Perl and Shell.
+Designed and implemented Publish and Subscribe of data sharing using real time web services through Informatica.
+Designed and implemented XML parsing using Informatica Power Center. Laid out the steps to be followed for XML parsing.
+Developed a mapplet for cross referencing with Equity and Fixed income Data
+Process feeds from main frame using VSAM in Informatica to load balance and position data.
+Developed framework using Perl to automate process for Informatica deployment.
+Developed a Perl program to process LDAP Directory service used by Informatica process to convert unstructured data to structured format.
+Set up QA testing environments with respect to Database Servers, wrote scripts to keep products
+Data in QA in sync with Prod.
+Coordinated with QA people effectively for data and technical issues.
+Wrote an automated tool using Expect tool in UNIX to connect to UNIX servers based on DNS.
+Wrote a remote execution tool using Expect and TCL.
+Wrote a Framework in UNIX shell for Informatica ETL.
+Wrote wrappers in BASH shell and KSH for all batch jobs.
+Wrote a Framework in Shell for Informatica ETL.
+Did Production Support for all the above applications.
+Used Jira for reporting status of work.
+
+Albridge. Lawrenceville, NJ September 2010 – March 2011
+Senior Data Integrator
+Product Cross reference model, Product Data warehouse
+Worked on the architecture of Data Marts from Data Warehouse using Informatica 8.6.
+Worked on Setting up of Data Hub and Data Marts using Informatica 8.6
+Used Informatica partition along with oracle partitions effectively in Data transfer.
+Used PL/SQL stored procedures and SQL in Oracle effectively.
+Used Dimensional model Star Schema for Data Warehouse and Data Marts.
+Provided prod support for Data applications.
+
+Credit Suisse, NYC,NY August 2002 – March 2009
+Senior Programmer Analyst
+Implemented interfaces to Data Warehouse in Perl. Contributed to a Common Framework developed in Perl which has all the functionalities of ETL.
+Designed ERP for prime brokerage in Credit Suisse.
+Wrote Stored Procedures and Triggers in Sybase Database
+Designed the interfaces using UML technology. Designed the classes in Perl to match the right patterns for Interface.
+Designed the data model for positions and balance for Different Counter Parties for Equity, Fixed income, options, futures and forwards
+Implemented a Cross Reference Model in Perl for Equity, Fixed Income, Derivative Options and Futures. Various design patterns were used here.
+Wrote a Web service client to pull Libor (Interest Rates), FED OPEN rates.
+Wrote an application in Perl to pull FX rates.
+Wrote Daemon process for Web interface for manual load of Interest Rates by business folks. Used DBI module here to load into Sybase.
+Wrote an application using LWP module in Perl to load Index Rates
+Used Procedures and Triggers in Perl DBI.
+Used SAX, DOM parser in Perl to parse XML files.
+Implemented CDS (Derivative), Swaps REPOS (Repurchase of Stocks), and Corporate Actions load using Informatics.
+Wrote Loaders in Perl and Shell to load Fixed Income, Futures and Options products.
+Use XSLT in XPATH to parse XML files coming from Message Queue (MQ Series).
+Did Production Support for all the above applications.
+Installed new Perl modules in Production.
+Contributed to Price Reporting Web site in Credit Suisse.
+Contributed to Portal Developments for Portfolio manager in Credit Suisse.
+Developed a remote execution tool using sockets.
+Developed a multicast alert email system for Swift Messages using UDP protocol.
+Installed a new ODBC driver for third party vendor database by name Meta Metrix. Configured Informatica on UNIX box (Solaris OS) to use the ODBC driver.
+Added new repositories and users for UAT in development servers
+Helped Informatica Admins to tune Informatica in memory allocation on Sun machines
+Designed a common Framework in Shell to run Informatica Workflows.
+Set up QA testing environments with respect to Database Servers, wrote scripts to keep products
+Data in QA in sync with Prod.
+Coordinated with QA people effectively for data and technical issues.
+Wrote an automated tool using Expect tool in UNIX to connect to UNIX servers based on DNS.
+Wrote a remote execution tool using Expect and TCL.
+Wrote a Framework in UNIX shell for Informatica ETL.
+Wrote wrappers in BASH shell and KSH for all batch jobs.
+Wrote a Framework in Shell for Informatica ETL.
+Did Production Support for all the above applications.
+Implemented classes in Perl to load prices from Files, Miseries Messages and remote databases.
+Wrote stored procedures and SQL queries to update prices in Data Warehouse
+Implement interfaces to deliver the prices to clients. The interfaces are developed in Bash Shell, Perl.
+Developed a web-based tool using upload prices.
+Wrote Stored Procedures and Triggers in Sybase Database.
+Used XSLT to create HTML output for report.
+Implemented a Module in Perl, which Creates PDF files on Fly along with Java Command Line tool for Formatting Objects. Here XML files are created by Java using DOM Parser. Used XSLT to parse XML files to load into Sybase database.
+Installed XSL: FO, XSLT libraries from Apache Website.
+Installed DBI modules from cpan in UNIX server.
+Installed XML generator Perl module from CPAN.
+Installed CGP.pm module from CPAN.
+Configured Linux server for SLL related issues.
+Installed encryption software in Linux Server.
+
+Education
+MS in Computer Engineering -University of Bridgeport, CT
+BS in Electronics and Communication - University of Mysore, India
+Contact this candidate

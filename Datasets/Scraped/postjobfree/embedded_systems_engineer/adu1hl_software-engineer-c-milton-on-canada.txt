@@ -1,0 +1,126 @@
+Lokesh Kumar
+M:+1-647-***-**** :https://www.linkedin.com/in/Lokesh-Kumar-Singh E:adu1hl@r.postjobfree.com
+Professional Summary
+Exceptionally accomplished and skilled Software Engineer with a zest for a challenging work environment to fuel my fervent passion for cutting-edge technology by developing next-generation embedded systems and creating high-performing, bug-free software. Proven record of successful work both independently and as a team member. I am interested in Application & System/Embedded software development jobs primarily using C, C++, and Python.
+
+Skills
+Programming Languages: C, C++, Erlang
+Scripting Language: Python, Shell Scripting, sed, awk
+Hardware Platform: Pandaboard, Raspberry, 8-bit Microcontrollers
+Tools: GNU (gcc,gcov,gdb), valgrind, Fortify(DAST/SAST)
+IDE: CodeLite, Pycharm, Eclipse, Clion, Jupyter
+Custom Tools: omapconf, dcetst/dcitst
+Database: MySQL, SQLite, Oracle, Teradata
+Version control system: Git, SVN, Jira & Confluence
+Operating Systems: Linux, Android, Windows, Unix
+Technologies: POSIX APIs, OpenSSL IPMI, SNMP
+Concepts: OS Concepts, Data structures, Multi-threading, Linux Device Driver, Understanding of RTOS
+SDLC Methodologies: Agile, Waterfall
+Expertise in building multi-threaded system software/applications using POSIX APIs in a Linux environment.
+
+Work History
+
+Jan, 2020 – Till Date Consultant Citibank Inc, Toronto
+Maintained derivative pricing, P&L analysis and risk management software that is used for sales/deals at front desk teams.
+Delivered the deliverable in the form of currency curve changes in risk aggregation data.
+Added features in market data provider (Lucid) code in Python
+Sustained existing products by fixing bugs and enhancing the quality of risk analysis software written in python
+Delivered projects on time, meeting strict deadlines using Agile/SCRUM methodology
+
+Technology Used: Python, MSSQL (Microsoft SQL Server Management Studio)
+Environment: Windows & Linux
+
+Aug, 2018 – Nov, 2019 Consultant (Full Time) Loblaw Company Ltd.(Adastra Corporation), Toronto
+Ownership of low-level ETL data processing module. Using C, C++, and Linux, I designed, developed, and maintained software modules for sales applications for retail giant Loblaw Company Ltd.
+Responsible for transitioning the sales applications from an older Unix platform which was about to decommission to a new Linux platform.
+Created an infrastructure in the RedHat Linux environment for development.
+Ported the application into a new environment
+Migrated the low level code to access oracle database to Teradata(C++ with sqlite3).
+Added feature-specific test cases through Python scripts into the Test suite.
+Improved efficiency of existing software stack written in C/C++ by reviewing code, and rectifying performance as well as security issues.
+Sustained existing products by fixing bugs and enhancing their quality which involved managing modules written in C++.
+Delivered projects on time meeting strict deadlines using Agile/SCRUM methodology.
+
+Technology Used: C, C++, Python, GCC toolchain, Database (Oracle & Teradata), Sqlite3, OS Concepts, Data structures, Multi-threading,
+Environment: Linux(RedHat) & Unix(HPUX)
+
+Aug, 2015 – June, 2018 Firmware Senior Engineer Dell Technologies, Bengaluru
+Ownership of sensor details provider multi-threaded process which returns data to requests made through interfaces such as WSMAN, RACADM,Redfish & SNMP. I designed and developed system software modules and features for Embedded Linux based Remote Access Controller for servers using C and Linux.
+Created proofs of concept for the innovative new feature using C and SQLite library for the same Linux-based platform.
+Added an X.509 certificates parsing feature to a multi-threaded certificate manager process.
+Integrated GCC tools, code coverage (gcov) & profiling (gprof) system
+Added feature-specific test cases through Python scripts into aBVT (Automated build verification Test) suite
+Improved efficiency of existing software stack written in C by reviewing code, and rectifying performance as well as security issues.
+Sustained existing products by fixing bugs and enhancing their quality which involved managing interface modules written in C++.
+Delivered projects on time meeting strict deadlines using Agile/SCRUM methodology.
+
+Technology Used: C, Python, GCC toolchain, OS Concepts, Data structures,
+Multi-threading, SQLite, POSIX APIs, JIRA, Jenkins, Yocto, C++, Autoconf, Fortify & Coverity(DAST/SAST), Valgrind, Memcheck
+Environment: Embedded Linux
+
+Oct, 2012 – Aug, 2015 Senior Software Engineer TPVision India Private Limited, Bengaluru
+
+Ownership of TvInfraLooper module which includes the whole SDLC for this component. Using C/C++, designed and developed a synchronization mechanism (TVinfralooper) to the threads in a multi-threaded process on an Android-based Smart TV platform.
+Ownership of the Python test suite which included the whole SDLC for this suite. Created a Python test suite for various components (e.g Antenna, IR Remote) in the Android TV platform
+Design and develop a unified layer (ADC, USB, I2C, and SPI infra layer) which consists of libraries, to provide an application layer an interface to access underlying hardware on an Android-based platform for Smart TVs.
+Maintained bootloader(uboot) code
+Develop and Enable debugging features including netconsole for Marvell SoC-based Android TV.
+Maintaining the device drivers for various peripheral devices.
+Prepare system design specification and unit test document
+Participate in Code and unit test reviews
+
+Technology Used: C, C++, Python, OS Concepts, Data structures, Multi-threading,
+POSIX APIs, Linux Device Driver, Tombstone, GCC tools, JIRA, Jenkins, and Android make
+Environment: Android
+
+Dec, 2010 – Oct, 2012 Senior Software Engineer Texas Instruments (Sasken Technologies Limited), Bengaluru
+
+Worked closely with other departmental peers to develop high-availability solutions for demo applications in C.
+Worked closely with customers to efficiently resolve issues.
+Worked with project managers, developers, quality assurance, and customers to resolve technical issues.
+Consolidate the software source code in C by reducing memory leaks by using Coverity(SAST), gdb, Valgrind, and memcheck
+Served as point-of-contact for the client engineering team.
+Collaborated with client engineering team members to create application’s system analysis based on client requirements.
+Maintaining kernel and various device drivers for peripheral devices.
+Improved system performance by making adjustments and resolving bugs.
+Reviewed code and corrected errors
+
+Technology Used: C, GCC toolchain, Linux, Android, Android Make, JIRA, Jenkins, Pandaboard, omapconf, Linux device drivers, Coverity(SAST), Valgrind, Memcheck
+Environment: Linux, Android
+
+May, 2008 – Oct, 2010 Associate Software Engineer Geodesic Limited, Bengaluru
+
+Design and develop a system software (GeoAmida Testjig) to provide a GUI-based interface to test peripheral hardware on GeoAmida POS.
+Design and develop system software (Wi-Fi network management setup) for Embedded Linux-based Point of Sale device (GeoAmida)
+Design & develop a comprehensive SDK for the POS, to make our customers & others capable of making their own applications on GeoAmida POS.
+Maintaining kernel and various device drivers for peripheral devices.
+Customized the bootloader(uboot) interfaces for the safe mode, and network boot.
+Implemented a GPIO-based driver for the battery fuel gauge meter chip which could read from & write to the chip by emulating the I2C protocol.
+Based on the general requirement in the POS/Micro Finance domain, created a reference application for GeoAmida which exposes SDK APIs and acts as a sample app for the client engineers.
+Provide training to the client engineering team to get familiar with GeoAmida SDK.
+Worked as an application developer on 2D Games (with entry-level physics engine) and Chat client implementation with Erlang language.
+
+Technology Used: C, Erlang, GCC toolchain, Linux, Linux Device Driver, OS Concepts, Data structures, Multi-threading, POSIX APIs, uboot, I2C protocol, SVN, Marvel SoC-based H/W platform, Micro-controller(8051/52), mtd-utils
+Environment: Embedded Linux
+
+Education, Training & Certifications
+2019 Online Courses on Python for Data Science
+
+2014 Workshop on advance Linux device driver
+SysPlay eLearning Academy, Bengaluru
+
+2008 Training on Embedded System & System Programming (1 Year)
+Emertxe Information Technologies Pvt Ltd., Bengaluru
+
+2007 Jaypee University of Information Technology, Solan, HP
+
+Accomplishments
+
+Scrum Lead for a server software release.
+'On the Spot' awards for designing, implementing & improving Software components on three different occasions
+
+Voluntary Works
+
+Participated in many public service (NGO) activities organized by Dell Technologies (e.g. Wheelchair assembling)
+Worked as a virtual intern, at SERA, an NGO working towards basic education & health issues of children in India
+Contact this candidate

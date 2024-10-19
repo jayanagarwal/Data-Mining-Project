@@ -1,0 +1,328 @@
+Honey Panda
+
+Address: Apt #***, ***** Alvarado Blvd, Union City, CA 94587
+Phone no: +150******* /+917*********
+Email: ac22e0@r.postjobfree.com
+
+Objective:
+
+H1B petition holder, around 7yrs of experience in Software Testing, Test lead activities and worked from requirement analysis phase to test closure, played major role in the project life cycle, effort estimation, Test case Generation, Test Execution, Bug Tracking, Defect Analysis using Quality Centre 10.0/ALM, Reporting and sharing with all the stakeholders.
+
+Current Role: Test Lead
+Current Designation: Senior Process Associate
+
+Technical Skills:
+
+Software
+C, C++, SQL, Basics of HTML, Java Scripts, VB Scripts, MS office
+Tools
+Quality Centre 10.0, ALM, SSH, Basics of QTP, PL/SQL Developer, Clear quest, SAP BO, SAP BW, Solution Manager, TIBCO SpotFire
+Methods
+Waterfall model, Iterative Waterfall model, Agile Model
+Domain Experience
+Banking (Payments : ACH,RCH,WIRE,SEPA), Energy and Resource, Manufacturing (MES), Insurance
+
+Achievements:
+
+Certifications:
+1.ISTQB (Software Testing External certification)
+2.OCA ( Oracle database External Certification)
+3.Life insurance Proficiency Certification (Internal certification)
+4.Test Automation Basics (Internal certification)
+5.Agile Testing (Internal certification)
+6.Big data and Hadoop (Internal certification)
+
+Additional Achievements:
+
+Working as Test Lead for SSF project in Tata Steel and managing a team of 7 members.
+Got “Star Performer of the Month” award three times in the last one year for good performance and taking up new challenges.
+I have got an opportunity to lead and train a team of eleven members. I have provided training and support to the team for three months that includes full functional knowledge along with concepts of testing starting from requirements to defect tracking.
+
+Key Skills:
+
+Thorough knowledge and experience on STLC, Testing Processes and Metrics.
+Good experience in preparing / reviewing and executing Test Scenarios, Test Cases.
+Experience in managing a team of 7 resources.
+Experience in resource planning, allocation and efforts tracking.
+Experience in effort estimations for the planned projects across releases.
+Coordination with required stake holders including clients/customers.
+
+Experience Details:
+
+TCS Experience
+5 Year(s),4 Month(s)
+CTS Experience
+1 Year(s),5 Month(s)
+Total Experience
+6 Year(s),9 Month(s)
+
+Onsite Experience :
+
+I have got an opportunity to go to Netherlands and serve Tata Steel Europe clients, learn new things like direct customer handling, Facing new challenges, understand customer prospective.
+
+TCS Experience Summary :
+
+Project #1
+
+Customer
+TATA STEEL Europe ( Domain: Manufacturing – MES)
+Role
+Test Lead
+Period
+01/01/2016 to current
+Technical Skills
+PL/SQL Developer, SAP BO, SAP BW, SOLMAN
+Description
+Project: SSF ( Smart Steel Factory )
+
+Client Name: Tata Steel
+Client Location: Netherlands
+
+Project Overview:
+
+SSF is a project based on BI (Business Intelligence) Testing. In a broader term, business Intelligence means some reports are built for customer that helps them to make some decisions for betterment of the organization and it involves various stages to get the final report.
+
+Smart Steel Factory is a project based on Management of product definitions. This may include storage, version control and exchange with other systems of master data like product production rules, bill of material, bill of resources, process set points and recipe data all focused on defining how to make a product. Based on the above
+
+Project Details:
+
+Module: SSF BAU
+Client: Tata Steel
+OS: Windows 7
+Tools: ALM, PL/SQL Developer, SAP BO, SAP BW
+Team Size: 7
+Role: Test Lead
+Period: 01/01/2016 to current
+
+Testing in SSF involves the below steps:
+
+There are 4 layers in MES system and coordination happens in between those to take real time decision and know the exact status of production.
+
+Level 0: production unit ( Factory, where the ground level work is being carried out)
+
+Level 1: Sensors are present which indicates different situation and provide signals to next level
+
+Level 2: Process Control is present here which is an automated system that controls everything and takes all decision and pass to lower levels to execute them.
+
+Level 3: MES (manufacturing execution system) is present in level 3 that acts a bridge between process control and ERP. It takes the necessary information from level 4, processes them and passes the processed data to level2 in its understandable format.
+
+Level 4: ERP is present here which contains all the information regarding product like purchase order and its specification and financial details.
+
+Reporting is done by taking data from Level3 i.e MES. A tool called PSI is used to extract data from MES layer and put it in database on which reporting can be done.
+
+Data from source (MES) is being transferred to BI (Business Intelligence) by tool called PSI ARC by scheduling jobs and being kept in tabular format. This is the 1st layer of BI and called as Data Landing Zone.
+
+Then Data from Landing Zone to next layer (Abstraction Layer ) which is the intergradation layer where business logic is applied.
+
+Next layer is the Reporting layer that takes required information from Abstraction layer with the help of different KPIs by using the tool SpotFire.
+
+Project #2
+
+Customer
+TATA STEEL Europe (Domain – Manufacturing / Energy and resource)
+Role
+Test Lead / Software Tester
+Period
+03/06/2014 to 31/12/2015
+Technical Skills
+ALM, PL/SQL Developer, SAP BO, SAP BW
+Description
+Project: Reporting Factory BICC
+
+Client Name: Tata Steel
+Client Location: UK
+
+Project Overview:
+
+Reporting Factory is a project based on BI (Business Intelligence) Testing. In a broader term, business Intelligence means some reports are built for customer that helps them to make some decisions for betterment of the organization.
+
+Project Details:
+
+Module: Reporting Factory BICC
+Client: Tata Steel
+OS: Windows 7
+Tools: ALM, PL/SQL Developer, SAP BO, SAP BW
+Team Size: 15
+Role: Software Tester
+Period: 03/06/2014 to 31/12/2015
+
+Testing in Reporting Factory is done basically by comparing and checking data. Here data flows in various stages based on Star-Schema model and then finally reflects on various reports. As Tata Steel is a steel production industry, it has basically three areas: Order, Invoice and Inventory. Based on these areas reports are built. Along with that some based on customer complain and issues also some reports are built. Data flows as below:
+
+Source: Raw data is provided by customer in source tables.
+
+Pre-stage: Data are pulled from source and kept in tables/views in RF (Reporting Factory) end. No transformations are applied in this particular layer.
+
+Stage: Here data clinging activity like removal of extra space, elimination of duplicate records etc are done.
+
+Idas: Here transformations are applied on the stage data based on the requirement. This is the most crucial layer as star schema concept is applied here. Here every Fact table is linked up with different dimension tables and populates data.
+
+Data Mart: Here data flows from Idas and no transformation is applied. On top of this layer, reports are built. So the data which are required for reporting purpose, only those data is kept.
+
+Reporting Layer: Reports are seen in SAP Business Objects tool. User has to click on the particular report, refresh it on the current set of data and can view it.
+
+Ad-Hoc Universe: There is another facility for user to create their own reports based on the objects present in the universe. Here user can just drag the desired objects and see the report based on the condition provided.
+
+Project #3
+
+Customer
+Citibank, NA
+Role
+Software Tester
+Period
+01/09/2012 to 03/06/2014
+Technical Skills
+Quality Centre,SSH Tool, MySql, GPP Payment Platform
+Description
+Project: WorldLink Next Gen
+
+Client Name: CITI Bank
+Client Location: Dublin, Ireland
+
+Project Overview:
+
+WorldLink is a product affiliated by CITI Bank basically used for cross border transactions. WordLink is the backbone of CITI bank through which all transactions are carried out and money is transferred from client to beneficiary.
+
+• Working as a Team member in UAT Team.
+• Project Name: World Link NextGen
+• Having good knowledge in SEPA payment.
+• Have hand on experience in executing test cases.
+• Working on different access channel.
+• File type:H2H,HBOS,INPS
+• Message Type: BACS, Single Nostro.
+• Having a good understanding on Payment flow, with different payment types: MassPay, ACH, RCH, Account credit, WIRE, Cash.
+• Worked on QC10.0 as a defect tracking tool.
+• Have taken part in CR specific regression testing.
+
+Project Details:
+
+Module: WorldLink Next Gen
+Client: CITI Bank
+OS: Windows 7
+Tools: Quality center,SSH Tool, CITRIX
+Team Size: 11
+Role: Software Tester
+Period: 20/08/2012 to Current Date
+
+Having hands on experience in Payment initiation with different access channel. Using H2H, HBOS, and INPS different type of file format for initiating a payment for different region. BACS,Single Nostro different message type also for payment initiation. Payment follow the below status:
+
+1)Initiation: Initiating the payment by different access channel which process through different gateway
+
+2)Validation: two types of validation are done:
+i>Business validation: It checks the Country currency mode of payment
+ii>File level validation: It check the file format Header, body and footer.
+
+3)Foreign exchange: If it is a cross currency payment it gets the foreign exchange rate. If the currency involves in the payment is same then it generates a dummy FX.
+
+4)Funding: For world link reference it generates a settlement message. When the transaction is initiated after the above mentioned process the amount get transferred from remitter’s account to World link’s omnibus account. This process is called Funding.
+
+5)Warehouse: This is the place where the WL holds the payment for specific time period.
+Credit check: In this step it checks the fund in the remitters account.
+
+6)Sanction Check: It checks if anything (e.g: remitter, bank name, country name or beneficiary name) is blacklisted or not. If anything related to this transaction comes under sanction hit list the payment get stuck at sanction check.
+
+7)Credit Check: Here customer’s Account is checked weather proper amount of credit is present in Sender’s account or not.
+
+8)Payment Disbursed: After all the process payment gets disbursed and goes to the Beneficiary.
+
+9)Payment complete: If the POC (Payment order complete) file is generated the payment get complete.
+
+CTS Experience Summary:
+
+Project #4
+
+Organisation
+Cognizant Tech Solution
+Customer
+Metlife Insurance
+Role
+Team Member
+Period
+01/04/2011 to 02/05/2012
+Technical Skills
+Quality Center, Oracle
+Description
+Project: MetLife Insurance – TRICARE Shared Service
+
+Client Name: MetLife Insurance
+
+Client Location: USA
+
+Project Overview:
+
+TRICARE is the Customer to MetLife Insurance and maintaining their data using Shared Service applications. It consists of many modules and one of them is UIS Distributed Systems which concentrates mainly on the flow of data’s across various modules present in shared service. User can add or modify their projfile via various application. Customer can add their dependents also.
+
+Module: UIS Distributed – SSO SysAdmin, Profile & Web services, Mapper and CES
+
+Client: MetLife Insurance
+
+OS: Windows 7
+
+Tools: Quality center
+
+Team Size: 4
+
+Role: Software Tester
+
+Project #5
+
+Organisation
+Cognizant Tech Solution
+Customer
+Cognizant Tech Solution
+Role
+Program Associate Trainee
+Period
+15/12/2010 to 30/03/2011
+Technical Skills
+Quality Center, Oracle
+Description
+Project: Initial Learning Program (ILP)
+
+Client Name Cognizant Technology Solutions
+
+Responsibilities
+• Introduction to Manual and automation Testing.
+• Preparation of test Scenarios, test conditions and test cases.
+• Exposure to Quality Centre 10.0
+• Presentation Skills
+• Dinning etiquette
+• Telephone etiquette
+• eMail etiquette
+• Meeting skills and Video Conferencing skills
+
+Project: Social Networking Blog site
+Hardware: DELL Mini X-pro
+Operating System: Windows XP
+Application: Quality Centre
+Project Location: Bangalore, India
+
+Role and Responsibilities:
+
+Test Scenario Preparation: Test scenarios were prepared according to the Use cases and requirements.
+Test Case Preparation: Test Cases were prepared based on the scenarios and uses cases in.
+Test Case Execution: Test Cases written were executed Quality Center/ALM.
+Defect Log: Defects were raised and tracked to closure using Quality Center/ALM.
+Calls: Daily calls were held for Requirement understanding, defects tracked and progress of execution and reporting the status of daily progress.
+Process related documents : Creation and maintenance: All the KT documents, test documents were created and updated, as needed.
+
+Educational background:
+
+1.Bachelor of Technology (B-Tech) from BPUT (Biju Patnaik University of Technology),Odisha,India in the year 2010 with 79%.
+2.Higher Secondary Education(12th standard) from Royal College of Science and Technology, Odisha,India in the year 2006 with 75%.
+3.Secondary Education(10th Standard) from D.B Govt Girls High School, Odisha,India in the year 2004 with 86%.
+
+Personal Details:
+
+Date of Birth : 15th may, 1989
+Gender : Female
+Passport Availability : Available
+VISA Status : H1B (Valid till Aug 2019), H-4 (Dependent spouse visa for H-1B)
+Marital Status : Married
+Languages Known : English, Hindi, Bengali, & Oriya
+
+DECLARATION:
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above- mentioned particulars.
+
+(Honey Panda)
+Contact this candidate

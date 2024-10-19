@@ -1,0 +1,78 @@
+LAVANYA KADULLA
+Contact #: +1-479-***-**** Email: ad6fqq@r.postjobfree.com LinkedIn
+PROFILE SUMMARY
+An accomplished, passionate, and self-driven Cloud DevOps Engineer with strong attention to detail. Over 5 years of hands-on experience in delivering cost-effective, high performance IT infrastructure and Cloud migrations with service offerings from major cloud platforms like AWS, Azure. Seeking an opportunity to be part of exciting and challenging roles. TECHNICAL SKILLS
+AWS, Azure, Docker, Kubernetes, Java, Python, CloudWatch, Microservices, Nginx, Terraform, Networking, Jenkins, GIT, Bitbucket, Tomcat, Linux, Unix, Windows, MySql, MongoDB, Maven, Kanban, Jira, ServiceNow, Ansible, Bash, Powershell, Shell Scripting, Yaml, Autosys.
+PROFESSIONAL EXPERIENCE
+DevOps Engineer Medica, TX Apr 2024 - Present
+● Integrated Helm chart deployments into Azure pipelines, automating the application release process and ensuring consistency between development, staging, and production environments.
+● Experienced in Configuring the container security for AKS cluster.
+● Optimized AKS cluster configurations, including node pools, node scaling, and network policies, to ensure high availability, performance, and security.
+● Leveraged Helm charts to manage the deployment and scaling of microservices within AKS clusters, effectively handling increased traffic and workload distribution.
+● Implemented AKS cluster monitoring and alerting solutions, utilizing Helm charts for the deployment of monitoring agents, logging solutions, and resource utilization metrics.
+● Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+● Installed and configured Kubernetes and performed docker container orchestration using Kubernetes nodes.
+● Used Azure pipelines to drive all micro services builds out to the ACR registry and then deployed to AK. Created Pods and managed using AKS.
+● Administered and Engineered Jenkins for managing weekly Build, Test and Deploy chain, GIT with Dev/Test/Prod Branching Model
+● Worked with Terraform Templates to automate the Azure IAAS virtual machines using terraform modules and deployed virtual machine scale sets in production environment. DevOps Engineer Nike, TX Aug 2023 - Mar 2024
+● Performed Continuous Integrated Delivery (CI and CD process) using Jenkins and performed Build/Release/SCM/DevOps engineer duties.
+● Created alerts in the monitoring service to monitor server performance, CPU usage, disk Usage, and more.
+● Skilled in implementing RBAC policies within Ansible Tower to control access to templates and playbooks based on user roles and permissions.
+● Designed AWS Cloud Formation templates to create custom sized VPC, subnets, and NAT to ensure successful deployment of Web applications and database templates. Designed roles and groups for users and resources using AWS Identity Access Management (IAM) and managed network security using Security Groups and IAM.
+● Worked on AWS ELB and configured the auto-scaling as per the application user traffic and managed the multi-tier and multi-region architecture using AWS Cloud Formation.
+● Used AWS Code Pipeline, cloud formation, EC2, and Lambda Cloud Watch services to deploy applications in different environments in AWS Infrastructure.
+● Container management using Docker by writing Docker files and setting up the automated build on Docker HUB and installing and configuring Kubernetes.
+● Hands-on experience with Docker hub, creating Docker images and handling multiple images primarily for middleware installations and domain configurations.
+● Planning, deploying, monitoring, and maintaining AWS cloud infrastructure consisting of multiple EC2 nodes and VMware as required in the environment.
+● Developed several playbooks using Ansible and deployed the applications/services on the client hosts. Worked on Ansible setup, managing hosts file, Using YAML linter, and authoring various playbooks and custom modules with Ansible.
+DevOps Engineer DataMetrics Software Systems Inc, NJ Jan 2023 - Apr 2023
+● Managed GIT repositories for branching, merging, and tagging.
+● Troubleshoot and resolve build failure due to infrastructure issues reduced by stabilizing the build process and problem- solving for automating deployment Jenkins CI pipelines.
+● Created a DevOps workflow using Jenkins, GIT and Ansible.
+● Written Terraforms templates to set up AWS Infrastructure components such as EC2 instances, S3 buckets objects, VPC, IAM Users, Roles, LB, ASG.
+● Developed Python, Shell and Ruby Scripts for automation and monitoring purposes. Cloud DevOps Engineer Tata Consultancy Services, Bank of America, India May 2020 – Feb 2022
+● Deploy highly available, scalable and secure cloud infrastructure with a focus on Azure using industry best practices.
+● Experienced in branching, merging, tagging, and maintaining the version across the environments using tools like Bitbucket and GitHub.
+● Automated Continuous Integration and Continuous Deployment with Jenkins by using built in plugins like Maven, Docker, GIT and setting up Jenkins’s master/slave to distribute builds on slave nodes.
+● Set up the Docker container, create Docker images, install the Kubernetes cluster, and manage jobs, deployments, and services across many AKS clusters.
+● Hands-on experience on Azure DevOps to deploy infrastructure applications and software-defined networking through CI/CD pipeline.
+● Configured and managed Azure key vault to store secrets, keys, and certificates securely while controlling access through role-based access policies and implemented managed identities to enhance the security by eliminating the need of storing the credentials within applications.
+● Enabled service endpoints and private endpoints to enhance the security by extending the virtual network private address space to Azure services.
+● Hands-on experience in implementing the CI/CD pipelines using Azure Devops to automate the build, test and deployment process and Automated Infrastructure deployment and configuration using Azure Devops.
+● Hands on experience in build tools such as Maven for building the source code and configuring the maven repository with JFrog antifactory to store and maintain the different versions of artifacts.
+● Integrated SonarQube with Jenkins for the static code analysis and continuous inspection of code quality.
+● Hands-on experience with Ansible as configuration management tool, to automate repetitive tasks, quickly deploy critical applications onto containers using Jenkins’s pipeline setup.
+● Written Docker files for creating docker Images and docker compose to run the containers for web Servers and applications servers such as Apache Tomcat and NGINX.
+● Scheduling, monitoring, and reporting jobs in Autosys.
+● Experience in working with Terraform key features such as infrastructure as a code, execution plans, change automation and extensively used Auto scaling launch configuration templates for creating resources and deploying microservices.
+● Experienced in Azure DevSecOps, Azure governance, Azure Monitor, RBAC, virtual network, backup and subscription peering.
+● General knowledge of Azure Kubernetes Service or Native Kubernetes including installation, troubleshooting deployments, nodes, pods, certificates and RBAC.
+● Utilize JIRA for issue reporting, status, tracking and activity planning and documenting issues and their troubleshooting steps.
+● Strong knowledge on cloud platforms, Devops and configuration management tools and principles, CI/CD pipeline and automations.
+System Admin and DevOps Engineer Tata Consultancy Services, BSNL,India Dec 2018 – Apr 2020
+● Performed admin responsibilities to maintain good application performance and optimal server performance as DevOps Engineer and CRM admin.
+● Designed the foundational components of AWS Accounts with terraform and helped the application teams during migration.
+● Composed terraform workspaces for deploying DEV, QA, PROD environments infrastructure inside AWS accounts.
+● Initiated AWS Instance scheduler solution centrally with different schedules for auto start and stop of EC2 and RDS instances using the cloud formation templates.
+● Worked in troubleshooting and fixing Linux file systems space issues and network issues. Performed monitoring related to Unix server.
+● Monitoring CRM applications to proactively identify any problems and coming up with solutions for resolution of the issues.
+● Automated Infrastructure activities like user management, system updates, patch management, scheduled reboot activities on 100 plus Linux systems using ansible playbooks.
+● Liaising with different teams (development and operations) to ensure the application is fully functional as the application is dependent on other modules.
+● Deployed Docker Engines in virtualized platforms for containerization of multiple apps. Managed local deployments in Kubernetes, creating local clusters and deploying application containers.
+● Configured custom cloud watch metrics for memory, disk utilization reports using the CloudWatch agent.
+● Troubleshooted performance issues and migration issues with the help of DevOps teams and applications teams.
+● Worked on Docker container snapshots, attaching to a running container, removing images, managing directory structures, and managing containers.
+DevOps Engineer SRIVIT, India Jul 2017 – Jun 2018
+● Responsible for deployment automation, Continuous Integration, Continuous Delivery and Continuous Monitoring with tools like Chef, Jenkins, Git, etc.
+● Having experience in writing shell scripts for automation.
+● Integrated Maven with GIT to manage and deploy project related tags.
+● Deployed an Application in a tomcat or Nginx servers and run applications in a docker container.
+● Automated Continuous Integration and Continuous Deployment with Jenkins by using built in plugins like Maven, Docker, GIT and setting up Jenkins’s master/slave to distribute builds on salve nodes.
+● Automated AWS components such as EC2 instances, security groups, ELB, RDS, IAM through AWS CloudFormation templates.
+● Have written batch scripts and shell scripts for automating Jobs and deployments.
+● Performed daily system monitoring, verifying the integrity and availability of all hardware, server resources, systems, and key processes, reviewing system and application logs, and verifying completion of scheduled jobs such as backups. EDUCATION
+Master’s: Computer Science 2023
+New Jersey Institute of Technology Newark, New Jersey Core : Data Structures and Algorithms, Operating Systems, Database Management System Design, Internet Higher Layer Protocols Bachelor’s: Computer Science and Engineering 2018
+Koneru Lakshmaiah University Guntur, India
+Majors: Cloud Computing
+Contact this candidate

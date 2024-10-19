@@ -1,0 +1,102 @@
+Shiva Kumar G
+Cloud Engineer
+adxu4y@r.postjobfree.com
+631-***-****
+
+Professional Summary
+
+8+ years of experience in Cloud Engineering automating Infrastructure As Code, DevOps CICD pipelines, and Patch Automation processes.
+Strong background in Linux/Unix Administration, Build & Release Management, and Cloud Implementation within Enterprise Cloud Environments.
+Experience in Configuration management tools such as Chef, Ansible and Puppet. Wrote Chef Recipes and cookbooks in Ruby scripting. Hands-on experience in bootstrapping the nodes using knife and automated by testing Chef Recipes, Cookbooks with test-kitchen and chef spec Refactored Chef and Ops Works in Azure cloud environment.
+Deployed and configured Chef server including bootstrapping of Chef client nodes for provisioning and experience in developing Chef recipes through Knife command-line tool, customized Ruby scripts to create Chef cookbooks to manage systems configuration on Chef Server to initiate Chef Nodes.
+Working as Cloud Administrator on Microsoft Azure, involved in configuring virtual machines, storage accounts, resource groups using ARM templates. Worked on remote login to Virtual Machines to troubleshoot, monitor and deploy applications.
+Experienced with deployments, Maintenance and troubleshooting applications on Microsoft Cloud infrastructure AZURE.
+Deployed VMs as scale sets (VMSS), availability sets (AVsets), with it, the application will have the scalable ability to grow up or contract as per the needs.
+Deploying and managing applications in Docker, Kubernetes, Jenkins and storing the artifacts in Artifactory for various on-premises and microservice applications.
+Expertise in building Jenkins jobs to create Azure Infrastructure by pulling Terraform code from GitHub repositories, ability to work closely with teams, to ensure high quality, timely delivery of builds & releases.
+Experience in Administration/Maintenance of Source Control Management Systems such as Git and Sub Version (SVN). Created tags and branches, fixed merge issues and administered software repositories.
+Knowledge in migrating on-premises applications to Azure and configured VNETs and subnets as per the project requirement also performed PowerShell scripting to do Patching, Imaging, and Deployment s in Azure.
+Worked in an Agile development team to delivered end to end CICD product in an open-source environment using tools like Chef.
+Experienced in working on DevOps /Agile operations process and tools area (Code review, unit test automation, Build & Release automation Environment, Incident and Change Management) including various tools.
+Expert with Installation of Linux and Windows OS such as RHEL 5.x/6.x/7, CentOS, SUSE Linux, Ubuntu. Installed RHEL using Kick start with Pre-Installation & Post-Installation Scripts, PXE & Azure Templates.
+Configuring and Administering NFS, DNS, NIS, DHCP, NIS+ and LDAP on Linux server environment. Knowledge of networking concepts (DNS, TCP/IP, UDP, HTTP, SSH, OSI layers, Client/Server architecture and Firewalls).
+Automated the Continuous Build process, monitored, maintained, and controlled software configurations in secured distributed environment.
+Troubleshooting issues on Ansible, Red Hat satellite servers, Chef and Azure portal. Resizing the servers and adding storage on cloud servers through PowerShell and Azure portal.
+Experience in Debugging APIs using Splunk logs and made performance analysis through AppDynamics and Nagios for Resource Monitoring/Network Monitoring/Log Trace Monitoring.
+Proficient working with NAS, SAN and DAS storage architectures. Have experience in migrating storage from other storage architectures on to SAN.
+Expertise in file system concepts LVM, SVM, VxVM. Creating new file systems, increasing and decreasing file systems, mounting file systems, unmounting file systems and troubleshooting Disk space issues. Efficiency in installing, configuring and implementing the RAID Technologies using various tools like VxVM and SVM.
+
+Technical Skills
+
+Cloud
+AWS, Microsoft Azure, Rackspace
+Operating Systems
+Sun Solaris 11/10, Red Hat Linux 5.x/6.x/7 SUSE 10/11/12, Ubuntu, OEL, CentOS
+Hardware
+Sun Ultra Enterprise Servers (E3500, E4500, E450, E420R, E250) Sun Fire(6800/4800/3800/v880/v480/ v210/v440/280R/15K/25K), Sun Workstations (Ultra 5, 10,20,Blade 100,150,2000),SunstorEDGEA1000 and D1000, HP 9000 series, IBM RS/6000, p Series, x Series, Dell (R710, R720, R510, R910), IBM Blade
+DevOps
+Chef, Puppet, Jenkins, Vagrant, Docker, Kubernetes
+Web Application
+Tomcat, Apache, WebSphere, JBoss
+Databases/Languages
+Oracle, DB2, MySQL, Cassandra, MongoDB, SQL 2008/2012/2014, Shell, Perl, Ruby
+Backup Management
+VERITAS Netback up 4.x/5.x/6.x, Solstice Disk Suite, tar, dd, cpio
+Software
+VERITAS Volume Manager 3.x/4.x,WinSCP, FTP, SSL, VERITAS Cluster Services, Cisco CNR, Send mail
+
+Professional Experience
+
+Walgreens Co. (Deerfield, IL)
+Senior Cloud Engineer
+Mar 2016 - Present
+
+Working as Cloud Administrator on Microsoft Azure, involved in configuring virtual machines, storage accounts, resource groups using ARM templates. Worked on remote login to Virtual Machines to troubleshoot, monitor and deploy applications.
+Implemented Azure Site Recovery and Azure Backup Installed and Configured the Azure Backup agent and virtual machine backup, Enabled Azure Virtual machine backup from the Vault and configured the Azure Site Recovery (ASR).
+Managed Azure Infrastructure Azure Web Roles, Worker Roles, VM Role, Azure SQL, Azure Storage, Azure AD licenses, virtual machines Backup and Recover from a Recovery Services Vault using Azure PowerShell and Azure Portal.
+Implemented Jenkins jobs to create Azure Infrastructure from GitHub repositories containing Terraform code and created on-premises active directory authentication using automation with ansible play books.
+Deployed and configured Chef server including bootstrapping of Chef client nodes for provisioning and experience in developing Chef recipes through Knife command-line tool, customized Ruby scripts to create Chef cookbooks to manage systems configuration on Chef Server to initiate Chef Nodes.
+Automated the Migration of the Jenkins server and moving the jobs from SCM Git and resolve conflicts related to merging of source code for GIT and further configuring with SonarQube to test the quality and analyze the bug fixes.
+Automate manual tasks involved in server builds and server modifications using Ansible playbooks. Used Ansible to manage configuration within the Linux servers, install and configure services using cookbooks and playbooks as part of automation.
+Configured Ansible Playbooks using Python to manage Azure environments and automate the build process for core services used by all application deployments.
+Worked with Windows AZURE(IaaS) migrating like creating AZURE VMs, storage accounts, VHDs, storage pools, migrating on premise servers to AZURE and creating availability sets in AZURE. Deployed VMs as scale sets (VMSS), availability sets (AVsets), with it, the application will have the scalable ability to grow up or contract as per the needs.
+Involved in creating and managing multiple instances of Apache Tomcat and deployed several test applications in those instances for QA environment.
+Wrote Python Scripts to Monitor Variety of Services & Perl Scripts with Hash/Arrays to Insert/Delete/Modify content in multiple servers. Wrote Python and Shell scripts to monitor installed enterprise applications and to get information from the logs and database in the required format and other daily activities and jobs.
+Configured CI/CD system with Jenkins on Kubernetes container environment, utilizing Kubernetes and Docker for the runtime environment for the CI/CD system to build and test and deploy.
+Experience working on several Docker components like Docker Engine, Hub, Machine, Compose and Docker Registry. Created multiple Containers with Specific Run Times and Proxying using NGINX for Virtual Hosting Containers in Single Docker Host.
+Troubleshooting issues on Ansible, Red Hat satellite servers, Chef and Azure portal. Resizing the servers and adding storage on cloud servers through PowerShell and Azure portal.
+Worked with JIRA for creating Projects, assigning permissions to users and groups for the projects & Created Mail handlers and notification Schemes for JIRA.
+Installation of Redhat Linux, Kickstart Installation through SATELLITE Server, Installed and configured Efficiently managed Disk and File system through Veritas Volume Manager, Logical Volume.
+Using vmstat, iostat, SAR, tnsping & netstat to determine the system and network health. Performing failover and integrity test on new Red hat servers before rolling out to production.
+
+JNIT Technologies (Dallas, TX)
+Linux Administrator
+Jul 2015 – Feb 2016
+
+Configured Red Hat Kick-start for installing multiple production servers, worked on installation, configuration and maintenance Debian/Red hat, CentOS and Suse Servers at multiple Data Centers.
+Installed/Configured/Managed Puppet Master/Agent. Wrote custom Modules and Manifests, downloaded pre-written modules from puppet-forge. Upgrading/migrating Puppet Community and Enterprise. Used Puppet for Monitoring system and automation.
+Experience in migration of consumer data from one production server to another production server over the network with the help of Bash and Perl scripting.
+Installed and configured monitoring tools Nagios for monitoring the network bandwidth and the hard drives status.
+Developed automation scripting in Python (core) using Puppet to deploy and manage Java applications across Linux servers.
+Worked on Version controller like GIT and integration tools: Jenkins, logged events from forced crash dumps and troubleshoot server issues.
+Deploy and monitor scalable infrastructure on Amazon web services (AWS) & configuration management using puppet.
+Installed Fuse to mount the keys on every Debian Production Server for password-less authentication. Installed and configured DHCP server to give IP leases to production servers.
+Management of RedHat Linux user accounts, groups, directories and file permissions. Configured yum repository server for installing packages from a centralized server. Applied the Clustering Topology that meets High Availability and Failover requirement for performance and functionality.
+Installation, Configuration and administration of DNS, LDAP, NFS, NIS, NIS+ and Sendmail on Red hat Linux/Debian Servers.
+Performance monitoring using Sar, Iostat, VMstat and MPstaton servers and also logged to munin monitoring tool for graphical view. Performed Disk management with the help of LVM (Logical Volume Manager).
+Installation and configuration of PostgreSQL database on RedHat/Debian Servers. Configuration and Administration of Apache Web Server and SSL.
+Developed Cron jobs and Shell Scripts (Shell, Python) for automating administration tasks like file system management, process management, backup and restore.
+Worked on FTP servers for sending and receiving files between local and remote servers. Configured Open-source tools like Nagios, Cacti, OSSEC, Zabbix, Centreon for Monitoring.
+Provide the support of building the server, patching, user administration tasks, deployment, software installation, performance tuning and troubleshooting and KVM.
+Provided 24/7 on call support on Linux Production Servers. Responsible for maintaining security on Red hat Linux.
+
+Education
+
+Masters in Computer Science
+New York Institute of Technology
+Westbury, NY
+
+Bachelors in Computer Science & Engineering
+JNTU
+Hyderabad, India
+Contact this candidate

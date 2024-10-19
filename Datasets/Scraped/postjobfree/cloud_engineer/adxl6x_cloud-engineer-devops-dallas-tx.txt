@@ -1,0 +1,107 @@
+MESHACH OJONG EMEH
+**** ****** **** ****, ****** TX 75243
+214-***-**** adxl6x@r.postjobfree.com www.linkedin.com/in/meshach-emeh
+
+AWS Certified Solutions Architect DevOps Engineer Cloud Engineer Cloud Security
+
+Experienced DevOps/Cloud Engineer and Solutions Architect, with several years of proven success in automating, building, and deploying processes for operational excellence, reliability, performance efficiency, cost optimization and security. Proficient in configuration management, CI/CD, and other DevOps processes.
+
+Outstanding performer in building high quality solutions that are scalable, highly available and fault tolerant, collaboratively working with various IT groups to resolve performance and solution integration challenges, designing, and implementing groundbreaking solutions that align to business requirements and developing roadmaps and strategy documents to communicate IT’s direction to key stakeholders.
+
+Proven track record of problem solving, timely execution of tasks, and attention to detail.
+
+CERTIFICATION
+
+AWS Certified Solutions Architect – Associate (August 24, 2022)
+
+SKILLS & TECHNICAL CAPABILITIES
+
+AWS Security & Identity and Access Management
+AWS Shield, AWS Guard Duty, AWS WAF, AWS Firewall Manager, AWS Inspector, Amazon Macie, AWS Security Hub, AWS Organization, AWS IAM, Active Directory, AWS Secrets Manager, NACLs, Security Groups, AWS Certificate manager, AWS KMS, AWS Cloud HSM, Snapshot Lifecycle Manager
+Monitoring and Event Management
+AWS CloudWatch (Events and Logs), CloudTrail (API calls monitoring), AWS SNS, AWS S3 Server Access Logs, VPC Flow Logs
+Cloud Automation and Orchestration
+AWS CloudFormation, Terraform, AWS Lambda, AWS Systems Manager, AWS SMS Parameter store, Ansible, Docker, Jenkins, ECS (Elastic Container Service), EKS (Elastic Kubernetes service)
+Application Delivery
+GitHub, Jira, Confluence, Jenkins, Bitbucket, CI/CD, AWS Code Pipeline, AWS Code Commit, AWS Code Build, AWS Code Deploy, Kubernetes
+Network and Content Delivery
+VPC, VGW, TGW, CGW, IGW, NGW, Load Balancers, Route53, CloudFront, Lambda
+AWS Migration
+Phases (Assess, Mobilize, Migrate and Modernize).
+Tools (CART, MRA, ADS (Application discovery service), Migration Hub, CloudEndure, DMS)
+Strategies: Rehost, Retire, Replatform, Relocate, Repurchase, Refactor, Retain
+AWS Platform
+AWS CloudFormation, AWS Lambda, AWS Systems Manager, S3, VPC, EC2, ELB, RDS, SNS, SQS, SES, Route53, CloudFront, Service Catalog, AWS Auto Scaling, Trusted Advisor, CloudWatch, QuickSight, Dynamo DB, Aurora, Event bridge, AWS Backup, AWS Transfer Family, Resource Groups & Tag Editor
+
+Programming Languages
+Python, JSON, YAML, Bash
+PROFESSIONAL EXPERIENCE:
+
+TE Connectivity, PA NOV 2020 – PRESENT
+AWS Cloud Infrastructure DevOps Engineer
+
+Designed highly available, robust, resilient, performant, cost-optimized, and automated architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB health checks, Auto Scaling, and other models based on the organization’s functional and non-functional requirements.
+Developed CI/CD to standardize the infrastructure and automate the DevOps processes, enabling the organization to rapidly build, test, and release code while minimizing errors.
+Implemented end-to-end configuration of CI/CD pipelines using Jenkins integrated with Nexus for antifactory and SonarQube for code quality check.
+Leveraged Github as source code repository, integrating it with the Jenkins server using webhooks to set up and maintain an automated CICD pipeline, such that every code pushed to the Github automatically invokes the pipeline execution as an event.
+Built, deployed, and orchestrated containers using Docker and Kubernetes.
+Implemented with Terraform script a 3-tier architectural design, setting up all the required connections from the frontend webserver tier to the application tier, and then to the database tier using RDS Postgre SQL and MySQL engines for different use cases.
+Troubleshooted RDS performance issues, engaged in remedial actions to enhance the performance of the database to accommodate more users’ requests.
+Deployed Lambda functions using AWS custom python modules (Boto3), to implement automation for security compliance and cost optimization.
+Worked on Docker to create an image and containerize the applications built by writing Docker files to customize the Docker container images, tagging and pushing the images to Docker repository.
+Setup Ansible friendly environments to facilitate configuration management.
+Develop, deploy, maintain, and optimize cloud target state architecture (solutions and services) using Automation, IAC & Configuration tools(Cloud formation, Terraform, Ansible), the AWS Well-Architected Tools to review the state of workloads, identify architectural improvement areas and compare them to the latest AWS architectural best practices to consistently achieve the five pillars of AWS well - Architected framework thus: Security, Cost Optimization, Reliability, Operational Excellence and Performance Efficiency.
+Used IAM to create and manage users, groups, and roles. Created and attached both custom and inline policies, upholding the Principles of Least Privilege.
+Using the AWS Control Tower, I have onboarded AWS accounts unto the Landing Zone, with preconfigured baseline in terms of security, stability, and scalability, thereby leveraging the different possibilities through the integrated services like AWS Organization, SSO, Account Factory, and the different Guardrails to implement control, governance, and security in a multi-account scenario.
+Integrated AWS Single Sign On with other Active Directories like Okta, centrally managing users and users’ access in a multi account structure.
+Used AWS Backup to automate the process of taking scheduled backups for EC2 and EFS using tag-based selection, in line with company’s backup and retention policies.
+Designed and implemented AWS Transfer Family solution (using SFTP protocol) for secure transfer of data by third party to our S3 buckets and using lambda to further process the data.
+Deployed Instance Scheduler solution in the Dev environment to automate the process of starting and stopping non-essential instances. This solution integrates Lambda, DynamoDB, and CloudWatch Events to automate the process.
+Build QuickSight dashboard to visualize Trusted Advisor Organizational checks for Cost Optimization, Performance, Security, Fault Tolerance, and Service Quotas.
+Conduct vulnerability checks, monitoring, assessment, security audit, and general remediation automated actions to mitigate security risk.
+Leveraged different design principles for security in the cloud and implemented various AWS services to improve our security posture for Authentication, Authorization, Monitoring, Auditing Encryption, and Data path security.
+
+HCL Technologies, CA MARCH 2016 – OCT 2020
+AWS Cloud Engineer Solutions Architect
+
+Optimized cost through reserved instances, right sizing of EC2 instance types based on the resource need, selecting appropriate S3 storage class and S3 lifecycle policies, leveraging Autoscaling for elasticity, etc.
+CICD installations and management using Git, Jenkins, Maven, Gradle, SonarQube, Nexus, Ansible and automation tools.
+Provisioned and managed AWS infrastructures using CloudFormation and Terraform.
+Setup and managed Ansible Tower to scale automation, enterprise-wide system updates and handle complex deployments.
+Leveraged different design principles (based on best practices) for security in the cloud and implemented various AWS services to improve security outlook for Authentication, Authorization, Monitoring, Auditing, Encryption and Data Path security.
+Implemented security best practices in AWS including multifactor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs.
+Designed and implemented security solutions using AWS security features and services such as AWS Certificate Manager, KMS, AWS WAF, AWS Shield, Amazon Guard Duty, Amazon Inspector, Security Hub, Amazon Macie, AWS Config, NACLs and Security Group, to ensure data security, application security and network security in the cloud.
+Configured CloudWatch alarm rules for operational and performance metrics for AWS resources and applications.
+Contributed on designs/development aspects of migration journeys – assess, mobilize, and migrate including leveraging tools like CART, ADS, Migration Evaluator, DMS and Cloud Endure.
+Incorporated automation in cloud security and cost optimization for automatic notification and auto-remediation to prevent drift from AWS Config rules and to enforce compliance with AWS security best practices in line with Trusted Advisor recommendations, using CloudWatch Events, AWS Lambda, AWS Config, Amazon EventBridge, and SNS.
+Designed for high availability, fault tolerance and business continuity using self-healing-based architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, health checks, Auto Scaling and disaster recovery models based on the client’s RTO and RPO.
+Engaged the different capabilities of AWS Systems Manager to manage operational and administrative tasks across the client’s environment and to automatically collect software inventory and apply OS patches.
+Leveraged AWS Control Tower to set up landing zone and govern a secure, multi-account AWS environment.
+Developed and created custom Service Control Policies (SCP) and attached them to approved OU’s and AWS accounts as required.
+Implemented detective guardrails using Cloud Custodian policies and AWS config.
+Executed Organizational Units, Nested OUs, leveraged SCPs, IAM Policies, detective, and preventive guardrails for compliance.
+Enabled Cloud Trail log file validation so that any changes made to the log file itself after it has been delivered to the S3 bucket is trackable to ensure log file integrity.
+
+CDC Bota FEB 2009 – OCT 2015
+Linux System Administrator
+
+Performed day to day Linux administration tasks such as user account management, directory services, file system sharing and permissions.
+Optimized system and application performance using techniques like shutdown, reboot, start and stop services and tools to identify performance issues and solutions.
+Performed standard system administration tasks such as troubleshooting and problem resolution, patching, installing packages using rpm and yum, drivers, software, and hardware upgrades.
+Worked with DBA's, Networking Team, and Developers to resolve their daily issues.
+Monitored and maintained the disk space and backup systems, and implemented change controls, capacity planning and growth projections on the systems.
+Performed troubleshooting of existing user accounts, security objects and authorizations to resolve security conflicts by creating sudo rules, supporting users, setting up new accounts and password resets.
+Involved in daily incident management and resolved the day-to-day problems raised by the users and incidents which are logged by Event monitoring system.
+Setup the yum repository in the server, upgraded the repository by appropriate patching and installing software packages and services using yum and rpm as required.
+Edited system configuration files: network settings, kernel parameters, service configuration files.
+
+EDUCATION
+
+CDA - Technology Institute, Limbe
+Linux Professional Program
+(Sept 2007 – Sept 2008)
+
+University of Buea
+BSc. Accounting
+(Oct 2003 – Oct 2006)
+Contact this candidate

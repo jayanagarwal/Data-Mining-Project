@@ -1,0 +1,76 @@
+Daren Scot Wilson Kalispell, Montana 406-***-****
+ad8j7i@r.postjobfree.com
+linkedin.com/in/daren-scot-wilson/
+Software Developer: Graphics, Imaging, Scientific, Embedded, Electronics Outstanding Accomplishments
+Created hauntingly beautiful pano image of backlit Saturn from 150+ raw Cassini images, chosen by National Geographic for their Dec. 2006 cover
+Solved “impossible” problems with image calibration for NASA’s Cassini spacecraft
+Pioneered practical 3D rendering of CT scan data for neurosurgery planning
+Wrote key software making a complex data acquisition system functional for automotive testing, saving a major manufacturer a quarter million dollars
+Top Skills
+Programming Languages: Python, D, C++, C#, Vala, Crystal, Odin, Julia, Matlab, Zig, C, assembly/machine code Web: HTML, CSS, Javascript, Svelte, WebGL, ThreeJS, Vite, Yarn, Lighttpd Software Platforms: Linux, Windows, Android, Xilinx FPGA, various DSP and microprocessors Development Tools: Git, Subversion, Meson, Make, various debuggers and profilers, IDEs, Klocwork Libraries & Toolkits: Qt5, wxwidgets, gtk4, GEGL, OpenGL, Vulkan, PCL, OpenCV, CUDA, OpenCL, Science & ML: Numpy, SciPy, Tensorflow, PyTorch, HDF5, NASA's NAIF-SPICE, VTK, Mayavi Graphics & Digital Art Tools: Blender, Krita, GIMP, Inkscape, custom made tools in D, C++, Python Imaging and Photography: color spaces, f-stops, image enhancement, de-blurring, pano stitching, calibration Electronics Lab: power supplies, meters, scopes, VNA, building and automating test apparatus, soldering
+“Dissident pixels will be crushed under the iron fist of algorithm!” Selected Professional Experience
+Data Acquisition Software Engineer Aug – Nov 2022
+Intellisense, California (remote)
+Development of Python software to ingest weather instrument data from portable devices into SQLite database. Video Processing Systems Software Engineer Jan – Aug 2020 PureTech Systems, Phoenix Arizona (remote)
+Developed unit tests and new algorithms for real time video stabilization using Fourier techniques, peak detection, adaptive filtering. Integrated ASTERIX CAT-48 radar binary data source into surveillance operations system. DevOps Systems Tools Engineer July – Aug 2019
+Intel, Hillsboro Oregon
+Short contract to develop Python scripts for improving devops processes. Controls Software Engineer July – Dec 2018
+DW Fritz, Wilsonville Oregon
+Developed geometry algorithms for converting 2D laser line scans into 3D point clouds and methods for visualizing them using C#/.NET. Created animated 3D synthetic test data in Blender, Python. Evaluated capabilities of OpenCV and OpenGL. Embedded Systems Software Engineer Oct 2016 – June 2018 FLIR, Wilsonville Oregon
+Wrote driver for embedded software on DSP to work with new motor controller chip on a major product’s digital board, reducing customer returns dramatically. Integrated thermistors, other temperature and humidity sensors into existing embedded systems. Prototyped QML-based GUI designs for HUD cockpit display. R&D of real-time video handling by gstreamer-based pipeline and Xilinx FPGA. Graphics Performance Tools Engineer Apr – Jun 2016 Intel, Hillsboro Oregon
+Ported Graphics Performance Analyzer, a tool written in C++ (now open source) to intercept calls to OpenGL, Vulkan and DX12 to gather performance metrics, to run on OS X Metal API, working in an Agile managed environment. Computer Vision Systems Engineer June 2015 – Feb 2016 OG Systems (formerly Urban Robotics), Portland Oregon Test and validate algorithms for 3D reconstruction of terrain from thousands of aerial photos. Optimized image processing, color correction, DoG feature point detectors and FREAK descriptors, SLAM, bundle adjustment, lens distortion models, geo-referencing standard coordinate systems. Used MacBeth Color Checker, Arri LoCaster, Canon EF400 lens for tests. Digital Microscopy Image Processing Developer Dec 2014 – Apr 2015 Mikroscan, Carlsbad California
+Created proprietary algorithms for image analysis, computer vision techniques including object identification, classification and metrics, using C++, C#, Julia. Developed custom GUI controls in C# and WinForms. Device Characterization Engineer Nov 2012 – Mar 2013 CareFusion, San Diego California
+Setup, perform experiments to test performance of air-in-line sensor in prototype. Python, NumPy, Matplotlib, Go to operate laboratory instruments, record sensor signals, analyze data. Uncovered subtle flaw in micro-stepping firmware code of early prototype. 3D Graphics & UI Developer June – Aug 2012
+Volcano, San Diego California
+Designed prototype GUI for small-screen surgical equipment. Convert 2D ultrasonic vascular images to 3D model for interactive display, on Window and Linux using Qt5, VTK, QML, PyQt, C++. Android Test Automation Engineer Mar – May 2012
+Qualcomm, San Diego California
+Wrote Perl scripts to converted a dozen spreadsheets for controlling automated multimedia tests to a new unified format. Improve performance, reliability, reduce false positives and negatives of test automation infrastructure written mostly in Python. Web Documentation Consultant Jan 2012
+Del Rey Systems, San Diego California
+Very short contract project to fix unmaintainable navigation menu and search feature of off-line web-based documentation system for logistics clients. Wrote new system in Javascript, HTML, CSS designed to be easily modified by non-programmers. Thanks to my efforts, our Navy's SPAWAR Command is 0.003% more efficient! Imaging & Camera Systems Software Engineer June – Nov 2011 Malin Space Science Systems, San Diego California
+Created mini-VICAR file reading plugin for Photoshop CS5 on 64-bit Mac OSX. Wrote operational camera constraints module for the new Curiosity Mars rover imaging planning tool using Eclipse RCP and OpenGL. Software Engineer, Science Data Analysis June 2010 – June 2011 National Radio Astronomy Observatory, Socorro New Mexico Software development for the CASA data analysis software, a critical tool for radio astronomers using the EVLA and ALMA radio telescope arrays.
+Sys Admin, Python Developer June 2008 – June 2009
+Univ. of Central Florida, Orlando Florida
+Software development and data analysis support in cutting edge planetary science group. Translation of code between IDL and Python/NumPy code for exoplanet research using data from the Spitzer infrared space telescope. Sys admin duties including user account management, building systems. Created animations from CFD simulations of comet SL9 impacting Jupiter.. Image Analyst, Algorithm Developer July 2003 – June 2008 Space Science Institute, Boulder Colorado
+SSI is the home for CICLOPS, the team of scientists responsible for processing and archiving images from the Cassini spacecraft at Saturn. Image processing, geometry calculations using C++, IDL, Python and JPL’s NAIF data and software tools.
+Invented algorithm to generate a corrective flatfield for the Cassini spacecraft's Narrow Angle Camera, allowing scientific analysis and public release of affected images of Saturn, its rings and its moons without need of a white card held in front of the camera one billion miles away. Excellent results were obtained by use of carefully chosen cloud images and clever masking. Memory constraints required use of 16-bit fixpoint format.
+Assembled the Cassini mosaic image “In Saturn's Shadow” that appeared on the Dec. 2006 cover of National Geographic. Visit https://ciclops.org/view.php?id=2230 for the official image release. 3D Graphics Rendering Developer June 2001 – Feb 2002 ARC Science, Loveland Colorado
+A small specialty company converting satellite data into spectacular cloud-free images of Earth, suitable for print or animation, and maker of the Omniglobe display system.
+Found a powerful codec to allow smooth replay of a high-resolution turning Earth animation which otherwise wouldn't have been deliverable to the client.
+Sped up performance of an in-house 3D movie renderer from taking all day to several hours to create a movie, by selective use of machine code, addition of bounding boxes, and other algorithm improvements. Data Acquisition Engineer Aug 1997 – Feb 2001
+Chrysler Proving Grounds, Chelsea Michigan
+Consultant assigned to design and build software and develop calibration procedures for a new data acquisition system to be used by the brake testing department.
+Wrote a device driver for a National Instruments GPIB interface card. Reverse engineered equipment’s command protocol with a GPIB bus analyzer.
+Designed a custom scripting language for desktop plotting and automatic report generation. Implemented an interpreter. Other departments were jealous of our good looking plots! Embedded Software Engineer July 1995 – Feb 1996
+Perceptron, Farmington Michigan
+Wrote EE-friendly test software and device drivers for industrial machine vision products. Verification of schematics, parts lists, and general assistance to the EEs.
+Graphics Applications Developer June 1989 – June 1995 Essential Technology, Rochester Michigan
+Key player in startup, developing the first easy to use estimation software for the metal roofing industry. Main product was a CAD-like program for blueprint takeoff with short learning curve and streamlined for salespeople. Wrote programs for factory material optimization, report generation.
+Clobbered the competition's market share at trade shows in direct comparison demos. Sys Admin May – June 1989
+Ford Motor Company, Detroit Michigan
+Develop backup plan for engineering group’s Sun workstations. Investigate security problems.
+Discovered potential exploit involving remotely commanded screen capture 3D Medical Data Applications Developer May 1988 – Apr 1989 Tomo Medical, Detroit Michigan
+Created 3D rendering and viewing application on Sun workstation for neurosurgeons to inspect and measure CT scan data as 3D model.
+Reduced 3D render time from over one minute down to about ten seconds
+Pioneered 3D rendering techniques for interactive viewing & measurement of CT brain scan data Additional Experience, Activities & Projects
+Assistant Director, Production Assistant, Detroit – production crew for live pledge drives, PBS shows and specials Calibration Technician, Stanford Univ. – Testing and developing calibration procedures for SLAC’s “Z-zero Factory” final focus beam position monitors. Uncovered design flaw in sample-hold circuit preventing accurate calibration. Toymaker, Trinity Episcopal, Escondido – volunteer woodworker making toys donated annually in San Diego area. Volunteer house construction for Habitat for Humanity Founder, Mensa’s Physics SIG in the 1990s, and Editor / Publisher, The M Particle, its newsletter. Editor / Publisher, POSA Newsletter – for members of Pontiac-Oakland Society of Artists, 1990’s Musician – Hand bell performer for various churches. Wind instrument player in community concerts. Contributor to StackOverflow and StackExchange: http://stackexchange.com/users/6259/darenw Top writer 2017 on Quora https://www.quora.com/profile/Daren-Scot-Wilson Various personal projects on GitHub: https://github.com/darenw/ Publications
+Cassini Observes the Active South Pole of Enceladus, C Porco, P Helfenstein, et al (co-author among 25), Science 10 March 2006.
+https://science.sciencemag.org/content/311/5766/1393 In-flight calibration of the Cassini imaging science sub-system cameras, R West, B Knowles, et al (co-author among 12 authors), Planetary and Space Science, September 2010
+https://doi.org/10.1016/j.pss.2010.07.006
+End-of-mission calibration of the Cassini Imaging Science Subsystem, B Knowles, R West, P Helfenstein, A Verbiscer, Daren Wilson, C Porco, Planetary and Space Science, June 2020
+https://doi.org/10.1016/j.pss.2020.104898
+Beam Trajectory Acquisition System for the Arcs of the Stanford Linear Collider J. L. Pellegrin, M. C. Ross, B. D. Scott and D. S. Wilson, Proceedings of the IEEE Particle Accelerator Conference, 1 Feb 1987 https://www.osti.gov/biblio/6472956
+Generalized Arithmetic Operator Parametrized by a Real Number, Daren Scot Wilson
+Available at https://github.com/darenw/FRITEXP/blob/master/doc/GeneralArithOperator_DSWilson_2018G.pdf Summarized in https://www.slideshare.net/DarenWilson1/generalizing-addition-and-multiplication-to-an-operator-parametrized-by-a- real-number
+Explores generalization of addition and multiplication, fractionally iterated exponential functions. Online
+https://www.linkedin.com/in/daren-scot-wilson/
+https://www.quora.com/profile/Daren-Scot-Wilson
+https://github.com/darenw
+http://stackexchange.com/users/6259/darenw
+https://medium.com/@drunkenufopilot
+http://www.turbosquid.com/Search/Artists/DrunkenUFOPilot http://darenw.deviantart.com/
+Crystal Ball with Scrolling Glowing Text (motion graphic) https://www.youtube.com/watch?v=0wpAa0G4XYA Tamarack Video UTube title sequence (motion graphic) https://www.youtube.com/watch?v=ajQCYzoyDG
+Education
+Graduate studies in physics, Colorado State, Indiana Univ. BS Physics, Oakland University
+Radio/TV Production, Specs Howard School of Media Arts Industrial Electronics Technology, RETS Electronics Schools, Detroit Coursera classes include Machine Learning, Data Science, Digital Sound Design, Bayesian Statistics, Organic Photovoltaic Devices, Switch Mode Power Supply Design
+“Capitalism is a system that rewards people for solving other peoples' problems” -- Nick Hanauer
+Contact this candidate

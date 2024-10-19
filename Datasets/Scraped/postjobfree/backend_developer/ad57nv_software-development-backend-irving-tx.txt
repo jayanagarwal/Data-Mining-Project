@@ -1,0 +1,182 @@
+Venkatesh Vinnakota
+Backend Developer
+Email: ad57nv@r.postjobfree.com
+Phone: +1-972-***-****
+LinkedIn: https://www.linkedin.com/in/venkatesh-vinnakota
+
+SUMMARY:
+Around 7 years of experience in all phases of Software Development Life Cycle (SDLC) including Systems Analysis, Design, Development, and implementation spanning across diverse domains including Banking, Healthcare, and Energy.
+Well-versed in Agile development, participating in SCRUM meetings and iterative cycles to deliver software collaboratively, adapting to evolving requirements.
+Proficient in version control using GitHub, coupled with effective ticket tracking utilizing Jira. Adept at maintaining streamlined and collaborative development workflows through version control and issue tracking systems.
+Proficient in core Java concepts, including OOPs, multithreading, Serialization, collections, and design patterns. Also, skilled in functional programming using STREAMS and LAMBDA expressions in Java 8+.
+Employed Java's Executor framework to streamline multithreading, manage threads, and orchestrate asynchronous operations with efficiency.
+Proficient in implementing reactive programming with Spring Web Flux, to develop highly responsive and scalable applications.
+Expertise in developing web-based Enterprise applications in various architectural patterns like Monolithic, N-tier, Microservices using J2EE technologies such as JPA, JDBC, EJB, alongside frameworks like Hibernate, Spring, and Spring Boot.
+Mastery in developing SOAP-based web services utilizing SOAP, WSDL, XML Schema, and WS-Security to ensure robust, standardized, and secure communication between endpoints.
+Developed RESTful services that utilize JSON to establish flexible and scalable architecture, ensuring seamless communication between the services.
+Extensive experience in using MVC (Model View Controller) architecture for developing applications using JSP, JavaBeans, and Servlets.
+Hands-on experience with diverse Application servers, including Apache Tomcat, JBoss, and WebLogic, showcasing versatility in deploying and managing applications across various server environments for optimal performance.
+Proficient in build automation using ANT and Maven, developing scripts for auto-generation and deployment of web services. Utilized Maven for creating JAR, WAR, EAR, and dependency JARS, ensuring efficient and seamless deployment processes.
+Skilled in Spring Core, mastering fundamental features such as inversion of control, annotations, dependency injection, and precise bean configurations. Proficiently harnessing the power of Spring to enhance application flexibility and maintainability.
+Built Restful web APIs using the spring boot framework, and tested APIs using Postman. Utilized Swagger to provide clear documentation for the APIs for testers and front-end developers.
+Extensive experience with Spring technologies, including Spring JDBC for efficient database connectivity, Spring Hibernate ORM for robust object-relational mapping, and Spring Data JPA for streamlined data access and persistence solutions.
+Expertise in architecting scalable distributed systems using Spring Microservices and Spring Cloud features.
+Proficiently design and implement microservices, incorporating tools like Eureka and Ribbon for seamless orchestration and enhanced system scalability.
+Experience in core AWS (Amazon Web Services) services like (S3, EC2, ELB, EBS, Route53, VPC, Auto scaling etc.) and deployment services (Elastic Beanstalk, DevOps Works, and Cloud Formation) and security practices (IAM, Cloud watch and Cloud trail).
+Familiar with designing and implementing efficient CI/CD pipelines using GitHub, Jenkins and Ansible to streamline development workflows.
+Experience in core GCP (Google Cloud Platform) services like (Cloud Storage, Compute Engine, Load Balancing, Persistent Disks, Cloud DNS, VPC, Auto Scaling, etc.) and deployment services (App Engine, Cloud Build, and Deployment Manager) and security practices (Identity and Access Management (IAM), Stack driver Monitoring, and Cloud Audit Logging).
+Experience in working on several Docker components like Docker Engine, Hub, Machine, Docker Compose and Docker Registry.
+Managed and orchestrated Docker containers using ECS, Kubernetes (K8s), EKS and GKE (Google Kubernetes engine) ensuring scalability, reliability, and security of containerized applications.
+Strong experience in UNIX and Shell scripting.
+Designed and implemented asynchronous communication in microservices using Kafka. This bolstered system scalability and facilitated real-time data processing.
+Proficient in configuring essential Kafka components such as Zookeeper, Kafka topics, producers, and consumers.
+Proficient in centralized management of Apache Kafka clusters using Confluent Control Center (C3).
+Skilled in real-time monitoring of Kafka cluster health, throughput, and latency, and setting up alerting mechanisms for critical issues.
+Experienced in visualizing Kafka cluster metrics and accessing historical data for performance analysis and optimization.
+Mastery in intricate database design and optimization, across relational (MySQL, Oracle, PostgreSQL) and NoSQL (MongoDB) systems ensuring seamless scalability and enhanced performance.
+Experience in writing complex queries, triggers, and stored procedures for crafting intricate solutions for data manipulations, aggregations, and table joins.
+Strong knowledge on working with GraphQL schema, queries, and mutations to interact with Mongo DB and several other data layers.
+Good knowledge on working with Apollo client to interact with GraphQL server.
+Implemented Test-Driven Development using JUnit and Mockito for unit testing and developed logging mechanism based on Log4J.
+Employed Cucumber for end-to-end testing and Selenium for integration testing, ensuring efficient and comprehensive test coverage.
+Implemented Splunk for centralized log management, real-time monitoring, and efficient troubleshooting, ensuring optimal performance and rapid issue resolution.
+Expertise in various IDEs, including Eclipse, VScode, and IntelliJ IDEA.
+
+TECHNICAL SKILLS:
+Languages
+Java, Python, JavaScript, TypeScript, C, C++
+Frameworks
+Backend: Spring, Spring boot, SOAP, REST, JPA, Hibernate, JMS, JDBC, Node.JS.
+
+Databases
+Relational: Oracle, PL/SQL, MySQL, PostgreSQL,
+NoSQL: MongoDB, Cassandra, Redis
+Messaging tools
+Apache Kafka, Rabbit MQ, Amazon Kinesis, Google Cloud Pub/Sub
+
+Testing
+JUnit, Jasmine, Karma, Jest, Mockito, Postman
+Build Automation Tools
+Maven, Gradle, Ant.
+Web Servers
+WebSphere, JBoss, Tomcat, Jetty, WebLogic, NGINX.
+Logging
+ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus and Grafana, Apache Log4j, Splunk
+Cloud Technologies
+AWS: EC2, S3, Lambda, API Gateway, SQS, SNS, EKS, Load Balancer, CloudWatch
+GCP: Cloud Storage, Compute Engine, Cloud Endpoints, Google Kubernetes Engine (GKE), Cloud DNS, VPC, Auto Scaling, App Engine, Cloud Build, Deployment Manager, Identity and Access Management (IAM).
+DevOps tools
+Jenkins, GitHub, GitLab, Docker, Kubernetes, Slack, Splunk Cloud, Terraform.
+
+IDEs
+Eclipse, IntelliJ IDEA, VScode, MySQL Workbench
+PROFESSIONAL EXPERIENCE:
+Client: BCBS of Texas Jan 2023 - present
+Role: Senior Software engineer
+Responsibilities:
+Redesigned and implemented a monolithic legacy application, transitioning it into Spring Boot microservices for improved modularity and scalability.
+Took responsibility for the Spring Boot application, covering development, unit testing, deployment, and continuous maintenance.
+Developed a dynamic and configurable YAML-based validation system, enhancing flexibility and extensibility for data validation processes.
+Designed and implemented reactive endpoints using Spring Web Flux, optimizing the application for efficient handling of asynchronous data processing.
+Integrated Spring Security and Spring Cloud components to enforce secure authentication and authorization mechanisms, ensuring data protection and compliance with security standards.
+Designed and implemented scalable and resilient microservices using Spring Boot facilitating modular development, independent deployment, and enhanced scalability of applications.
+Proficiently utilized Java 8 streams for efficient data processing and manipulation within the applications.
+Managed the data migration process from DB2 to MongoDB and performed upgrades on the MongoDB cluster.
+Successfully migrated the cache infrastructure from GemFire to Redis Cache, enhancing scalability and flexibility.
+Adopted a distributed architecture and incorporated Kafka as a message broker to improve application scalability and adaptability.
+Implemented ELK Stack (Elasticsearch, Logstash, Kibana) for log management and monitoring, utilizing Elasticsearch for full-text search and indexing, Logstash for log collection and processing, and Kibana for log visualization.
+Configured custom users and groups using AWS Identity and Access Management (IAM) for secure access management. Implemented IAM policies to enforce role-based access controls, ensuring granular permissions and least privilege access across the organization's AWS resources.
+Deployed MongoDB clusters on Amazon Web Services (AWS), utilizing both EC2 instances and AWS Managed MongoDB Service (MMS). Implemented AWS CodePipeline and AWS CodeDeploy for automation of builds, installations, and monitoring processes, thereby optimizing efficiency in managing MongoDB deployments.
+Deployed containerized microservice instances on Amazon Elastic Kubernetes Service (EKS), leveraging its robust orchestration capabilities for automatic scaling, rolling updates, and seamless deployment of microservices architecture in a cloud-native environment on AWS. Utilized AWS Fargate for serverless container management, further simplifying deployment and management tasks.
+Proficient in infrastructure as code (Iac) using Terraform for provisioning and managing cloud resources, and Ansible for configuration management and automation, enhancing efficiency and reliability of deployment processes for development and testing.
+Implemented GraphQL to optimize data fetching and management in a web application, allowing clients to retrieve specific data fields with tailored queries, reducing network overhead and improving performance.
+Integrated Apollo Client into the project to efficiently consume GraphQL APIs, facilitating seamless communication between the client-side application and the GraphQL server, and leveraging features such as caching, pagination, and optimistic UI for enhanced user experience.
+Leveraged Swagger UI to provide comprehensive API documentation, fostering effective testing, and facilitating user interface development with enhanced clarity and precision.
+Provided technical design documents and conducted code reviews. Participated in daily standup calls to address and resolve issues.
+Implemented and managed GitHub Actions workflows to automate the build, test, and deployment processes.
+Utilized Python to create automated tools for testing endpoints, generating reports based on the results, and enhancing testing efficiency.
+Environment: Java 8, Spring Boot, GemFire, Redis Cache, Apache Cassandra, Couchbase, MongoDB, Apache Kafka, AWS (CloudFormation, IAM, EC2, EBS, Terraform), Swagger, Git, GitHub Actions, Maven, JIRA, Confluence, Eclipse, IntelliJ, Jenkins, Python, Agile Scrum.
+Client: CTIS, Inc. April 2022 – Oct 2023
+Role: Senior software engineer
+Responsibilities:
+Implemented a Microservices architecture using Spring Boot services, ensuring modularity and scalability through RESTful services with Spring Rest.
+Integrated microservices with API Gateway through Netflix Zuul, ensuring centralized routing, authentication, and monitoring for service-to-service communication, enhancing security and manageability.
+Leveraged Hibernate (ORM) and JPA for seamless communication between the application and SQL/NoSQL databases.
+Configured Spring for a customized Jwt Token Provider and incorporated JwtFilter for authentication while ensuring global CORS compliance.
+Developed JUnit test classes for unit testing and utilized Postman for testing REST APIs. Implemented Swagger for API documentation and seamless integration with the development team.
+Implemented MongoDB and Oracle as the Back-End storage system, optimizing data storage and retrieval.
+Configured Log4j for comprehensive application logging and integrated Splunk for log analysis, providing in-depth insights and efficient bug identification and resolution.
+Established asynchronous communication using Apache Kafka message brokers, enhancing system responsiveness and scalability.
+Worked on Amazon Web Services (EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53, CloudWatch, SNS).
+Experienced in setting up and configuring AWS's EMR Clusters, utilizing Amazon IAM for fine-grained access control.
+Created Docker images for the application, deploying containers on Amazon EC2 instances during development and QA.
+Responsible for the design and maintenance of Git repositories, ensuring efficient code versioning and collaboration.
+Built Jenkins pipelines for continuous integration, including building, creating snapshots, and deploying on servers.
+Played a key role in Scrum meetings, fostering collaboration and communication within the Agile development team.
+Planned sprints with Scrum master, took part in daily stand-ups, sprint reviews, and retrospectives to ensure effective project management and timely delivery of high-quality software.
+
+Environment: Spring Boot, hibernate (ORM), JPA, JUnit, Jwt Token Provider, JwtFilter, CORS, RESTful API, Postman, AWS, JIRA, Git, Scrum, SDLC.
+
+Client: Trustt, Bangalore. May 2019 – Dec 2021
+Role: Software development engineer
+Responsibilities:
+Designed and implemented Spring Boot microservices, emphasizing modularity and scalability for efficient application development.
+Established robust asynchronous communication using Apache Kafka message brokers, enhancing system responsiveness. Deployed Kafka on GKE (Google Kubernetes Engine) for seamless integration and optimal performance.
+Implemented token-based authentication with JWT tokens and OAuth2.0 for authorization, ensuring robust security measures.
+Established a persistence layer with Hibernate ORM for seamless interaction with the Oracle database, demonstrating advanced database management skills.
+Utilized Redis as an in-memory data store and cache in web applications, improving performance and scalability by storing frequently accessed data in memory.
+Gained expertise in CQL (Cassandra Query Language) for efficient data retrieval from Cassandra clusters through well-optimized queries.
+Developed RESTful MVC web services, enhancing communication efficiency across different layers of the application stack.
+Deployed Java applications on WebLogic Server, managing scalability through strategic clustering and load balancing configurations.
+Integrated Java applications with middleware components on WebLogic, facilitating seamless communication across different layers of the application stack.
+Configured and maintained robust security measures on WebLogic Server, including SSL implementation, user authentication, and authorization.
+Utilized Docker-compose YAML file templates for efficient deployment of images in Docker containers managed by Docker Swarm.
+Implemented container orchestration using Kubernetes on GCP (GKE), showcasing adept management of Docker containers for efficient deployment and scaling of applications.
+Proficiently administered GCP services, including Compute Engine, App Engine, Cloud Storage, and other key components, contributing to a well-rounded skill set.
+Designed and implemented serverless components on GCP, utilizing Cloud Functions and App Engine to build scalable and cost-effective solutions.
+Implemented large-scale pub-sub message queues using Apache Kafka, configuring broker clusters in a Master-Slave configuration for scalability and failover. Deployed Kafka Docker instances on GCP for optimal performance.
+Followed the Agile/Scrum process, actively participating in sprint planning, scrum calls, planning, retrospective, reviews, and grooming sessions.
+Utilized Git for version control, consistently pushing code updates to GitLab.
+Leveraged JIRA for tracking bugs and managing tickets in the application, following the AGILE methodology for effective project management.
+Environment: Java, Spring Boot, spring MVC, WebLogic, JDBC, Hibernate, Oracle DB, Cassandra, JMS, Apache Kafka, Active MQ, REST, JSON, JUnit, Jenkins, GCP, GIT, Docker, Kubernetes, JIRA
+Client: Sedin Technologies, Chennai-India Apr 2017 – May 2019
+Role: software engineer
+Responsibilities:
+Engineered a robust backend using Java/J2EE technologies, incorporating Spring core, Spring Security, and IOC for enhanced functionality and security.
+Developed Microservices with meticulous Swagger documentation, ensuring clarity for both clients and UI developers.
+Used Spring Framework’s IOC Dependency Injection to inject Service Object into Action Classes and create microservices.
+Implemented OAuth authentication and authorization for API access, ensuring user identity verification and access control.
+Utilized Hibernate and Java persistence API(JPA) to execute database operations seamlessly, guaranteeing efficient and reliable interaction with the underlying database system.
+Employed RabbitMQ as a message broker for event-driven microservices, facilitating the exchange of data in the JSON format in a non-blocking manner.
+Demonstrated expertise in data modeling and efficiently migrated data to MongoDB based on evolving business needs.
+Utilized Redis as an in-memory data store and cache in web applications, improving performance and scalability by storing frequently accessed data in memory.
+Created Docker images for various application services, deploying these containers on ECS for efficient and scalable execution.
+Designed and implemented a resilient high-availability solution using WebLogic Server clusters, significantly enhancing system reliability while minimizing downtime.
+Successfully deployed and managed infrastructure on AWS, demonstrating proficiency in configuring virtual machines, networks, and storage resources for scalable and reliable applications.
+Implemented container orchestration using ECS, showcasing adept management of Docker containers for streamlined deployment and scaling of applications.
+Ensured the seamless deployment of the application across various environments, including Development, QA Testing, Staging, and Production.
+Actively participated in Code Reviews, Unit Testing, and Process Improvements, contributing to the continual enhancement of development practices and project efficiency.
+Environment: Java, Spring Boot, WebLogic, JDBC, Hibernate, SQL, Mongo DB, JMS, Rabbit MQ, HTML5, CSS, REST, JSON, Eclipse, Jenkins, Mockito, JUnit, Gradle, GCP, Docker, Kubernetes, JIRA, Log4j, SonarQube, Veracode, Selenium,
+Client: Sedin Technologies, Chennai-India April 2016 – Aug 2016
+Role: Java developer Intern
+Responsibilities:
+Gathered requirements, conducted in-depth analysis, and actively participated in developing comprehensive design documents, collaborating closely with business stakeholders.
+Designed and developed robust web services using Spring MVC, streamlining the application for improved modularity and independence.
+Implemented SQL stored procedures and prepared statements to facilitate efficient data updating and access operations in the MySQL Database.
+Executed CRUD operations, including Create, Update, Insert, and Delete, while also ensuring schema validation and effective data modeling in MongoDB.
+Designed and implemented dynamic user interfaces using JSP enhancing the presentation layer of the application.
+Utilized Core Java concepts, including Multi-Threading and Exception Handling, to implement diverse features and enhancements. Also, leveraged Core Spring for efficient dependency injection.
+Successfully migrated a WebObjects Application to a Jetty Application by meticulously replacing existing WebObjects components and their dependencies. Ensured seamless validation of changes both locally and in the server environment through rigorous testing and deployment procedures.
+Migrated the application's platform from the existing Apache Tomcat Server to the more efficient Jetty Server, enhancing overall performance.
+Developed comprehensive JUnit classes and methods for rigorous testing, employing Mockito for efficient instance mocking.
+Achieved an impressive increase in code coverage to 90% - 95%, employing SonarQube to meticulously measure and maintain code quality standards.
+Implemented Docker containers for deployment during development and testing, gaining expertise in the end-to-end setup, ensuring seamless application packaging, and facilitating consistent deployment workflows.
+Implemented project builds in Jenkins, leveraging Maven as the build automation tool, ensuring streamlined development processes.
+Environment: Core Java (Multi-Threading, Exception Handling), Spring (Dependency Injection), WebObjects, Jetty, Apache Tomcat, Spring MVC, EJB, JSP, JDBC, Servlet, HTML, CSS, JavaScript, MySQL, MongoDB, Junit, Mockito, Docker, Jenkins, Maven, SonarQube, Git.
+
+EDUCATION:
+UT, Arlington MS in Computer Science Arlington, TX Jan 2022 – Dec 2023
+Relevant Coursework: Data Structures and Algorithms, Distributed systems, Computer Networking, Cloud computing, Machine learning, Statistics and Probability, Neural networks, Data Mining, Computer vision.
+UT, Arlington Graduate Certificate in Deep learning Arlington, TX Jan 2023 – Dec 2023
+Acharya Nagarjuna University B. E in Mechanical Engineering Guntur, A. P June 2013 – April 2017
+Contact this candidate

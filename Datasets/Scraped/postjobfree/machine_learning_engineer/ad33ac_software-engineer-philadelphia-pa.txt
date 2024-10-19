@@ -1,0 +1,28 @@
+Yi Shen
+§ github.com/eddieshen ï linkedin.com/in/yi-shen # ad33ac@r.postjobfree.com
+Education
+University of Pennsylvania (GPA: 3.93/4.0) June 2022 – May 2025(Expected) Master of Science in Engineering, Robotics & Computer Science(Dual Degree) Pennsylvania, Philedelphia National Cheng Kung University (GPA: 3.65/4.0) June 2021 Bachelor of Science, Aeronautics and Astronautics Taiwan, Tainan Relevant Coursework
+Courses: Computer Vision and Graphics, OS Design, Machine Learning, Control, SLAM, Reinforcement Learning, Optimization
+Work Experience
+Neuromorphic Event-Based Vision Group Graduate Research Assistant Sep. 2023 – Present Advisor: Prof. Kostas Daniilidis Philedelphia, PA
+• Automated annotation workflow of the pseudo-labels for fusion model by designing a model-assisted labeling pipeline integrating pretrained Cascaded Mask-RCNN and SAM labeling tools in python.
+• Extracted crucial features effectively from 1K HDR bird flight videos data, leveraging optical flow as feature selection methodology through pytorch RAFT model to analysis and filter out redundancies.
+• Managed multi-processing and preemption for extraction and filtering on the clusters, enabling efficient resource utilization and task management in distributed computing environments. LiLee System Itd. Software Engineer Intern Dec 2021 – Feb 2022, June 2023 – Aug. 2023 Autonomous Vehicle Team Taiwan, Taipei
+• Engaged in path following controller project for autonomous vehicle based on model predictive control algorithm. Implemented from Matlab/Simulink block into C++ utilizing Eigen for numerical computing.
+• Enhancing development and troubleshooting efficiency through the creation of testing tools and pipelines. Conducted rigorous unit testing for ensuring simulation reliability.
+• Participated in the CI/CD pipeline for annotation workflow and training procedures working on Jenkins.
+• Labeled targets for object detection model and evaluated the model performance via rigorous feature analysis. Selected Projects
+Fast 3D Human Pose Estimation
+• Addressed stereo reconstruction problem by developing 3D pose estimation model from scratch in pytorch.
+• Boosted the model’s performance by achieving a substantial 25% reduction in per-joint error compared to the paper’s approach. Improved by the use of a customized loss, masking data augmentation, and gradient clipping. Image to Image Translation
+• Implemented generative models producing images with diverse styles and photo-realism features in pytorch.
+• Mitigated mode collapse problem through investigating in training strategies. Achieved optimal diverse style results by leveraging BicycleGAN and best photo-realistic images by Soft-Intro VAE model. Rotated Object Detection for Remote Sensing
+• Refined YOLOv4 for oriented object detection task by integration of a modified objective and head structure.
+• Improving the model performance and achieved 93% MAP by leveraging the mosaic9 data augmentation and examined different metric functions like Kalman Filter IOU, Circular Smooth Label loss. Mini-Minecraft Game
+• Designed an interactive 3D game and alteration program in the style of Minecraft game in C++.
+• Developed the player physics (collision, mouse controlling), utilized OpenGL for texture rendering and handled efficiently multi-threaded landscape generation.
+Penn-OS
+• Designed a User-level Linux-like Operating System from scratch, including kernel, file system(FAT style) and shell interface in C within Docker environment.
+• Contributed to the kernel and user level functionalities of system. The operating system support context switching, error logging, signal handler and multi-processing scheduler. Skills
+Programming Languages:C, C++, Python, Java, GLSL, MATLAB, SQL, LATEX Tools: PyTorch, Rviz, ROS, Gazebo, Docker, Scikit-Learn, OpenCV, OpenGL, Pandas, Numpy, Hydra, Eigen, Git, Jira, Jenkins
+Contact this candidate

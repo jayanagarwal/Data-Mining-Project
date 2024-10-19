@@ -1,0 +1,160 @@
+EXECUTIVE SUMMARY
+Sr. AWS DevOps Engineer with profound experience in the IT sector, especially in the Cloud domains AWS, including building and deploying applications by carrying out DevOps practices such as CI/CD, Configuration Management, Cloud Migration, Change/Incident Management in runtime environment along with tools like GitHub, BitBucket, Ansible, Jenkins, Maven, Docker, ANT, SVN, GIT.
+Extensive experience with SCM tools such as GIT (Git Bash, GitHub, Git GUI), SVN (Tortoise SVN), Source Tree, and comparable tools for branching, merging, tagging, and versioning across environments.
+Experience in setting up enterprise infrastructure on Amazon Web Services (AWS) including EC2, ELB, EBS, S3, Auto-Scaling group, AMI, RDS, IAM, Netw, VPC, Code Deploy, Elastic Beanstalk, CloudWatch, Cloud Trial, Elastic Load Balancer, AWS CDK etc.
+Designed AWS Cloud Formation templates to generate custom-sized VPCs, subnets, and NAT to ensure that Web applications and database templates could be deployed successfully.
+Worked on services such as EC2, S3, Glacier, ELB (Load Balancers), RDS, SNS, SWF, and EBS, as well as developing and managing cloud VMs with AWS EC2 command line clients and Services AWS provisioning.
+Experience in setting up Alerts and Alarms in AWS Cloud of AWS services using CloudWatch and Dynatrace
+Boto3 is the AWS SDK for Python, which allows to interact with AWS services programmatically.
+Used Python to write Infrastructure as Code (IaC) templates using tools like AWS CloudFormation or Terraform. These templates define the desired state of AWS resources and can be version-controlled, tested, and deployed automatically.
+Used Python to develop custom tools and utilities tailored to specific DevOps workflows or requirements.
+Used Python programming in our AWS DevOps workflows, to automate tasks, improve efficiency, and streamline the management of our infrastructure on AWS.
+Hands-on experience configuring Kubernetes (k8s) Clusters for running microservices and deploying microservices utilizing Kubernetes-backed infrastructure. Used Ansible playbooks to automate Kubernetes clusters.
+Managing ingress in Kubernetes using NGINX, Istio, and network policies.
+Worked on setup and administered the Kubernetes sandbox on Elastic Kubernetes Services (EKS) for testing the different features and manage containerized applications using its nodes, ConfigMaps, selectors, services and deployed application containers as Pods.
+Administered and Deployed Kubernetes Clusters using a master/minion architecture on cloud/on-premises environments, and created numerous YAML files to create a variety of services such as pods, deployments, auto scaling, load balancers, health checks, and Namespaces.
+Experience in working on Docker Engine, Machine, Creating Docker Images, Compose, Docker Hub, and handling multiple images for middleware installations and domain settings.
+Expertise in using Gradle, Maven, and ANT as a Build Tool for the building of deployable artifacts (war & ear) from source code.
+Experienced in configuring CI/CD pipeline in Jenkins to implement Continuous Integration and Continuous Delivery process, accommodate software teams with compilation and artifact deployment requests in an AWS cloud environment.
+Using build automation solutions like Bamboo and Jenkins, we were able to improve our continuous integration workflow, project testing, and deployments. Implemented Jenkins code coverage and unit test plug-ins using Maven.
+Proficient in several terraform modules for infrastructure management, while published and authored a module to the Terraform registry to deploy our product on clients’ environment.
+Used terraform to manage various infrastructure resources such as physical machines, virtual machines, and Docker containers.
+Expertise in deploying and managing artifacts using various repository management platforms such as Sonatype, Nexus, and Artifactory. And Bug tracking software such as JIRA can be configured.
+ServiceNow for managing incidents and service requests in order to route the tickets to respective teams.
+Responsible in configuring Log monitoring tools like ELK (Elastic search, LogStash & Kibana), Nagios, Splunk, Prometheus, Filebeat, and Grafana to monitor logs of applications in prod and non-prod.
+Customized search queries and indexing strategies to improve search performance and accuracy.
+Familiarity with machine learning techniques and natural language processing (NLP).
+Familiarity with common NLP applications such as sentiment analysis, text classification, topic modeling, machine translation, text summarization, question answering, and information retrieval.
+Hands on experience with build and CI/CD tools like Bamboo, Hudson/Jenkins, TeamCity, Bamboo, SonarQube, GitHub, and uBuild, Maven, BitBucket, ANT.
+Experience in working on web servers like Apache and application servers like Web logic, Tomcat, WebSphere, JBoss to deploy code & deployment in Managed Kubernetes Clusters through automation using scripting languages such as Shell, Bash, Perl, JSON, Ruby, Groovy, PowerShell and Python.
+Skills And Abilities
+Cloud Platforms
+AWS
+Configuration Management Tools
+ANSIBLE
+Build Tools
+ANT, MAVEN, GRADLE
+Container Tools
+Docker, Kubernetes
+Version Control Tools
+GIT, GitHub Enterprise, CVS, SVN, Bit Bucket.
+Log and Monitoring Tools
+Nagios, Splunk, ELK, Cloud watch, Dynatrace, Prometheus,Grafana
+Scripting
+Bash/Shell, Perl, Python, Ruby, Power Shell, JSON, YAML, Groovy and Go Lang
+Databases
+My SQL, MS Access, Oracle 9i/10g/11g, DB2, NoSQL (MongoDB, DynamoDB)
+Application Servers
+WebLogic 9.x/10.x, WebSphere 6.x/7.x/8.x, JBOSS 4.1
+Web Servers
+Apache HTTP, Nginx, Apache TOMCAT
+Networking
+DNS, DHCP, SMTP, HTTP, SNMP
+Operating Systems
+Linux (Red Hat 4/5/6/7), UBUNTU, UNIX, WINDOWS NT/2000/2003/XP/VISTA/7/8/10.
+CI/CD Tools
+Jenkins, Hudson, Bamboo, GitLab, GitHub Actions
+Build Automation tools
+Service-now, Jira
+IAC Tools
+Terraform, ARM Templates, CloudFormation Templates
+Virtualization Tools
+VMWare, Vagrant, Hypervisor, VMware vSphere, Oracle VM VirtualBox
+Certificate Management
+TLS,SSL
+
+Professional Experience
+Wells Fargo(Infosys Ltd)- Fremont, California
+Role: Sr.DevOps Engineer June 2022 – Present
+Responsible for build and deployment automation using AWS, Docker, Tomcat and Kubernetes
+Designed and implemented Kubernetes clusters on AWS using EKS, achieving high availability, scalability, and security for mission-critical applications.
+Used Boto3 to automate the provisioning and management of AWS resources.
+Written Python scripts to automate common tasks such as instance provisioning, configuration management, and deployment orchestration in AWS environments
+Customized Elastic search queries and indexing strategies to improve search performance and accuracy considering Indexing strategies i.e., Index Mapping, Dynamic Mapping, Index Sharing and Replication and Bulk indexing.
+Achieved Query Optimization using Use Filters, Query DSL, Query Context Vs Filter Context, Query performance Optimization.
+Improved Indexing and Elastic Search performance by Index Refresh Interval, Field Data Cache, Indexing Rate Control.
+Monitoring and Tuning of
+AWS Lambda allows you to run Python code in response to events without provisioning or managing servers. Lambda functions can be used for tasks such as event-driven automation, data processing, or integrating with other AWS services.
+Written script to automate AMI (Amazon Machine Image) backups, manage Route 53 DNS records, or monitor AWS CloudWatch metrics.
+Basic NLP tasks such as tokenization, stemming, lemmatization, part-of-speech tagging, named entity recognition (NER), and syntactic parsing.
+Knowledge of text representation techniques including bag-of-words (BoW), TF-IDF (Term Frequency-Inverse Document Frequency), word embeddings (e.g., Word2Vec, GloVe), and contextual embeddings (e.g., BERT, GPT).
+
+Developed and maintained CI/CD pipelines using Jenkins and GitLab CI/CD, enabling automation of the build, test, and deployment process and reducing deployment time by 70%.
+Created infrastructure as code using Terraform and Ansible, enabling version control and consistency across environments.
+Automated configuration management and deployments using Ansible playbooks and YAML for resource declaration.
+Creating roles and updating Playbooks to provision servers by using Ansible.
+Written the Ansible YAML scripts to configure the remote servers. Integrated Jenkins and Ansible. Designed and developed Jenkins Build deployments.
+Created and implemented yaml files for deployment.
+Installed RedHat Linux using kick start and applying security polices for hardening the server based on company's policies.
+Created users, roles and groups using Identity Access Management (IAM) and attached the required policies.
+Performed Branching, Tagging, Release Activities on Version Control Tool GIT (GitHub)
+Experience in Software Integration, Configuration, building, automating, managing and releasing code from one environment to another environment and deploying to servers
+Involved in supporting cloud instances running Linux and Windows on AWS, experience with Elastic IP, Security Groups and Virtual Private Cloud in AWS.
+Extensive experience on configuring Amazon EC2, Amazon S3, Amazon Elastic Load Balancing IAM and Security Groups in Public and Private Subnets in VPC and other services in the AWS.
+Managed network security using Load balancer, Auto-scaling, Security groups and NACL.
+Experience in deployment of Java applications and implementation and automation of Shell scripts for release and build automation
+Established encrypted connections between clients and servers, ensuring data confidentiality and integrity using Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer (SSL).
+Distinguish between self-signed certificates and those issued by trusted CAs.
+Request, import, and manage SSL/TLS certificates using ACM which is a service provided by AWS.
+Configure SSL/TLS termination on AWS services such as Elastic Load Balancers (ELB), CloudFront, and API Gateway. Understanding the implications of terminating SSL/TLS at different points in your infrastructure.
+Used KMS to securely store and manage the private keys associated with your SSL/TLS certificates.
+Extensively worked on Jenkins CI/CD pipeline jobs for end-to-end automation to build, test and deliver artifacts and Troubleshoot the build issue during the Jenkins build process.
+Implemented monitoring and alerting for SSL/TLS certificate expiration dates and key usage metrics. Utilized AWS CloudWatch alarms or third-party monitoring tools to proactively identify and address certificate-related issues.
+Implemented Jenkins Code Deploy plugin to deploy to AWS and used to automate the build process and deploy the application to Tomcat server.
+Created Route tables to route the traffic to find whether it is public or private network.
+Utilized AWS CLI to automate backups of ephemeral data-stores to S3 buckets, EBS and create nightly AMIs for mission critical production servers as backups.
+Used Asible for configuration management of hosted Instances within AWS, Configuring and Networking of Virtual Private Cloud (VPC).
+
+American Express(Syntel Consulting)-Phoenix, AZ Oct 2017-May 2022 Role: Sr.Devops Engineer
+Both manual and automation build using Maven and Jenkins.
+Involved in the release process and deployed applications (WAR, EAR, and JAR) to WebLogic.
+Focused on containerization and immutable infrastructure. Docker has been core to this experience.
+Developed container support for cloud environments and Docker. Deployed the applications in Docker containers and managed the containers in enterprise level.
+Created Docker images using a Docker file, worked on Docker container snapshots, removing images and managing Docker volumes
+Configured Docker container for branching purposes and Implemented Docker automation solution for Continuous Integration / Continuous Delivery model
+Mentored and coached junior team members on Kubernetes best practices and EKS implementation.
+Collaborated with development teams to optimize containerized applications for Kubernetes and EKS, improving application performance and resource utilization.
+Extensively worked on Jenkins CI/CD pipeline jobs for end-to-end automation to build, test and deliver artifacts and troubleshoot the build issue during the Jenkins build process.
+Created Route tables to route the traffic to find whether it is public or private network.
+Used Bootstrap Script for launching large number of instances in AWS
+Utilized AWS CLI to automate backups of ephemeral data-stores to S3 buckets, EBS and create nightly AMIs for mission critical production servers as backups.
+Used Chef for configuration management of hosted Instances within AWS, Configuring and Networking of Virtual Private Cloud (VPC).
+Monitoring Cluster health, node performance and resource utilization using tools like Elastic search's built-in monitoring features or third-party solutions.
+Monitoring query and indexing latency to identify bottlenecks and optimize performance. Elastic search provides metrics to track these aspects.
+Measure query and indexing throughput to understand system capacity and identify potential scalability issues. Adjust configurations accordingly to optimize performance.
+Notify Broken builds to appropriate Team / Team Members and enable a successful build
+Provide support to Production, Development environments
+Developing and maintaining scripts to automate the build, packaging as well as automation of time-consuming, error-prone tasks associated with the build
+Configured and deployed applications in various work environments like Development, Test, and Production.
+Monitoring daily builds using the continuous integration tool Jenkins.
+Creating a container and deploying it to the production server
+Developed Crontab scripts for timely running jobs and provide server status.
+Identify root causes and resolve problems.
+Provide timely and accurate on-call support for the production environment
+Configured and deployed applications in various work environments like Development, System Test, and Production.
+Excellent Customer Facing skills.
+Developed automation and deployment utilities using Shell scripts
+Focused on automation integration monitoring and configuration management.
+
+State Farm Insurance (Capgemini Consulting)– Bloomington,Illinois Nov 2015 - Sep 2017 Role : AWS DevOps Engineer
+
+Using Amazon Web Services (AWS), I launched Amazon EC2 Cloud Instances (Linux/ Ubuntu/RHEL) and configured them for specific applications. Worked on AWS API Gateway for a custom domain and Record sets in Amazon Route53 for applications hosted in AWS Environment.
+Integrated Amazon EC2 with AWS services like S3, RDS, and VPC to deliver a full, secure computing, query processing, and cloud storage solution for a wide range of applications.
+Worked with Dockers, Jenkins and Kubernetes, by driving all micro services builds to the Docker-registry using Jenkins and pipelines and then deploying them to AWS EKS Kubernetes Cluster and managed using Kubernetes Pods.
+Setup specific IAM profiles per group utilizing newly released APIs for controlling resources within AWS based on group or user. Created AWS Multi-Factor Authentication (MFA) for instance RDP/SSH login, worked with teams to lock down security groups.
+Implemented Python Scripts using stranded libraries for getting all the agent logs (Inventory, Remote connections, Network usage and performance counters) from the flavors of LINUX.
+Maintained necessary back-up of the important files and documented Linux scripts for future reference. Involved in the design, configuration, installation, implementation, management, maintenance and support for the corporate Linux servers RHEL, CENTOS, Ubuntu.
+Installed Bamboo and perform troubleshooting during installation to implement the CI process for the Java application builds and Setting up and configuring Bamboo, created Jobs for automating build and deploy activities.
+Maintain and track inventory using Bamboo and set alerts when the servers are full and need attention. Created and configure jobs, script builder, custom command builder, agents in Bamboo
+Developed GIT hooks for the local repository, code commit, and remote repository, code push functionality and Worked on the Git Hub. Used source code management technologies such as GIT Bash, GitHub, and GIT to work with version control tools such as GIT, Team Foundation Server, and Visual Source Safe.
+Created scripts in Python which integrated with Amazon API in SaaS environment to control instance operations. Implemented zero downtime deployment process in WebLogic using Python, Shell script & automated it using Jenkins
+Responsible for automated scheduled build/emergency build and release using ANT scripts for enterprise applications (J2EE).
+
+Education:
+Bachelor’s in Technology, University: Jawaharlal Nehru Technological University, 2012
+
+Sai Srija Bachu Sr. Cloud DevOps Engineer +1-425-***-****
+Email: ad5glb@r.postjobfree.com LinkedIn: www.linkedin.com/in/sai-srija-bachu-2606162a6
+
+}
+Contact this candidate

@@ -1,0 +1,139 @@
+Summary:
+
+Stephen Mooney is a senior, hands-on, Architect, Data Engineer, and Data Scientist with over 22 years in-depth experience and proven accomplishments. He brings expertise in database development, architecture and ETL along with exceptional skills in data aind statistical analysis. This is all for the purpose of helping clients drive a higher ROI of their analytics solutions. Stephen has experience across a wide array of technology platforms, including Databricks, Snowflake, Netezza, Teradata, and GreenPlum, analytical tools like Tensorflow, Keras, PyTorch, Python, SAS, SPSS, R and Fuzzy Logix, and various coding languages such as C / C++, Java and Shell Scripting. Stephen is known for technical leadership, process development, innovation, and scope definition of projects. He works well leading teams, being a team member, and work independently on key initiatives. Stephen has excellent communication skills to complement his technical abilities.
+
+Technical Skills:
+
+Databases: HBase, Hive, Postgres, IBM PureData for Analytics (Netezza), Greenplum, Teradata, MSSQL, MySQL, HBase, DuckDB, CockroachDB, MongoDB, Cassandra, DataStax, Snowflake, Databricks, ADLS, Data Lakes, Redshift, DynamoDB, Aurora
+Programming Languages: JAVA, C, C++, R, SAS, Scala, Python
+ETL/ELT: MapReduce, Informatica, IBM DataStage, Greenplum, Netezza, SSIS, AWS Glue, Kafka (ksqlDB)
+Containerization: Docker, Podman, Kubernetes
+API Frameworks: SOAP, REST, asyncAPI
+Shell Scripting: CSH, KSH, BASH, ZCSH
+Cloud Platform: AWS, Azure, GCP
+Predictive Analytics: Keras, Tensorflow, Pytorch, XGBoost, R, SAS
+
+Experience:
+
+AARETE LLC, Chicago, IL November 2021 – March 2023
+Director, Data Engineering Technology
+
+Responsibilities:
+Continual Development of ML models to find data anomalies in healthcare claims data
+Designed, Curated, and Managed Team of 7 data scientists and data engineers to implement cloud-based solutions for data ingestion, transformation, model prediction, and publishing as end-user data products (DaaP, PaaS)
+Development of streaming architecture and implementation using Kafka, KStreams and Kotlin Migration of on-premises databases to AWS cloud
+Continual design and development of AWS and GCP architectures for client deliverables
+
+Detroit Energy (DTE), Detroit, MI March 2021 – November 2022
+Data Scientist, Consultant
+
+Responsibilities:
+Continual Development of Data Mesh architecture to improve Databricks data quality
+Implementation of algorithms to analyze power grid outages and efficientcies leveraging Tensorflow, XGBoost, matching, and clustering methodologies
+Creation of Kafka solution to consume, transactional, and publish data from Oracle transactional data store to ADLS
+Creation of dashboards using Django, Angular and Node
+
+Echo Global Logistics, Chicago, IL May 2019 – March 2021
+Staff Data Science Engineer
+
+Responsibilities:
+Continual design and development of microservices architecture to support shipment rating and tracking solutions using Kubernetes, Docker, and REST APIs
+Productization and development of production-grade ML solutions with Tensorflow, Keras, and R
+Led team of 3 Data Science / ML engineers
+Creation of dashboards using Django, Angular and Node
+
+Envision Healthcare, Greenwood Village, CO September 2016 – April 2019
+Data Scientist
+
+Responsibilities:
+Continual development of NLP models to analyze ambulatory verbal and written notes to improve insurance claim acceptance by payers
+Development of ELT process from EHR systems, including data ingestion, transformation, and publication into Netezza data warehouse
+Implementation of Arima forecasting to predict patient population to optimize resource availability across multiple facilities
+Optimization of operating room utilization using R
+
+Information Builders, New York, NY January 2014 – September 2016
+Product Manager, Big Data and Healthcare Analytics
+
+Responsibilities:
+Continual Development of IBI Big Data software strategy
+Designed, Developed, Managed Team, and Released iWay Big Data Integrator – Data Integration and Data Quality solution leveraging Sqoop, Flume, Kafka, Spark
+JAVA/XML based data ingestion framework, including data cleansing and mastering rules
+Big Data product management lifecycle, including product conception, requirements gathering, competitive analysis, development management, product design, and release
+Greenplum application and database architecture
+
+Brightlight Consulting, Redmond, WA January 2013 – January 2014
+Sr. BI / DW Consultant
+
+Responsibilities:
+Built ETL and ELT solutions on Netezza platform.
+Implemented In-database analytics solutions using FuzzyLogix dbLytix and IBM SPSS for In-Database Analytics
+Produced conventional analytics solutions using SAS, SPSS and R
+
+Datalogix, Westminster, CO April 2012 – October 2012
+Consultant
+
+Responsibilities:
+Improved SAS modeling system so that it was modular and had appropriate error checking.
+Optimized Netezza table distribution for optimal access.
+Developed and implemented common samples control group algorithms.
+Developed RFM solution using data from dunnhumby (Kroger), Kantar, CVS and Wal-Mart data.
+
+Nielsen Catalina Solutions, Schaumburg, IL March 2012 – April 2012
+Consultant
+
+Responsibilities:
+Overhauled proprietary ROI measurement solution built in MS access into a UNIX batch SAS process.
+Improved efficiencies within UPC Clustering algorithm.
+Developed optimization routine for GRP placement for manufacturer commercials.
+Enhanced Analytics Diagnostic tool, written in JAVA.
+
+EMC GreenPlum, San Mateo, CA January 2012 – March 2012
+Senior Data Scientist
+
+Responsibilities:
+Engaged in short-term integration opportunity with SAS, Madlib and KXEN.
+Designed POC for dunnhumby USA, including principal component analysis and household segmentation algorithms.
+Built custom Java and R Stored Procedures against GreenPlum DCA for custom functionality.
+Collaborated with team to create predictive models for large financial institutions to minimize fraud and loss risk.
+
+Nielsen Catalina Solutions Schaumburg, IL December 2008 – January 2012
+Lead Analytics Architect
+
+Responsibilities:
+Created SAS ETL processes to combine disaggregate frequent shopper data, consumer panel data and advertising exposure data for analysis (approximately 8MM records per analysis, 61BN records in total database).
+Developed JAVA process to aggregate output of SAS process notated above to proper level for modeling. Connection pool created using Spring to inject proper JDBC connection string for environment (Development, QA, Production), JASYPT used for password encryption, Hibernate used to map Oracle metadata, then later merged with aggregates pulled from Netezza
+Produced Ad-Hoc queries using SQL and/or SAS to produce analytic reports for campaigns.
+Delivered custom consumer segmentation solution.
+Automated data extract process from legacy Nielsen mainframe using SAS and Informatica.
+Supported legacy consumer panel processes using SAS.
+Utilized as an SME of Nielsen panel and frequent shopper systems.
+Managed several Netezza in-database algorithm projects alongside the Netezza in-database teams.
+
+ACNielsen, Schaumburg, IL August 1999 – November 2008
+Senior Software Engineer / Manager, Analytical Product Development
+
+Responsibilities:
+Analyzed disaggregate consumer panel data to produce new insights and functionality.
+Created JAVA process to calibrate consumer panel data sales results to known reported retailer data using a Negative Binomial Distribution approach.
+Optimized database performance / design, program performance / program design for both legacy and new applications.
+Supported existing analytic applications.
+Converted legacy applications to new platforms.
+Created extracts from Redbrick DW for Hyperion Essbase cube population.
+Hyperion Essbase dimension design from Redbrick and Informix structures.
+Created ETL processes to combine disparate datasets.
+Mentored Individuals to maximize results in Agile environment.
+
+Education
+
+Crown Seminary, Powell, TN
+Masters, Ministry
+May 2017
+
+Liberty University, Lynchburg, VA
+Bachelor of Science, Management Information Systems and Biblical Studies
+May 2015
+
+Concordia University, River Forest IL
+Bachelor of Arts, Computer Science
+December 1999
+Contact this candidate

@@ -1,0 +1,129 @@
+Leon Havin, San Diego, CA, *****
+
+SUMMARY: Grounded, mature, accomplished, and solution-oriented Senior Software
+Engineer/Architect with a wide variety of professional experiences and entrepreneurial spirit.
+Self-motivated and passionate about developing applications and services with integration of the next generation AI technologies from leading vendors: Azure, OpenAI, AWS, Google.
+
+ROLES: Sr. Software Engineer, Project Lead, Principal Software Engineer, Software Architect
+
+CORE COMPETENCIES
+17 years of coding and management experience in developing software products for Enterprise and Consumer markets while acting as individual contributor and Product/Project Owner.
+Successfully delivered 100+ commercial products on Windows and Linux Platforms to remote clients.
+Developed projects based on expertise in S.O.L.I.D. principles and Clean Architecture.
+Demonstrated Entrepreneurial revenue-producing vision and skills as a Founder of Gravity Storm Software, LLC, developing the first Security Patch Management Software for Enterprise Networks.
+
+TECHNICAL SKILLS:
+FOCUS:
+oAI Technologies
+Azure Cognitive Services, Azure OpenAI API, Embeddings, Model Training, Azure Cosmos DB (Vector and NoSQL), Azure Blob, Azure Analytics, OpenAI Embeddings
+Azure/AWS/Google/Whisper: Text-To-Speech, Speech-To-Text, Speech-To-Speech
+RAG (Retrieval Augmented Generation) and GraphRAG with Azure
+oWeb Services
+ASP.NET Core, Razor Pages, gRPC Microservices
+RESTful API, Hosted Services, Dependency Injection, MVC, WCF
+oDesktop and Client/Server Applications
+Sockets, Message Queues, Low-Level Networking (TCP/UDP)
+VSTO Office Add-Ins: Outlook, Word, Excel, PowerPoint
+
+LANGUAGES: C#, C/C++, XML, JSON, familiar with Python, JavaScript
+FRAMEWORKS: ASP.NET, .NET Core, WinForms, WPF, LINQ, WMI, Windows Services
+DATABASES: Microsoft SQL, SQLite, Entity Framework 6/Core, Cosmos, Mongo, Pinecone
+NETWORKING: HTTP, RPC, FTP, IGMP, SNMP, TCP/IP, Sockets, MQTT, RS485, Bluetooth
+SECURITY: OAuth2, Azure MSAL.NET, AES256, SHA256, Authenticode Cert,
+Security Certificate generation API, Bouncy Castle
+TOOL & LIBS: Visual Studio through 2019/2022, DevExpress, Add-In Express, GitHub, SVN, JIRA,
+Perforce, Advanced Installer, Wireshark, Bugzilla, TracerX
+
+DEVELOPED: RAG web services, TTS & STT apps, Advanced GUI, async/await pattern, Multithreading/Thread Synchronization, Async/Overlapped I/O, Windows Services and Service Controllers, Web Services/WCF servers and clients, High-Performance I/O Engines, Multi-tier Client/Server Architectures, Windows Shell and Namespace Extensions, Windows Networking API, WinSock, TCP/IP packet level encryption, Multicast engines, Bluetooth over Winsock API, Modbus Interface, OpenAI Clients.
+
+PROFESSIONAL EXPERIENCE:
+
+02/2022 – Present Gravity Storm Software, LLC. Remote from San Diego, CA
+RAG Web Service – Retrieval Augmented Generation service for chatting with private corpus of documents using ASP.NET enterprise-level service, including:
+oDocument Ingestion into Azure Cosmos Vector DB (Segmentation + Embeddings)
+oIncorporated Keyword and Semantic (Hybrid) Search along with Vector Search in vector DB.
+oGenerating responses using Azure OpenAI Completion API and context from Vector DB search.
+Word Express: Word Add-In integrating: GPT-3/3.5/4 API, DALL-E 2 API, Whisper API.
+Launched products https://www.gpt4office.com
+Implemented Semantic Search with OpenAI API and Pinecone as a desktop app.
+Developed GPT4Audio: Audio file Transcription and Translation with Whisper, Test-To-Speech with AWS Polly neural voices. Speech-to-Text and Text-To-Speech with Azure Cognitive Services.
+Speech-To-Speech: Mic & Speaker Voice chatting with ChatGPT using NAudio and Azure OpenAI API.
+Developed a phonetic analysis tool for the University of Pennsylvania, using Azure Cognitive Speech-To-Text to analyze phoneme and word scores and grade student progress in various speech categories.
+Developed a language learning tool for simultaneous translation of languages. Generated audio with neural voices using AWS Polly Text-To-Speech service and handled audio files with NAudio.
+Research on implementing and integrating Knowledge Graph with RAG and Azure OpenAI API.
+
+09/2022 – 02/2023 Consultant – Project for Microsoft Remote from SAN DIEGO, CA
+Azure Active Directory Authentication project for a Microsoft client, a major Bank. Authenticated Excel Add-In Desktop Application in C# using Microsoft Identity Platform, MSAL.NET.
+1/2011 – Present Contractor - Gravity Storm Software, LLC. Remote from SAN DIEGO, CA
+Successfully architectures, designed, implemented, and tested 100+ projects for remote clients in different technological areas: AI, Office Add-Ins, Desktop and Client/Server Applications, Web Services. Proven track record of developing and deploying scalable software applications with a focus on performance and security.
+2/2018 – 8/2018 Hologic SAN DIEGO, CA
+CONTRACTOR Development of application for configuring CISCO ASA Firewalls. C#/XML/WinForms.
+
+9/2016-12/2017 Merlin CSI, Inc. SAN DIEGO, CA
+CONTRACTOR Development of High-Speed Data Acquisition software in C#, Sockets, WCF
+User Interface in WPF and WinForms, MS SQL, Licensing, Security Certificates.
+
+1/2016-9/2016 Tidal Wave Telecom, Inc., A2E Technologies, Inc Remote from SAN DIEGO, CA
+CONTRACTOR Developed variety of products for local companies: including Drone Video
+Player in real time (RTSP-based). Real Time Video Conferencing Software for U.S.
+Department of Corrections facilities. C#, OPAL-VoIP-Stack, WinForms.
+
+8/2015 – 01/2016 ViaSat SAN DIEGO, CA
+CONTRACTOR Contract – Security Proxy for SatCom secure network with C# and Sockets.
+
+1/2014 to 8/2015 Gravity Storm Software, LLC SAN DIEGO, CA
+CONTRACTOR Developed Optical Drive image burner library for Odyssey Computing, Inc. (IMAPI & C#)
+Developed cross-platform GeniCam Camera SDK for A2E Technologies, Inc. in C/C++.
+Developed PowerPoint Add-In for Harvard Business School in C# and Add-In Express.
+Developed Outlook Add-In and integrated with cloud-based UberConference system.
+Developed Firmware Upgrade software for Solar Controllers (C#, RS485, Modbus).
+Developed Kinetics WPF Charting application for biotech company.
+Developed Desktop CRM application with C#/WinForms/DevExpress and SQL back-end.
+
+2011 to 2013 Digium, Inc. SAN DIEGO, CA
+PROJECT LEAD Developed Softphone in C#/.NET: multi-tier SIP client for SIP/Jabber PBX server,
+including middleware (phone and call state machines, self-hosted WCF server).
+WCF Client component embedded in stand-alone dialer and as part of Outlook Add-In.
+Ported open source SIP stack to Windows and developed higher-level APIs for
+interface with the middleware. Developed GUI clients with DevExpress for WinForms.
+Expert in developing Office Add-Ins with VSTO and Add-In Express library for Outlook,
+Word, Excel, and PowerPoint.
+
+2009 to 2010 Phoenix Technologies MILPITAS, CA
+SOFTWARE ARCHITECT
+Developed Phoenix Workbench IDE - Visual Studio 2005/2008 Plug-In with C#/.NET/XML.
+Technical Lead in all aspects of HyperSpace for Windows software for Samsung OEM. Developed main multi-threaded application from inception to delivery using Win32/MFC/XML: GUI, ROM-BIOS interface, Web Update Engine. Developed automation of complex project build process.
+Lead and responsibility in architecture, design, and implementation of the next generation of Bluetooth Proximity application. Designed and implemented application compatibility with all major Bluetooth stacks on the market (MS, Broadcom, BlueSoleil, Toshiba). Developed GUI using MFC and XML.
+
+2007 to 2009: Broadcom Corporation SAN DIEGO, CA
+PRINCIPAL SOFTWARE ENGINEER
+Developed Over-The-Air Device Firmware Upgrade software to wirelessly upgrade firmware for Bluetooth keyboards and mice on Windows XP/Vista/Win7. Implemented Bluetooth Device Inquiry, Service Discovery, and Firmware Download using Broadcom SDK. Designed a Wizard-style UI compatible with Windows XP and Vista AERO using C/C++/MFC in Visual Studio 2005. Successfully tested on Broadcom 2042 and 2046 Bluetooth chips.
+Enhanced Bluetooth for Windows software with Microsoft Event Tracing Technology (ETW & WPP) for efficient event tracing. Created Perl/C/C++ and COM interface for Broadcom Bluetooth test suite. Implemented COM server, COM client DLL, and Perl/C interface DLL for automation. Developed advanced MFC GUI application and Perl scripts for remote testing.
+1999 to 2007: Gravity Storm Software, LLC SAN DIEGO, CA
+FOUNDER, OWNER, PRINCIPAL DEVELOPER, CEO
+Founded Gravity Storm Software in 1999 as the first vendor of enterprise security patch management software on the market.
+Single-handedly developed Service Pack Manager and consequently became a leading vendor of security patch management.
+Features included: network discovery, scanning, and patching of remote machines in a semi-automated fashion.
+Multi-threaded application implemented with C/C++, MFC, and Win32 Networking APIs.
+Continued the development of the product till 2007, introduced management of Windows Firewall on the corporate networks.
+
+Achieved one the highest revenue per capita reaching $500K annually in 2003 through 2004.
+Customers included SMBs, Fortune 500 and Fortune 1000 companies, Federal, State and Local Governments, Army, Navy, Marines and Air Force, and educational organizations. Among the customers are brand names, such as: Bridgestone/Firestone, KeySpan Energy, Edwards AFB, Verizon Wireless, Wells Fargo Bank, Eglin AFB, Fujitsu/Siemens, Volvo, EDS, IBM, Joint Task Force Northcom (JTFN), and many others.
+
+1997 to 2002: Logic Innovations, Inc. SAN DIEGO, CA
+
+PROJECT LEAD/MANAGER
+Responsible for all aspects of development of IP Encapsulation Gateway (IPEDG). This Windows NT based system captures multicast IP traffic on the LAN and encapsulates it into DVB/MPEG stream for satellite uplink distribution. Lead the team of 5-7 engineers in development of the 2nd generation of IPEDG. Developed TCP/IP payload encryption system for multicast streams using Blowfish 64bit block cipher algorithm. Due to increased length of encrypted payload, faced the challenges of decoding of TCP, IP, and UDP packets and constructing new ones with encrypted payload.
+
+PROJECT DEVELOPMENT ENGINEER – Responsible for development of Client/Server system for IP Encapsulation Gateway
+Gathered and defined system requirements and provided software system architecture.
+Designed high-perf multi-threaded multicast receiver-transmitter engine based on Async/Overlapped I/O (98Mbps throughput on 100 Mbps LAN).
+Designed and implemented COM Server as ATL-based WinNT Service and incorporated multicast engine.
+Designed COM/DCOM Client/Server system that enables operators to externally monitor and control encapsulation process.
+Designed COM Client with MFC, providing advanced GUI and secure and reliable access to the Server on remote computers.
+Provided capability for simultaneous monitoring and control of the Server by multiple clients.
+Designed and implemented SNMP support, IGMPv2 support, redundancy capability, and PSI injection.
+Developed Winsock Multicast Test System for performance measurement, and for generation of controlled multicast streams.
+
+Accomplished Developer, Successful Entrepreneur, Former Airforce Officer, U.S. Citizen
+Contact this candidate

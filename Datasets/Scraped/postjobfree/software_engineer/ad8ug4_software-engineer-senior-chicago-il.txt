@@ -1,0 +1,157 @@
+Avinash P
+
+260-***-**** • ad8ug4@r.postjobfree.com • www.linkedin.com/in/avinash-kumar-p
+Summary
+Highly skilled Senior Software Engineer with over 4 years of experience specializing in Azure cloud technologies, systems administration, and automated infrastructure management. Proven expertise in deploying and optimizing cloud environments using Terraform and Azure DevOps, with a strong focus on seamless migrations, performance tuning, and issue resolution across Windows and Linux systems. Adept at leveraging scripting languages like Python and PowerShell to enhance operational efficiency and ensure system reliability. Certified in Azure Fundamentals, Azure Administrator, Azure Database Administrator, and Azure Security Engineer, demonstrating a strong commitment to cloud technology excellence. Known for effective collaboration with clients and cross-functional teams to deliver innovative solutions. Dedicated to driving operational excellence and advancing my career by continuously improving cloud infrastructure and technology solutions.
+
+Area of Expertise
+
+Cloud Technologies:
+Microsoft Azure, Google Cloud Platform, Azure Data Factory, Azure Synapse.
+Databases:
+MS SQL
+Programming Languages:
+C, C++, Java, Python
+Web Technologies:
+HTML, JavaScript, CSS
+Infrastructure as a code:
+Terraform.
+Operating Systems:
+Windows (2024,2022,2008 and legacy OS), Linux (Red hat, Ubuntu, CentOS, Oracle, Open SUSE, Fedora), Unix.
+Source Control & Collaboration Tool:
+Azure DevOps, Service Now, Jira, Confluence, SharePoint.
+Scripting:
+Azure CLI, ARM Templates, PowerShell Scripting.
+Other Technologies:
+Cassandra, River Meadow.
+
+Work Experience
+Infosys Limited
+Hyderabad, India
+Senior System Engineer
+
+Mar 2022 - Dec 2022
+Managing Azure Infrastructure for Bausch and Lomb.
+Provisioning Azure Components such as Storage accounts, Virtual Machines, VNet/Subnet, SQL Databases etc.
+Utilized ITIL-based incident management processes to track, prioritize, and resolve support tickets, ensuring timely resolution and customer satisfaction.
+Deployed Azure resources using ARM templates and Terraform through Azure DevOps, automating infrastructure provisioning.
+Set up release pipelines to deploy applications and infrastructure changes across environments.
+configured and managed CI/CD pipelines for automated build, test, and deployment processes using Azure DevOps Pipelines.
+Diagnosed and resolved Azure VM issues, including performance, connectivity, and provisioning failures.
+Fixed network issues such as VNet peering, subnet configuration, NSG rules, and VPN gateway connectivity. Resolved database issues for Azure SQL Database, SQL Managed Instance, and SQL Server on Azure VMs, including performance tuning, backup and restore, and connectivity problems.
+Extract Transform and Load data from Source Systems to Azure Data Storage services using a combination of Azure Storage, Azure SQL and processing the data in Azure Data Factory.
+Created Pipelines in ADF using Linked Services/Datasets/Pipeline to Extract, Transform and load data from different sources like Azure Blob, Azure SQL and Azure Synapse.
+Collaborated on ETL (Extract, Transform, Load) tasks, maintaining data integrity and verifying pipeline stability
+Worked on implemented data solutions using Serverless SQL Pools and Dedicated SQL Pools.
+Designed, developed and deployed data movements using SQL Server Integration Services, TSQL and Stored Procedures.
+Worked extensively with Azure Synapse Analytics to design and deploy scalable data warehouse solutions for analytical workloads.
+Collaborated on advanced data modeling and data movement strategies between Azure Synapse and other Azure services using SQL Server Integration Services (SSIS) and Azure Data Factory.
+Integrated data from multiple sources into Azure Data Lake and Azure SQL, using ADF and Synapse to process, cleanse, and load the data.
+Automated data movements and ETL tasks through ADF, ensuring efficient data synchronization and aggregation across systems.
+Optimized ETL pipelines and Synapse configurations to handle large-scale data loads and ensure efficient processing.
+Monitored Azure resources using Azure Monitor, Log Analytics, and Application Insights. Configured alerts and action groups for timely notifications and automated responses to critical incidents.
+Handled service requests related to resource provisioning, configuration changes, and performance tuning for Azure services.
+Developed and maintained PowerShell scripts and Azure Automation runbooks to automate tasks like VM provisioning, backup management, and log analysis. Utilized ARM templates for consistent Azure resource deployment.
+Configured and managed Azure Security Center to improve security posture and implemented RBAC and identity management using Azure Active Directory (AAD).
+Configured and managed Azure Backup and Site Recovery for data protection and business continuity, including regular backup, restore operations, and disaster recovery drills.
+Optimized resource utilization, including VM sizing, storage performance, and database indexing, and recommended best practices for cost-efficiency and performance
+Resolved deployment issues related to VMs in Azure by troubleshooting and fixing CI/CD pipeline configurations in Azure DevOps.
+Diagnosed and corrected errors in ARM templates and Terraform scripts, ensuring successful VM provisioning in Azure.
+Identified and addressed permission and network configuration issues impacting VM deployments, optimizing deployment processes.
+Collaborated with development and infrastructure teams to implement fixes, reducing downtime and improving deployment reliability.
+Streamlined the deployment process by enhancing Azure DevOps pipelines, minimizing errors in VM provisioning across environments.
+Monitored system performance and resource utilization using Azure Monitor, Log Analytics, and other tools, ensuring proactive issue resolution.
+Performed system updates, patch management, and security hardening on both Windows and Linux VMs using custom scripts
+Managed virtualization environments using Hyper-V and Azure, including VM provisioning, resource allocation, and performance tuning.
+Communicated with application owners to coordinate and execute system activities, ensuring alignment with application requirements and schedules.
+Provided clear explanations to application owners about upcoming changes or processes, ensuring they understand the impact and benefits.
+Educated application owners on technical aspects and potential outcomes of the activities, facilitating informed decision-making and smooth execution.
+Addressed any questions or concerns from application owners, offering support and guidance throughout the process to minimize disruptions.
+
+Tech Mahindra Ltd
+Hyderabad, India
+Software Engineer
+
+June 2019 - Mar 2022
+Worked as a Migration Engineer on various projects for Microsoft Global Delivery.
+Specialized in migrating on-premises workloads to Azure Cloud by utilizing tools like Azure Terraform and River Meadow
+Migrated 500+ on-prem servers to Azure, improving system efficiency and reducing operational costs
+Executed MS SQL DB migrations from on-premises to Azure Cloud, ensuring data integrity and improved database performance
+Managed single node, 4-node, and Always On models, optimizing database availability and reliability
+Delivered software solutions for clients including AIG, Bristol, Volvo Cars and National Australia Bank, General electric’s enhancing cloud modernization and Windows upgrades.
+Deployed virtual machines in Azure using Terraform, automating infrastructure provisioning and ensuring consistent and scalable configurations.
+Extensive experience in Windows and Linux server management. On Windows, I excel in Active Directory, Group Policy, and user management, with strong skills in PowerShell and WSUS patch management, configure DNS, DHCP, IIS, and Remote Desktop Services.
+On Linux, proficient in installing and configuring RHEL, CentOS, Ubuntu, and Debian, and use shell scripting for automation. I manage services including firewalls, SELinux, and SSH hardening.
+Configured and managed Windows and Linux VMs in Azure, Designed and implemented VNets and subnets, Set up and managed Azure Recovery Services Vaults for backup and disaster recovery, ensuring data integrity and compliance with recovery objectives.
+Utilized Azure Migrate to assess, plan, and execute migration strategies for on-premises workloads to Azure, Deployed and managed Azure SQL Databases, SQL Server on VMs, and Azure SQL Managed Instances.
+Installed, configured, and managed SQL Server instances on Azure VMs, implementing best practices for performance tuning, security, and maintenance.
+Set up and configured Azure SQL Managed Instances, leveraging built-in high availability, security, and scaling features to support mission-critical applications.
+Configured NSGs and ASGs, Managed IP address spaces, addressing schemes, and subnetting.
+Implemented Azure Monitor, Log Analytics, and diagnostics settings to monitor VM health, performance metrics, and application logs, enabling proactive issue resolution.
+Automated VM deployment, configuration management, and scaling using Azure Automation and ARM templates, streamlining operations and reducing manual intervention.
+Installed, configured, and maintained applications on Windows and Linux VMs within Azure, ensuring optimal performance and security.
+Designed and implemented end-to-end ETL pipelines for extracting, transforming, and loading data from multiple source systems into Azure-based data storage solutions.
+Utilized a combination of Azure Storage, Azure SQL, and Azure Data Factory for seamless data integration and transformation.
+Ensured data integrity and consistency through effective data validation, cleansing, and error-handling techniques.
+Built and managed complex ADF pipelines, integrating data from various sources such as Azure Blob Storage, Azure SQL Database, and Azure Synapse Analytics.
+Developed custom Linked Services, Datasets, and Pipelines in ADF to automate data ingestion and processing.
+Created Data Flows in ADF to handle large-scale data transformations and load processed data into target data warehouses.
+Worked closely with data analysts and business stakeholders to align data integration efforts with reporting and analytical needs.
+Implemented monitoring and alerting mechanisms within ADF to track pipeline execution and ensure timely issue resolution.
+Performed regular updates and upgrades of software applications on Azure-hosted Windows and Linux systems
+Troubleshooted and resolved issues related to application installations and upgrades, minimizing downtime and ensuring seamless operations.
+Managed and applied patches to Windows and Linux systems in Azure to ensure security and compliance.
+Monitored patching status and resolved any issues to maintain system stability and performance.
+Conducted comprehensive QA testing on Windows and Linux VMs, ensuring system configurations met performance and security standards.
+Performed QA on MS SQL VMs, validating their setup, resource allocation, and failover capabilities.
+Tested MS SQL databases for integrity, performance, and adherence to best practices, identifying and resolving any discrepancies.
+Automated QA processes using scripts and tools, reducing manual effort and increasing testing efficiency across multiple environments.
+Collaborated with development and operations teams to ensure seamless deployment of VMs and databases post-QA validation.
+Collaborated with vendors and clients to coordinate and execute activities, ensuring project alignment and timely delivery.
+Facilitated communication to address technical requirements, resolve issues, and ensure successful outcomes.
+Worked closely with clients to gather requirements, provide updates, and ensure successful project outcomes.
+Implemented backup and disaster recovery solutions for Windows and Linux environments using Azure Backup and Azure Site Recovery.
+Utilized River Meadow for automated migration of on-premises workloads to the cloud, streamlining the process and minimizing downtime.
+Configured and managed River Meadow tools to ensure seamless application and data transfer, optimizing performance and reliability.
+Created and customized AVD images to streamline deployment and ensure consistency across virtual machines while deploying AVD VMs with optimized configurations to ensure high availability and performance for end-users.
+Monitored and analyzed VM performance using Azure Monitor, Log Analytics, and Application Insights to ensure optimal user experience while automating VM provisioning, scaling, and maintenance tasks with Azure Automation, thereby reducing manual intervention and improving efficiency.
+
+Professional Certifications:
+Microsoft Certified: Azure Fundamentals (AZ-900)
+Microsoft Certified: Azure Administrator Associate (AZ-103 & AZ-104)
+Microsoft Certified: Azure Database Administrator Associate (DP-300)
+Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+
+Academic Projects
+IntelliStaff: Transforming Workforce Management with Cloud and Artificial intelligence
+
+Apr 2024 - May 2024
+Engineered a cloud-based workforce management platform using AI to automate scheduling, performance evaluation, and resource optimization.
+Implemented AI models to enhance workforce planning and management, resulting in more accurate and efficient operational processes.
+Deployed and managed the solution in a cloud environment, ensuring scalable and reliable performance to support dynamic workforce needs.
+Showcased the project’s capabilities through presentations, highlighting how AI-driven insights improve workforce efficiency and decision-making.
+Created detailed project documentation and user manuals, providing clear guidance on system use and future upgrades.
+
+Optimizing Information Leakage in Multi Cloud
+Mar 2019 - May 2019
+
+Developed and implemented security measures to mitigate information leakage across multiple cloud environments, enhancing data protection and compliance.
+Conducted comprehensive assessments of multi-cloud architectures, identifying potential vulnerabilities and optimizing configurations to prevent data breaches.
+Applied best practices for encryption, access control, and network segmentation to secure data and applications across diverse cloud platforms.
+designed and deployed security solutions that addressed multi-cloud challenges and improved overall system resilience.
+Produced detailed documentation and reports on security measures and optimizations, providing insights and recommendations for future improvements.
+
+Education
+Indiana Institute of Technology (Indiana Tech)
+Fort Wayne
+Master of Science in information systems
+3.93 GPA
+Jan 2023 - May 2024
+
+Marri Laxman Reddy Institute of Technology and Management
+Hyderabad
+Bachelor of Technology
+Aug 2015 - May 2019
+Computer Science and Engineering
+62.88 %
+Contact this candidate

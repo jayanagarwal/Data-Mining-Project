@@ -1,0 +1,151 @@
+Rahul Mula
+ad7ioo@r.postjobfree.com / 814-***-****
+DevOps Engineer
+
+Professional Summary:
+Self-driven and highly motivated DevOps and Cloud Engineer with around 4+ years of overall experience in Support, System Administration, Deployment, Tools, and Implementation of DevOps, Cloud, and Infrastructure Automation.
+Experienced in AWS Cloud platform and its various features, which includes EC2, S3, Route 53, VPC, Auto scaling, EBS, AMI, Security groups, SNS, RDS, Lambda, CloudFormation, and Cloud Watch.
+Experience in scripting languages Power Shell, Bash shell scripting, and Python.
+Experienced with working on Docker and Kubernetes to perform various tasks such as orchestrating the deployment, scaling, and management of Docker containers, Docker images, and Docker hub. Used Jenkins pipeline to drive all microservice build outputs to the Docker registry and deployed to Kubernetes. Utilized Docker and Kubernetes for the run time environment of the CI/CD system to build and test deployments.
+Experience in creating, developing, and testing environments for different applications by provisioning Kubernetes clusters on AWS using Docker, Ansible, and Terraform.
+Came across branching, tagging, developing, managing pre-commit and post-commit hook scripts and maintaining the versions across different Version controlling tools like GIT, Subversion (SVN), TFS on Linux and Windows platforms, and SCM client tools like GitLab, GitHub, Bitbucket.
+Experienced in deploying highly available and secure web applications by using autoscaling groups and load balancers and well versed with configuring jobs and building triggers in Jenkins, continuous integration, and continuous deployment tools.
+Experienced with VMs, Cloud Services and App Services, Storage, and Networking infrastructure services in AWS.
+Experience in development and configuration experience with software provisioning tools like Chef and Puppet.
+Experience in working on Continuous Integration CICD pipeline for AWS Cloud Services using CHEF.
+Expert in all areas of Jenkins like Plugin Management, Securing Jenkins, Performance issues, Analytics, Scaling Jenkins, integrating Code Analysis and Test Phases to complete the CI/CD pipelines within Jenkins.
+Hands-on experience in developing and maintaining CI/CD pipelines using Jenkins and AWS cloud-native services such as code commit, code build, code pipeline, and code deploy.
+Good knowledge of Implementing continuous deployment and environment provisioning using Ansible by installing packages on remote agentless nodes through Ansible playbooks with Ansible roles.
+Well-versed in setting up the Chef repo, Chef workstations, and Chef nodes and working with data bags, attributes, cookbooks, recipes, and templates in Chef.
+Experience in performing DevOps Design and developing continuous deployment pipelines, integrating Test-Kitchen, Vagrant, Git, Jenkins, and Chef across geographically separated hosting zones in AWS .
+Well versed in JIRA for ticketing and as well as a defect tracking system and configured various workflows, and customizations and integrated Jenkins with JIRA, GitHub, and Maven.
+Expertise in Installing, Configuring, and managing Monitoring tools such as Splunk, and Nagios for Resource Monitoring/Network Monitoring/Log Trace Monitoring.
+Installation, configuration, and maintenance of different Atlassian tools like JIRA, Confluence, Bit Bucket
+Extensive experience in all phases of the Software Development Life Cycle with emphasis on Designing, Developing, Implementation, Deployment, and Support of distributed enterprise scalable, secure, and transactional J2EE applications.
+Strong experience with Docker and with Linux/Windows environments.
+Well-versed working in projects that follow Waterfall and Agile software development model.
+Technical Skills:
+Clouds
+AWS
+Programming Languages
+C, Java, Python, Shell scripts, PowerShell
+Containerization Tools
+Docker, Kubernetes
+CICD & config management
+Jenkins, Ansible, Terraform, Puppet, Chef
+Build and Release Tools
+Apache Maven, Ant
+Source Control Tools
+Bitbucket, GitHub, Gitlab
+Continuous Monitoring Tools
+AWS Cloud Watch, Splunk, Prometheus and Grafana
+Planning Tools
+Jira, Confluence
+Operating Systems
+Linux, Windows
+Monitoring Tools
+Splunk, Nagios, PagerDuty
+Databases
+MySQL, Oracle, PostgreSQL, MongoDB
+Continuous Support Tools
+ServiceNow, ITSM
+Network Management Tools
+Sophos, SolarWinds
+Webservers
+Tomcat, WebLogic
+
+Work Experience:
+AWS DevOps Engineer
+Molina Health Care, CA April 2023 - Present
+Description: To transform healthcare and make a positive impact on millions of lives. It creates engaging web and mobile experiences that make it easier for consumers to find high-quality and affordable healthcare. Worked on moving the infrastructure from on-premises to the cloud implementing packaging of builds, continuous integration, and deployment processes of the application.
+
+Roles/Responsibilities:
+Spearheaded the design and implementation of a Git branching strategy, promoting streamlined collaboration and code version control across the development team.
+Implemented Webhooks to automate processes like static code analysis, testing, and deployment upon code repository events and integrated Webhooks seamlessly into our Git Version Control system, ensuring Jenkins responded efficiently to triggers.
+Developed strategy to migrate Dev/Test/Production from an enterprise VMware infrastructure to the IaaS Amazon Web Services (AWS) Cloud environment.
+Setting up, managing, and supporting CI/CD pipelines in Jenkins for application deployment and support bug fixes, feature requests, roles, image builds, deployment automation, etc.
+Developed Cluster container environment in AWS using Docker and Kubernetes to manage dozens of Micro-services.
+Employed declarative Jenkins pipelines for their clarity and precision, orchestrating the CI process with a focus on Docker agents to obviate the need for extensive installations, thereby streamlining the pipeline.
+Executed Maven for building the Java-based application, incorporating rigorous unit tests to fortify code integrity.
+Leveraged static code analysis using SonarQube judiciously to identify and rectify potential vulnerabilities and conducted thorough security checks, including SAST/DAST, to validate code against stringent security standards.
+Configured robust email and Slack notifications, ensuring prompt communication in the event of pipeline failures.
+Automated the creation, tagging, and pushing of Docker images using meticulous shell scripts, housing the Dockerfile within the Git repository.
+Integrated Jenkins pipeline by setting up credentials to access the Amazon ECR and used Docker’s login command to authenticate and push the Docker images to the registry.
+Implemented security checks through Trivy scanning of Docker images within the CI/CD pipeline. Integrated Trivy to automatically scan container images for security vulnerabilities and weaknesses, ensuring that the deployment process was fortified against potential threats.
+Leveraged two pivotal Kubernetes controllers - Argo Image Updater and ArgoCD - to streamline continuous delivery.
+Argo Image Updater diligently monitored container registries, automatically updating a dedicated Git repository with comprehensive image manifests like Pod.yaml, and Deployment.yaml.
+Positioned ArgoCD as a formidable GitOps tool, guaranteeing the synchronization of the Kubernetes cluster's state with the Git repository and automated the deployment process, ensuring seamless updates as detected by changes in the image repository.
+Leveraged ArgoCD to declaratively define and manage the Kubernetes cluster configurations, ensuring consistency and version control for containerized applications.
+Created Kubernetes Configuration files (YAML) by specifying various resources required for deploying and running the application in the Kubernetes cluster.
+Design, development, and implementation of Terraform modules and templates to automate the provisioning and management of AWS infrastructure, including EC2, RDS, and S3.
+Implemented and maintained Prometheus for monitoring the infrastructure, including AWS services like EC2, RDS, S3, Kubernetes clusters, and Docker containers.
+Configured Prometheus to collect and store metrics from various sources, such as application endpoints, system resources, and custom metrics relevant to the healthcare platform.
+Set up alerting rules in Prometheus to monitor critical metrics and trigger notifications via various channels like email and Slack in case of anomalies or service disruptions.
+Developed Grafana dashboards to visualize metrics collected by Prometheus, providing insights into system performance, resource utilization, and application health.
+Written Chef Recipes to automate our build/deployment process and do an overall process improvement to any manual processes.
+Implemented rapid provisioning and life-cycle management for Ubuntu Linux using Amazon EC2, Chef, and custom Ruby/Bash scripts.
+Implemented AWS solutions using EC2, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups, Optimized volumes and EC2 instances.
+Utilized Splunk for centralized log management, collecting logs from various sources such as application endpoints, system resources, Kubernetes clusters, and Docker containers.
+Comfortable and flexible with installing, updating, and configuring various flavors of UNIX and Windows.
+Performed and deployed Builds for various Environments like QA, Integration, UAT, and production environments.
+Documented all build and release process-related items. Level one support for all the build and deploy issues encountered during the build process.
+
+Environment: AWS, GIT, python, shell scripting, Jenkins, Chef, Terraform, Maven, Power Shell, Docker, Kubernetes, Splunk, Unix, Linux, SQL, Prometheus, and Grafana.
+
+DevOps/Support Engineer Dec 2022 –April 2023
+Rockwell Automation, Milwaukee, WI
+
+Roles/Responsibilities:
+Managing Ansible Node and Inventory, setting up RBAC, and creating roles and permissions in Ansible for automating the build and deployment process for infrastructure and application deployments.
+Setting up, managing, and supporting CI/CD pipelines in Ansible and Jenkins for application deployment and support bug fixes, feature requests, roles, image builds, deployment automation, etc.
+Worked extensively in this role on the build and deployment process mainly using tools like Jenkins and Ansible.
+Experience working on Docker Hub, creating Docker images, and handling multiple images primarily for middleware installations and domain configurations.
+Used Kubernetes as an open-source platform for automating deployment, scaling, and operations of applications containers across clusters of hosts, providing container-centric infrastructure.
+Automate application build and deployment using Jenkins to reduce human error and speed up production processes.
+Managing Bitbucket repositories and permissions, including branching and tagging.
+Worked end to end, right from preparing cloud strategy, network diagrams, infrastructure provisioning, and automating the infrastructure through code leveraging all cloud-native services like EC2, VPC, RDS, S3, Cloud Front, Route53, etc.
+Set up cloud monitoring and alerting stack using AWS Cloud watch and proper incident management.
+There were five VPCs for each environment i.e. Dev, Test, Preprod, Production, and Utility.
+We had 21 Java spring boot applications which are deployed on ec2 machines preprod and production.
+Launch Amazon EC2 instances using AMIs (Linux/Ubuntu) and configure the servers for specified applications.
+Create and configure an S3 bucket with restricted policies created on IAM.
+Perform Monitoring via CloudWatch and Nagios.
+Configure Security groups for EC2 instances as a part of Server Hardening.
+Access key Rotation as a part of Security Compliance to access servers and create MFA and AWS IAM password login policies.
+Responsible for large-scale Ansible implementation and maintenance, playbook creation, testing, and implementation.
+Created EC2 Instances for Web-based Applications and attached Elastic Load Balancing (ELB)for high performance.
+Troubleshooting and Debugging on Dev Env, helping the Dev Team understand Linux, AWS basic concepts, Java SDKs and the build issues during the Jenkins build process.
+Branching, Tagging, and Release activities on Version control tools in Using GIT.
+Maintained Jenkins Backup by using Plugins and implemented build-slaves to manage the system.
+Scheduled the builds, and linked the builds both upstream and downstream in Jenkins.
+Coordinating with onsite and near-shore teams.
+Created monitors, alarms, and notifications for EC2 hosts using CloudWatch.
+
+Environment: Git, Maven, Ansible, Jenkins, Python, Beanstalk, Lambda, AWS S3, AWS EC2, AWS RDS, AWS ELB, Dynamo DB, AWS Lambda and Cloud Watch, AWS IAM, Cloud Front.
+
+Application Developer Nov 2018 – Oct 2021
+Client: Ahex Tech, Hyderabad, India
+
+Roles/Responsibilities:
+Worked on setting up the NextGen ADM platform on IBM Cloud and IBM
+SoftLayer which included various industry standard DevOps Tools to enable clients to practice DevOps.
+Worked on Securing the DevOps tools by enabling SSL and authentication/authorization using SAML.
+Worked on setting up a reverse proxy (Nginx) for tools like JFrog Artifactory to enable artifactory to be used as a Docker registry.
+Worked on developing custom Docker files for tools on Docker containers or Kubernetes platform.
+Developed skills in utilizing Kubernetes, externalizing configurations using ConfigMaps, and hiding any sensitive data using Kubernetes secrets.
+Developed skillset in utilizing Helm Charts as version-controlled YAML files to automate the tools installation.
+Helped the development team containerize NodeJS and Java applications on Kubernetes.
+Automated the setup of DevOps Tools like Jira and Confluence on VM using Terraform and shell scripts.
+Automated the Infrastructure, IBM Cloud services, and NFS provisioning on IBM SoftLayer using Terraform.
+Automated the maintenance activity like start and stop of over 200 Pods using Shell script thereby achieving this in a matter of 1-2 mins and greatly reducing the time and effort involved.
+Worked on setting up of Artifactory in HA mode, Jenkins, Rocket-Chat, Squid Proxy on Kubernetes in Multizone Multi-master Clusters on IBM Cloud.
+Upgrading tools on Kubernetes using Blue-Green Deployment to ensure zero downtime.
+
+Environment: Kubernetes, JFrog Artifactory, IBM Cloud service, Docker, NextGen ADM.
+
+Education:
+Masters in Information systems Technology.
+
+Certifications:
+AWS DevOps Engineer-Professional
+Contact this candidate

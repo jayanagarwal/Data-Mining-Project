@@ -1,0 +1,121 @@
+ATMAN KILEWALA
+Chicago, IL - ***** 617-***-**** linkedin.com/in/atman-kilewala adij0p@r.postjobfree.com
+EDUCATION
+Master of Science in Game Programming Sept. 2017 - June 2019
+DePaul University, Chicago, IL, USA
+Bachelor of Science in Computer Science Aug. 2013 - June 2017
+Shri Vaishnav Institute of Technology and Science, Indore, M.P, India
+
+SUMMARY OF QUALIFICATIONS
+oMaster’s degree in Video Game Programming
+oSuccessfully programmed a sophisticated graphics Engine from scratch with multiple subsystems.
+oDid Multiple research involving Hologram Generating Engine and Game Controller for games.
+oDemonstrated extreme troubleshooting and problem-solving skills for large scale projects.
+
+WORK EXPERIENCE
+Research & Development Engineer 11/2019 - Present
+CCC Information Services
+oDeveloped new architecture for the Application and performance optimization(4x faster than existing build) .
+oPerformed development for Android (Java) and IOS(Swift) Application with Real-Time Data Analysis.
+oPerformed Post-Processing Data Analysis in Python.
+oDeveloping Real Time Vision-based(ML and AI,AR) Application for Android and IOS.
+oWeb-based Augmented Reality for Android, IOS.
+oDeploying AI models for web based services mobile and desktop platforms.
+
+Genius Squad Tech Support Engineer 05/2018 – 11/2018
+DePaul University (Chicago, IL)
+oSupported Software and hardware troubleshooting for Students and faculty.
+
+GAME DEVELOPMENT EXPERIENCE
+Game Engine - (C++, OpenGL)
+FbxConverter
+oDeveloped an offline converter for loading Fbx Models/3D models into the engine.
+oExtended the converter to add functionality of parsing key frame Animation, skeleton and skin data to support skinned model animation.
+
+2D - 3D & Animation Engine
+oDeveloped the Engine to incorporate 2D and 3D Models in the game/scene with OpenGL support.
+oImplemented a Font System for Displaying custom font text in the game.
+oDeveloped Animation Engine supporting Models Skinning using Skin vertices, bone hierarchy and indices data.
+oImplemented Multiple projection and orthogonal Cameras for 2D and 3D projection with support for frustrum culling.
+
+Shaders & Skinning
+oScripted and Implemented custom Color, Texture and Light Shaders with effects such as fog in OpenGL.
+oImplemented Compute Shader for faster computation of animation data on GPU.
+
+Library
+oDeveloped a Math library which supported Vector, Matrix and Quaternions calculations and some specific operations.
+oCreated a File System to support creation of custom format files with functionalities like updating, data retrieval, packing various different data into a single file or multiple files and improved performance.
+oDeveloped a Memory System by wrapping win32 functions, overloading new and delete operator for user defined allocation and improved efficiency.
+
+HoloEngine (Research) – (C++)
+oDesigned and created a converter that can parse data from a 3D model file for the engine.
+oDeveloped an Engine to generate hologram of the 3D models in air inside a glass Hologram Pyramid placed upside down on the screen so that the reflection and refraction can generate display object inside the pyramid.
+oProgrammed a hand gesture recognition device to be used to control model’s rotation, Scaling and translation.
+
+HoloEngine II (Research) – (C++)
+oExtended the Holo-Engine for Scene graph implemented Skybox, Terrain Generation, incorporated Animation Engine, Audio Engine and Hand Gesture Recognition for Model or character controls, making it a full-fledged Hologram Engine that is also multithreaded (Audio, Hand Gesture, Recognition, And Graphics).
+
+Game Pad Controller (Research) – (C++, C#)
+oCreated and programmed a custom Gamepad Controller From scratch using Arduino that can be used with HoloEngine, Game Engine and any other C++ or C# projects that I have created such as Space invaders, Angry Birds.
+
+Artificial Intelligence for Games - (C#, Unity 3D)
+oImplemented steering behaviors for multiple characters
+oDeveloped AI for 4 characters in a zombie survival game to decide their movement, actions and survive multiple waves of zombies for maximum time.
+oImplemented A-star path finding algorithm to efficiently allow the characters for find the shortest path to location of spawned objects with obstacle avoidance.
+oImplemented behavior tress for characters decision making.
+oImplemented Q-learning algorithm for a separate project to find shortest path to the destination.
+
+Multithreaded Audio Engine - (C++, XAudio2)
+oDesigned and developed a multi-threaded Audio Engine using XAudio2.
+oImplemented functionality to play, Pause, Stop, Change tracks.
+oDesigned and implemented circular queue mechanism to pass playback commands across threads.
+oImplemented command pattern for executing commands received from Game side to the Audio side.
+oImplemented asynchronous load of audio files using new thread (File Thread).
+
+Real Time Software Design using Design Patterns (Space Invaders)- (C#)
+oImplemented object pool to optimize real time performance.
+oDesigned Factories to handle object creation.
+oImplemented Singleton pattern to incorporate managers to efficiently handle sprites, images, texture and game objects.
+oDesigned Iterators to cycle through game objects.
+oImplemented Visitor pattern to check for desired collision.
+oImplemented Strategy pattern to deploy different types of bombs in game.
+oDesigned Flyweight pattern for font system.
+oImplemented Proxies for reuse of base object to create entire 5X11 aliens’ grid.
+oRecreated 1970’s arcade video game Space Invaders from scratch using design patterns, also added Multiplayer mode for 2 players and storing of User High Scores.
+
+Real Time Networking for Games – (C#, Lidgren)
+oDeveloped Client-server model for implementing multiplayer networking in games.
+oImplemented network bases multiplayer functionality in a local multiplayer game.
+oAdded lobby interface for allowing remote player to join the game session and play.
+oChanged game architecture to handle object through queuing system.
+
+AndyWalk - Augmented Reality,IMU Sensor, Java
+oDeveloped an AR application which can detect horizontal plane in the surrounding and place characters on the plane.
+oGenerated Accelerometer and Gyroscope data per second into a csv file in android.
+oDeveloped the system to use accelerometer and Gyroscope to move the character in the AR plane with Tilt and rotation.
+
+TECHNICAL SUMMARY
+
+oProgramming Languages: C++, C#, Swift, Java, Python, HTML, CSS, SQL.
+oOperating systems: Windows, Mac OS.
+oSoftware experience: Visual studio 2019, Unity3D, Gimp, Android Studio, XCode, Eclipse, Perforce.
+oGraphics API: DirectX, OpenGL, AR Core.
+
+OTHER ACADEMIC EXPERIENCE
+
+Physics for Games – (C#)
+oRecreated angry birds using Box2D physics framework with multiple levels.
+oIncorporated all the essential game characters and entities.
+oImplemented Sling Shot functionality, health system, Collision Detection, animation (cycling between different sprites), camera movement with the birds, sound effects.
+oRecreated fruit ninja using box2D to give same user experience as was in the original game using game physics.
+
+Graphics and Rendering Programming- (C++, DirectX 11)
+oDeveloped an API with shader programming (HLSL) for Graphics Rendering, Terrain Generation using Height maps, Fog Generator, Mirror Effect, Lighting and importing external models in the scene.
+
+Optimized C++ - (C++)
+oEnhanced Vector and Matrix math library using SIMD instruction set.
+oDeveloped heap-based memory system for improved data management,
+oImplemented Load-in-place system for quick data initialization.
+oReworked data structure for improved memory usage & data caching by padding and alignment.
+oRefactored 25000 particle system by using above techniques for faster performance and results.
+Contact this candidate

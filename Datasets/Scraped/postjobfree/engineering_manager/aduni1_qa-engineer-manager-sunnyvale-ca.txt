@@ -1,0 +1,147 @@
+Jeffrey Allen Ullmann
+aduni1@r.postjobfree.com
+https://ullmann.com
++1-408-***-****
+*** *. ******** ******
+Sunnyvale, CA 94086
+Summary of Skills
+
+IT Operations Management
+Global Team Management
+User Management
+Licensing
+Security
+Build Systems
+Digital Certificates
+
+Workspot, Inc.
+IT Operations Manager
+December 2016 - June 2022
+Sourced, qualified and managed network contractors for local maintenance.
+Assigned and prioritized tasks of operations team members.
+Initiated and developed new cloud environments in support of the company’s development processes,
+including multiple cloud environments for global sales and support staff.
+Monitored for and investigated security breaches. Remediated when necessary. Recommended and implemented changes in processes.
+Sourced, evaluated, and implemented a secure password management and sharing system, including Single Sign-On and the identification and elimination of potential malicious access or attacks.
+Sourced, purchased, and managed internet domains, cloud based and local name servers. Configured Azure and GCP as redundant name servers for primary domain.
+Created user onboarding and separation process. Worked with HR to coordinate and verify onboarding was SOC compliant.
+Managed users in multiple environments including Active Directory, Azure AD, Google Workspaces/G-Suite, GCP and AWS.
+Created and managed cloud-based Windows AD environment and desktops
+Installed and managed Jira Service Desk ticket tracking system for the company. Created custom workflows and other modifications, as necessary.
+Created and maintained a secure, distributed multi-OS build environment using Jenkins. Single Jenkins Server controlled and reported build status for Windows, MacOS, iOS, and various Linux distributions.
+Developed and managed PKI infrastructure, including signing Windows releases for release, internal CA, certificates for Workspot and customer resources and S/MIME among others.
+Worked with developers to define use internal and customer facing security protocols.
+Identified, set up and managed data center (racks in co-location provider) for hosting servers used by development and QA.
+Investigated email and services security breaches, remediated when necessary, and implemented changes to processes.
+GDPR and SOC IT and user onboarding/offboarding audits.
+Put in place correct certificates for web servers and gateways, digitally signing email, and signing code for release binaries.
+Sourced, purchased and distributed all digital certificates.
+Sourced, purchased and installed certificates from DigiCert and Let's Encrypt to appropriate servers and gateways.
+Teamed with engineering to design system to automatically request and install certificates on gateways.
+Set up secure build system to automatically code sign all Windows binaries.
+Signed all release binaries with Extended Valuation (EV) certificates
+Managed the acquisition and updating of licenses used internally, lifecycle management of infrastructure hardware assets, software assets and software licenses
+DTex Systems
+Senior QA Engineer
+2015 - 2016
+Extended the companies Jenkins build environment to automate initial install tests on all supported Windows platforms (Windows 7, Windows 8.1, Windows 10, both x86 and x64) onto clean OS's.
+Automated signing installers with EV certificates as part of the build process.
+Reduced environment validation and set up time from 2-3 days to 2 hours. This reduced the time necessary to bring customers on-line and allowed more comprehensive testing by developers and QA.
+Scripted multi-step tests for installation, including necessary reboots. This allowed install tests to be triggered by the build process.
+Identified and documented process for customizing DTex Windows msi package for individual customers, including using Windows GPO and third-party enterprise managers.
+Wrote C code and updated the Windows installer package to allow the DTex application to correctly hook into the system during installation.
+Converted manual process of creating an installable 'zip' file to an automated process. While also adding company branding and logo.
+Palo Alto Networks
+Software Quality Assurance Engineer
+2011 - 2014
+In charge of testing network protocol stack (OSI Layers 2 thru 7) as handled by Palo Alto Network devices.
+Reproduced customer specific networking environment to validate fixes of reported problems.
+Verified fixes of patch releases of PANOS before general release. This was for all supported features and protocols.
+Created tests and infrastructure for MFA using TOTP (Time-based One-Time Password) protocol.
+Citrix Systems, Inc.
+Manager Engineering Services
+2006 - 2010
+Managed team of 21 QA engineers in the USA and India across 5 projects. Responsible for providing ongoing training and mentoring of team members, and annual performance reviews. Reviewed group’s workflows, statuses, test cases.
+Oversaw issues found with testing and reported by the fields. and worked with stake holders to prioritize fixes.
+Created and managed multiple Windows client and Linux virtual appliance build systems. Systems automatically built, packaged for delivery, and ran initial smoke tests after code check-in.
+Created and implemented a fully automated (hands off) build environment for both Windows applications, Xen Virtual appliances, and VMware virtual appliances. Builds automatically triggered by developer's check-in, outputs consisted of Windows installer package, Linux RPM, Xen appliance, VMWare appliance, and running virtual machines in the QA lab.
+
+Additional skills
+Tools
+Collaboration Platforms
+Office 365
+Microsoft Teams
+Google Workspaces (G-Suite)
+Environments
+Windows Server
+Windows Desktop
+Active Directory
+Azure AD
+Linux configuration - multiple distributions
+MacOS
+Cloud Platforms
+Azure
+Azure AD
+GCP
+AWS
+Virtualization Environments
+Hyper-V
+VMWare
+Nutanix
+AWS
+
+Multiple issue (bug) tracking systems
+Phone & Conferencing Tools
+Microsoft Teams
+Microsoft Teams Rooms
+Zoom Chat
+Google Meet
+RingCentral
+Slack
+Atlassian
+Jira
+Jira Service Desk
+Status Page
+Internet Protocols
+DNS
+HTTP
+HTTPS
+RDP
+SSH
+IPSEC
+SAML (Security Assertion Markup Language)
+TOTP (Time Based One-Time Password)
+PKI Certificates
+VLAN
+
+SMTP
+IMAP
+POP
+SSL
+S/MIME
+
+Languages and Scripting
+PowerShell
+Wireshark/tcpdump
+JavaScript
+C/C++
+BASH
+Python
+
+Operating Systems Experience
+Windows Desktop
+Windows Server
+MacOS
+iOS
+
+Ubuntu/Debian
+CentOS/Fedora
+FreeBSD
+
+Education
+The Evergreen State College
+Bachelor of Arts - Computer Science
+Student Originated Software
+Golden Gate University
+Postgraduate project management courses
+Contact this candidate

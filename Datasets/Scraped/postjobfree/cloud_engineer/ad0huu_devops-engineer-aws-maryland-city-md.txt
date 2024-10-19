@@ -1,0 +1,148 @@
+Emmanuel Tabi
+202-***-****
+ad0huu@r.postjobfree.com
+https://www.linkedin.com/in/emmanuel-tabi-412716203/
+
+SUMMARY
+A self-motivated Certified AWS DevOps Engineer professional/AWS-certified solution architect with 8 years of experience driving information management strategy in AWS/Linux environment with proficiency in several distributions of Linux (Redhat, Centos, Ubuntu) and AWS services (VPC, VPN, EC2, S3, RDS, ROUTE 53, CDN, IAM, Redis, Memcached, ELB, CloudWatch, CloudFormation, CloudTrail, Trusted Advisor, Transit Gateway, AWS Systems Manager etc.)
+
+Technical Skills:
+Cloud Orchestration: AWS Systems Manager, Terraform, AWS CloudFormation, AWS Lambda, Ansible, AWS SSM Parameter Store,
+Containerization: AWS ECS, AWS EKS, Docker, Kubernete etc
+Security: AWS Guard Duty, AWS Shield, AWS Inspector, etc.
+Monitoring & Event Management: AWS CloudWatch (Events & Logs), AWS SNS, AWS S3, Splunk, New Relic
+AWS Platform: VPN, VPC, Route53, Route 53 Resolver, EC2, ELB, AWS CloudFormation, AWS Lambda, AWS Systems Manager, S3, RDS, SNS, SQS, SES, Trusted Advisor, CloudFront, AWS Auto Scaling, CloudWatch.
+Identity & Access Management: AWS Organization, AWS IAM, Active Directory, OKTA, AWS Workspaces, AWS Secrets Manager, etc
+Image & Patch: AWS SSM Patch Manager, AWS Golden AMI Pipeline, jFrog, Quay
+Self Service: Service Catalog
+Governance & Compliance: AWS Config Rules, AWS Organization, AWS Trusted Advisor, AWS Well Architected Tool, AWS Budgets, AWS License Manager, etc
+Programming Languages: Bash, Shell, Python
+Application Delivery: Github, BitBucket, Jenkins, CircleCI, AWS Code Deploy, AWS Code Pipeline, AWS Code Commit
+Data Protection: AWS Certificate Manager, AWS KMS, Snapshot Lifecycle Manager, AWS Cloud HSM,
+Database: DynamoDB, MongoDB MySQL, Postgres, Amazon Aurora
+Communication: Confluence and Slack, Box
+Bash Processing: Kinesis
+Migration: Datebase Migration Service, Server Migration Service, Cloud Endure, CART
+
+Certifications:
+- Certified DevOps Engineer - Professionals.
+- Certified Kubernetes – Professional
+- AWS Certified Solutions Architect – Associate
+
+EDUCATION:
+Bachelor of Science in Mathematics and Computer Science, University of Buea,
+Cameroon
+
+Professional Experience:
+TCS: DEVOPS/COUD ENGINEER
+Location: Remote
+03/07/2022 – 10/06/2023
+
+Manage Docker orchestration and Docker containerization using Kubernetes.
+Used Kubernetes to orchestrate the deployment, scaling, and management of Docker containers.
+Performed integration of Code quality Analysis Techniques like find Bugs, Cobertura
+with CI tools.
+Experienced in building and deploying Java Applications and troubleshooting the
+build and failures.
+Implemented a continuous Delivery pipeline with Docker and GitHub.
+Used Jenkins pipeline to drive all microservices builds out to the ECR and then deployed
+to Kubernetes, created pods, and managed using Kubernetes.
+Utilized Kubernetes for the runtime environment of the CICD system to build, test and
+deploy.
+Extracted Cost and Usage report from Billing.
+Integrated Cost and Usage report with S3 and created a dashboard using Amazon
+Quicksight and Splunk for visualization.
+Integrated S3 with Athena to run SQL Queries
+Configured EC2 Auto Scaling with Elastic Load balancer in cross-AZ and multi-AZ for high
+availability and fault tolerant.
+Build tools to monitor and alert the high performance and low latency applications.
+Build and support tools to support Production AWS Deployment
+Develops and deploys infrastructure as Code using automation and orchestration tools
+in cloud environments
+Builds CI/CD pipelines while incorporating automated testing and vulnerability scanning
+Integrated Microservices using containerization.
+
+ATOS, Bethesda MD 02/2019 – 03/2022
+AWS Cloud Engineer
+Monitored end-to-end infrastructure using CloudWatch and SNS and SQS for notification
+Used AWS system manager to automate operational tasks across AWS resources
+Project Management -AWS Infra design & application migration
+Used System Manager to automate operational tasks across WK AWS infrastructure.
+Setup AWS Single Sign On (SSO) for on premise Active Director (AD)
+Implemented Jenkins, GitHub and Git for version control, code build, testing and release and CI/CD.
+VPC build with Private and Public Subnet couple with VPNs setup back to on premise datacenter and cooperate offices.
+Able to interpret requirements to develop micro services/integrations in CI/CD.
+Extensive experience and knowledge in API Testing Tools and Deployment Platform.
+Optimized cost through reserved instances, selection and changing of EC2 instance types based on re-source need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling
+Provisioning high availability environment with auto scaling and Elastic Load Balancer
+Configured CloudWatch alarm rules for operational and performance metrics for our AWS resources and applications
+Setup and configured logs files for detail monitoring and alerts notification when changes are made.
+Monitoring from end-to-end view of runtime systems CPU, bandwidth, disk space and log files using New Relic
+Deployed and configured infrastructure using Terraform and Ansible Installed and setup Apache Web servers and DB Servers on Linux Based EC2 instances, created the DB Server environments (MYSQL).
+Performed DB migrations: from on premise to (AWS) RDS MSQL and others Applications Servers Migrations using Database Migration Service (DMS), CloudEndure and SCT
+Administer AWS Cloud Security – Allowing access to service and users with IAM, Security Group, Network Access Control List (NACL), MFA, KMS
+Comprehensive knowledge of security compliance and security control
+Set up and maintain the monitoring infrastructure, analyze system bottlenecks, issues/bugs and solve them in Real-time to maintain quality of product
+Providing AWS operations and deployment guidance and best practices throughout the lifecycle of a project using VPC, Elastic Compute Cloud, EBS, Auto-scaling, ELB, etc.
+Contributing in the DevOps team to maintain and build out our infrastructure and servers currently operating on AWS platforms.
+Configuration of Continuous Integration (CI) and Continuous Delivery (CD) using Code Pipeline and Code Deployment for automation.
+Implemented security best practices in AWS including multi factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs
+Developed and documented security guardrails for AWS Cloud environments
+Built custom images through docker server, docker compose with multiple local containers and created production grade workflows and a continuous application workflow for multiple images
+Implemented multiple container deployments to AWS and maintained sets of containers with deployments
+
+LENOVO: DEVOPS/AWS CLOUD ENGINEER
+Houston, TX
+Jan 2017 – 02/2019
+
+Configured CI/CD Pipelines using Jenkins, SonarQube and Nexus from GitHub repository.
+Configured CI/CD Pipelines using Code Build, Code Commit and Code Deploy.
+Integrated Microservices using EC2 Instances and containerization.
+Maintain existing CI/CD Pipeline updating the config file as needed.
+Setup a Blue Green Deployment and Rolling Update.
+Implemented GitHub and Git as source code management and version control.
+Managed provisioning of AWS infrastructures using Terraform, CloudFormation.
+Migrated high availability webservers and databases to AWS EC2 and RDS with minimum or no downtime.
+Used Ansible for configuration management and EC2 creation.
+Lead in EC2 creation using Ansible Tower.
+Architect a secure infrastructure with a client VPN Endpoint to allow users to access resources in AWS.
+Designed secure, cost-optimized, highly available and fault-tolerant architecture.
+Implemented IAM best practices and role-based access control.
+Design for high availability and business continuity using self-healing-based architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB health checks, Auto scaling and other disaster recovery models.
+Developed a Lambda that monitors instances that did not comply with company standard.
+
+AAC: AWS Solution Architect
+Huston, TX
+Jan 2014 – Jan 2017
+
+Implementing IAM best practices and role- based access control.
+Designed for high availability and business continuity using self-healing-based
+architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB
+health checks, Auto scaling and other disaster recovery models.
+Developed baseline VPC and Network design including leveraging VPC Peering and
+Transit Gateway.
+Implemented AWS Organization to centrally managed multiple AWS accounts including
+consolidated billing and policy-based restrictions.
+Made use of the various S3 Storage classes-based customers need.
+Migrated applications to AWS cloud environment using Cloud Endure.
+Used AWS cloud services to launch Linux and windows machines, created security
+groups and bootstrap user data to install packages at run time.
+Developed LLDs for migrating various applications including network sizing, instance
+types, naming convention, tags etc.
+Managed provisioning of AWS infrastructures using CloudFormation.
+Setup and configured logs files for detail monitoring and alerts notification.
+Implemented security best practices in AWS including multi factor authentication,
+access key rotation, role-based permissions, enforced strong password policy,
+configured security groups and NACLs, S3 bucket policies, etc.
+Supports the Enterprise sales team by acting as a technology liaison with the customer in a pre-sale support capacity
+Develop value-add technology solutions with network services for potential customers
+Present features, benefits and value of the Shaw Business Solution in customer engagements
+Integrate qualifying and evaluating tools/resources into opportunity lifecycle
+Contribute to RFP, RFI and tender requests with engineering/design specifications, product and service descriptions
+Capture conceptual design of access, transport, data, voice and video network architectures that meet customer requirements
+Collaborate with Engineering, Sales, Operations, Marketing and Product Development teams, to manage customer expectations of technical solutions and future service requirements
+Various other duties as required
+Deliver network architecture drawings/diagrams and equipment CAPEX for qualified sales opportunities –
+Microsoft Visio Software proficiency is an asset.
+Maintain ongoing relationships with technical contacts of key Enterprise accounts
+Contact this candidate

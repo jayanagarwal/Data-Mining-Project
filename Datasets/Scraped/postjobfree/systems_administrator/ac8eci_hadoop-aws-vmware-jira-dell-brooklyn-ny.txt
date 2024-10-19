@@ -1,0 +1,144 @@
+Alexander Fridman
+
+Telephone: 917-***-****
+Email: ac8eci@r.postjobfree.com
+http://www.linkedin.com/in/sunkroot
+
+SUMMARY
+Senior Systems Administrator, Systems integration specialist and Systems Engineer with experience including technology management, interactive team building, expert knowledge of information technologies, web application/software support in publishing and financial fields.
+PROFESSIONAL PROFILE
+Highly proficient IT professional with proven analytical abilities and organizational skills. With over 14 years of project experience involving leadership and consulting on object-oriented information systems, enterprise application integration, hardware and software deployment processes, customer interaction, and user- end organization. Well rounded, communicative, creative technical problem-solver. Fast learner who has been consistently cited for ability to achieve rapid comfort level in new environments and quickly develop optimal solutions. Innovative and self-motivated tutor, trainer, team-builder and technical lead. Rigorous, quality contributor with solid analytical and writing skills.
+SKILLS:
+O/S’s: Solaris 2.5.1- 8, HP-UX 11, CentOS / Red Hat Enterprise
+Scripting Languages: Shell scripting (bash/ksh/sh/csh)
+Databases: Corroborated with Oracle / MySQL DBAs with various systems requests.
+Software / Tools: IBM Apache, Apache HTTPD, IBM Websphere, Legato Networker, Remedy,
+VMware Infrastructure 3.5, Sitescope, Dell DRAC, Team Track, HP Openview, ILO 2/3, Puppet, Rabbitmq, Zenoss, nagios, Splunk, Jenkins, Lucene Solr, Hadoop, 3PAR, HP XP, Netapp, ssh, sftp, rcp, rsync, Quest vasd and Microsoft Active Directory.
+
+04 / 2015 – 12 / 2018
+Thomson Reuters – reuters.com NYC
+Systems Engineer (full time)
+
+Since 1850, we have experimented, invented, and created content and news solutions to become the world’s leading international news agency. Always at the forefront of real-time breaking news and high-impact global multimedia content, we are constantly innovating our products and services to meet your business needs.
+Participated in migration from Physical hardware in US / UK to AWS cloud infrastructure.
+Management of 400+ Linux Servers with Multiple websites in Heterogeneous environments.
+Worked on Amazon Web Services (EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53, CloudFormation, etc.).
+Creating/Managing AMI/Snapshots/Volumes, Upgrade/downgrade AWS resources (CPU, Memory, EBS)
+Log Analysis, Maintaining documents of production server error log’s reports.
+Monitor Production Server Health of different parameters (System Load, Swap Memory, Hard disk, Apache requests) via Nagios
+Investigation and Recover of Production Server Issues like as Server load (Parsing, query stuck).
+Scheduling jobs using crontab, Create SWAP Memory
+Working within SLA to take ownership, escalate to resolve
+
+08 / 2014 – 04 / 2015
+Integral Ad Science, NYC
+Systems Administrator / DevOps (full time)
+
+Global media valuation platform that enables digital buyers and sellers to assess the value of every ad opportunity across channels and screens, and make informed decisions that maximize ROI.
+Server deployment utilizing foreman and puppet to streamline and standardize server farm.
+Open LDAP administration for authenticating new and existing employees.
+Administration of company github repository to allow offshore team corroborate.
+Added / modified / revoked users permissions for MySQL databases.
+Participated in Cloudera Hadoop CDH4 to CDH5 migration via Cloudera Manager Admin Console.
+Administration of Jira ticketing system and Confluence corroboration tools.
+Deployment of code via tentakel administrator automation tool.
+Administered nginx, tomcat and apache web services.
+Server monitoring via zabbix and setup triggers for new services.
+Worked with hardware vendors (PSSC Labs & Silicon Mechanics) to resolve various hardware
+Issues on a timely manner with least disruption to business.
+Participated with on call pager rotation to resolve hardware / software issues.
+Recently migrated NY Data Center to Secaucus NJ.
+
+03 / 2011 – 04 / 2014
+ActiveHealth Management, NYC
+Senior Systems Engineer (consultant)
+
+Active Health Management is an experienced leader in providing population health management solutions that are designed to help our customer’s nationwide support health outcomes and manage health care costs.
+
+Performed support and deployments during off hours which included patching and software upgrades to minimize customer impact.
+Worked with SAN storage from HP 3Par, XP and Netapp (NFSv4) for mounting via LVM on dev / QA / Pre-Prod / Prod Systems.
+Work with various vendors to resolve software, hardware and OS production performance issues to minimize downtime.
+Part of the team during upgrade of Oracle 10 to 11g Rac server clusters from Infrastructure group.
+Responsible for solutions planning, executing and closing medium to large projects deemed vital by various business units.
+Responsible for providing disaster recovery planning and execution for the Linux environments.
+Initiated consulting and collaboration meetings with other departments to provide better service and improve SLA’s.
+Deployed Splunk to enable Development in their application monitoring and troubleshooting of applications.
+Administration of Open Source Zenoss monitoring software based on snmp protocol which provided data for real time metrics on the Linux based server infrastructure.
+Extensive work with VMware ESX host to deploy new Vm’s, cloning, snapshots, storage and moving VM’s within different domains.
+Installation of MySQL database, replication, backup via mysqldump and restore.
+Deployed Apache Lucene / Solr Java based Search applications, Jenkins Java based integration tool and Enterprise Puppet for configuration files deployment.
+Implemented Hadoop with Map Reduce cluster to minimize response time for queries in our proof of concept environment.
+
+02 / 2010 – 03 /2011
+NYSE Euronext, NYC
+Unix Administrator / Systems Integration Specialist
+The oldest and largest stock exchange in the U.S., located on Wall Street in New York City. The NYSE is responsible for setting policy, supervising member activities, listing securities, overseeing the transfer of member seats, and evaluating applicants. I came onboard to help with migrating NY based Data Center to Mahwah NJ also Development environment to Chicago.
+Developed multiple shell scripts to automate system administration tasks, monitor / parse logs, collect statistics, check service availability and create backups.
+Involved in migrating NYSE and NYSE Amex cash equities from the SuperDOT® (SDOT) databases to a newly implemented Super Display Book (SDBK) database for User Acceptance Test (UAT) environment.
+Responsible for CBS (Consolidated Brokerage systems) with configuration, updates, troubleshooting and customer support.
+Implemented CTS (Consolidated Trade Systems) application, performed software release updates
+And resolved library conflicts, troubleshoot network problems.
+Implemented CQS (Consolidated Quote Systems) application, performed software release updates
+And resolved library conflicts, configured front end interface with Tomcat Application Server.
+Performed data analysis to troubleshoot data flow issues.
+Installed Nagios 3.2.3 to monitor the UAT Environment.
+Update of HP firmware and ILO configuration.
+OS Software updates / patching via puppet.
+Was part of the team to migrate UAT environment from Metrotech to Chicago, upgraded following applications from RedHat 4.7 to version 5.3.
+
+06/2000 – 10/2009
+Dow Jones & Company, Inc., Princeton, NJ
+Global Technology Services,
+Sr. UNIX Systems Administrator Consultant
+The Wall Street Journal is an American English-language international daily newspaper published by Dow Jones & Company, a division of News Corporation, in New York City, with Asian and European editions. The Journal is the largest newspaper in the United States by circulation. The Journal primarily covers U.S. and international business, and financial news and issues. I joined this great company to work on wsj.com as Systems Administrator to maintain and improve its web properties including wsj.com and print.wsj.com. It is very hard to summarize all the work I’ve done, but here are some of the highlights.
+Responsible for production support of enterprise business applications, 24x7 supports of LINUX / Solaris based servers.
+Worked as part of the team to transform the wsj.com environment from Solaris to Redhat platform.
+Analyze, log, track and resolve complex software and hardware matters of significance pertaining to networking connectivity issues, server, and application to meet business needs.
+Recommend resolutions to complex matters of significance and coordinate the implementation of the approved course of action.
+Coordinate and monitor troubleshooting to isolate and diagnose common system problems: document system events to ensure continuous functioning. Recommend course of action and implement as approved.
+Responsible for capacity planning, including allocating storage, providing hardware and software redundancy, and planning future expansion requirements.
+Work on various departmental projects parallel with daily tasks and responsibilities.
+Write status reports, technical diagrams, and flowcharts.
+Conduct performance monitoring for UNIX/Linux workstations, servers, and peripherals.
+Utilized standard corporate tools to record changes, service requests, and problem activities for tracking purposes.
+Coordinate hardware and software installations and upgrades to ensure work is performed in accordance with company policy.
+Coordinate testing, upgrade and configuration of system files and services. Ensure changes are in accordance with appropriate operating procedures.
+Monitor, troubleshot, and resolved issues involving operating systems.
+Perform hardware installation and maintenance of workstations, servers, and other supporting hardware.
+Implement and documented systems for high-volume production environment.
+Perform backup and disaster recovery operations.
+Wrote shell scripts for automation and information gathering.
+Installed Red Hat Advanced / Enterprise Linux on Dell / IBM and HP servers.
+Upgraded from Redhat 3 to Redhat 4 and to Redhat 5.
+Use LVM extensively for creating LUNs, building volume groups, and creating and maintaining file systems.
+Work with Oracle DBAs to bring databases up and down, execution of scripts, and problem resolution.
+Check the server and software and update Patch level as and when required.
+Responsibilities to also include patch analysis, performance monitoring and analysis, and system security.
+Monitor the file systems and CPU load for better performance.
+Detect and correct the file system errors.
+Replace failed drives on servers and storage arrays.
+Work with hardware and software vendors to work out complex issues.
+Keep a track of the appropriate software and upgrade the software packages.
+Perform occasional off-hours and remote support.
+
+1997 - 2000
+AIG Inc., Wilmington, DE
+Software Engineer / Systems Analyst
+AIG history dates back to 1919, when Cornelius Vander Starr established an insurance agency in Shanghai, China. Starr was the first Westerner in Shanghai to sell insurance to the Chinese, which he continued to do until AIG left China in early 1949—as Mao Zedong led the advance of the Communist People's Liberation Army on Shanghai. Starr then moved the company headquarters to its current home in New York City. The company went on to expand, often through subsidiaries, into other markets, including other parts of Asia, Latin America, Europe, and the Middle East.
+Reviewed, analyzed and modified programming systems including coding, testing, debugging and documenting programs and maintained program version/revision control, created releases and release notes.
+Support production clients by identifying and researching technical problems, coding, testing and offering solutions on reported issues, delivering patches and installation instructions.
+Unit tested of applied fix/patch releases, logging errors, applying standard code to non-modified applications and modified applications, monitored software defect tracking process for new releases and upgrades, which includes prioritizing defects, assigning defects, verifying of calculation errors.
+Provide customized reports, defining defects on all tested applications and reports.
+Developed flow charts representing normal business flow (order of transactions processing).
+Document the Test Requirements Hierarchy for regression test requirements based on business rules and GUI system requirements.
+Develop test cases corresponding to the test requirements in order to maximize verification coverage of system variables.
+Participated in executing functionality test cases representing business cycles, using white/black box testing.
+
+EDUCATION AND TECHNICAL TRAINING:
+
+Attended Queensborough Community College, NY
+No degree obtained.
+
+Personal: Fluent in English and Russian.
+Legal Status: US Citizen
+Contact this candidate

@@ -1,0 +1,224 @@
+Amin Mohammadi
+Big Data/Hadoop/Cloud Engineer
+Gmail: adxgy1@r.postjobfree.com Phone: 470-***-****
+
+Professional Summary
+
+•13+ years of overall IT experience and 10+ years in the Big Data space, with roles including Big Data Developer, AWS Cloud Data Engineer, Hadoop Develop, and Senior Big Data Developer.
+•Proven hands-on experience in Hadoop Framework and its ecosystem, including but not limited to HDFS Architecture, MapReduce Programming, Hive, Sqoop, HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark DataFrames, Spark Datasets, etc.
+•Program UDF functions in Python or Scala.
+•Experienced in Amazon Web Services (AWS), and cloud services such as EMREC2, S3, EBS, and IAM entities, roles, and users.
+•Ands-on with Hadoop-as-a-Service (HAAS) environments, SQL, and NoSQL databases.
+•Apply in-depth knowledge and skill to incremental imports, partitioning, and bucketing concepts in Hive and Spark SQL needed for optimization.
+•Collect log data from various sources and integrate it into HDFS using Flume, staging data in HDFS for further analysis.
+•Collect real-time log data from different sources like web server logs and social media data from Facebook and Twitter using Flume, and store in HDFS for further analysis.
+•Import real-time logs to Hadoop Distributed File System (HDFS) using Flume.
+•Design and build scalable Hadoop distributed data solutions using native, Cloudera and Hortonworks, Spark, and Hive.
+•Implement PySpark and Hadoop streaming applications with Spark Streaming and Kafka.
+•Handle large datasets using partitions, Spark in-memory capabilities, broadcasts, and join transformations in the ingestion process.
+•Administer Hadoop clusters (CDM).
+•Skilled in phases of data processing (collecting, aggregating, moving from various sources) using Apache Flume and Kafka.
+•Drive architectural improvement and standardization of the environments.
+•Expertise in Spark for reliable real-time data processing capabilities to Enterprise Hadoop.
+•Extend HIVE core functionality using custom User Defined Functions (UDF), User Defined Table-Generating Functions (UDTF), and User Defined Aggregating Functions (UDAF) for Hive.
+•Apply Spark framework on both batch and real-time data processing.
+•Hands-on experience processing data using Spark Streaming API with Scala.
+•Document big data systems, procedures, governance, and policies.
+
+Technical Skills Summary
+
+APACHE HADOOP
+Apache Hadoop, Apache Hive, Apache Kafka, Apache Oozie, Apache Spark, Apache Flume, Apache Tez
+
+DISTRIBUTIONS
+Hortonworks, Cloudera, MapR, EMR
+
+DATA PROCESSING (COMPUTE) ENGINES
+Apache Spark
+
+OPERATING SYSTEMS
+Windows, Unix/Linux, Ubuntu
+
+FILE FORMATS
+Parquet, Avro, JSON
+SCRIPTING
+Python, PySpark, Scala, HiveQL, XML, FTP, MapReduce,
+UNIX, Shell scripting, LINUX
+FTP
+
+DATA VISUALIZATION TOOLS
+QlikView, Tableau, Kibana
+
+DATABASES
+Microsoft SQL Server, Apache Cassandra, Amazon Redshift, DynamoDB, Apache HBase, Elasticsearch
+
+SOFTWARE
+Microsoft Project, VMWare, Microsoft Word, Excel, Outlook, PowerPoint, Technical Documentation Skills
+
+Cloud: AWS, GCP (Google Cloud Platform)
+
+Professional Experience
+
+Equifax – Alpharetta, Georgia
+Cloud & Data Engineer - (Feb 2022 – Present)
+Environment: GCP
+Technologies: Python, GoLang, BigQuery, Airflow, Jira, Aha, JupyterHub,
+Project Synopsis: Responsible for maintaining, debugging, testing, and validating a specific product at Equifax. Codes were legacy codes and written down in Python. I also automate some testing and validation tasks with Apache Airflow. Designing and implementing a Schema in Avro and BigQuery. Optimizing some queries in BigQuery. Analyzing data in the Looker platform.
+•Wrote all code for security purposes and executed the same in GCP, not locally on your computer.
+•Assisted with assessing the migration cost to AWS and re-writing the code in Golang.
+•Automated testing and validation tasks with Apache Airflow
+•Designed sets of testing and validation tasks in Postman API
+•Challenges of projects were:
+•Re-wrote the legacy codes which were old and unclear.
+•Migrated the Python code from 2 to 3
+•Used JIRA, and Aha to create a front-door ticket and kept track of them.
+•Made data transfer in GCP to another repository in GCP
+•Successfully designed a brand-new pipeline for integration between two services.
+•Designed API calls to extract information as well as a schema in Avro, and Big Query
+•Designed code for testing and validation purposes
+•Implemented the changes needed in Python
+•Managed projects with Aha
+•Involved in daily standup with the crew for resolving the issue we were facing regularly
+•Conducted a GAP Analysis between two different data sources to fill in any discrepancies
+•Used Python codes that automatically produced some random tests, including dummy tests, executed and compared the result, and ultimately, got a coverage percentage
+•Designed a naming convention to name the features so they would be mathematically intact, as well as readable
+
+Unilever – Englewood Cliffs, NJ
+Senior Big Data Engineer - (June 2020 – Jan 2022)
+Unilever manufactures, distributes, and markets leading brand-name personal care and consumer goods products such as laundry detergents, shampoos, soaps, fragrances, body washes, ice creams, oils, mayonnaise, spreads, sauces, and tea.
+
+•Installed and configured various Big Data ecosystem tools such as Elastic Search, Logstash, Kibana, Kafka, and Cassandra.
+•Installed and configured Tableau Desktop to connect to the Hortonworks Hive Framework (Database), which contained the bandwidth data from the locomotive through the Hortonworks JDBC connector for further analytics of the data.
+•Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+•Used Kafka for schema changes in the data stream.
+•Developed new Flume agents to extract data from Kafka.
+•Created a Kafka broker in structured streaming to get structured data by the schema.
+•Created log monitors and generated visual representations of logs using ELK stack.
+•Created structured data from a pool of unstructured data using Spark.
+•Developed Spark Streaming applications to consume data from Kafka topics and insert the processed streams into HBase.
+•Applied advanced procedures such as text analytics and processing using in-memory computing capabilities such as Apache Spark written in Scala.
+•Used Scala and Spark SQL for faster testing and processing of data.
+•Used Spark RDDs and Scala to convert Hive/SQL queries into Spark transformations.
+•Documented requirements, including the available code which should be implemented using Spark, Hive, HDFS, and Elastic Search.
+•Implemented Spark using Scala and utilized DataFrames and Spark SQL API for faster processing of data.
+•Established a continuous discretized DStream of data with a high level of abstraction with Spark Structured Steaming.
+•Moved transformed data to Spark cluster where the data is set to go live on the application using Kafka.
+•Analyzed and tuned the Cassandra data model for multiple internal projects and worked with analysts to model Cassandra tables from business rules and enhance/optimize existing tables.
+•Designed and deployed new ELK clusters.
+•Implemented CI/CD tools Upgrade, Backup, and Restore.
+•Created data pipelines to ingest data from local Rest APIs using Kafka and Python.
+•Migrating data stored in old legacy systems that used batch ETL jobs to load data to streaming pipelines that stream real-time events and store them in DataMart.
+•Migrated SQL database to Azure Data Lake
+•Reviewed functional and non-functional requirements on the Hortonworks Hadoop project and collaborated with stakeholders and various cross-functional teams.
+•Customized Kibana for dashboards and reporting to provide visualization of log data and streaming data.
+•Developed Spark applications for the entire batch processing by using Scala.
+•Developed Spark scripts by using Scala shell commands as per the requirement.
+•Defined the Spark/Python (PySpark) ETL framework and best practices for development.
+•Versioned Git and set up a Jenkins CI to manage CI/CD practices.
+•Built Jenkins jobs for CI/CD infrastructure from the GitHub repository.
+•Maintained ELK (Elastic Search, Kibana) and wrote Spark scripts using Scala shell.
+
+Fluor Corporation – Irving, TX
+Hadoop Developer - (November 2018 – June 2020)
+Fluor Corporation is an engineering and construction firm that provides services through its subsidiaries in the following areas: oil and gas, industrial and infrastructure, and government. and power.
+
+•Applied understanding/knowledge of Hadoop architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node, and Map Reduce programming paradigm.
+•Developed DBC//ODBC connectors between Hive and Spark for the transfer of the newly populated data frame.
+•Developed scripts for collecting high-frequency log data from various sources and integrated it into HDFS using Flume, and staged data in HDFS for further analysis.
+•Worked on GCP cloud on data proc cluster, Bigtable, BigQuery, pub-sub, and composer (airflow managed service), cloud storages, and data migration service (transfer data from on-premise to cloud GCP)
+•I worked with AWS EC2, S3, RDS, DynamoDB, EMR, and Lambda services initially in the project. Later I worked on migration to GCP.
+•Imported data from DB2 to HDFS using Apache Nifi in the Azure cloud.
+•Configured and deployed production-ready multi-node Hadoop services Hive, Sqoop, Flume, and Oozie on the Hadoop cluster with the latest patches.
+•Created Hive queries to summarize and aggregate business queries by comparing Hadoop data with historical metrics.
+•Loaded ingested data into Hive Managed and External tables.
+•Wrote custom user define functions (UDF) for complex Hive queries (HQL).
+•Wrote Hive Queries for analyzing data in Hive warehouse using Hive Query Language.
+•Implemented parser, query planner, query optimizer, and native query execution using replicated logs combined with indexes, supporting full relational KQL queries, including joins.
+•Set the Spark job to process the data to Redshift and EMR HDFS(Hadoop).
+•Fixed Hive-to-Hive connection using Python and Spark to optimize performance.
+•Converted Hive/SQL queries into Spark transformations with Spark RDDs and Python.
+•Designed and developed ETL workflows using Python and Scala for processing data in HDFS.
+•Developed distributed query agents for performing distributed queries against shards.
+•Configured Kafka producer with API endpoints using JDBC Autonomous REST Connectors.
+•Configured a multi-node cluster of 10 Nodes and 30 brokers for consuming high-volume, high-velocity data.
+•Wrote producer/consumer scripts to process JSON responses in Python.
+•Wrote Queries, Stored Procedures, Functions, and Triggers using SQL.
+
+W. R. Berkley Corporation – Greenwich, CT
+AWS Cloud Data Engineer - (August 2016 – November 2018)
+W. R. Berkley Corporation is a commercial lines property and casualty insurance holding company that operates commercial insurance businesses in multiple countries.
+
+•Installed, configured, and managed AWS Tools such as CloudWatch and ELK for resource monitoring.
+•Installed Kafka, Zookeeper, servers, partitions, and topics.
+•Created AWS Cloud Formation templates used for Terraform with existing plugins.
+•Created Hive tables, loaded data, and wrote Hive queries.
+•Designed Logical and Physical data modeling for various data sources on AWS Redshift.
+•Implemented AWS IAM user roles and policies to authenticate and control access.
+•Implemented AWS IAM user roles and policies to authenticate and control access.
+•Implemented AWS Lambda functions to run scripts in response to events in the Amazon Redshift table or S3.
+•Developed Flume agents to extract data from Kafka Logs and other web servers into HDFS.
+•Automated AWS components such as EC2 instances, ELB, RDS, Lambda, Security groups, and IAM through AWS Cloud Formation templates.
+•Provided proof of concepts converting JSON data into Parquet format to improve query processing by using Hive.
+•Used Spark DataFrame API over the Cloudera platform to perform analytics on Hive data.
+•Collaborated on requirement gathering for the data warehouse.
+•Performed streaming data ingestion process using PySpark.
+•Implemented AWS IAM user roles and policies to authenticate and control access.
+•Specified nodes and performed the data analysis queries on Amazon Redshift clusters on AWS.
+•Implemented security measures AWS provides, employing key concepts of AWS Identity and Access Management (IAM).
+•Utilized HiveQL to query data to discover trends from week to week.
+•Wrote shell scripts to automate workflows to pull data from various databases.
+•Used Cloudera Manager for installation and management of single-node and multi-node Hadoop clusters.
+•Wrote shell scripts for automating the process of data loading.
+•Performed upgrades, patches, and bug fixes in Hadoop in a cluster environment.
+•Evaluated and proposed new tools and technologies to meet the needs of the organization.
+
+Schneider National, Inc. – Green Bay, WI
+Big Data Engineer – (June 2014 – August 2016)
+Schneider National, Inc. is a provider of truckload, intermodal, and logistics services. Schneider's services include regional, long-haul, expedited, dedicated, bulk, intermodal, brokerage, cross-dock logistics, pool point distribution, supply chain management, and port logistics.
+
+•Collected and aggregated large amounts of log data using Apache Flume and staging data in HDFS for further analysis.
+•Ingested RDBMS data to Hadoop ecosystem HDFS using SQOOP by writing SQOOP jobs.
+•Used Apache Hive to query and analyze the data.
+•Created Hive External tables and loaded the data into tables and query data using HQL.
+•Developed scripts to automate workflow processes and generate reports.
+•Developed POC using Scala, deployed on the Yarn cluster, and compared the performance of Spark with Hive and SQL.
+•Configured and deployed production-ready multi-node Hadoop clusters with services such as Hive, Sqoop, Flume, and Oozie.
+•Wrote producer /consumer scripts to process JSON responses in Python.
+•Evaluated various data processing techniques available in Hadoop from various perspectives to detect aberrations in data.
+•Performed data profiling and transformation on the raw data using Python and Oracle.
+•Exported analyzed data to relational databases using Sqoop.
+
+Chevron, San Ramon, CA
+Data Engineer - (July 2012 – May 2014)
+Chevron USA, Inc. provides energy services. The Company offers fuels, motor oil, fuel additives, base oils, chemicals, natural gas, lubricants, and other related services.
+•Designed and developed scalable and efficient data processing systems using technologies such as Hadoop, Spark, and other distributed computing frameworks to handle and process vast amounts of data.
+•Developed and maintained data pipelines to extract, transform, and load (ETL) data from multiple sources into the data lake or data warehouse.
+•Understood the data requirements, designed efficient data workflows, and implemented robust data ingestion and transformation processes.
+•Worked closely with data scientists, analysts, and business stakeholders to understand their data requirements and design appropriate data models and schemas
+•Designed and optimized data storage structures to support efficient data retrieval and analysis.
+•Implemented data validation and cleansing processes to maintain data accuracy and integrity, established data governance frameworks, and enforced data quality standards and best practices.
+•Monitored and optimized the performance of data processing systems by identifying and resolving performance bottlenecks, optimizing data storage and retrieval, and fine-tuning query performance to ensure efficient and fast data processing.
+•Implemented and maintained data security measures and ensure compliance with relevant regulations and policies such as data encryption, access controls, and data masking techniques to protect sensitive data.
+•Collaborated with data scientists, analysts, and other stakeholders to understand their data requirements and provide data engineering solutions, and ensured the smooth operation of data processing systems.
+•Documented the design, implementation, and maintenance of data processing systems, data pipelines, and data models.
+•Implemented solutions to optimize data engineering workflows, increase efficiency, and drive innovation in data processing and analysis.
+
+Old Dominion Freight Line, Inc. – Thomasville, NC
+Linux Systems Administrator – (July 2010 – June 2012)
+Old Dominion Freight Line, Inc. (ODFL) is an American regional, inter-regional, and national less-than-truckload shipping (LTL) company. I
+
+•Worked with the DBA team for database performance issues, network-related issues on LINUX/UNIX servers, and with vendors regarding hardware-related issues.
+•Analyzed and monitored log files to troubleshoot issues.
+•Installed, configured, monitored, and administrated Linux servers.
+•Configured and installed RedHat and Centos Linux Servers on virtual machines and bare metal installations.
+•Wrote Python scripts for automating build and deployment processes.
+•Utilized Nagios-based open-source monitoring tools to monitor Linux Cluster nodes.
+•Created users, managed user permissions, maintained user and file system quotas, and installed and configured DNS.
+•Monitored CPU, memory, hardware, and software including raid, physical disk, multipath, filesystems, and networks using the Nagios monitoring tool.
+•Performed kernel and database configuration optimization such as I/O resource usage on disks.
+•Created and modified users and groups with root permissions.
+•Administered local and remote servers using SSH daily.
+
+Education
+Bachelor’s Degree - Electrical Engineering: Telecommunications - Isfahan University of Technology
+Contact this candidate

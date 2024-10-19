@@ -1,0 +1,196 @@
+GANGA RAMYA SESHADRI adi0de@r.postjobfree.com
+: +1-343-***-****
+Kanata, ON
+Professional Summary:
+Around 6 plus years of focused experience in Information Technology with a strong background in Data warehousing and Data Analytics.
+Involved in full lifecycle of various projects, including requirement gathering, system designing, application development, enhancement, deployment, maintenance, and support.
+Expert in Coding Oracle SQL, Teradata SQL, BTEQs, Fastload, Multiload, Performance Tuning and Macros.
+Expertise in Query Analyzing, performance tuning and testing.
+Experience in writing UNIX korn shell scripts to support and automate the ETL process.
+Very good understanding of SMP and MPP architectures.
+Technical expertise in ETL methodologies, Informatica 8.6 - Power Center Client tools – Mapping Designer, Workflow Manager/Monitor.
+Developed complex Mappings, used transformations such as Lookup, Router, Filter, Expression, Aggregator, Joiner, Stored Procedure and Update Strategy.
+Knowledge of various data modeling techniques: Star Schema and Slowly Changing Dimension (SCD) concepts,
+Familiarity with Rally and Agile methodology.
+Familiarity with Hadoop concepts like Hadoop Architecture and MapReduce and technologies like Pig and Hive.
+Knowledge of Pandas, SciPy and NumPy data analysis related Python libraries.
+Good Communication, interpersonal and problem-solving skills.
+Team player, Motivated, able to grasp things quickly with good analytical skills. Comprehensive technical, oral, written and communicational skills.
+Committed to quality work and deliverables.
+
+Education Qualifications:
+Completed Bachelor of Engineering in Information Technology from Amrita School of Engineering in the Year 2009 with a CGPA of 7.68 on 10.
+Currently pursuing Online Master’s in Computer Science from Georgia Institute of Technology(OMSCS).
+
+Technical Summary:
+
+ETL Tools
+Teradata SQL Assistant, BTEQ, Fastload, Multiload, Informatica Power Center 8.6
+Languages
+SQL, UNIX Shell Scripting, Python
+Databases
+Oracle 11g, Teradata
+BI Tools
+Business Objects-WEBI,Tableau
+Course Related Project (Master’s in computer science)
+Customer : S&E’s Technology Superstore
+Period : Jan 2019 to May 2019
+Tools/Technologies : MySQL, Python Flask
+
+Brief description
+I worked on implementing a Datawarehouse for an up-and-coming computer and electronics store called S&E’s Technology Superstore. I have been tasked with designing and building a data warehouse used by the S&E executive team to determine how S&E stores are doing and make major decisions about the future of the company. The main goal was to design the database schema for S&E’s Technology Superstore data warehouse and attach it to a rudimentary user interface. Sample data was provided by S&E’s data security team which had around 700,000 records across the schemas of Sales, Price, Stores and Products.
+
+Responsible for:
+Analysis Phase: Prepared the Information Flow Diagram that depicted the inputs, outputs and tasks as a part of Analysis phase.
+Specification: Worked on modeling the EER (Extended Entity Relational Diagram) and documented the tasks or application that need to run on the database represented by the EER.
+Design: Translated the EER Diagram and designed the relational schema. Also worked on the tasks that represented what needs to happen on the EER Diagram and represented them in an Abstract Code, accessing the RDBMS by the schema.
+Implementation: Created a database using a specific implementation platform, MySQL and then generated reports as per the requirement by embedding the SQL using Python Flask.
+Major Corporate Assignments
+Assignment 1:
+
+Customer : Apple Inc
+Period : May 2016 to September 2016
+Tools/Technologies : Teradata/Informatica
+Role : ETL Analyst/Developer
+Company : Exilant Technologies
+Location : Sunnyvale,California
+
+Brief description
+The project involved in providing a single version of truth for the business to monitor product performance and implement improvements accordingly. This enables Apple to evaluate the performance of Apple products based on cost involved to support contact center services for several channels, i.e., calls, chat, email, and retail.
+Responsible for:
+Worked on Change Requests relating to performance tuning of scripts running in production.
+Worked with FASTLOAD, TPUMP and BTEQ utilities of Teradata for faster loading and to improve the performance.
+Used TPT utility to copy the data from Prod to Dev and UAT environments.
+Developed Informatica mappings and tuned for better performance.
+Creating workflows, mappings, loading data from the different production environments like to target database through staging.
+Worked extensively on different types of transformations like source qualifier, expression, filter, aggregator, update strategy, lookup, stored procedure.
+Validation and unit testing and preparation of test cases.
+Involved in the documentation as per the client standards.
+
+Assignment 2:
+
+Customer : Bayer Healthcare
+Period : December 2014 till July 2015
+Tools/Technologies : Teradata
+Role : Teradata ETL Developer
+Company : Capgemini, Bangalore
+
+Brief description
+The Compliance Aggregate Spend Solution (CASS) is the Bayer Healthcare application that collects, aggregates, and discloses spend on Health Care Organizations and Providers (HCO/HCP).
+
+•Single “point of truth” for Compliance reporting in the US.
+•Collects Payments, Contracts, and related Parties
+•Launched November 2014
+•Replaced two previous compliance applications, FADb and SR databases.
+The R2 SpendTracker application is a third party reporting tool specifically developed for compliance with the PPACA (Federal) and State specific disclosure laws in the US.
+
+Responsible for:
+Effective client communication and participation in the daily calls to gather the requirements from the client.
+Resolved various tickets that came as incidents relating to importing CSV files into Teradata tables and worked on inclusion and exclusion of payments relating to Bayer Healthcare.
+Responsible for preparing BTEQ scripts for populating the table relating to the SR (State Reporting) module and General and Research Template modules.
+Imported csv files into tables using Teradata SQL Assistant.
+Worked effectively on performance tuning of the queries running in production environment by using Global Temporary tables and other optimization techniques.
+Validation and unit testing and preparation of test cases for UAT as well.
+
+Assignment 2,
+Customer : Telia Sonera
+Period : September 2013 till November 2014
+Tools/Technologies : Informatica, Teradata,Oracle
+Role : ETL Developer
+Company : Capgemini, Bangalore
+
+Brief description:
+Telia Sonera is implementing an Enterprise Data warehouse and the vision is to build a cutting-edge, well-Integrated, robust EDW and BI solution to serve its business infrastructure better. With this vision in mind, Telia Sonera has chosen the latest technology Salesforce.com as a cloud source to feed data to a unified and customized BI-X LDM EDW, upon which a semantic layer can be staged. The key benefits are that centralized, flexible, quick reporting infrastructure can be built.
+Responsible for:
+Involved in the Analysis phase to elicit the requirements from the Functional Architect.
+Prepared standard interface document which would be the considered source for the respective source flat files.
+Worked on various Change Requests that came as a part of developmental activities in Teradata.
+Designed and developed Informatica Mappings and Sessions based on business user requirements and business rules to load data from source flat files and RDBMS tables to target tables.
+Responsible for Performance Tuning of Queries at the Source level, Target level, Mapping Level and Session Level.
+Validation and unit testing and preparation of test cases.
+Production Support has been done to resolve the ongoing issues and troubleshoot the problems encountered in the daily loads.
+Performed validations for BO reports.
+
+Assignment 3:
+Period : May 2013 to August 2013
+Project Type : Development
+Tools/Technologies : Informatica 8.6, Oracle
+Role : ETL Developer
+Company : Capgemini, Bangalore
+
+Brief description:
+The project dealt with preparing a prototype of CDC implementation using dynamic parameter file generation technique and the logic implemented in this project could be leveraged for other projects.
+Responsible for:
+Worked with the concerned team in eliciting the requirements.
+Designed and developed Informatica Mappings and Sessions based on requirements and business rules to load data from source flat files.
+Effectively used Informatica parameter files for parameterizing mapping variables, workflow variables, and relational connections.
+Performed validations and unit testing and prepared test cases for the same.
+Worked collaboratively with the team to integrate the module with the existing modules.
+Delivered the required deliverables within the stipulated timeline.
+
+Assignment 4:
+
+Customer : GE Corporate
+Period : January 2012 to February 2013
+Project Name : SSS DWH R12 Upgrade
+Tools/Technologies : Informatica, Oracle
+Role : Developer
+Company : iGATE, Bangalore
+
+Brief description:
+GE Corporate is upgrading SSS ERP R.11 to R.12. This necessitates upgrading SSS EDW as a result of SSS ERP upgrade. The aim is to point to R.12 database same day, same time when Source is switched from R.11 to R.12. All Enhancements and changes done in R.12 should reflect in DWH with DDL changes / upgrades, ETL mapping & other database objects changes, Universe & Reports. All Downstream applications should also reflect the required changes.
+Responsible for:
+Requirement gathering
+GAP analysis for DWH
+Enhancement/Upgrade of the existing Informatica mappings.
+Effectively used Informatica parameter files for defining mapping variables, workflow variables, FTP connections and relational connections.
+Performed data manipulations using various Informatica Transformations like Filter, Expression, Lookup (Connected and Un-Connected), Aggregate, Update Strategy, Normalizer, Joiner, Router, Sorter and Union.
+Performed unit testing at various levels of the ETL and actively involved in team code reviews.
+Validation and unit testing for each of the modules.
+Documentation as per GE process
+
+Assignment 5:
+
+Customer : GE Healthcare
+Period : October 2011 to December 2011
+Project Name : HCS OSB Segmentation
+Tools/Technologies : Teradata, Informatica,Cronacle
+Role : ETL Teradata Developer
+Company : iGATE, Bangalore
+
+Brief description:
+Help provide segmented volume, price and margin analysis views in a manner that is operationally aligned with the business organization and is more customers grounded. Implement new segmentation logic to support Interventional and Ultrasound businesses.
+
+Responsible for:
+Involved in the Analysis phase to elicit the requirements from the Functional Architect.
+Created the Mappings to load from Source table to source stage table.
+Creation of Bteq Scripts to load from source stage to Interface table.
+Creation of Job chains and executing it in Cronacle scheduling tool.
+Validation of Bteq Scripts and Job chains.
+Prepared test cases, ETL specs and other Project related documents
+Client Communication and Participate in the Scrum Calls.
+Interacted with clients in understanding the changing requirements.
+
+Assignment 6:
+
+Customer : GE Healthcare
+Period : Nov 2009 to September 2011
+Tools/Technologies : Informatica 8.6, Unix, Teradata,Business Objects
+Role : Developer
+Company : iGATE, Bangalore
+
+Brief description:
+ONE GLA The current GLA universe is built based on GLPROD source system, while multiple source systems like CSGLA, HCIT and BIO GLA are built based on a specific Business P&Ls across multiple ERP’s. Apart from the difference in the type of system the granularity in each GLA may differ (GL data, SL data, Non-GL data etc) in those systems.
+The Objective of this project is to provide a common system with a global and consistent approach that will have the flexibility to accommodate changes, that arise frequently with re-organization of the P&L’s, acquisition of business on different ERP systems and changing business needs for transactional data.
+
+Responsible for:
+Involved in the Gathering of Requirements from the Functional Architect.
+Have extensively worked in developing ETL program for supporting Data Extraction, transformations and loading using Informatica Power Center.
+Creation of Bteq Scripts to load from source stage to Interface table and then to Global temporary table and finally to Fact/Dimension table.
+Effectively used Informatica parameter files for defining mapping variables, workflow variables, FTP connections and relational connections.
+Creation of Job chains and executing it in Cronacle scheduling tool.
+Validation of Informatica mappings, Bteq Scripts and Job chains
+Prepared test cases, ETL specs, MD120 and other Project related documents
+Client Communication and Participate in the Scrum Calls.
+Actively involved in the production move there by interacting with external Teams from GE Healthcare for a successful production migration.
+Contact this candidate

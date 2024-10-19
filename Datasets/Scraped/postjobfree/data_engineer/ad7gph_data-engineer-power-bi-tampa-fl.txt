@@ -1,0 +1,82 @@
+Haritha Thummalapalli
++1-656-***-**** ad7gph@r.postjobfree.com
+Summary
+• Experienced Data Engineer with over 2+ years of expertise in designing, developing, and maintaining scalable data pipelines and infrastructure solutions.
+• Proven track record in architecting internal libraries and APIs using microservices, optimizing ETL processes with SSIS, and ensuring data integrity and accuracy.
+• Proficient in working with a variety of data integration and processing tools including Apache Airflow, Azure Data Factory, Databricks, and PySpark.
+• Adept at implementing data governance policies to ensure compliance with industry standards such as HIPAA and PCI DSS.
+• Skilled in creating and managing data workflows, performing data transformations, and delivering insightful business intelligence through tools like Tableau, Power BI, Quick Sight, and SSRS.
+• Strong background in big data technologies including Hadoop, HDFS, MapReduce, HiveQL, and Sqoop, as well as machine learning and Agile methodologies.
+• Excellent communicator and team player, capable of leading client-facing projects and translating business requirements into effective data lake solutions.
+• Experienced in utilizing cloud platforms (AWS, Azure, GCP) for data warehousing, processing, and analytics.
+Technical Skills
+• Languages: Python, Java, SQL, C++, R
+• Tools: Apache Spark, PySpark, Airflow, SSIS, Azure Data Factory, dbt, Snowflake, Dagster, Kafka, Fivetran, Hightouch
+• Cloud: Azure, AWS, GCP
+• Warehousing: Snowflake, Redshift, Big Query, Teradata
+• Databases: MSSQL, MySQL, Oracle, MongoDB, Couchbase
+• Visualization: Tableau, Power BI, Matplotlib, Seaborn, Excel, Quick Sight,Streamlite
+• DevOps: Azure DevOps, Jenkins, Docker, GitHub
+• Scripting: UNIX/Linux shell scripting
+• Governance: Data masking, HIPAA, PCI DSS
+• Big Data: Hadoop, HDFS, MapReduce, HiveQL, Sqoop
+• Methodologies: Agile, CI/CD
+• Automation: Azure Logic Apps, Azure Runbooks, Azure Function Apps Experience
+Lowe’s Home Improvement Sep 2023- April 2024
+Data Engineer, United States
+• Architected and designed internal libraries and APIs using microservices, reducing save/load time by 5% and maintenance by 4%.
+• Developed ETL packages with SSIS for data integration from SQL Server, flat files, and XMLs, including transformations.
+• Customized Azure Data Factory pipelines integrated with Databricks for efficient data processing and loading into Azure SQL Synapse.
+• Utilized Databricks Spark jobs for table-to-table operations and data transformations.
+• Implemented ETL and ELT architectures in Azure using Data Factory, Logic Apps, Runbooks, Function Apps, SQL DB, and SQL Data Warehouse.
+• Delivered client-facing dashboards in Quick Sight with dynamic filters and analytical formulas.
+• Developed and scheduled SSRS reports, including Ad-hoc, Canned, Master, and Parameterized Reports.
+• Automated DMS JDBC tasks, creating over 100,000 datasets in a multitenant SaaS environment.
+• Utilized Jinja and Requests in Python to automate large-scale API calls.
+• Migrated data to Power BI, creating and publishing reports in the Power BI preview portal.
+• Led client-facing projects, translating business requirements into data lake solutions.
+• Performed A/B testing on new features, increasing user response rates by 6%.
+• Profiled data, maintained feature stores, and compared models in Sage Maker to enhance system performance.
+• Identified opportunities for data acquisition and implemented solutions to enhance data infrastructure. Verusys Software Pvt Ltd July 2021 – July 2022
+Data Engineer, India
+• Engineered ETL pipeline using PySpark scripts, migrating 50M Oracle records to Hive with 100% data accuracy.
+• Constructed optimized Hive tables and utilized advanced query techniques, reducing query execution time by 15%.
+• Executed 10+ DAGs monthly in Airflow for claims processing and billing data workflows.
+• Implemented error handling, root cause analysis, and alerting in Airflow workflows to ensure data pipeline resilience.
+• Utilized SSIS to integrate and migrate structured and semi-structured data (Excel, XML, Flat file/CSV, JSON) into SQL Server.
+• Optimized ETL pipelines for efficient data transfer from SQL Server DB to Snowflake, enhancing data availability.
+• Engaged in all phases of claims processing, including intake, adjudication, payments, accumulators, and encounters.
+• Enforced data governance policies to ensure data quality and compliance with HIPAA regulations.
+• Designed a star schema in Snowflake, improving query performance by 15%, and implemented optimized data pipelines.
+• Implemented SQL queries and views for Amazon Redshift, addressing performance issues in Spark and SQL scripts.
+• Worked with semi-structured and structured data using AWS Glue, Amazon Kinesis, and Databricks Spark jobs.
+• Developed and scheduled SSRS reports and created Power BI reports, transforming and combining data with Query Editor and SSAS.
+• Automated workflows with Apache Airflow and Azure Data Factory, reducing manual tasks by 30%.
+• Developed production processes and solutions to model, mine, and surface data. Bornemindz Software Solutions Pvt Ltd Oct 2020 - June 2021 Data Engineer, India
+• Fostered PCI Compliance Project by masking credit card numbers using Teradata SQL, ensuring adherence to security requirements.
+• Proficient in relational databases (MSSQL, MySQL, Teradata SQL) and data warehousing functionalities (extraction, integration, cleaning, loading).
+• Achieved ~50% reduction in CPU cost by partitioning tables and optimizing SQL queries with Teradata .
+• Developed various reports using Excel, Tableau, and Python (Plotly, Matplotlib, Seaborn), reducing client operational costs by ~30%.
+• Automated UNIX scripts to archive files and alert server space utilization, saving 10-15 hours of manual effort weekly and ~$50,000 in revenue.
+• Designed and launched Unix bash scripts for stored procedures, promoting builds to production following the SDLC life cycle.
+• Developed Spark/SQL scripts on Azure Data Factory, ensuring secure access to database credentials via Azure Key Vault.
+• Created Azure Data Factory pipelines for seamless data movement from Oracle databases to Azure Data Lake Store Raw Zone.
+• Integrated Azure Data Lake Storage and Data Lake Analytics, reducing data processing times by 25%.
+• Implemented PySpark ETL pipelines on Azure Databricks for data extraction, transformation, and loading from diverse sources.
+• Employed CI/CD practices using Azure DevOps, automating deployments and reducing deployment times and risks.
+• Utilized SSIS packages and SQL Server for data ingestion and transformation from Oracle and SFTP servers, ensuring data integrity and efficiency.
+• Improved data reliability, quality, and efficiency through optimized ETL processes and rigorous data governance policies.
+Education
+Saint Leo University May 2024
+Master of Science in Computer Science
+St. Mary’s Degree College May 2021
+BSc Computer Science and Statistics
+Academic Projects
+Academic Projects – Saint Leo University Health Care appointment and AI Chatbot website
+• Developed a hospital website. It is an AI Chatbot and doctor’s appointment development application.
+• Used the Microsoft Azure cloud platform for hosting it.
+• It integrates with an advanced AI tool that connects the chatbot with the diagnosis of patients based on the symptoms they provide which is helpful for accurate medical advice. Classification of acted/genuine emotions by machine learning, deep learning algorithms
+• Designed a Project that differentiates between genuine and acted emotional expressions, using EEG data. Sentiment analysis using different classifier techniques. Adapted multiple methods to extract intrinsic features from three EEG emotional expressions: genuine, neutral, and fake/acted smile. The data was accessed through a web server.
+• Incorporated multiple algorithms to enhance the features and make them more accurate. Displayed matrixes and created bar charts to display the differences. Algorithms Project
+• Solved a Dynamic programming problem with recurrence and iterative approach and analyzed the complexities for various sets of data, Implemented graph traversal algorithms with various examples in Python.
+Contact this candidate

@@ -1,0 +1,65 @@
+Rohini Gudimetla
+Sr. Data Engineer
+940-***-**** LinkedIn
+ad85o0@r.postjobfree.com
+Open to relocation
+PROFESSIONAL SUMMARY
+• Results-driven Data Engineer with over 8 years of proven success in developing and optimizing high-performance data solutions leveraging Azure and AWS cloud platforms, delivering impactful insights across multiple industry domains.
+• Proficient in building and maintaining ETL pipelines with Azure Data Factory, Databricks, and PySpark. Extensive experience in cloud-based data storage solutions within Azure Data Lake, ADLS, and Synapse Analytics. Leveraging Python for data ingestion and transformation, while optimizing Spark jobs for performance and cost efficiency.
+• Experienced in deploying and monitoring ML models in production environments, utilizing CI/CD practices to enhance model performance and reliability. Passionate about leveraging cutting-edge data engineering techniques to build robust, scalable systems, and committed to delivering high-impact solutions that drive business success and innovation. TECHNICAL SKILLS
+Programming Languages: Python, PySpark, Scala, Java, SQL, R, Shell scripting Cloud Platforms: Microsoft Azure (Azure Data Lake, Azure SQL Database, Azure Databricks, Azure Synapse, Azure Cosmos DB, Azure Blob Storage, Azure Stream Analytics), AWS (S3, RDS, Redshift, DynamoDB, AWS Glue, EC2, IAM, CloudFormation, EKS, Glacier)
+Big Data Technologies: Apache Hadoop, Spark (Core, SQL, MLlib, GraphX), HDFS, YARN, Apache Kafka, Apache HBase, Apache Hive, Apache Sqoop, Apache NiFi, Apache Oozie, Apache Zookeeper Databases: MySQL, SQL Server, PostgreSQL, Oracle, Teradata, Cassandra, MongoDB, DynamoDB, Cosmos DB ETL Tools: Azure Data Factory (ADF), Databricks, Apache Airflow, Informatica PowerCenter, Talend Operating Systems: Linux (Ubuntu), Windows, MacOS
+Version Control: Git, SVN, Bitbucket
+Automation: CI/CD pipelines, Git, GitHub, Azure DevOps, Jenkins, Kubernetes Business Intelligence & Visualization: Tableau, Power BI, AWS QuickSight, SSRS Data Security: Data governance, security, and compliance (GDPR, HIPAA) PROFESSIONAL EXPERIENCE
+Sr. Data Engineer Aug 2023 to Present
+Elevance Health, Indiapolis, IN.
+• Extracted healthcare data from diverse sources such as electronic health records (EHRs), claims data, and clinical databases (SQL), processing thousands of patient records weekly in structured formats (CSV, XML, JSON).
+• Designed and implemented data pipelines using Azure Data Factory (ADF) to extract Electronic Medical Records
+(EMR) from medical facilities into Azure Data Lake, achieving maximum in automating daily ingestion and reducing manual effort by 40%.
+• Developed Python scripts to ingest third-party healthcare data (lab results, patient histories) via REST APIs into Azure Data Lake, consolidating the new records daily.
+• Enhanced healthcare data by implementing complex joins, aggregations, and normalization using PySpark, improving data accuracy by 15% and enabling more reliable reporting on patient care metrics.
+• Set up Azure Event Hubs to capture and process real-time IoT health monitoring data from in-store devices, enabling immediate analysis and action.
+• Merged data from multiple sources using PySpark in Databricks, improving integrated analysis across the organization, reducing data discrepancies.
+• Utilized PySpark for deduplication, enrichment, and transformation of healthcare data, ensuring 100% accuracy in key datasets used for reporting and analysis.
+• Automated complex ETL processes in Azure Data Factory, reducing manual data transformation time through reusable Databricks Notebooks.
+• Established automated testing frameworks within the CI/CD pipeline to validate data quality and transformation logic, reducing the risk of errors during deployment and enhancing the reliability of data processes.
+• Integrated Snowflake with Azure Data Factory to automate ETL workflows, streamlining the data loading process into Snowflake and achieving a 30% reduction in manual intervention and processing time.
+• Streamlined the incremental loading process into the data warehouse, reducing data processing time by 20% and ensuring that new records were available for real-time reporting.
+• Collaborated with data scientists to prepare and transform healthcare datasets in Snowflake for machine learning model training, ensuring data quality and relevance for predictive analytics. Data Engineer Aug 2019 to Jul 2022
+7-Eleven, Irving, TX.
+• Automated ETL processes using Python and SQL, improving data processing efficiency by 20% and reducing manual intervention in daily workflows.
+• Designed and implemented data cleansing routines with Python (Pandas) and SQL, ensuring high data accuracy and quality for reporting, significantly reducing errors in analysis.
+• Automated data ingestion processes from external APIs with Python and AWS Lambda, enabling near real-time updates to training datasets for machine learning models, thereby accelerating the ML pipeline, and reducing manual data collection time.
+• Developed Python scripts to automate data ingestion from external APIs, enabling near real-time updates and reducing manual data collection time.
+• Partnered with data scientists to prepare structured datasets for machine learning models, ensuring data quality for accurate model training and predictions, and implemented CI/CD pipelines for seamless integration of new model versions into production.
+• Monitored and optimized ML pipelines using Apache Airflow and AWS SageMaker, ensuring timely data processing and accurate model outputs.
+• Troubleshot and resolved issues in both ETL and model pipelines to ensure smooth and efficient model predictions.
+• Documented ETL processes, data flows, and SQL queries, facilitating cross-team collaboration and onboarding for future projects.
+• Led the migration of on-premises databases to AWS S3 and Redshift, improving scalability, enhancing data consolidation, and reducing latency in data retrieval.
+• Created automated scripts for anomaly detection in data pipelines, providing real-time alerts on data inconsistencies and ensuring high data accuracy.
+• Established and enforced data governance protocols to ensure data consistency, security, and accuracy, aligning with both business requirements and regulatory standards.
+• Integrated multiple data sources, including APIs, CSV, and databases, into a unified data warehouse, enabling comprehensive, accurate analytics and reporting.
+• Built interactive Tableau dashboards to monitor KPIs like sales performance, customer retention, and marketing ROI, enhancing data-driven decision-making for leadership. Data Engineer Nov 2017 to Jul 2019
+SavinaSoft, Hyderabad, India.
+• Developed and executed Python scripts utilizing database connectors to efficiently query data from relational databases and extract information from local files in formats such as CSV and JSON.
+• Leveraged Pandas to perform data cleaning and transformation processes, including deduplication, normalization, and aggregation, resulting in improved data quality and usability for downstream analysis.
+• Transformed datasets back to relational databases (MySQL, PostgreSQL) and stored processed data in CSV and JSON formats, ensuring accessibility and reliability for reporting and analysis.
+• Implemented automated ETL workflows using Python and Pandas, reducing manual data processing time by 30% and enhancing overall operational efficiency.
+• Optimized database queries and performed performance tuning on MySQL and PostgreSQL databases, reducing query execution times by up to 40%.
+• Conducted thorough testing and validation of extracted and transformed data to ensure accuracy and integrity before loading into target systems.
+• Implemented data partitioning and indexing strategies within relational databases to enhance query performance, especially when dealing with large datasets.
+• Created comprehensive documentation of data workflows and transformation logic, facilitating knowledge transfer, and streamlining future data processing initiatives.
+Data Analyst May 2015 to Oct 2017
+ICE, Hyderabad, India.
+• Designed and optimized SQL Server databases, implementing normalization techniques to ensure data integrity and efficient storage.
+• Created 40+ Tableau and Power BI dashboards to track KPIs and metrics in real time, improving decision-making for various business units.
+• Developed complex SQL queries using joins, subqueries, and window functions for data analysis and reporting.
+• Optimized stored procedures and complex SQL queries, reducing query execution time by 50% for faster data retrieval and reporting.
+• Analyzed data using Python libraries like NumPy, SciPy, and Matplotlib, employing statistical techniques such as regression, clustering, and classification.
+• Created interactive dashboards and compelling visualizations in Tableau with features like drill downs, geo maps, and parameterized reports for dynamic data exploration.
+• Conducted data validation and cleansing to ensure consistency and accuracy across datasets.
+• Generated weekly and monthly reports using advanced Excel techniques, including pivot tables, charts, and data visualizations.
+EDUCATION
+MS in Information Systems GPA: 3.85
+Central Michigan University, Mount Pleasant, MI, USA. Course Work: Application Development, Database Management, System Analysis and Design, Data Modeling, Data Cleaning, Tableau.
+Contact this candidate

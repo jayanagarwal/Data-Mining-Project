@@ -1,0 +1,74 @@
+Professional Summary:
+
+Forward-thinking Senior Database and Software Engineer with 20+ years of experience in maintaining data environments for media distribution in the entertainment industry. Data expert with a focus on designing and implementing scalable databases to enhance performance and maintain data integrity. Balances multiple projects in highly-matrixed environments while maintaining priorities, deadlines, and deliverables. Solution-oriented partner who solves technical challenges in collaboration with cross-functional teams.
+
+Core Competencies:
+Data Migration Database Design Data Integration Scrum Data Analysis Software Engineering Relational Database Data Integrity Web Development Automation Query Optimization Disaster Recovery Data Modeling Cross-Functional Collaboration Software Development Lifecycle Network Administration
+
+Professional Experience:
+Hallmark Media (TEKsystems) – Remote November 2023 – July 2024
+Data Software Engineer
+Provided data support for media asset management and deliveries
+oMetadata generation
+oData migration and integration between disparate systems
+oAd-hoc JSON/XML manipulation
+oAuthored and debugged MAM workflows (via Groovy scripts)
+Provided guidance and shared knowledge as the team began Agile/scrum for the first time
+Set up continuous integration/continuous delivery, helped establish software development lifecycle
+oConfigured CI/CD in GitLab and established peer code reviewing
+
+The Walt Disney Company November 1997 – October 2023
+Senior Software Engineer August 2021 – October 2023
+Title change to align with Disney reorganization (same responsibilities as Senior Database Engineer role below)
+oBack-end Java API development (90%)
+Beginning in 2018, my focus shifted from SQL development to back-end Java development
+oPostgreSQL (10%)
+I continued to handle the bulk of the PostgreSQL work, mostly DDL changes (creating new tables and views, adding columns to existing tables, etc.).
+SQL version control was maintained using Flyway
+Supported some ad hoc JavaScript and Angular front-end work while balancing back-end Java and APIs.
+
+Senior Database Engineer December 2013 – August 2021
+Title change to align with Disney legal recommendations (same responsibilities as Senior Database Administrator role below)
+oIn 2018 I transitioned from an SQL developer to a back-end Java developer while serving as the go-to SQL expert by learning Java, Spring Boot, and Kotlin along with the team’s coding conventions and styles.
+Dramatically increased unit test coverage in various Java repositories before moving on to API development
+o“ShowBiz” theatrical distribution system (SQL Server)
+Served as the primary data custodian for the SOX-compliant system
+Database design, development, administration
+o“Ensemble” theatrical distribution system (PostgreSQL) – first phase went live October 2016
+Served as the primary PostgreSQL developer.
+Used Flyway to maintain version control
+Used Hibernate for integration testing
+Split my time between “ShowBiz” and the newly created Theatrical B.I. team between 2013 and 2017
+oWorked with Tableau, Teradata, Sqoop, Databricks, Microstrategy, Crystal Reports, SSRS/SSIS/SSAS. Primary tasks in Theatrical B.I. were ETL and reporting.
+
+Senior Database Administrator November 1997 – December 2013
+Served as the primary data custodian for the SOX-compliant domestic theatrical distribution system, ShowBiz, used to book movies in theaters in the US and Canada.
+oThe ShowBiz system streamlined sales processes by redesigning sales territories to be based on television advertising markets. Prior to that, sales territories were based on railroad depots.
+Migrated data from a legacy VAX RDB database to the ShowBiz SQL Server database.
+oSet up overnight “synchronization” and real-time “concurrency” data migrations, monitoring, and data validation prior to going live with ShowBiz in June 1998.
+Designed databases, performed data modeling, enhanced disaster recovery, optimized queries, and wrote the bulk of the back-end SQL stored procedures, triggers, and views.
+Wrote a log shipping infrastructure in SQL Server to support disaster recovery efforts.
+Built and maintained data marts and OLAP cubes, and automated ETL processes.
+Wrote classic .ASP pages to front back-end data to customers.
+Created dozens of various Crystal Reports for Sales, Finance, and Accounts Receivable/Cashiers.
+Studied digital cinema for one year, learning about digital content and key distribution and collaborating with industry leaders to create best practices and conventions.
+Split my time between ShowBiz and the “VISION” media asset management system between 1999 and 2001 (SQL Server/Cold Fusion)
+oI primarily debugged and performance tuned other people’s existing code and implemented order of operations steps to reduce deadlocks.
+oWorked on many user-defined functions in addition to the usual stored procedures, triggers, and views.
+
+Projects:
+ShowBiz – Domestic Theatrical Distribution System
+ShowBiz was a client-server rewrite of a VAX RDB theatrical distribution application as a 3-tiered application, using SQL Server and Visual Basic (and when .NET came along, C#). The system was used by Disney to book movies in theaters in the US and Canada. I worked on database design/data modeling (S-Designer, Rational Rose), disaster recovery (I wrote a log shipping infrastructure before such a thing existed out of the box in SQL Server), and query optimization, while writing the bulk of the back-end SQL stored procedures and views. Built and maintained data marts and OLAP cubes. Automated many ETL processes. Worked with Crystal Reports and SQL Server Reporting Services, and wrote many classic .ASP pages to front back-end data to customers. ShowBiz was a SOX-compliant system for which I was the primary data custodian.
+
+VISION – Media Asset Management System
+I joined VISION as a SQL developer, for 50% of my time for 3 years, during which I spent the bulk of my time debugging and optimizing existing SQL Server code.
+
+Theatrical B.I. – Business Intelligence and Reporting Team
+I joined the Theatrical B.I. team for a few years (50% of my time), where I used Teradata, Tableau, MicroStrategy, Sqoop in addition to SQL Server and SSRS.
+
+Ensemble – Theatrical Distribution System
+Ensemble is a rewrite of the ShowBiz Theatrical Distribution System using postgres and java instead of the Microsoft stack. While I am the primary postgres developer, most of my work is now back-end java, primarily APIs, I also pitch in on some JavaScript/Angular front-end work as needed.
+
+GSSK – DVD Mailing Warehouse Project
+Handled all database, web development, and PC support for a DVD warehouse, contracting part time on evenings and weekends. SQL Server, classic .ASP, QuickBooks
+Contact this candidate

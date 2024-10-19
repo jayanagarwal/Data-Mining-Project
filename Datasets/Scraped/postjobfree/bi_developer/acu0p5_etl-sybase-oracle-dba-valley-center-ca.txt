@@ -1,0 +1,147 @@
+WILLIAM J. CANNON
+470-***-**** (cell)
+***** ****** ******
+Valley Center, CA 92082
+acu0p5@r.postjobfree.com
+
+CAREER OVERVIEW
+Mr. Cannon is a senior principal consultant of Data Architect Resources, Inc. With more than fifteen years of experience with managing, designing and developing distributed database systems in the Medical claims, HR, Finance, Telecommunication, Material Handling, Fare Collection, Rapid Transit, Health Care and Shipping industries. He has performed database server administration (RAC/OPS environments), Oracle Applications installation/maintenance, Oracle E-Business Suite Balanced Scorecard design/implementation, performance and tuning, replication, application/server programming, ETL, data translation, automation of backup/recovery process, training, installation, technical writing, function/process modeling and Logical/Physical database design (MDM) of OLTP and Data warehouse systems. He has managed full life cycle database projects consisting of developers, report writers, data modelers and administrators. In addition to database experience, he has successfully led training seminars and mentored business application groups in database access and theory. As a member of various consulting organizations, Mr. Cannon has developed effective leadership, communication and presentation skills.
+
+SKILLS SET
+Databases : Oracle 11gr2, Teradata 14, Sybase 11, SQL Server 2000, DB2, Access
+Tools : Oracle Business Intelligence Enterprise (OBIEE 10.1.3)/Siebel Analytics, MicroStrategy 8.1.1, Hyperion (Brio), IBM Infosphere Datastage 8.7, Oracle Data Integrator (ODI) 12, Oracle Warehouse Builder (OWB) 11.2, Microsoft SSIS and DTS, Informatica 9.6, CA Erwin, Oracle Balanced Scorecard 11.5.2, Oracle BI Discoverer Admin 10g, Oracle Designer 2000, Oracle Developer (Reports 9i), Business Objects (Crystal XI Enterprise Server/Developer), RMAN, Quest SQL Navigator, TOAD, S-Designer, Oracle Enterprise Manager, System Architect, Rational Rose, Technical Writing and Excellent client management.
+Software : Oracle 11g database server, Oracle Workflow Server (10.6.2), Oracle Applications (ERP) 11i (GL,HR,AP,AR,PO/INV),MAXIMUS FA Suite, CUBIC Nextfare, Oracle Application Server 9ias, Portal, J2EE, Apache Tomcat, JCL, Quest Shareplex, PeopleSoft, Transarc Encina Transaction Monitor (utilizing DCE), Documentum, Starteam, Visual Source Safe and PVCS configuration management.
+Hardware : HP (9000, T500, K460), SUN (10, 20, 1000, 10000, ultra, V880, V280,V210), EMC 5460 disk array, Overland Tape DLT system, IBM mainframe
+OS : Solaris 2.6 – 2.9, HP UX, LINUX, IBM MVS, DEC (VAX, Alpha), Windows NT, 2000, XP
+Languages: PL/SQL, T-SQL, SQL, HTML, XML, Perl/C/Korn shell, Sybperl, Ada, FORTRAN
+Design : Kimball, Yourdon, Booch, OMT, UML, Spiral, Waterfall, JAD and RAD
+Tuning : Database architecture, Memory, I/O, PL/SQL and Kernel parameters
+PROJECT EXPERIENCE
+Data Architect Resources, Inc.
+
+State of Georgia (Department of Behavorial Health and Developmental Disabilities)
+ETL Architect/Developer 06/13–Present, Atlanta, GA
+Data Warehouse ETL Developer tasks:
+oBuilt HL7 interfaces (CCD and Discharge Summary of state hospital/community data) from Data Warehouse (Hospital and Community data marts) to the Georgia Health Information Network which is managed by Truven Health Analytics. Web service for customer portal implemented by eHealthObjects.
+oETL processes designed, implemented, scheduled and maintained with Oracle Warehouse Builder (OWB) 11gR2, ODI, MS SSIS and custom PL/SQL packages. Design and implement Data marts. Performance tuning ETL and DataMarts.
+oProduction support of Oracle ETL processes in areas supporting State hospitals, long term care and private Medical service providers.
+oPerformed complete migration from OWB 11 to ODI 12.2 (model, mapping, process flows, procedures and scheduling). Utilized oracle migration utility to convert mappings. 90 Dimensions and 27 fact table migration completed in two months. Trained team members in OWB and ODI.
+
+Norfolk Southern – Data Architect 03/10–05/13 Atlanta, GA
+Designed and implemented ROLAP (Kimball star schema) datamarts in Teradata data warehouse for Transportation Performance and Safety Systems. Data sources were Oracle, DB2, Teradata, Access, SQL Server databases and mainframe applications. Master Data Management (MDM) methods employed to consolidate/aggregate and provide consistency across reference data of business units within company.
+All Metadata for OLAP, ODS and OLTP systems designed and maintained in Erwin repositories. Star Schemas used both type I and II (SCD) dimensions.
+ETL processes designed with IBM Infosphere Datastage, stored procedures and JCL programs. Mainframe and Datastage jobs scheduled via mainframe Zeke scheduling tool. Error handling notification via mail/phone managed by sending failed job results to Automation Point notification system.
+Brio, IR and OBIEE reporting utilized ROLAP (star schemas) and OLAP cubes to fulfill all new business reporting requirements.
+Designed BI Applications:
+oDashboards using OBIEE/Siebel Analytics: Designed DW subject areas, imported objects (tables, views, queries) into physical layer, built business layer for facts and dimensions, designed answer requests/reports using existing report models and new requirements and integrated reports into Dashboards.
+oReports were based on existing Hyperion (Brio) reports and new system requirements.
+
+Republic National Distributing Company – DBA 07/09 – 02/10, GA
+Data Warehouse Architecture/DBA tasks:
+oManage Backup and Recovery operations (Datapump exports and RMAN backups). Database Performance monitoring and tuning utilizing Oracle AWR and custom database scripts.
+oETL processes designed with Warehouse Builder (OWB) 10gR2, PL/SQL packages and Infomatica 9.x. Designed and implement Data marts.
+oProduction support of Oracle databases and ETL processes for Retail Distribution, Sales and Warehouse Management systems.
+
+Emory Healthcare – Database Architect 01/09 – 07/09 Atlanta, GA
+Designed/implemented reports/services and dashboards in MicroStrategy. Subject areas consisted of Emergency Room availability/utilization, Physician metrics for different types of specialty and Medicine metrics for lab testing.
+Designed/implemented ETL processes utilizing IBM Infosphere Datastage.
+Architected the Microstrategy components to support the reports: Tables, views, Facts, Attributes, Metrics, Filters, Prompts and Custom Groups. OLAP services were facilitated for movement of report objects and flexibility with derived metrics.
+Reports and Dashboards supported middle/upper management as well as operational data via drill down and standalone reports. Administered Narrowcast Server for report distribution.
+DS WATERS – Database Architect 07/08 – 12/08 Atlanta, GA
+Designed and implemented ROLAP datamarts with Metadata stored in OWB and Erwin repositories. Master Data Management (MDM) methods employed to consolidate/aggregate and provide consistency across reference data of business units and 10 merged companies. Subject areas consisted of Payroll, Timekeeping, Retail (Deliveries/Returns/Pricing) and Customer Sales Activity (AR). Each datamart utilized Kimball (star schema) design methodology with type I and II (SCD) dimensions and fact tables. Data was verified, cleansed and updated within ETL processes using OWB Data Profiler component. Data source was Oracle 12g ERP system.
+ETL processes designed with Warehouse Builder (OWB) 10gR2, Microsoft DTS, Informatica and PL/SQL. Administered Discoverer business areas in BI admin. ETL scheduled with Oracle concurrent manager jobs.
+Designed OBIEE dashboards, answer requests and supporting physical, business (fact and dimensions) and presentation layers. Tuning involved sizing the BI server cache, Aggregation on measurements for dimension levels and creating materialized views on database source to reduce report refresh times.
+Performance tasks:
+oImplemented custom PL/SQL ETL packages utilizing following performance techniques: Partition exchange, bulk processing, Merge, Aggregate functions, bitmap and function based indexes, parallel query, Materialized views (Query rewrite) and table partitioning.
+oConfigured Oracle 10g database for high performance: 32k db_block_size, GB db_cache_size, >10 log destinations, GB pga_aggregate_target, query_rewrite_enabled, GB SGA, GB shared_pool_size, auto workarea_size_policy, parallel_max_servers > 100.
+Provided client with Software design documents of all OWB ETL processes, ERD data dictionary of all business areas and systems configuration (Operating systems, hardware and database specifications).
+MARTA – Database Architect 01/05 – 06/08 Atlanta, GA
+Designed and implemented ROLAP (Kimball star schema) and MOLAP (cubes) datamarts in data warehouse for HR, Financial, Payroll, Maintenance (Tracking Product maintenance), Training, Attendance and Safety Systems. Data sources were Oracle databases (10g) ERP, Sybase (11) databases and mainframe applications. Master Data Management (MDM) methods employed to consolidate/aggregate and provide consistency across reference data of business units within company.
+All Metadata for OLAP, ODS and OLTP systems designed and maintained in OWB and Erwin repositories. Star Schemas used both type I and II (SCD) dimensions.
+ETL processes designed with Warehouse Builder (OWB) 10gR2, Microsoft DTS, PL/SQL and Perl scripts. Process flows (via Workflow server) were scheduled via Oracle Enterprise Manager (OEM) and error handling notification via mail with error records captured in database tables.
+Discoverer, Crystal and Portal reports utilized ROLAP (star schemas) and OLAP cubes to fulfill all new business reporting requirements.
+DBA Activities: Administered and installed Oracle 10g database, maintained backups using RMAN and designed configurations for high performance levels.
+Designed BI Applications:
+oDashboards using OBIEE/Siebel Analytics: Designed DW subject areas, imported objects (tables, views, queries) into physical layer, built business layer for facts and dimensions, designed answer requests/reports using existing report models and new requirements and integrated reports into Dashboards.
+oDashboards with 150 KPIs (BSC and PL/SQL with secured access) for company Strategic Business Plan. Custom ETL processes developed against following systems: Oracle GL, AR, AP, PO/INV, MAXIMUS, CUBIC NextFare collection, Seimens Automated Vehicle Locator, Train Control systems, Employee Training system and several maintenance tracking systems. Row level Database Security has been designed into all KPIs with filtering based on Company Cost Center.
+Captured and documented data requirements for existing stove pipe systems for use in a data warehouse to build relationships among the systems for complex reporting and drill down capability.
+
+Ascom Transport Systems – Oracle Database Architect 01/02 – 01/05 Atlanta, GA
+Designed Logical and Physical model of Fare Collection system for Major public transportation systems (New Jersey Transit Public transportation and Los Angeles Metrolink rail system) using Erwin case tool. Both OLTP and Data Warehouse systems implemented for real-time processing and reporting. Wrote database design and maintenance manuals. Maintained transportation tariff and configuration for all Rail and Bus products.
+Installed, configured and maintained Oracle 9.2 databases, Oracle Client Networking software and 9ias (rel 2) Application Servers in development, test and production environments on Solaris 8 and 9. Upgraded databases from 8.0.6. Designed and implemented maintenance and backup/recovery processes using RMAN and custom shell scripts. 9ias Application Servers provided the J2EE environment and Report Server. Struts classes installed and evaluated for development projects.
+Redesigned reporting modules in Oracle Reports 9i and Crystal reports improving the performance, growth and maintenance using object techniques, clustering and partitioning. Quest TOAD used for database code development. Deployed reports on Crystal Enterprise for scheduling and client access via browser. All source code administered and stored in Starteam. All database access developed via stored procedures and packages.
+Procured software and hardware for Oracle databases and report servers. Established VAR with Oracle.
+Mentored junior Database administrators (administration and backup/recovery) and PL/SQL developers (new database object techniques enhancing performance).
+
+Venturi Technology Partners
+
+UPS Logistics – Oracle Database Consultant 05/01 – 03/02 Atlanta, GA
+Administered Production, QA and development Oracle Databases 9i in Oracle Applications 11.0.3 environment on HP 11 UNIX and SUN Solaris. Oracle Application utilized Apache and Oracle Web Servers, Forms and Report Server. Tomcat 4.0 servlet container evaluated for custom development outside of Oracle Financials code base.
+Maintained database growth utilizing Oracle Application Purge process on modules PO, OE, INV, AR, AP, FA and GL and PL/SQL programs.
+Migrated (cloned) Oracle application environments (Forms Server/Web Server/Concurrent Mgr. and databases)
+Administered Quest Shareplex Replication servers for Oracle databases (log-based replication software).
+Mentor developers in PL/SQL code and Korn shell programs.
+Performed Source control promotion in Oracle databases for Oracle CRM and Vantive shipping application (Peoplesoft). All source code administered in PVCS.
+
+Oracle Corporation (South East Consulting Practice) 11/97 – 05/01 Atlanta, GA
+Projects:
+
+Americas Solution Center at Oracle – AppsDBA 02/01 – 05/01 Atlanta, GA
+Performed installations and upgrades of Oracle Applications to version 11i and database to version 9i.
+Developed task management system using Oracle 9iAs I-Portal.
+Performed AppsDBA tasks: Installation of Oracle technology stack and Application modules, patch application and recompilation of forms, reports, objects and schema.
+Cloned Oracle applications system to new servers.
+
+UPS Hub 2K Material Handling System 10/98 – 01/01 Atlanta, GA
+Managed the design and Implementation of a package sortation application (>30 modules) utilizing PL/SQL 8I features (Object types and Memory structures) on SUN Solaris 10K server. Team managed included three developers and two QA personnel. Co-wrote functional specification, function/process model and database design documents. Development and debugging of PL/SQL modules in Quest SQL Navigator. GUI utilized javascript, HTML and JSPs to separate complex algorithms from PL/SQL.
+Analysis and design of function/process and data models in Oracle Designer 2000 case tool.
+Architected physical database system based on business requirements (OLTP, DSS, ETL, performance, failover and business cycles).
+Database design (logical/physical) of package sortation system for OLTP and Data Warehouse. Data migrated to warehouse utilized Oracle advanced queuing, stored procedures and database links.
+Data Warehouse system fed daily from OLTP system for reporting financial,sortation rates and trends within the largest US sortation system.
+
+Delta Airlines – Production DBA 12/97 – 10/98 Atlanta, GA
+Maintained Oracle 8i productions servers (RAC/OPS environments) for Human Resource and Airline Maintenance systems (database creation, backup/recovery operations, DB2 gateway, application performance analysis and Documentum front end) (SUN Solaris, NCR and VAX/VMS)
+Set up two-way replication using Oracle gateway product.
+Designed and implemented a User Management system (Dynamic PL/SQL and Korn shell)
+
+Oracle DBA Boot camp – Instructor for DBA 02/98 – 03/98 Atlanta, GA
+Delivered a week long Database Administration and SQL class for Oracle internal DBA bootcamp.
+
+Genuine Parts (NAPA tools) – Oracle Conversion proposal 11/97 – 12/98 Atlanta, GA
+Performed evaluation and complete analysis of INFORMIX to Oracle conversion of an Inventory Application. Delivered proposal to perform the migration effort detailing the scope of work and level of complexity for conversion of the database and application components.
+
+COMSYS Consulting Inc. – Senior Database Consultant 10/95 – 11/97 Atlanta, GA
+Client: Alltel Communications
+Designed/implemented database maintenance processes (Korn and Perl shell) for Phone Billing Systems which utilized a distributed and replicated server environment on SYBASE database (HPUX). Automated database archival and Backup/Recovery processes (Korn and Perl Shell).
+Performed benchmarks for Sybase backup/recovery procedures for Enterprise databases on HP UNIX servers.
+Converted Sybase (T-SQL) transact stored procedures to Oracle PL/SQL procedures in a conversion project for a major Telecommunications Company client of Alltel Communications. Data Migrated and transformed using Oracle migration tool kit.
+Evaluated ERD Case tools for internal billing system (Erwin and S-Designer were best in league).
+
+Medaphis Hospital Service Corp. – Database Manager 11/93 – 10/95 Atlanta, GA
+Managed DBA and development team implementing new insurance billing system (MARS project).
+Transformed UML Use Cases into Logical Data model utilizing Rational Rose to Capture and maintain Metadata. Architected physical database layout. EasyCase for ERD metadata and Business Objects utilized for enterprise reporting.
+Designed/implemented distributed database on three Sybase/SQL Servers (200GB).
+Automated the generation of stored procedures (T-SQL) using Perl and SybPerl.
+Implemented Backup/Recovery Plan for system deployed at seven U.S. sites.
+Optimized database server procedures and SQL Server configuration
+
+Sybase Corp. – Senior Consultant 2/93 – 11/93 Atlanta, GA
+Designed logical/physical databases utilized CASE tools (Erwin, EasyCase).
+Taught SQL Server administration, Performance tuning, SQL and Open-Client programming.
+Implemented backup/recovery procedures for 24/7 system.
+Optimized SQL Server, stored procedures and triggers.
+Upgraded Sybase and SQL Server systems to current versions.
+Performed system recovery on database servers with corruption.
+
+SQL Financials International, Inc. – DBA 6/92 – 2/93 Atlanta, GA
+Performed DBA tasks on development and production Sybase/SQL Server systems (Backup/recovery scripting, tuning of server, stored procedures, indexes and triggers)
+Install and configure SQL Server and Gupta Sqlbase on multiple platforms (Novell, NT and UNIX).
+
+GTE Federal Systems Division – Database Engineer 11/90 – 6/92 Montgomery, AL Implemented data interface systems for Airforce Command and control system in C, Ada and Sybase open client software.
+Supported relational database design, wrote stored procedures and managed unit testing of all database access code.
+Migrated SQL server databases from 4.0 up to 10.0.
+
+EDUCATION
+M.S. Computer Information Systems, Georgia State University, 1998
+B.S.E.E, Electrical Engineering, Manhattan College, 1989
+Contact this candidate

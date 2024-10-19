@@ -1,0 +1,133 @@
+Karthikeyan Malaiyandi Samy
+Senior AWS Cloud DevOps Engineer
+Email: ad1s1l@r.postjobfree.com
+Phone: +1-610-***-****
+LinkedIn: www.linkedin.com/in/karthikeyan-samy
+
+Professional Summary
+Accomplished Senior AWS Cloud DevOps Engineer with over 12+ years of experience designing, automating, and optimising mission-critical deployments over large infrastructures. Proficient in leading cloud computing and DevOps solutions with a strong background in cloud migrations, infrastructure as code, and continuous integration/continuous deployment (CI/CD) practices.
+
+Extensive experience with AWS services like EC2, S3, RDS, Lambda, CloudFront, Route53, VPC, and more.
+Proficient in managing and provisioning cloud infrastructure using AWS CloudFormation and Terraform
+Skilled in developing and maintaining CI/CD pipelines with Jenkins, AWS CodePipeline, and Azure DevOps.
+Expertise in containerisation technologies like Docker and container orchestration with Kubernetes, Amazon ECS, and Azure AKS.
+Proficient with configuration management tools like Ansible, Chef, and Puppet.
+Experienced in scripting and automation with languages such as Python, Bash, and PowerShell.
+Strong understanding of version control systems, especially Git and SVN.
+Proficient in implementing and managing monitoring solutions like CloudWatch, Prometheus, Grafana, and Azure Monitor.
+Knowledgeable in database administration for SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Cosmos DB.
+Adept in identity and access management with AWS IAM, Azure Active Directory, and other security services.
+Knowledge of software development life cycle (SDLC) and Agile methodologies.
+Expertise in cloud cost optimisation and budget management.
+Experienced in data migration and transformation strategies across different platforms.
+Designed and implemented end-to-end data pipelines for ingesting, processing, and analysing large volumes of structured and unstructured data.
+Proficient in developing Infrastructure as Code (IaC) for repeatable and consistent deployment of resources.
+Experience with hybrid cloud and multi-cloud environments, including connectivity and management.
+Experience in Branching, Merging, Tagging, and maintaining the version across the environments using SCM tools like GIT (Git Bash, GitHub, Git GUI), SVN (Tortoise SVN), Source Tree and similar tools.
+Proficient in setting up and managing virtual private networks and direct connect solutions for hybrid environments.
+Integrated Docker container-based test infrastructure to Jenkins CI/CD test flow and executed build environment by integrating with GitLab and Jira to trigger builds using Webhooks and Slave Machines.
+Skilled in log aggregation and analysis using tools like ELK Stack (Elasticsearch, Logstash, Kibana).
+Managed Kubernetes cluster in the rollback and rollouts methods in the deployment strategies. Integrated Istio and helm packages with Kubernetes clusters for the service mesh.
+Implemented and managed container security using Twistlock, ensuring robust protection against vulnerabilities and threats in our containerized environment.
+Designed and maintained CI/CD pipelines using Argo CD and Flux CD for seamless application deployment and rollback strategies.
+Competent in leveraging serverless architectures to improve efficiency and reduce operational overhead.
+Experience with load balancing and auto-scaling services to ensure HA and fault tolerance.
+Capable of conducting technical workshops and training sessions for team members.
+Developed and maintained ETL workflows using Informatica to extract, transform, and load data from diverse sources into a centralized data warehouse.
+Ability to conduct security audits and risk assessments within cloud environments.
+Skilled in the strategic planning and execution of IT operations, development, and DevOps processes.
+Expertise in the management of container registries and artifact repositories.
+
+Tech Stack
+Cloud Platforms: AWS, Azure, GCP
+Infrastructure as Code: Terraform, AWS CloudFormation, ARM Templates
+Configuration Management: Ansible, Chef, Puppet
+CI/CD Tools: Jenkins, GitLab CI, Azure DevOps
+Containerization/ Orchestration: Docker, Kubernetes, Amazon ECS, Azure Kubernetes Service (AKS)
+Scripting Languages: Python, Bash, PowerShell
+Version Control: Git, SVN
+Monitoring Tools: Grafana, Prometheus, AWS CloudWatch, Azure Monitor
+Databases: MySQL, PostgreSQL, MongoDB, Azure Cosmos DB
+Security: IAM, Key Management Service (KMS), Azure Active Directory
+
+Certifications
+AWS Certified Solution Architect-Associate
+Terraform Certified Associate
+Certified Kubernetes Administrator (CKA)
+Google Cloud Platform – Associate Cloud Engineer
+VMware Certified Professional – Cloud (VCPC550)
+
+Professional Experience
+Client: Hewlett Packard Enterprises, NC
+Role: AWS DevOps Engineer
+Duration: Jan 2017 – Present
+
+Managed AWS cloud infrastructure utilizing EC2, S3, VPC, Route53, and other AWS services, ensuring 99.9% uptime.
+Collaborated with development teams to automate and improve the software development pipeline, achieving a 30% improvement in deployment frequency.
+Configured and maintained CI/CD pipelines using Jenkins and integrated automated testing to ensure the reliability of software releases.
+Orchestrated data migration from on-premises data centres to AWS S3 and EBS using AWS Data Migration Service.
+Implemented and managed AWS VPC, subnets, NACLs, and security groups for secure and isolated network environments.
+Automated infrastructure provisioning & management using AWS CloudFormation and Terraform.
+Configured AWS IAM policies and roles for secure access management across the organization.
+Established CI/CD pipelines using Jenkins and AWS Code Pipeline to automate the software delivery process.
+Integrated AWS CloudWatch and AWS X-Ray for comprehensive monitoring, logging, and tracing.
+Developed backup and disaster recovery strategies using AWS Backup and AWS Disaster Recovery.
+Enforced compliance with industry standards and regulations through AWS Config and AWS Shield for security.
+Created required reliable architectures and end-to-end migration plan for migrating Linux/Windows servers along with web applications into AWS cloud platform using services as IPSec tunnel, VPN gateway, Customer Gateway and Data Pipeline.
+Automated security patching and compliance checks using AWS Systems Manager.
+Integrated Jenkins with repositories like GitHub to build Automation tool (Maven) and artifact repository for pushing successful build code.
+Conducted load testing and tuning of AWS environments to ensure high performance and scalability.
+Managed cross-account AWS resource sharing and access with AWS Resource Access Manager.
+Coordinated with AWS support for advanced issue resolution and service optimization.
+Implemented AWS Direct Connect for dedicated network connections from on-premises to AWS.
+Collaborated with the development team to integrate source code analysis tools into the Jenkins pipeline, improving code quality and security.
+Designed and implemented API Gateway for routing and managing API calls to microservices.
+Configured AWS Lambda for serverless functions to run code in response to HTTP requests via API Gateway.
+Utilized AWS Elastic Container Service (ECS) and AWS Fargate for deploying and scaling containerized microservices without managing servers.
+Enabled service discovery and registry with AWS Cloud Map to support the dynamic nature of microservices.
+Automated the Linux server patching process using Puppet, ensuring that all systems were compliant with the latest security standards.
+Provided training and mentorship to junior DevOps engineers and peers on AWS best practices.
+
+Client: Bank of America, NC
+Role: Senior DevOps/Infrastructure Engineer
+Duration: Oct 2011 – Jan 2017
+
+Assisted in migrating legacy systems to AWS cloud, successfully reducing operational costs by 25%.
+Spearheaded the adoption of infrastructure as code using Terraform, leading to a more manageable and reproducible infrastructure.
+Designed a multi-cloud strategy for CI/CD pipeline integration between AWS and Azure platforms.
+Configured and maintained source code repositories with Git, facilitating version control and collaboration.
+Set up Jenkins and Azure DevOps for continuous integration, managing build and test automation across platforms.
+Engineered Docker containerization strategies for consistent deployment across development, testing, and production environments.
+Deployed and managed Kubernetes clusters using Amazon EKS and Azure AKS to orchestrate containerized applications.
+Collaborated with the IT and DevOps teams to integrate Twistlock seamlessly into the CI/CD pipeline, enhancing the security posture of applications from development to production.
+Automated deployment processes using Ansible playbooks and Chef recipes to configure and maintain server environments.
+Orchestrated database deployments and managed schema changes with automated tools and scripts.
+Managed secret keys and credentials using AWS KMS and Azure Key Vault to maintain security.
+Optimized container performance using AWS CloudTrail and Azure Monitor for operational insights.
+Developed custom scripts in Python and PowerShell to automate routine DevOps tasks across cloud platforms.
+Facilitated log aggregation and analysis using Amazon Elasticsearch Service with Kibana for operational intelligence.
+Coordinated blue/green deployments to minimize downtime and risk by shifting traffic between two identical production environments.
+Optimized data pipeline performance, addressing scalability and reliability challenges.
+Implemented Puppet for configuration management to automate the provisioning and management of Linux servers, ensuring consistent environments across development, testing, and production.
+Enforced governance and compliance policies for CI/CD operations across AWS and Azure.
+Documented the CI/CD pipeline setup and operations for knowledge sharing and compliance requirements.
+
+Client: Sify Technologies
+Role: Senior System Engineer
+Duration: Apr 2008 – Sep 2011
+
+Installation, configuration & management of Servers running Solaris, HP UX & RHEL
+System Administration includes User Management, File System Checks, RAID Configuration, NFS, NIS Integration, Cron Management, disk management in SVM & VVM, periodic patch installation, SNMP monitoring
+Analysing Hardware errors & dumps to co-ordinate with the vendor for fixing.
+Engaged in design & implementation of new client setup, POC & government Datacentre projects
+Deployment, troubleshooting and fixing application issues, in Apache, Oracle, WebLogic & Jboss
+Tracking SLA & following ITIL Standards in supporting the clients in Incident Management & Change Management.
+Have been part of the implementation team of the Sify Cloud Infrastructure.
+Provisioning of New Virtual Machines, Storage & VLAN Tagging on virtual components.
+Storage Administration for models such as HP EVA 4000/8000, Hitachi AMS 2500
+Working experience in various Backup Tools like Veritas Netbackup, HP DataProtector.
+Analysing Weekly Trend of Incidents & Changes/Problem and share report to clients.
+Attending Weekly/ Monthly calls to discuss on-going issues/ Incident Trend Analysis/ SLA trend.
+Responsible for arranging Quarterly Business Review Meeting along with feedback sessions.
+Undertaking calls with customers for improvisations/ upgradation in customer environment, DR Drill executions and solution re-designing.
+Contact this candidate

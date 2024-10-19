@@ -1,0 +1,93 @@
+Zoe Zong
+
+PROFESSIONAL SUMMARY
+With master background of Applied Statistics and 4+ years BI relevant experience, I'm more sensitive about data processing and data management. I can work immediately.
+•Full of work passion.
+•Relevant work experience (4 + years) of data analysis and management in IT and Manufacture industry, focus on data analysis, T-SQL queries, ETL packages, and business reports using R Studio, SQL Server Management Studio (SSMS), SQL Server Integration Service (SSIS) and SQL Server Reporting Services (SSRS).
+•Certified Base SAS programmer for SAS 9.
+•Highly knowledgeable of various Software Development Lifecycle (SDLC) methodologies, involved in Agile Scrum development management.
+•Experience in customer response modeling by using logistic regression with R Studio.
+•Skillful in T-sql queries, such as Stored Procedures, User-Defined Functions, Dynamic SQL queries, Views, Triggers, Indexes, etc.
+•Familiar with Data Cleaning and Data Validation during Staging area, before loading the data into the Data warehouse.
+•Creating Incremental Loading ETL packages using control flow tasks (Foreach loop, sequence container, Execute SQL task) and data flow tasks (Checksum, Conditional Split, Data Conversion, Look up, Derived Column, OLEDB command).
+•Knowledgeable of SQL performance tuning, including SQL Server Profiler, Tuning Advisor, and Execution Plans.
+•Experience in generating reports such as Parameterized Reports, Drill-Down Reports, Drill-Through Reports by SSRS, and deploying to end users with subscriptions.
+•Experience with analytic tools including R Studio, SAS, and Matlab.
+•Knowledge of Data Mining methods (such as decision tree and association rules), various regression predictive models and probability distribution models.
+•Good at using designing tools like MS Visio, Axure and Mind management.
+•Experience in creating Tableau dashboard, such as geographic map, pie-charts and scatter plots based on KPI’s to present market overall perspective.
+•Knowledgeable of using SSAS to create cubes and compare data mining models.
+
+TECHNICAL SKILL LIST
+Database Services: Server Integration Service (SSIS), Server Reporting Services (SSRS), Server Analysis Service (SSAS).
+Data Tools: SQL Server Management Studio (SSMS), Tableau9.2, R Studio 3.0, SAS 9.3.
+Programming Languages: T-SQL, R, C# (a little).
+Platforms: Visual Studio 2008/2010, Team Foundation Server (TFS) 2008, SharePoint, Jira.
+
+EDUCATION
+Master in Applied Statistics – New Jersey Institute of Technology, NJ
+Bachelor in Material Engineering – Nan Jing University of Science and Technology, China
+
+PROFESSIONAL EXPERIENCE
+
+Summitwork company. 09/2015 – Current
+Business Intelligence Developer (SSIS/SSRS)
+In-house mortgage strategy project:
+Develop and update Mortgage data warehouse, provide SQL supports for data analysts, present ad-hoc reports using SSRS and Tableau as well.
+Responsibilities:
+Update historical data warehouse using incremental loading process.
+Design ETL (Extract, Transform, and Load) strategy to transfer data from varies sources to the loading area to do data cleaning and data validation.
+Accomplish various SSIS tasks, such as Conditional Split, Derived Column, Checksum, and Union All to achieve target table.
+Implement Event Handlers to generate the log table which help with error handling and execution management.
+Use checkpoint files to automate the restarting process from the point of failure up to some extent.
+Create jobs to incremental loading data automatically, set notification alerts as well to send email when some errors happen or packaged has executed well.
+Use event handler to create log table which can help to check the performance of SSIS packages process.
+Check execution plan and use SQL server Profiler to optimize and enhance queries performance.
+Generate reports using SSRS for internal project, use parameters and filters to exhibit market trend and customer distribution with trill-through, trill-down, geographic map format.
+Use Tableau to create dashboard to present customer characteristics and market trends for business presentation, such as geographical maps, bar graphs, scattered plots, etc.
+Participated in User Acceptance Testing (UAT) for different modules. Helped to create Test Cases and Test Plans.
+Involved in data modeling design to clarify customer segmentation by using customer reaction data using R Studio.
+Environment: SSMS 2012, T-SQL, SSIS, SSRS, Tableau, TFS, R Studio
+
+IZP Technologies Co., Ltd. 10/2011 – 08/2013
+Product & Data Manager (SSMS/SSIS/MindManager)
+IZP Technologies Co., Ltd. provides digital marketing solutions in the fields of market research, digital marketing, Internet and user experience for telecom media technology industry.
+Responsibilities: Design and Developed Advertisement Data warehouse. Analyze ideal customer cluster for mobile advertisement department.
+Details:
+•Extract data from various sources, do data Cleaning and validation as well.
+•Implemented various SSIS Transformation tasks in ETL packages to incremental loading data, such as Conditional Split, Merge, Lookup, Aggregation, Derived Column, Checksum, etc.
+•Work on pre-aggregation and pre-join in staging area with multiple advertisement data, such as operation time, exhibition volume and click.
+•Calculate and extract data for data analysts to build predictive model with user characteristics data and user behavior.
+•Provide requirements on the function setting of manifold modules in both the front-end and back-end platform, such as ads present module and users statistics module.
+•Work with business manager, development manager and department director across functional units to identify business needs, business promotion and solution options.
+•Organized product Agile Scrum meetings with platform developers and user interface designers to complete project plans, and followed up schedules.
+•Involved in test procedures based on requirements documentation, improve performance of data warehouse update.
+•Facilitated user acceptance testing of software, train system users on software use.
+Environment: Outlook, MS SQL Server 2008, SSIS, SSRS, Management Studio, MS Visio, TFS, MindManager.
+
+Xiamen35.Com Technology Co., Ltd. 08/2010 – 10/2011
+Business Intelligence Developer (SSMS/SSRS/Axure)
+Xiamen 35. Com Technology Co., Ltd. is principally engaged in the provision of software products and information technology (IT) services to Chinese small and medium enterprises.
+Responsibilities: Help to develop and maintain the Operation Data Warehouse ecosystem, also toke responsibility on Office Suits new version improvement.
+Details:
+•Maintain data delivery from back-end and excel files to ODS (Operation Data Store) data warehouse.
+•Generated product performance reports based on operation data, such as drill down, drill through, parameterized reports and summary reports.
+•Created Subscription of Reports in different formats, generated automatically every week.
+•Created different levels of reports for HR department, such as server level security, folder level security and report level security, created Filters to improve readability of reports as well.
+•Take responsibility on Office Suits APP new version update, using Agile Scrum management.
+•Provided detailed Product Requirements Documents (PRD) of Office Suits APP.
+•Using MS Visio to present logistic flow, using Axure to present interaction prototype.
+Environment: SQL Server 2008, SQL Server Integration Services (SSIS), SQL Server Management Studio (SSMS), Axure.
+
+Babcock & Wilcox 07/2009 – 08/2010
+Marketing Analyst Assistant (SSRS)
+Established in 1867, Babcock & Wilcox is a global leader in energy and environmental technologies and services for the power and industrial markets.
+Responsibilities: Responsible for preparing, reporting, and maintaining of monthly, quarterly and annual productivity reports using SSRS.
+Details:
+•Designed and created drill down, drill through, parameterized reports and summary reports using SSRS, generated these reports using variables, expressions and functions.
+•Deployed SSRS packages in Developing Server, created subscription weekly and monthly.
+•Created User Conditions and Filters to improve report generation and readability.
+•Managed data (calculation, aggregation) for operation section using excel, help them to adjust production schedule.
+•Present comparison report quarterly using graphs and charts.
+Environment: Outlook, MS SQL Server, SSRS, SharePoint, Microsoft Office Suites.
+Contact this candidate

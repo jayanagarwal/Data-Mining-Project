@@ -1,0 +1,95 @@
+Phil Maddocks
+Seattle, WA 206-***-**** ad00p3@r.postjobfree.com www.linkedin.com/in/phil-maddocks
+Software Quality Assurance Engineer
+Accomplished QA engineer with a passion for helping maximize software stability/usability and demonstrated experience supporting successful commercial releases for numerous top companies including Microsoft, Amazon, Starbucks, and Adobe. In-depth knowledge around Agile and SDLC development methods, in addition to familiarity with a wide range of software, network, multi-tier systems and operational infrastructure. Skilled at leading test planning, team resource allocation, and QA best practice development—as well as managing test tool suites and test automation efforts.
+Types of products/systems tested to date include Desktop, Mobile, and Web applications, strong proficiency in the use of Canvas PowerApp, Test Studio, TestRail, Postman, Browser Dev Tools, Charles Proxy, TFS, Axosoft, ADB, Stream Cap, Android Debug Bridge, Selenium (C#, Java), MS DevOps, and Windows & Apple OSX— as well as the entire Microsoft/Amazon Technology stack.
+Key Skills & Qualifications
+Software QA Blackbox & Whitebox Testing Hardware / Firmware / Software QA
+Agile, Scrum, Kanban & TDD Test Scripting & Automation Test Case Management
+Azure / AWS Cloud Applications IT / Development / Sustaining QA Manual API Testing
+Charles Proxy on Mobile SDLC Methodology Debugging / Bug Documentation
+Stress Testing / Load Testing Cross-Functional Collaboration Web Testing/UX & Code Level
+Professional Experience
+Quality Assurance Tech TEKsystems (Amazon Photos) Jun 2023 to 0ct 2023
+• Conducted Amazon Photos iOS Application verification and regression test ( iOS iPhone , Mac)
+• Utilized Charles proxy to verify metrics and record specific application calls
+• Conducted tests using Charles proxy that involved rewriting local and remote calls
+• Performed feature verification for the iOS and Android App on mobile devices
+• Utilized ADB to update Photos App and accessed appropriate log files on Android device
+• Test case execution using TestRail and Jira
+
+Quality Assurance Tech TEKsystems (Amazon Prime Video – PTS) Apr 2022 to Jan 2023
+• Conducted Prime Video Application verification (Amazon Android Devices, IOS Iphone and Ipad, AppleTV, Windows, Mac, Smart TV, 3rd Party Android tablets and phones such as Samsung and Google)
+• Performed new feature verification for Thursday Night Football, as well as NZ Cricket feature verification— verifying new streaming technology and leading a team to verify multiple features for a series of tier 1 Cricket Matches
+• Utilized ADB to update Prime Video clients on FireTV, Amazon Tablets, and 3rd party devices to latest appropriate build, updated firmware Operating System on Amazon devices, enabled/disabled device features as well as development features, generated and accessed appropriate log files
+• Created Test Plan documentation and documented procedures for testing new features
+• Set up and used Test Rails for test case management and tracking
+• Performed CDN verification and failover test planning/execution, identifying the correct CDN is being used including CloudFront, LimeLight and Akamai, verification used internal tools or browser-specific features to verify expected Header information—verifying the change occurred with minimal change in CX
+• Handled data stream verification, including HTTP headers using developer tools or Charles Proxy on devices, streamed technology such as Sye and HLS and ensured expected video quality was displayed using stream capture and onscreen data tools via ADB
+Senior QA Analyst TEKsystems (Amazon AWS IoT – Twinmaker) Nov 2021 to Apr 2022
+• Setup and configured AWS IoT Twinmaker Workspace Console
+• Created and maintained manual TestRail tests and created/implemented test plans within TestRail
+• Configured a Grafana viewer and used CloudFront to deploy various components/configurations via testing scripts
+• Using AWS CLI on a daily basis, as well as AWS S3
+• Working closely with QA and Dev components of an Agile team
+• Ensured browser compatibility and performed cookie review/modification for testing scenarios
+Senior QA Analyst TEKsystems (Starbucks) Mar 2020 to Oct 2021
+• Investigated an implementation for a new test case management tool
+• Analyzing and developing test cases for Canvas Power app
+• Championed use of Agile testing practices, developed user stories, and created Agile test plan templates
+• Reviewed/identified QA gaps and managed the test automation framework timeline
+• Continually researched best testing practices for PowerApp technology stack
+• Fully participated in Agile ceremonies, standup, planning, demo and story grooming sessions
+Senior QA Analyst – TEKsystem (Adobe – AdminConsole) Aug 2019 to Feb 2020
+• Worked in an Agile environment, participating in ceremonies, standups, demos and grooming sessions
+• Performed story functional analysis, identified system component current and changed states
+• Consistently investigated and solved testing issues that were in areas of AdminConsole that were new or undocumented, communicated changes to other project and test team members
+• Conducted test case development, identifying the manual steps for consistent repeatable cases
+• Drove defect investigation, Chrome/Firefox/Safari network/dev tool as well as Charles Proxy to capture network streams and identify if it is the data issue or UI
+• Collaborated using web-based, Jira, GIT, Slack, SharePoint, Outlook and BlueJeans for communication
+• Leveraged the latest OSX tools to provide complete information for developers to quickly repro/fix issues
+Senior Software Test Engineer – WideNet Consulting (Symetra Financial) Jun 2018 to Sep 2018
+• Led manual test case development and annuity application configuration
+• Performed defect investigation/documentation and downstream interface test design and documentation
+• Quickly ramped up on different interfaces and adapted smoothly to the use of a new Agile approach
+• Tested interfaces on new and legacy systems and conducted manual API testing using Swagger/Postman
+• Primarily worked in VSTS and Slack for assignments and collaboration
+• Primarily manual testing via new system UI to various flat file “interfaces” to legacy systems
+Application Test Engineer WideNet Consulting (BECU) May 2017 to May 2018
+• Performed test case development (manual/automated) and documented all bugs discovered
+• Ran test scripts and created Selenium/Nunit automation using a framework in C#
+• Worked with developers to review developer unit tests and manual API testing with Swagger
+• Used WireShark for capturing data for system troubleshooting, https, and TCP/IP
+• Participated in a team offsite Pivotal Agile program, including user design testing and user story creation using Pivotal Tracker, additionally worked with Test-Driven Development (TDD) pairing
+• Led initial ADA compliance discovery testing primarily using Windows 10 Narrator
+• Drove UI testing of an interview style, multi-branch mortgage point of sale system
+Application Test Engineer WideNet Consulting (Marcus & Millichap) Feb 2016 to Dec 2016
+• Worked onsite at Marcus & Millichap to perform operational testing of a business line application
+• Conducted twice weekly QA maintenance and operation—in addition to documenting legacy applications
+• Using basic SQL queries and modifications of existing code to verify and perform testing tasks effectively
+• Managed bug reporting using both TFS online and Axosoft
+• Performed QA and verified fixes on a wide variety of web and windows business line applications
+• Collaborated between both local and remote team members in a quickly moving scrum environment
+• Handled Selenium and Nunit web page automation using C# in Visual studio to work in Jenkins
+Software Test Engineer Sysgain (Microsoft) Nov 2014 to Jun 2015
+• Constructively interacted with team members to assure quality deliverables as part of an Agile process
+• Led modern UI Application testing to verify features and resources access during daily builds
+• Performed QA on a customized SharePoint framework both via the web and Modern UI App
+• Handled bug reporting using TeamPulse
+• Drove network data investigation using Fiddler web proxy, HttpWatch, Netmon, and WireShark
+• Served as intermediary between Dev and the products helpdesk for facilitating fixes
+Lead Application Test Engineer Server Ops Bill & Melinda Gates Foundation Dec 2008 to Dec 2013
+• Successfully led a small team of QA testers on multiple parallel projects
+• Scoped tools needed to verify system access and integrity in numerous remote locations with redundancy
+• Participated in a community of practice to improve QA standards and consistency
+• Set QA standards for test case development, writing, and recording as tools and projects required
+• Created living onboarding documents to speed integration into the project pipeline in the QA organization
+• Developed ongoing training for QA team members for gathering requirements and identifying risks
+• Planned/executed test plans dependent to project requirements, communicated issues as discovered
+• Wrote test scripts used to verify Cisco switches during a facility build out as well as maintenance
+• Tested Akamai initial deployment and various updates in cooperation with Network administrators
+Additional prior software QA roles held with Microsoft, Chromium Communications, and Chameleon Tech (Bill & Melinda Gates Foundation account), further details available upon request
+Education & Additional Information
+Bellevue College C# Programming 1& 2, Adult & Continuing Education
+Clover Park Technical College Programming & Operations Certificate
+Contact this candidate

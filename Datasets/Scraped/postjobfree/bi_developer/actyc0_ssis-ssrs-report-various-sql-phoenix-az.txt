@@ -1,0 +1,126 @@
+PROFESSIONAL PROFILE
+
+Over *+ years of experience in SQL Server with excellent knowledge in all phases of software development cycle using Agile and Waterfall methodologies.
+Excellent experiences as SQL/BI Developer in IT Industry using Microsoft SQL Server 2008/2005 and Business Intelligence Suite.
+Extensive experience in Performance Tuning T-SQL queries using Execution plan.
+Excellent T-SQL Developer skills including Complex Stored Procedures, Indexes, Views, User Defined Functions, Triggers, Cursors, Transactions, Constraints, SQL Server Database design, developing Transact- SQL queries, Joins, Subquery, CTE using SQL Servers to facilitate efficient data manipulation and data consistency.
+Well experienced in software unit testing, functional testing, integration testing and performance testing and highly efficient at fact-finding, root cause analysis and bug-fixing.
+Experience in BI Development of SSIS Package for integrating data using OLE DB connection from heterogeneous sources like (Excel, CSV, Oracle, flat file, Text Format Data) by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, Bulk Insert, Merge and union all.
+Excellent experience in configuration process for dynamic connection string, Deployment of package using Deployment Utility, Job scheduling for Execution of Package using SQL Agent.
+Experience in Logging and Error Handling by using Event Handler, data viewer and Error Redirection for SSIS package
+Involved to work with SSAS cubes for creating dimension, fact tables & KPIs using Star and Snowflake Schemas.
+Excellent experience in creating different types of Tabular, Matrix, Drill-Down, Drill Through, Cascaded parameterized and Sub reports using SSRS.
+Hands on experience in deployment and execution of SSRS reports in Report Manager.
+Defined Dimension Models based on existing fact & dimension tables in Relational Data Warehouse.
+Involved in Huge data migrations, transfers using utilities like SSIS, Bulk Copy Program (BCP) and Bulk Insert, Importing/Exporting Data from various data sources like Excel, XML and Flat file using Openrowset and OpenQuery.
+Database Administration – Backup, restore, security, Job Scheduling and Linked server.
+Used SQL Profiler to optimize queries and enhance the performance of database servers.
+Involved in Data Modelling for Reverse engineering using Erwin.
+Experience in preparing Basic flowchart, Work Flow diagram, Cross Function flowchart, Business flowchart, Organization chart using UML tool like MS Visio.
+Involved in Installation, Configuration and Updates of SQL Server.
+Intensively involved in supporting, maintaining and troubleshooting activities for software applications.
+Excellent analytical, advisory and problem solving skills, team player, self-motivated, quick learner and willing to learn new concepts and technologies with strong interpersonal and communication proficiency.
+
+Key Technical Skills
+Databases: SQL Server 2012/2008/2005.
+ETL Tool: SSIS.
+OLAP: SSAS.
+Reporting Tool: SSRS, Crystal Reports 11, MS Excel PowerPivot 2010.
+IDEs: MS Visual Studio 2008/2005, BIDS.
+Operating Systems: Windows 7/XP
+Design Patterns & Methodology: Agile methodology with Scrum, Water-fall.
+Data Modelling Tool: MS Visio, Erwin.
+Version Control: Team Foundation Server (TFS), Visual SourceSafe (VSS).
+
+Certification & Education
+Bachelor of Engineering (2001-2005)
+Master of Science (2008-2010)
+Oracle Certified Associate (OCA) PL/SQL Developer
+
+Oracle Database SQL Expert (Nov-2015 to Present)
+
+Exam Number: 1Z0-047
+Exam Product Version : SQL and PL/SQL
+
+Professional Experience
+
+MS SQL Server - BI Developer (May-2013 to Nov-2015)
+
+Employer: AES Technologies
+Project: Consumer Software Reporting Team
+
+The purpose of this project is to maintain the Consumer Software Report data from different channels. Channels include Chat, Phone, Video Chat, Revenue, and Incidents. CSR team (CSRT) deals with extracting data from different channels and process it with business logics and load the formatted data into Production server using SSIS and provide Excel reports for all vendors. SQL Jobs are scheduled for daily data pull. Maintain and monitor the scheduled packages and creation of reports based on the extracted data using Excel Pivot.
+
+Responsibilities
+
+Coordinated in the day to day activities of the team relating to DB objects.
+Involved in understanding the business requirements & existing data model.
+Developed packages to pull data from heterogeneous sources, transform the data according to the business requirement and load into the destination tables.
+Worked with heterogeneous sources such as flat files and relational sources.
+Created SSIS Packages using Control flow task, Execute SQL task, Data Flow task, Script task, Container, Precedence Constraints and Expressions, Data Profiling task, Data Flow Transforms, Data Conversion, Derived Column, Conditional split, union all, Merge Join, Sort, Aggregate, Pivot Transformation, Fuzzy Lookup, Term Lookup according to the business requirements.
+Worked with Parameters and Expressions in SSIS package.
+Worked with Data viewer in Data flow task for debugging package and Logging by enabling it to record the events and error message from the package.
+Involved to work with SSAS cubes for creating dimension, fact tables & KPIs.
+Created Stored Procedures for HTML Database Mail.
+Worked with MS Excel 2010 Power Pivot for Reporting.
+Created the automated processes for the activities such as database backup processes and SSIS Packages run sequentially using SQL Server Agent job.
+Involved in unit testing against the developed packages and reports.
+Took complete ownership of DB on data comparison, troubleshooting and performance.
+Analysing and writing Stored Procedures, Functions, Index & Triggers in SQL.
+Used Execution plan for Performance Tuning.
+Database backup and restoring it.
+Prepared flowcharts using MS Visio for design documents and presentation.
+Assisted team members with code reviews.
+Responsible for the review of all deliverables.
+Provided critical bug fixes for high priority problems.
+
+Environment: SSIS, SSAS and SQL server 2008 R2/2012, MS Excel Power Pivot, DB Backup, Restore, Security, Job Scheduling.
+
+MS SQL Server – BI Developer (Aug-2011 to Apr-2013)
+
+Employer: Vedanta Resources
+Client: Sterlite
+Project: Material Management
+
+Materials management system is responsible for procurement, stocking and control of inventory. The Materials Management system also responsible for recording and reporting the movement of the inventory within the company
+
+Responsibilities:
+
+Involved in Designing, Developing and Testing of the ETL (Extract, Transformation and Load) strategy to populate the data from various source systems feeds using SSIS.
+Designed ETL packages dealing with different data sources (SQL Server, Flat Files) and loaded the data into target data sources by performing different kinds of transformations using SQL Server Integration Services (SSIS).
+Responsible for coding SSIS processes to import data into the Data Warehouse from Excel spreadsheets, Flat Files and OLEDB Sources.
+Involved in building and maintaining SSIS Packages to import and export the data from various data sources using BIDS based on the design data models.
+Worked on various tasks and transformations like Execute Sql Task, Execute Package Task and conditional split, Script Component, Merge and Lookup while loading the data into Destination.
+Created stored procedures, Triggers, User-defined Functions, Views for both Online and Batch requests handling business logic and functionality of various modules.
+Responsible to support SQL Servers with ever-changing workloads, and achieving some level of predictable performance (or minimizing variance in plans and performance).
+Created Packages, Jobs and Sending Alerts using SQL Mail, database Backup, Recovery and Disaster Recovery procedures. Planned the complete Back-up of various Databases for Disaster recovery scenarios.
+Administering the MS SQL Server by creating user logins with appropriate roles, dropping and locking the logins, monitoring the user accounts, creation of groups, granting the privileges to users and groups.
+Creating Ad Hoc and parameterized various Reports using SQL server 2008 R2 / 2012 Reporting Services.
+Report parameters included single valued parameters, multi-value parameters which also consisted of different parameter types like hidden, internal, default (queried and non-queried parameters).
+Created various ad-hoc SQL queries for customer reports, executive management reports and types of report types like tables, matrix, sub reports etc.
+Have used BCP, BULK INSERT to transfer data from and to SQL server database.
+
+Environment: MS SQL SERVER 2008 R2, SQL Server 2012, SSIS, SSRS, Microsoft Visual Studio 2008, SQL Profiler, Microsoft Visio.
+SSRS Report Developer June-2010 to Jul-2011
+
+Employer: Vedanta Resources
+Client: BALCO
+Project: Sales & Operations
+
+Vedanta Resources is a London Stock Exchange listed, globally diversified natural resources major with interests in Zinc, Lead, Silver, Copper, Iron Ore, Aluminium, Power and Oil & Gas. Budget and Production plans are made based on the reports generated in the Sales & Operations unit. These reports play an important role in determining the balance between supply and demand & optimizing the resources for production
+
+Gathered requirements, analysed database schemas, and built SSRS reports.
+Created reporting suite of over 42 standard reports while also customizing many existing reports to meet individual client needs.
+Developed different type of reports including: Production report, Sales report, Accounting Statement report, Work In Progress report, Purchase report, Product Quality report, Inventory report and other Management reports by using SSRS and SQL Server 2008.
+Used complex expressions to calculate, group, filter, parameterize, and format the contents of the report.
+Experienced in handling Tabular and Parameterized reports in SSRS.
+Developed various operational Drill-through and Drill-down reports using SSRS.
+Developed different kind of reports such a Sub Reports, Charts, Matrix reports, Linked reports.
+Scheduled and managed daily/weekly/monthly sales and operational reports based on the business requirements.
+Deployed generated reports onto the report server to access it through browser.
+Responsible for Monitoring and tuning Report Performance.
+Involved in trouble-shooting SSRS reports and maintained proper documentation for future references and used role based security to control access to folders and report.
+Accessed Oracle Database using SQL Server Database Links and Open Query features.
+
+Environment: SQL Server 2008/2005, Microsoft SQL Server 2008 Reporting Services, SQL Server Management Studio Reporting Services, Visual Studio 2008
+Contact this candidate

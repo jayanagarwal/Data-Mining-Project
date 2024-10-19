@@ -1,0 +1,178 @@
+John Flores
+Email: adzozl@r.postjobfree.com Phone: 305-***-****
+Profile Summary
+
+●An achievement-driven professional offering close to 10+ years of experience in the development of custom Big Data Solutions, passionate about technology and computation.
+●In-depth knowledge of real-time ETL/Spark analytics pipelines using Spark SQL with visualization tools such as Tableau, Power BI, ELK, Splunk, and Elastic Search.
+●Strong technical skills, including proficiency in programming languages such as Scala or Python, SQL, and Shell scripting, and experience with big data technologies such as Hadoop ecosystem, Cloudera, Snowflake, and Spark/Spark Streaming.
+●Ability to troubleshoot and tune relevant programming languages like SQL, Python, and Scala. Able to design elegant solutions using problem statements.
+●Skilled in working on SQL and developing other Relational Database Management System which includes PostgreSQL and MS SQL Server.
+●Skilled at working in the AWS ecosystem, building the architecture, and performing a project involving the movement and transformation of data.
+●Proficient in working on AWS tools (Redshift, Kinesis, S3, EC2, EMR, DynamoDB, Elasticsearch, Athena, Firehose, Lambda, Glue, Crawler, Data Catalog).
+●Experienced with multiple Hadoop distributions including Cloudera (Cloudera manager) and Hortonworks (Ambari).
+●Experience in Migrating SQL database to Azure Data Lake, Azure data lake Analytics, Azure SQL Database, Databricks, Azure Data Factory, and Azure SQL Data Warehouse and controlling and granting database access and Migrating On-premises databases to Azure Data Lake store using Azure Data Factory.
+●Built and configured virtual environments for running multiple Big Data systems.
+●Worked with stakeholders to understand their data needs and ensure that the company’s big data infrastructure supports their requirements.
+●Expert at creating HDFS and implementing RDMBs into HDFS using the Sqoop tool.
+●Extensive experience in performance tuning, for instance, SQL and Spark query tuning.
+●Strong analytical skills for troubleshooting and problem-solving.
+●Received awards such as Excelencia Estudiantil and Embajador ITESM.
+
+Technical Skills
+
+●Big Data Platforms: Hadoop, Cloudera Hadoop, Snowflake, Databricks
+●Hadoop Ecosystem (Apache) Tools: Kafka, Spark, Cassandra, Flume, Hadoop, Hadoop YARN, HBase, Hive, Airflow, Spark Streaming, Sqoop, Oozie.
+●Hadoop Ecosystem Components: Sqoop, Kibana, Tableau, Power BI, AWS, Apache Airflow, GCP.
+●Scripting: Python, Scala, SQL.
+●Data Storage and Files: HDFS, Data Lake, Data Warehouse, Redshift, Parquet, Avro, JSON, Snappy, Gzip, ORC, BSON.
+●Databases: Apache Cassandra, Apache HBase, MongoDB, PostgreSQL, MySQL, RDBMS, DB2, DynamoDB, AWS DocumentDB, Snowflake, MS SQL Server, Oracle.
+●Cloud Platforms and Tools: AWS, S3, EC2, EMR, Redshift, Lambda services, Microsoft Azure, Open Stack, Google Cloud Storage.
+●File Systems: HDFS, S3, Azure Blob, GCS
+●ETL Tools: Sqoop, AWS Glue, Azure Data Factory, Apache Airflow
+●Data Visualization Tools: Tableau, Power BI
+●Data Query: Spark SQL, PySpark, Pandas.
+●Programming Languages: Java, Python, Scala
+●Scripting: Hive, SQL, Spark SQL, Shell Scripting
+●Continuous Integration (CI-CD): Jenkins, Git, Bitbucket, AWS CodePipeline, CodeCommit
+
+WORK EXPERIENCE
+
+Sr. Cloud Engineer (AWS)
+Cigna Group, Bloomfield, CT, Aug 2021 - Present
+
+●Building real-time streaming systems using Amazon Kinesis to process data as it is generated.
+●Creating different pipelines in AWS for end-to-end ETL processes.
+●Designing and implementing data pipelines to extract, transform, and load data from various sources into an Amazon S3 data lake or Amazon Redshift data warehouse.
+●Optimizing data processing systems for performance and scalability using Amazon EMR and Amazon EC2.
+●Installing AWS command line interface (CLI) to interact with S3 bucket to download and upload files.
+●Processing data with a natural language toolkit to count important words and generated word clouds.
+●Implementing data governance and security protocols using AWS Identity and Access Management (IAM) and Amazon Macie to ensure that sensitive data is protected.
+●Collaborating with data scientists and analysts to develop data pipelines for tasks such as fraud detection, risk assessment, and customer segmentation. Develop and implement recovery plans and procedures.
+●Creating Apache Airflow jobs to orchestrate pipeline executions.
+●Transforming the data stored on old mainframe computers to more recent methods of storing data with a tie into MySQL in AWS RDS.
+●Setting up and maintaining data storage systems, such as Amazon S3 and Amazon Redshift, AWS Glue jobs, and AWS Step Functions to ensure data is properly stored and easily accessible for analysis.
+●Developing a data pipeline that included files being stored on an AWS EC2 instance, decompressed, sent to an AWS S3 bucket, and transformed to ASCII. Rules were applied to data based on DDL from the client Oracle database admin.
+●Setting-up cloud compute engine in managed and unmanaged mode and SSH key management.
+●Containerizing Confluent Kafka application and configured subnet for communication between containers.
+●Creating and maintaining documentation for the company’s big data infrastructure and systems, including design diagrams, system configurations, and best practices
+●Developing AWS Cloud Formation templates and Terraform as well to create a custom infrastructure of pipeline.
+●Running Python scripts to initiate custom data pipeline used to download files, transform data within files, and upload to MySQL database server and other RDBMS.
+●Creating and optimizing data processing workflows using AWS services such as Amazon EMR and Amazon Kinesis Firehose and Kinesis Streams to process and analyze large amounts of data in a timely and efficient manner.
+
+Sr. Data Engineer
+Costco Wholesale, Issaquah, WA, Dec 2019 – Aug 2021
+
+●Designed a cost-effective archival platform for storing Big Data using Azure Data Lake Storage and its related technologies.
+●Developed a task execution framework on Azure Virtual Machines using Azure SQL Database and Azure Cosmos DB
+●Collected business requirements from subject matter experts and data scientists and implemented them in Azure Synapse Analytics.
+●Transferred data using Azure Data Factory from various sources such as Azure Blob Storage, Azure SQL Database, and Azure Cosmos DB for cloud data storage.
+●Used different file formats such as CSV, JSON, Parquet, and Avro for data processing in Azure HDInsight.
+●Loaded data from various data sources into Azure Data Lake Storage Gen2 using Azure Event Hubs.
+●Integrated Azure Event Hubs with Azure Stream Analytics for real-time data processing in Azure HDInsight and used Azure Elasticsearch for indexing and searching.
+●Built a Full-Service Catalog System with a full workflow using Azure Logic Apps, Azure Event Grid, Azure Functions, Azure Search, and Azure Monitor.
+●Connected various data centers and transferred data using Azure Data Factory and Azure Databricks in the Azure HDInsight system.
+●Used shell scripts to dump the data from Azure SQL Database to Azure Data Lake Storage Gen2.
+●Built a prototype for real-time analysis using Azure Stream Analytics and Azure Event Hubs in the Azure HDInsight system.
+●Loaded and transform large sets of structured, semi-structured, and unstructured data using Azure HDInsight, Azure Databricks, and Azure Data Lake Storage Gen2 for ETL, pipeline, and Spark streaming, acting directly on the data stored in Azure Data Lake Storage Gen2.
+●Extracted data from RDBMS (Oracle, MySQL) to Azure Blob Storage using Azure Data Factory.
+●Used Azure Cosmos DB in implementation and integration for NoSQL databases.
+●Configured Azure Data Factory workflow engine scheduler to run multiple jobs in the Azure HDInsight system.
+●Consumed the data from the Azure Event Hubs using Azure Stream Analytics and deployed the application jar files into Azure Virtual Machines.
+●Used Azure Marketplace to create virtual machines containing Azure HDInsight and running Hadoop, Spark, and Hive.
+●Streamed analyzed data to Azure Synapse Analytics using Azure Data Factory, making it available for data visualization.
+●Used the Azure Synapse Analytics SQL serverless endpoint to verify the data stored in the Azure Data Lake Storage Gen2.
+
+Sr. Data Engineer
+Best Buy Co. Inc., Richfield, MN, Jan 2018 - Nov 2019
+
+●Developed PySpark application to read data from various file system sources, apply transformations and write to NoSQL database in GCP environment.
+●Implemented Rack Awareness in the Production Environment using GCP resources.
+●Collected data using REST API, built HTTPS connection with client-server, sent GET request, and collected response in Pub/Sub.
+●Imported data from web services into Cloud Storage and transformed data using Cloud Dataproc.
+●Executed Hadoop/Spark jobs on GCP Dataproc using programs, and data stored in Cloud Storage Buckets.
+●Automated, configured, and deployed instances on Google Cloud Platform (GPC).
+●Used BigQuery for creating and populating the Cloud Bigtable warehouse.
+●Worked with Spark Context, Spark -SQL, DataFrames, and Pair RDDs on GCP Dataproc.
+●Ingested data through GCP Pub/Sub and Dataflow from various sources to Cloud Storage.
+●Architected a lightweight Kafka broker and integrated Kafka with Spark for real-time data processing on GCP.
+●Created Hive external tables and designed data models in Apache Hive on GCP Dataproc.
+●Developed multiple Spark Streaming and batch Spark jobs using Scala and Python on GCP Dataproc.
+●Implemented advanced procedures of feature engineering for the data science team using in-memory computing capabilities like Apache Spark written in Scala on GCP.
+●Extracted data from different databases and scheduled workflows using Cloud Composer to execute the task daily.
+●Worked with GCP services such as Cloud Storage, Pub/Sub, Dataflow, Dataproc, and BigQuery, and was involved in ETL, Data Integration, and Migration.
+●Documented the requirements including the available code which should be implemented using Spark, Cloud Firestore, Bigtable, and Stackdriver Logging in GCP.
+●Worked on GCP Dataflow for processing huge amounts of real-time data.
+
+Cloud Engineer
+Citigroup Inc., New York, NY, Dec 2016 - Jan 2018
+
+●Ingested data into AWS S3 data lake from various devices using AWS Kinesis.
+●Implemented usage of Amazon EMR for processing Big Data across the Hadoop Cluster of virtual servers on Amazon Elastic Compute Cloud (EC2), Amazon Simple Storage Service (S3), and AWS Redshift.
+●Implemented AWS Lambda functions to run scripts in response to events in the Amazon Dynamo DB table or S3.
+●Created AWS Lambda functions using the boto3 module in Python.
+●Migrated SQL database to Azure Data Lake.
+●Used AWS Cloud Formation templates to create a custom infrastructure for our pipelines.
+●Decoded raw data from JSON and streamed it using the Kafka producer API.
+●Integrated Kafka with Spark Streaming for real-time data processing using Dstreams.
+●Implemented AWS IAM user roles and policies to authenticate and control access.
+●Specified nodes and performed the data analysis queries on Amazon Redshift clusters using AWS Athena on AWS.
+●Processed multiple terabytes of data stored in AWS using Elastic Map Reduce (EMR) to AWS Redshift.
+●Created POCs on Microsoft Azure using Azure Blob storage and Azure DataBricks.
+●Created UDFs in Spark using Scala programs.
+●Assisted in designing, building, and maintaining a database to analyze the lifecycle of checking transactions.
+●Designed and developed ETL jobs to extract data from AWS S3 and loaded it into a data mart in Amazon Redshift.
+●Implemented and maintained EMR and Redshift pipeline for data warehousing.
+●Used Spark engine and Spark SQL for data analysis and provided intermediate results to data scientists for transactional analytics and predictive analytics.
+●Used Azure HDInsight to process big data across Hadoop clusters of virtual servers on Azure Data Lake.
+●Created POCs and developed airflow DAGS using Python.
+
+
+Data Engineer
+Conifer Health Solutions, Frisco, TX, Jul 2014 - Nov 2016
+
+●Worked with a Big Data dev team that created a solution to allow you to join 2 or more tables from a trusted bucket and save the result in a new table into an enhanced-trusted bucket, query it using Dremio or RapidSQL, and save the data lineage in Collibra.
+●Implemented AWS EMR Spark using PySpark/Scala and utilized DataFrames and SparkSQL API for faster processing of data.
+●Registered datasets to AWS Glue through Rest API.
+●Used AWS API Gateway to Trigger Lambda functions.
+●Queried with Athena on data residing in the AWS S3 bucket.
+●Utilized AWS Step functions/Lambda functions (with s3 triggers) to run a data pipeline.
+●Used DynamoDB to store metadata and logs.
+●Monitored and managed services with AWS CloudWatch.
+●Performed transformations using Apache SparkSQL.
+●Wrote Spark applications for data validation, cleansing, transformation, and customed aggregation in Scala and PySpark.
+●Developed Spark code using Python/Scala and Spark-SQL for faster testing and data processing.
+●Tuned Spark to increase job performance.
+●Configured ODBC Driver, and Presto Driver with RapidSQL.
+●Used Dremio as a Query engine for faster Joins and complex queries over AWS S3 bucket using Dremio data reflections.
+●Wrote and upgraded Lambda function written in Python2 to Python3.
+●Conducted testing using PyCharm and PyTest functions upgraded from Python2 to Python3.
+●Loaded data into the company’s Snowflake-based data warehouse.
+●Worked on POCs to ETL with S3, EMR(Spark), and Snowflake.
+●Worked as part of the Big Data Engineering team and worked on pipeline creation activities in the AWS environment.
+●Used Airflow to schedule jobs and monitor.
+
+Database Developer
+Archer Daniels Midland, Chicago, IL, Mar 2013 - Jun 2014
+
+●Configured Hive for exposing data for further analysis and for generating and transforming files from different analytical formats to text files.
+●Analyze and interpret financial, CMDB, and consumption feed data, and organize them into accessible formats with meaningful insights.
+●Applied many SDLC methodologies to leverage End User Technology Product Management experience in business analytics.
+●Analyze financial data to uncover industry, company, and customer trends using Data Science/Web Automation tools such as Python, Jupyter Notebooks/Pycharm, Selenium/BeautifulSoup/Requests.
+●Developed data warehouse solutions for Business Intelligence and Data normalization of tables to apply SQL operations and publish reports to Power BI.
+●Installed and configured MySQL Servers, and maintained and updated the servers.
+●Worked on Data Warehousing, Hadoop HDFS, and pipelines.
+●Configured system to pull data from various file formats from various sources into Hadoop HDFS with Hive, Sqoop, and Spark.
+●Transformed and cleansed data for BI analysis.
+●Engaged with business and technology stakeholders on day-to-day requests and long-term planning initiatives.
+●Analyzed system failures, identified root causes, recommended corrective actions, and fixed the issues.
+●Developed, tested, and implemented the financial services application to bring multiple clients into a standard database format.
+Certifications
+
+●Implementing and Administering Cisco Networking Technologies
+●Google Cloud Platform Fundamentals: Core Infrastructure
+●LASPAU Program Assistant
+●SolidWorks Certified Associate
+
+EDUCATION DETAILS
+●Bachelor's degree in Electronic, Robotics, and Mechatronics Engineering from the University of Huelva
+Contact this candidate

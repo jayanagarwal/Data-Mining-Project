@@ -1,0 +1,112 @@
+Sai Sindhuja Jampana
+ad8s06@r.postjobfree.com
+848-***-****
+
+DevOps Engineer/ Site Reliability Engineer with 6+ years of experience in automating, building, deploying, and releasing code using Ansible and Python, achieving a 40% reduction in deployment errors and improving overall deployment speed.
+Expert in Agile methodologies and SDLC with hands-on experience in Scrum and Kanban, using Python scripts to automate project workflows, thereby enhancing team collaboration and project delivery.
+Proficient in Linux/Unix system administration and automation using Ansible for system builds, server configurations, installations, upgrades, and troubleshooting on RHEL 5.x/6.x, resulting in a reduction in system downtime.
+Skilled in using GitHub (GIT) and Bitbucket for source control, enhancing version management and team collaboration through Python-based automation scripts, which accelerated development cycles.
+Automated security vulnerability assessments using Qualys, Ansible, and Python scripting, reducing scanning times by 50% and significantly improving the security posture of environments.
+Led CI/CD pipeline implementation using Bamboo and Jenkins, integrating Ansible and Python scripts to achieve continuous integration and delivery, which resulted in a improvement in release frequency and reliability.
+Architected and deployed scalable AWS solutions with automation through Ansible and Python, leveraging services like EC2, S3, EBS, Elastic Load Balancer, Auto Scaling, AWS CLI, and CloudWatch, optimizing cloud infrastructure performance.
+Designed comprehensive monitoring and log analysis systems using AWS CloudWatch, Datadog, and ELK/Splunk, employing Python scripts for data parsing and Ansible for configuration management.
+Developed IAM policies and automated infrastructure management using AWS CLI, Ansible, and Python, reducing manual configuration errors by 60% and streamlining cloud resource management.
+Reduced AWS costs through the development of Python scripts for automated start/stop of EC2 instances and S3 lifecycle policies, effectively optimizing resource utilization and achieving significant cost savings.
+Spearheaded Docker-based container deployments using Ansible and Python to automate environment setup, reducing deployment times and ensuring consistency across development and production environments.
+Configured and deployed Bamboo applications using Ansible for TCServer, WAS, and Mule servers, enhancing deployment efficiency and reliability across various environments.
+Implemented quality and security gates in Bamboo using Python scripts to automate checks for code quality and security, resulting in a 35% reduction in vulnerabilities.
+Tracked and enhanced release metrics with Python-based automation for SonarQube, Checkmarks, and Code Clover, achieving a 20% increase in code reliability and a 15% reduction in post-release bugs.
+Built robust CI/CD pipelines using Jenkins, Bitbucket, Terraform, Ansible, and Python, automating deployment processes and increasing deployment frequency.
+Managed cloud infrastructure design and provisioning using Ansible and Python for a wide range of AWS services (EC2, ECS, EKS, RDS, DynamoDB, etc.), optimizing cloud operations and ensuring cost-effective solutions for enterprise needs.
+
+Technical Skills
+
+Operating Systems: Linux, Ubuntu, Windows, RHEL, CentOS, OSX
+Build Tools: ANT, Maven
+DevOps Tools: Jenkins, Bamboo, Artifactory, SonarQube, Docker, Azure DevOps
+Configuration Management: Ansible, Terraform
+Programming/Scripting Languages: Java, Shell Scripting, PowerShell, JavaScript
+Version Control: GIT, Bitbucket, Subversion (SVN), SourceTree
+Cloud Platforms: AWS, Google Cloud Platform (GCP), Microsoft Azure
+Databases: MySQL, MongoDB, PostgreSQL, Microsoft SQL Server, Amazon RDS, Cosmos DB
+Containerization: Docker, Kubernetes, ECS, AKS
+
+Certifications
+AWS Certified Developer Associate
+Issued: June 2017
+Validation Number: VMCMD7121B44QTKR
+Demonstrated expertise in developing and maintaining applications on the AWS platform, with a focus on utilizing AWS services and deploying robust, scalable, and secure cloud solutions.
+Microsoft Azure Fundamentals
+Issued: May 2024
+Credential ID: 2152692F10A2B039
+Certified in the foundational aspects of Azure services, including cloud concepts, azure core services, security, privacy, compliance, and trust, as well as Azure pricing and support.
+Education
+Master of Science (M.S) in Computer Science
+New York Institute of Technology (NYIT), New York, USA
+Graduated: 2016
+
+Bachelor of Technology (B. Tech) in Computer Science & Engineering
+Jawaharlal Nehru Technological University (JNTU), Hyderabad, India
+Graduated: 2014
+Professional Experience
+DevOps Engineer
+Americold Logistics LLC
+March 2024 – August 2024
+Created Grafana Dashboards to visualize warehouse telemetry data insights, configure alerts, and notification systems, significantly improving monitoring capabilities and enabling proactive issue resolution.
+Developed Python scripts to automate the extraction of data from MSSQL, transforming and ingesting it into InfluxDB, resulting in a 60% reduction in manual data processing efforts.
+Installed and machines from scratch, establishing a robust analytics and monitoring framework for cross-platform compatibility.
+Configured Grafana, InfluxDB, and Python environments on both Windows and Linux virtual
+Experience working with Azure services such as Azure Virtual Machines, Azure Storage, Azure Kubernetes Service (AKS), and Azure Functions
+Implemented Apache Airflow to run Python scripts automatically by creating job flows, streamlining ETL processes and ensuring timely and accurate data updates.
+Installed and configured Loki on Windows machines and utilized Python scripts to extract data from Elasticsearch and ingest it into Loki. Configured Grafana data sources and visualizations based on business rules, enhancing log analysis and monitoring capabilities.
+Creating S3 buckets and managing policies for S3 buckets and utilized S3 bucket and Glacier for storage and backup on AWS.
+Involved in designing and deploying multitude applications utilizing almost all the AWS stack (Including EC2, Load Balancer, S3, RDS, DynamoDB, SNS, SQS, Lambda, IAM) focusing on high-availability, fault tolerance, and auto-scaling in AWS Cloud Formation.
+Developed tasks in InfluxDB to read and process data from gantry cranes and loops using business rules, optimizing data management and operational decision-making.
+Led the discovery and pilot phase to conceptualize a dashboard for monitoring the availability of automated machinery, IT infrastructure, warehouse applications, and operational KPIs in near real-time, enhancing visibility and operational efficiency by 30%.
+Configured Apache Airflow ETL pipelines to automate Python script execution, reducing data latency and increasing the accuracy of data insights by 50%.
+DevOps Engineer/Site Reliability Engineer
+Thrivent Financial, WI
+Aug 2018 – Dec 2023
+Led the migration of DevOps tools to the Atlassian Development Tools Suite, transitioning from Subversion (SVN) to Bitbucket, Jenkins to Bamboo, Agile Central to Jira, and introducing Confluence, which streamlined collaboration and improved project management efficiency.
+Involved in designing and deploying multitude applications utilizing almost all the AWS stack (Including EC2, Route53, S3, RDS, Dynamo DB, SNS, SQS, IAM) focusing on high-availability, fault tolerance, and auto-scaling in AWS Cloud Formation.
+Creating S3 buckets and managing policies for S3 buckets and utilized S3 bucket and Glacier for storage and backup on AWS.
+Managed Kubernetes cluster lifecycle including provisioning, upgrading, and scaling on AWS.
+Implemented Kubernetes clusters on AWS EC2 instances using tools like kops or eksctl.
+Experience in designing and deploying AWS Solutions using EC2, S3, EBS, Elastic Load balancer (ELB), auto-scaling groups and Opsworks.
+Implemented Kubernetes networking with AWS VPC, subnets, and security groups to ensure secure communication among pods and services.
+Integrated Kubernetes with AWS services like EBS for persistent storage, IAM roles for service accounts, and CloudWatch for monitoring and logging.
+Performed maintenance and troubleshooting of our enterprise Red hat OpenShift systems.
+Worked on deploying Docker Container clusters of machines by using Kubernetes on Amazon cloud services.
+CI pipelines automation from Jira, GitHub, branch Creation, cloning Repo, built Artifact, and Deploy.
+Participated in writing various Pre-bash scripts, which eliminates manual key generation occurring while building AWS EC2 Instances and automatically installs and configures various predominant services.
+Used Terraform to create and manage AWS infrastructure.
+Managing the OpenShift cluster that includes scaling up and down the AWS app nodes.
+Implemented Kubernetes networking with AWS VPC, subnets, and security groups to ensure secure communication among pods and services.
+Customized Configured and maintained CI pipelines using tools like Jenkins or GitLab CI to automate Gradle builds, ensuring code quality and reliability with each commit.
+by using Terraform, Shell, Docker and Ansible to create Team level Pipeline environments across multiple AWS accounts.
+Worked with RedHat OpenShift container platform for Docker and Kubernetes, used Kubernetes to manage containerized applications.
+Design, Implemented Cloud infra using AWS Cloud Formation Templates and later migrate to Terraform 12
+Integrated IBM MQ with AWS services, such as AWS Lambda, EC2, and S3, for seamless cloud-based data exchange and message processing.
+Worked on implementing new OCR solutions, Spring Boot, OpenShift, microservices.
+Experience working in a DevOps environment, including familiarity with practices such as continuous integration, continuous deployment, and continuous monitoring.
+Integrated AI workflows into the DevOps pipeline, automating model training, testing, and deployment processes for continuous integration and continuous delivery (CI/CD).
+Extensive experience in Server infrastructure development on AWS Cloud by using AWS services like EC2, ECS, EBS, ELB, Lambda, S3, RDS, Glacier, DynamoDB, VPC, Route53,
+CloudWatch, CloudFormation, IAM, Certificate Manager, SNS and Auto Scaling in a scalable production environment.
+Created E1 Test and E2 Test environment for unit, sanity, functional and performance testing, all replicated all applications in openShift.
+Using Terraform and Terragrunt deployed AWS resources like EC2,EFS,VPC, RDS, EBS, Elastic Load Balancer, Auto scaling groups, S3, SQS, SNS, SES, Lambda, and etc.
+Configured AWS Identity and Access Management (IAM) Groups and Users for improved login authentication. Provided policies to groups using policy generator and set different permissions based on the requirement along with providing Amazon Resource Name (ARN) .
+DevOps Engineer
+Miracle Software Systems, NOVI, MI
+April 2018 – August 2018
+Integrated GIT into the CI environment with Jenkins, streamlining version control and build processes, which reduced integration times by 20%.
+Developed and maintained CI/CD systems using Jenkins, ANT, and Maven, and implemented a Continuous Delivery framework using Jenkins and Python in a Linux environment, improving deployment frequency by 30%.
+Designed project workflows and pipelines using Jenkins for continuous integration and deployment across various web and application servers, enhancing build reliability and reducing deployment errors by 25%.
+Utilized ANT and MAVEN as build tools on Java projects to automate the development of build artifacts from source code, accelerating build processes and improving code quality.
+Led container orchestration and deployment using Docker Swarm, optimizing container management and improving application scalability and reliability.
+Regularly built Jenkins builds and deployed to Artifactory, ensuring efficient artifact management and deployment consistency.
+Created Docker Secrets and Docker Networks in Universal Control Plane (UCP) to enhance security and networking capabilities for Docker containers, improving application security posture.
+Collaborated with Build, Test, and Software teams to develop automation tools and continuously enhance the release process, reducing release cycle times by 40%.
+Developed custom Docker container images, including tagging and pushing images to Docker Hub, improving deployment speed and reliability.
+Automated continuous deployment with Ansible, creating inventory files and writing playbooks using YAML scripting, which reduced manual deployment tasks by 50%.
+Managed container-based deployments using Docker and Kubernetes, working with Docker images, Docker Hub, and Docker registries to streamline deployment pipelines and ensure efficient resource utilization.
+Contact this candidate

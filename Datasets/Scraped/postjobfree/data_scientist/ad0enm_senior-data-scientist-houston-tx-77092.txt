@@ -1,0 +1,213 @@
+Matthew Langschwager
+Data Scientist/Machine Learning Engineer
+Phone: 281-***-**** Email: ad0enm@r.postjobfree.com
+
+Profile Summary
+
+•11+ years of experience as Data Scientist and Machine Learning Engineer applying advanced statistical and machine learning techniques to build data-driven business insights and AI applications.
+•Developed neural network architectures from scratch, such as Convolutional (CNNs), LSTMs, and Transformers-based deep learning models.
+•Built unsupervised models such as K-Means, Gaussian Mixture Models, and Auto-Encoders.
+•Skilled Programming experience in Python, SQL, R, Spark, Scala, and MATLAB.
+•Adept in visualizations techniques using R-Programming, Ggplot2, Plotly, Matplotlib, and Tableau for end-user ad-hoc reporting.
+•Designed custom BI reporting dashboards using Shiny, Shiny dashboard, and Plotly for providing actionable insights and data-driven solutions.
+•Created analytical models, algorithms, and custom software solutions based on an accurate understanding of business requirements.
+•Experienced in all supervised machine learning techniques – Linear Regression, Logistic Regression, Support Vector Machines, Random Forests, Gradient Boosting, Survival Models using NumPy stack (NumPy, SciPy, Pandas, and matplotlib) and Sklearn.
+•Skilled with TensorFlow and PyTorch for building, validating, testing, and deploying reliable deep learning algorithms for specific business challenges.
+•Experience with ensemble algorithm techniques, including Bagging, Boosting, and Stacking.
+•Applied knowledge of Natural Language Processing (NLP) methods - Fast Text, Word2vec, and Sentiment Analysis.
+•Applied machine learning, deep learning, CNN, Artificial Neural networks and transfer learning to computer vision problems like object detection, OCR, etc.
+•Applied Naïve Bayes, Regression and Classification Analysis, Neural Networks / Deep Neural Networks, Decision Tree / Random Forest, and Boosting machine learning techniques.
+•Implement statistical models on Big Data sets using cloud/cluster computing assets with AWS and Azure.
+•Apply statistical analysis and machine learning techniques to live data streams from Big Data sources using Spark and Scala.
+•Creative thinker with a strong ability to devise and propose innovative ways to look at problems by using business acumen, mathematical theories, data models, and statistical analysis.
+•Develop predictive models using Decision trees, Random forests, and Naïve Bayes.
+•Develop regression, classification, and recommender systems with large datasets in distributed systems and constrained environments.
+•Experienced in Python to manipulate data for data loading and extraction and worked with Python.
+•libraries like Matplotlib, NumPy, SciPy, and Pandas for data analysis.
+•Skilled in using Python, R, SQL, and Hadoop ecosystem for extracting data and building predictive.
+•models.
+•Experience in statistical models on large data sets using cloud computing services such as AWS, Azure, and GCP.
+
+Technical Skills
+
+Programming: Python, Spark, SQL, R, Git, MATLAB, Bash
+Analytical Methods: Advanced Data Modeling, Regression Analysis, Predictive Analytics, Statistical Analysis (ANOVA, correlation analysis, t-tests, z-tests, descriptive statistics), Sentiment Analysis, and Exploratory Data Analysis. Time Series analysis (ARIMA) and forecasting (TBATS, LSTM, ARCH, GARCH), Principal Component Analysis (PCA) and SVD, Linear and Logistic Regression, Decision Trees, and Random Forest.
+Machine Learning: Supervised and unsupervised Learning algorithms, Machine Learning, Natural Language Processing, Deep Learning, Data Mining, Neural Networks, Naïve Bayes Classifier, Clustering, (K-MEANS, GMMs, DBSCAN), PCA, SVD, ARIMA, Linear Regression, Lasso and Ridge, Logistic Regression, Ensemble, Classifiers (Bagging, Boosting, and Voting), Ensemble Regressors, KNN.
+Libraries: NumPy, Pandas, Scipy, Scikit-Learn, Tensorflow, Keras, PyTorch, StatsModels, Prophet, lifelines, PyFlux.
+IDE: Pycharm, Sublime, Atom, Jupyter Notebook, Spyder.
+Version Control: GitHub, Git, BitBucket, Box, Quip.
+Data Stores: Large Data Stores, SQL and noSQL, data warehouse, data lake, Hadoop HDFS, S3.
+RDBMS: SQL, MySQL, PL/SQL, T-SQL, PostgreSQL.
+Data Visualization: Matplotlib, Seaborn, rasterio, Plotly, Bokeh.
+NLP: NLTK, Spacy, Gensim, Bert, Elmo.
+Cloud Data Systems: AWS (RDS, S3, EC2, Lambda), Azure, GCP.
+Computer Vision: Convolutional Neural Network (CNN), Faster R-CNN, YOLO.
+
+Professional Experience
+
+Sr. Data Scientist Panera, Remote from Houston TX
+June 2023 to now
+
+Worked with a group of interns and additional contractors to determine a solution for reducing the number of missing items in café to-go orders. Success would be measured by reduction in number of weekly missing item-based complaints fielded by Panera compared to average numbers seen prior to solution’s enactment.
+I also performed a cost analysis to determine how much money might be saved by incorporation of this project through reduction of complaints and subsequent financial appeasements offered to frustrated patrons. I also performed additional data analysis work regarding both appeasements’ numbers and average kitchen order completion times, as well as smaller tasks that arose during the project.
+
+Responsibilities:
+•Led the Data Science team of summer interns for the initial stages of the digital-assisted accuracy project.
+•Took part in internal Panera Hack-a-thon competition with team, team improvement concept won first prize in our judging category.
+•Performed field work/research at Panera Bread facilities.
+•Presented project concept to Panera Management along with rest of the team.
+•Utilized GCP Big Query to join tables and obtain café timestamp data for a specific set of cafes over the months of June and July 2023
+•Performed EDA and analysis on timestamp data to determine average café order completion times arranged by time of day and method of pickup/consumption.
+•Classified large amount of Panera renumeration data by type of appeasement utilizing provided Salesforce complaint spreadsheets and access to individual cases to double check numbers and context.
+•Utilized the renumeration data to extrapolate annual costs to Panera based on appeasements of customer complaints.
+•Utilized GCP Big Query and Buckets to search through unstructured JSON order data from cafés to determine key timestamp information for use in future determinations of average time at quality control consolidation tables in café kitchens, this data can be used to establish average QC time per order as a metric for digital-order accuracy project usage in kitchens to compare against.
+
+Sr. Data Scientist Amgen (Tata Consulting Services), Thousand Oaks, CA
+March 2022 to June 2023
+
+Amgen wanted to automate a section of their user feedback dealing with Product Complaints (PC). Specifically, when a complaint is submitted by a user, the respondent must categorize it based on a list of Amgen-reported codes. My team was tasked with querying approx. 3 years’ worth of archived feedback, and then creating and training NLP models to use those case notes and determine the most likely reported codes to associate with new PC input. The three most likely reported codes would be provided to the respondent to choose from, to cut down on time spent looking up reported codes themselves.
+My models typically obtained an accuracy of over 90% during training. Amgen stakeholders have been satisfied with the work we’ve accomplished, and the outputs provided.
+
+Responsibilities:
+•Led a team of 4 DS, two supervisors (1 Amgen, 1 TCS), and involved in daily team communication via Webex, Microsoft Teams, Google Meet
+•Used a variety of NLP methods for text mining, information extraction, topic modeling, parsing, and relationship extraction.
+•Developing, deploying, and maintaining production NLP models with scalability in mind.
+•Data for models was queried from the internal Bio Connect database using PostgreSQL.
+•Utilized PGAdmin 4 and primarily worked on a local virtual machine using Anaconda Navigator and Jupyter notebooks.
+•Used Python 3.7.5, TensorFlow 2.7.0, TensorFlow-hub 0.12, TensorFlow-datasets 1.2, scikit-learn 0.23.1 as the code versions.
+•Tried to neutralize training data classification imbalances (90% of data classified in top 4 codes) using class weights.
+•Used my code as a base for creating output from the models aligning most directly with the interface desires of the stakeholders (three reported code suggestions per input, each attached to relevant dosage form item type and whole number percentage of likelihood among potential code classifications)
+•Created multiple successful models for various Amgen dosage forms, models contained between 6 and 15 classification bins.
+•Performed extensive data analysis to determine how much additional work the consideration of clinical products might require, and how earlier models that our team created would be affected by this new requirement.
+•Presented my findings to the team, and later to Amgen, who agreed with my recommendations and shaped clinical product result expectations accordingly.
+•Appended and updated corporate validation documentation as needed during each phase of the project. Worked alongside other departments to complete this task.
+•Performed a lot of independent data analysis cross-referencing Amgen documentation to determine which reported codes, item types, and products correlated to each dosage form, to prevent providing inappropriate suggestions in the user interface.
+•Designed and implemented a comprehensive knowledge transfer program, resulting in a 50% reduction in onboarding time for new hires.
+•Conducted training sessions for cross-functional teams, improving collaboration and communication between departments.
+
+NLP / ML Engineer AT&T, San Antonio TX
+September 2020 to March 2022
+
+As an NLP Engineer at AT&T, I lead a team that designs and maintains NLP models to interact with customers in verbal and textual communication. My team utilizes Neural Networks to group, cluster, and classify communication types and provide sentiment and Chatbot data. My team also works with voice-to-text and chat data and implements BERT and Doc2VEc embeddings as well as Ad-Hoc and pre-built chatbot solutions such as Dialog Flow. The team is primarily focused on NLP Data from raw sources to be Streamed into our data lake. Data is transformed using in-house apps,
+
+Responsibilities:
+•JSON and Parquet data files were extracted from HDFS using AWS Glue or Amazon EMR.
+•The text training data was analyzed using unsupervised clustering models implemented with Amazon Sage Maker.
+•BERT (Bidirectional Encoder Representations from Transformers) was used to create custom NLP models for tasks such as sentiment analysis, named entity recognition, and text classification. These models were trained and deployed using Amazon Sage Maker.
+•The training data was continuously updated for new models for automated model training and deployment.
+•Pre-built NLP models from Amazon Comprehend were also used for tasks such as entity recognition and sentiment analysis.
+•Meaningful insights were derived from large datasets using Amazon QuickSight, with data stored in Amazon S3.
+•Terabyte-scale data lakes were leveraged using Amazon S3 to identify opportunities for improving customer understanding and content consumption.
+•Visualization tools such as Tableau and PowerBI were used to present complex models and business insights in a simple, engaging manner for business stakeholders.
+•Close collaboration was maintained with engineers to develop and implement scalable machine learning applications using AWS services.
+•Opportunities for new data projects were identified using AWS services such as Amazon Kinesis, which can be used to stream and analyze data in real time.
+•Machine learning models were deployed into production environments using Amazon SageMaker
+•Reproducible data pipelines were built for data cleaning, preprocessing, and feature engineering.
+•Version control was utilized using AWS CodeCommit to track codebase changes and model configurations.
+•Automated testing and validation were developed to verify model performance and prevent degradation over time.
+•Continuous integration and continuous delivery (CI/CD) were implemented using AWS CodePipeline to automate new model deployment to production environments.
+•MLOps processes were implemented using AWS services such as AWS Lambda and Amazon SageMaker MLOps tools to automate model training and deployment.
+
+Data Scientist Schlumberger-Doll Research (SDR) Center, Cambridge MA/ Youngsville, LA
+July 2018 to September 2020
+
+Worked in the Drilling and Measurements division with a focus on logging well formation data. Our team was focused on developing autonomous systems that facilitated energy access while reducing greenhouse gas emissions in alignment with our sustainability ambitions. The team invented and prototyped robotics systems that operated underwater and underground. I led the AI-based algorithm development to improve the robustness and scalability of robotics-based drilling operations. Duties included operating and maintaining Measurement While Drilling and Logging While Drilling tools while on the rig site, frequently performing full rig-up and rig-down of logging unit and sensors, and diagnosing and resolving problems related to tool and/or rig performance for maximized efficiency. Solutions developed for Bayesian state estimation, uncertainty quantification, path planning, and robotics control. On a similar project, I worked with the Robotics division to improve Computer Vision Algorithms for automated tool monitoring and security.
+
+Responsibilities:
+•Developed solutions for Bayesian state estimation, uncertainty quantification, path planning, and robotics control.
+•Led the adoption of AI-based algorithms that improved robustness and scalability.
+•Analyzed Big Data sets to assess and correct performance deficiencies.
+•Validated and assessed algorithm performance on real and synthetic data.
+•Developed and maintained processes and supporting tools for information and data control.
+•Interfaced information and data control resources with partners, vendors, regulatory agencies, and other external bodies, keeping distribution contacts current.
+•Extracted data from well-logging systems (e.g., OpenWells, CasingWear, StressCheck, Well Cost, and Campos, among others) to build machine-learning algorithms to solve various problems.
+•With the PyTorch Python API, the team built the architecture and trained the convolutional neural networks (CNN).
+•Exploited transfer learning with custom-built classifiers in PyTorch to speed up production time and improve results.
+•Fine-tuned ResNet-50, ResNet-101, and ResNet-152 models to adapt their pre-trained weights to our use case.
+•Used a fully convolutional network (FCN) - pre-trained YOLO v3 algorithm - to speed up the prediction.
+•Used Logistic Regression to predict whether there would be deviation at any given well depth in a drilling operation.
+•Used XGBoost with IoT data to predict Torque and Drag to minimize well casing and formation damage. Increased production by 10,000 barrels per day in 5 production wells and increased monthly revenue by USD 17.4 million.
+•Used NLP to do Sentiment analysis and then LDA to generate topics from the sentiment categories.
+•Processed huge datasets (over a billion data points and 2 TB in size) for data association pairing and provided insights into meaningful data association and trends.
+•Deployed machine learning models on Azure Stack (Disconnected on drilling rigs), while ingesting data from IoT sensors.
+
+Data Scientist – Energy Markets Dominion Energy, Richmond VA
+January 2015 to June 2018
+
+As a Data Scientist in the Energy Markets division, my principal responsibilities were to research, compile, and manipulate energy industry competitive intelligence information using industry-related publications, databases, and other sources. I analyzed energy markets and evaluated the economics of specific projects. Developed recommendations for new or improvements to existing research tools. Assisted with the development and maintenance of proprietary in-house and other forecasts, structural databases, and models of regional energy markets, including quantifying ranges on potential outcomes. Performed qualitative and quantitative analysis and quality control on large amounts of data. The principal goal was to generate effective near and short-term electrical energy demand modeling and optimum supply mixture modeling.
+
+Responsibilities:
+•Applied multiple approaches for predicting day-ahead energy demand with Python, including exponential smoothing, ARIMA, Prophet, TBATS, and RNNs (LSTM).
+•Successfully built a Generalized Autoregressive Conditional Heteroskedasticity (GARCH) using PyFlux to model the uncertainty of Dominion’s other time series, ensuring a ‘safety’ stock of generating units.
+•Incorporated geographical and socio-economic data scraped from outside resources to improve accuracy.
+•Validated models using a train-validate-test split to ensure forecasting was sufficient to elevate the optimal output of the number of generation facilities to meet the system load.
+•Prevented over-fitting with the use of a validation set while training.
+•Built a meta-model to ensemble the predictions of several different models.
+•Performed feature engineering with the use of NumPy, Pandas, and FeatureTools to engineer time-series features.
+•Coordinated with facility engineers to understand the problem and ensure our predictions were beneficial.
+•Participated in daily standups working under an Agile KanBan environment.
+•Queried Hive by utilizing Spark through the use of Python’s PySpark Library.
+
+Data Scientist - Coiled Tubing Xtreme Drilling & Coil Services, Jourdanton, TX
+March 2014 to December 2014
+
+Worked in Coiled Tubing Services Branch, duties like those undertaken at Cetco Energy Services.
+
+Responsibilities:
+•Provided technical support for field crews and sales.
+•Modelled job simulations.
+•Monitored CT fatigue and daily activity.
+•Prepared post-job reports.
+•Performed on-site supervision.
+•Reviewed real-time analysis reports.
+•Interacted with clients and 3rd-party representatives.
+•Applied survival analysis techniques and machine-learning algorithms to improve how the manufacturing teams could predict part failures.
+•Hands-on with data mining methods (e.g., hypothesis testing, regression analysis, and various other statistical analysis and modeling methods).
+•Presented weekly updates to managers and key stakeholders to preview the user interface designs and analytical results of stress analysis findings, etc.
+•Presented using PowerPoint, Tableau, and Excel for data work and charts.
+•Participated in Software Development Life Cycle (SDLC), including Requirements Analysis, Design Specification, and Testing following Agile methodologies. Operated in 2-week sprints, and weekly stand-ups.
+•Worked in Git development environment.
+•Responsible for the preparation of data for collaboration with machine learning models.
+•Used Python to create a semi-automated conversion process to generate a raw archive-linked data file.
+•Provided software training and further education about model applications to the incoming team.
+
+Data Scientist – Coiled Tubing Cetco Energy Services, New Iberia, LA & Robstown, TX
+August 2012 to February 2014
+
+Worked in Coiled Tubing Division, first in the New Iberia branch, then Robstown TX. Duties included providing technical support for field crews and sales, preparing cost estimates and quotes, modeling CT interventions and preparing model reports, tracking CT fatigue, maintaining data acquisition systems, on-site supervision and real-time analysis, and interaction with client engineers. Later, I built algorithmic predictions of equipment failure using Cox Proportional Hazards and Accelerated time-to-failure models. This was performed to support the automation of various routine manufacturing processes by predicting time-to-failure to prevent extended downtime and schedule appropriate preventative maintenance. Incorporated IoT data for up-to-date predictions. We focused on generating automated system alerts and predictive solutions to increase the reliability of the plants under reduced staff.
+
+Responsibilities:
+•Applied survival analysis techniques and machine-learning algorithms to improve how the manufacturing teams could predict part failures.
+•Hands-on with data mining methods (e.g., hypothesis testing, regression analysis, and various other statistical analysis and modeling methods).
+•Collaborated with the computer vision team to better understand how to extract meaning from images and PDF files.
+•Used Predictive Modeling, Data Mining Methods, Factor Analysis, ANOVA, Hypothetical Testing, and Normal Distribution.
+•The project was implemented with custom APIs in Python and the use of visualization tools such as Tableau and Ggplot to create dashboards.
+•Presented weekly updates to managers and key stakeholders to preview the user interface designs and analytical results of stress analysis findings, etc.
+•Presented using PowerPoint, Tableau, and Excel for data work and charts.
+•Participated in Software Development Life Cycle (SDLC), including Requirements Analysis, Design Specification, and Testing following Agile methodologies. Operated in 2-week sprints, and weekly stand-ups.
+•Worked in Git development environment.
+•Responsible for the preparation of data for collaboration with machine learning models.
+•Used Python to create a semi-automated conversion process to generate a raw archive-linked data file.
+•Provided software training and further education about model applications to the incoming team.
+•Initial findings reported for conversion of Excel to CSV, text to CSV, and image to CSV.
+
+General Engineer - Professional Development Program US Nuclear Regulatory Commission, Rockville, MD August 2008 to August 2012
+
+Worked in Reactor Systems, Project Management, and Nuclear Materials Safeguards branches.
+
+Responsibilities:
+•Reviewed license amendments and wrote safety evaluations for several plants' specs.
+•Reviewed core modeling code for new reactor designs.
+•Provided safety analysis for fuel cladding.
+•Assisted with Power Uprate Program monthly duties, status reports, and website updates.
+•Worked with Project Management specifics for the Fermi 2 nuclear power plant, taking BWR-emphasized training courses.
+
+Educational Credentials
+
+Master of Science in Mechanical Engineering
+University of Louisiana at Lafayette
+•(Thesis: “Cyber Physical System Modeling of Smart Charging Process”)
+
+Bachelor’s Science in Nuclear Engineering
+Purdue University, Indiana
+Contact this candidate

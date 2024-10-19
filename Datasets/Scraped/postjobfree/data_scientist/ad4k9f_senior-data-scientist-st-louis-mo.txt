@@ -1,0 +1,191 @@
+Sedki Chalghoumi
+Data Scientist/Machine Learning Engineer
+Phone: 650-***-**** Email: ad4k9f@r.postjobfree.com
+
+Profile Summary
+
+Experienced and Dedicated Data Scientist and AI Engineer with 11 years of Data Science Experience. Expert in applying Generative Ai to real world problems as well as Creating and Deploying Predictive Analytic Solutions on a variety of Industries. Hands-On developer in Python, SQL, R and C++ with over 10 years of programing experience. Reliable and Innovative Thinker and prodigious Problem Solver.
+
+Specialized Applications:
+•Computer Vision: Applied machine learning, deep learning - CNN, ANN, and transfer learning to solve intricate computer vision problems, including object detection and OCR.
+•Statistical Modeling on Big Data: Implemented statistical models on large datasets using cloud/cluster computing assets with AWS, Azure, and GCP.
+
+Technical Expertise:
+•Deep Learning Architectures: Created cutting-edge neural network structures, including Convolutional (CNNs), LSTMs, and Transformers-based models.
+•Unsupervised Learning Models: Developed K-Means, Gaussian Mixture Models, and Auto-Encoders for nuanced data exploration.
+•Programming Proficiency: Skilled in Python, SQL, R, Spark, C++, and MATLAB for robust algorithm implementation.
+•Visualization Mastery: Ggplot2, Plotly, Matplotlib, and Plotly for dynamic ad-hoc reporting visualizations.
+•BI Reporting Dashboards: Designed custom reporting using Power BI and Tableau.
+
+Machine Learning Expertise:
+•Supervised Techniques: Extensive experience in Linear Regression, Logistic Regression, Support Vector Machines, Random Forests, Gradient Boosting, and Survival Models.
+•Deep Learning Frameworks: Proficient with TensorFlow and PyTorch for building, validating, testing, and deploying reliable deep learning algorithms.
+•Ensemble Algorithms: Applied ensemble techniques such as Bagging, Boosting, and Stacking for enhanced model performance.
+•Natural Language Processing (NLP): Applied CBoW, Tf-IDF, BERT, RoBERTa, Hugging Face Transformers to extract insights from textual data.
+•Generative AI and LLMs: Open Ai: Davinci, Ada 002, GPT3-4.5, AWS Bedrock, Llama2, RAG
+
+Problem Solving Skills:
+•Creative Thinking: Known for devising and proposing innovative solutions by combining business acumen, mathematical theories, data models, and statistical analysis.
+•Custom Software Solutions: Created analytical models, algorithms, and custom software solutions tailored to precise business requirements.
+
+Technical Skills
+
+Programming: Python, Spark, SQL, R, C++, MATLAB, Bash
+Analytical Methods: Advanced Data Modeling, Regression Analysis, Predictive Analytics, Statistical Analysis (ANOVA, correlation analysis, t-tests, z-tests, descriptive statistics), Sentiment Analysis, and Exploratory Data Analysis. Time Series analysis (ARIMA) and forecasting (TBATS, LSTM, ARCH, GARCH), Principal Component Analysis (PCA) and SVD, Linear and Logistic Regression, Decision Trees, and Random Forest.
+Machine Learning: Supervised and unsupervised Learning algorithms, Machine Learning, Natural Language Processing, Deep Learning, Data Mining, Neural Networks, Naïve Bayes Classifier, Clustering, (K-MEANS, GMMs, DBSCAN), PCA, SVD, ARIMA, Linear Regression, Lasso and Ridge, Logistic Regression, Ensemble, Classifiers (Bagging, Boosting, and Voting), Ensemble Regressors, KNN.
+Libraries: NumPy, Pandas, Scipy, Scikit-Learn, Tensorflow, Keras, PyTorch, StatsModels, Prophet, lifelines, PyFlux.
+IDE: Pycharm, Sublime, Atom, Jupyter Notebook, Spyder.
+Version Control: GitHub, Git, BitBucket, Box, GitLab, AWS Code Comit.
+Data Stores: Large Data Stores, SQL and noSQL, data warehouse, data lake, Hadoop HDFS, S3.
+RDBMS: SQL, MySQL, PL/SQL, T-SQL, PostgreSQL.
+Data Visualization: Matplotlib, Seaborn, rasterio, Plotly, Bokeh.
+Data Manipulation: Proficient in Python, R, SQL, and Hadoop ecosystem for extracting, loading, and manipulating data.
+NLP: NLTK, Spacy, Gensim, Gen AI - Bert, Elmo, OpenAI, GPT 3.5.
+Cloud Data Systems: AWS (RDS, S3, EC2, Lambda), Azure, GCP.
+Computer Vision: Convolutional Neural Network (CNN), Faster R-CNN, YOLO, VGG, ResNet, Imagenet.
+
+Professional Experience
+Senior AI Scientist
+BAYER, Saint Louis, MO
+March 2023 - Present
+
+Bayer Crop Science offers a monumental series of products and services. One of the largest growing areas is Decision Support where we provide diverse product materials and analytical tools to our partners. To this end I was tasked with leading a team to architect and implement a knowledge query system based on Retrieval Augmented Generation (RAG) and LLM completions. The goal of the system is to provide information to agents and bank personnel through a natural language interface. I built a system that can provide text response and speech-to-speech conversation about bank products, clients, and information by using a model combination of the RAG model and text classification model. The data was extracted from pdf documents and operation journals using the PyMuPDF library. After data cleaning, the data (text, references and image location) is upserted into the Pinecone vector database. I have created four system prompts to define the level of the answer. I have integrated a text classification model with the RAG model to select an appropriate prompt concerning the question, therefore, the amount of information provided will depend on the level of the question. I have used text-embedding-ada-002 for text embedding and gpt-3.5-turbo as a pretrained model. I have designed and developed the UI using Flask and Gunicorn to deploy the system as a microservice to be integrated into the Company's FieldMate app and other front ends.
+
+•Extract the text and image data from the product document bank, safety sheets and operational journals.
+•Perform enhanced knowledge EDA to understand document configuration and ontologies.
+•Build solution architecture and designed task and goals.
+•Liaison with stakeholders to ensure low mission creep and consistent kpis and definition of success
+•Maintain and improve new and existing suitable algorithms.
+•Generate a custom document splitter based on topic modelling and metadata management.
+•Split and organized data into an index using OpenAI’s text-embedding-ADA-002.
+•Combine vectorized embeddings with unique chunk ids and metadata and prepared for upserting to vector database.
+•Create and maintain Pinecone DB using index table
+•Design and develop the microservice API using Flask and Gunicorn
+•Implement deployment solutions using TensorFlow, Keras, Docker
+•Implement Model Drift Monitoring and Retraining Strategies.
+•Develop innovative document image processing and retrieval schemes.
+•Evaluate the model using automated and human generated knowledge tests as well as perplexity and BleU index.
+
+Lead Data Scientist & ML Engineer / NLP Specialist
+IKEA, EMERYVILLE, CA
+Dec 2021 – March 2023
+
+IKEA, although owning and operating thousands of Brick and Mortar Stores around the world, is also one of the US’s largest e-retailers. As lead NLP Specialist I was tasked with a Natural Language Processing (NLP) platform to analyze customer communications. The idea was to gauge satisfaction levels and mine information to better create targeted marketing in the future. Also, the aim of the project was to enhance the overall shopping experience. The tool optimized product visibility in search results by contributing extracted text and applying NER as a contribution to the product recommendation system. I lead an interdisciplinary team that incorporated Data Engineering, Modeling, and ML-Ops resources. The system was deployed on AWS EKS as a microservice API for integration into the organization front end.
+
+•Designed, developed, and implemented cutting-edge Natural Language Processing (NLP) models and algorithms, focusing on tasks such as sentiment analysis, text classification, and entity recognition.
+•Utilized TensorFlow, PyTorch, NLTK, and Spacy to seamlessly integrate NLP and deep learning techniques into e-commerce applications.
+•Achieved substantial improvements in customer satisfaction scores, product recommendation accuracy, and search engine optimization (SEO) by deploying NLP and deep learning models on AWS. Leveraged AWS services like Sage Maker, Elasticsearch, and Comprehend for scalability and accessibility.
+•Established efficient communication channels with data scientists, software engineers, product managers, and other stakeholders, ensuring effective progress reporting and presentation of data-driven recommendations.
+•Provided expertise to address business challenges, elevate customer experience, and enhance IKEA's products and services.
+•Analyzed customer search queries and product descriptions using advanced NLP and deep learning techniques, including TF-IDF for keyword extraction, Word2Vec for embedding, LDA for topic modeling, and Open NMT for language translation. These efforts significantly improved SEO and product recommendations, resulting in increased visibility and sales.
+•Kept abreast of the latest developments in NLP and related fields, actively participating in research activities, publishing research papers, and attending conferences to explore innovative approaches for advancing NLP technology within IKEA.
+•Deployed NLP models into production environments, ensuring scalability, reliability, and performance. Models were deployed on AWS Elasticsearch for enhanced search capabilities and AWS Comprehend for natural language processing.
+•Utilized Tableau, Power BI, and Plotly for impactful visualizations.
+•Fostered strong relationships with cross-functional teams, maintaining effective communication on project progress and results, and delivering data-driven recommendations.
+•Monitored deployed models, measured their effectiveness, identified areas for improvement, and iterated on the models to enhance their performance over time.
+•Developed machine learning models using SageMaker for various use cases such as classification, regression, and clustering.
+•Utilized AWS S3 as a scalable and durable storage solution for storing large volumes of structured and unstructured data relevant to data science projects.
+•Developed AWS Lambda functions in languages like Python or Node.js for serverless and event-driven data processing.
+
+Senior Data Science Consultant
+Gilead Sciences, Foster City, CA
+April 2020 – Nov 2021
+
+Gilead Sciences, Inc. is a biopharmaceutical company specializing in antiviral drugs, the company conducts research and development. The data extraction team consisted of 4 data scientists, 3 software engineers, 1 project manager, and 1 head of data science. As Senior Data Scientist, I was responsible for developing and implementing computer vision and natural language processing algorithms to extract valuable insights from scanned documents. Using object detection and OCR APIs such as AWS Comprehend and Textract, I was able to accurately extract and upload data to a relational database, streamlining the process of digitizing paper, microfilm, and microfiche documents.
+
+•Extracted handwritten signatures and dates using OCR tools.
+•Generated patterns through regex to extract text from pertinent sections.
+•Applied cosine similarity and Bert to identify relevant text sections in documents.
+•Used OpenCV to identify page numbers and text coordinates.
+•Used Google Tesseract for OCR as well as AWS Textract API
+•Applied business rules for aggregations of documents.
+•Utilized AWS Redshift as a data warehouse.
+•Used Jira for sprint planning and card management.
+•Worked on iterative refinement of the extracted text.
+•Performed weekly presentations to the business for output validation and refinement.
+•Managed code with bitbucket / git.
+•Used Fuzzysearch and Leveshtein Distance to match words.
+•Utilized Panda for data manipulation.
+•Exported the extracted data as a json to an app hosted on premises
+•Created an automatic Regex generator based on business rules.
+•Created the model using Keras convolutional layers, max pooling layers, normalization, and drop-out layers using different activation functions.
+
+Sr. Data Scientist
+The Goldman Sachs Group, Inc., New York City, NY
+Oct 2018 – April 2020
+
+As a senior member of the Data Science team at The Goldman Sachs Group, I specialized in advanced analytics for the Risk division. My role involved developing, maintaining, and improving algorithms for fraud and financial crime detection. The team, comprising statisticians, mathematicians, engineers, computer scientists, and AI experts, was also responsible for data monetization. This encompassed documenting and cleaning data sources, analyzing their suitability for internal use or monetization, and creating data products for specific use cases. The team conducted market analyses to determine the market value of the identified data products before initiating sales.
+
+•Performed comprehensive data analysis involving the collection, cleaning, and analysis of extensive and intricate datasets. Employed statistical methods, data visualization, and exploratory data analysis techniques to discern patterns, trends, and anomalies, extracting meaningful insights.
+•Conducted quantitative research to formulate investment strategies, optimize trading algorithms, and assess market opportunities. Developed and refined quantitative models, conducted back-testing of strategies, performed statistical analyses, and explored new data sources to enhance investment decisions and trading performance.
+•Built Artificial Neural Network models for detecting anomalies and fraud in transaction data, ensuring fair representation of minority data through stratified imbalanced data techniques during cross-validation.
+•Collaborated with regulatory and subject matter experts to comprehend information and variables within data streams.
+•Extracted data from Hive databases on Hadoop using Spark through PySpark, and employed R's dplyr for data manipulation, along with ggplot2 for data visualization and exploratory data analysis.
+•Utilized Scikit-Learn, SciPy, Matplotlib, and Plotly for exploratory data analysis and data visualization. Applied Scikit-Learn's model selection framework for hyper-parameter tuning using Grid Search CV and Randomized Search CV algorithms.
+•Developed unsupervised K-Means and Gaussian Mixture Models (GMM) from scratch in NumPy to detect anomalies. Employed a heterogeneous stacked ensemble of methods for making final decisions on fraudulent transactions.
+•Deployed the model using a Flask API stored through a Docker container. Evaluated model performance using a confusion matrix, accuracy, recall, precision, and F1 score, with careful consideration of the recall score.
+•Developed risk models and frameworks for assessing and managing various financial risks, including credit risk models, market risk models, operational risk models, stress testing frameworks, and scenario analyses. Ensured compliance with regulatory requirements and supported risk management practices.
+•Utilized Git for version control on GitHub to collaborate and work efficiently with team members.
+•Performed data cleaning, feature engineering, and preprocessing using SageMaker capabilities to ensure high-quality input data for model training.
+•Implemented data ingestion pipelines to seamlessly transfer data from various sources into AWS S3, ensuring data availability for analysis and model training.
+•Designed and implemented ETL workflows using AWS Glue to extract, transform, and load data from various sources into a target data store.
+
+Sr. Data Scientist
+SAMSUNG Semiconductor, Austin, TX
+Mar 2017 – Sept 2018
+
+SAMSUNG Micron is a well-integrated semiconductor-based company with foundries and fabs all over the World. SAMSUNG specializes in planar based multi-stack systems. Their Austin facility hosts automotive, memory and institutional research. Their principal problem is the detection and forecasting of Angstrom-scale device failure. In order to solve this problem several solutions were implemented. First a combination of logistic regression and decision trees were used to classify failure based on various parameters during the production process. Finally, a machine vision stage was set up to detect physical visible error, using a convolutional neural network to verify production stages and aid in feature engineering for regression stages. Solutions are deployed as Sagemaker Endpoints running on EC2 instances.
+
+•Developed a predictive model and validated Neural Network Classification model to facilitate prediction algorithms to predict the feature label.
+•Improved efficiency of the model by boosting method on prediction model.
+•Used Convolutional Neural Networks and Machine Vision to detect and predict flaws in stereo lithography nano machined stacks.
+•Used R and Python for model improvement and explored regression and ensemble models in machine learning to perform prediction.
+•Developed machine learning algorithms utilizing Caffe, TensorFlow, Scala, Spark, MLLib, R SciPy, MatPlotLib, NLTK, Python, SciKit-Learn, etc.
+•Performed statistical analysis and built statistical models in R and Python using various supervised and unsupervised Machine Learning algorithms like Regression, Decision Trees, Random Forests, Support Vector Machines, K- Means Clustering and dimensionality reduction.
+•Used MLlib, Spark's Machine learning library to build and evaluate different models.
+•Designed the Data Marts in dimensional data modeling using star and snowflake schemas.
+•Performed Transfer Learning using Computer Vision Pre-Trained Models like VGG16 and Resnet 50.
+•Worked with project team representatives to ensure that logical and physical ER/Studio data models were developed in line with corporate standards and guidelines.
+•Defined the list codes and code conversions between the source systems and the data mart enterprise metadata library with any changes or updates.
+•Developed and enhanced statistical models by leveraging best-in-class modeling techniques.
+•Packaged the model using Docker and deployed as an API.
+
+Data Scientist
+Expedia Group, Seattle Washington
+July 2015 – Feb 2017
+
+Expedia is an American Travel e-commerce site. As senior Data Scientist I was tasked with creating models to increase our customer base understanding and implement data-based solutions. I applied Marketing Mix Modeling (MMM) to quantify the impact of marketing inputs on sales and market share. I built regression models considering expenditures, macroeconomic factors, seasonality, and competition. By leveraging techniques like multi-touch attribution (MTA), I accurately measured the effectiveness of marketing strategies and optimized resource allocation, enhancing the overall return on investment.
+
+•Cleaned and transformed data to prepare datasets for further analysis.
+•Employed Marketing Mix Modeling (MMM) using Python to analyze the influence of various marketing components on sales and market share.
+•Developed regression models on AWS Cloud, incorporating factors such as marketing expenditures, macroeconomic indicators, seasonality, and competition.
+•Implemented multi-touch attribution (MTA) techniques using TensorFlow to accurately measure the intricacies of digital marketing.
+•Used Python-based APIs to integrate models with existing systems and enhance the effectiveness of marketing strategies.
+•Optimized resource allocation, enhancing return on investment, and maintained these models in a cloud environment for scalability.
+•Continually updated and refined models to reflect changing market trends, employing continuous integration and deployment strategies on AWS.
+
+Data Scientist
+Liberty Healthcare Corporation, Seattle, WA
+May 2013 – June 2015
+
+Liberty Healthcare Corporation is a leading health and human services management company.
+
+•Constructed intelligent dashboards, business reports, and presentations to effectively convey findings and results to decision-makers, business partners, and clients. Utilized tools such as Tableau, advanced Excel, SQL, Adobe Analytics, SAS, and Python.
+•Collaborated with healthcare clients to delineate requirements, clean and standardize complex data, and develop predictive analytics.
+•Generated reports and Dashboards to accurately display descriptive analytics results.
+•Designed a business dashboard for monitoring key performance indicators related to marketing activities.
+•Developed and created interactive dashboards using business data, employing tools such as Tableau, Adobe Analytics, and BIExpert.
+•Designed descriptive workflows using SQL, Excel.
+•Collaborated with Data Engineers and Data Scientists in the Analytics Team
+
+Educational Credentials
+
+Master of Science
+Mediterranean Agronomic Institute
+
+Bachelor of Engineering, Rural Management and Economics
+Engineering University of Agricultural Sciences
+
+Certificate Program, Data Science
+Master School, USA
+Contact this candidate

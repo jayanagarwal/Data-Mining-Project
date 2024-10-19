@@ -1,0 +1,235 @@
+Raja Srinivas Nelluri
+Senior Data Engineer
+ad689m@r.postjobfree.com +1-561-***-****
+LinkedIn: http://linkedin.com/in/raja-srinivas-1809b627b
+Professional Summary
+
+Over 11 years of experience as a highly motivated IT professional specializing in Data Engineering with expertise in designing data-intensive applications using Hadoop Ecosystem, Big Data Analytics, Data Warehousing, Data Mart, Cloud Data Engineering, Data Visualization, Reporting, and Data Quality solutions.
+In-depth knowledge of Hadoop architecture & its components, including YARN, HDFS, Name Node, Data Node, Job Tracker, Application Master, Resource Manager, Task Tracker & MapReduce paradigm.
+Extensive experience in developing enterprise-level solutions utilizing Hadoop components such as Apache Spark, MapReduce, HDFS, Sqoop, Pig, Hive, HBase, Oozie, Flume, NiFi, Kafka, Zookeeper, and Yarn.
+Proficient in enhancing performance and optimizing existing algorithms in Hadoop using Spark Context, Spark-SQL, Data frame API, Spark Streaming, MLlib, and Pair RDDs.
+Experienced in designing ETL data flows, creating mappings/workflows, and performing data migration and transformation using SQL Server SSIS, extracting data from SQL Server, Oracle, Access, and Excel Sheets.
+Skilled in working with databases, both SQL and NoSQL, including Oracle, MySQL, SQL Server, MongoDB, Cassandra, DynamoDB, PostgreSQL, and Teradata.
+Proficient in handling database issues, connections, and creating Java apps for MongoDB and HBase.
+Expertise in designing and creating RDBMS components such as tables, views, user-created data types, indexes, stored procedures, cursors, triggers, and transactions.
+Proficient in FACT dimensional modeling including Star Schema, Snowflake Schema, Transactional Modeling, and Slowly Changing Dimension (SCD) implementation.
+Extensive expertise in SSIS, SSRS, Power BI, Tableau, Talent, Informatica, T-SQL, and reporting/analytics.
+Experienced in CI/CD pipeline instantiation, creation, and maintenance, utilizing automation tools such as GIT, Terraform, and Ansible.
+Possesses hands-on experience with a diverse range of cloud technologies across leading platforms, including AWS (e.g., EC2, S3, RDS, Lambda, EMR), Google Cloud Platform (e.g., BIG query, Cloud Data Proc, Google Cloud Storage), and Azure (e.g., Blob Storage, Data Lake, Azure SQL, Azure Databricks), with expertise in migrating on-premises ETLs and managing data warehousing and analytics solutions.
+Worked on various applications using Python, Java, Django, C++, XML, CSS3, HTML5, DHTML, JavaScript, and jQuery.
+Familiar with JSON-based RESTful web services, XML/QML-based SOAP web services, and integrated Python IDEs such as Sublime Text and PyCharm.
+Experienced in utilizing various Python packages for data analysis and machine learning, including ggplot2, NLP, Reshape2, Pandas, NumPy, Seaborn, SciPy, Matplotlib, Scikit-Learn, Beautiful Soup, SQL Alchemy, PyQT, and PyTest.
+Proficient in executing the entire SDLC encompassing system requirements gathering, architecture design, coding, development, testing, maintenance using Agile/Waterfall methodologies.
+
+Technical Skills
+
+Programming Languages
+Python, R, SQL, Java, .Net, Pyspark, Scala, Spark.
+Python Libraries
+Requests, Report Lab, NumPy, SciPy, Pytables, cv2, imageio, Python-Twitter, Matplotlib, HTTPLib2, Urllib2, Beautiful Soup, PySpark, Pytest, Pymongo, cxOracle, PyExcel, Boto3.
+Web Frameworks and Architectures:
+
+Frameworks: Django, Flask, Pyramid, PyCharm, Sublime Text
+Architectures: MVW, MVC, WAMP, LAMP.
+DBMS
+Oracle, PostgreSQL, Teradata, IBM DB2, MySQL, PL/SQL, MongoDB, Cassandra, DynamoDB, HBase.
+Web Services
+REST, SOAP, Microservices.
+Big Data Ecosystem Tools
+Cloudera distribution, Hortonworks Ambari, HDFS, Map Reduce, YARN, Pig, Sqoop, HBase, Hive, Flume, Cassandra, Apache Spark, Oozie, Zookeeper, Hadoop, Scala, Impala, Kafka, Airflow, DBT, NiFi.
+Reporting Tools
+Power BI, SSIS, SSAS, SSRS, Tableau.
+Containerization / orchestration Tools
+Kubernetes, Docker, Docker Registry, Docker Hub, Docker Swarm.
+Cloud Technologies
+AWS: Amazon EC2, S3, RDS, VPC, IAM, Elastic Load Balancing, Auto Scaling, CloudWatch, SNS, SES, SQS, Lambda, Step Functions, EMR
+GCP: Big Query, GCS Bucket, G-Cloud function, Cloud Dataflow, Pub/Sub, Cloud Shell, GSUTIL, BQ command line utilities, Data Proc
+Azure: Azure web application, App services, Azure storage, Azure SQL Database, Virtual machines, Azure search, Notification Hub
+Data Modelling Techniques
+Relational data modeling, ER/Studio, Erwin, Sybase Power Designer, Star Join Schema, Snowflake modeling, FACT and Dimensions tables.
+Streaming Frameworks
+Kinesis, Kafka, Flume.
+Version Control and CI/CD Tools
+Concurrent Versions System (CVS), Subversion (SVN), GIT, GitHub, Mercurial, Bit Bucket, Docker, Kubernetes.
+
+Education: Bachelor’s in computer science engineering, India
+
+Certifications:
+●AWS Certified Developer Associate.
+
+Work Experience
+
+JPMorgan Chase (Plano, TX) Aug 2022 - Present
+Senior Data Engineer
+
+Responsibilities:
+Developed and maintained robust ETL pipelines using AWS Glue and Python to automate data extraction, transformation, and loading into Snowflake, ensuring data integrity and consistency.
+Utilized AWS Lambda for serverless data processing, triggering ETL workflows in response to events, and integrated seamlessly with AWS S3 for efficient data storage and retrieval.
+Employed Snowflake’s Snow pipe for continuous data loading from AWS S3, automating data ingestion and enabling near real-time analytics.
+Designed and implemented complex data transformations using Python’s Pandas library, optimizing data for analysis and reporting in Snowflake.
+Leveraged Snowflake’s Streams and Tasks to handle change data capture (CDC), ensuring accurate incremental data updates in the data warehouse.
+Developed custom Python scripts with the Snowflake Connector to interact with Snowflake’s database, execute SQL queries, and manage data loads.
+Configured and managed Snowflake’s user roles and access permissions, ensuring secure and compliant data access across teams.
+Reduced data processing times by 30% through optimized ETL scripts and efficient data modeling.
+Enhanced sales forecasts and risk assessments by integrating machine learning models into Power BI dashboards.
+Integrated Python scripts within Power BI for complex data transformations and advanced analytics.
+Created Power BI data models leveraging Python for data pre-processing, enabling sophisticated analysis and reporting.
+Designed and implemented customized interactive reports and dashboards in Power BI to meet stakeholder needs.
+Utilized Power BI’s DAX language for calculated columns and measures, providing deeper insights.
+Employed AWS CloudFormation to automate deployment and configuration of AWS resources, ensuring consistent infrastructure setup for ETL processes.
+Optimized ETL performance by tuning AWS Glue jobs, using partitioning and parallel processing, and leveraging Snowflake’s micro-partitioning and query optimization.
+Implemented robust data validation and quality checks within ETL pipelines to ensure data accuracy and reliability in Snowflake.
+Conducted data modeling and schema design for Snowflake, implementing star and snowflake schemas for efficient querying and reporting.
+Utilized Snowflake’s Time Travel feature for data resilience and compliance with audit requirements.
+Monitored and managed ETL workflows using AWS CloudWatch and AWS CloudTrail, setting up alerts and dashboards to address performance issues proactively.
+Collaborated with data scientists, analysts, and business stakeholders to gather requirements, define data transformation rules, and deliver actionable insights through Snowflake’s analytics.
+Implemented CI/CD pipelines using AWS CodePipeline and AWS CodeBuild to automate testing and deployment of ETL scripts and Snowflake database changes, ensuring rapid and reliable delivery of data solutions.
+Expertise in Redash and Superset for actionable insight
+Created interactive data visualizations using Python, Matplotlib, Seaborn, and Plotly.
+Developed interactive dashboards in Tableau with Python connectors.
+Developed data-driven applications using Python on AWS, including AWS SDKs, AWS CLI, and AWS Elastic Container Registry.
+Implemented Oracle SQL ETL workflows with AWS Glue, Amazon Redshift, and Boto3.
+Automated daily storage processes for Amazon S3 and leveraged AWS EMR and Amazon Athena for data retrieval.
+Conducted performance analysis on Amazon DynamoDB and a thorough comparison of self-hosted Hadoop infrastructure to AWS EMR.
+Designed ETL workflows for Oracle SQL data with AWS Glue, Amazon Redshift, and Boto3.
+Integrated Python with AWS Kinesis, transforming and loading log data into Amazon S3 and DynamoDB.
+Built robust data pipelines using Apache Airflow and Python within AWS Data Pipeline.
+Transitioned from MapReduce to Spark RDD transformations using PySpark.
+Implemented and maintained CI/CD pipelines for automated software build, test, and deployment.
+Created comprehensive test cases and managed automated unit testing frameworks.
+Mentored team members in unit testing practices.
+Proficient in Node.js and Express.js for backend development.
+Built RESTful APIs and GraphQL endpoints.
+Developed dynamic user interfaces with React.js, including state management with React Context API and Redux.
+Integrated Python with NoSQL databases like Amazon DynamoDB and Amazon S3.
+Employed Boto3 and PyAthena for advanced analytics and business intelligence.
+Developed high-performance applications in Rust, leveraging memory safety and zero-cost abstractions.
+Built web applications and RESTful APIs using Rust frameworks like Rocket and Actix.
+Created concurrent and multithreaded applications in Rust.
+Automated data ingestion and processing using AWS Kinesis, Glue, and PySpark.
+Utilized GitHub for version control and integrated Python with Jira and Confluence for documentation.
+Designed and maintained AWS CloudFormation templates for infrastructure provisioning.
+
+Environment: Python, Django, XML, CSS3, HTML5, DHTML, JavaScript, jQuery, NumPy, SciPy, Matplotlib, Pandas, Tkinter, Amazon Virtual Private Cloud (VPC), AWS Elastic Load Balancers (ELB), EC2 Auto Scaling groups, AWS Glue, AWS Athena, AWS Step Functions, AWS SNS (Simple Notification Service), AWS Lambda, AWS S3 (Simple Storage Service), AWS SageMaker, AWS Glue catalog and crawler, SQS (Simple Queue Service), SQL Alchemy, JSON files, POSTMAN tool, Git, BitBucket, SQL Alchemy, JSON files, POSTMAN tool, Git, BitBucket.
+
+The Bank Of New York Mellon (New York, NY) Apr 2019 – Jul 2022
+Senior Data Engineer
+
+Responsibilities:
+
+•Assisted in mapping the existing data ingestion platform to the AWS cloud stack as part of an enterprise cloud initiative.
+•Managed AWS Management Tools like CloudWatch and CloudTrail, storing log files in AWS S3 with versioning for sensitive information.
+•Automated regular AWS tasks, such as snapshot creation using Python scripts.
+•Utilized AWS Redshift, S3, and Athena services to query large amounts of data stored on S3, creating a Virtual Data Lake without the need for ETL processes.
+•Installed and configured Apache Airflow for AWS S3 buckets and created DAGs to run Airflow.
+•Prepared scripts for automating the ingestion process using PySpark and Scala from various sources like API, AWS S3, Teradata, and Redshift.
+•Integrated AWS DynamoDB using AWS Lambda for storing item values & backing up DynamoDB streams.
+•Deployed SNS, SQS, Lambda functions, IAM roles, custom policies, EMR with Spark and Hadoop setup, and bootstrap scripts using Terraform for QA and production environments.
+•Managed AWS Hadoop clusters and services using Hortonworks Manager.
+•Set up Kinesis Data Streams, Kinesis Data Firehose, and Kinesis Data Analytics to capture and process streaming data, storing, and analyzing the output in S3, DynamoDB, and Redshift.
+•Developed several MapReduce jobs using PySpark and NumPy, incorporating Jenkins for continuous integration.
+•Implemented custom MapReduce programs in Java API for data processing.
+•Extracted data from various sources such as CSV files, Excel, HTML pages, and SQL.
+•Debugged complex SSIS packages, SQL objects, and SQL job workflows.
+•Implemented Spark jobs for Change Data Capture (CDC) on Postgresql tables, updating target tables using JDBC properties.
+•Designed and implemented Scala programs using Spark Data Frames and RDDs for data transformations and actions.
+•Developed PySpark scripts utilizing SQL and RDD in Spark for data analysis and storing the results back into S3.
+•Integrated Kafka Publisher in Spark jobs to capture errors and push them into Postgres tables.
+•Built Nifi data pipelines in a Docker container environment during the development phase.
+•Managed log files from various sources by moving them to HDFS for further processing through Elasticsearch, Kafka, Flume, and Talend.
+•Performed Sqooping for file transfers through HBase tables to process data in several NoSQL DBs like Cassandra and MongoDB.
+•Utilized Pig to communicate with Hive using HCatalog and HBase using Handlers.
+•Hands-on experience with confidential Big Data product offerings such as Info Sphere Big Insights and Info Sphere Streams.
+•Developed user-friendly data visualizations and dashboards using complex datasets from different sources using Tableau.
+
+Environment: AWS CloudWatch, AWS CloudTrail, AWS Redshift, AWS S3, AWS Athena, AWS DynamoDB, AWS Lambda, Amazon EMR (Elastic MapReduce), AWS IAM, AWS Kinesis (Data Streams, Data Firehose, Data Analytics), Python scripts, Terraform, Apache Airflow, PySpark, Scala, Apache Kafka, Apache Nifi, Apache Hadoop (Hortonworks), Apache Spark (Spark Data Frames, RDDs), MapReduce, Pig, Sqoop, Elasticsearch,Jenkins, Teradata, SQL (including JDBC), Postgresql, HBase, Hive, Cassandra, MongoDB, SSIS (SQL Server Integration Services),Tableau
+
+Cigna (Bloomfield, CT) Sep 2017 - Mar 2019
+Data Engineer
+
+Responsibilities:
+
+•Developed user-friendly data visualizations and dashboards using complex datasets from different sources using Tableau.
+•Designed and built data pipelines using ELT/ETL tools and technologies, specifically leveraging ADF (Azure Data Factory) and Synapse.
+•Performed ELT optimization, designing, coding, and tuning big data processes using Microsoft Azure Synapse or similar technologies.
+•Utilized Azure Event Grid for managing event services across various applications and Azure services.
+•Migrated on-premises data from Oracle/SQL Server/DB2/MongoDB to Azure Data Lake and Stored it using Azure Data Factory.
+•Developed data pipelines in Azure Data Factory (ADF) utilizing Linked Services, Datasets, and Pipelines to efficiently extract, transform, and load data from various sources including Azure SQL, Blob storage, Azure SQL Data Warehouse, write-back tool, and reverse operations.
+•Developed Python scripts for data validations and automation processes using ADF and implemented alerts using ADF and Azure Monitor for data observability functions.
+•Used Azure Resource Manager (ARM) to deploy, update, or delete all the resources for your solution in a single, coordinated operation.
+•Created resources, using Azure Terraform modules, and automated infrastructure management in Azure IaaS environments.
+•Setting up Azure Infrastructure monitoring through Datadog and application performance monitoring through App Dynamics.
+•Designed, implemented, and managed virtual networking within Azure and connect to on-premises environments, Configure Express Route, Virtual Network, VPN Gateways, DNS, and Load Balancer.
+•Integrated Azure Boards with other Azure DevOps services, such as Azure Repos and Azure Pipelines, for seamless end-to-end project management.
+•Constructed NiFi flows for data ingestion purposes, ingesting data from Kafka, Microservices, CSV files from edge nodes utilizing NiFi flows.
+•Deploying DBT projects to DBT Cloud and configuring the necessary connections and environments for data transformation and analytics workflows.
+•Implemented task monitoring and logging using Celery's built-in monitoring tools and integration with logging frameworks like Logstash, and Kibana.
+•Utilized Databricks notebooks and Spark framework, deployed serverless services like Azure Functions, and configured HTTP triggers with Application Insights for system monitoring.
+•Extensively worked on running Spark jobs on Azure HD Insights environment and used Spark as a data processing framework.
+•Improved the performance and optimization of Hadoop algorithms using Spark-SQL, Pair RDD’S, YARN, and Spark Context.
+•Designed custom Spark REPL application and used Hadoop scripts for HDFS data loading and manipulation.
+•Utilized Spark SQL API in Pyspark to extract and load data and perform SQL queries.
+
+•Created data analytics reports using Power BI, utilizing DAX expressions, Power Query, Power Pivot, Power BI Desktop, as well as SQL Server Reporting Services (SSRS).
+•Collaborated with RabbitMQ in cluster mode, serving as a reliable message queue within the OpenStack environment.
+•Created SSIS packages to implement error/failure handling with event handlers, row redirects, and loggings.
+•Wrote Spark-Streaming applications to consume the data from Kafka topics and write the processed streams to HBase.
+•Involved in building Data Models and Dimensional Modeling using 3NF, Star, and Snowflake schemas for OLAP and Operational Data Store (ODS) applications.
+
+Environment: Azure Data Factory (ADF), Azure Synapse Analytics, Azure Event Grid, Azure Data Lake, Azure SQL Database, Azure Blob Storage, Azure SQL Data Warehouse, Azure Monitor, Azure Resource Manager (ARM), Azure Terraform modules, Azure IaaS, Azure Virtual Network, Express Route, VPN Gateways, Azure DNS, Azure Load Balancer, Azure Boards, Azure DevOps (Azure Repos, Azure Pipelines), Azure Functions, Databricks, Azure HDInsight, Azure Application Insights, ETL/ELT Tools, Spark (Spark SQL, Spark Streaming, Pair RDDs, Spark Context), Hadoop (HDFS), Kafka, Star Schema, Snowflake Schema, Power BI, SQL Server Reporting Services (SSRS), RabbitMQ
+
+Homesite Insurance (Boston, MA) June 2015 - Aug 2017
+Data Engineer
+
+Responsibilities:
+
+•Developed Dimensional data models, Star Schema model, Snow-flake data models using Erwin.
+•Implemented Spark Architecture, MPP Architecture, including Spark Core, Spark SQL, Data Frames, Spark Streaming, Driver Node, Worker Node, Stages, Executors and Tasks.
+•Utilized Spark SQL API in Pyspark to extract and load data and perform SQL queries.
+•Designed and developed Pig Latin scripts and Pig command line transformations for data joins and custom processing of MapReduce outputs.
+•Imported data using Sqoop, SFTP from various sources like RDMS, Teradata, Mainframes, Oracle, Netezza to HDFS and performed transformations on it using Hive, Pig and Spark.
+•Developed Oozie Workflows for daily incremental loads, which gets data from Teradata and then imported into hive tables.
+•Used Python & SAS to extract, transform & load source data from transaction systems, generated reports, insights, and key conclusions.
+•Developed rest API's using python with flask and Django framework and done the integration of various data sources including Java, JDBC, RDBMS, Shell Scripting, Spreadsheets, and Text files.
+•Wrote Spark-Streaming applications to consume the data from Kafka topics and write the processed streams to HBase.
+•Created data-models for customer data using the Cassandra Query Language.
+•Worked extensively with g-cloud function with Python to load Data into Big Query for on arrival csv files in GCS bucket.
+•Processed and load bound and unbound Data from Google pub/subtopic to Big Query using cloud Dataflow with Python.
+•Worked in GCP, Big Query, GCS bucket, G - cloud function, cloud dataflow, Pub/sub cloud shell, GSUTIL, BQ command line utilities, and Data Proc.
+•Worked on google cloud platform (GCP) services like compute engine, cloud load balancing, cloud storage, cloud SQL, stack driver monitoring and cloud deployment manager.
+•Storing data files in Google Cloud S3 Buckets daily basis, Using Data Proc, Big Query to develop and maintain GCP cloud base solutions.
+•Used cloud shell SDK in GCP to configure the services Data Proc, Storage, Big Query.
+•Leveraged cloud and GPU computing technologies for automated machine learning and analytics pipelines such as GCP.
+•Build data pipelines in airflow in GCP for ETL related jobs using different airflow operators.
+•Used Apache airflow in GCP composer environment to build data pipelines and used various airflow operators like bash operator, Hadoop operators and python callable and branching operators.
+•Implemented UNIX scripts to define the use case workflow and to process the data files and automate the jobs.
+
+Environment: BigQuery, Cassandra, Cloud Dataflow, Cloud Deployment Manager, Cloud Functions, Cloud Load Balancing, Cloud Proc, Cloud Pub/Sub, Cloud Shell, Cloud Shell SDK, Cloud SQL, Compute Engine, DataFrames, Data Integration, Data Proc, Django, Flask, GPU computing, Google Pub/Sub, Google Storage (GCS), GSUTIL, Java, JDBC, Kafka, Python, SAS, SFTP, Shell Scripting, Snowflake data models, Spark Core, Spark SQL, Spark Streaming, Stackdriver Monitoring, Star Schema
+
+BP America Inc (Houston, TX) Nov 2013 - May 2015 Python Developer
+
+Responsibilities:
+
+• Worked on development of data ingestion pipelines using ETL tool, Talend & Bash scripting with big data technologies.
+•Consumed JSON messages using Kafka and processed the JSON file using Spark Streaming to capture UI updates.
+•Load the data into HDFS from different Data sources like Oracle, DB2 using Sqoop and loaded into Hive tables.
+•Implemented MVC architecture and Java EE frameworks like Struts2, Spring MVC, and Hibernate.
+•Worked with various Python IDE's using PyCharm, PySpark and Bottle framework and to deploy AWS.
+•Developed web applications in Django Framework model view control (MVC) architecture.
+•Analyzed the SQL scripts and designed the solution using PySpark for faster performance.
+•Performed integration of JWT authentication into Fast API applications, ensuring robust and stateless authentication for API endpoints.
+•Developed automated Python scripts utilizing the Boto3 library for AWS security auditing and reporting across multiple AWS accounts, leveraging AWS Lambda.
+•Employed the Django framework to build web applications, implementing the Model-View-Controller (MVC) architecture.
+•Worked with Python NumPy, SciPy, Pandas, Matplotlib, Stats packages to perform dataset manipulation, data mapping, data cleansing and feature engineering. Built and analyzed datasets using R and Python.
+•Implemented a Python-based distributed random forest via PySpark and MLlib.
+•Developed data ingestion modules using AWS Step Functions, AWS Glue and Python modules.
+•Worked on Cloud Formation Templates (CFT) in YAML and JSON format to build the AWS Services with the paradigm of Infrastructure as a Code.
+•Utilized in Shell and Python scripting language with AWS CLI and BOTO3 scripting experience.
+•Configured AWS IAM and Security Group in Public and Private Subnets in VPC.
+•Involved heavily in setting up the CI/CD pipeline using Jenkins, Maven, Nexus, GitHub, Chef, and AWS.
+•Used AWS Bean Stalk for deploying and scaling web applications and services developed with Java, Node.js, Python and Ruby on familiar servers such as Apache, and IIS.
+•Used Jenkins AWS Code Deploy plugin to deploy and Chef for unattended bootstrapping in AWS.
+•Implemented CloudTrail to capture the events related to API calls made to AWS infrastructure.
+
+Environment: AWS Beanstalk, AWS CLI, AWS CloudFormation (CFT), AWS CloudTrail, AWS Glue, AWS IAM, AWS Lambda, AWS Security Group, AWS Step Functions, Bottle, Django, FastAPI, GitHub, HDFS, Hibernate, Java, Jenkins, Kafka, Matplotlib, Maven, MLlib, Node.js, NumPy, Pandas, PyCharm, PySpark, Python, Ruby, SciPy, Spark Streaming, Spring MVC, Sqoop, Struts2
+Contact this candidate

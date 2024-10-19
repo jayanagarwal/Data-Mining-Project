@@ -1,0 +1,114 @@
+ANKA BABU CHENNAREDDY Email: ad3mze@r.postjobfree.com
+Technical Lead - Sr DevOps & Cloud Release Engineer Phone: +1-240-***-**** 10+ Years of sound experience as the Senior DevOps & Cloud Release Engineer in Design and Deploying microservices in multi-cloud environments including Hybrid & on-prem. Served as Technical Lead for DevOps in multiple projects. Expertise in maintaining CI/CD platforms for multiple business domains such as Banking & Financials, Networking etc. Summary of Experience
+Strong knowledge and hands on experience in designing & delivering continuous integration and delivery pipelines for microservice architecture.
+Very good understanding on release cadence, design branching accordingly to support deploying application at rapid pace during peak business needs including ad-hoc/hotfix scenarios.
+Good at incorporating security practices during CI-CD pipelines including security scan for the source code, application artifacts.
+Good understanding on configuration management tools like Ansible, able to design and write re-usable ansible roles for both application deployments and regular server maintenance.
+Strong knowledge and hands-on experience on cloud technologies like AWS, Azure & GCP.
+Good at enabling application monitoring like Log monitoring, Application process monitoring & infrastructure monitoring.
+Wrote Jenkins pipelines (Groovy) for building application, provisioning infrastructure and deploying applications.
+Prepare AMI hardening pipelines using packer (integrated to run ansible playbooks) and Jenkins.
+Provision infrastructure using terraform, good at writing modules for re-usability.
+Good hands-on experience on using cloud resources like IAM, VPC, Subnets, EKS, EC2, EBS, Route53, Lambda, S3 & RDS in AWS. RGs, VNet, Compute, VM scale set in Azure.
+Create Images in GCP and Release those images into multiple environments like Engineering Test, Central Staging, Pre-PROD & PRODUCTION Environments.
+Enabling APM & infrastructure monitoring using AppDynamics, Prometheus & Log monitoring using Splunk.
+Strong knowledge and hands-on in container technologies like Docker. Good at containerizing micro-services using Docker and orchestrate using k8s.
+Strong knowledge of OAuth2.0 authentication and experience in maintaining API credentials.
+Experience working with Agile methodologies, SAFe frameworks etc., and played scrum master role while in the short staff.
+Explored event streaming platforms such as Kafka and MQ. And decent knowledge on RDBMs and NoSQL databases such as Oracle, Dynamo DB etc.
+Experience working in several business domains such as Banking & Financials, Networking etc.,
+Open to learn new technologies and tools.
+Technical Skills:
+Cloud Technologies : Amazon Web Services (AWS), Azure and GCP Version Control tools : GIT, GitHub, Perforce, Subversion CI/CD : Jenkins, TeamCity, Spinnaker and Azure
+DevOps
+Repository Tool : JFrog Artifactory
+Build Automation Tools : Gradle, Ant, Maven
+Configuration Management : Ansible, Packer
+Infrastructure as Code Tool : Terraform
+Containerization & Orchestration : Docker, Kubernetes Operating System : Windows, LINUX/UNIX.
+Scripting Languages : Groovy, Shell, Bash Script
+Database : Oracle, Mongo DB
+WEB/Application Servers : Tomcat, Jboss, IBM WAS
+Work Experience:
+Teradata : Mar 2021 to Till Date
+Aricent Technologies (H) Limited : Dec 2015 to Dec 2020
+PRIMUS Global Technologies Pvt. Ltd. (HP) : Apr 2015 to Dec 2015
+NexaMatic Software Solutions Pvt. Ltd : Feb 2013 to April 2015 Project Details
+Teradata Mar 2021 – Till Date
+Project : Business Continuity Manager / Unity
+Clients : HSBC, Commonwealth Bank of Australia, Bank of America, etc. Tools/Environment : AWS, AZURE, Teradata Internal Cloud, Ansible, GIT, GITHUB, Docker, Jenkins, Team City, Artifactory, ANT, Jboss, Tomcat, Linux, Bash, Shell, Groovy.
+Role : DevOps Tech Lead/Senior DevOps Engineer
+Responsibilities:
+• Design branching strategy like feature/git-flow workflow to support regular release cadence
+• Write Jenkins pipelines for continuous integration and promotion(deployment) depends on the test case result
+• Write the generic groovy stages to re-use where possible
+• Setup artifactory to store the build artifacts, configure proxies to download the required dependencies, and publish the internal dependencies
+• Setup and manage private Docker repository
+• Write docker files to build docker images for microservice artifacts and setup pipeline stages to publish the same to private Docker registries
+• Harden and optimize docker images as per security (mostly CIS) standards
+• Design network and infrastructure for the microservice application in cloud-like AWS and Internal Cloud primarily
+• Create product artifacts (.rpm) and upload those to internal production server like TSS server
+• Using those artifacts(.rpm) and create the OVA images for self VM’s creation from Internal cloud.
+• Write terraform to provision infrastructure in AWS which includes resources like VPC, Subnets, IAM, rtb, igw, nat, ec2, ebs, elb, s3 & rds
+• Setup pipelines for running terraform and provision a different set of environments
+• Make AMIs as per the application needs using Ansible and packer, ensure os level vulnerabilities are fixed by running Nessus scans
+• Create Cloud Images(AWS, Azure & GCP) and Release Those images to multiple environments and Production for customer access.
+Aricent Technologies (H) Limited Dec 2015 – Dec 2020 Project : ADTRAN Networks Products
+Clients : Dutch Telecom, Century link, Verizon, Bluesocket, etc. Tools/Environment : AWS, AZURE, Ansible, GIT, GITHUB, Docker, K8s, Jenkins, Team City, Artifactory, Perforce, ANT, Jboss, Tomcat, Linux, Shell, Groovy. Role : Senior DevOps Engineer
+Responsibilities:
+• Design branching strategy like feature/git-flow workflow to support regular release cadence
+• Write Jenkins pipelines for continuous integration and promotion(deployment) depends on the test case result
+• Write the generic groovy stages to re-use where possible
+• Setup artifactory to store the build artifacts, configure proxies to download the required dependencies, and publish the internal dependencies
+• Setup and manage private Docker repository
+• Write docker files to build docker images for microservice artifacts and setup pipeline stages to publish the same to private Docker registries
+• Harden and optimize docker images as per security (mostly CIS) standards
+• Design network and infrastructure for the microservice application in cloud-like AWS primarily
+• Setup pipelines for running terraform and provision a different set of environments
+• Make AMIs as per the application needs using Ansible and packer, ensure os level vulnerabilities are fixed by running Nessus scans
+• Write k8s manifests files to deploy microservices in k8s platforms, where possible modularize the manifests using Helm
+• Supported as the scrum master for the team, followed Agile methodologies and SAFe frameworks in delivering the work.
+• Initiated PI plannings to setup the milestones for the projects. Conducted retrospectives at the end of each sprint
+PRIMUS Global Technologies Pvt. Ltd. (HP) Apr 2015 – Dec 2015 Project : Software as a Service (SaaS)
+Client : Hewlett Packard
+Tools/Environment : SVN, GIT, Maven, Jenkins, Jboss, Tomcat, Linux, Shell/Perl Scripting Duration : April 2015 to Dec 2015
+Role : Release Manager Engineer
+Responsibilities:
+• Responsible for Design of different Release Environments for new projects
+• Setup continuous integration environment using Jenkins.
+• Creating the automated build and deployment process for application, re- engineering setup for better user experience, and leading up to building a continuous integration system for all our products.
+• Active participation in Build and Release process.
+• Build / deployment support using Ant/Maven and Jenkins/Hudson.
+• Perform Deployment of War files in Tomcat, application servers using Shell scripts.
+• Configuring Jenkins to perform Nightly builds and Milestone builds for the application.
+• GIT functions like branch and tag creation.
+• Perform Smoke/Sanity tests for the applications deployed and troubleshoot the application for the issues that arise as part of the smoke test process.
+• Work closely with Development and QA teams on Build and Deployment issues. NexaMatic Software Solutions Pvt. Ltd Feb 2013 – Apr 2015 Project : Enterprise App Development
+Client : Visteon
+Tools/Environment : SVN, GIT, ANT, Maven, Jenkins, Tomcat, Linux, Shell Scripting Role : Build & Release Engineer
+Responsibilities:
+• Creating branches, comparing & merging using Subversion.
+• Maintain track of different releases that are being carried over in different environments.
+• Creating War/Ear files using Ant and Maven.
+• Automate the build Process Using Hudson and Jenkins jobs.
+• Perform Build activities using Ant, Maven and Jenkins Tool.
+• Performed deployment of War files in Tomcat application servers using Shell scripts and Chef.
+• Administration of Subversion tool includes creating branches, tagging, access permissions and setting up hooks.
+• Maintain track of different releases that are being carried over in different environments.
+• Creating War/Ear files using Ant and Maven.
+• Automate the build Process Using Hudson and Jenkins jobs.
+• Developed shell scripts to automate the process of deployments and also to automate manual tasks.
+• Troubleshooting application related issues by log verification.
+• Verify deployments logs to check for successful deployments.
+• Documentation of patch process and build/release Process.
+• Communicating with development team for Build plan and Build failures.
+• Documenting all the Build and deployment related issues.
+• creating and managing the users &groups for production/preproduction servers
+• public/private key management for accessing the servers Education Qualification:
+Master of Computer Applications from Osmania University. (2008-2011) Certifications
+• Certified AWS Certified Solutions Architect – Associate
+• Certified SAFe 5 Practitioner (5.1)
+• Certified SAFe 4 DevOps Practitioner
+• Certified Scrum Master in SAFe 4
+ANKABABU CH
+Contact this candidate

@@ -1,0 +1,121 @@
+UDAY ALLUMNENI
+Sr.Data Engineer
+ad8yvt@r.postjobfree.com
++1-937-***-****
+
+PROFESSIONAL SUMMARY
+
+Data Engineer with around 8 years of IT experience in Database design, Hadoop, Extract Transform Load (ETL), data warehouse, modeling, reporting.
+Experienced in designing, building, and optimizing data pipelines and architectures across multiple cloud platforms, including Azure, AWS, and GCP.
+Proficient in transforming databases from on-prem SQL Server to cloud-based solutions such as Azure SQL, AWS RDS, and GCP Cloud SQL. Experience with Azure services, including Azure Data Lake Store, Azure Databricks, Azure SQL Database, Azure Synapse Analytics to build end-to-end data solutions.
+Proficient in designing, developing, and maintaining robust ETL pipelines using Azure Data Factory (ADF) to extract, transform, and load data from various sources into target destinations.
+Experience in designing Azure Cloud Architecture and Implementation plans for hosting complex application workloads on MS Azure.
+Built pipelines with Azure Data Factory for structured and unstructured data, extending similar capabilities to AWS Glue and GCP Dataflow.
+Strong background in converting RDBMS-based solutions to event-driven architectures using Event Hub (Kafka), Event Grid, Function App, ADLS v2, and Data bricks.
+Developed benchmarks for scaling out and scaling up Azure App Service instances.
+Proficient in managing data from disparate sources and ingesting incremental updates using Kafka and ADLS2.
+Optimized data models to achieve faster processing and response times for analytical queries.
+Implemented OLAP multi-dimensional cube functionality using Azure SQL Data Warehouse.
+Skilled in working with Restful APIs and creating Delta and Parquet tables to store various data sources.
+Designed and implemented Azure Active Directory (AD) solutions to manage identities and access control.
+Configured Azure B2C and B2B to enable secure authentication and collaboration with external users and partners.
+Created ADF pipelines to call REST APIs and consume Kafka events, integrated with AWS Lambda and GCP Cloud Functions.
+Hands on experience in migrating on premise ETLs to Google Cloud Platform (GCP) using cloud native tools such as BIG query, Cloud Data Proc, Google Cloud Storage, Composer.
+Developed scripts for extracting and processing market and tick data using Python.
+Implemented proof of concept for analyzing streaming data using Apache Spark with Python.
+Proficient in performance tuning of Spark jobs and enhancing data processing efficiency.
+Responsible for modifying ETL data load scripts, scheduling automated jobs, and resolving production issues.
+Developed reports for business users using Tableau and wrote Azure Power Shell scripts for data movement.
+Experienced in daily monitoring of Databricks cluster status and health.
+Proficient in story-driven agile development methodology and actively participating in scrum meetings.
+Strong programming skills in Python.
+
+KEY TECHNICAL SKILLS
+
+Cloud: Azure, AWS, GCP Data Factory,
+Big Data Tech: Databricks, Hadoop, Spark, Hive, Kafka
+Relational Databases: Microsoft SQL Server, Azure SQL, MySQL.
+Business Intelligence tools: Power BI, QlikView, Tableau.
+Languages: T-SQL, USQL, Python, MDX, DAX, PySpark.
+Development Tools: Visual Studio, SQL Server Management Studio.
+ALMS: Azure DevOps, Jira, SNOW.
+Methodology: Agile, Waterfall.
+Education
+B. Tech (ECE), Ramachandra college of Engineering - 2014
+MS (EE), State University of New York, NY - 2016
+
+PROFESSIONAL EXPERIENCE
+
+Client: AmerisourceBergen, Conshohocken, PA Mar 2020 to Present
+Role: Sr Data Engineer
+Responsibilities:
+Migrated on-premises legacy data to various Azure services (Data Lake, Analytics, SQL Database, Cloud, Data Bricks, and SQL Data Warehouse), managed database access, and used Azure Data Factory for migration.
+Implemented OLAP cubes using Azure SQL Data Warehouse.
+Built pipelines with Azure Data Factory for structured and unstructured data.
+Implemented pipelines to load data from SFTP/FTP, S3, etc., into Azure Synapse, creating tables and stored procedures in Synapse Analytics.
+Developed Python scripts for ETL transformations and loading data into Azure Data Lake Storage and Blob Containers.
+Developed PySpark code for data transformation from on-premises environments, analyzing and implementing SQL scripts using PySpark.
+Created ADF pipelines to call REST APIs and consume Kafka events.
+Designed and developed Kafka messages for Stream Sets data pipelines, including scheduling, jobs, and continuous monitoring.
+Create end-to-end solutions for ETL transformation jobs that involve writing Informatica workflows and mappings.
+Was involved in setting up of Apache airflow service in GCP.
+Performed data management tasks such as metadata management, data quality checks, data cleaning, data lineage, and data integrations.
+Created multiple workspaces and notebooks in Data Bricks using Python, SQL, and libraries.
+Provided support for deploying ADF pipelines, HIVE tables, SQL tables, and other Azure services.
+
+Environment: Azure – ADF, Data Lake, Data Bricks, SQL. Python, Kafka, Apache Airflow, GCP, ETL
+
+Client: United Parcel Service, Alpharetta, GA Feb 2019 – Mar 2020 Role: Sr Data Engineer
+Responsibilities:
+Implemented ETL and data movement using AWS Glue and SSIS.
+Handled ETL Framework in Spark with python for data transformations.
+Created a framework for data profiling, cleansing, batch pipeline restart ability, and rollback handling.
+Implemented data masking and encryption techniques to protect sensitive information.
+Maintained the ETL data pipelines, primarily using Shell scripting, Python & SQL (Redshift, SQL Server) as tools.
+Experience with SQL and PySpark programming languages in DataBricks
+Implemented SSIS IR to run SSIS packages from AWS.
+Implemented secure transfer routes for external clients using microservices to integrate external storage locations like AWS S3.
+Used Python scripting to automate script generation and data curation with AWS Data Bricks.
+Implemented Kafka and Spark structured streaming for real-time data ingestion.
+Created Data Bricks notebooks using SQL and Python and automated notebooks with jobs.
+Created and configured high concurrency Spark clusters in AWS Data Bricks to speed up data preparation.
+
+Environment: AWS Glue, AWS S3, SSIS, Data Bricks, ETL, Spark, Python, Kafka.
+
+Client: New Directions Behavioral Health, Kansas City, MO Mar 2017 – Jan 2019
+Role: Big Data/ ETL Developer
+Responsibilities:
+Involved in Requirement gathering, Business Analysis and translated business requirements into technical design in Hadoop and Big Data.
+Involved in SQOOP implementation which helps in loading data from various RDBMS sources to Hadoop systems and vice versa.
+Developed Python scripts to extract the data from the web server output files to load into HDFS.
+Developed Python scripts to extract data from Cloud Storage and load it into Big Query, ensuring seamless data processing and transformation.
+Written a python script which automates to launch the EMR cluster and configures the Hadoop applications.
+Extensively worked with Avro and Parquet files and converted the data from either format Parsed Semi Structured JSON data and converted to Parquet using Data Frames in PySpark.
+Analyzed system failures within the GCP environment, identified root causes, recommended course of actions, and documented processes and procedures for future reference.
+Developed Map Reduce programs for some refined queries on big data. Involved in loading data from UNIX file system to HDFS.
+Worked on google cloud platform (GCP) services like compute engine, cloud load balancing, cloud storage, cloud SQL, stack driver monitoring and cloud deployment manager.
+Setup Alerting and monitoring using Stack driver in GCP.
+Involved in Configuring Hadoop cluster and load balancing across the nodes.
+Involved in managing and monitoring Hadoop cluster using Cloudera Manager.
+Used Python and Shell scripting to build pipelines.
+Integrated Hadoop into traditional ETL, accelerating the extraction, transformation, and loading of massive semi structured and unstructured data. Loaded unstructured data into Hadoop distributed File System (HDFS).
+Created HIVE Tables with dynamic and static partitioning including buckets for efficiency. Also created external tables in HIVE for staging purposes.
+
+Environment: GCP, Big Query, AWS, Hadoop, HIVE, Python, ETL
+
+Client: Valence Health, Chicago, IL Nov 2016 – Mar 2017
+Role: ETL Developer
+Responsibilities:
+Participated in Requirements gathering, Business Analysis, User meetings and translating user inputs into ETL and Reporting mapping documents.
+Designed and implemented data integration modules for Extract/Transform/Load (ETL) functions
+Created SSIS packages to pull data from SQL Server, export to Excel, and vice versa.
+Built SSIS packages to fetch files from remote locations (FTP and SFTP), decrypt, transform, and load them.
+Maintained the ETL data pipelines, primarily using Shell scripting, Python & SQL (Redshift, SQL Server) as tools.
+Experience with SQL and PySpark programming languages in Data Bricks.
+Validated and cleansed data before loading into SQL Server using SSIS packages and created data mappings.
+Created batch jobs and configurations for automated processes using SSIS.
+Worked with Business, Data architects to understand the source to target mapping rules for the ETL jobs and BI reports.
+Worked with various tasks like for loop container, sequence container, script task, execute SQL task, and package configuration in SSIS.
+Involved in Data load monitoring in Trouble shooting the job failures.
+Environment: SQL, SSIS, ETL, Power BI
+Contact this candidate

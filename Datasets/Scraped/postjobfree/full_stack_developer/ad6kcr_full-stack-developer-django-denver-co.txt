@@ -1,0 +1,46 @@
+Derek Adair
+Full Stack Developer
+UX Designer
+Arvada, CO, 80003
+(303) 931-755
+ad6kcr@r.postjobfree.com
+https://derekadair.com
+Profile
+Full Stack developer with extensive experience with Django, Python and JavaScript. Expert communicator. UI/UX focused. Sensitive to business needs. Pragmatic, with selective perfectionism. Portfolio
+2014 - PRESENT
+Adair, LTD, Denver- Owner / Contractor
+I have spent the last decade designing building applications in Django/Python, with React-redux and vue.js. Self hosted via docker-swarm. Mostly as a founder but a few contracted applications. Medialogue - https://github.com/derek-adair/medialogue Forked from a django photo album application to meet my needs without reinventing the wheel. This project solves the problem of
+● Added video/audio support (ffmpeg backend).
+● Wrapped operations in a django-rest-framework api.
+● Refactored thumbnails to not use the database (easy-thumbnails).
+● Implemented filepond backend for modern bulk upload features.
+● Implemented django-storages for amazon s3 support. Shmusic - https://shmusi.cc
+The purpose of this application is to allow musicians/fans to easily connect at live performances and share exclusive media from said event.
+● Implemented highly customized Django Authentication flow with django-allauth.
+● Custom Django user model
+● Integrated notifications with mailgun.
+● Ephemeral Dev Container - Onboard collaborators in minutes not days.
+● Redis Queue for async video encoding.
+● Robust unit and functional tests
+Automated in docker (run on checkout in one command)
+Runs tests on file change
+Football Poolies - https://github.com/derek-adair/nflgame This was a commissioned application. The client was seeking to update an old football “pick’em” website. The initial contract was to keep the site online (it worked via email, no database), but quickly evolved into an exercise in automation.
+● Refactored key functionality within a strict timeline using Django
+● Automated 100% of the management of the application (opening/closing games, submitting game results, calculating player scores).
+● Implemented custom authorization schema.
+Employment
+OCT 2012 - NOV 2014
+Authentic8, Remote- Web Developer
+● Refactored non standard EXTjs code to properly leverage best practices.
+● Implemented a component framework to quickly roll out user permissions controls.
+● Report generation with ExtJS charts.
+● Authored firefox extensions in vanilla JS / xul for search.
+● Refactored monitoring UI to handle tens of thousands of log records in a browser JUNE 2011 - SEPT 2012
+HostGator, Austin TX- Lead UI Developer
+● Refactored internal systems out of a monolith.
+● Maintained and monitored customer support applications (Chat, ticketing, billing, etc).
+● Lead efforts to implement zero downtime application updates for a website with 3.5 million unique monthly visitors.
+● Navigated complex office politics to achieve direct impact during HostGator’s acquisition. Skills
+Django (10+ years) - Fluent. Custom User Auth n/z. Middleware Enthusiast. JavaScript (17 years) - Bleeding edge advocate turned cranky old man. Will code whatever. Devops (10 years) - Early Docker adopter. Ephemeral development specialist. Remote Work (15 years) - Massive variety of remote work related projects. Open Source (10 years) - Contributing how I can when I can. Triage, documentation, whatever is needed. I take initiative.
+Technical Writer (4 years) - I enjoy teaching technical subjects.
+Contact this candidate

@@ -1,0 +1,66 @@
+Sharan Male
+857-***-**** ad7it1@r.postjobfree.com
+SUMMARY
+Data Analyst with over 4 years of experience in developing and implementing data-driven solutions using a variety of tools and technologies. Proficient in Python for data automation, manipulation, and visualization, leveraging libraries such as NumPy and Pandas. Skilled in designing interactive dashboards with Power BI and optimizing data workflows with Power Query. Demonstrated expertise in ETL processes using AWS Glue and Azure Data Factory, integrating data from multiple sources to ensure data quality and consistency. Adept at utilizing advanced analytics techniques in Alteryx and performing complex SQL queries to analyze large datasets. Proficient in leveraging Azure Synapse Analytics for data warehousing and distributed processing and using Apache Airflow for orchestrating data workflows. Strong experience in building predictive models and conducting statistical analysis. Certified in multiple Microsoft Azure and Power BI credentials, showcasing a solid understanding of cloud services and data analytics. Proven ability to collaborate with cross-functional teams, define data solutions, and ensure compliance with industry regulations. Highly capable of optimizing performance, handling real-time data streaming, and managing project codebases using Git. EXPERIENCE
+Northern Trust Bank, Chicago, IL Jun 2023-current
+Data Analyst
+• Developed the Python automation script for consuming the Data subjects request from AWS snowflake tables and posting the data to adobe analytics privacy API.
+• Implemented data governance practices using Snowflake’s metadata and data lineage features.
+• Developed automated ETL pipelines using Redshift's APIs in combination with AWS Lambda and AWS Glue, ensuring timely and accurate data ingestion and transformation.
+• Designed and developed interactive reports in Power BI Desktop, utilizing features like slicers, bookmarks, and drill-through capabilities to enhance user interactivity.
+• Implemented data governance and compliance checks using Redshift’s API to audit and track data access.
+• Monitored and tuned Redshift clusters using AWS CloudWatch and Redshift’s system tables, proactively addressing performance bottlenecks and ensuring high availability.
+• Published and shared reports through Power BI Service, allowing stakeholders to access and interact with reports online, ensuring widespread data accessibility.
+• Analyzed semi-structured data (e.g., JSON, Avro, Parquet) using Snowflake’s native support for these formats, enabling seamless integration and querying of diverse data types.
+• Developed and optimized ETL processes using Snowflake’s built-in features like Snowpipe for continuous data ingestion and transformation, ensuring timely and accurate data availability.
+• Configured AWS Glue Crawlers to automatically discover, classify, and catalog data from various sources, including Amazon S3, RDS, and DynamoDB.
+• Utilized Redshift's Data API for real-time data processing and analytics, enabling instant insights from streaming financial data sources.
+• Leveraged Snowflake’s clustering keys, partitioning, and query optimization techniques to improve query performance, reducing execution time for complex data analyses.
+• Employed Snowflake’s Time Travel feature to access historical data and recover deleted or modified data, ensuring data integrity and supporting audit requirements.
+• Managed and leveraged the AWS Glue Data Catalog to maintain a central repository of metadata, enabling efficient data discovery and governance.
+FuGenX, Hyderabad, India Sep 2020-Aug 2021
+Data Analyst/Business Intelligence Analyst
+• Conducted thorough analysis of the model's performance and iteratively fine-tuned it to achieve optimal accuracy.
+• Designed and deployed dynamic, interactive dashboards that provide real-time visualization of key performance indicators related to bridge operations.
+• Optimized Tableau workbooks for performance by implementing best practices such as data extracts, efficient joins, and appropriate use of calculations and filters.
+• Developed and delivered advanced financial reports and dashboards using Amazon Redshift integrated with BI tools like Tableau and Amazon Quick Sight.
+• Integrated data from multiple sources, including relational databases, Excel files, and cloud services, using Tableau's data blending capabilities to provide a unified view of business metrics.
+• Applied performance optimization techniques by scheduling resource-intensive Synapse tasks during off-peak hours via Airflow, balancing load and improving overall system efficiency.
+• Developed automated ETL workflows with Apache Airflow, including data extraction from PostgreSQL, data transformation using Python, and data loading into the data warehouse.
+• Applied best practices in data visualization to create clear, insightful, and engaging charts and graphs in Tableau, facilitating data-driven decision-making.
+• Used Redshift SQL to query system tables and views for monitoring cluster health, troubleshooting performance issues, and conducting root cause analysis of data anomalies.
+• Led data migration projects to move legacy data warehouses to Amazon Redshift, utilizing AWS Data Migration Service (DMS) for minimal downtime and data integrity.
+• Employed Redshift’s SQL-based partitioning and sharding strategies to distribute data across multiple nodes, optimizing storage and retrieval performance.
+• Employed Common Table Expressions (CTEs) for writing more readable and maintainable queries, especially for complex hierarchical or recursive data processing.
+• Developed and maintained stored procedures and user-defined functions to encapsulate complex business logic, promoting code reusability and reducing redundancy.
+• Improved query performance by leveraging Redshift-specific SQL features like DISTKEY, SORTKEY, and compression encodings, achieving faster query response times.
+• Applied advanced statistical techniques using libraries like scipy and stats models, including hypothesis testing, regression analysis, and multivariate statistical methods, to uncover patterns and relationships in data.
+• Facilitated effective data governance, traceability, and compliance with industry regulations. Capgemini, Chennai, India Jun 2018-Aug 2020
+Data Analyst
+• Performed data quality assessments identified and resolved data issues, resulting in 98% data accuracy.
+• Gathered detailed requirements from clients, prepared comprehensive technical designs by analyzing business needs, and reviewed multiple application modules.
+• Led the creation of multiple real-time dashboards in Power BI, integrating data from diverse sources and manipulating it using DAX queries.
+• Worked on several State Reports and used SSIS to create multiple destination files from single/multiple sources.
+• Developed and maintained SQL scripts for data cleaning, transformation, and aggregation, ensuring data accuracy.
+• Deployed dashboards through a cloud gateway and optimized load times to a maximum of 5 seconds, ensuring efficient and responsive user experiences.
+• Responsible for Scheduling Jobs, Alerting and Maintaining SSIS packages.
+• Scheduled automated data refreshes in Power BI to ensure that the reports always display the most current data, reducing manual intervention and ensuring data accuracy.
+• Developed complex Stored Procedures to generate various Drill-through reports, Parameterized reports, Tabular reports, Matrix reports and linked reports using SSRS.
+• Demonstrated expertise in writing T-SQL, complex joins, dynamic queries, and sub-queries for generating complex stored procedures, triggers, and user-defined functions to meet specific business requirements.
+• Developed complex SSIS packages to extract, transform, and load (ETL) data from various internal databases, optimizing performance and ensuring data integrity.
+• Extensive experience in data modeling and integrating diverse data sources into Power BI, including SQL databases, Excel spreadsheets, and external APIs.
+• Involved in debugging and testing of reports in SQL Server Reporting Services (SSRS).
+• Managed users including creation/alteration, grant of system/database roles and permission on various database objects.
+• Applied SQL performance tuning techniques to optimize query execution times, significantly reducing data processing overhead.
+• Managed project codebase and data transformations using Git, facilitating team collaboration and code versioning.
+• Designed and executed ad hoc SQL queries to gain insights into customer behavior. Technical Skills
+Programming Languages: Python, Java, Scala, SQL, R Cloud: Azure, AWS (S3, Grafana, Sagemaker, EC2, RDS, Lambda, Glue) Tools: Tableau, Power BI, Alteryx, GIT, SSMS, R Studio, MS Excel, JIRA, Jupyter, SSIS, SSRS, Azure Data Factory, Azure Synapse Analytics, Airflow
+Data Analytics: Aws Glue, Athena, PyCharm, Databricks, MATLAB Certifications
+Oracle Certified Associate, Java SE 8 Programmer
+Microsoft Certified: Azure Data Fundamentals
+Microsoft Certified: Azure Fundamentals
+Microsoft Certified: Power BI Data Analyst Associate Microsoft Certified: Azure Data Engineer Associate Education
+Northeastern University, Boston Sep 2021-Apr 2023
+Master of Professional Studies in Analytics
+VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad Aug 2015-May 2019 Bachelor of Technology in Electronics and Communication
+Contact this candidate

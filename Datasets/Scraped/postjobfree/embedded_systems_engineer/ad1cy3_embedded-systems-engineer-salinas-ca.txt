@@ -1,0 +1,55 @@
+Benjamin J. Morse
+ad1cy3@r.postjobfree.com 831-***-****
+Salinas, CA 93901
+github.com/esromneb
+Skills:
+• RISC-V
+• ARM
+• Embedded C, C++, C++20
+• Register Control (CSR), Interrupts
+• Finite State Machine
+• Embedded Linux, BSP, Kernel Drivers
+• Bare Metal Embedded Systems
+• High-speed bus control
+• API, Protocol, and Driver Design
+• Verilator testbench design
+• Lattice, Xilinx FPGA
+• Chisel, Verilog, Verilator, Modelsim
+• FPGA Hardware acceleration over DMA
+• Kerbal Space Program
+• Digital Signal Processing (RF)
+• Software Defined Radio
+• Radio protocol design
+• GNU Radio
+• Distributed Systems
+• Git, Github
+• Python, Matplotlib, SciPy
+• Docker, Podman, Virtual Box, Proxmox
+• Network programming, TCP, UDP, Websockets
+• ZeroMQ
+• GNU Make
+• CI, Jenkins, Travis, CircleCI, Actions
+Job History:
+SiFive, Inc September/22 – October/23
+Senior Staff Engineer
+I contributed to FireSim, a cycle accurate HDL simulator that is FPGA accelerated. I contributed C++ and Chisel code. I ran embedded Linux tests to verify proper operation. I contributed bridges which are software / HDL pairs that enable the FireSim simulator to support more hardware. I did waveform debugging of Chisel code to remove valid/ready lockups. I analyzed and modified pipeline delays to close timing for FPGA place and route. I utilized Docker to isolate system dependencies as well as simulate remote hosts for Python unit tests. I wrote Docker and Python to manage Linux system differences over 3 deployment environments. I made quality of life changes and improved documentation for an internal demo day. Trilinear Tech June/22 – September/22
+Director of Software
+I developed a test environment for a RISC-V DisplayPort software library. The system was bare metal embedded C with a bootloader. I added embedded code to support the Multi-Stream Transport feature of DisplayPort, according to the spec. I ported code that was previously RISC-V only to support dual compilation between RISC-V and x86 for the purpose of unit testing. I refactored legacy code from a singleton approach to support multiple instantiations. I used a directed graph data structure to represent cables between virtual DisplayPort devices. I documented Finite State Machines using Graphviz. I captured hardware waveforms with a logic analyzer and wrote a simple decoder. I added Travis CI to run tests and store artifacts in a shared Dropbox folder. Eridan June/20 – February/22
+Director of Software
+I personally designed and developed a userspace -> kernel -> DMA flow for a high datarate embedded Linux. The streaming DMA was a Xilinx ZCU104 dev board. The FPGA side of the DMA had processing IP blocks and required real-time streaming and timestamping of two streams. The userspace API was designed for customer usage including full documentation and support. The design had multiple userspace and multiple kernel threads. I used memory maps, IOCL, and Register IO. I also greatly improved company-wide cooperation and culture by introducing a Wiki, JIRA and improved hiring techniques. I led a team of 5 engineers responsible for Software and HDL. My team designed, verified, and implemented an additional FPGA accelerated version of an existing software-only design. My efforts contributed towards federal contracts “N00024-13-D-6400” and “W15QKN-15-9-1004” as a subcontractor (principle engineering efforts as well as report writing). These contracts covered the majority of Eridan’s burn rate. Signal Laboratories October/13 – February/20
+Founder, CTO, CEO
+I founded this company. Our goal was to provide low-cost internet by inventing a new wireless mesh radio protocol. We built hardware capable of processing 62 million samples per second (16 bit / sample). The hardware included an array of ten customized RISC-V CPUs. I was responsible for all embedded software, including C code for the 10 soft-core CPUs. I wrote the BSP for bare metal operations, including a custom memory map and bootloader. I wrote embedded C to control an ARM Cortex-M0+, including power states. I wrote the Verilator simulation environment that supported valid/ready sinks/sources, file io, and seeded randomized tests. I wrote a C++ driver which was running on an i7 attached via ethernet. The C++ driver handled error coding, MAC layer, and a Node.js CLI for debugging operations. In January 2019, I took over as CEO. As the last remaining founder, I took on additional responsibilities such as budgeting, investor relations and strategic planning. Over the life of the company, we raised $8.2M over three rounds and built a team of 15 engineers.
+JoynMe August/11 – September/13
+Founder, CTO
+I founded this company. I was responsible for designing the backend server with a REST API. The server used a MySQL database served out using Spring. I designed the database layout, API endpoints, and password salting. I designed a CouchDB database for logging all user/API actions with queries designed to track user retention. I designed the iOS app including SSO, location based search, event invitations, and user chat. We raised $150K and built a team of 8 engineers to flush out the website and android Mosaic Industries, Newark, CA July/08 – June/12
+Embedded Design Engineer
+I wrote embedded C drivers for multiple IO boards for a 16 bit microcontroller. I polished and released a customized IDE for customers, where all drivers and example projects were one click away. I was responsible for customer relations and tech support. I developed Makefile scripts, embedded libraries, modified the GCC compiler, Open source IDE, Installer CD and documentation.
+• Improved software development cycle by implementing Subversion revision control system.
+• Introduced new company-wide standards and documentation including a public / private wiki.
+• Virtualized company infrastructure: Suse Linux running under XenServer, backed up by Backuppc. Oxford Instruments X-ray Technology Group, Santa Cruz, CA June/07 – September/07 Hardware Engineer Intern
+Designed, ordered, and built two custom Printed Circuit Boards. Created a PCB that hosted a Xilinx FPGA interfacing a FTDI USB chip. Programmed FPGA in Verilog to communicate with C++ code running on a host PC. Education
+B.S. in Computer Engineering, June 2008
+University of California, Davis
+Team Leader of Senior Project: Micromouse September/07 – April/08
+“Micromouse” is an autonomous robot that can solve a 9.5 ft2 maze. I designed the embedded C code for reading sensors and driving stepper motors. Made/manufactured a PCB which included an Amtel atmega2560 CPU controlling three IR distance sensors, dual stepper motor drivers, and a Bluetooth module. On April 20th, the robot took 1st place in a public competition against other teams in my class.
+Contact this candidate

@@ -1,0 +1,253 @@
+LALITHA DAMMA
+
+SUMMARY:
+Skilled DevOps Engineer with development background who has 10+ years of experience in supporting, automating, and optimizing mission critical deployments in large server farms and on Cloud Infrastructure.
+Self -starting leader in DevOps, focusing on CI/CD implementation, software configuration, infrastructure automation, quality engineering, release management and container orchestration for cloud and web-based applications.
+Experience with Jenkins, GitHub Actions, GitLab CI, Azure DevOps pipeline and TeamCity.
+Strong expertise with Ant, Gradle and Maven Build Frameworks.
+Good working knowledge of NuGet Server configuration and packaging.
+Experience migrating existing applications to new build and deployment pipelines as per organization needs and standards.
+Experience in managing infrastructure resources in AWS cloud with close coordination with various application teams.
+Hands on experience with AWS resources like EC2 instances, Security groups, ELB, RDS, IAM, Cloud Watch and Auto scaling groups.
+Experience working with AWS IAM Service by creating and deleting IAM users & groups, defining roles and policies and Identity providers.
+Experience in creating Docker images and deploying them onto OpenShift and Google Kubernetes Engine GKE (Anthos).
+Familiar with side-car containers and deployments that host monitoring agents like Dynatrace.
+Experience in working with Terraform key features such as infrastructure as code, execution plans, resource Graphs, change automation and extensively used autoscaling launch configurations templates for launching amazon EC2 instances while deploying microservices.
+Implemented automated workflows, security policies, and developer guidelines for private and public cloud environments using tools like Terraform and Ansible.
+Used Ansible for configuring and managing multi-node configuration management over SSH.
+Experience in branching, merging, tagging and maintaining the version across the environments using SCM tools like Git, GitLab, Subversion (SVN), Perforce and TFS on Linux and windows platforms.
+Experience in integrating static code analysis tools like SonarQube, Veracode and HP Fortify for code quality analysis and detecting security vulnerabilities in CI/CD build pipelines.
+Experienced in installing and publishing NPM packages to NPM registries of React/Angular applications.
+Experienced in authoring build files of Maven and Gradle, for JAVA & J2EE applications and MS Build files for C#, .NET Core applications and helped the development teams in managing build dependencies.
+Experienced in Artifactory repository management for Maven, Gradle and NPM packages.
+Skilled in monitoring and alerting systems like Nagios, Dynatrace, Splunk and AppDynamics.
+Created and wrote Shell, Perl and Python scripts for automating tasks.
+Good knowledge of working with web servers like Apache and Tomcat and JBOSS.
+Experience of managing and coordinating the requirement gathering, development and deployment activities with offshore and onsite teams. Ability to learn and apply new technologies quickly along with strong leadership and problem-solving skills.
+Worked on various teams as leading team member, successfully handling responsibilities such as setting up environments, knowledge transfer, code review, compliance to best practices & standards and deployment of applications.
+Worked on cross functional teams successfully interacting and communicating with other development teams, technical support groups, third party vendors, team of business users and clients.
+Documented technical design and solution inside centralized location such as Confluence.
+
+EDUCATIONAL DETAILS:
+Master of Computer Applications, Andhra University, India.
+
+TECHNICAL SKILLS:
+Cloud Technologies
+Amazon Web Services (AWS), Google Private Cloud (GCP)
+Version Control Tools
+GitHub, GitLab, Bitbucket, Perforce, Subversion (SVN)
+Build Tools
+Ant, Maven, Gradle
+Databases
+Oracle, MySQL, MongoDB
+CI Tools
+Jenkins, TeamCity, Cloud Bees Jenkins, GitHub Enterprise, GitHub Actions, GitLab CI, Azure DevOps
+Config Management Tools
+Ansible, Terraform
+Containerization Platform
+Docker, Kubernetes
+Bug/Issue Tracking
+Jira, Mantis, ServiceNow
+Web/ Application Servers
+Apache Tomcat, JBOSS
+Operating Systems
+Windows Family, RHEL, Ubuntu
+Scripting/Programming Languages
+Shell, Python, JavaScript, HTML, Java, .NET, C#, YAML
+Web Services
+Soap, Rest
+Monitoring Tools
+Nagios, AppDynamics, Dynatrace, Splunk
+Testing Tools
+LoadRunner, JMeter
+Code Quality Tools
+SonarQube, HP Fortify, Checksum,
+Repository Management Tools
+Nexus, Artifactory
+Migration
+Ant to Maven & Gradle/CI pipelines from TeamCity to Jenkins/on Premise to cloud/ ADO pipelines to GitHub Actions
+
+PROFESSIONAL EXPERIENCE:
+HCA Healthcare, Nashville TN (Remote) April 2022 – Current
+Role: Lead DevOps Engineer
+Project: HCA Modules
+Description: HCA Healthcare is an American for-profit operator of health care facilities that was founded in 1968. Current project “Find a doctor make an appointment” FADMAA provides users the capability to search for providers and book an appointment through desktop and mobile applications.
+Responsibilities:
+Migrated ADO CI/CD pipelines to GitHub Actions.
+Played a pivotal role in orchestrating the automation and deployment of infrastructures in Azure, implementing configuration management, and contributing to the establishment
+of CI & CD/Build and Release Pipelines.
+Managed GitHub, Nexus repository, Enterprise Vault, and Argo CD for streamlined DevOps processes.
+Created workflow files in GitHub Actions to kick off builds and deploy them on to Google Kubernetes Engine GKE (Anthos).
+Configured deployments, ingresses, Kustomizations for different applications in Argo CD.
+Pioneered the establishment and configuration of CI/CD pipelines in Azure DevOps and GitHub Actions/workflows for new microservice deployments.
+Administered ADO Git and GitHub repositories for various applications, encompassing branch creation, pull request management, user access updates, and permissions management.
+Managed Azure VM instances hosting CI tools such as Jenkins, SonarQube, and Nexus, ensuring scalability and agility.
+Engineered end-to-end CI/CD pipelines in Jenkins and Build and Release pipelines in ADO, streamlining code retrieval, unit testing, compilation, packaging, and artifact deployment.
+Configured Junit coverage and Integration Test cases as part of the build process.
+Provided full support for regression testing before the deployment to higher environments.
+Managed cloud resources effectively using Kubernetes command line tool Kubectl.
+Deployed and monitored scalable infrastructure on Google Private Cloud (GCP) & configuration management.
+Engineered integrations for programming languages such as .NET, Java, and C#.
+Helped developers in troubleshooting build automation scripts for .NET, MS SQL deployments.
+Attended JIRA tickets, addressing tasks and issues promptly for timely resolutions.
+Configured NPM builds for installing and publishing NPM packages to registries of various React/Angular applications.
+Involved in setting up baseline, created branches, managed parallel development and performed merges and code roll outs.
+Created needed branches and labels and config specs for developers and activities like branching and merging.
+Managed GitHub repositories and permissions, including branching and tagging.
+Closed worked with development team for compile and debug or troubleshooting the applications whenever developers needed help from build team.
+Configured Dynatrace to monitor distributed traces and help troubleshoot production issues for several application teams.
+Monitored and analyzed Splunk logs to isolate production issues and coordinated with different application teams for faster resolution.
+Aided in setting up system monitoring methods to detect system bottlenecks faster.
+Enhanced code quality and collaboration by integrating SonarQube and Veracode into the CI/CD pipeline, contributing to a decrease in post-deployment bugs.
+Collaborated with the security team to harden pipeline security, reducing vulnerability exposures by implementing automated security scans with Checksum, HP Fortify, leading to improvement in compliance with security standards.
+Generated reports for Code Analysis, Software Quality Assurance, Security Vulnerabilities.
+Managed key deliverables and mentored junior DevOps engineers in adopting industry best practices and raised team productivity.
+Produced and maintained comprehensive systems documentation, tested and troubleshooted applications, and documented issue resolutions for the development team.
+Organized and defined work to meet business objectives and requirements, providing consulting, documentation, and knowledge sharing.
+Environment: Maven, Gradle, Nexus, Google Private Cloud (GCP), Azure DevOps (ADO), Google Kubernetes Engine (GKE), GitHub, GitHub Actions, Docker, Enterprise Vault, Argo CD, Splunk, Dynatrace, SonarQube, Checksum, HP Fortify Static Code Analyzer.
+
+Wells Fargo, Charlotte, NC (Remote) December 2020 – March 2022
+Role: Sr. DevOps Engineer
+Project: Enterprise Pipeline Migration
+Description: The goal of this project is to migrate legacy applications on to a standardized enterprise configurations using tools like GitHub, Cloud Bees Jenkins and Checkmarks, Fortify, SonarQube and Urban Code Deploy (UCD) of Web based and cloud applications. This allows consistent control of policies such as segregation of duties, enabling integration, automated testing, code quality and security scanning across all applications.
+Responsibilities:
+Migrated the legacy applications to a standardized build and deployment by creating automated pipelines using GitHub, Jenkins, UCD.
+Created Jenkins pipelines and scripted Jenkinsfile with stages from build to deployment and maintained them in Version control.
+Configured and built Java applications using Ant, Maven and Gradle build tools.
+Configured and administered GitHub Enterprise in AWS with high availability enabled and handled migrations from Subversion, TFS to GitHub.
+Configured Amazon CloudWatch events to alert CPU utilization and health of EC2 instances.
+Worked along with infrastructure team in managing and provisioning different infrastructure resources, AWS components like EC2, VPC, ELB, Security groups.
+Wrote automation deployments scripts using terraform for creating the IAM users and roles and used code pipeline plugin to integrate Jenkins with AWS and created EC2 instances to provide the virtual server.
+Involved in writing Terraform scripts for automating tasks and creating AWS infrastructure.
+Wrote terraform scripts for CloudWatch alerts.
+Worked on Installation and Configuration of Enterprise Jenkins.
+Configured security groups to allow or deny inbound & outbound traffic from EC2 instances and internet.
+Created SNS topics and registered instances to notify alerts from CloudWatch.
+Helping the dev teams in creating docker files to build the artifact as a Docker image.
+Wrote Terraform scripts for building Dev, Staging and Prod environments.
+Configured SonarQube and Fortify security scans for the applications to ensure code quality and detect the security vulnerabilities in code base at the initial stages of deployment.
+Worked with infra teams to assist with various automation and configuration tasks with Shell and Python scripts.
+Responsible for branching, documentation and merging in GitHub in release branches, feature branches and developer branches.
+Configured health rules, policies, business transactions and alerts for application servers in AppDynamics.
+Antifactory migrations from one instance to another instances, Artifactory plugins, artifacts cleanups.
+Managed GitHub and Artifactory repositories and maintained user accounts, permissions, including branching and tagging.
+Environment: Cloud Bees Enterprise Jenkins, Maven, Gradle, Artifactory, GitHub, AWS Cloud, Ansible, Docker, SonarQube, Fortify Static Code Analyzer, Terraform.
+
+FedEx, Lakeland, FL April 2019 – September 2020
+Role: Sr. DevOps Engineer
+Project: Mustang Freight Migration Project
+Description: This project objective is to standardize build and deployment process by writing pipeline scripts and building CICD pipelines with DevOps tools like Jenkins, Maven, GIT, Docker in on premise & AWS Cloud environment. It also involves continuous testing with automated tests as a part of software delivery pipeline.
+Responsibilities:
+Performed builds on Java projects using Ant and Maven as build tools.
+Migrated the legacy Ant applications to Maven and Gradle and the Source code from Perforce to Git.
+Created and maintained fully automated CICD pipelines for code deployment using Jenkins.
+Scripted Jenkins pipeline Groovy scripts with stages like SCM checkout, Sonar scan, build, test, Docker image build, docker push, run ansible play book for deployment.
+Configured pipeline projects to promote builds to different environments.
+Wrote Ansible Playbooks to pull the images from Docker and deploy them to target instances.
+Created groups, subgroups, and projects in GitHub, assigning group members distinct roles in those groups and projects.
+Managed GitHub and GitLab repositories and provided permissions, including branching, and tagging.
+Maintained user accounts in source code management tools like Git and troubleshooting related issues.
+Implemented Maven builds to automate artifacts like jar, war, and ear files.
+Helped Dev teams to generate Code Coverage Reports from SonarQube.
+Created local, virtual repositories in Artifactory and integrated with Jenkins.
+Worked with Jira for issue tracking and monitoring.
+Managed Nexus & Artifactory repository to download artifacts during the build to resolve dependencies.
+Worked with operations team to assist with various automation and configuration tasks.
+Responsible for branching and merging in Git using release branches, feature branches and developer branches.
+Identified and suggested recent technologies and tools for enhancing product value and increasing team productivity.
+Environment: Jenkins, Ant, Maven, Nexus, Perforce, GitHub, GitLab, AppDynamics, Docker, SonarQube.
+
+IVY Comptech, Hyderabad, India July 2016 – November 2018
+Role: DevOps Engineer
+Project: Online Poker and Casino Gaming
+Description: This project involves continuous integration and deployment of code that was checked into a shared repository by the developer several times a day. Each integration will be verified by automated build and tests. Successful builds deployed automatically to lower environments and then promoted to production environments upon approvals.
+Responsibilities:
+Worked on Proof of Concept in migrating small group of application deployments from on premises to AWS cloud through Jenkins.
+Involved in performing application deployment to AWS EC2 instances as part of POC.
+Configuring Nginx for proxy Restful API calls to micro-services in Docker containers.
+Drove strategy for migration to Docker containers to break up monolithic app into micro services, improving developer workflow, increasing scalability, and optimizing speed.
+Wrote a docker file to build customized images for creating containers.
+Worked on docker container snapshot, removing images and managing docker volumes.
+Wrote Ansible playbooks to deploy, configure, and manage servers.
+Wrote and tested Chef Cookbooks to configure and perform tasks on remote nodes.
+Configured MongoDB cluster for various applications.
+Automated manual tasks using Shell and Python scripts.
+Designed front end utility tool using Python CGI.
+Written Perl scripts to generate thread or heap dumps for applications on demand.
+Implemented CICD process using TeamCity for iOS app development team, allowing for dozens of code updates per hour with zero downtime.
+Configured and maintained Bitbucket to implement the CI process and integrated the tool with Ant, Gradle and Maven.
+Involved in source control management with Bitbucket. Regular activities include configure user’s access levels, monitor logs, identifying merge conflicts and managing repositories including branching and tagging.
+Monitoring each service deployment and validating the services across all environments.
+Installed and configured Nagios to constantly monitor network bandwidth, memory usage, and hard drive status.
+Configured health rules to application servers, instrumenting and monitoring business transactions in AppDynamics.
+Collaborated closely with developers and involved in troubleshooting and fixing the deployment issues in a brief period without affecting the production.
+Performed functional tests after deployment to make sure application is up and running.
+Maintained user accounts in Subversion and troubleshooting related issues.
+Trained and mentored junior engineers in continuous integration, deployment, delivery, monitoring and in automating the tasks.
+Used and managed the review tool, Code Collaborator.
+Environment: TeamCity, Bitbucket, Jenkins, Ant, Maven, Gradle, Git, GitLab, Subversion, Ansible, Chef, Docker, AWS, Shell scripting, Python, Perl, Nagios, AppDynamics, Artifactory, ELK Stack, Apache Tomcat, JBoss, Nginx, Jira, Confluence, MySQL, MongoDB, JMeter, HTML, JavaScript, Code Collaborator.
+
+Cognizant, Hyderabad, India June 2015 – July 2016
+Role: Build Engineer
+Project: UBS Banking
+Description: This project focuses on automating the software development process. The Jenkins CICD tool builds Maven jobs that run Unit tests, execute static source code analysis through SonarQube and deploy the built artifacts to Nexus and Artifactory.
+Responsibilities:
+Automated build and deployment process with Jenkins and Maven, eliminating 80% of manual work.
+Setup Jenkins master and slaves’ architecture to use Jenkins pipeline as service.
+Developed build & deployment scripts using Maven. Automated the process using plug-ins available in Jenkins and move from one environment to another throughout the build pipeline.
+Generated Perl& Unix scripts for build activities in QA, Staging and Production environments.
+Integrated SonarQube with the build to perform code quality analysis to find out the vulnerabilities in the initial stages of deployment.
+Used the tracking tool Jira and triaged the issues and maintained bugs using Jira tool.
+Worked with product development team to resolve build-related issues in all projects.
+Maintained build profiles in Subversion and Jenkins for CICD pipeline.
+Improved efficiency of alerting by 90% with no loss in environmental visibility by investigating and eliminating needless alerts.
+Performed all necessary day-to-day Subversion support for different projects.
+Configured the user's accounts for Continuous Integration - Jenkins, Nexus, and Sonar.
+Collaborated using Atlassian tools including Jira and Confluence.
+Configured Artifactory to resolve the build dependencies.
+Wrote Python scripts using APIs for generating Sonar weekly reports.
+Worked in standard software development methodologies like Agile.
+Collaborated closely with developers and managers to resolve the issues that were raised during the deployments in different environments.
+Developed Python scripts for patch management of servers also for deploying the code manually to different environments and updating the team after the completion of the build successfully.
+Updated and enhanced written process and documentation with a focus on ease of understating and completeness of the task.
+Environment: Jenkins, Maven, Subversion, SonarQube, HP Fortify Static Code Analyzer, JIRA, Nexus, Artifactory, Confluence, Python, Perl.
+
+Cognizant, Hyderabad, India February 2014 – May 2015
+Role: Java Developer
+Project: AppInsight Project
+Description: This application is a shared knowledge base of applications, accessible on any device. The application portfolio, enlist and manage a directory of applications which provides aggregate information of all grouped assets. It graphically analyzes the impacted items, test cases for a code change, get an estimation of size and effort. It analyzes and understands the application's structure graphically, inspects dependencies across all the layers. Record and visualize the exact objects and methods called in business use case at runtime. Store, share and compare versions. It reviews how unstable the packages are, how cohesive the classes are, inspect the design structure matrix.
+Responsibilities:
+Involved in requirement gathering, analyzing functional documents and workflow, and designing prototypes based on that.
+Designing and developing new enhancements using Core Java, JavaScript and JSP.
+Developed Servlets for retrieving/updating the data from tables in the database.
+Implemented different charts using Liferay Portlet framework.
+Responsible for analysis of current programs including performance, diagnosis and troubleshooting of problem programs, and designing solutions to problematic programming.
+Involved in Development, testing and maintenance phases of Software Development Life Cycle (SDLC).
+Application development using Eclipse IDE, building applications with Maven scripts.
+Deploying the application in web application server (Tomcat).
+Involved in debugging fixing of bugs.
+Providing support to end users explaining end to end flow.
+Involved in developing user and technical documentation.
+Used SVN for version control.
+Used JIRA for bug/task tracking and time tracking.
+Environment: Java, JavaScript, JSP, Servlets, Liferay Portlet framework, Eclipse, Maven, Tomcat, SVN, Oracle, JIRA.
+
+Intergraph, Visakhapatnam, India October 2012 – January 2014
+Role: Programmer Analyst
+Project: Rebate Evaluation and Contract Tracking System (REACTS)
+Description: REACTS is an intranet web application used by a contracting organization in the company to evaluate distinct types of rebates processed for customers. This application projects the financials for each customer per product and to generate return models. REACTS could generate huge scale of reports through business object’s web intelligence customized interface.
+Responsibilities:
+Developed and maintained code using JSP, Servlets and JDBC.
+Wrote SQL queries to create tables and views.
+Developed test cases using Junit framework.
+Tested the web application using SOAP UI.
+Used Jenkins continuous integration tool for the deployments.
+Debugging the code in Eclipse IDE and fixing the bugs.
+Involved in Agile methodology, develop and maintain efficient code for new business requirements.
+Used JDBC to connect to the database and write SQL queries.
+Implemented data validations and solved concurrent processing issues.
+Reviewed existing code and designs and identified synchronization issues.
+Preparation of technical documents and user manuals for enhanced applications.
+Worked on bug tracking tools like JIRA.
+Environment: JSP, Servlets, JDBC, Junit, Eclipse, Jenkins, Agile Methodologies, JIRA, SOAP UI.
+Contact this candidate

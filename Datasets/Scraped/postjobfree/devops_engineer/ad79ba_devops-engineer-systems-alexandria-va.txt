@@ -1,0 +1,91 @@
+Bobimwo Brendaline
+301-***-**** ad79ba@r.postjobfree.com LinkedIn: https://www.linkedin.com/in/brenda-bobimwo-477a14256/
+Terraform skills, modules, infrastructure deployed, Ansible, groovy, roles and playbooks for management of applications/services, DevOps lead in some projects, Enthusiastic, committed and results oriented Solutions Cloud/DevOps Engineer with over 7 years of extensive IT professional experience with skills including but not limited to capturing applications’ functional and non-function requirements, mapping requirements to a set of AWS services- data, compute, storage, management, network, microservices and security, creating solution proposals in line with an organization’s goals around performance, scalability, elasticity, security, management, and monitoring and creating these solutions while democratizing advanced technologies. Extensive experience working in an Agile environment, and a long track record of successfully directing and executing tactical operations plans, including but not limited to supporting and collaborating with clients, technical teams and managers, migrating to the cloud, designing and building reliable, secure, efficient, and cost-effective cloud infrastructures, and automating and optimizing mission critical deployments in cloud, leveraging configuration management, CI/CD and DevOps processes, troubleshooting, maintaining software applications, data analysts and problem-solving skills.
+Technical Skills
+Cloud Orchestration / Automation, AWS CloudFormation, AWS Lambda, AWS Systems Manager, AWS SSM Parameter Store, Ansible, Docker, Jenkins, ECS, EKS, & Terraform
+AWS Security, AWS Security Hub, AWS Guard Duty, AWS Shield, AWS Firewall Manager, & AWS Inspector
+Monitoring and Event Management, AWS CloudWatch (Events and Logs), AWS SNS, & AWS S3
+Identity and Access Management, AWS Organization, AWS IAM, AWS AD Connector, Active Directory, AWS Workspaces, & AWS Secrets Manager, etc.
+Governance and Compliance, AWS Config Rules, AWS Organization, AWS Control Tower, AWS Trusted Advisor, AWS Well-Architected Tool, AWS Budgets, & AWS License Manager
+Programming Languages, Bash, JSON, YML, & Python
+Application Delivery, Jira, Confluence, Jenkins, Bitbucket, AWS Code Pipeline, AWS Code Commit, AWS Code Build, & AWS Code Deploy
+Data Protection, AWS Certificate Manager, AWS KMS, Snapshot Lifecycle Manager, & AWS Cloud HSM
+Self Service, Service Catalog.
+Network, VPC, VGW, TGW, CGW, IGW, & NGW.
+AWS Platform, AWS CloudFormation, AWS Lambda, AWS Systems Manager, S3, VPC, EC2, ELB, RDS, SNS, SQS, SES, Route53, CloudFront, Service Catalog, AWS Auto Scaling, Trusted Advisor, & CloudWatch.
+Software Configuration management (Automate CI & CD pipeline using Ansible, Nexus, SonarQube, Maven, Jenkins, Terraform & GIT).
+EXPERIENCE
+CLOUD ENGINEER / DEVOPS ENGINEER EXPRESSION - WASHINGTON, DC SEPT 2023 – PRESENT
+Designed and implemented AWS cloud architectures using Terraform and CloudFormation, resulting in scalable, secure, and cost-optimized infrastructure.
+Improved scalability, security, and cost-efficiency of infrastructure provisioning, leading to smoother operations and resource utilization.
+Set up a robust monitoring stack with Prometheus and Grafana, creating custom dashboards and alerts to monitor key performance metrics and system health.
+Enhanced visibility into system performance and health, enabling proactive issue detection and resolution, resulting in improved uptime and user experience.
+Automated security remediation of instance firewall rules using Python Boto3, enhancing infrastructure security posture.
+Reduced security vulnerabilities and improved overall security posture, ensuring compliance with industry standards and regulations.
+Managed containerized applications on Red Hat OpenShift and Kubernetes, ensuring optimal performance and availability through effective deployment, scaling, and troubleshooting.
+Improved application performance and availability, resulting in enhanced user experience and customer satisfaction.
+Automated CI/CD pipelines using GitLab, integrating automated testing and deployment workflows to streamline software delivery processes.
+Reduced deployment time and increased release frequency, enabling faster time-to-market for new features and updates.
+Implemented code quality checks and security scans using SonarQube, integrated with CI/CD pipeline to enforce code quality standards and identify vulnerabilities early in the development cycle.
+Improved code quality and security, minimizing the risk of security breaches and ensuring the delivery of high-quality software products.
+Orchestrated infrastructure provisioning and configuration with Ansible, improving consistency and reliability across development, testing, and production environments.
+Enhanced infrastructure management and deployment consistency, reducing manual errors and increasing operational efficiency.
+Managed NoSQL database solutions with DynamoDB, optimizing data modeling, querying, and performance to support high-volume and low-latency applications.
+Improved database performance and scalability, ensuring efficient data management and access for the application.
+Utilized Jira and Confluence for agile project management, tracking tasks, managing sprints, and documenting project requirements, design, and collaboration.
+Implemented container security scans with StackRox scan, ensuring container images and deployments adhere to security policies and best practices.
+Implemented Docker containers and managed containerized applications for efficient development, deployment, and management.
+Utilized Kubernetes for container orchestration, providing automated deployment, scaling, and management of containerized applications.
+Implemented serverless functions using AWS Lambda, allowing event-driven and on-demand execution of code without provisioning, or managing servers.
+Provisioned and managed EC2 instances, ensuring efficient utilization of compute resources for running applications and services.
+Configured IAM policies and roles to enforce fine-grained access control and secure resource permissions.
+Utilized ServiceNow for incident tracking and management
+
+AWS SOLUTION ARCHITECT/ DEVOPS ENGINEER COGNIZANT – DALLAS, TX DEC 2019 – SEPT 2023
+Automated AWS cloud deployments using Shell script, Jenkins and Ansible.
+Deployed applications into an EKS cluster rather than self-managed k8s clusters using kubeadm or KOPS.
+Supported and developed tools for integration, automated testing, and release management.
+Experience with container-based deployments using Docker, working with Docker images, Docker hub, and Docker registries, and configuring EKS clusters using Terraform.
+Used Helm to simplify code writing to handle complex application deployment integrated with Jenkins.
+Performed package management, upgrades/patches, troubleshooting, maintenance, and monitoring of applications using Prometheus and Grafana.
+Coordinated/assisted developers with establishing and applying appropriate branching, labelling/naming conventions using GIT source control.
+Writing inventory and manifest files, ansible playbooks, terraform manifest files and k8s manifest files.
+Setup for Apache and Nginx webservers couple with AWS ELB SSL for all HTTP to HTTPS thereby maximizing security.
+Resolved merging issues during rebasing and re-integrating branches by conducting meetings with Development Team Leads.
+Worked very closely with Developers and Build & Release team.
+Setup Jenkins server and slave nodes for build and release team as per request.
+Created, managed, and administered user accounts security and SSH password-less login.
+Network configuration and troubleshoot issues with respect to network and configuration files.
+Set up maintenance scripts using metadata for graceful startup and shutdown of servers.
+Used Jira to track vulnerabilities, requests, and incidents, and confluence for documentation.
+Set quality gate policies on SonarQube for code coverages, to track bugs, vulnerabilities and failed the Jenkins pipeline when the threshold was not met.
+Use Helm charts to deploy Prometheus and Grafana for monitoring.
+DEVOPS ENGINEER / CLOUD ENGINEER CONSUMERS ENERGY – MICHIGAN, MI MAR 2016 – NOV 2019
+Collaborated across multiple functional and technical teams to deliver an Agile-based project.
+Worked with clients to meet business needs and solve problems using the cloud.
+Worked with developers, architects, system administrators and other stakeholders to architect and configure Dev / Stage / QA and Prod environments in AWS (VPC, subnets, Security groups, EC2 instances, load balancer, Database, Redis, Route53, etc.).
+Designed and implemented end-to-end Continuous Integration and Continuous Delivery (CI/CD) pipelines using both Jenkins and AWS pipeline.
+Automate the deployment and testing of resources using Infrastructure as Code (Terraform and CloudFormation) through pipelines using DevOps principals, allowing customers to rapidly build, test, and release code while minimizing errors.
+Worked with developers to build, deploy, and orchestrate containers using Docker and Kubernetes
+Provide technical guidance and mentoring to peers, less experienced engineers, and client personnel.
+Designed for high availability and business continuity using self-healing-based architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB health checks, Auto Scaling, and other disaster recovery models.
+Leveraged AWS Control Tower, AWS Organization, etc., to set up and govern a secure, multi-account, AWS environment based on the company’s requirements.
+Implemented and managed Ansible Tower to scale automation and handle complex deployments.
+Monitored and optimized the environment to ensure costs and performance scale on demand.
+Worked with clients to understand their workflows including strengths and weaknesses, to identify new tech / solutions / improvements to make processes more efficient.
+Worked closely with customers, internal staff and other stakeholders to determine planning, implementation and integration of system-oriented projects.
+Designed/developed aspects of migration journey - assess, mobilize and migrate phase including leveraging CART, ADS, Migration Evaluator, DMS, Cloud Endure etc.
+Implemented security best practices in AWS including access key rotation, multi-factor authentication, role-based permissions, enforced strong password policy, configure security groups and NACLs, S3 bucket policies etc.
+Managed and monitored all installed systems for highest level of availability.
+Built high-performing, available, resilient, and efficient 3-tier architecture for customer applications, and performed reviews for architecture and infrastructure builds, following AWS best practices.
+Provisioned and managed AWS infrastructures using Terraform.
+Optimized cost through reserved instances, selection and changing of EC2 instance types based on the resource need, S3 storage class and S3 lifecycle policies, leveraging Autoscaling, etc.
+VPC peering with other accounts allowing access and routing to service and users of separate account to communicate.
+Responsible for installation, configuration, management, and maintenance over Linux systems, including managing users and groups.
+Monitored end-to-end infrastructure using CloudWatch and SNS for notifications.
+CERTIFICATION & EDUCTION
+●BACHELOR OF SCIENCES (BSC) COMPUTER SCIENCE, UNIVERSITY OF BUEA
+● SOLUTION ARCHITECT CERTIFIED AWS
+●DEV-OPS PROFESSIONAL CERTIFIED AWS
+●SECURITY + COMPTIA
+Contact this candidate

@@ -1,0 +1,230 @@
+Luis Corral
+Data Engineer, Cloud Developer
+Phone: 470-***-****
+
+Email: ad63im@r.postjobfree.com
+
+Professional Summary
+•9+ years in Hadoop, Big Data, and Cloud.
+•Hands-on with Spark framework on both batch and real-time streaming data processing.
+•Hands-on experience processing data using Spark Streaming API and Spark SQL.
+•Skilled in AWS, Redshift, DynamoDB, and various cloud tools.
+•Streamed over millions of messages per day through Kafka and Spark Streaming.
+•Move and transform Big Data for insightful information using Sqoop.
+•Build Big Data pipelines to optimize the utilization of data and configure end-to-end systems.
+•Use Kafka for data ingestion and extraction into the HDFS Hortonworks system.
+•Use Spark SQL to perform preprocessing using transformations and actions on data residing in HDFS.
+•Create Spark Streaming jobs to divide streaming data into batches as input to the Spark engine for data processing.
+•Construct Kafka brokers with proper configurations for the needs of the organization using Big Data.
+•Develop pipelines through scripts in ETL Streamsets.
+•Write Spark DataFrames to NoSQL databases like Cassandra.
+•Build quality for Big Data transfer pipelines for data transformation using Kafka, Spark, Spark Streaming, and Hadoop.
+•Designed and implemented a real-time data processing pipeline using Apache Kafka, Apache Flink, and Scala, handling 100,000+ events per second.
+•Design and develop new systems and tools to enable clients to optimize and track using Spark.
+•Designed and implemented complex data models to support business intelligence and analytics requirements.
+•Work with highly available, scalable, and fault-tolerant big data systems using Amazon Web Services (AWS).
+•Implemented CI/CD pipelines for automated deployment and testing of big data applications using Jenkins and GitLab CI.
+•Provide end-to-end data solutions and support using Hadoop big data systems and tools on AWS cloud services as well as on-premise nodes.
+•Well-versed in Big Data ecosystem using Hadoop, Spark, and Kafka with column-oriented big data systems such as Cassandra and HBase.
+•Implement Spark in EMR for processing Big Data across our Data Lake in AWS System.
+•Work with various file formats (delimited text files, click stream log files, Apache log files, Avro files, JSON files, CSV, XM).
+•Use Kafka and HiveQL scripts to extract, transform, and load the data into multiple databases.
+•Perform cluster and system performance tuning on Big Data systems.
+Technical Skills
+•PROGRAMMING Python, Scala, Java
+•SCRIPTING Python, Unix Shell Scripting
+•SOFTWARE DEVELOPMENT Agile, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Gradle, Git, GitHub, SVN, Jenkins, Jira
+•DEVELOPMENT ENVIRONMENTS Eclipse, IntelliJ, PyCharm, Visual Studio, Atom
+•AMAZON CLOUD Amazon AWS (EMR, EC2, EC3, SQL, S3, DynamoDB, Cassandra, Redshift, Cloud Formation)
+•DATABASE NoSQL: Cassandra, HBase, Mongo, SQL: SQL, MySQL, PostgreSQL
+•HADOOP DISTRIBUTIONS Cloudera, Hortonworks
+•QUERY/SEARCH SQL, HiveQL, Apache SOLR, Kibana, Elasticsearch
+•BIG DATA COMPUTE Apache Spark, Spark Streaming, SparkSQL MISC: Hive, Yarn, Spark, Spark Streaming, Kafka, Flink
+•VISUALIZATION: Kibana, Tableau, PowerBI, Grafana
+
+Professional Experience
+
+Senior Data Engineer – Delta Airlines, Atlanta, GA – Mar 2023 – Present
+Delta needed a data/full stack engineer to maintain existing pipelines, ensuring data is cleaned, modeled, and loaded in the correct sequence using the CDK stack and CloudFormation templates, while also updating them to new technologies and versions. Additionally, Delta required the engineer to design new pipelines for receiving, modeling, transforming, and loading data from various stakeholders.
+•Maintain Existing Pipelines: Oversee the upkeep of current data pipelines, ensuring data is cleaned, modeled, and loaded correctly.
+•Resource Allocation: Optimize resource use for efficient data pipelines through AWS CDK and CloudFormation templates.
+•Technology Upgrades: Continuously update pipelines to incorporate new technologies and versions.
+•New Pipeline Creation: Design new data pipelines to ingest, transform, and load data from various stakeholders.
+•Developed normalized and denormalized database schemas for efficient data storage and retrieval.
+•Developed a scalable data warehousing solution using Apache Hive, Apache Spark, and Scala, resulting in a 30% reduction in query latency.
+•End-to-End Pipeline Management: Build comprehensive pipelines that handle the entire data flow from ingestion to delivery to specific endpoints.
+•Designed and implemented Kubernetes clusters on AWS EKS for scalable and high-availability applications.
+•Conducted data modeling sessions with stakeholders to gather and refine requirements.
+•Developed infrastructure-as-code (IaC) scripts using tools like Terraform and CloudFormation to automate infrastructure provisioning.
+•Data Consumption Models: Develop Pydantic models for AWS Lambda to ensure data conformity and proper formatting for downstream processes.
+•GitLab Pipelines: Implement and manage CI/CD processes using GitLab to streamline deployments and ensure consistency across development, testing, and production environments.
+•Strategic Data Placement: Collaborate with cross-functional teams to ingest, transform, and strategically place data for analysis and decision-making.
+•Stakeholder Interaction: Work closely with different stakeholders to gather requirements and ensure data pipelines meet business needs.
+•Event-Driven Architectures: Leverage AWS services like Lambda, Kinesis, and EventBridge to build robust, event-driven data pipelines.
+•Created a data ingestion framework using Apache NiFi, Apache Kafka, and Scala, handling 10+ data sources.
+•Automated data ingestion and transformation processes using Snowflake's native features and third-party tools.
+•Designed and implemented real-time data processing pipelines using Amazon Kinesis and Apache Flink.
+•Configured Kinesis Data Streams for high-throughput and low-latency data ingestion.
+•Monitored and managed DataSync tasks using AWS CloudWatch and AWS Management Console.
+•Data Storage and Retrieval: Utilize DynamoDB and S3 for efficient data storage and retrieval.
+•Access Management: Implement IAM roles to manage permissions and ensure secure access to AWS resources.
+•Error Handling: Set up Dead Letter Queues (DLQs) to manage errors and ensure reliable data processing.
+
+Senior Data Engineer – Thomson Reuters Corporation, Remote –Jun 2022 – Feb 2023
+
+Thomson Reuters provides the intelligence, technology, and human expertise to find trusted answers. But what does that mean exactly? We provide trusted data and information to professionals across 3 different industries: Legal, Tax and Accounting, and News & Media.
+
+•Worked on AWS to form and manage EMR clusters to process data using spark.
+•Implemented AWS Fully Managed Kafka streaming to send data streams from the company APIs to Spark cluster in AWS EMR and spark streaming.
+•Monitored works in AWS using CloudWatch and New Relic.
+•Developed AWS Cloud Formation templates to create a custom infrastructure for our pipeline.
+•Set up and maintained containerization solutions using Docker and Kubernetes for scalable big data processing.
+•Integrated Snowflake with various data sources such as AWS S3, Azure Blob Storage, and on-premises databases.
+•Performed streaming data ingestion process through PySpark.
+•Finalized the data pipeline using DynamoDB as a NoSQL storage or Redshift depending on the use case.
+•Implemented data quality checks using Apache Beam and Scala, reducing data inconsistencies by 40%.
+•Created EMR clusters using Cloud Formation.
+•Created multiple python lambda functions to process files from S3 using triggers and AWS Step Functions.
+•Intensively used Python and JSON to create parametrized ETL pipelines using Apache Airflow.
+•Hands-on with AWS data migration using AWS DMS between database platforms' Local SQL Servers to Amazon RDS and AWS Redshift.
+•Optimized Python code and SQL queries created tables/views and wrote custom complex SQL queries for business units.
+•Implemented a data warehouse solution in AWS Redshift using dimensional modeling.
+•Developed Flink applications to process and analyze streaming data from Kinesis in real time.
+•Integrated AWS EKS with other AWS services such as RDS, S3, and DynamoDB for seamless data management.
+•Created entity-relationship diagrams (ERDs) to visually represent data structures and relationships.
+•Implemented AWS DataSync for automated and secure data transfer between on-premises storage and AWS.
+•Automated the deployment, scaling, and management of containerized applications using EKS.
+•Designed and implemented data warehousing solutions using Snowflake for scalable and efficient data storage.
+•Utilized AWS Redshift to store Terabytes of clean data on the Enterprise Data Warehouse.
+•Used Spark SQL and DataFrames API to load structured and semi-structured data into Spark.
+•Using Athena to perform data validations and data profiling on files in S3 using the Glue Data Catalog.
+•Ingested large data streams from company REST APIs into EMR cluster through AWS Kinesis.
+•Developed a data visualization dashboard using Apache Zeppelin, Apache Spark, and Scala, providing real-time insights to stakeholders.
+•Developed consumer intelligence reports based on market research, data analytics, and social media.
+•Designed multiple applications to consume and transport data from S3 to EMR and Redshift.
+•
+•Implemented Spark using Scala and Spark SQL for faster testing and processing of data.
+•Automated AWS components like EC2 instances, Security groups, RDS, Lambda, and IAM through AWS Cloud Formation templates.
+•Joined, manipulated, and drew actionable insights from large data sources using Python and SQL.
+
+Data Engineer – Deloitte (US Region Delivery Center), Fresno, CA April 2021 – May 2022
+
+At Deloitte's US Delivery Center (USDC) we help clients achieve a higher level of service in operational efficiency and business value. The USDC leverages scale, talent, and a center delivery model to provide high-quality, cost-effective service with standardized processes and procedures.
+
+The US Delivery Center brings a multidisciplinary approach that merges Deloitte’s independently recognized industry, business, and technical experience with leading operating approaches, refined because of building and deploying hundreds of solutions.
+All locations are strategically positioned to be able to scale and deliver quickly on the most complex projects at any stage.
+
+•Created PySpark streaming job in Azure Databricks to process data located in Blob Storage.
+•Defined Spark data schema and set up a development environment inside the cluster.
+•Processed data with a natural language toolkit to count important words and generated word clouds.
+•Implemented monitoring and logging solutions using ELK stack and Prometheus to ensure system reliability and performance.
+•Worked as part of the Big Data Engineering team to design and develop data pipelines in an Azure environment using ADL Gen2, Blob Storage, ADF, Azure Databricks, Azure SQL, Azure Synapse for analytics, and MS Power BI for reporting.
+•Used Azure Data Factory to orchestrate data pipelines.
+•Created a pipeline to gather data using PySpark, Databricks, and Snowflake.
+•Used Spark Streaming to receive real-time data using Kafka.
+•Worked with unstructured data and parsed out the information by Python built-in function.
+•Developed ETL pipelines to load and transform data into Snowflake using tools like Apache NiFi and Informatica.
+•Optimized data models for performance and scalability in big data environments.
+•Designed and implemented data storage solutions using Azure Data Lake for scalable and secure data management.
+•Configured and optimized Azure HDInsight clusters for high-performance big data processing.
+•Automated build, test, and deployment processes to reduce manual intervention and increase deployment frequency.
+•Created a data migration tool using Apache Spark, Apache Hive, and Scala, migrating 10TB of data with 99.99% accuracy.
+•Configured a Python API Producer file to ingest data from the Slack API using Kafka for real-time processing with Spark.
+•Created a data governance framework using PostgreSQL, ensuring data compliance and security.
+•Optimized Snowflake queries and performance by tuning virtual warehouses and clustering keys.
+•Developed ETL pipelines using Azure Data Factory to ingest data into Azure Data Lake and process it with HDInsight.
+•Migrated data processes from Cloudera Big Data stack, Hadoop, Hive, and MongoDB to Azure Cloud services.
+•Developed Spark programs using Python to run in Databricks.
+•Utilized a cluster of multiple Kafka brokers to handle replication needs and allow for fault tolerance.
+•Wrote simple SQL scripts on the final database to prepare data for visualization with Tableau.
+•Ensured continuous integration of code changes by setting up automated testing frameworks and tools.
+•Implemented data quality checks using PostgreSQL, reducing data inconsistencies by 30%.
+•Used spark streaming as Kafka Consumer to process consumer data.
+•Wrote Spark SQL to create and read Cassandra tables,
+•Wrote streaming data into Cassandra tables with spark structured streaming.
+•Wrote Bash script to gather cluster information for Spark submits.
+•Developed Spark UDFs using Scala for better performance.
+•Managed Hive connection with tables, databases, and external tables.
+•Installed Hadoop using Terminal and set the configurations.
+•Interacted with data residing in HDFS using PySpark to process data.
+•Configured Linux on multiple Hadoop environments setting up Dev, Test, and Prod clusters within the same configuration.
+
+Hadoop Engineer – The Coca-Cola Company,
+Atlanta, GA
+March 2019 – February 2021
+
+Worked in Data & Analytics Technologies organization that is responsible for building cloud-based analytics products for APAC, EMEA, Americas, and Corporate that directly impact Coca-Cola's business growth globally.
+
+•Configured Kafka Producer with API endpoints using JDBC Autonomous REST Connectors.
+•Configured a multi-node cluster of 10 Nodes and 30 brokers for consuming high-volume, high-velocity data.
+•Used GCP BigQuery to store data.
+•Conducted performance tuning and optimization of CI/CD pipelines to enhance efficiency and reduce build times.
+•Developed a natural language processing pipeline using Apache Spark NLP, Apache OpenNLP, and Scala, achieving a 30% increase in text classification accuracy.
+•Created GCP BigQuery SQL queries to gather data for business units.
+•Implemented parser, query planner, query optimizer, and native query execution using replicated logs combined with indexes, supporting full relational KQL queries, including joins.
+•Developed distributed query agents for performing distributed queries against shards.
+•Wrote Producer/Consumer scripts to process JSON responses in Python.
+•Developed JDBC/ODBC connectors between Hive/Snowflake and Spark for the transfer of the newly populated data frame.
+•Automated data extraction, transformation, and loading processes with Sqoop to streamline data workflows.
+•Managed configuration and secrets using Ansible for secure and consistent deployments.
+•Developed scripts for collecting high-frequency log data from various sources and integrating it into HDFS using Flume, staging data in HDFS for further analysis.
+•Wrote complex queries the API into Apache Hive on Hortonworks Sandbox.
+•Utilized GCP BigQuery to query the data to discover trends from week to week.
+•Configured and deployed production-ready multi-node Hadoop services Hive, Sqoop, Flume, and Airflow on the Hadoop cluster with the latest patches.
+•Created Hive queries to summarize and aggregate business queries by comparing Hadoop data with historical metrics.
+•Implemented data governance practices to ensure data quality and consistency in data models.
+•Worked on various real-time and batch processing applications using Spark/Scala, Kafka and Cassandra.
+•Built a real-time analytics platform using PostgreSQL, Apache Kafka, and Apache Spark, providing insights to business stakeholders within 10 seconds of data ingestion.
+•Provided training and support to development teams on best practices for DevOps and CI/CD processes.
+•Loaded ingested data into Hive Managed and External tables.
+•Built the Hive views on top of the source data tables and built secured provisioning.
+•Used Cloudera Manager for installation and management of single-node and multi-node Hadoop clusters.
+•Implemented parser, query planner, query optimizer, and native query execution using replicated logs combined with indexes supporting full relational Kibana Query Language (KQL) queries, including joins.
+•Performed upgrades, patches, and bug fixes in Hadoop in a cluster environment.
+•Wrote shell scripts for automating the process of data loading.
+•Evaluated and proposed new tools and technologies to meet the needs of the organization.
+
+Database Developer – Kimberly-Clark
+Irving, TX
+November 2017 – February 2019
+
+•Built a real-time analytics platform using Apache Kafka, Apache Spark, and Scala, providing insights to business stakeholders within 10 seconds of data ingestion.
+•Provide technical support to the client portfolio of accounting software throughout Latin America. Mainly, problems related to databases are solved within the software (Microsoft SQL Server Management).
+•Integrated data models with ETL processes to streamline data transformation and loading.
+•Designed and implemented ELK stack for centralized logging and real-time analytics.
+•Implemented data security best practices in Snowflake, including data encryption, role-based access control, and network policies.
+•Developed and maintained ETL processes using Sqoop, Hive, and Pig on HDP.
+•Developed a data migration tool using PostgreSQL, migrating 5TB of data from MySQL with 99.99% accuracy.
+•Construction and customization of integration systems using technologies such as Raas, Saas, API, and web services. Designed and performed web applications with C# ASP.NET framework, SQL Management, and UI.
+•Integrated Elasticsearch, Logstash, and Kibana (ELK) stack with other systems and applications for comprehensive log analysis.
+•Wrote shell scripts for time-bound command execution.
+•Worked with application teams to install an operating system, updates, patches, and version upgrades.
+•Developed scalable big data processing applications using Java and Apache Hadoop.
+•Conducted performance tuning and optimization of Elasticsearch indices and queries.
+•Ensured data security and compliance by implementing Kerberos authentication and Ranger policies on HDP.
+•Utilize conceptual knowledge of data and analytics, such as dimensional modeling, ETL, reporting tools, data governance, data warehousing, and structured and unstructured data to solve complex data problems.
+
+Big Data Engineer – Citigroup –
+New York, NY
+Jan 2015 to November 2017
+
+Company is a diversified financial services company and bank holding company that provides financial planning products and services, including wealth management, asset management, insurance, annuities, and estate planning.
+
+•Built the infrastructure required for extraction transformation and loading of data for a variety of data sources using Hadoop technologies
+•Worked with stakeholders (e.g., Executives, Product, Data, and Design teams) to assist with data-related technical issues.
+•Worked with Airflow to schedule Spark applications.
+•Created multiple Airflow DAGs to manage the parallel execution of activities and workflows.
+•Validated and tested data models to ensure accuracy and reliability of data.
+•Developed PySpark application to process consecutive datasets.
+•Designed and implemented a data warehousing solution using PostgreSQL, achieving a 50% reduction in query latency.
+•Created Lambda Applications triggered based on events over S3 buckets.
+•Created Spark programs using Scala for better performance.
+•Adjusted Spark Applications shuffle partition size to execute the maximum level of parallelism.
+•Used Elastic Search to monitor log applications.
+•Performed incremental appends of datasets.
+•Optimized Spark using map side join type transformations to reduce shuffle.
+•Applied Kafka Stream library.
+
+Education
+ITESM MX, MECHATRONICS ENGINEER
+Contact this candidate

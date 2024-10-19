@@ -1,0 +1,157 @@
+Data Engineer
+Name: Anusha Munama
+Location: Charlotte, North Carolina
+Email: ad5c5o@r.postjobfree.com
+Phone: +1-980-***-****
+
+PROFILE SUMMARY
+
+A results-driven software professional with 10+ years of progressively responsible experience in Data Analysis, Design, Implementation, Administration, and Support of OLTP, OLAP, Business Intelligence, Data Modeling using SQL Server 2019, ETL/ELT -Tool SSIS, Azure cloud services like Azure Data Factory.
+Skillful in ETL/ELT - Extraction Transformation Loading, Operations Data Store concepts, data marts, and OLAP-Online Analytical Processing technologies.
+Experienced on Data Warehousing methodologies and concepts, including star schemas, snowflake schemas, ETL processes, dimensional modeling, Slowly Changing Dimension (SCD Type II) and reporting tools.
+Experience in creating Views, Constraints, Triggers, Joins, Cursors, Temp tables, Table variables, Functions, Batch Scripts, and stored procedures consumed at various stages of migration and cleansing process, reports, or data validation using SQL.
+Proficient in writing complex T-SQL (DDL, DML), new features like CTE, Ranking Functions, XML PATH, JSON, SQL, and Physical, logical database design.
+Expertise in understanding execution plans and implementing tuning and performance improvement measures. Proficient in using SQL Profiler.
+Experience with Python 3 programming for data analysis, data visualization and Data import from other data sources and used the libraries such as NumPy, Pandas.
+Experience in scheduling Jobs and sending Alerts using SQL Mail.
+Experience in creating ETL and ELT packages, and Azure Pipelines to extract data from different sources applying transformations, and loading data to different destinations.
+Used various Transformations in SSIS Dataflow like Lookup, Data conversion, Merge Join, Conditional Split for various Incremental Load process to Dimension tables in Data warehouse.
+Experience in providing Logging, Error handling by using Event Handler, and Custom Logging, Audit Tables for SSIS Packages.
+Proficiency in creating different types of Reports such as drill-through, Drill-down, Summary, Parameterized, Sub reports and formatting them using SSRS.
+Experience in developing web-based applications using Python and web technologies like XML, CSS, and HTML.
+Experienced on creating and validating history and Audit tables for analysis and reporting.
+Having experience in implementing Azure Data factory pipeline components such as linked services, Datasets, and Activities, Blob Storage access.
+Experienced in performance tuning of SSIS packages, Query optimization, Data Validations using Hash values compare and database consistency checks. Excellent skills in documenting different kinds of metadata Management.
+Worked on data transformation especially OLTP data to the Data Warehouse using SSIS, Dimension and fact tables and SQL commands along with batch processes in applications.
+Used the version control system GIT and TFS to access the repositories and Jira and Confluence tools for task.
+Good written and oral communication skills and the ability to interact with all levels, including senior management, Business teams and the customers.
+
+Technical Expertise:
+Database Tools
+MS SQL Server 2019, Oracle 11g, Snowflake
+ETL Tools
+Microsoft SQL Server Integration Services (SSIS)
+Reporting Tools
+Microsoft SQL Server Reporting Services (SSRS), Power BI
+Languages
+T-SQL, U-SQL, PL-SQL, Snow SQL, C#, Python
+Cloud Computing:
+Azure Data Factory (ADF), SQL Azure DWH, and Azure Storage
+Analytics Tools:
+SSAS – Multidimensional
+Applications:
+MS Excel, MS Word, MS PowerPoint
+
+EDUCATION
+
+Bachelor’s degree in Chemistry from Acharya Nagarjuna University, Guntur, India.
+Master's degree in information technology from SPMVV University, Tirupati, India.
+
+PROFESSIONAL EXPERIENCE
+
+Client: Align Technology, NC, USA
+Role: Sr. Data Engineer
+Duration: October 2023 to Present
+Description: Align Technology is a global medical device company and manufacturer of 3D digital scanners and Invisalign clear aligners used in orthodontics.
+Responsibilities:
+Involved in requirements gathering, analysis, design, development, and implementation of various applications on MS SQL Server Data Base, Azure SQL, and cloud services like MS Azure.
+Developed new stored procedures and Functions, modified existing ones, and tuned them to achieve optimum performance using execution plans using T-SQL, and Python.
+Analyze the requirements provided, Design and Developed Integration Packages as per the business needs, and automate them.
+Created 30 to 40 complex stored procedures with temporary tables, CTE, Functions to implement the business logic and load data to History and Audit tables about 5 years previous data.
+Implemented Azure Data Factory pipelines, SSIS to automate ETL processes, resulting in a 30% reduction in data processing time.
+Optimized complex queries in Azure Synapse Analytics, improving report generation speed by 40%.
+Led a successful migration project from on-premises MSSQL to Azure SQL Database, ensuring minimal downtime and data integrity.
+Designed and implemented a secure data access model in Azure Blob Storage, enhancing data security and compliance.
+Performed SSIS incremental load tasks such as Slowly Changing Dimension (SCD Type 2), lookup, Conditional Split, and Derived Column which did Data Scrubbing, including data validation using checksum before loading data.
+Experience in Designing and Implementing Data Warehouse applications, mainly Transformation processes using ETL tools also actively involved in Database Querying, Data Analysis, and Production support.
+Developed ETL package, Azure Pipelines with different data sources (SQL Server, Flat Files, Excel Source files, etc.) and loaded the data into target tables by performing different kinds of transformations using SQL Server Integration Services.
+Implemented ETL Processes such as source, mapping, transformation, and staging areas and created various ETL documents such as ETL Mapping documents.
+Worked as a team for defining measures and dimensions by creating cubes in SSAS and was Responsible for developing MDX queries for faster retrieval of historical data from cubes.
+Developed SSIS package to load data from Flat Files, Excel, and XML Files to Data warehouse and Report-Data mart using Lookup, Derived Columns, Sort, Aggregate, Pivot Transformation, and Slowly Changing Dimension.
+Worked extensively through agile development methodology by dividing the application into iterations.
+Executed SQL conversion pre-validation and post-validation Python scripts to avoid data loss and to make sure that the Count, redemption amount for each source matches the data loaded in EDW.
+Used Power BI to demonstrate to the team new forms of Data visualization and advanced reporting methods.
+Utilized tools like SQL Profiler, index tuning wizard, and Windows performance monitor for monitoring and tuning MS SQL Server performance.
+Environment: Azure Data Factory, Python 3.0, SQL Server 2019/17, T-SQL, SQL Server Integration Services (SSIS), SQL Server reporting services (SSRS), C#, SQL Server Analysis Services (SSAS), Microsoft Visual Studio 2022, Erwin, Power BI, DAX, MDX, Windows Server 2016.
+
+Client: CDW Corporation, USA
+Role: Data Engineer
+Duration: May 2019 - April 2022
+Description: Client is a leading multi-brand provider of information technology solutions to Banking, government, education, and healthcare customers in the United States, the United Kingdom, and Canada.
+Responsibilities:
+Interact with clients to analyze business needs provide software product design and develop technical roadmap for the solution.
+Designed, Developed, and deployed database Objects and structures and ensured their stability, reliability, and performance.
+Created Banking Data warehouse dimensional modeling and OLTP database design with Star and Snowflake Schema and exposure to modern relational database capabilities.
+Used ETL (SSIS) to develop jobs for extracting, cleaning, transforming, and loading data into the enterprise data warehouse (EDW), worked with a variety of data sources including OLEDB Oracle Source, ODBC sources, and Flat File Sources.
+Understand the pipelines and scheduled jobs for loading data from raw sources to Snowflake tables using Azure Data Factory (ADF).
+Used CA Schedular and Autosys for Job scheduling in QA and Productions and was involved in Support work to track failed jobs and resolve and resubmit the job in Production.
+Designed and developed ETL process to load data from SQL Server and CSV, Zip files, JSON Files Source and load into SQL Server Tables and Blob storage then Azure EDW then load into Azure Data mart.
+Creating and managing Dataflows, pipelines, linked servers, and data sets In Azure Data Factory.
+Involved in the complete life cycle in creating SSIS packages, building, deploying, and executing the packages in both environments (Development and Production).
+Monitored time-taking queries with Performance Tuning to reduce the execution time and created packages in SSIS with error handling.
+Conducted and automated the ETL operations to Extract data from multiple data sources and transform inconsistent and missing data to consistent and reliable data and finally load it into the multi-dimensional data warehouse using Slowly Changing Dimension (SCD Type II) to save Historical data along with current data.
+Executed SQL conversion pre-validation and post-validation scripts to avoid data loss and to make sure that the Count, redemption amount for each source matches the data loaded in EDW.
+Worked on comparing checksums of source and destination data, to ensure that data has been accurately transmitted or replicated.
+Worked extensively through agile development methodology by dividing the application into iterations.
+Environment: Microsoft SQL Server 2019, Python, SSIS, SSRS, POWER BI, XML, HTML, ETL, OLTP, SQL Server Profiler, Windows Server
+
+Client: Schroder’s Bank, UK
+Role: SQL/ETL Developer
+Duration: March 2017 – April 2019
+
+Responsibilities:
+Client is One of the leading banking and financial service Providers in the UK.
+Interact with various Onshore Team Business Analysts, Management, and IT Units to analyze business and functional requirements and convert business requirements into technical use cases.
+Responsible for preparing high-level and low-level design documents for change requests and bug fixes.
+Maintained business intelligence models to design, develop, and generate both standard and ad-hoc reports using SSMS, SSIS, SSRS, and Microsoft Excel.
+Worked in designing and optimizing various T-SQL database objects like tables, views, stored procedures, user-defined functions, indexes, and triggers.
+Implemented complex SSIS packages error handling and package logging that stores the logging and Audi Financial data results in SQL table and flat files on error, on warning, on task failed event types.
+Used SSIS package and T-SQL stored procedures to transfer data from OLTP databases to the staging area and finally transfer into the data warehouse.
+Created Packages to group logically related column types and to transfer data.
+Involved in Dimensional modeling by identifying the fact and dimension tables and designing star and snowflake schemas for the SQL Server Analysis Services (SSAS) using SCD Type 1 and 2 and Change Data Capture in Database level.
+Worked closely with DBA and Solution Architect and gave significant input on Normalization/De-Normalization of database tables and built Referential Integrity for RDBMS.
+Used different data validation techniques to analyze the distribution, quality, and patterns of finance data within a dataset.
+Involved in Data validations using checksums or hash values for data sets and compare them against precomputed checksums to detect any changes or discrepancies to maintain financial data integrity.
+Worked on Client and Server tools like SQL Server Enterprise Manager and Query Analyzer to administer SQL Server.
+Responsible for integrating data into a centralized database with a dynamic design and user-friendly web application, to keep track of Direct Bill Payments from various Clients across the nation.
+
+Client: Piedmont Healthcare, Atlanta, GA
+Role: Technical Lead
+Duration: January 2015 – February 2017
+Responsibilities:
+Involved in Planning, Defining, and Designing database based on business requirements and
+provided documentation.
+Translated requirements, designs, and functional specs into use case documents, test plans and
+test cases documents.
+Collaborated in dramatically increasing OLTP transactions on systems handling several
+billion transactions weekly through the implementation of advanced database techniques
+such as join optimization, table structure and fragmentation analysis, bulk inserts, analysis of
+indexes and locks, creation of custom timers to detect bottlenecks.
+Involved in project maintenance support of existing OLTP databases as well as designing
+SSIS packages for custom warehousing needs.
+Developed and maintained stored procedures, indexed views, user-defined functions,
+triggers, database constraints to meet business requirements, and policies.
+Created complex Stored Procedures, Functions, Triggers, Tables, Indexes, Views, SQL joins, and T-SQL Queries to test and implement business rules.
+Heavily involved in Database Design for new applications using the best industry practice.
+Worked on migrating SSIS 2008 packages to 2014 SSIS packages using the project deployment
+module. Developed SSIS Packages for extracting the data from the file system, transformed
+and loaded the data into OLAP.
+Develop automated tests or scripts to validate data integrity and ensure that data validation rules are consistently applied across different environments
+Involved in Performance Tuning and optimization of the report store procedures.
+
+Client: Deloitte Consulting India Pvt Ltd
+Role: SQL Developer
+Duration: August 2013 - December 2014
+Responsibilities:
+Analyzing the requirements, and reviewing user stories and functional requirements from the client.
+Creating database objects like views, functions, tables, cursors, indexes, etc. using T-SQL.
+Creating and modifying stored procedures as part of new design implementation.
+Implementation of dynamic stored procedures.
+Implementation of Full Text Index as part of Search in a Database.
+Scheduling and maintenance of SQL Server Jobs for status updates in multiple applications and Full Text Index updates.
+Worked on performance tuning techniques using execution plans and SQL Profiler.
+Scheduling and maintenance of SQL Server Jobs for status updates in multiple applications and Full Text Index updates.
+Implementation of checkpoint feature in case of package failure.
+Identified issues and developed a procedure for correcting the problem which resulted in the improved quality of critical tables by eliminating the possibility of entering duplicate data in a Data Warehouse.
+Developed, Code Reviewed, fixed bugs, tested, and deployed SSIS packages using SQL Server 2014/2012/2008 R2 Business Intelligence Development Studio.
+Contact this candidate

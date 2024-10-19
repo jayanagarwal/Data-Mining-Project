@@ -1,0 +1,264 @@
+Elias Enow Ayukegba
+
+Email: ad5llr@r.postjobfree.com Tel: 214-***-****
+
+Career
+Certified AWS Solutions Architect with experience also on Azure. Help organizations optimize and implement Cloud Solutions. Have worked on projects migrating Databases, tables and datasets from ON PREM into AWS. Automated the build of code (CI) and deployment (CD) of applications through Jenkins, AWS DevOps tools. Leverage S3 as a staging area for structured, semi-structured and unstructured data. Used ETL tools and AWS services like GLUE, GLUE STUDIO, REDSHIFT, ATHENA. Leverage transform to build secured infrastructure across platforms on Azure and AWS
+
+I possess Excellent communication skills. Worked with developers, Scrum masters and Product owners to fulfill business needs. I am an excellent and flexible team player with the ability to switch roles, handle multiple tasks simultaneously and work in a constantly changing agile environments.
+
+Major strengths include (but not limited to):
+
+Technical Strength
+Troubleshooting errors while building cloud infrastructure using Terraform
+Manipulate CSV, Parquet data types while loading data into Data warehouse
+Writing and editing SQL logic for data migration
+Liaise with Product Owner and business on business concepts. dimension and fact tables
+Strong problem-solving skills and ability to multi-task and switch roles
+Provide technical assistance to development team in the evaluation and build of Data Pipelines
+Migrating terabytes of data from on prem Data centers onto aws
+
+AWS Solutions Architect
+Migrating Databases from on premise networks into clouds using AWS DMS, SCT through Direct connect (Hadoop ecosystem )
+Used s3 as object storage. Expose data with Glue and Athena
+Manage clusters, create objects, pods namespaces to run applications with Kubernetes
+Runtime Docker containers
+Jenkins to deploy applications
+Leverage Design Dynamo DB for Apps
+Developed Cloud Formation scripts using terraform to build on-demand EC2 instance formation
+Designed EC2 instances architecture to meet high availability application architecture
+Create instances in VPC and securing them with ACL and security groups
+Interact with API endpoints using postman
+ACL and security groups
+
+EXPERIENCE
+
+AWS Platform Engineer
+Kasasa
+2022.01 – 2024-02
+
+Used Terraform, to build infrastructure in AWS
+Deploy, manage and troubleshoot clusters in Kubernetes environment
+Deploy secured instances in VPC, behind Security groups. IAM, RBAC
+Migrated data from legacy applications (BVA MYSQL) (CRM) to S3
+Migrating large data sets from Data centers on-prem into aws cloud
+Exposed data sitting on s3 buckets with Glue and athena services
+Converted data types to match requirement in new Data storage
+Built ECDP AWS platforms using Jenkins (CI/CD)
+Proficiently managed CI/CD pipeline automation, Jenkins artifacts in Nexus, and deployed artifacts using Ansible on AWS ECS.
+Planned and built advanced CI/CD pipelines utilizing tools like AWS Code Pipeline, AWS Code Deploy, Jenkins, and GitLab for automated code deployment across multiple environments.
+Integrated CI/CD with Git version control systems, implementing efficient Git branching strategies for code management.
+Logged daily jobs into JIRA, created stories and groomed backlog stories
+Terraform modules, managing terraform files and making use of terraform provisioners
+Maintaining different versions of terraform, migrating code making sure code works in latest terraform versions
+Modify and fix terraform versions to make sure code works during and after migration
+Used airflow to trace and troubleshoot migration jobs
+Ran DAGS to ingest tables into AWS. Airflow
+Deploying load balancers for network access and traffic to backend applications
+Created SQS to automate jobs in aws
+Created release tickets for Data Vault tables built in the Data Warehouse (Redshift)
+Created tables in Athena to leverage data in S3
+Used postman as a client to interact with api endpoints
+Design platforms for IOT data collection and transformation
+
+Proficient in Kubernetes concepts such as Pods, Deployments, Services, etc.
+
+Container security. Using namespaces, security groups to isolate apps
+
+Implementing security measures specific to containerized applications
+Experience with Kubernetes orchestration tools like kubectl, Helm, etc
+Knowledge of containerization technologies such as Docker
+Familiarity with cloud platforms like AWS, GCP, Azure for Kubernetes deployment.Securizing Containers (DevOpssec)
+Strong Troubleshooting and problem-solving skills in Kubernetes Environments.
+Experience with monitoring and logging tools like Prometheus, Grafana, ELK Stack
+Scripting experience with Bash, Python, or similar languages for automation tasks.
+
+Tools:
+
+Postman
+Tello
+Gitbucket
+Gitlab
+IAM (RBAC)
+Kubernetes
+Terraform
+Airflow
+Kubectl
+
+AWS Cloud Platform Engineer
+Virtusa 2021.01 – 2022-01
+
+Modify legacy on prem code in Terraform, to build data pipelines
+Having the right naming convention for files
+Working on bad structures terraform files. Avoiding all .tf files put in one single file and named main.tf
+Maintaining good terraform file structures providers.tf, variable.tf, ec2.tf
+Copy command to load data onto redshift
+Implementing security to users and service accounts through IAM (RBAC
+Built ECDP AWS platforms using Jenkins (CI/CD)
+Logged daily jobs into JIRA, created stories and groomed backlog stories
+Worked on Autosys workflows to help broke down target data tables and their dependencies
+Migrated workflows from auto sys to Airflow
+Leveraging Namespaces, RBAC and services in Kubernestes to build secure applications (DevSecOps)
+Logged dependencies of those tables into Confluence and made documents for different departments
+Used airflow to trace and trouble migration jobs
+Apache airflow for orchestration
+Ran DAGS to ingest tables into AWS
+Leveraged S3 as a staging area for migration and used Redshift as a data lake
+Created SQS to automate jobs in aws
+Integrate on prem health check system to work with AWS Cloud Watch (self healing instances
+
+Skills / Technology:
+
+Proficient in Kubernetes concepts such as Pods, Deployments, Services, etc.
+Experience with Kubernetes orchestration tools like kubectl, Helm, etc
+Knowledge of containerization technologies such as Docker
+Familiarity with cloud platforms like AWS, GCP, Azure for Kubernetes deployment.
+Strong troubleshooting and problem-solving skills in Kubernetes environments.
+Experience with monitoring and logging tools like Prometheus, Grafana, ELK Stack
+Scripting experience with Bash, Python, or similar languages for automation tasks.
+Glue and Athena
+HDFS
+Jenkin/ Jules
+IAC Terraform
+Intelli J IDEA Python
+AWS IAM
+Midas / looker
+Confluence
+
+DIVERSANT/BOA (Contract) 2019.06 – 2021-01
+
+AWS\ AZURE Security architect \ Solutions Architect
+
+Help tenants onboard on AZURE and AWS (EC2) Compute platform
+Help various tenants of the AWS shared platform adhere to bank policies
+Analyse Standards and Base lines for clouds platforms through governance
+Work with a broad variety of tools onboarding Hadoop, SPARK Data analytics platform
+implementing Security and compliance for applications through Security groups, namespaces, RBAC (DevSecOps)
+Building fault tolerant and scalable applications in private and public VPC
+Container security. Using namespaces, security groups to isolate apps
+
+Developed and adopted DevOps Model and CI/CD workflow in integrating Git, Bit Bucket, Maven, SonarQube, Tomcat, Ansible, Docker, Kubernetes clusters in automated deployments.
+Make sure logging to NAS and Data Base is for authenticated and authorized users
+Using Power brokers to give temporary access to users and applications
+Active Directory on premise and AAD (Azure)
+Working with GIS on change policies at different LLE, DEV, UAT and Production environments
+Creating Modules with terraform (IAC).. HCL coding to deploy resources
+Identity access management AWS
+Implemented network security on clusters, Kubernetes ( INGRESS, EGRESS, ACL)
+Network Isolation .Access control through network isolation (LDAP, Active directory)
+Ensure that resources are properly tagged
+Creating Python environment variables, dictionaries to automate security on IBM spectrum compute platform
+Editing python scripts in LLE as part of compliance Governance (Testing environment)
+
+Skills / Technology:
+
+Agile methodology, scrum framework, SAFe environment
+Agile Management Tools (JIRA, Visual Studio)
+Using skype,Outlook and Webex for meetings
+AWS Apache
+Spark compute platform
+Apache Azure Spark compute platform
+Dbaas, Iaas, Paas
+Azure
+Jupiter Notebooks
+Apache Spark
+IAC Terraform
+Intelli J IDEA Python
+AWS IAM
+
+CTG/IBM (Contract) 2017.10 – 2019.05
+
+AWS Solutions Architect (Clouds Migration)
+Bentonville,Arkansas
+Using IAM Policies and roles with Cloud Formation to build stacks
+IOT data collection using kinisis and moving data into S3
+Used ETL tools Athena, Glue to extract, transform data on s3, Redshift (Elasticsearch)
+Making sure users have right permission to build resources (VPC,IGW,EC2,RDS,ECS) etc
+AWS OpsWorks configuration management using Chef and puppet
+Building fault tolerant and scalable applications in private and public VPC
+Editing Jason and YAML policy templates in Terraform deployments
+Installing software on our instances using Metadata in Cloud Formation (LAMP)
+Deploy resources using terraform (HCL, Json)
+Load data from s3 into Redshift (power to interact with clusters)
+Using Cloud Watch to monitor AWS environment
+Using Cloud Trail for auditing AWS environment
+Using Security Groups and ACL to secure Instances
+Deploy Jenkins images using terraform
+Coding using HCL terraform
+Database Migration Strategies (Homogeneous and Heterogeneous migration)
+Using Terraform and Jenkins for infrastructure in a CI/CD environment
+Using Kubernetes to automate application deployment (Micro services)
+Install and test Kubernetes clusters
+Using code commit to version control
+Working with automation tools like CHEF, PUPPET,JENKINS
+Cloud Front (Catching content for Dynamo DB,RDMS DB) CDN
+Leveraging Lamda to run Python codes doing ETL jobs
+Debugging Python codes for ETL jobs
+
+Skills / Technology:
+Agile Methodology, Scrum framework, SAFe environment
+Agile Management Tools (JIRA, Visual Studio)
+Deploy Java applications, Micro services (NoSQL, MS SQL DB)
+Terraform, Jenkins in a CI/CD environment
+Virtual Platforms: Skype for Business, WebEx, GoTo Meeting
+Microsoft Office Suite (Excel, PowerPoint, Word, Outlook, Access)
+Working with automation tools like CHEF, PUPPET,JENKINS
+Redshift, S3, Athena… Terraform
+Python Scripting (Intelli J IDEA)
+Kubernetes
+Apache Kafka for Data streaming
+
+Tyson Food Springdale Arkansas 2015.01– 17.08
+AWS Solutions Architect / Springdale Arkansas
+Work closely with Product owners and Scrum masters in an agile environment
+Work in scrum teams to implement security in AWS VPC
+Helping the PO in writing accurate user stories and maintaining liaison with Development teams
+IAC Leveraged Terraform to deploy resources in AWS
+Leveraging CloudFormation to build infrastructure in AWS
+Support Development team with deploying applications on AWS
+Tracking and reporting application Integration development status and coordinating with Business to provide innovation solutions across diverse business areas
+Facilitating discussion, decision making and conflict resolution
+Supporting and educating the product owner and team, especially with respect to reviewing and maintaining the product backlog
+Implementing security in VPC while leveraging Security Groups, Load balancers in AWS
+Leveraged Intellij Iidea to debug python codes both for LLE and production environments
+
+Skills / Technology:
+Agile Methodology, Scrum framework
+Agile Management Tools (JIRA, QuickSight)
+Cloud Formation. Kubernetes, Terraform
+Virtual Platforms: Skype for Business, WebEx, GoTo Meeting
+Microsoft Office Suite (Excel, PowerPoint, Word, Outlook, Access)
+Intelli J Idea IDE
+
+Valtech Services, Plano, TX 2012.06–2015.01
+Network Enginer
+
+Designed and implemented scalable network solutions to meet business requirements, resulting in improved network performance and reliability
+Configured and maintained Cisco routers and switches to ensure optimal network operation
+Implemented and maintained network security measures, including access control lists (ACLs), firewalls, and VPNs
+Conducted regular network audits and performance monitoring to identify and resolve issues proactively
+Collaborated with cross-functional teams to plan and execute network infrastructure upgrades and expansions
+Provided technical support and training to junior network engineers and end-user
+
+Skills:
+
+Proficient in configuring and troubleshooting Cisco routers and switches (Cisco Catalyst, Cisco Nexus)
+Experience with Cisco IOS, IOS-XE, and NX-OS operating systems
+Strong understanding of TCP/IP, OSI model, VLANs, routing protocols (OSPF, EIGRP, BGP), and subnetting
+Hands-on experience with network security protocols such as ACLs, VPNs, and Firewalls
+Familiarity with network monitoring tools (Wireshark, SNMP)
+Knowledge of virtualization technologies (VMware, Hyper-V
+Excellent problem-solving and analytical skills
+Effective communication and teamwork abilities
+
+Operating Systems:
+Rhel 5 & 6, CentOS 5 &6, Ubuntu, x86/x64, Amazon Machine Image (AMIs)
+Virtualization: VMware –vCenter, Rhev, KVM
+High Availability: Big IP F5, Red Hat Cluster, AWS
+Cisco routers, switches and firewalls (Networking, Security)
+Configurations on Palo alto firewalls
+Hadoop Framework (Hive,Spark, Apache Streams, Phoenix
+
+Certified AWS Solutions Architect
+Certified Cloud Practitioner
+Contact this candidate

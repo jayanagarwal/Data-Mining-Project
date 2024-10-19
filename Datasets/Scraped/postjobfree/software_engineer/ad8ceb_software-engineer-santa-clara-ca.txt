@@ -1,0 +1,27 @@
+CHANDANA SADANANDAMURTHY Email: ad8ceb@r.postjobfree.com
+Embedded Software Engineer Phone: +1-669-***-****
+Santa Clara, California
+https://www.linkedin.com/in/chandana-k-sadanandamurthy-9918a8126 Education:
+Bachelor of Engineering in Electronics and Communication Engineering, Kalpataru Institute of Technology (VTU) - July 2017 Technical Skills:
+Programming Languages : C, C++, Python.
+IDEs and Tools : Keil Micro Vision, CodeWarrior, MPLAB, Code Composer Studio (CCS), Cross Core Embedded Studio(CCES)
+Debugging Tools : GDB Debugger and JTAG Debugger.
+Protocols : SPI, I2C, UART, Ethernet,TCP,UDP and LCD . Peripherals : Timer, PWM, ADC and RAM.
+Boot-loader : Bare-metal- UART and NAND booting, Linux- U-boot, Kernel boot. Platforms : Bare-metal, Linux and RTOS.
+Work Experience:
+Linux Kernel and Device Driver Developer Cisco, San Jose 12/2023 – Present Worked on MACSec Authentication and Configuration methods. Projects:
+MACsec for Secure Network Communication on Routers Configured MACsec on Cisco routers (e.g.WAN grade) to encrypt traffic between designated interfaces. Implemented Key Exchange Mechanism for secure key distribution. Verified MACsec functionality and addressed configuration errors. Senior Software Engineer Quest Global, Bangalore 07/2022 – 04/2023 Worked primarily on low-level programming like firmware software development on bare-metal and Rtos,and HAL Development and testing and Communication protocols like UART, I2C,SPI and BLE. Projects:
+Ionian[Wireless ECG]
+Wireless ECG devices consist of a set of electrodes that are placed on the patient's chest, and a small transmitter that sends the ECG signals to a receiver via Bluetooth. The receiver displays the ECG waveform in real-time, allowing the healthcare professional to analyze the data and make informed decisions about the patient's care.
+Processors: STM32, Adsp Blackfin609. Programming Language :C and C++ Embedded Software Engineer Teclever Solutions, Bangalore 01/2021 – 07/2022 Worked primarily on low-level programming like firmware software development on bare- metal and device drivers on Linux and board bring-up (u-boot, kernel boot) with end-to-end development of APIs and testing and Communication protocols like UART, I2C,SPI,TCP/IP,MMC and ADC.
+Projects:
+BSP: The Board Support Package (BSP) is an implementation specific support code for a board (blackfin609 and Sitara AM5718) that conforms to a given operating system (bare-metal and Linux). It commonly contains the minimal device support to load the operating system and device drivers for all the devices in a target system. The tasks which are performed by the BSP are to initialize the processor, bus, interrupt controller, clock, RAM settings and configuring the segments.
+Processors: Sitara AM5718, Adsp Blackfin609. Programming Language : C and C++ Embedded Software Engineer SLN Technologies, Bangalore 10/2018 – 12/2020 Worked primarily on low-level programming like firmware/application software development, device drivers on bare-metal and board bring-up with end-to-end development of APIs and testing and Communication protocols like UART, I2C,SPI,TCP/IP,ADC UDP and PWM. Projects:
+Display Unit: Display Unit (DU) is an avionics LRU (Line Replaceable Unit) which receives the processed symbol display data on RS422 lines from the I/O Controller LRU and transmits back the bezel key selection commands to I/O Controller. It displays symbols on 480 x 480-pixel AMLCD. The DU performs its built-in self-test during POWER-ON (PBIT) and when requested by the I/O Controller (IBIT) and sends the status report to I/O Controller. The Man Machine Interface (MMI) is implemented using bezel keys selection. Processor: 32-bit Processor with LCD controller ARM Cortex A8 based processor AM3358 series processor. Programming Language : C
+TACHO Generator Card [TGC]
+● Design and development of SPI interface in STM32 Microcontroller.
+● Design and development of Programmable Waveform Generator using AD9833 IC.
+● Design and development of Digital Potentiometer using AD5293 IC. Array Control and Monitoring Unit (ACMU)
+The Array Control and Monitoring Unit (ACMU) receives inputs from 128 sensors from the antenna array, acquires data and transfers to the main controller of radar through Ethernet interface. Controller: K61 Microcontroller. Programming Language : C Training:
+Professional Diploma in Embedded System Design Cranes Software International Limited (Varsity Division), Bangalore. Linux Device Driver Programming Using Beaglebone Black(LDD1) on Udemy.
+Contact this candidate

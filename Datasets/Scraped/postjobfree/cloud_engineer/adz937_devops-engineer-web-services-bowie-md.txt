@@ -1,0 +1,111 @@
+Remy Martial Mbouyom, AWS Certified DevOps Engineer
+Lanham, 20706, United States, 240-***-****, adz937@r.postjobfree.com
+Profile summary
+•I’m an AWS solution architect, DevOps certified Professional with over 7 years of experience in Amazon Web Services including AWS (EC2, VPC, ELB, S3, EBS, RDS, Route53, ELB, Cloud Watch, Cloud Formation, AWS Auto Scaling, Lambda, Elastic Bean Stalk), GIT, SQL, Jira, AWS CLI, Unix/Linux, Ruby, Shell scripting, bash scripting Jenkins, Gitlab, Chef, Terraform, Ansible Lambda, CloudFormation.
+•Strong hands on building RESTfull APIs, JSON and Devops best practices using Gitlab, CICD,Docker and Kubernetes
+•Strong experience designing and architect serverless web application using AWS Lambda, API Gateway, MongoDB, Dynamo Db and Security Token Service (STS)., Hosted Mongo (Atlas clusters)
+•Efficient in BASH Shell scripting on Linux environment with Amazon AWS CLI. documentary, plays, and video games scripts
+•Developed infrastructure as code (IaC) using Terraform to automate the deployment of cloud resources such as virtual machines, load balancers, and databases.
+•Configured Terraform modules to create reusable templates for infrastructure provisioning.
+•Create a Kubernetes cluster using a cloud provider (e.g., Google Kubernetes Engine, Amazon Elastic Kubernetes Service).
+•Deploy the web application to the Kubernetes cluster using Kubernetes Deployment and Service objects.
+•Good understanding of network concepts including TCP, VPN, VPC, NAT, Bastion Host, DNS, Subnet, Gateways and Routers.
+•Efficient in relational database design, stored procedure, triggers, user-defined functions, SQL jobs.
+•More importantly, I am self-motivated, team-oriented professional who can work independently, also I am confident of my ability to quickly learn and implement modern technologies in no time.
+•3 years of experience in AWS CDK and CDK modules
+•Create an AWS Lambda function to handle API, Deploy the application using AWS CDK.
+•Create a DynamoDB table to store application data using the aws dynamodb module
+•Create an HTTP API using API Gateway V2 and integrate it with the Lambda function using the aws-apigatewayv2 module
+•Create an IAM role with the necessary permissions to access the AWS resources using the aws-iam module.
+•Configure SSL/TLS for the HTTP API using Amazon Certificate Manager (ACM) using the aws-certificatemanager module.
+•5+ years of experience and very hands on with many languages like, python, java, C#,Node Js...etc
+•Strong hands on designing and implemented a microservuces-based architecture for for an e-commerce project, resulting in increased scalability and reduce costs.
+•Well utilized of serveless computing to develop fucntion, resulting in reduce costs.
+•developed serveless APIs for multiple projects like Streaming processing, RESTfull microservices and even-driven architecture.
+•hight exposure architecting and developing a serveless data processing pipeline utilizing AWS Lambda and step Functions for improved scalability and reduce operation cost.
+•well designed and implemented a containerized microservices architecture using kubernetes for orchestration and AWS Lambda for serveless computing.
+•Great ability in developing,build, deploy and automate application in AWS using differents languages like python, Java, nodejs.
+•Strong hands on interact with many devops tools such as Git, Github, Gitlap, Jenkins, Bitbucket and deploy using deployment and configurations tolls such as Cloudformation, Terraform,chef, pupet and contenairization tools like Docker and kubernetes.
+•5+ years experience in scripting, coding with differents languages and strong knowledge to discuss logic behind solving for requirement.
+
+Technical Skills
+Amazon Web Services VPC,
+EC2, Lambda, API Gateway,
+S3, EBS, RDS, IAM, Route53,
+Cloudfront, Dynamo DB, CloudWatch, SNS, SQS
+Cloud Formation, Jira, Confluence
+TCP-IP, Network Security,
+Subnets, VPN, DNS, Routing
+Enterprise Architecture, Agile,
+Software Design, Software Engineering
+REST API, XML, JSON, Windows Services
+MS SQL Server, DB Backup &
+Maintenance
+Terraform, Kubernetes, Ansible, Docker, Salt Stack
+GitHub, Jenkins, TFS, Gitlab, BitBucket
+Linux OS, Window OS, Mac OS,
+CentOS
+Python, JavaScript, Bash
+Scripting, HTML, CSS, SCSS,
+Amazon Web Services
+IIS, Apache
+Professional experience
+Sept 2022 – Present Devops Engineer at Fannie Mae Corporation
+•Developed infrastructure as code (IaC) using Terraform to automate the deployment of cloud resources such as virtual machines, load balancers, and databases.
+•Configured Terraform modules to create reusable templates for infrastructure provisioning.
+•Utilized Terraform to manage infrastructure for multi-cloud environments, including AWS, Azure.
+•Integrated Terraform with version control systems such as Git to maintain a history of infrastructure changes.
+•Develop a simple web application using Python.
+•Containerize the application using Docker and publish the image to a container registry (e.g., Docker Hub, Google Container Registry).
+•Create a Kubernetes cluster using a cloud provider (e.g., Google Kubernetes Engine, Amazon Elastic Kubernetes Service).
+•Deploy the web application to the Kubernetes cluster using Kubernetes Deployment and Service objects.
+•Expose the web application to the public using Kubernetes Ingress or LoadBalancer.
+•Implement rolling updates for the web application using Kubernetes Deployment object.
+•Enable auto-scaling for the web application using Kubernetes Horizontal Pod Autoscaler object.
+•Implement logging and monitoring for the web application using Kubernetes logging and monitoring tools (e.g. Prometheus).
+•Secure the web application by configuring Kubernetes secrets and implementing SSL termination using Kubernetes Ingress.
+•Test the web application to ensure it is working as expected and monitor its performance and availability using Kubernetes monitoring tools.
+
+Jan 2020 — Sept 2022 AWS Cloud Engineer DevSecOps Engineer, Empower Inc
+•Setup databases on Amazon RDS or EC2 instances as per requirement.
+•Create POCs and architecture for upcoming engagements.
+•Design, implementing and supporting of cloud-based infrastructure and its solutions
+•Manage AMI/Snapshots/Volumes, Upgrade/downgrade AWS resources (CPU, Memory, EBS).
+•Manage Amazon Web Services (AWS) infrastructure with automation and orchestration tools such as ANSIBLE
+•Manage CDN on Amazon Cloud Front (Origin Path: Server / S3) to improve site performance.
+•Create multiple VPC's and public, private subnets as per requirement and distributed them as groups into various availability zones of VPC
+•Manage VPC, Subnets, make connection between different zones, Blocking suspicious IP/subnet via ACL.
+•Setup & Managing windows Servers on Amazon using EC2, EBS, ELB, SSL, Security Groups, RDS and IAM.
+•Create & Managing buckets on S3 and store db and logs backup, upload images for CDN server.
+•Configure S3 buckets with various life cycle policies to archive infrequently accessed data to storage classes based on requirement
+•Deploy multi-tier web application on to AWS cloud and automate required configurations using Terraform
+•Involve in writing Java API for Amazon Lambda to manage some of AWS services
+Jan 2018 — Jan 2020 AWS CLOUD ARCHITECT ENGINEER, Miller Long
+•Implemented automation, effective monitoring, and infrastructure-as-code
+•Migrated the current Linux environment to AWS /RHEL Linux environment and used auto scaling feature and Involved in Remediation and patching of Unix/Linux Servers
+•Created AWS Route53 to route traffic between different regions
+•Configured AWS IAM and Security Group in Public and Private Subnets in VPC.
+•Used MySQL, DynamoDB and ElastiCache to perform basic database administration.
+•Used GZIP with AWS Cloudfront to forward compressed files to destination node/instances.
+•maintained the user accounts (IAM), RDS, Route 53, VPC, RDB, DynamoDB, SES, SQS and SNS services in AWS cloud.
+•Created and configured elastic load balancers and auto scaling groups to distribute traffic and to have cost efficient, fault tolerant and highly available environment
+•Created S3 buckets in AWS environment to store files
+•Used IAM for creating roles, users, groups and also implemented MFA to provide additional security to AWS account and its resources
+•Maintained monitoring and alerting of production and corporate servers using Cloud Watch service
+•Created EBS volumes for storing application files for use with EC2 instances
+•Created snapshots to take backups of volumes and also images to store launch configurations of EC2 instances
+•Wrote Templates for AWS infrastructure as code using Terraform to build staging and production environments
+•Setup of Virtual Private Cloud (VPC), Network ACLs, Security Groups and route tables across Amazon Web Services
+•Configuration and administration of Load Balancers, Route53, Network and Auto scaling
+
+Jan 2016 – Dec 2018 System administrator at Zotech computer services
+
+•Initiated applications through Docker and KUBERNETES cluster formation for scalability of application
+•Creation of Docker images, upload/download in and out from Docker Hub
+•Worked with development/testing, deployment, systems/infrastructure and project teams to ensure continuous operation of build and test systems
+
+Educational Experience
+Bachelor of Computer Network, Jul’2013
+•AWS Certified Solutions Architect Professional
+•AWS Certified DevOps Engineer Professional
+Contact this candidate

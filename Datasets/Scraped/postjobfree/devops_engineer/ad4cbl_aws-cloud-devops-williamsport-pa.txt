@@ -1,0 +1,81 @@
+Alekhya P
+Phone: 302-***-**** Email: ad4cbl@r.postjobfree.com
+Summary of Experience:
+• Over 5 years of IT experience as DevOps Engineer, and System Admin worked on Ansible, Nagios, GIT, Jenkins, AWS, Terraform, Atlassian Stack (JIRA/Confluence)
+• Good understanding of the principles and practices of Software Configuration Management (SCM) processes, including compiling, packaging, deploying, and Application configurations
+• Hands on experience in vetting the security controls of various PaaS services in AWS and creating the technical security standards to secure the infrastructure
+• Strong experience in building Infrastructure by using various AWS Services involving AWS Cloud Services, EC2, EBS, VPC, RDS, SES, ELB, Auto Scaling, Cloud Front, Elastic Cache, AWS Glue, API Gateway, Route 53, SNS
+• Experienced in designing AWS cloud models for Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS)
+• Experience with DevOps solution including the functions of build, deploy, automation test control, generating reports and notification services with an end goal of Continuous Integration in AWS
+• Worked on Jira ticketing tool and Confluence for documentation
+• Worked on Jenkins for continuous integration for all builds and deployments
+• Utilize tools such as Terraform and Cloud Formation Templates to build infrastructure. AWS Lambda experience, running scripts and code snippets in response to AWS Cloud events
+• Experience in writing Python and bash scripts
+• Develop and maintain Infrastructure as code using Terraform for CI/CD deployments
+• Hands-on experience in automating infrastructure activities such as Continuous Deployment, Application Server setup, and Stack monitoring using Ansible playbooks
+• Used Kubernetes to deploy scale, load balance, scale and manage docker containers with multiple names spaced versions
+• Worked on analysis and visualization of data using ELK (Elastic search, Log stash and Kibana) and MySQL databases in a Linux (CentOS) environment
+• Experienced with deployment automation of all the Microservices to pull image from the private Docker Registry and deploy to Dockers warm cluster using Ansible
+• Worked on setting up Webhooks for GIT and Jenkins Integration
+• Worked on automating infrastructure, testing, deployments, using tools like Terraform, Cloud formation template
+• Good understanding of the principles and the best practices of SCM in Agile methodologies
+• Experience in Linux administration activities including network-based installation, RAID, LVMs, Disk quotas, configuration of DHCP, DNC, TCP, User and Group Administration, Nagios
+• Good Interaction with developers, managers, team members to coordinate job tasks and strong commitment to work
+Technical Skills:
+Version Control Tools : GIT/GitHub, Bitbucket
+Continuous Integration Tools : Jenkins, Bamboo
+Build Tools : Ant, Maven, Jenkins
+Configuration Management Tools : Ansible, Chef, AWS Cloud Formation, Terraform Containerization Technologies : Docker, Kubernetes Programming Languages : Python
+Scripting Languages : Shell, Bash
+Data Serialization Language : YAML, JSON
+Code Quality Analysis Tools : SonarQube
+Databases : MySQL, DB2, PostgreSQL, Dynamo DB
+Application Servers : WebSphere, Tomcat
+Web Servers : Nginx, Apache2
+Atlassian Toolset : JIRA, Confluence
+Monitoring Tools : Nagios, Splunk, Grafana, Prometheus Cloud Platform : Amazon Web Services [AWS], GCP, Knowledge of Azure Educational Qualification:
+Bachelor of Technology in Civil Engineering
+Jawaharlal Nehru Technological University, India
+Work Experience:
+Title: Cloud Engineer
+Client: Wafd Bank, Seattle, WA Nov’2022 – Till Date Key Responsibilities:
+• Analyzing existing data model and made appropriate changes to make it compatible with business requirements
+• Worked on performing CRUD operations in Python with PostgreSQL9.6 using psycopg2 adapter
+• Worked on creating Python Lambda function to read a CSV file from S3 and upload the data in to DynamoDB
+• Worked on deploying a war file on Docker container using Jenkins
+• Worked on setting up IAM Users, Groups to provide necessary access to IAM resources, attached necessary IAM Policies to the Roles attached to the EC2 instances
+• Prepared CloudFormation templates for creating IAM Role for lambda function, creating Python Functions, Zip, and upload to S3
+• Worked on creating IAM policies using CloudFormation template to provide full access to S3, CloudWatch logs and DynamoDB
+• Created automated build process with the help of Jenkins tool
+• Authored automated shell scripts to reduce manual intervention for performing database health checks and sending alerts to the application operation team
+• Worked on AWS S3 bucket for archiving of the work data
+• Used Jenkins to deploy code to AWS, created new namespaces, created Docker images, and push them to container registry of AWS
+• Experience in Amazon EC2 setting up instances, virtual private cloud (VPC), Security groups, creating monitors, alarms, and notifications for EC2 hosts using Cloud Watch alarms
+• Distributing traffic among multiple Web logic servers and deployed the cloud platform using EC2, S3, and EBS
+• Worked on setting up the Jenkins pipelines, jobs, and administration of entire Jenkins infrastructure for release automation of Java based application
+• Implemented Docker-maven-plugin in and maven POM to build Docker images for all microservices and later used Docker file to build the Docker images from Java jar files
+• Managing and upgrading EKS Clusters and create CI/CD pipelines for deployments using Helm charts
+• Wrote and modified python scripts to deploy build artifacts and integrate Git and Jenkins with Jira for continuous updates and monitoring progress
+• Collaborated with development teams to troubleshoot issues related to Kubernetes deployments and application performance
+• Creating Web Sphere/Tomcat Application Server Clustered Environments and handling Load Balancing for QA, UAT and Production
+• Worked on upgrading SonarQube and integrating it to the pipeline along with unit and Integration testing Implemented version control and collaboration workflows using Git and established Git branching strategies for efficient code management
+• Configuring Jenkins as a common build engine to build and deploy applications to DEV, PPD, UAT and prod environment
+Environment: JIRA, Confluence, PostgreSQL 9.6, Linux Administration, CI/CD, Python, Jenkins, GIT, GITHUB, Lambda, AWS Services -EC2, EKS, CloudFormation, S3, RDS, Kubernetes, ECS, IAM, Terraform, CloudWatch, ECS Title: Devops Engineer
+Client: Outrider, Golden, CO Sep’2018 – Oct’2022
+Key Responsibilities:
+• Hands-on experience in creating and adding new disk partitions and file systems: Swap, LVM (Physical volumes, Volume Groups, and Logical Volumes)
+• Created repositories, managed user access, code and release maintenance on GIT and build and administrate Continuous delivery pipelines using GIT and Jenkins
+• Responsible for CI/CD process implementing using Jenkins along with Python and Shell scripts to automate routine jobs
+• Worked on RDS to increase writer and reader instances based on the traffic and CPU/Memory utilization
+• Managed Ansible Playbooks with Ansible roles. Used file module in Ansible playbook to copy and remove files on remote systems
+• Managed the source code repository and involved in the build, release, and continuous integration process
+• Build Automation and Build Pipeline Development using Jenkins and Maven.
+• Set up build pipelines in Jenkins by using various plug-in like Maven plug-in, EC2 plug-in.
+• Setting up Jenkins master, adding the necessary plug-in and adding more slaves to support scalability and agility
+• Provided system administration for Atlassian tools, Jira, Confluence, Bitbucket and managing other project test managing tools Qmetry, HP-ALM
+• Monitoring and inspecting server health and server logs through monitoring tools like Zabbix and Nagios to troubleshoot and clear any issues
+• Worked on deployment of code into Docker containers automatically using Jenkins
+• Prepared a PoC using AWS Developer tools AWS Code commit, Code build, Code Pipeline and Code Deploy for full stack of application deployment
+• Worked on setting up CI/CD pipeline to trigger lambda function and store data in to DynamoDB after code commit from GITHUB
+Environment: JIRA, Jenkins, Git, Confluence, Docker, Ansible, Terraform, Python, Oracle 11g/12c, Linux Administration, Apache, AWS – EC2, S3, ECS, CloudFormation, ELB, Auto scaling, Kubernetes, JFrog Artifactory
+Contact this candidate

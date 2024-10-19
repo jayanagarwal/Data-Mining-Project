@@ -1,0 +1,306 @@
+GERARD ANTHONY GOLD
+SOFTWARE ENGINEER, EXPERIENCED IN TEST AUTOMATION, AND MANUAL TESTING OF WEB AND MOBILE DEVICES.
+650-***-****
+Email: ad8tvj@r.postjobfree.com
+U.S. Citizen. Interested in relocating. Rate completely negotiable.
+
+EXPERIENCE
+
+Programming Experience
+Languages & Scripting: Bash, C, C#, Java, JavaScript, Node.js, PowerShell, Python, Ruby.
+Limited languages & scripting work: Ada, 8086 Assembly, C++, Clojure, COBOL, FORTRAN, Golang, JavaScript, Objective-C, Pascal, Perl, Pick OS-BASIC, Scala, Swift, TypeScript.
+Limited AI & Machine Learning Work: Python libraries: NLTK(natural language processing), PyTorch, TensorFlow, Keras.
+Limited API Programming Work: GET, POST & PUT API calls written in Golang, Java and Python.
+
+Operating Systems Experience
+Antix, BSD UNIX, CentOS, Fedora, Kali, Linux, macOS, NonStop OS, NonStop UNIX, Pick System, Red Hat, Solaris UNIX, SUSE, TAILS, Ubuntu, UNIX, Windows.
+Android, iOS.
+
+Test Experience
+Automation Frameworks: Cucumber + Gherkin, JUnit, Pytest, Robot Framework, RSpec, TestNG.
+Manual Testing.
+Performance: Apache JMeter, Gatling, LoadRunner, Selenium Grid.
+Test Management Tool: Test Environment Toolkit (TET).
+Test Experience Types: Boundary, Functional, Negative, Performance testing including load, stress, and volume.
+UI test automation: Appium, Cypress, Selenium.
+Web Application Servers: Eclipse GlassFish, Jboss (WildFly), Apache Tomcat.
+Web services API test automation: Postman, SoapUI.
+
+Additional Experience
+CICD: Jenkins, Travis.
+Data formats: Jason, YAML, XML & XPath, SOAP, SAML.
+Databases: JDBC, MongoDB, SQL, MySQL, Oracle, SQLite.
+IDE’s: Apache NetBeans, Eclipse, IntelliJ IDEA, PyCharm, RubyMine.
+Office Software: LibreOffice & MS: Excel, PowerPoint, Word.
+Reporting & coordination: Bugzilla, Jira.
+Software build automation tools: Apache Ant, Apache Maven, Gradle, Make.
+Version control systems: Git, Perforce, RCS, Subversion.
+Web frameworks & languages: AngularJS, CSS, Django, HTML5, jQuery, ReactJS, WordPress.
+
+PROFESSIONAL SUMMARY
+
+Software Test & Automation Engineer with several years of automation coding and test experience including Planning, Automation Development, Execution, and Results Analysis. C, C#, Java, Python, Ruby, Bash, PowerShell, API’s, Selenium, kernel & filesystem, multi-threading & multi-processing, test tools, and manual testing.
+
+Expertise in: Fault-tolerance, Boundary, Stress, Repetition, Volume, Functional, and Cross-browser, using Black, Gray, and White Box approaches.
+
+Expertise in: Planning, Design, Execution & Analysis, and Product Code Reviews, and Root Cause Analysis.
+
+Strong problem, analytical skills, and perseverance. Self motivated, strong organizational skills, reliable, able to learn new technical skills quickly. Able to work under tight deadlines and rapidly changing priorities. Detail oriented and ability to multitask. Work well with others & independently. Successful in large & small companies.
+Worked initially in waterfall model software development life cycle environments, and subsequently mainly in agile environments.
+
+EXPERIENCE
+
+Accelerated Application Cloning, San Jose, CA: October 2020 - present
+Software Engineer: Reverse Engineering of Software Applications
+Worked on reverse engineering software applications from scratch, including:
+Retail store inventory modules
+Retirement cashflow projection
+Restaurant P.O.S.
+Experience: Python, SQL, Web service API’s.
+
+Apple, Cupertino, CA: November 2019 – September 2020 (contract)
+Contract Programmer: Automation of Testing for Alexa & Apple Music Integration
+Performed manual testing for first two months: mainly by speaking instructions from test database, to Apple Music and Alexa-enabled devices, and checking resultant music play actions, as well as final JSON response events.
+Automated processing of written tests of Apple Music – for Alexa smart speakers / devices. Natural-language processed test instructions. Requested track / album play via voice plus recognition events. Used SQLite databases for clean initial test process state, and intermediate state storage. Validated Apple Music play event fields via required template matches. Updated (Apple) test results database via API.
+Added small Django web application (views, forms, HTML template) for user/tester login, selecting tests to run, and displaying status of selected tests.
+Experience: Manual Testing, Mac OS Install, Mac & Network Administration, Bash Shell Scripting, Amazon Web Services AWS Cloudwatch, Python, SQL(SQLite), Web services API’s, Multi-threading, Multi-processing, Django, HTML, CSS, Natural Language Processing NLP, GET & POST API server coding to serve Django test execution & results front end.
+
+eBay, San Jose, CA: January 2019 – April 2019 (contract)
+Consultant: DevOps / SysOps / System Administration
+Solved 1000 to 2000 Trace alerts each month for system issues: disk space, memory and CPU utilization – including Hypervisors. Reinstalled software manifests on VM’s, and did various VM pool actions. Worked with Traffic routing, and remediation of Business Event Systems (BES) Consumer backlogs. 12-hour shifts after 1st month.
+Experience: Linux Shell Scripting, In-house monitoring systems, Virtual Machine provisioning, Citrix & F5 Network Load Balancers, Linux Network Administration.
+
+Edelman Financial Engines, Sunnyvale, CA: May - December 2018 (contract)
+Contract Programmer: Microservices Test Automation
+Automated testing of cash-flow projections, mostly post-retirement, mostly based on the CAPM risk-return model, based on the usual financial planning inputs. Experience: Java, JSON, IntelliJ + Gradle, Amazon Web Services/AWS, Financial Analysis, CAPM, Mac OS X, Splunk, SQL, Bugzilla, Debugging.
+
+Jiff, Palo Alto CA: March 2015 – April 2018
+Backend Automation Engineer
+Automated backend testing for scalability, volume, repetition, functionality, etc. Tested various minor integrations with modules for payment systems, MongoDB.
+Experience: Mac OS, Docker, Vagrant, VirtualBox, Selenium, Cucumber, MongoDB, Jenkins Installation & Administration, SQL(MySQL), Ruby, API client calls, Multithreading, JMeter, Java.
+
+Mediaroom/Ericsson, Mountain View, CA: May 2014 – February 2015 (contract)
+Contract Programmer: Video Application Test Automation
+Automation of front-end testing of video client in web, Android & iOS.
+Experience: C#, Ruby, Windows, Selenium, Mobile Test Automation, Android, iOS, Visual Studio, TestNG, JavaScript, Jquery.
+
+Microsoft, Bellevue, WA: February 2012 – November 2013
+Software Developer In Test (SDET)
+SDET for content ingestion from external & internal providers to MSN content locations. Manual test of MSN videos & other pages.
+Experience: Automation, SQL(Microsoft SQL Server), Web services API’s, C#, CSS, HTML, Visual Studio, Windows Installation & Administration, PowerShell.
+
+EDUCATION
+
+M.S., Computer Science, University of Kentucky, Lexington, KY
+B. Tech., Mechanical Engineering, Indian Institute of Technology, Madras, India
+Oracle Certified Java Associate. ID: SR6492980
+
+
+// Author: GERARD ANTHONY GOLD, 650-***-****
+//
+// Use:
+// Use JSON to simplify definition, creation
+// and modification of SQL database schema.
+//
+// This Golang program (jsonToSqlite.go)
+// accepts a database-definition
+// JSON file with column names, types and
+// constraints for each table.
+//
+// It then executes appropriate SQL to build the
+// database
+/
+// Gets entry for each table as
+// outer key => TABLE NAME.
+//
+// Collects entry for each COLUMN as keys in
+// outer JSON (value of TABLE NAME key).
+//
+// Collects entries for each COLUMN'S TYPE as
+// either string, or first key of inner JSON.
+//
+// Builds SQLITE TABLE CREATION statements from
+// TABLE NAME, and list of COLUMN-TYPE pairs.
+//
+// Executes SQLITE TABLE CREATION statements.
+//
+// No in-line comments => I can explain in-person.
+
+package main
+
+import "fmt"
+import "os"
+import "strings"
+
+import "io/ioutil"
+import "github.com/buger/jsonparser"
+
+import "database/sql"
+import "log"
+import _ "github.com/mattn/go-sqlite3"
+
+// import "encoding/json"
+
+func matchType(origType string) (string, error) {
+
+var localType string = ""
+
+switch(strings.ToUpper(origType)) {
+case "COMMENT", "COMMENTS": { localType = "COMMENT" }
+case "INTEGER", "LONG", "NUMBER": { localType = "INTEGER" }
+case "STRING", "TEXT", "VARCHAR": { localType = "TEXT" }
+
+default: {
+fmt.Printf("ERROR: matchType : No local type matching (%s).\n", origType)
+os.Exit(3)
+}
+}
+
+return localType, nil
+}
+
+func makeTables(dbPath string, tableName string, colTypeMap map[string]string) {
+
+db, err := sql.Open("sqlite3", dbPath)
+
+if err != nil {
+log.Fatal(err)
+}
+
+defer db.Close var count int = 0
+crTableStmt := fmt.Sprintf("CREATE TABLE IF NOT EXISTS %s ( ", tableName)
+for colName, typeStr := range colTypeMap {
+
+if strings.Compare(strings.ToUpper(colName), "COMMENT") == 0 { continue }
+
+localType, _ := matchType(typeStr)
+
+if (count > 0) { crTableStmt += ", " }
+
+crTableStmt += fmt.Sprintf("%s %s", colName, localType)
+
+count++
+}
+crTableStmt += " ),"
+
+// _, err = db.Exec(sts)
+_, err = db.Exec(crTableStmt)
+
+if err != nil {
+log.Fatal(err)
+}
+
+}
+
+func getFirstKey(data []byte) (string, error) {
+
+var firstKey string = ""
+
+jsonparser.ObjectEach(
+data,
+func(
+key []byte, value []byte, dataType jsonparser.ValueType,
+offset int) error {
+
+firstKey = string(key)
+
+return nil
+})
+
+return firstKey, nil
+}
+
+func getKeyTypeMap(data []byte, level int) (map[string]string, error) {
+
+var colName string = ""
+var typeString string = ""
+
+var colTypeMap = make (map[string]string)
+
+jsonparser.ObjectEach(
+data,
+func(
+key []byte, value []byte, dataType jsonparser.ValueType,
+offset int) error {
+
+colName = string(key)
+
+dts := fmt.Sprintf("%s", dataType)
+if strings.Compare(dts, "object") == 0 {
+typeString, _ = getFirstKey(value)
+
+} else if strings.Compare(dts, "string") == 0 {
+typeString = string(value)
+
+} else {
+fmt.Printf("ERROR: getKeyTypeMap : Badly formatted JSON in %s\n",
+string(value))
+
+os.Exit(2)
+}
+
+colTypeMap[colName] = typeString
+
+return nil
+} )
+
+fmt.Println(colTypeMap)
+
+return colTypeMap, nil
+}
+
+func makeSqliteTables(sqliteDb string, data []byte, level int) {
+
+fmt.Println(sqliteDb)
+fmt.Println(string(data))
+
+jsonparser.ObjectEach(
+data,
+func(
+key []byte, value []byte, dataType jsonparser.ValueType,
+offset int) error {
+
+var tableName string = string(key)
+fmt.Printf("Table name == %s\n", tableName)
+
+dts := fmt.Sprintf("%s", dataType)
+if strings.Compare(dts, "object") == 0 {
+keyTypeMap, _ := getKeyTypeMap(value, level+1)
+fmt.Println(keyTypeMap)
+
+makeTables(sqliteDb, tableName, keyTypeMap)
+}
+
+return nil
+
+})
+}
+
+func main {
+
+argn := len(os.Args[1:])
+
+var sqliteDb string = ""
+var tablesJson string = ""
+
+if (argn != 2) {
+fmt.Printf("ARGUMENTS ERROR: %s: Need 2 args: SQLite DB path, Path to JSON tables descriptor\n",
+os.Args[0])
+os.Exit(1)
+}
+
+if (argn == 2) {
+sqliteDb = os.Args[1]
+tablesJson = os.Args[2]
+}
+
+data, err := ioutil.ReadFile(tablesJson)
+
+if (err != nil) {
+fmt.Println(err)
+
+} else {
+makeSqliteTables(sqliteDb, data, 0)
+}
+}
+Contact this candidate

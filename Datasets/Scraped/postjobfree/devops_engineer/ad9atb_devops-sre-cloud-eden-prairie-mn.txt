@@ -1,0 +1,122 @@
+Rajakala Jaidi
+
+Email: ad9atb@r.postjobfree.com Phone: 913-***-****
+
+SUMMARY:
+Technical professional with 5 years of experience and a keen knowledge of numerous technical applications and programming languages.
+An Enthusiast in developing and implementing technology strategies and solutions that meet and exceed business expectations. A tenacious, strategic thinker, adept at solving complex development problems with creative solutions. A motivated problem solver with an aptitude for innovation and solution development.
+A motivated problem solver with proven analytical skills and an aptitude for innovation and solution development.
+A clear and confident communicator, creative, highly adaptable and a flexible professional who embraces teamwork and collaboration, but also enjoys working independently.
+Proven ability to lead, motivate and influence cross-functional teams to deliver high quality work within rigorous deadlines.
+A tenacious, strategic thinker, adept at combining technical, managerial, academic training and leadership skills to drive productivity and achieve targets.
+Experienced in working on DevOps/Agile Operations process and tools area (Code review, unit Test Automation, Build & Release automation, Environment, Service, Incident and Change Management).
+Create Chef Automation tools and builds and do an overall process improvement to any manual processes.
+Written Chef Cookbooks for various DB configurations to modularize and optimize product configuration, converting production support scripts to Chef Recipes and AWS server provision in using Chef Recipes.
+Used Puppet server and workstation to manage and configure nodes, experienced in writing up manifests to automate configuration of aboard range of services.
+Defined branching, labelling and merge strategies for all applications in GIT.
+Configured Elastic Load Balancers with EC2 Auto Scaling groups.
+Experience in Installation, configuration, Cluster implementation on Tomcat on RedHat Linux platforms.
+Experienced in Linux administration. Good knowledge and understanding of database and application servers administration in a global production environment.
+In-depth understanding of principles and best practices of Software Configuration Management (SCM) in Agile, SCRUM and Waterfall methodologies.
+Very quick in learning new technologies and a good team player working with Project Managers, Architects, Team Leads, Developers, Business Analysts, Testers.
+Highly motivated, self-starting, team player, with a strong desire to learn new technologies and troubleshooting skills.
+Building/Maintaining Docker container clusters managed by Kubernetes, Linux, Bash, GIT, Docker, on AWS.
+Utilized Kubernetes and Docker for the runtime environment of the CI/CD system to build, test and deploy.
+
+TECHNICAL SKILLS:
+
+Platforms
+Ubuntu, Red Hat LINUX, Windows server OS (2008,2012,2016,2019,2022), Mac OS
+Cloud Technologies
+AWS (EC2, S3, ELB, CloudWatch, VPC, Route53, Autoscaling, RDS, Dynamo
+DB, IAM, SNS, Cloud Trial, SQS, Lambda, Kinesis, CloudFront, Elastic Beanstalk,
+Snapshots, Cloud Formation, EBS, Static Website), Azure, OpenStack Cloud
+CI/CD and Provisioning
+Jenkins, GitLab, Terraform
+Build Tools/Packaging
+ANT, Maven, RPM, Chocolatey
+Configuration Management Tools
+Ansible, Chef
+Scripting Languages
+Bash Script, Shell, PowerShell, Ruby, Python, JavaScript
+Web/Application servers
+WebLogic, WebSphere, Apache Tomcat, JBoss, HTTP web server, Nginx
+Monitoring Tools
+Data Dog, Nagios, AppDynamics, AWS cloud watch, New Relic, ELK, SonarQube
+Version Control Tools
+Git, Gitlab, Bitbucket
+Programming Skills
+Python, C, Html, CSS, Java, JavaScript, C#.NET, VB.NET
+Database
+MySQL, Oracle DB, AWS Dynamo DB, Mongo DB, AWS RDS
+Containerization/Orchestration
+Docker, ECS, Docker swarm, Kubernetes, EKS, OpenShift
+
+PROFESSIONAL EXPERIENCE:
+
+Astrana Health Management, Columbus, OH Jan 2024 - Till Date
+Role: Devops/SRE cloud Engineer
+
+Responsibilities:
+Develop/capture/document architectural best practices for building systems on AWS. Working with technical and non-technical teams across Amazon (AWS).
+Utilized Ansible and Terraform (Ansiform) to manage systems configuration to facilitate interoperability between existing infrastructure and new infrastructure in alternate physical data centre’s or cloud (AWS)
+Configured and integrated the Servers with different environments to automatically provision and create new machines using Configuration management/provisioning tools like Ansible.
+Designed and implemented a continuous build-test-deployment (CI/CD) system with multiple component pipelines using Jenkins to support weekly releases and out-of-cycle releases based on business needs.
+Created Jenkins CICD pipelines for continuous build & deployment and integrated Junit and SonarQube plugins in Jenkins for automated testing and for Code quality check.
+Integrated SonarQube with Jenkins for continuous inspection of code quality and analysis with SonarQube scanner for Maven.
+Automated configuration management and deployments using Ansible playbooks and Yaml for resource declaration. And creating roles and updating Playbooks to provision servers by using Ansible.
+Installing, Configured and management in Ansible Centralized Server and creating the playbooks to support various middleware application servers, and involved in configuring the Ansible tower as a configuration management tool to automate repetitive tasks.
+Created and utilized Terraform modules to manage AWS infrastructure. Provision the highly available EC2 Instances using Terraform and Ansible by writing new plugins to support new functionality in Terraform.
+Initialized and created Data Dog integration AWS to extract and transform data into visualized format.
+Automated Data Dog monitor deployments for ECS and EKS clusters’ services to report to high priority channels.
+Created complex Data Dog dashboards to accommodate synchronized AWS data by automating alerts to Slack and OpsGenie. Mitigated the impact of a comprised API key for applications and services to use new API key.
+Performed Kubernetes rolling to update the configuration of your pods gradually. Orchestration of Docker images and Containers using Kubernetes by creating whole master and node.
+Scheduled, deployed, and managed container replicas onto a node cluster using Kubernetes. Using Docker, Jenkins, VMWare, RHEL, Kubernetes, HA Proxy, Artifactory, Ansible & GitLab.
+Worked on infrastructure automation of various software with Docker containerization and OpenShift Orchestration. OpenShift is being used to orchestrate the deployment, scaling and management of Docker Containers.
+Used Ansible as a configuration management tool to automate repetitive tasks, quickly deploy critical applications and proactively manage change.
+Utilized Ansible to automate Jira, Confluence across multiple tenants in the infrastructure. Performed POC analysis for using Terraform, Ansible to automate, transform Jenkins modules to use Terraform.
+Created CI pipelines to allow development teams to promote API definitions to API connect environments. Validated and uploaded the API definitions in the IBM API connect drafts.
+Monitored test environments and worked on alerts triggered by tools like NAGIOS. Assisted and supported the activities of platform support requests that revolved around deployment pipelines and access creations.
+
+Broadridge Financial solutions, HYD May 2019 – Dec 2022
+Role: Devops Cloud Engineer
+
+Responsibilities:
+Implementing EC2, VPC, S3, IAM, Route53, ELB, EBS, RDS, Security Groups, CloudWatch, SNS, Subnets, Routing tables, Internet gateways on AWS.
+Managing IAM accounts (with MFA) and IAM policies to meet security audit and compliance requirements. Assigned and managed roles for users and groups by defining policies via Identity and Access Management.
+Configure and managing daily and hourly scheduled snapshots backup and restore the data from Snapshots if needed. Setup and manage security groups, VPC specific to environment.
+Configured AWS Virtual Private Cloud environment and networking inside the VPC. Manage Red Hat Linux and Windows virtual servers on AWS EC2.
+Worked on Autoscaling, CloudWatch (monitoring), AWS Elastic Beanstalk (app deployments), AWS S3 (storage) & AWS EBS (persistent disk storage). Hands on implementing A/B testing, Canary release types of deployments.
+Assigned Roles, managed Users and groups and assigned policies to them using IAM. Configured S3 Buckets for EBS backed Snapshots and versioning for data backups.
+Configuring and managing AWS Simple Notification Service (SNS) along with configuring web servers to enable caching, configured CDN application servers and load balancers.
+Deployed applications on AWS by using Elastic Beanstalk. Installed Jenkins/Plugins for GIT Repository, Setup SCM Polling for Immediate Build with Maven and Maven Repository (Nexus Artifactory) and Deployed Apps using custom modules through Puppet.
+Manage deployment automation by creating Puppet Roles and Profiles and Experience in working with Modules, Classes, Manifests in Puppet.
+Installed/Configured/Managed Puppet Master/Agent. Wrote custom Modules and Manifests, downloaded prewritten modules from puppet-forge. Upgradation or Migration of Puppet Community and Enterprise.
+Configured networking with route tables, access control lists, firewalls, and NAT, HTTP, and DNS. Installed, configured, and maintained web servers like HTTP Web Server, Apache Web Server, and WebSphere Application Server on Red Hat Linux.
+Administered databases using RDS, MySQL and DynamoDB in AWS.
+Maintained high availability clustered and standalone server environments and refined automation components with scripting and configuration management (Ansible) and experienced in writing Ansible scripts.
+Utilize Ansible to Orchestrate software updates and verify functionality. Testing Docker containers and orchestration-based products. Creating Docker images and customizing them as per the requirement, along with working on Docker containers, directory structure and removing Docker images.
+Write bash scripts to build highly available server environments for teams deploying core requirements. Installing/Configuring/Administering/Monitoring of Subversion/GitHub Enterprise and Jenkins on RHEL Linux 7.0 environment.
+Setup Continuous Integration and Continuous Delivery (CI/CD) for various applications and services using Jenkins, Gitlab CI. Designed Continuous Integration & Continuous Delivery pipelines using Code Pipeline, Code Build and Code Deploy.
+Migrated legacy Jenkins Jobs to Jenkins 2.0 Declarative Pipelines using Jenkins file. Setting up Continuous Integration environment using Jenkins and set the new Jenkins server and slave machines to support.
+Worked with build pipeline set up for Continuous Integration/Continuous Deployment using Jenkins/Jenkins Enterprise editions and Udeploy+ to orchestrate changes across servers and components.
+Managed Kubernetes charts using Helm. Created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed releases of Helm packages.
+Working with automation testing frameworks on Jenkins. Testing systems utilizing open source and systems that scale regarding clustering and high availability.
+Involved with development team leads and testing team to establish a build schedule, execute the builds and troubleshoot build failures, if any. Also, worked closely with them in Merging after each release.
+Worked with the testing of enterprise-level integrated backend server applications (distributed systems) and testing cloud and web-based applications and clustered and high-available systems.
+Primary Artifactory administrator responsible for testing new Artifactory HA environment and migrating accounts and artifacts.
+Involved in installing, updating, and configuring UNIX and Windows build release of Cloud products in Linux and Windows environments, using Power Shell, TFS and Python Scripting.
+Created GIT configuration record for builds, using derived objects generated during build audit process implemented and maintained the branching and build/release strategies utilizing GIT.
+
+Education:
+
+Master of Science in Computer Science
+University of Central Missouri, Warrensburg, MO
+August 2024
+
+Bachelor of Engineering in Computer Science
+Jawaharlal Nehru Technological University, Hyderabad, India
+May 2019
+
+.
+Contact this candidate

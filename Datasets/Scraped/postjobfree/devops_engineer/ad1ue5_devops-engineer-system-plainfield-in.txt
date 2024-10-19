@@ -1,0 +1,195 @@
+MOHAMMED TAWFIQ SANI
+
+Mobile: +1-317-***-****
+
+Email: ad1ue5@r.postjobfree.com
+
+SUMMARY
+
+•DevOps Engineer with 7+ years of experience comprising of Development, Integration of DevOps tool stack, Cloud Automation, Configuration Management, Provisioning, Build and Release, Continuous Integration/Continuous Deployment, and Delivery management.
+•5+ years of experience as a Linux System Administrator and support of various applications on Linux, Red Hat Linux, and Windows.
+•An expert in hardware configuration and debugging, Jenkins, Docker, GitHub, Gitlab, Python, and Shell Scripting.
+•Monitoring Tools, Promethues and Grafana
+•AWS QuickSight
+
+EXPERIENCE
+
+August 2022 - Cloud DevOps Engineer
+SMX, Smartronix, USA
+•
+•Built a serverless infrastructure for our content delivery, used S3, CloudFront, Lambda for invalidation of cache, R53 and also used STS for our Jenkins server to deploy with a temporary access
+•Use Ansible for hardening of our RHEL 8 instances and as well as use SSM for configuration.
+•Was task with monitoring and Patching instances with the monthly patches for both Linux and windows instance and well as vulnerability scanners.
+•Use Splunk for auditing and monitoring our instances
+•Use Tennable scanner for vulnerability scanning of our environment.
+•Setup Prometheus and Grafana
+• Task with building AWS QuickSight for business analysis
+•Use Terraform for building infrastructure and as well as bringing some of the infrastructures that were built manually.
+•Built OS and also did configuration for our client (icap and mdm ) and shared with multiple accounts to minimalize cost and time for spinning new instance
+•Join Domain using PBIS and build AWS Workspace to allow client use workspace with their Active Directory
+•I also write a lot of scripts, bash script for automation and also expect script for interaction for automation for tasks like SSH or FTP sessions and also Telnets
+•I built transfer infrastructure using AWS Family transfer with EFS and as well as R53.
+•I am also task with updating our OCP worker nodes and move to COREOS.
+•I was tasked with using Palo for filtering and blocking most of the sites in our Workspace.
+•I was part of MLOPs project and I was tasked with building CICD pipeline using tools like CircleCI,Promethues and Grafana,Locust,AWS cloud9 for one of our client, I wrote the requirement.txt,Dockerfile and the Makefile
+•I also do a lot of hardening with security regarding the sudoers file, and other config files to make our linux instance robust and use Group Policy for our Windows Instances
+
+July 18 – August 2022 Cloud DevOps Engineer
+Assurant, Bear, Delaware
+
+•Used GitHub and Gitlab to keep track of source code.
+•Write scripts in python and bash to automate various tasks.
+•Worked on Docker containers to create Docker images for several environments.
+•Deployed Docker containers to break up monolithic apps into microservices by enhancing developer productivity, expanding scalability, and optimizing speed.
+•Used Jenkins to automate the build process.
+•Using GitHub, GitLab, Jenkins, Ansible, Kubernetes, and other tools, I built and maintained completely automated CI/CD Pipelines for microservices application deployment.
+•Built and managed Kubernetes cluster using Terraform as IAC.
+•Developed, managed, improved, and monitored cloud infrastructure on AWS (EC2, S3, RDS, and so on) including backups, patching, and scalability.
+•Automated the continuous integration and deployments using Jenkins and Docker.
+•Using Helm-Chart to setup Kubernetes deployment and Orchestration
+•Engaged to secure or harden CentOS and Ubuntu Servers using CIS guidelines.
+•Developed new Ansible YAML, Playbooks, Roles, and bash shell scripts for application deployments.
+•Created documentation resources to aid in future troubleshooting issues, as well as interactions with users and business partners to build solutions for existing and future business concerns, such as cloud migration options.
+•Performed installation, configuration, monitoring, and troubleshooting of LAMP stack server.
+
+Jan 17 – June 2018 DevOps Linux Engineer
+Blue Turtle Technologies, Delaware
+
+•Maintained maximum uptime and maximum performance capacity for Enterprise Production, QA, UAT/Staging.
+•Co-ordinated with DevOps engineers to build Docker containers.
+•Patching of servers to prevent attacks and hacking. Generating SSH authenticating keys to secure the environment. Using NMAP to find which ports has been opened and the kind of vulnerabilities associated with those ports and patch them to harden the system
+•Controlling the System Logging services and examine system log files of all system events use tools like SPLUNK for monitoring and blacklisting specific IP addresses and using system command to filter and create a vivid readable report of the system logs.
+•Hardened operating systems using iptables and filesystem ACLs. CIS benchmark
+•Exposure to Ansible including creating playbooks, running Ad-hoc commands, creating host inventories.
+•Experienced in automating large-scale deployments with modern configuration and deployment management systems like Ansible.
+
+Sept 15 – Jan 2017 DevOps Platform Engineer
+IOMED, Madrid, Spain
+
+•Worked closely with operations and software engineering teams to design and implement scalable and high-performance solutions for our platform as a service and internal management tool.
+•Implemented automation of application deployment for production and pre-release environments. - Defined monitoring requirements and implemented automated incident resolution solutions.
+•Designed, implemented, and managed continuous integration, built management and deployment scripts and systems.
+•Provided 24x7 tier-3 troubleshooting and break-fix support for production services.
+•Identified areas for process and efficiency improvement within Platform Services Operations, recommended solutions and assisted in overseeing implementation.
+
+Nov 14 – July 15 Linux System Engineer Milicom Tigo, Accra, Ghana
+
+•System and Application troubleshooting and other related issues.
+•Provided management of system process in areas like boot process, start- up and system shutdown. - Set up and administer user and groups accounts, setting permissions, Web servers, file servers, Load Balancers with Haproxy, firewalls, and directory services with ability to diagnose basic Apache Issues. Build and installed multiple Linux machines.
+•Inter-networking using TCP/IP and maintaining network.
+•Diagnosed and resolved problems associated with DNS, NFS and Apache.
+•Building full STACK LAMP webserver
+
+Feb 2009 - Mar 2014 Linux System Administrator
+MTN GHANA, Accra, Ghana
+
+•Installation, configuration, Linux (RedHat, CentOS 6 & 7, Debian, Ubuntu), UNIX, Windows, and Hardening of standalone Linux servers.
+•Build multiple virtual machines in a single workflow using vagrant.
+•Developed Bash/Korn shell scripts to track system resources and do routine maintenance.
+•Monitored system performance and assisted in implementing performance tuning.
+•Setup and maintain TCP/IP network, configured the TCP/IP Networking with the existing LAN, setting up SSH and SCP features between Linux/Unix hosts.
+•Automated system management tasks like user account creation, file system size monitoring, monitoring system resources, and system maintenance using Shell Scripts.
+•Monitored Linux server for CPU, Memory, and Disk utilization for performance monitoring.
+•Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications & intrusion, and configuring the system to send log messages to the system centralized host.
+•Analyzed and interpreted system and application log files
+
+TECHNICAL SKILLS
+
+•Experienced in DevOps, Cloud Architectural Solutions and Cloud Operations.
+•Prometheus and Grafana
+•CircleCI
+•Jenkins
+•Ansible
+•Openshift
+•SNS,SQS,Group Policy, Red hat Tower
+•Experienced in version control systems: Git, Mercurial, Github, Bitbucket.
+•Experienced in containerization and cluster management technologies like Docker, AWS ECS and AWS EKS.
+•Experienced in Jenkins, Maven, Chef, Puppet, Ansible, Terraform.
+•Experienced in AWS services (IAM, EC2, S3, RDS, DynamoDB, Lambda, Elastic Beanstalk, VPC, Route53, CloudFront, SQS, SNS, CloudWatch, Elastic Load Balancer, CloudFormation).
+•Experienced with AWS CI/CD services (CodeCommit, CodeBuild, CodePipeline, CodeDeploy).
+•Proficient with scripting skills: Python, Bash Scripting.
+•Experienced with Data Modeling, Machine Learning algorithms, and Deep learning Algorithms.
+•Proficient in using the Unix, Linux and Windows OS (System Monitoring, Process Management etc).
+•Proficient in using the Unix/Linux OS (System Monitoring, Process Management, user management and System Security) and high-performance computing
+•Experienced in Creating and Updating PowerPoint Presentations Other tools: MSFVENOM, MSFCONSOLE, NMAP, BeEF
+
+CERTIFICATION
+
+AWS Certified Solutions Architect – Associate AWS Certified Solutions Architect – Associate
+Amazon Web Services (AWS)Amazon Web Services (AWS)
+Issued Oct 2022 · Expires Oct 2025
+Credential ID D70JRZV2R2B11N3ECredential ID D70JRZV2R2B11N3E
+
+Advanced Terraform (2020) Advanced Terraform (2020)
+LinkedInLinkedIn
+Issued Mar 2023
+
+Cloud Computing Careers and Certifications: First StepsCloud Computing Careers and Certifications: First Steps
+LinkedInLinkedIn
+Issued Mar 2023
+
+DevOps Foundations: Site Reliability Engineering DevOps Foundations: Site Reliability Engineering
+LinkedInLinkedIn
+Issued Mar 2023Issued Mar 2023
+
+UdemyUdemy
+React JS- Complete Guide for Frontend Web Development [2023]React JS- Complete Guide for Frontend Web Development [2023]
+Issued Mar 2023Issued Mar 2023
+
+SplunkSplunk
+Issued Feb 2023Issued Feb 2023
+Credential ID https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/app/me/uiprofileCredential ID https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/app/me/uiprofile
+
+Releaseworks logo
+Amazon Cloudwatch Fundamentals
+Amazon Cloudwatch Fundamentals
+ReleaseworksReleaseworks
+Issued Nov 2022Issued Nov 2022
+Credential ID nq7kz476hqCredential ID nq7kz476hq
+
+Amazon ECS Fundamentals
+Amazon ECS Fundamentals
+ReleaseworksReleaseworks
+Issued Nov 2022Issued Nov 2022
+Credential ID eqifl8gnfkCredential ID eqifl8gnfk
+
+Amazon Elastic Container Service (AWS ECS)Amazon Elastic Container Service (AWS ECS)
+
+Issued Nov 2022Issued Nov 2022
+Credential ID 2D01BAC2F1B7-2DEA95B99745-2D01AF3296E9Credential ID 2D01BAC2F1B7-2DEA95B99745-2D01AF3296E9
+
+Releaseworks logo
+Best Practices for Docker with JenkinsBest Practices for Docker with Jenkins
+ReleaseworksReleaseworks
+Issued Nov 2022Issued Nov 2022
+Credential ID xwkyenpximCredential ID xwkyenpxim
+
+Red Hat Certified System Administrator(RHCSA)Red Hat Certified System Administrator(RHCSA)
+
+Issued Nov 2022Issued Nov 2022
+Credential ID 2D01BAC2F1B7-2DEA7D57FDAA-2D01AF3296E9Credential ID 2D01BAC2F1B7-2DEA7D57FDAA-2D01AF3296E9
+
+Learn Devops - AWS Cloud for Beginners Learn Devops - AWS Cloud for Beginners
+
+Issued Aug 2022Issued Aug 2022
+Credential ID 83A184DF3A-83A7B72B71-8395F48412Credential ID 83A184DF3A-83A7B72B71-8395F48412
+
+Skills: AWS Lambda · aws codestarSkills: AWS Lambda · aws codestar
+
+Cloud Devops EnginerCloud Devops Enginer
+UdacityUdacity
+Issued Jul 2022Issued Jul 2022
+Credential ID CFK6DWXU
+All my certification can be verified on my Linkedin page (14) Licenses & certifications Mohammed Tawfiq Sani LinkedIn
+EDUCATION
+
+•Certified Cloud DevOps – Udacity, 2022
+
+https://confirm.udacity.com/CFK6DWXU
+•BSc. Mathematics with Business, University of Cape Coast, Ghana, 2012
+Below are my linkedin and Github repo
+
+https://www.linkedin.com/in/mohammed-tawfiq-sani-490677167/
+
+https://github.com/stm1510
+Contact this candidate

@@ -1,0 +1,126 @@
+ABHINAV MUNNANGI
+Senior Azure Data Engineer – Power BI
+P 346-***-**** E
+seyanshabhi1888@g
+mail.com
+A Houston, TX
+www.linkedin.com/in/abhinav-
+munnangi-285450197
+PROFESSIONAL SUMMARY:
+Sr. Azure Data Engineer – Power BI with well-rounded background in implementing and supporting new technological solutions and improvements. Dedicated to achieving ideal results by aligning to project goals, troubleshooting problems and recommending the best available solutions. Having 14 years of total IT experience which includes: a. 10 years of Report Development using Power BI and SQL SSRS, b. 6 years of Data Engineering/ETL Development using Azure Data Factory, Fabric and SQL SSIS, and c. 3 years as Incident Co-coordinator and Tier 3 Applications Support Team member and Lead. The key areas of expertise include the below:
+Proven track record of custom Development, Support and Maintenance of 20+ Dashboards and 50+ Reports in Power BI Desktop & Deploying via Power BI service for a wide variety of clients by incorporating visualizations to display different Metrics, KPI’s, Targets, Forecasts, Moving averages, Trends, etc. as per Business needs.
+Experienced in Database Design, DB Warehousing, Data modeling, Development and Implementation of Client Server Application Database systems using Microsoft Stack -Azure SQL Server and Data Factory (including Fabric preview).
+Good knowledge of the Database concepts like Data Marts, RDBMS, Dimensional Data Modeling, Star Schema Modeling, Snow-Flake Modeling for fact and Dimension Tables using Analysis Services.
+Hands on experience using BI studio and ETL technology like Azure Data pipelines using Data factory for extracting and loading structured and semi-structured data into Azure Data lakes/blob storages as per the business needs.
+Experienced with setting up all Pipeline associated elements like Linked Services, Datasets, Source and Sink configurations, Copy and Data Flow activities, Triggers and monitoring Pipeline Execution status. Able to set up connections in linked services using credentials/connection strings stored as secrets in Azure Key Vaults (AKV’s).
+Administering secure access to Reports hosted in Power BI service by implementing role based security at Power BI service/workspace level through Azure AD/Entra ID and Row Level Security (RLS) at the data model level.
+Expertise in Business Intelligence (BI), Data Warehouse (DWH) and Data Analytics related projects in Automotive, Health care, GRC, Volume Licensing, Electronics, Banking, and Energy verticals for reputed businesses.
+Delivered BI reporting solutions in Power BI and SQL Reporting Services (SSRS) which includes strong hands-on experience in creating SSRS scorecards, Dashboards - using bar graphs, line graphs, scattered plots, stack bars, Gantt charts, radial gauges, pie charts, KPI cards, etc. using functionalities like Slicers, parameterized reports, themed dashboards, DAX queries, Show me, drill through reports, sub reports, AI visuals, etc.
+Worked on Azure Fabric Workspaces, created Data Flows and Semantic Models for Business. Experienced in troubleshooting failing SSIS packages by using Event Handler and Custom Logging. Good at Performance Tuning using Row Transformations, Block/Unblock Transformations and optimizing T-SQL code.
+Worked as a team member and as a lead, delivering cost-effective, resilient, and self-serving solutions to business.
+Widely appreciated reputation for the level of attention to detail, problem solving ability and the desire to go the extra mile to achieve client satisfaction and aid in enhancing retention.
+Professional Certifications from Microsoft:
+1. Azure Data Engineer Associate - https://learn.microsoft.com/api/credentials/share/en- us/73307207/CF0A72DA8807A8B?sharingId=10C2457499C79610 2. Power BI Data Analyst Associate - https://www.credly.com/badges/2b2670f3-c23c-4930-854c-b5ce6e0bbd32/ EDUCATION:
+Master of Technology in Thermal Engineering
+JNTU Hyderabad, India (Year of passing: 2016)
+Bachelor of Technology in Mechanical Engineering JNTU Kakinada, India (Year of passing: 2009)
+ABHINAV MUNNANGI
+Senior Azure Data Engineer – Power BI
+P 346-***-**** E
+seyanshabhi1888@g
+mail.com
+A Houston, TX
+www.linkedin.com/in/abhinav-
+munnangi-285450197
+TECHNICAL SKILLS:
+Databases MS SQL Server 2008 to 2019, Azure SQL DB, Oracle DB, Azure Cosmos DB, MS Access DB, Azure Blobs, Azure Data Lake Database Tools SQL Server Management Studio, Azure Data Factory, Azure Data Studio, Visual Studio 2017/2019, SQL Server Profiler BI Tools Power BI, SQL Server Reporting Services, SQL Server Integration Services, MS Office suite, O365, Power Query & Pivot Languages T-SQL, DAX, Pipeline Expression Builder and Python Environments Development, UAT and Production
+Methodologies Agile, Waterfall, Scrum and Kanban
+WORK EXPERIENCE:
+Role : Sr. Azure Data Engineer – Power BI
+Client : CSAT Solutions LP, Houston, TX (via Mergen IT LLC) Duration : July 2023 – Till Date
+Responsibilities:
+Made extensive use of the database schema design concepts like Star and snowflake to identify the relationships between different dimensions, number and type of SCD’s followed by choosing a change tracking methodology.
+Configured Azure Data Factory pipelines with 15 minute, hourly and daily run frequencies for importing Data from sources including SQL server, REST API, Flat files, to Azure SQL Data warehouse as per the need.
+Carefully analyzed the current BI solution in place and the pain points the client intends to address by upgrading to Power BI. Understood the visual and display requirements for the new reporting system/dashboard and planned the Data warehouse design accordingly.
+Developed Data flows and Flowlets in ADF pipelines for achieving data transformation before insertion to the Sink/Data warehouse. Optimized the design of these components to utilize less compute power for cost savings.
+Adopted highest safety standards in the implementation of security for ADF linked services by making use of the Azure Key Vaults (AKV) for credential/connection string storage that are managed by the organization’s Azure administrator.
+Adopted CI/CD standard coding process in Data Factory implementing branching in Development environment and pull requests through DevOps/GIT for merging code to the main branch. Utilized Release pipelines for code deployments from Development to UAT and eventually Production environments and performed load testing in Power BI and SSMS for all the reports.
+Adopted the use of Azure Fabric Workspace for testing out concepts like DB replication, Data Flows 2.0 and Semantic Model creation with a view to share the semantic models only to any users in need and refreshing it accordingly while protecting the actual data layer. This enables users to create their own reports in managed Workspaces.
+Developed 12 Power BI reports and dashboards as per the client requirements using all kinds of visuals in Power BI, DAX for Time intelligence functions, business metric calculations, and date tables.
+Created and managed different report Workspaces in Power BI and set up connection strings, datasets and report deployment through release pipelines. Managed access to reports in the Power BI service and implemented RLS. Environment: Azure DF, Power BI, Azure Fabric, Microsoft SQL Server Stack, Rest API, Azure GIT, DevOps, DAX, SSRS & Python ABHINAV MUNNANGI
+Senior Azure Data Engineer – Power BI
+P 346-***-**** E
+seyanshabhi1888@g
+mail.com
+A Houston, TX
+www.linkedin.com/in/abhinav-
+munnangi-285450197
+Role : Power BI - Data Engineer
+Client : Next Level Urgent Care, Houston, TX (via Mergen IT LLC) Duration : April 2023 – July 2023
+Responsibilities:
+Configured Azure Data Factory pipelines for importing Data from sources including SQL server, Snowflake, Flat files, Rest API, SharePoint folders to Azure SQL reporting DB and to Azure Storage accounts/blobs as per need.
+Utilized Azure GIT repository for maintaining code, CI/CD and debugging within Azure Data Factory. Created branches in environments for working on features and created associated pull requests to initiate merge of code with master
+Developed, tested and deployed8 Power BI reports and 2 dashboards to Power BI Service.
+Used DAX functions including time intelligence, calculate, filter and aggregations as needed in Power BI data model columns to arrive at required business outcomes.
+Develop paginated reports through SSRS report builder using the Power BI datasets and deployed to Power BI Service
+Configured the schedule and trigger mechanism for the ADF pipelines and monitored their execution.
+Conducted frequent meetings with the stakeholders to understand the type of data coming in to the Reporting database and the source before implementing cleansing techniques and streamlining the data.
+Configured Azure storage accounts and blobs for storing and/or retrieving files for reporting purpose.
+Have written MS SQL queries and creating/altering tables, views and Stored procedures as per reporting Database need for consumption to Power BI datasets.
+Intermediate level DevOps user - worked on assigned items and provided timely updates on sprints including developing quick and quality fixes. Documented all the development activity periodically for future reference. Environment: Azure DF, Power BI, MS SQL Server Stack, DAX, SSRS, Storage Explorer, Rest API, Azure GIT, Blobs & DevOps Role : Azure Data Engineer – BI
+Client : Bank of America, Deutsche Bank & Morgan Stanley (via Mitratech Holdings, Hyderabad, India) Duration : February 2020 – January 2023
+Responsibilities:
+Designed, developed and maintained business intelligence solutions for multiple applications.
+Transformed data to allow appropriate analysis and visualization, including primary key / normalization and general manipulation.
+Always employed agile methodologies for the project planning, estimation and execution of tasks like developing complex Power BI dashboards, SQL SSRS reports and SQL queries/procedures.
+Advanced user in Microsoft Excel/Word & PowerPoint (O365 suite) including the pivots.
+Collaborated with QA team as well as colleagues in the Data Analytics team to develop and implement collaborative solutions to resolve data and analytics problems using Power BI.
+Owned and developed Standard Operating Procedures across reports including User Guides & updated data dictionary. Attended the defect triage meetings to review the defects raised from backlogs as needed ABHINAV MUNNANGI
+Senior Azure Data Engineer – Power BI
+P 346-***-**** E
+seyanshabhi1888@g
+mail.com
+A Houston, TX
+www.linkedin.com/in/abhinav-
+munnangi-285450197
+Worked extensively with the full Microsoft BI stack and in leveraging SSIS, SSRS & Power BI to effectively build & enhance a DWH solution and contributed to Shaping the BI & data strategy of the wider business by participating in sprint planning.
+Have worked on multiple projects that use cloud based computing (Azure) and have Good awareness of modern data warehousing paradigms within the Cloud specific environments.
+Displayed excellent organizational, presentation, verbal, written and time management skills
+Designed and built data solutions that are automated throughout the entire data pipeline, from ingestion, transformation through to self-service reporting for different data source and file type. Environment: Power BI, Azure, Microsoft SQL Server Stack, DAX, SSRS, O365, Salesforce ITSM and DevOps Role : ETL Developer – SSIS & Power BI
+Client : EFG Companies, Irving TX (via Mergen Corporates Pvt. Ltd, Hyderabad, India) Duration : January2017 – December 2019
+Responsibilities:
+Developed reporting portal using SQL SSRS initially and migrated the same to Power BI later for report generation of OEM parts availability and sales for the teams to track and plan for re-stocking.
+Worked with a variety of data sources including SQL, Excel, XML, CSV & JSON using appropriate ingestion techniques
+Configured Power BI to call existing APIs to pull relevant data using the knowledge of appropriate PBI plugins, have experience with administration.
+Developed interactive reports in Power BI using filters, slicers, buttons, multi paged drill through reports and related charts showing data driven stories by using which the Business users can extract valuable insights that are actionable
+Designed and implemented a well laid out dashboard for the higher management to get an overview of the current key performers like most moving parts, items with the best client feedback, dealer with the most revenue, models and parts which are top performers, target vs actual revenue, etc.
+Developed and executed SQL queries, conducted ad hoc analysis as needed using the strong background in using MS SQL Databases & SSMS tool.
+Worked as the primary point of contact for the individuals working in the HR, Warehouse, Finance and sales departments and accepted feedback from them regarding the data improvements to be made and incorporated transformation techniques accordingly post the load operation in data extraction using SSIS ETL packages. Environment: SQL Server Data Tools, Power BI Desktop, SQL SSRS, SQL SSIS and Excel Role : SSRS & Power BI Developer
+Client : Toyota Motors Europe, Brussels, Belgium (via Infosys Ltd) Duration : October 2013 – December 2016
+ABHINAV MUNNANGI
+Senior Azure Data Engineer – Power BI
+P 346-***-**** E
+seyanshabhi1888@g
+mail.com
+A Houston, TX
+www.linkedin.com/in/abhinav-
+munnangi-285450197
+Responsibilities:
+20 months of onsite work experience in Toyota Motors Europe(TME), R&D Office in Zaventem, Brussels, Belgium
+(client location)
+Experience in producing and running/scheduling of daily, weekly, monthly reports on Power BI
+Worked with Power BI & Excel over both SQL Server and SAAS and Developed visually appealing reports, dashboards and KPI scorecards using Power BI desktop.
+Experience with generating reports in Remedy, Salesforce and ServiceNow ITSM tools
+Coordinated with clients’ business teams while setting up Problem management module in ServiceNow.
+Worked with business and engaged with multiple stakeholders to gather requirements and translate it to business performance via reporting systems.
+Helped set up datasets and imported data needed for reporting from external data sources using SSIS tools.
+Used SQL create/alter along with large SQL statements and stored procedures/functions for diagnosis in case of failure. Displayed excellent analytical, logical &problem-solving skills and adopted methodical approach. Environment: Power BI, SQL Server 2012, SSIS, Visual Studio, SSRS, Python, ServiceNow and Remedy ITSM. Role : Application Analyst & Incident Coordinator
+Client : Microsoft, Hyderabad, India (via Infosys Ltd) Duration : June 2010 – September 2013
+Responsibilities:
+Developed SSRS Reports to monitor the count of requests and incidents that are in open status for an overall open ticket queue size of up to 600 in ITSM tool for a team of 40+ analysts supporting 15+ applications.
+Supported as Line 1, Line 2 Analyst for various Applications and did request handing &Incident resolution using ITSM.
+Resolved Application/functional Requests (Line 1 level) and Incidents by analyzing the back end data in MS SQL Databases using SSMS (2nd line support issues).
+Administered shift-left activity for more than 30 repeat issues from Tier 2 to Line 1 team and developed reports for higher management to visualize the shift.
+Thoroughly analytical, love problem solving & is competent at resolving issues and displayed Meticulous attention to detail. Assigned tickets to analysts per availability and workload and prioritized responding to and resolving customer escalations by liaising needed expertise.
+Tracked all escalations in a separate channel until closure within a committed SLA. Environment: SQL Server 2012, SSRS, MS Excel Pivots and ITSM Support Tool
+Contact this candidate

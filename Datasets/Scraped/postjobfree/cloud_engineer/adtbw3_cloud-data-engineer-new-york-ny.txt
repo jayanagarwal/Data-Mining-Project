@@ -1,0 +1,168 @@
+PROFESSIONAL SUMMARY
+
+* *****’ experience in Big Data, AWS/Cloud, and Database Administration.
+Develop Spark code for Spark-SQL/Streaming in Scala and PySpark.
+Use Spark SQL to perform data processing on data residing in Hive.
+Produce highly available, scalable, and fault-tolerant systems using Amazon Web Services (AWS).
+Experience with multiple terabytes of data stored in AWS using Elastic Map Reduce (EMR) and Redshift.
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+Hands on experience in Hadoop Framework and its ecosystem, including but not limited to HDFS Architecture, MapReduce Programming, Hive, Sqoop, HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark DataFrames, Spark Datasets, etc.
+Collect log data from various sources and integrate it into HDFS using Flume, and stage data in HDFS for further analysis.
+Experience deploying large multiple nodes of a Hadoop and Spark cluster.
+Experience developing custom large-scale enterprise applications using Spark for data processing.
+Experience developing Oozie workflows for scheduling and orchestrating the ETL process.
+Excellent knowledge on Hadoop Ecosystems such as HDFS, configuration of Hadoop clusters, YARN, MapReduce, Spark, Hbase, and Hive.
+Worked with Apache Spark which provides fast and general engine for large data processing integrated with functional programming language Scala.
+Experience integrating Kafka and Spark by using Avro for serializing and deserializing data, and for Kafka Producer and Consumer.
+Implement CI/CD tools such as Jenkins.
+Experience automating processes.
+Configure GitHub plugins to provide integration between GitHub and Jenkins.
+Hands on with Elasticsearch and Logstash (ELK) performance and configure tuning.
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDD and Data Frame.
+Involved in processes using Spark streaming to receive real time data using Kafka/ on prem and AWS cloud.
+Used Spark Structured Streaming for high performant, scalable, fault-tolerant data processing of real-time data streams by extending core Spark API on prem and AWS.
+Work Experience with Cloud Infrastructure like Amazon Web Services (AWS).
+Produce Hive / Hive QL scripts to extract, transform, and load into databases.
+Write UDFs and make incremental imports into Hive tables.
+Use Kafka for data ingestion and extraction with move into HDFS.
+Use Kafka for cluster handling in real-time processing.
+Leading and mentoring a small team.
+Working with offshore resources and gathering requirements from non-technical stakeholders.
+
+TECHNICAL SKILLS
+Programing Languages, Types, Tools
+Python, Scala, Unix shell scripting, Object-oriented design, Object-oriented programming, SQL, HiveQL, Hive, MapReduce, XML Spark API.
+
+Big Data Platforms
+Hadoop, Cloudera Hadoop (CDH),
+Hortonworks Hadoop
+
+Cloud Services
+Amazon Web Services (AWS), Microsoft Azure
+
+Visualization Tools
+Tableau, PowerBI
+
+Big Data Frameworks and Tools
+Cassandra, Flume, Hadoop, YARN, HBase, Hive, Kafka Oozie, Apache Spark, Spark Streaming, Elasticsearch, Elastic Cloud, Kibana, AWS, RDDs, Data Frames, Datasets, Zookeeper, HDFS, MapR, MapReduce, GitHub, Airflow
+
+Databases and File Systems
+HDFS, Cassandra, HBase, MongoDB, MySQL, SQL, Parquet, ORC, Avro, JSON
+
+Operating Systems Software
+Linux, Windows
+
+EXPERIENCE
+Insider Inc.,
+Cloud Data Engineer
+New York, NY
+O8/2020 - Current
+Insider Inc., originally called Business Insider Inc., is an American online media company known for publishing the financial news website Insider and other news and media websites.
+
+Consumed data through RESTful APIs, S3 buckets, and SFTP servers.
+Transmitted collected data using AWS Kinesis.
+Wrote an AWS Lambda function to perform validation on data and connected the Lambda to Kinesis Firehose.
+Defined configurations for AWS EMR, Kinesis, and S3 policies.
+Utilized Python libraries such as Spark for analysis.
+Worked with transient EMRs to run Spark jobs and perform ETL.
+Wrote simple SQL scripts on the final database to prepare data for visualization with Tableau.
+Set up data pipeline using Docker image container with AWS CLI and Maven to be deployed on AWS EMR.
+Wrote Bash script to be used during cluster launch to set up HDFS.
+Used EMR to create Spark applications that filter user data.
+Corrected AVRO schema tables to support changed user data.
+Developed SQL queries to aggregate user subscription data.
+Loaded transformed data into several AWS database and data warehouse services using Spark connectors.
+Monitored pipelines using AWS SNS to receive alerts regarding pipeline failures.
+Performed root cause analyses (RCAs) whenever issues arose and developed solutions to prevent possible future issues.
+Developed Spark Applications by using Scala, Python and implemented Apache Spark data processing Project to handle data from various RDBMS and Streaming sources.
+Appended EMR cluster steps using JSON format to execute tasks preparing cluster during launch.
+Completed data extraction from different databases on AWS and scheduled Oozie workflows to execute the task daily.
+Documented pipeline functions and drafted SOPs in regard to previous RCAs.
+Orchestrated pipeline using AWS Step Functions.
+Set up test environment in AWS VPC to create an EMR cluster.
+Applied Microsoft Azure Cloud Services (PaaS & IaaS), Storage, Active Directory, Application Insights, Internet of Things (IoT), Azure Search, Key Vault, Visual Studio Online (VSO) and SQL Azure.
+Lead a small team of offshore resources.
+Do mentorship and pair code sessions with junior engineers.
+Avantor, Inc.
+Big Data Developer
+Radnor, PN
+1O/2018 – 08/2020
+Avantor, Inc. is a chemicals and materials company.
+
+Assembled, configured, and dispatched new information pipelines utilizing Apache Spark.
+Developed Python scripts to move data from local computer to AWS S3 Bucket.
+Developed Python scripts to retrieve data stored in AWS S3 Bucket.
+Executed Hadoop/Spark jobs on AWS EMR using programs, data stored in S3 Buckets.
+Implemented Tableau to provide data visualization dashboards and reports.
+Configured Zookeeper to coordinate the servers in clusters to maintain the data consistency and to monitor services.
+Developed Kafka Producers to extract data from flume and move into Hadoop file system (HDFS).
+Processed multiple terabytes of data stored in AWS using Elastic Map Reduce (EMR) to AWS Redshift.
+Used Data Stax Spark Cassandra Connector to extract and load data to/from Cassandra.
+Developed Spark application that uses Kafka Consumer and Broker libraries to connect to Apache Kafka and consume data from the topics and ingest them into Cassandra.
+Designed an Apache Airflow Data Pipeline to automate the data ingestion and retrieval.
+Added support for Amazon AWS S3 and RDS to host static/media files and the database into Amazon Cloud.
+Developed an ETL pipeline for extraction of Parquet serialized files from S3 and persisted them in HDFS.
+Worked on various real-time and batch processing applications using Spark/Scala, Kafka, and Cassandra.
+Built Spark applications to perform data enrichments and transformations using Spark Data frames with Cassandra lookups.
+Wrote user-defined functions (UDFs) to apply custom business logic to datasets using PySpark.
+Configured AWS S3 to receive and store data from the resulting PySpark job.
+Automated AWS components like EC2 instances, Security groups, ELB, RDS, Lambda and IAM through AWS cloud Formation templates.
+Composed Python classes to stack information from Kafka to MongoDB according to the ideal model.
+Composed Scala classes to extricate information from MongoDB.
+Merged information among Oracle and MongoDB, utilizing the Spark system.
+Composed and executed Mongo queries.
+
+Leprino Foods
+AWS Big Data Engineer
+Denver, CO
+06/2016 – 10/2018
+Leprino Foods is a large manufacturing firm that produces cheese, lactose, whey protein and sweet whey.
+
+Maintained ELK (Elastic Search, Kibana),
+Programmed Spark scripts using Scala.
+Implemented Spark using Scala and utilizing Data frames and Spark SQL API for faster processing of data from AWS RDS.
+Created Hive tables, loaded the tables with data, and wrote Hive queries to process the data.
+Collaborated with the Hadoop Team to add and decommission nodes from the on premises Hadoop cluster.
+Responsible for data loading techniques like Kafka.
+Developed AWS Cloud Formation templates to create custom sized VPC, Subnets, EC2 instances, ELB, RedShift, Security Groups.
+Developed and implemented data pipelines using AWS services such as Kinesis, S3, EMR, Athena, Redshift to process petabyte-scale data in real time.
+Defined and implemented schema for a custom HBase.
+Used Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3).
+Responsible for continuous monitoring and managing Elastic MapReduce (EMR) cluster through AWS console.
+Developed a program on the dataset and deployed it with AWS EMS using streaming, and stored into AWS Redshift.
+Performed continuous data integration from mainframe systems to Amazon S3, connected using ETL tool.
+Implemented server-less architecture using AWS Lambda with Amazon S3 and Amazon Redshift DB.
+Implemented event-driven triggers with AWS Lambda functions to trigger various AWS resources.
+Populated database tables via AWS Kinesis Firehose and AWS Redshift.
+Applied security measured using AWS Identity and Access Management (IAM).
+Configured AWS IAM and Security Group as per requirement and distributed them as groups.
+Optimized Hive queries using Partitioning and Bucketing techniques.
+Designed and developed security framework to provide fine grained access to objects in AWS S3 using AWS Lambda, DynamoDB.
+
+CNA Financial Corporation
+Database Administrator
+Chicago, IL
+09/2014 – 06/2016
+CNA Financial Corporation is a financial/commercial insurance company.
+
+Conceived database architecture strategies at the modeling, design, and implementation stages.
+Translated database designs/models into physical database implementations.
+Analyzed and profiled data for quality.
+Used SQL to reconcile data issues.
+Applied performance tuning to improve issues with a large, high-volume, multi-server Postgres installation for job applicant site of clients.
+Applied patches and upgrades to provide local support of upgrades and installs.
+Monitored transaction activity and utilization.
+Performed daily administration, maintenance and support of database and application servers.
+Provided basic training and support in the creation of simple queries and reports.
+Resolved technical and functional issues identified with all supported ERP modules and other integrated application systems.
+Standardized Postgres installs on all servers with custom configurations.
+Performed security audits of Postgres internal tables and user access, and revoked access for unauthorized users.
+Administered and verified database security according to best practice and company's needs.
+Developed relational and/or Object-Oriented databases, database software, and database loading software.
+Developed reports and queries to extract data from new and existing relational database applications as necessary.
+Ensured database backup strategy including database rollback operates accurately and reliably.
+Managed user access and security issues such as roles and privileges.
+
+EDUCATION
+Bachelor’s (Information Technology) degree, George Mason University
+Contact this candidate

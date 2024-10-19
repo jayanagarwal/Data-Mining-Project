@@ -1,0 +1,97 @@
+Roland N Cheyson +1-302-***-****
+*** * ******** ****, ********** DE ad2i9k@r.postjobfree.com
+SUMMARY
+A well-versed and passionate goal-oriented Solutions Architect offering extensive experience as an IT professional seeking to apply acquired experience and knowledge to transform client’s infrastructure and operations. Utilizing the most, resilient, scalable, elastic, secure, cost-effective, fault-tolerant, data protection, highly available on the AWS cloud platform. Highly motivated team player and a quick learner. TECHNICAL SKILLS
+AWS Services: Ec2, Elastic Beanstalk, EFS, VPC, RDS, S3, Glacier, IAM, Kinesis, Cloud Front, Cloud Watch, Cloud Trail, Cloud Formation, DynamoDB, MySQL Database, SQL Server Database, Lambda, Route53, SNS, SQS, API Gateway, Elastic Search, Testing & Troubleshooting, Project Management, System Administration, Strategic Planning, Effective Communication, Team Leadership, Data Backup & Recovery, Firewalls, VPNs and Network Security, Storage Virtualization, Network Infrastructure Administration, TCP/IP Protocol, provisioning AWS environments using Terraform. Designing and deploying scalable, highly available, Secured, and fault- tolerant systems. Estimating AWS costs and identifying cost control mechanisms. JOB DESCRIPTION
+Vheda Health October 2022 – Present
+Columbia Maryland
+Title: AWS Engineer
+Responsibilities:
+Coordinate and manage the cloud environment including authorization, authentication, and identity access management using AWS IAM services (IAM users, IAM groups, IAM Roles, IAM Policies).
+Implement security best practices in AWS, including IAM and role-based access control, multi-factor authentication, access key rotation, encryption, enforced strong password policy, S3 bucket policies, and ACLs.
+Configure NACL, Security Groups, and WAF to secure application and VPC network depending on access parameters and conditions provided.
+Leveraged many security measures for my data at rest in the s3 bucket by encryption, tokenization, versioning, and MFA.
+Designing highly available, scalable, and reliable fault-tolerant cloud solutions.
+Designed and implemented new architectures from an architecture standpoint and business needs. Network setup including DNS, Load Balancer, Protocols, CIDRs, VPN, and SSL.
+Address problems from vulnerability scan report from Amazon Inspector, and monitor guard duty daily report for intrusion attempts.
+Trustech Corp June 2019 – October 2022
+St Paul Minnesota
+AWS Solution Architect
+Responsibilities:
+Assess, design, implement, automate, and document AWS leveraging Amazon Web Service and other third-party solutions.
+Implement AWS Organization to centrally manage multiple AWS accounts including consolidated billing and policy-based restrictions.
+Identified, analyzed, and resolved infrastructure vulnerabilities and application deployment issues.
+Collaborated with Team and Management to understand the requirement and design the entire system.
+Designed solutions for Disaster recovery by making use of backups and restore while making use of ROUTE 53 failover policy, IAC, and AWS lambda. Architected Amazon RDS with Multi-AZ for automatic failover.
+Ensure applications meet defined SLAs for high availability and disaster recovery
+Used CloudFront to leverage elasticity and scalability for Edge locations, and RDS (read replicas, instance sizes).
+Migrated on-premises servers & data to AWS using DMS, Snowball, AWS Server migrations (SMS), CloudEndure, and AWS Storage Gateway.
+Migrated RDS MYSQL database from the client’s data center into AWS MYSQL Aurora using CloudFormation for automation and provisioning of resources.
+Designed the overall Virtual Private Cloud (VPC) environment with Private and Public Subnets, configuring routing tables, security groups, NACLs, NAT gateways, and internet gateways using Terraform.
+Set up and configured VPC Peering/transit gateway to enable communication between resources such as EC2 instances located in separate VPCs. Used VPN connection and direct connect access resources from the on-premises data center.
+Coordinated and managed the client’s cloud environment including authorization, authentication, and identity access management using AWS IAM services (IAM users, IAM groups, IAM Roles, IAM Policies, identity federation) AWS organization, AWS Single Sign-On.
+Implemented security best practices in AWS including IAM best practices and role-based access control, multi-factor authentication, access key rotation, encryption, enforced strong password policy, S3 bucket policies, and ACLs.
+Configure NACL, Security Groups, and WAF to secure application and VPC network depending on access parameters and conditions provided.
+Leveraged many security measures for my data at rest in the s3 bucket by encryption, tokenization, versioning, and MFA.
+Used Terraform as IAC to provision resources in the cloud. Utilized AWS lambda automating jobs on AWS.
+Used data pipeline to reliably process and move data between different AWS compute and storage services, as well as on-premises data sources, at specified intervals.
+Configured CloudWatch alarm rules for operational and performance metrics for our AWS resources and applications and used SNS for notification.
+Created CloudWatch filters for CloudTrail and AWS Config configuration changes to ensure sustained visibility of activities performed in the AWS Account and configuration items with the account.
+JJ Tech Inc.
+Bowie, MD Dec 2016 - May 2019
+AWS Solution Architect
+Responsibilities
+Maintained monitoring and alerting of production servers using CloudWatch services. Detailed monitoring of cloud environment and notification system using CloudWatch and SNS notification.
+Configured IAM roles for EC2 instances and assigned them policies granting specific level access to S3 buckets by customizing JSON template-designed stacks using Amazon Cloud Formation templates to launch AWS infrastructure and resources.
+Create NAT gateways and instances to allow communication from the private instances to the internet. Create security groups, network ACLs, internet gateways, and route tables in the public cloud.
+Migrated applications from the internal data center to the AWS cloud and managed user access to AWS resources using identity Access Management (IAM)
+Configuring and implementing various AWS components such as Elastic IPs, EBS, ElastiCache, Elastic Beanstalk, DynamoDB, RedShift, and CloudFormation,
+Designed and developed infrastructure to support business-critical applications and services.
+Used CloudFront to leverage elasticity and scalability for Edge locations, and RDS (read replicas, instance sizes).
+Migrated on-premises servers & data to AWS using DMS, Snowball, AWS Server migrations (SMS), CloudEndure, and AWS Storage Gateway.
+Migrated RDS MYSQL database from client’s data center into AWS MYSQL Aurora using CloudFormation for automation and provisioning of resources.
+Designed the overall Virtual Private Cloud (VPC) environment with Private and Public Subnets, configuring routing tables, security groups, NACLs, NAT gateways, and internet gateways using terraform.
+Set up and Configure VPC Peering/transit gateway to enable communication between resources such as EC2 instances located in separate VPCs. Used VPN connection and direct connect access resources from the on-premises data center.
+Coordinated and managed the client’s cloud environment including authorization, authentication, and identity access management using AWS IAM services (IAM users, IAM groups, IAM Roles, IAM Policies, identity federation) AWS organization, AWS Single Sign-On.
+Implemented security best practices in AWS including IAM best practices and role-based access control, multi-factor authentication, access key rotation, encryption, enforced strong password policy, S3 bucket policies, and ACLs.
+Leveraged many security measures for my data at rest in the s3 bucket by encryption, tokenization, versioning, and MFA.
+Used data pipeline to reliably process and move data between different AWS compute and storage services, as well as on-premises data sources, at specified intervals.
+Configured CloudWatch alarm rules for operational and performance metrics for our AWS resources and applications and use SNS for notification.
+Created CloudWatch filters for CloudTrail and AWS Config configuration changes to ensure sustained visibility of activities performed in the AWS Account and configuration items with the account.
+National Railroad Corporation, Washington D.C
+Oracle Database Administrator. Apr 2014 – Nov 2016
+Creating and assigning appropriate roles and privileges to users depending on the user activity.
+Defragmentation of tables and indexes for enhanced performance and efficient space management.
+Oversee data analysis and database management for Oracle systems including applications upgrades and patches.
+Refreshing Dev and Test instances with data from production on a regular basis.
+Installation of Oracle 11g databases in production, development, and test environments depending on project requirements.
+Develop database structure, implement applications, enhance the system, and ensure security.
+Design scripts to automate periodic task execution and improve monitoring of the system.
+National Railroad Corporation, Washington D.C
+Scrum Master June 2011 – Apr 2014
+Assisted in driving delivery and continuous improvement by utilizing feedback and metrics to identify areas of opportunity.
+Guide team in self-organization, encouraging and motivating the team to focus on iteration goals.
+Help the team improve on their journey towards continuous delivery, which includes technical practices that promote continuous integration, continuous deployment, and designing the solution for release.
+Provide regular and open communication across the program to all stakeholders for transparency and awareness of progress and impediments through healthy communications and data integrity.
+Eliminate impediments by actively addressing issues so the team can remain focused on achieving the goals of the sprint.
+Researching Agile/Scrum techniques and shared findings with the team.
+Facilitates all team meetings, such as daily stand-up, sprint planning, sprint review, sprint retrospective, and backlog grooming.
+Effectively manage the backlog and aid the team in determining suitable commitments for product backlog items and sprints.
+Protect the team from outside interruptions and distractions and remove impediments.
+SKILLS
+Knowledge of common network topologies.
+Excellent written and verbal communication.
+Ability to work independently/proactively to resolve issues.
+Excellent time management.
+Excellent customer service.
+Strong critical and analytical problem-solving.
+Comfortable multi-tasking
+EDUCATION
+Bachelor of Science (BSc) degree in Computer Information System Management (CIS) DeVry University, Arlington VA.
+Master of Science (MSC) degree in cloud Systems Architecture. University of Maryland Global College (UMGC).
+CERTIFICATION
+AWS Certified Solution Architect Associate
+Oracle 11g Certified Associate (OCA)
+LANGUAGE
+English (Fluent), French (Average), German (Average)
+Contact this candidate

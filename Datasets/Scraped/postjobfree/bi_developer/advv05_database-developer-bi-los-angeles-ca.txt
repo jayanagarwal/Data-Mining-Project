@@ -1,0 +1,104 @@
+Abebe Yitbarek
+advv05@r.postjobfree.com 323-***-****)
+
+Summary:
+• Over 6+ years of IT experience with knowledge in the Analysis, Design, Data Modeling, Data Warehouse, ETL, T-SQL development, MS Business Intelligence Tools like (SSIS, SSAS and SSRS) in SQL Server 2012/2014, Development, Administering, Implementing and Testing Client/server application using Microsoft SQL Server and BI suite (Development, UAT and Production Environment.
+Well versed in creating OLTP relational data models and OLAP dimensional models using ER-Win.
+Strong knowledge of Data Warehouse methodologies, including Dimensional Data Modeling, Star Schema, Snowflake Schema, Fact and Dimension Tables, worked with high volume databases with partitioned data.
+Proficient in writing T-SQL queries for creating Tables, Stored Procedures, Views, Indexes, Cursors, Triggers, User Profiles, User Defined Functions, Relational Database Models and Data Integrity in observing Business Rules.
+Knowledge on working with database maintenance including using Database Management Views, Dynamic Management Functions and DBCC commands to improve table fragmentation and index performance.
+Proficient in Database performance optimization, debugging and tuning using the Query Analyzer, SQL Profiler and SQL Server Debugger.
+Detailed knowledge on mapping documents creation as well as development for Data migration, data import, Initial and Incremental load.
+Strong knowledge and experience in error handling of SSIS packages using transactions, check points (package restart ability features), break points and error logging procedures
+Proficient in using SQL Server Integration Services (SSIS) to build Data Integration and Workflow Solutions, Extract, Transform and Load (ETL) solutions for Data warehousing applications.
+Expertise with data cleansing operations using SSIS transformations and T-SQL scripts to normalize the data and remove and identify potential problem points when moving information into a data warehouse.
+Adapt in SSIS direct and indirect configuration (XML, SQL Server) set up, SSIS audit and logging, error handling, and performance tuning of SSIS Packages.
+Expert knowledge and experience authoring, managing and deploying reporting solutions using SQL Server Reporting Services (SSRS).
+Enough Expertise on designing complex reports like Drill-Down reports, Drill-Through Reports, Parameterized Reports, Sub Reports, Ad-hoc reports and dashboard Reports using SSRS based on client requirement.
+Used expressions to calculate, group, filter, parameterize and format the contents of a report.
+A goal-oriented, highly-motivated, well-organized, and effective team member with excellent analytical, troubleshooting, and problem solving skills
+
+Work Experience: Banks Networking: SQL Database Developer /SSIS Developer
+
+Jan 2017 – Present
+Roles and Responsibilities:
+Extensively worked on Relational and Dimensional Data modeling (Star / Snowflake models), FACT & Dimensions tables, Physical & logical data modeling, slowly changing Dimensions, Data cleansing and Data Staging of operational sources using ETL processes for data warehouses.
+Used Merge replication between multiple plants and resolved conflicts between locations, Used Multi-Valued and Inline User Defined Functions
+Heavily Used CTEs to process data for ETL sources and stored procedures
+Backup and restored Data ware house and set up high-Availability.
+Created Package Configurations for easy Deployment procedures.
+Worked on troubleshooting and problem solving of MSSQL development, package failures and errors.
+Created T-SQL scripts to generate all the tables and relationships based on the finalized ER-Diagram.
+Created triggers and audit tables in order to capture the incremental data from OLTP and created complex stored procedures to perform data profiling in the pre-staging database.
+Worked on parent-child architecture on database object including SPs, UDFs and tables with development.
+Utilized the Dynamic SQL for user customizable queries to be answered by the SQL Server.
+Involved in the creation of scheduled jobs for Extracting, transforming and loading operations and database maintenance tasks like de-fragmentation, re-indexing, and recompiling.
+Wrote custom T-SQL stored procedures and triggers to improve performance, preserve referential integrity, and provide additional application functionality.
+Optimized the existing queries to improve performance with the use of Profiler and Execution Plans.
+Used SSIS Packages to extract transform and load data from multiple input sources like Excel files, Production SQL Servers (2005/2000)
+Incorporated Error Redirection during ETL Load in SSIS Packages. Involved in Unit testing and System Testing of ETL Process.
+Involved in Query Optimization and Performance Tuning using tools SQL Profiler, Index Tuning Wizard and Database Engine Tuning Advisor.
+Created views as required by front end developer for easier implementation on web pages, and wrote instead of triggers on those views to provide efficient data manipulation.
+
+Tools Used: SQL Server 2012/2014 SSIS, SSAS, SSRS, and Windows Server
+Cross Country Mortgage Company Anaheim, California Jul 2015 – Jan 2017
+SSIS Developer /Reports Developer
+
+Roles and Responsibilities:
+Developed database tables, stored procedures, user-defined functions, and SQL Server Reporting Services (SSRS) reports, Along with Appropriate documentation.
+Responded to project tickets (work orders) to alter or create reports, procedures, and functions, in support of
+Client Services and Business Analysts' requests for improvements and enhancements to client-facing web pages and embedded reports and/or native-mode SSRS reports.
+Worked with Business Analysts and end users in gathering detailed requirements and specifications.
+Involved in designing the physical database models on SQL Server 20012/2014 RDBMS.
+Created the T-SQL script to generate all the tables and relationships based on the finalized ER-Diagram.
+Implemented error handling techniques like try catch blocks, error functions in T-SQL scripts and stored procedures to support the applications.
+Developed complex Stored Procedures, triggers and User Defined Functions for implementing business logic and process in backend, for data extraction, reports and other client interfaces.
+Involved in Full and daily Incremental loads into Staging and ODS areas, troubleshooting process issues and errors using SQL Server Integration Services (SSIS) 20012.
+Created event handlers on every executable in an SSIS package.
+Optimized ETL packages by optimizing queries and using proper transformations.
+Implemented package configurations on the development and test environments.
+Created several ad hoc reports, drill down, drill through, sub, linked, cached and snapshot reports using reporting services.
+Interactive SSRS reports by creating parameters within reports, multi-value parameters as well as embedding functions with expressions.
+Deployed Parameter-driven reports using parameters tab in the SSRS GUI procedures by Setting up the report-level parameters, along with Building parameter-driven queries and stored and placing them, in the data field.
+Actively involved in securing the reports created depending upon the level of sensitivity of information that the report contained.
+
+Tools Used: SQL Server 20012/20014, SSIS, SSRS, Erwin, Windows Server, Power Pivot, MS Visual Studio 2008.
+
+US Bank, Santa Ana, CA Jan 2013 – Jul 2015
+SQL Server Database Developer /BI Developer
+
+Roles and Responsibilities:
+Created ER diagrams and performed normalization on them to ensure faster querying.
+Ensured data consistency by creating primary key, foreign keys and appropriate constraints.
+Optimized SQL queries using SQL profiler, indexed views and indexes.
+Wrote complex queries, stored procedures, UDFs in support of the ETL processes, front end applications and reports.
+Created DDL and DML triggers to maintain database integrity
+Bulk insert for transferring data between SQL server and flat files.
+Created ETL process using SSIS for populating data store in SQL Server 2012.
+Successfully transferred old data from various sources like flat files, MS Access, and Excel into MS SQL Server 2012.
+Performed various transformations like conditional split, sorting and included data about the environment using the audit transformation.
+Developed data access queries/programs using SQL Query to run in production on a regular basis and assists end users with development of complex Ad Hoc queries.
+Facilitated data retrieval and manipulation through implementation of Views, Procedures, Triggers and Cursors.
+Successfully implemented indexes on tables and views for optimum performance tuning.
+Supported some business specific relationships, and advance constraints by embedding triggers on tables.
+Set up scheduled Jobs and alerts for updates and backups.
+Involved in designing of shift based reports, chart reports (line and column), parameterized reports for performance analysis.
+Set up report delivery schedules and report back up schedules by configuring subscriptions and snap shot respectively.
+Designed strategies for securing the reports created depending upon the level of sensitivity of information that the report contained.
+Experience optimizing SSAS using the flight recorder to log queries submitted to the Analysis Services Engine and perform usage based optimization to improve the pre-calculated aggregates for reports.
+
+Tools Used: SQL Server 20012, T-SQL, SSIS, SSRS, Flat Files, Excel
+
+Technical Proficiencies:
+Operating Systems : Windows XP, Vista,10, Windows Server 2012/2016
+Database Packages : SQL Server 2012/20014/2016, MS Access
+BI Tools : SSIS/SSAS/SSRS, Power Pivot, Power View
+Data Modeling : Erwin
+
+Education:
+Institution/University
+Degree
+Arbaminch University
+Economics
+Ethiopia
+Contact this candidate

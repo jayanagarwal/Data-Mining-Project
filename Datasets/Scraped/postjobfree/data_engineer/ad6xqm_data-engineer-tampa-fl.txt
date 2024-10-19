@@ -1,0 +1,137 @@
+Professional Summary:
+Around *+ years of combined experience in Data Analysis, ETL Development, with about 4+ years of Data Engineering experience in Retail, IT, and Banking domain.
+Solid understanding of Big Data Architecture and frameworks, such as Hadoop involving Hadoop Distributed File System and its components such as PySpark, Hive, Pig, Sqoop, Oozie, MapReduce frameworks, Yarn, and Hue.
+Experience in AWS services such as S3, EC2, Glue, AWS Lambda, Athena, and Redshift.
+Experience in Microsoft Azure services such as Blob Storage, ADLS Gen 2, Logic Apps, Streams Analytics, Azure Cosmos DB, ADW, HDInsight cluster, and Azure Data Factory.
+Worked with scheduling data load, and arranging job workflow scheduling and locking tools like Oozie, and Airflow.
+Experience working in building ETL workflows in Azure platform using Azure Databricks and Data factory.
+Experience in developing Spark applications using PySpark and Scala.
+Experience in fine tuning and debugging spark applications by using optimization techniques.
+Imported and exported the data from RDBMs to HDFS, Hive and vice versa using Sqoop.
+Strong experience in working with RDBMs such as MS SQL Server, Oracle, MySQL in constructing joins, user defined functions, views, stored procedures, window functions, etc.
+Experience in dimensional data modeling Star Schema, Snowflake Schema, Facts and Dimensions tables.
+Developed UDF, UDAF functions, implemented it in Hive queries.
+Worked on managing Hadoop clusters using Cloudera Manager tool.
+Experience working in Amazon’s EC2 infrastructure for computational tasks, configuring the servers for auto scaling, elastic load balancing and Amazon’s S3 as storage mechanism.
+Experience in the implementation of ETL process using several transformations by working with Informatica PowerCenter and its client tools.
+Experience working with Slowly Changing Dimensions SCD Type 1 and Type 2 to manage and store current and historical data loads.
+Extensive experience in Python scripting and used libraries such as Numpy, Pandas for data cleansing, data formatting, and used libraries like Matplotlib and Seaborn for data visualization.
+Have worked on data visualization tools like Tableau, PowerBI to make interactive charts, dashboards to be converted into reports.
+Experience in Unix Shell scripting and created them for ETL job execution.
+Installed, configured, and worked on open-source data ingestion Apache NiFi tool.
+Worked with Project Management tools such as JIRA and Confluence.
+Experience in working with Agile Scrum and Waterfall methodologies setup.
+
+Technical Skills:
+Big Data/ Hadoop Ecosystem
+Hadoop, Apache Spark, HDFS, MapReduce, Hive, Sqoop, Oozie
+Programming Languages
+PySpark,Python, SQL, PL/SQL, Shell Scripting
+Databases
+Oracle, MS SQL Server, MYSQL, Postgre SQL
+Operating Systems
+Windows, Linux, Unix
+Cloud computing
+AWS, Azure
+Version Control
+Git, Bitbucket
+IDEs
+VS Code, Google Collab, Eclipse, Intellij
+Project Management tools
+Jira, Confluence
+Reporting
+Tableau, PowerBI
+Methodologies
+Agile Scrum, Waterfall
+
+Client- Ryder, Miami, FL Dec 2021- Present
+Data Engineer
+Responsibilities:
+
+Worked as a Data Engineer as part of the Enterprise Advanced Analytics team. The EAA team manages telematics data to help business make better decisions on fleet management and avoid untimely breakdown.
+Worked as a Data Engineer as a part of SCS Analytics and worked on ingesting data for all AAI projects.
+Heavily used Azure Data Factory for Data ingestion and created, maintained end to end pipeline and ingestion data into Azure Managed Instance SQL Database.
+Worked in setting up authentication gateways to fetch data from API’s using ADF and ingested raw data into ADLS and later created curated layers in Azure MI.
+Worked as a Databricks Platform Engineer as an admin to add, modify, remove users from groups and assigning required access to users in separate databricks instances.
+Migrated data from Azure Cosmos DB to Snowflake using Azure Data Factory and scheduling the pipeline using RunMyJobs. Also migrated tables from Snowflake to Azure Databricks using PySpark scripts.
+Ingested huge volume of telematics data daily where json files were ingested into Azure blob storage using Azure Data Factory.
+Configured databricks clusters, modified cluster memory, managed cluster permissions to users, installed libraries to enhance performance.
+Performed checks and validations between old and new MS SQL Server environments by creating linked service between both servers to validate if data is replicated and loaded as expected.
+Deployed Databricks notebooks/folders into shared workspace using Continuous Integration Continuous Deployment CICD Strategy in Azure Dev Ops.
+Created gold, silver, and bronze datasets as a Feature Store to help different teams make use of the data by storing important features as columns in separate dataset layers.
+Created delta tables in Azure Databricks after pulling data from Snowflake into Databricks using PySpark.
+Created custom User Defined Functions to pull data based on modified date from blob storage container into Azure Databricks.
+Ingested/Appended monthly files/data from Informatica PowerCenter directory into Snowflake table using Azure Data Factory by scheduling the job in RunMyJobs.
+Worked with multiple teams in supporting and troubleshooting production monthly/weekly jobs in Azure Databricks.
+Troubleshoot and optimize the Databricks environment to ensure stability and performance.
+Collaborate with cross-functional teams including Data Analysts and Scientists to drive business insights from data.
+Leverage strong experience in the Azure cloud environment to deploy and manage cloud-based data solutions.
+
+Client – Hendrick Automotive Group, Charlotte, NC Feb 2020 – Nov 2021
+Data Engineer
+Responsibilities:
+
+Developed spark applications using PySpark and implemented a project involving Apache Spark Data processing to handle data from various RDBMs.
+Experience in migrating existing on-premises application to AWS. Also, used AWS services like EC2 and S3 for data sets processing and storage and have experience maintaining Hadoop cluster on AWS EMR.
+Loaded data into S3 buckets using AWS Glue, PySpark and filtered data in S3 buckets using Elasticsearch and loaded data into Hive external tables.
+Developed and designed ETL process in AWS Glue to migrate data from external sources into AWS Redshift.
+Worked on batch processing and real time data processing on spark streaming using Lambda architecture.
+Used AWS Redshift, Athena services to query large amounts of data stored in S3 to create a virtual data lake.
+Analyzed and worked on large sized critical datasets using Cloudera, HDFS, MapReduce, Hive, Pig, Sqoop, and Spark.
+Wrote multiple MapReduce Programs for data extraction, data transformation and aggregation from multiple data formats including XML, JSON, CSV, and other compressed data formats.
+Created data pipeline of gathering, cleaning, and optimizing data using Spark, Hive.
+Experience in using Avro, Parquet, and JSON file formats.
+Successfully loaded files to Hive and HDFS from SQL Server, Oracle using Sqoop.
+Created interactive dashboards and reports using Tableau, or PowerBI as per need basis.
+
+Client- Cathay Bank, LA, CA Feb 2019- Feb 2020
+Data Engineer
+Responsibilities:
+Worked to rapidly evaluate, create, and test new use cases for the organization in a quick-paced Agile development environment.
+Maintaining existing ETL workflows, data management and data query components.
+Collecting, aggregating, and moving data from servers to HDFS using Apache Kafka.
+Creating Hive tables, loading with data, and writing hive queries that will run internally in map-reduce way.
+Migrating ETL jobs to PySpark scripts do Transformations, even joins and some pre-aggregations before storing the data into HDFS.
+Provided support for Azure Databricks and building data pipelines using Pyspark.
+Involved in installation and configuration of Cloudera Distribution Hadoop platform.
+Extract, transform, and load (ETL) data from multiple federated data sources (JSON, relational database, etc.) with Data Frames in Spark.
+Utilized SparkSQL to extract and process data by parsing using Datasets or RDDs in HiveContext, with transformations and actions.
+Used Spark API over Hortonworks Hadoop YARN to perform analytics on data in Hive.
+Implemented Spark using PySpark and SparkSQL for faster testing and processing of data.
+Performed real time integration and loading data from the Azure data box& mounting it onto fuse for bulk loads.
+Creating Spark clusters and configuring high concurrency clusters using Azure Databricks to speed up the preparation of high-quality data.
+Extract Transform and Load data from Sources Systems to Azure Data Storage services using a combination of Azure Data Factory, T-SQL, Spark SQL and U-SQL Azure Data Lake Analytics.
+Data Ingestion to one or more Azure Services - (Azure Data Lake, Azure Storage, Azure SQL, Azure DW) and processing the data in In Azure Databricks.
+
+Datamatics Global Services Ltd, Bangalore, India Jan 2016 – Dec 2017
+Data Engineer
+Responsibilities:
+
+Experience in Hadoop infrastructures such as MapReduce, Pig, Hive, Sqoop, Spark for data storage and analysis.
+Gathered the data stored in MS SQL Server, optimized it to gather meaningful information.
+Worked with Spark for improving performance using Spark context, Spark SQL.
+Responsible for creating hive tables, loaded structured data resulted from MapReduce jobs into the tables and wrote Hive queries to further analyze the logs.
+Used partitioning and bucketing in Hive to optimize queries.
+Tuned the performance of Hive data analysis using clustering and partitioning of data.
+Responsible for estimating cluster size, monitoring, and troubleshooting of the Spark databricks cluster.
+Written python codes for different tasks, dependencies for workflow management and automation using Airflow.
+Regularly updated data in tables as per the user requirement using stored procedures, temp tables, views, joins, CTE’s and worked with SQL profiler to identify slow running queries and worked to optimize them.
+Communicated with ETL teams for data migration from OLTP to warehouse environment for reporting purposes.
+Used packages such as SSIS to populate data from excel to databases, also used functions such as Lookup, derived column, and conditional split to achieve required data.
+
+KPIT Technologies, Pune, India April 2015- Jan 2016
+ETL Developer
+Responsibilities:
+
+Developed mappings in Informatica PowerCenter ETL tool and worked on client tools such as PowerCenter Designer, Workflow Manager, and Workflow Monitor.
+Made Informatica mappings based on the mapping documents and performed several transformation and filters based on the business rules and requirements.
+Used transformations like Aggregator, Joiner, Filter, Rank, etc. as per the business logic.
+Extracted data from multiple sources such as Oracle, MS SQL Server database, transformed it and finally uploaded the desired data to target data warehouse.
+Involved in the low-level design, and development of mappings to assure data is loaded as per the ETL requirement specification.
+Design and developed Informatica mappings, created session tasks, and workflows on Informatica PowerCenter client tools.
+Worked and created Informatica mappings for Slowly Changing Dimensions SCD type 1 and Slowly Changing Dimensions SCD type 2.
+Managed and monitored Workflow Manager and resolved issues as per the Service Level Agreements SLAs.
+Ensured data integrity rules were followed when moving the data from source tables to target data warehouse.
+Created pre sessions and post sessions email tasks with the help of PowerCenter Workflow Manager.
+Worked on JIRA for bug tracking and issue tracking.
+Contact this candidate

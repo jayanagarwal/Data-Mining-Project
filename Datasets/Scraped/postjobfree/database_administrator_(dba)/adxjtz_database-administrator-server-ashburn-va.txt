@@ -1,0 +1,122 @@
+PROFESSIONAL SUMMARY
+
+SQL Server Database Administrator with 12+ years of experience and proven track record of designing, administering and supporting database systems.
+Overall 12+ years of experience with most of it in SQL Server 2014/2012/2008/2005/2000 and Windows 2012/2008/2003.
+Experienced with creating IT solutions for a large inventory of SQL Servers using technologies such as high availability clusters, Always-On, Mirroring, Log-Shipping and Replication.
+Expertise experience in installation and configuration of SQL 2016/2014/2012/2008/2005/2000 SQL Server database services.
+Working experience in testing SQL server 2016 new features like Availability group failover when there are drive issue.
+Expertise Experience in provisioning and configuring Servers and Databases in Microsoft Azure Platform as Service (PaaS) and Microsoft Azure Infrastructure as Service (IaaS).
+Expertise experience in database Performance tuning, query optimization using DMV’s and DMF’s. Experience with configuring and analyzing xEvents & PSS diag.
+Experience in installation, configuration and administration of MS Analysis Services.
+Expertise Experience in building complex SSIS and DTS packages using Business Intelligence Development Studio.
+Experience in SQL Server Database partitioning on very large databases (VLDB’s).
+Experience in implementation of encryption strategies such as Transparent Data Encryption (TDE).
+Solid IT infrastructure foundation and skilled in automation, scripting, security and database development.
+Expertise experience in handling level-one, mission critical applications.
+Experience with on-call problem resolution and triage in SQL Server environments.
+Experience in working with teams such as Infrastructure, Storage, Networking, Development and QA.
+Certified Microsoft Solutions Expert in Data Platform. Microsoft Certification ID : 11693564
+Certified Microsoft Solutions Associate in SQL Server 2012.
+Certified Microsoft specialist in Azure Infrastructure Solutions.
+
+TECHNICAL EXPERIENCE
+
+Relational Databases: Access, SQL Server 2014/2012/2008R2/2008/2005/2000, and Oracle 10g.
+Operating System: Windows 2012/2008/2003 (64 bit & 32 bit)
+Database Monitoring Tools: SCOM 2012/2010, and Idera
+Database Administration Tools: SQL Server Management Studio, Enterprise Manager, SQL Profiler, Control –M, Microsoft Visual Studio, Business Intelligence Development Studio.
+Database Maintenance Tools: SQL Lite Speed, Control-M.
+Query/Reporting: SQL Query Analyzer, MS SQL Reporting Services, and Crystal Reports.
+Data Model Tool: ERWIN
+Programming Languages: T-SQL, PL-SQL, Java, and HTML
+Certifications: MCSE, MCSA, MCP, and CCNA.
+PROFESSIONAL EXPERIENCE
+
+GEICO Jan 06 to Present
+Senior SQL Server DBA
+
+Installed, configured and administered SQL Server 2014/2012/2005 (64 bit and 32 bit) on traditional clusters, and standalone servers.
+Installed, configured and administered SQL Servers on IAAS – Infrastructure As A Service on Microsoft Cloud Environment.
+Installed, configured and maintained high available solutions such as Database Mirroring, Always-on, Replication, and Log Shipping.
+Installed, configured, and administered SQL Server Reporting Services (SSRS) for different purposes like DBA Reports, and user reports using SSRS.
+Supported several active/active cluster installations in virtual environment and on Hyper-V.
+Developed stored procedures and scripts for automation of several daily maintenance tasks, monitor critical database alerts, monitor any blocking process for more than 3 minutes.
+Implemented partitioning on very large databases (VLDB’s) to improve data archiving process.
+Implemented Transparent Data Encryption on level one database which contains sensitive customer information.
+Worked extensively on developing, deploying and maintaining SSIS packages in SQL Server Integration Services.
+Developed process using tools such as AZ Copy to transfer data between different subscriptions and containers on Microsoft Cloud Environment. Process also included data transfer between on-prem and cloud.
+Used dynamic management views and dynamic management functions as well as DBCC to check database conditions, fix database corruption, rebuild indexes.
+Supported lease replacements of SQL Servers which included identifying servers coming out of lease, providing specifications for provisioning of new servers and migrating databases to new servers.
+Supported monthly SQL server patch process which included patching SQL servers with latest service pack and time sensitive security patches. Provided user support during post patch validation of the databases and applications.
+Supported upgrade process from SQL 2000/2005/2008 to SQL 2012/2014.
+Analyzed business requirements and converted them into functional specifications.
+Set up alerts, operators, Database Mail, SQL Mail, SQL Agent Mail, and notifications.
+Managed Database users and security.
+Designed processes to control migrations of programs, database changes, reference data changes and menu changes through SDLC.
+Resolved database performance issues, replication, and other distributed data issues.
+Assisted Database Developers in optimizing SQL queries used in Stored Procedures and Triggers.
+Responded quickly and effectively in triaging issues in production & development environment.
+Participated in annual disaster recovery exercise for level one applications which included failing over databases from primary site to disaster recovery site.
+Move, transform, and load heterogeneous and homogeneous into SQL Server databases, as well as export SQL Server data to text file and other database systems.
+Developed Stored Procedures, Triggers using Transact-SQL and Remote query.
+Implemented Batch programs using command prompt utilities like OSQL, DTSrun etc.
+Worked extensively on configuring third party monitoring tools such as SCOM and Idera.
+Implemented backup solutions using third party tools such as SQL Lite Speed.
+
+Environment: SQL Server 2014/2012/2005/2000, Windows 2012/2008/2003, SQL Server Integration Services (SSIS), SQL Profiler, Data Model, SQL Trace, Transact SQL (T-SQL), SQL Query Analyzer, Performance Monitor, Always on, Database Mirroring, Transactional Replication, Backup/ Recovery, Analysis Service, Database Transformation Services (DTS), SQL Server Reporting Services(SSRS).
+
+Maryland State Archives April 05 to Jan 06
+SQL Server DBA
+
+Installation, configuration and administration of Microsoft Windows 2000 Professional, Microsoft Windows 2000 Server, and Windows 2003.
+Installation, configuration and administration of SQL Server 2005/2000 (Engine, OLAP, Integration Services and reporting services).
+Performed capacity planning on existing and on new systems in development and production environments.
+Acted as change control to implement any changes to production environment. Schema/data/configuration changes were tested in lower environments.
+Developed a process to restore production database to lower environments after data sanitization process.
+Developed a daily DBA checklist to monitor the health of the SQL servers in production to maintain 99.9 % uptime.
+Upgrade experience from SQL 7.0 to SQL 2000/2005.
+Deployed and maintained DTS packages to move data from heterogeneous sources to SQL Server as well as perform several data transformation.
+Analysis of Business requirements and converting them into functional specifications after extensive reviewing.
+Monitored locking, blocking and resource utilization by package caching, buffer cache hit ratio etc.
+Reviewed and proposed strategic changes to production systems. Implemented effective tape backup strategy.
+Validate and test new Service Pack levels and new SQL Server Versions before recommended to customers.
+Worked with the development staff to troubleshoot the query performance.
+
+Environment: SQL Server 2005/2000/7.0, Window 2000/NT, DTS, Batch Scripting.
+Basch Subscriptions & Reference Shelf Jan 02 to March 05
+SQL Server DBA
+
+Installation and configuration of SQL Server 2000/7.0 on Windows Server 2000.
+Providing design, development, and testing support to assigned application teams.
+Installing SQL Server products, managed patching and compliance issues.
+Maintaining Transactional SQL Replication between source and target SQL Server databases.
+Involved in migration of SQL Databases using Migration Utility.
+Setting up linked servers between SQL and DB2 data sources.
+Configured SQL Mail where in the SQL Server will send notification through a page on failure of a job on production and email on non-production environments.
+Worked on data modeling projects from starting to finishing, generated scripts for objects, Developed Relationship, and created E-R Diagram using ERWIN.
+Export & Import data from Flat file, CSV file to/from SQL Server databases using DTS, and BCP
+Monitored Database Backup and other jobs in the maintenance plan Restoration and Point-in-Time Recovery. Scheduling of operation and outages.
+Creating, modifying and managing tables, Index, Constraints, Views, Stored Procedures, and Triggers. Optimized long running Stored Procedures for effective data retrieval.
+Created and maintained documentation such as infrastructure diagrams, implementation guides, and incident reports.
+Troubleshooting and resolving problems with production SQL server databases.
+Monitored database status including CPU, memory, I/O, space, and dead lock using SQL Server Utilities.
+Created alerts, notifications, and emails for system errors, insufficient resources, fatal database errors, hardware errors, and security breach.
+Designing a Microsoft Windows 2000 Directory Services Infrastructure.
+
+Environment: SQL Server 2000/7.0, Windows 2000/NT, Erwin, Visio.
+
+EDUCATION
+
+Master of Science in Computer Science Aug 1998
+Nagarjuna University, Andhra Pradesh, India
+
+Bachelor of Science in Computer Science Aug 1996
+Andhra University, Andhra Pradesh, India
+Anna Nimmagadda
+21816 Iannis Spring Drive,
+Ashburn, Virginia -20148
+Ph: 443-***-****
+adxjtz@r.postjobfree.com
+
+Microsoft Certification ID: 11693564
+Contact this candidate

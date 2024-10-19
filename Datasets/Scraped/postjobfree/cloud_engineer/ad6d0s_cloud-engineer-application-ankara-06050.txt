@@ -1,0 +1,222 @@
+ANUPAMA BABU
+ad6d0s@r.postjobfree.com • 469-***-****
+SUMMARY OF SKILLS
+Around 12 + years of IT experience as a DevOps / Cloud Engineer for implementing CI/CD pipelines and automating the entire cloud infrastructure process utilizing tools like GCP, Ansible, GitHub, ASP.NET, Maven & Jenkins.
+Experience in cloud technologies on AWS and GCP Platform.
+Experience in working on Terraform And Openshift for provisioning the environments in GCP.
+Experience in using Ansible for configuration management.
+Experience in working on source control management tools like Subversion (SVN) and GIT.
+Extensively worked on Jenkins for continuous integration and for End-to-End automation for all builds and deployments.
+Experience with deploying and managing CI pipeline with Jenkins and CD (continuous delivery) using Spinnaker.
+Expert in deploying the code through web application server Apache Tomcat.
+Extensive experience using Maven as a Build Tool for the building of deployable artifacts (war & ear) from source code.
+Experience in administration, configuration, and Maintenance of Nexus Repository Managers and JFrog artifactory for Maven builds.
+Proficient in managing Unix/Linux systems, including installation, configuration, troubleshooting, and maintenance.
+Utilized Splunk to monitor applications deployed on application server by analyzing the application/server log files.
+Worked with Container based deployments using Docker with Docker images and have a good knowledge on
+Microservices architecture using Kubernetes.
+Ability in development and execution of Shell/Bash and Python scripts.
+Expertise in trouble shooting the challenges generated while building and deploying applications.
+Passionate with a strong desire to continuously learn and embrace new technologies.
+Collaborated closely with Project Manager, Developers, QA & Production teams to align Project deliverables, dates & report issues/concerns and participated in weekly on-call rotation.
+Communicated with teams/customers to ensure high quality and timely delivery of builds and releases.
+Used Jira as Ticketing System Tool to handle the issues/tasks/service requests created by multiple team members across the project.
+Involved in Biweekly Scrum calls as part of AGILE/ SCRUM model methodologies.
+
+Technical Skills
+
+BUILD TOOLS
+Maven
+DATABASES
+Cassandra, ElasticSearch, Oracle, MYSQL, ASP.NET
+SCRIPTING LANGUAGES
+Shell /Bash, Python, YAML, Groovy
+SCM TOOLS
+SVN, GIT
+MONITORING TOOLS
+Cloud Watch, Splunk
+CONFIGURATION MANAGEMENT
+Ansible
+OPERATING SYSTEM
+Linux, Unix, Windows
+CONTAINERIZATION TOOLS
+Docker, Kubernetes
+CLOUD SERVICES
+AWS, Azure
+PRODUCTION SUPPORT / APPLICATION SERVER
+Apache Tomcat
+CONTINOUS INTEGRATION TOOLS
+Jenkins
+
+RELEVANT WORK EXPERIENCE
+
+Client: Equinox Solutions Dallas, TX
+Role: Senior DevOps engineer Sept 2023 - Present
+
+Worked on Google Cloud Components, Google container builders, and GCP client libraries and cloud SDK’s.
+Configured a Google Cloud Virtual Private Cloud (VPC) and Subnet Group for isolation of resources.
+Architected the infrastructure on the Google Cloud Platform using GCP services and automated GCP infrastructure using Terraform, and Kinesis.
+Configured and managed source code using Git and resolved code merging conflicts in collaboration with application developers.
+Utilized Maven as a Build Tool for the building of deployable artifacts (war & ear) from source code.
+Built the artifacts through the JENKINS CI/CD pipeline and resolved the issues occurred during the build process.
+Worked with Ansible playbooks for virtual and physical instance provisioning, configuration management, patching and software deployment on AWS environments.
+Collaborated with coworkers to facilitate the creation of large, complex developments as required.
+Developed Continuous Integration using Git and Jenkins from scratch.
+Responsible for performing tasks like Branching, Tagging, and Release Activities on GitHub.
+Involved in Agile – Sprint methodologies to do requirements gathering, analysis, and planning.
+Documented software design, development, and implementation using Confluence.
+
+Tools: GCP, Ansible, Git, Docker, Kubernetes, Dynatrace, Azure,GitOps, Checkmarx, Akamai, ASP.NET, Confluence, Jenkins, Maven
+Client: MuleSoft / Salesforce Dallas, TX
+Role: Senior Devops engineer Jul 2022 – June 2023
+
+Responsible for the migration of infrastructure, data and applications out of legacy data centers into cloud environment.
+Proficient in AWS services to manage availability and latency in applications like VPC, EC2, S3, Load Balancer, DynamoDB, IAM, Route 53, EKS, GCP, CloudTrail.
+Experience in creating multiple VPC’s and public, private subnets as per requirement and distributed them as groups into various availability zones of the VPC.
+Created NAT gateways and instances to allow communication from the private instances to the internet through bastion hosts.
+Utilized IAM for creating roles, users, groups and implemented MFA to provide additional security to AWS account and its resources.
+Hands-on experience on Ansible as a Configuration management tool, to automate repetitive tasks, quickly deploy critical applications and proactively manage change.
+Experience reviewing and interpreting Nessus Vulnerability and Compliance scans.
+Implemented Application server monitoring using Icinga2.
+Created chocolatey packages of various software’s installed on Windows server for various workshops and uploaded the artifacts into Nexus Repository.
+Used Bash and Python with Boto3 to supplement automation for tasks such as scheduling Lambda functions for routine AWS tasks.
+Worked on SSH and RDP Gateway Infrastructure using technologies like Myrtille and Apache Guacamole.
+Experience in writing Helm charts to install packages in EKS cluster.
+Written Templates for AWS infrastructure as a code using Terraform to build staging and production environments.
+Implemented domain name service (DNS) through Route 53 to have highly available and scalable applications.
+
+Tools: AWS (EC2, VPC, ELB, S3, DynamoDB, GCP Route53, EKS), GIT, AWS CLI, Chocolatey, Unix/Linux, Shell scripting, Nexus, Jenkins, Checkmarx, Azure,GitOps,Ansible, Terraform, Kinesis, Nginx, Tomcat, Nessus, Icinga, Python,Boto3
+
+Client: Apple Sunnyvale, CA
+Role: Devops engineer Apr 2021 – Jul 2022
+
+Experience in using Kubernetes to manage containerized applications and deployed application containers as Pods.
+Mounted Volumes for application logs and configured environment variables in Kubernetes through ConfigMaps and Secrets.
+Deployed SpringBoot Java application to Kubernetes using CronJobs.
+Containerized the applications using Docker and implemented Docker container management by writing Dockerfile.
+Maintained Artifacts in binary repositories using JFrog Artifactory.
+Configured Webhooks in Github to trigger automated builds in Jenkins.
+Created pipelines for deploying code from GitHub to Kube cluster in the form of Docker containers using Jenkins.
+Enabled automatic deployments to Dev, QA and Sandbox environments and supervised deployment to Production using Spinnaker.
+Managed and monitored the server and network infrastructure using Splunk and configured reports and alerts in Splunk.
+Setup alerts and deployed multiple dashboards using Grafana to check the overall system health of individual applications in Kubernetes.
+Configured pods to send log data to Splunk using Splunk forwarder sidecar.
+Wrote queries to create, alter, insert and delete elements in Datastax Cassandra and analysed data for quick searching, sorting and grouping.
+Implemented Kafka for collecting App activity and stream processing.
+Upgraded Elasticsearch to 7.16 using a Rolling upgrade process.
+Used queries and aggregations on the index in Elasticsearch using Kibana.
+Worked closely with data centre for configuring VIPs, GCP,Load balancing and requesting firewalls.
+Made changes in YAML files to allow/block particular IP addresses using node selectors.
+Worked with an agile environment to deliver continuous integration/continuous delivery product using JIRA.
+Wrote shell scripts to automate manual and repetitive tasks for creating branches, merging and resolving merging conflicts in Github.
+
+Tools: Git, Jenkins, Spinnaker, Docker, Checkmarx, ASP.NET, Terraform, Openshift, Kube, Splunk, Grafana, Elasticsearch, Kibana, Cassandra, Dynatrace, Akamai, GitOps,Kafka, GitHub
+
+Client: State of Maryland Linthicum Heights, MD
+Role: Devops / AWS cloud engineer JUN 2019 – FEB 2021
+
+Experience in planning, designing, consulting and implementation in areas of AWS Cloud.
+Utilized Splunk as the monitoring tool for monitoring the servers.
+Designed DevOps workflow for multiple applications by orchestrating Test, Build, Release and Deploy phases through various CI/CD pipelines using Git, Maven, Azure, GCP, Jenkins, Ansible, Docker & Kubernetes.
+Configuration of Ansible modules for AWS cloud deployment.
+Worked with Ansible playbooks for virtual and physical instance provisioning, configuration management, patching and software deployment on AWS environments.
+Build the artifacts through JENKINS CI/CD pipeline and resolved the issues occurred during the build process.
+Configured and managed source code using BitBucket and resolved code merging conflicts in collaboration with application developers.
+Configured AWS ECS for deploying and orchestrating containers by defining tasks and services.
+Deployed application which is containerized using Docker onto a Kubernetes cluster which is managed by Amazon Elastic Container Service for Kubernetes (AWS EKS).
+Built the artifacts and deployed the applications in Docker Containers in an efficient way.
+Configured ‘Kubectl’ to interact with Kubernetes infrastructure and used TERRAFORM, Kinesis, to launch a cluster of worker nodes on Amazon EC2 instances.
+Used Apache Tomcat as the application server for the deployment of the code on Linux environments.
+
+Tools: AWS, Ansible, Bitbucket, Sonarqube, GitOps, Akamai, Docker, Openshift, Kubernetes, JIRA, Jenkins, Maven, Nexus, Apache Tomcat.
+
+Client: State of Connecticut Hartford, CT
+Role: DevOps Engineer JAN 2018 – MAY 2019
+
+Configured and maintained user accounts for Dev, QA, and production teams and created roles for EC2, S3, and Cloud Watch resources to communicate with each other using IAM.
+Build the deliverable artifacts using MAVEN as a build tool in Jenkins for Java applications and deploy them to various environments and implemented & maintain the Branching and Build/Release strategies.
+Used Maven for building the applications and developing the build scripts.
+Installed Jenkins on a Linux machine and created a master and slave configuration to implement multiple parallel builds through a build farm.
+Used Jenkins for Continuous Integration and deployment into the Tomcat Application Server.
+Configured and managed jobs in Jenkins. Set up jobs for auto-deployment.
+Administered, and created projects, and users and took care of access controls in GitHub.
+Proposed different branching strategies for GIT to support the parallel development for various projects.
+Created custom shell/python scripts for various automation purposes.
+
+Tools: AWS, Nexus,Git, Python, Shell scripting, Akamai, Sonarqube, Dynatrace, GCP,ASP.NET, Terraform, JIRA, Jenkins, Maven, GitHub
+
+Client: BioReference Laboratories Elmwood Park, NJ
+Role: Devops Engineer Jan 2016 – Dec 2017
+
+Developed and supported the Software Release Management and procedures.
+Responsible for design and maintenance of the Subversion/GIT, Azure, Repositories, Terraform, and the access control strategies.
+Worked with Subversion, Proposed and implemented branching strategy suitable for agile/scrum development in a fast-paced Engineering Environment.
+Performed all necessary day-to-day Subversion/GIT support for different projects.
+Implemented & maintained the branching and build/release strategies utilizing Subversion /GIT.
+Implemented the migration of SVN to GIT.
+Efficiently performed the task of resolving conflicts while merging in Subversion with the J2EE development background.
+Performed merges and executed builds on a pool of dedicated build machines.
+Involved in periodic archiving and storage of the source code for disaster recovery.
+Used MAVEN as a build tool on Java projects for the development of build artifacts on the source code.
+Developed build and deployment scripts using MAVEN as a build tool in Jenkins to move from one environment to another environments.
+
+Client: Con Edison Manhattan, New York
+Role: Devops Engineer Jun 2015 – Oct 2015
+
+Involved in editing the existing MAVEN files in case of errors or changes in the project requirements.
+Automated the build and release management process including monitoring changes between releases.
+Deployed the Java applications into Tomcat web application servers.
+Executed user administration and maintenance tasks including creating users and groups, reports, and queries.
+Worked as a system administrator for the build and deployment process for DEV and TEST, ASP.NET, Dynatrace Environments.
+Expert in User Management and Plugin Management for Jenkins.
+Documented the project’s software release management procedures with input decisions.
+Developed, maintained, and distributed release notes for each scheduled release.
+Provided periodic feedback on status and scheduling issues to the management.
+Created END-END Automation with CI Procedures using Jenkins.
+Worked with Development Team Leads and Testing teams to establish a build schedule, Terraform, Kinesis, and execute the builds and troubleshoot build failures, if any.
+Coordinate with the Development Teams to receive the correct versions of reusable and dependent components and with the Environment team for issuing/installing successful builds.
+
+Client: Emblemhealth Manhattan, New York
+Role: Devops Engineer Mar 2014– Apr 2015
+
+Developed and maintained cooperative and collaborative relationships with networking, storage, software development, and project management teams.
+Monitored production systems, applications, and network performance through the use of various Network Management and Application Monitoring Tools.
+Developed tools/scripts to automate integration with other IT tools in support of accurate asset management, cyber reporting capabilities and to manage licenses.
+Worked with software developers and Quality Assurance to seamlessly migrate applications from development to QA and production.
+Provided support to customers running RedHat Enterprise Linux on their workstations and simulation servers.
+Identified and drove continual improvement programs in the UNIX environment and improved service efficiency.
+
+Client: Department of Health, State of New York Albany, New York Role: DevOps Engineer Jun 2013 – Feb 2014
+
+Worked closely with other IT departments to help determine and develop systems that will be implemented.
+Troubleshooted Unix-related issues.
+Worked on NFS issues like mount problems, deadlocks, Terraform, check-autofs.
+Checked Apache & mail logs to troubleshoot web server and mail server related issues.
+Wrote bash shell scripts on local setups to automate jobs.
+Updated check-decklists
+Built new servers with respect to company-defined policies.
+
+Client: Micropower Career Institute Manhattan, New York
+Role : DevOps Engineer Dec 2011 – May 2013
+
+Installed, configured, and supported Micropower’s local area network (LAN), GCP,wide area network (WAN), Internet and network systems.
+Maintained network hardware and software.
+Monitored network to ensure network availability to all system users and performed necessary maintenance to support network availability.
+Supervised other network support and client server specialists.
+Planned, coordinated, and implemented network security measures.
+Engaged in the development and creation of software and systems consistent with the company’s hardware and
+software requirements.
+Reviewed computer system capabilities, workflow and information processing systems to develop effectiveness.
+Developed new systems to improve inventory, billing and accounting.
+Upgraded the system and resolved errors to maintain the system after implementation of new information and computer requirements.
+
+ADDITIONAL CERTIFICATION
+CKA Certified Kubernetes Administrator, 2021
+AWS Certified SysOps Administrator (Associate), 2020
+ISTQB Certified Tester Foundation Level (CTFL), 2012
+CCNA (Cisco Certified Network Associate), 2007
+MCP (Microsoft Certified Professional), 2007
+
+EDUCATION
+MES College of Engineering, Calicut University Kerala, India Bachelor of Technology in Computer Science & Engineering 2006
+Contact this candidate

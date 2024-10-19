@@ -1,0 +1,315 @@
+Paul Goddard
+I am interested in a position that will let me use my skills to support physical and virtual environments in production or DevOps test environments and their users on virtual servers, AWS/Azure, or physical servers. Proficient in virtualizing desktop applications and server-side services, and Physical to Virtual conversions of legacy servers and desktops. I am skilled in Distribution and Healthcare EDI, Citrix technologies, Managed File Transfer development and administration, vSphere including vSphere PowerCli, PowerShell automation, Ansible Automation, and Disaster Recovery. Considerable database administration experience with 4th Dimension, MS SQL Server, Progress, Oracle 10G, 11G, and 12C.
+Miller Jones Inc. 10-30-2023 to present (Contract)
+5930 LBJ Freeway,Suite #401 Dallas, Texas 75240
+Contract through Optiv for Axway API health check at CareSource
+Collecting information for a health report should complete report by Nov 21.
+
+Sabio Systems 10-2021 to 12-2022 (Contract)
+4520 Montgomery Blvd NE
+Systems Administrator
+Active Directory Management cleanup and rationalization.
+VMWare Site Recovery Manager implementation and POC testing.
+VMWare NSX-T implementation.
+VMWare VCDR implementation.
+HP Integrity Virtualization Platform hardware troubleshooting and Operating System Installation.
+HP Nimble Storage troubleshooting.
+Assisting with VMware and windows OS recovery after a Ransomware attack.
+Installed VMWare Carbon Black on all Windows Server VM’s to protect from future Ransomware.
+Worked with VCenter and VMWare Horizon on cloud migration from local datacenter.
+Work on migration of VM’s from City Hall leased space to Alvarado Square and Azure and AWS clouds.
+Worked heavily with Bernalillo County’s Linux sftp server that was handling much of the file transfer traffic in and out of the county firewalls. SSH Key and PGP key management for production sftp server in the linux bash shell.
+Evaluated MoveIT as a replacement SFTP solution.
+Worked with Axway Sales Engineering and deployed Secure Transport MFT backend and edge clusters to replace the half dozen secure and insecure ftp and sftp server Bernalillo County was using.
+Utilized SolarWinds for monitoring DevOps and Production ESX guests.
+Handled ServiceNow tickets for vSphere, sftp servers.
+Worked with SCOM for Windows local server AD monitoring and management.
+Supported Exchange local control server for Azure Office 365 and Office 365 support.
+Wrote migration automation scripts in vSphere PowerCli for migration from Windows 2012 R2 to 2016 and 2019 depending on application server compatibility. Documented process.
+Worked with MS SQL Server database behind vSphere console.
+Wrote VCenter documentation for handoff to the engineering team.
+
+Automation Specialist
+fisglobal.com 2-2020 to 9-2021 (Contract)
+340 Madison Avenue New York, New York 10173 (Remote Role)
+At fisglobal.com I reported to the ACBS DevOps lead and was responsible for maintaining existing Ansible roles and creating new ones and wrote PowerShell automation for Windows OS maintenance and integration with ansible.
+Worked with the Azure cloud and network for 13 months.
+Ansible roles include the automated installation of oracle 12c and 19c databases and clients.
+A Windows Server 2012R2 patch broke the Oracle Installer on windows. Had to work with Oracle support for 3 weeks and ended up developing a general solution to their specific fix on the installer script since it turned out patching was broken as well.
+Source control was git to a central bit bucket server.
+Final work for the Datacenter Consolidation project was to define the steps for an Ansible installation process for installing Oracle 19c on Oracle Enterprise Linux in the Azure Cloud. The ACBS application was based on local databases on the box, and they had exceeded the scalability of local databases competing with the application server. I generated a 132 row Excel spreadsheet documenting the exact operations necessary to install and configure Oracle 19c on the OEL OS, so that the DevOps lead could easily convert the steps to an Ansible Linux script.
+Successful remote migration of 960 VM’s from CAPE I to the new CAPE II datacenter in Phoenix, AZ.
+There were also 10 legacy AS/400 machines from the first ACBS applications that had to be physically moved to the new CAPE II Datacenter.
+
+PDS Inc. 06-2019 to 10-2019 (Contract) Database Developer
+Evaluated Database development on Airtable for use as a materials properties database.
+Worked with Okta identity platform.
+Airtable is a cloud web publishing site with an Excel spreadsheet like GUI and does not have a separate backend database. It is optimized for attaching large blobs like pictures to the sites. Airtable is a flat file database but has some unreliably relational database functions that are still in the alpha development stage.
+There is a REST web API for data maintenance, that is poorly supported for development.
+Blue Origin was attempting to use it as a materials database and attempting to automate statistics calculations for material properties and manual data entry. I recommended they get a web developer that was familiar with nodejs, which is the Airtable supported environment for their rest web API or use Microsoft Excel as a front end for MS SQL Server.
+
+Configuration Management Engineer
+Tideworks Technology https://tideworks.com 8-2012 to 2-2019
+1131 SW Klickitat Way, Seattle, WA 98134
+• Technical Project Management and execution on migrating DevOps virtual test lab from obsolete production hardware on prem HW to 2 Cisco/Netapp Flexpods in a Class III co-location in Lynnwood, WA.
+• Used Jira for tracking DevOps work 40 hrs./week.
+• Used ServiceNow for DevOps ticketing for 5 years. The volume was 15-25 tickets a week, 25 when Network Engineering performed maintenance on the production WAN connection to the Lynnwood Colocation. • I was responsible for tickets on DevOps Wan, DevOps Oracle databases, DevOps Citrix, DevOps SAN, and DevOps vSphere issues.
+• Worked with VCenter on-prem for 2 years and for 5 years in a Class III Colo on 2 DevOps Cisco/Netapp Flexpods.
+• Citrix XenApp and XenDesktop administration and implementation.
+• Extensive work with Citrix Group Policy and Citrix desktop printing.
+• Active Directory file share and permissions management on Citrix deployment servers, Spinnaker and TC windows servers.
+• Trained production Citrix admins in XenApp 7.1x and documented and supported upward migration to XenApp 7.1x for customers without hardware onsite at their marine or rail shipping terminals.
+• Managed Windows patching on developer and UAT tester desktops and servers.
+• Install XenApp on 45 test deployment VM’s running 2008, 2012R2 and 2016.
+• AD domain management and installation of 400 windows guests.
+• Worked with SCOM for DevOps Window Management of 400 guests on co-location Flexpods.
+• Wrote a custom Visual Studio app that allowed developers or testers to import or export the Oracle schemas for Spinnaker and Traffic Control services running on the Citrix deployment servers.
+• Wrote workflow automation in PowerShell for Oracle Database Maintenance, Citrix web broker, and in vSphere PowerCli PowerShell Client for vSphere maintenance.
+• Certified MSCS 2012 and MSCS 2016 for Tideworks Spinnaker and Traffic Control windows services.
+• Wrote Jenkins scripts for servers on the DevOps Flexpods.
+• Supported Mainsail, Spinnaker, and Traffic Control Scrum teams.
+• Tier 1 support and database administration of Oracle 11g and 12c.
+• Developed vSphere template for Oracle 19c on Oracle Enterprise Linux.
+• Oracle backups were done by the DBA team through OEM. I ran independent schema exports for backups through vSphere PowerCli. OS backups were occasionally done through NetApp snapshots, but it was simpler to build a new VM with the Oracle and J2EE apps installed through Ansible/Buoy and import the current Oracle schema.
+• Bash scripting for automating tasks on Ubuntu and Centos Linux Oracle Database guests.
+• Worked with Jenkins and Maven systems built by development.
+• Worked with operations ServiceNow system and DevOps Jira.
+• Used Confluence for DevOps documentation.
+• DevOps Help Desk support for VMWare application servers, Citrix.
+• Supported and attended scrum sessions for development teams.
+• Extensive use of Wireshark for troubleshooting connectivity to the DevOps Colocation FlexPods.
+• Used PowerShell for Citrix automation and support leveraging the Citrix REST Api.
+• Extensive work with vSphere PowerCli for monitoring and managing virtual machines.
+• Windows Alpha and Beta testing of in house Ansible Web wrapper named Buoy.
+• One year of data entry assisting with onboarding of new Tideworks customers.
+
+Middleware Engineer III
+Premera Blue Cross of Washington and Alaska 12-2001 to 5-2012
+• Implemented Mercator Middleware on Windows.
+• Supported X12 EDI transactions 835, 837, 270, 271, 276 in Mercator.
+• Technical Project manager on Siebel CRM implementation and support.
+• Microsoft Biztalk 2006R2 implementation for Sibel CRM integration.
+• Assisted with maintenance on production ServiceNow, managed DEV/UAT SNOW.
+• Worked with UAT SharePoint server maintenance and upgrades.
+• IBM WebSphere MQSeries windows server support.
+• Production Help Desk for Middleware Windows-z/OS, Siebel CRM, and Axway EFT and MFT.
+• Developed a Windows file server with monitoring and OCR transfer automation that worked with a dedicated cisco router in a small mobile rack cabinet at ImageNet. This dramatically improved claims intake and processing.
+• Implemented and administered Tumbleweed/Axway Secure Transport MFT for 10 years.
+• As the Secure Transport SME, I was the primary Middleware Engineer for monitoring the evening Facets batch.
+• PGP and SSH key pair management through the Secure Transport Administrative interface and on the command line in linux.
+• Worked with MoveIT Freely for 1 year for one of Premera’s trading partners until I could transition them to using the Tumbleweed Fat Client.
+• Then utilized MoveIT Freely as an emergency backup for Axway Secure Transport for 5 years. SSH Key and PGP key management in Moveit for backup sftp server.
+• Wrote a custom bank API in Tumbleweed workflow that used custom PowerShell scripts and WinSCP to enable facets batch processing of SCP transactions to Bank of America.
+• Worked with Wrinklebrain to implement their federated identity solution in Secure Transport for the Premera EDI clearinghouse, which was HIPAA, FIPS and Sarbanes-Oxley compliant.
+• Worked with Axway MFT development in Sophia Bulgaria and Wrinklebrain on migration of the EDI clearinghouse from Tumbleweed 4.6 to Axway 4.7 MFT after the merger.
+• Handled ServiceNow tickets for Mercator Middleware and Managed File Transfer.
+• Disaster Recovery AD Architecture and implementation for Middleware and production MFT, using Doubletake to a DR datacenter. Wrote PowerShell workflow automation for Middleware and Axway Secure Transport backups to DR. Also supported DBA team Disaster Recovery on an OS level.
+• Wrote Middleware and MFT disaster recovery documentation.
+• Windows System Administration on Middleware and Secure Transport servers.
+• Worked with NetScalar load balancer for 1 year before the platform was acquired by Citrix.
+
+Webex Inc. 10-2000 to 7-2001
+Deployment Engineer
+Responsible for building, administration and patching WebEx Meeting Manager server groups and administering the Windows OS on them.
+Database administration and backup systems for WebEx membership databases running on MS SQL Server.
+Architected and deployed windows backup strategy for Meeting Management server groups, protecting customer membership and branding data.
+Worked with PHP as Webex was moving from Windows/MS SQL Server platform to Sun Micro hardware and OS.
+
+Omnis Software Inc. 1-2000 to 10-2000
+Technical Strategist
+Responsible for comparing the Omnis Studio 4GL O-O development tool with competitors, writing white papers and defining directions for product development. PHP beat Omnis hands down.
+Extensive technical writing on updating Omnis training software and training manuals for Studio 3.
+Linux World attendance at Omnis booth and support for onsite installation of new software builds for our demo application.
+Systems upgrades and administration on Windows 98/NT4, Linux, Mac, WAN/LAN admin, DNS, Firewall, VPN installation and administration.
+Oracle 7.2 on Windows NT 4.0 Administration and upgrading the accounting database to Oracle 8i on RHEL Linux.
+
+Progress Developer/DBA
+Savoir Technology Group Inc. 6-1995 to 12-1999
+• Supervised 2 Progress® programmers and an EDI programmer.
+• Evaluated a 4th Dimension application written by one of the partners at a Chicago distributor acquisition to see if it was suitable for running the enterprise. The developer partner was a mainframe developer and did not use any relational database functions and some other 4th Dimension features, making it totally unscalable.
+• Technical Project Manager on the NxTrend Progress based Distribution ERP Implementation.
+• Wrote ~150 custom reports in Progress® for Trend®.
+• Worked with Sterling Connect Direct for about a year before adopting NXTrend, they were affiliated with St. Paul Software.
+• Operating Systems upgrades and administration for Progress on Unix, Windows 98/NT, Linux, Macintosh, limited WAN/LAN administration, DNS, PIX Firewall, VPN installation and administration.
+• Limited use and coding in Sterling Commerce EDI tool before Savoir adopted NxTrend platform.
+• Database Analysis, Design, Development in Progress® 7.x –8.x Character Mode on NXTrend® ERP distribution package.
+• Progress® DBA and Performance Tuning on DG/UX and AIX Unix.
+• EDI Program management, development, integration with Progress® Trend® Distribution package.
+• Design and implementation of migration to IBM RS 6000 S7A hardware from Data General quad Pentium host.
+• Systems Administration in DG/UX 4.11 and AIX 4.3.
+• Worked with IBM sales and developed a mini data warehouse application to preserve EDI inventory and sales data for our IBM distribution.
+• Implemented 856 Advance Shipping Notice for IBM Disk Drive receiving and sales.
+• We were IBM’s primary disk drive distributor and sold a lot of pre-general release new hard drives to our customers.
+• Wrote IBM EDI Sales and Inventory documentation in Trend for operations including the IBM sales and inventory data warehouse snapshots.
+• Developed a confidential HR database for accurate sales commission analysis and reporting.
+
+Systems Administrator/CIM Coordinator
+Isola USA Corp 8-1985 to 11-1995
+Architected and implemented Quality performance reporting and production analysis systems using 4th Dimension Macintosh which decreased production scrap by 50%.
+Installed AppleTalk to 10 Megabit Ethernet coaxial cable gateway so older Macintoshes could communicate with newer machines that had 10BaseT cards.
+Assisted maintenance with installation of ethernet coaxial cabling for Macintosh and shop floor PC integration.
+Extensive Business data reengineering and Conversion from Progress based Symix® and 4D based Quality and process control systems with SQL/400 and the TechGnosis SequeLink® API.
+Technical Manger on implementation of PRISM® Process ERP.
+AS/400 Installation and Administration, with SQL/400 and CL.
+J.D. Edwards Financials installation, maintenance and report writing.
+AS/400 to PC and Mac Integration, LAN design and implementation.
+Installed Apple/IBM SNAPS Token Ring interface in a Macintosh server for communication with Token Ring AS/400 network interface.
+Installed Netware for SAA and token ring card in Netware SQC PAC. server. Trained employees in Statistical Process Control methodology, designed experiments.
+Assistant Q/A Manager at Advanced Dielectrics (1 1/2 Yr.)
+Supervised 14 Inspectors on 3 shifts.
+Maintained Government MIL-P-13949F qualifications and managed periodic testing.
+Novell Netware 2.2 – 4.1 installation, administration.
+Built first Netware 2.2 server with parts from Fry’s Electronics using an Intel 386SX processor. Was configured with 16 slot card with 8 1 Megabyte SIP sticks to augment 1 Megabyte motherboard memory and get past the DOS 6.22 memory limitations.
+Installed BradyWriter® label printing system and worked with vendor to develop custom MIL-P-13949F compliant labels.
+Installed SQC Pak Application on Novell Netware 2.2 server.
+Integrated single head pneumatic thickness measurement device with SQC Pak for manual panel checking in Q/A.
+Co-Developed and engineered inline thickness measurement system for SQC Pak in shearing, documented, trained operators.
+Trained employees in Statistical Process Control methodology, designed experiments.
+Led Six Sigma process improvement program started by the V.P of Sales and Operations.
+Moved Q/A results entry from paper to a 4th Dimension database, integrated Macintosh with BradyWriter® for consistent MIL-P-13949F labels so customer could legally receive MIL-P-13949F laminates and pre-preg sheets and panels.
+Process Engineer at Advanced Dielectrics (1 1/2 Yr.)
+Lamination Process Engineering.
+Engineering for Mass Lam Photo Tooling.
+New Product Development.
+Prototyped and Implemented Vacuum Lamination at plant.
+Century-Norcal Laminators 6-1980 to 12-1984
+Process Engineering and Quality Assurance Supervisor
+Lamination Process Engineering, Q/A and Production supervision.
+Quality Assurance Supervision and development of on-site Q/A test lab with etcher.
+Production equipment redesign and engineering support for maintenance.
+EDUCATION
+
+1973 - 1977 University of Santa Clara Santa Clara, CA
+Chemistry Major
+Completed 3 1/2 years of work towards B.S. in Organic Chemistry.
+Graduate of Sunnyvale High School, Sunnyvale, CA in 1973
+As a Junior at Sunnyvale High in 1972, I attended a 1-year class in Fortran 4, as far as I know the first computer programming class taught in a Silicon Valley high school. Got an A in the class for attempting to write a scheduling program for the Inhalation Therapy Department at the Palo Alto Veteran’s hospital where my mother worked.
+
+ACCREDITATIONS AND TRAINING CLASSES
+
+Certifications in Progress Version 7, Progress DBA, Results
+Certification in Progress Performance Tuning
+Certification in St. Paul Software's spEDItran, spEDImap
+Certification in NXTrend Blueprint (Trend renamed themselves .nextecgroup.com in 1994)
+Certificate in Trend reporting
+Certificate in Trend EDI integration with St. Paul Software’s spEDItran, spEDImap
+Certificates in SPC and Activities Based Costing through the IPC
+Certificate in 4D® 3.0 from ACI-US
+Certificate in AS/400 System Administration
+Novell Education Certificate in Netware for SAA
+Tumbleweed Secure Transport Systems Admin (AKA Axway Secure Transport after merger)
+ITIL level 1 Certification at Premera Blue Cross
+Siebel Essentials training 15-day course at Oracle U in Bellevue while working at Premera Blue Cross.
+Oracle Applications DBA training for E-Business Suite, a 10-day course at Oracle U in Bellevue.
+Oracle Applications support Admin training for E-Business Suite, a 5-day course at Oracle U in Bellevue.
+Microsoft BizTalk Systems Administration course.
+Microsoft Internet Explorer course oriented towards System Administration and Development
+Windows PowerShell for System Administration course
+Certificate in VSphere VCDR
+
+Paul Goddard Skills Matrix
+Last Used
+Years Exp. Cumulative
+Rating 1-10
+Hands on Exp
+Windows server OS and AD
+2022
+~10 over 25 years
+8
+Yes
+Windows Desktop
+2019
+4 off and on
+6
+Yes
+PowerShell Windows
+2022
+4
+9
+Yes
+Korn and Bourne shells, Linux bash
+1999
+4
+8
+Yes
+VMWare/vSphere
+2022
+7
+8
+Yes
+Hyper-V
+2019
+2
+7
+Yes
+Disaster Recovery and Architecture
+2004-2012
+2 over 5 years
+8
+Yes
+4GL RDBMS
+1999
+10
+8
+Yes
+MS SQL Server
+2019
+4 years
+6
+Yes
+Oracle 8i 10g 11g 12c 19c admin
+2021
+9 years tier 1 DBA
+8
+Yes
+DevOps
+2019
+4 cumulative
+7
+Yes
+AWS
+2022
+2.5
+6
+Yes
+Azure
+2021
+1
+7
+Yes
+Citrix XenApp/XenDesktop
+2019
+4
+8
+Yes
+Tumbleweed/Axway MFT
+2022
+10
+8
+Yes
+Ansible Windows
+2021
+1 year
+8
+Yes
+Ansible Linux and PowerShell Linux
+2022
+3 years
+7
+Yes
+Offshore DevOps Help Desk, Middleware Help Desk
+2019
+9 years
+9
+Yes
+Technical Project Management
+2021
+5 years
+7
+Yes
+Technical Writing
+2021
+3 years
+7
+Yes
+Contact this candidate

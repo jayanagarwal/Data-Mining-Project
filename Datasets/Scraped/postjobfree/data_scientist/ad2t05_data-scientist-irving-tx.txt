@@ -1,0 +1,27 @@
+Chirag Tagadiya
+ad2t05@r.postjobfree.com 617-***-**** Boston, MA http://www.linkedin.com/in/chiragtagadiya github.com/cr21 EDUCATION:
+Master of Science, Artificial Intelligence Northeastern University, USA GPA: 3.83/4.0 Dec 2022 Bachelor of Science, Information Technology L.D. College of Engineering, India GPA: 3.5/4.0 May 2016 SKILLS:
+Programming/Data Languages: Python, Java, C++, SQL, JavaScript, Node JS, scala Analytical/Business Intelligence/ETL Tools: PySpark, Kafka, Glue, AWS, Tableau, Microsoft Excel, Elastic Search, Kibana, ELK Data Management: Oracle, MySQL, Hive, PostgreSQL, MongoDB, Redis Frameworks/Libraries: Keras, Tensorflow, Pytorch, NLTK, Spacy, Scipy, Pandas, Numpy Statistical/ ML Skills: Regression, Classification, A/B Testing, Unsupervised ML, Decision Tree, Hypothesis Testing, NLP, MLOps WORK EXPERIENCE:
+Data Scientist Contract Feb 2023 - Present
+Verizon Irving, TX, USA
+• Combined Network performance, Customer Activity, heartbeats, Customer Experience, customer call activity data to create top 10 indicators for churned customers, built Decision Tree, Logistic Regression Model to predict the high propensity likely churned customers. Built SCD data pipeline to capture churn indicator features at daily level. maintained feature store to monitor change.
+• Slash the FWA churn rate by 20 % by identifying top high propensity customers using Network poor performance indicators.
+• Prototyped end to end NLP pipeline integrating AWS s3 for storage, Lambda for transformation, transcribe for audio-to-text conversion, and SageMaker for model development.
+• Developed NLP model using technique like word embeddings, topic modeling, information extraction on customer feedback, call center transcripts to understand customer feedback, interactions, and sentiments.
+• Corelated FWA data sets with Speed Test, Location Violations, RTT, outage related data, identified data gaps using EDA, feature engineering, feature selection using information value and weight of evidence, evaluation & validation.
+• Created Feature Engineering pipeline to create 360-degree Network Performance visibility, one stop platform to monitor, diagnose and resolve network issues, created ML based near real-time proactive monitoring system using alarms and heartbeats.
+• Set up Data Pipeline to extract, process application, web server, system, authorization logs. Configure pipeline to ingest transformed data into Elasticsearch, build dashboard using Kibana visualization for real time alert and monitoring.
+• Built SQL Stored Procedure to calculate Hourly and daily aggregation on growing data for Verizon Devices and Heartbeat Aggregations, Built stored procedure for proactive monitoring of more than 20 data source.
+• Led the Data migration processes from Oracle to Spark on Cloudera platform, successfully loaded and transferred data from MongoDB, File system, Oracle, Message Queues, and Kafka. Converted Oracle Stored procedure to PySpark Batch Job.
+• Python concurrent programming and multi-processing to concurrently load parquet files to Oracle environment, reduced data loading time from 8 hours to 2 hours. prepare clean & aggregated data for Customer Churn Analysis Software Engineer (Data) Co-op Jun 2021 - Dec 2021 Kythera Space solutions Bethesda, MD, USA
+• Ensured accuracy through data integrity queries, conducted statistical tests and data validation to check for null hypothesis, triggered alarm for erroneous feature, data drift, detect anomalies that significantly improves testing time by 25%
+• Developed anomalies detection service in python/ C++ to compare satellite configuration files to detect mismatches and outliers
+• Created micro ETL data pipeline using AWS lambda to trigger time-based event to ingest raw data from external sources, transformed content to parquet file, executed analytical queries on transformed data, save clean data to feature store (s3) Data Scientist Jan 2019 – Dec 2019
+Cousins Infotech Surat, India
+• Automated verification of data quality at scale by processing hundreds of validations using aggregated SQL on growing dataset
+• Trained CNN model using Pytorch to generate product embeddings on 35000+ Product Image belonging to 150+ product categories, combined Image and Text embeddings, integrate search pipeline using Facebook Faiss, achieved 0.82 F1 score.
+• Facilitated efficient query pipeline for product search using NLTK, Spacy, Elasticsearch to support spell checking, NLU, user intent analysis, partial matching, fuzzy matching, boosted top@k Click through Rate and revenue.
+• Wrote python script to mine logging events created from search application, transformed events to per query metrics, aggregated per query metrics into statistical summaries to show metric over time on dashboards. Application Development Analyst Jan 2017 – June 2018 Accenture plc Pune, India
+• Built document processing Pipeline to process thousands of healthcare documents in minutes with fast PDF labeling tools, automated workflow represented 30%+ increase in total time savings, as well as months of custom work in engineering hour
+• Trained Custom Entity tagging model (NER) model for finance, legal and healthcare data to recognize product specification, company, brand, shipment details, and order details from customer complaint, reduced complaint resolution time by 50%
+Contact this candidate

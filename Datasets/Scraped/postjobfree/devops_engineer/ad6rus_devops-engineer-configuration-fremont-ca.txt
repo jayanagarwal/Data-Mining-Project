@@ -1,0 +1,122 @@
+BHAVYA K
+DevOps Engineer ad6rus@r.postjobfree.com 650-***-****
+SUMMARY
+* ******* ********** ******** ********/Build & ReleaseEngineer.
+In-depth understanding of Software Configuration Management (SCM)processes whichincludecompiling,packaging and deploying of various applications.
+Good experience with Continuous Integration and Deployment methodologies using Jenkins,Hudson,and Configuration Management tools such asAnsible/Chef/PuppetandDocker containersfor environment independence.
+Experienced in Configuring andDeployinginfrastructureandapplicationsintocloudusingAWSresourcessuchasEC2 instances,S3,RDS,EBS,VPC,SNS,IAM policies,Route 53,Auto scaling,CloudFront,Cloud Watch,Cloud Trail, Cloud Formation, OpsWork, Security Groupsfocusingon fault tolerance and high availability.
+Experience working on User admin groups, maintaining account and monitoring system performance using Nagios.
+Experience in working with different build automation tools likeJenkinsandMavento achieve End-to-EndAutomation.
+ExperiencedinmaintainingDockercontainerswithKubernetestoautomatethedockercontainermaintenancebyusingit and worked on withREST API.
+Good working experience on several prototype projects involving clustered container orchestration and management. Contributed aMySQLcluster application to theKubernetesproject.
+Extensively used Docker for virtualization,Ship,Run and Deploy the application securely to fasten the Build/Release Engineering.
+Experience in using version control systems like Subversion (SVN) and different flavors of GIT.
+Strong knowledge on source control concepts like Branches, Merges, and Tags.
+Experience working with log monitoring with ELK Stack (Elasticsearch, Logstash, Kibana).
+Stay current with the latest features/capabilities of the AWS platform.
+Engineer,manage,and support source control and binary repository systems such as BitBucket /Stash,Git,SVN,and Nexus.
+Experience working with Puppet Enterprise and Puppet Open Source.Installed,configured,upgraded and managed Puppet Master, Agents & Databases. Integration ofPuppet with Apache and Passenger.
+Experience with container based deployments using Docker,working with Docker images,Docker hub and Docker registries.
+Experienced in implementing and maintaining an Apache/Tomcat/MySQL/LDAP, XAMPP web service environment.
+Experiencesupporting 24x7 productionand providingon-call& weekend support.
+ExtensiveexperiencewithKickStartServerandJumpStartServertoinstallOperatingsystemsacrossmultiplemachines at a time.
+TECHNICAL SKILLS
+Programming Python,Shell Scripting
+IaaS AWS, Azure
+Source Control/Versioning SVN, GIT
+CI Tools Bamboo, Jenkins
+Configuration Puppet, Chef, Ansible
+Containerization Docker, Kubernetes
+Build Tools Maven, Ant
+Web Servers Web logic, WebSphere, Apache Tomcat, JBOSS, Nginx OS Linux, Windows
+Databases Oracle, MySQL, Postgresql, MongoDB
+Bug Tracking Tools JIRA, Remedy
+Monitoring tools Nagios, Splunk, Datadog
+PROFESSIONAL EXPERIENCE
+Idelic Pittsburgh, PA DevOpsEngineer
+09/2022 – Till Date
+Implemented anAgile SDLCand refined theSoftwareConfiguration Management (SCM)infrastructure.
+Utilized the YAML language to create,manage,and deploy Kubernetes objects such as pods services,namespaces, applications, and replication sets.
+UsedKubernetes,scaled, load balanced, scaled, andmanagedDockercontainers across multiple namespaces.
+Used Ansible to migrate monolithicandlegacysystemstoAmazonWebServices.UsedTerraformscriptstoconfigure AWS resources.
+DevelopedcustomtoolsinPythonforgeneratingemailtemplatesthatarecapableofconsuminglargeamountsofdata and presenting testing results in a simple manner.
+Maintained the useraccounts, IAM Roles, VPC, RDB,DynamoDB, SES, SQS,andSNSservices onAWS.
+UtilizedAWSservicessuchasIAM,route53,EC2,EBS,AMI,Autoscaling,VPC,loadbalancing,RDS,VPC,ECS,Cloud watch, Cloud training, SNS,etc.
+UsedELK stackto log all activity and create indexesthat can be accessed byKibana.
+DevelopedAnsibleplaybooks for automatic server installationofIBM WebSphere.
+Implemented security policies for hardeningRedHatLinuxbased on company policies and installing itusingkickstart.
+Worked extensively withTerraforminAWSto automaticallysetup and modify settings.
+IntegratedJenkinswith continuous integration toolsto support code builds.
+Used version control software such asGITto managethe source code.
+Documented process documentsforJenkins,GIT,CDPipelineandCodedeploymentguideforDevelopers,Testersand Production Management.
+Integrated Jenkins with Ansible and used CI/CD system for Jenkins on Kubernetes container environment.Used KubernetesandDockeras the runtime environment fortheCI/CDsystem.
+Developed Maven scripts,installed Jenkins,and wrote shell scripts to automate end-to-end build and deployment processes.
+Maintained the QA environment,fixed QA issues,and maintained the DB versionaccordingtothereleases.Published code andDBas per business requirements on production and staging.
+Enhanced AWS Backend (EC2,RDS,EKS)reliability and response efficiency through comprehensive monitoring with DataDog, including the development of liveness and resource utilization alerts.
+StreamlinedJenkinsCI/CDpipelinesbyimplementingtargetedmonitoringwithDataDog.Improvedpipelinereliabilityby identifying and resolving stuck job, ensuring consistent workflow performance and reducing downtime Environment:Python, DevOps,Ansible, Jenkins, Maven, Kubernetes, Terraform, GIT, AWS, Tomcat, Red hat Linux. Zenith Insurance Woodland Hills, CA DevOps Engineer 02/2022 – 08/2022
+Engineered AWS solutions using services such as EC2, S3, RDS, EBS, ElasticLoad Balancer, and Auto Scaling groups, with a focus on optimizing EC2 volumes and instances for enhanced efficiency.
+Developed and managed a repository of reusable deployment templates, expediting project launches and maintaining consistency across projects.
+Automated log rotation for web server-generated logsusing Python scripts, enhancing operational efficiency.
+Proficiently utilized pom.xml and build.xml to compile builds efficiently.
+Implemented Master-Slave architecture within Jenkins to optimize performance.
+Managed and administered Git as the primary source code tool.
+Integrated Maven with Git to streamline project tagmanagement and deployment processes.
+Collaborated closely with software development and quality assurance teams to deploy application packagesonto Apache Tomcat servers.
+Orchestrated deployment of build artifacts into QA and UAT environments in alignment with the build life cycle.
+Executed SQL queries to ensure accurate transaction recording in the database.
+Managed AWS IAM for creating new accounts, roles,and groups, alongside handling the installation, configuration, and maintenance of DNS using Route53.
+Environment:MAVEN, Apache Tomcat, shell scripting,Puppet, Nagios, Jenkins, MySQL, GIT, GITHUB, LINUX. Virinchi Technologies Ltd Hyderabad, India DevOps Engineer 11/2018 – 12/2021
+Developed an automated build and deployment process for the application,reengineered the setup to improve user experience, and created a continuous integration environment.
+ImplementedSoftware Release Managementstrategiesfor various applications, following agile methodology.
+Developed scripts and ideas for automating system deployment so infrastructure could be scaled.
+Created documents on the build and releaseprocessandflow,releaseprocesses,orderofactivitiesforallreleases,and user guides for developers.
+Developed and deployed Python,and AWS Lambda web applications and services,andworkedwithAmazonKinesis withAWS Lambda.
+ImplementedAnsiblemodules for provisioning and managingAWS EC2 instances, volumes, DNS,andS3.
+DevelopedandimplementedContinuousIntegration(CI)andContinuousDelivery(CD)processesusingJenkins,Python, andshell scripts.
+Installed, Configured and AdministeredJenkinsContinuousIntegration Tools.
+Developed,implemented,and managed New Branching strategies tosupporttrunks,developmentbaselinecodes,and several feature branches for development teams.
+Establishedbranchingandmergingstrategies,definingcheckinpolicies,improvingcodequality,automatinggatedcheck in procedures, and defining backup and archiving procedures.
+Developed new build frameworks usingJenkinsandMavenfor new projects.
+Developed an automation framework for cloud-based application deployments.
+Implemented AWS solutions with EC2,S3,RDS,EBS,elastic load balancers,auto-scaling groups,and optimized volumes.
+Worked with Version Control Tools:GITto branch,tag, and release.
+Developed CI/CD system using Jenkins on Kubernetes container environment,utilizing Kubernetes as the runtime environment for theCI/CDsystem.
+Performed and deployed builds for various environments includingQA, Integration, UAT,andProduction.
+Worked on the cloud-based diagramming software called Gliffy for creating different types of design documents for continuous integration.
+Organized and coordinated productreleases,workingcloselywithproductdevelopment,QA,andsupportacrossglobal locations.
+Developed and deployed development environments with Ansible on Amazon AWS and EC2,and tested them with Jenkins.
+Documented release metrics and software configuration processes.Used Maven scripts to build the source code. Supported and helped develop Dynamic Views and Snapshot Views.
+Installed and configured the monitoring toolNagios.
+Worked onApacheandFirewallsboth in developmentand production environments.
+Deployed andconfiguredAtlassianJira,bothhostedandlocalinstances,forissuetracking,workflowcollaboration,and toolchain automation.
+Resolved 95%of build failures caused by infrastructure issues.Executed process to implement code review system effectively.
+Environment:Python, AWS, Jenkins, Maven, Nagios,SQL, Ansible, Kubernetes, IBM WebSphere, Git, JIRA, XML, Linux. Incessant Hyderabad, India DevOpsEngineer
+01/2017 – 10/2018
+Configured Jenkins with comprehensive build credentialsand user permissions to streamline the CI/CD pipeline.
+Maintained and managed Ansible Playbooks for deployingframeworks and other cloud tools, ensuring smooth operations.
+Successfully migrated legacy and monolithic systemsto Amazon Web Services (AWS)using Ansible, leveraging terraform scripts for configuring AWS resources.
+Scripted Ansible commands to efficiently restart servicesacross production servers, enhancing operational resilience.
+Leveraged AWS CloudWatch to ensure high availabilityof applications and EC2 instances through Auto Scaling based on load dynamics.
+Implemented AWS S3 buckets and Glacier for storageand backup purposes, meticulously managing associated policies.
+Orchestrated IAM policies to regulate access to variousAWS resources, optimizing workflow structures for access management.
+Managed Docker volumes, performed image maintenancetasks, and crafted Docker images using Dockerfiles.
+Developed, tested, and deployed CI/CD systems utilizing Jenkinswithin Kubernetes container environments, leveraging Kubernetes and Docker for runtime environments.
+Automated Docker image creation using Jenkins andDocker, enhancing deployment efficiency.
+Monitored server and application health using Nagios,with Apache or Nginx employed for web server administration.
+Utilized Maven build tools in Jenkins scripts forseamless environment transitions within the CI/CD pipeline.
+Integrated Git into the CI environment alongside Jenkins,facilitating efficient version control workflows.
+Implemented Jenkins within the CI/CD pipeline to fostercontinuous improvement in agile software development teams. Environment:AWS, Cloud Formation, Ansible, CI/CD,Docker, Jenkins, Maven, Nagios, Git, Bash, Shell Scripting, Windows, and Linux.
+Nihilent Technologies Pune, India Build & Release Engineer 08/2015 – 12/2016
+WorkedwithtwodevelopmentteamsasaDevOps/Releasemanager,receivedallthenecessaryapprovals,signoffsfrom all stakeholders.
+Developed an automated build and deployment process for the application,reengineered the setup to improve user experience, and created a continuous integration environment.
+DevelopedandimplementedContinuousIntegration(CI)andContinuousDelivery(CD)processesusingJenkins,Python, andshell scripts.
+Assisted with setting up the build usingAnsiblefora project.
+Developed,implemented,and managed New Branching strategies tosupporttrunks,developmentbaselinecodes,and several feature branches for development teams.
+Developed new build frameworks usingJenkinsandMavenfor new projects.
+Implemented AWS solutions with EC2,S3,RDS,EBS,elastic load balancers,auto-scaling groups,and optimized volumes.
+Worked with version control tools,GIT, to performbranching, tagging, and release activities.
+Executed and deployed builds forQA, Integration,UAT,and Production environments.
+Developed and deployed development environments using Ansible to Amazon AWS and EC2,and tested them with Jenkins.
+Installed and configuredNagios,a monitoring tool.
+Installed and configuredAtlassian Jirafor issuetracking, workflow collaboration, and toolchain automation. Environment:Jenkins, Maven, Nagios, SQL, Ansible,AWS, IBM WebSphere, Python, Docker, Git, JIRA, XML, Linux.
+Contact this candidate

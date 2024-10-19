@@ -1,0 +1,75 @@
+Vishal Kumar Naroju
+(Associate Data Engineer)
+Hyderabad, Telangana, ph. 966-***-**** ad7e7g@r.postjobfree.com Carrier Objective:
+To Work in an organization that utilizes my strong analytical and programming skills, adding value to the organization and to build a strong career.
+Professional Summary
+Having Around 2+ Years of Professional IT Experience with MLOPs, AWS, Snowflake, python, Matillion
+Well Versed in Python Modules like Numpy, pandas, Scikit learn, boto3
+Conversant in python data visualization module like matplotlib, seaborn
+Built Docker Images using python
+Hands-on-experience in pyspark
+Exposure on Git and GitHub Version Control
+Conversant in Visualization tools i.e., PowerBI, Tableau, ThoughtSpot
+AWS:
+Understanding of data modelling concepts
+Develop, integrate and test data for data integration and data modelling
+Exploratory Data analysis in AWS Sagemaker using Python
+Can automate data workflow using AWS services (Lambda, EventBridge, Notebook jobs, Notebook Instances, S3 etc.)
+Build stacks and templates using AWS Cloud Formation Templates
+Roles and Policy Creation in AWS IAM service
+Working with AWS S3 Buckets and S3 Storage classes
+Well versed with logs and log groups in AWS CloudWatch
+Real time application monitoring and log analytics using AWS OpenSearch
+Snowflake:
+Well versed in developing SQL queries for analysing data
+Defining tables and their structures
+Conversant with Data Warehousing methodologies
+Defining virtual warehouse sizing for different types of workloads
+Loading data into Snowflake tables from internal stages using SnowSQL
+Well Versed in ELT operations using SQL
+Stored procedure and Tasks creation
+Parsing JSON Data to columns
+ETL:
+Developed Data integration Components in Matillion
+Developed and scheduled Matillion Workflows for data transformation
+Defining environmental and job variables rather than hard coding the value
+Loading data from S3 buckets to Talend using Talend jobs and components
+Exposure on scheduling workflow using Airflow
+Well conversant with Kafka
+Education
+B.Tech from JNTU Hyderabad University in 2021
+Technical Skills
+Languages SQL, Python
+Databases SQL Server, Snowflake, Postgres
+ETL Tools Matillion, Alteryx, Talend (beginner)
+Tools & Utilities GitHub, Docker, Kafka (beginner) Cloud Application AWS, SnowSQL
+BI Reporting Tools PowerBI, Tableau, ThoughtSpot
+Achievements
+I have achieved SnowPro Core certification from Snowflake. Projects
+Project #3
+Project: Real Time Data warehouse Build – Western union Project Duration: Dec 2023 to Feb 2024
+Technologies: AWS, Snowflake
+Project Description:
+In this project, we have developed the NRT (Near-Real-Time) Data Loading to Snowflake, by processing and optimizing the batch data to multiple tables. These tables supports multiple teams each covering a business vertical.
+Roles & Responsibilities:
+1. Monitoring the snowflake tasks, which load data from Raw to detail table and detail to partition tables (sub tables)
+2. Working with Snowflake jobs to avoid failed cases or activities that ran longer than planned
+3. Monitoring whether the data processed to the required tables and S3 bucket. 4. Working on AWS logs, to ensure data is processing every minute 5. Performing the functional testing on the Snowflake tasks and stored procedures in different environments.
+Project #2
+Project: ETL Migration – Western union
+Project Duration: Aug 2023 to Dec 2023
+Technologies: Matillion, Alteryx, Python, Snowflake Project Description:
+In this project, to remove the Alteryx processes from on-premises and migrate to a cloud platform (matillion). We were also able to reduce the cost effect of the ETL tool because of the license-based pricing mechanism of Alteryx and the usage-based billing of Matillion. Roles & Responsibilities:
+1. Developing the different ETL Workflows in the matillion 2. Staging the raw data in snowflake staging area and then transformed it, since there is no temporary storage in matillion
+3. Matillion components that work best with the earlier Alteryx components have been researched
+4. Similar substitute components that aren't present in the matillion were created using the SQL code
+5. Monitoring and scheduling the workflows to produce the final snowflake table 6. Instead of hard coding the parameters, used environment and job variables Project #1
+Project: ML Operations – Western union
+Project Duration: Jan 2023 to Aug 2023
+Technologies: AWS Sagemaker, AWS Lambda, AWS EventBridge, AWS S3, IAM, CloudFormation Template, ECR, Python, Docker, Snowflake.
+Project Description:
+In this project, we monitor and manage the AI/ML environment of a big fintech firm that acts as a backbone to the company's experimentation with machine learning models. The environment supports multiple teams each covering a business vertical. We manage the provisioning of storage, security (authentication and authorization) and model deployments across all these teams. Roles & Responsibilities:
+1. Maintaining the Sagemaker environment (including IAM roles) 2. Deploying the ML models at scale using AWS Lambda and EventBridge or s3 triggers for model invocations
+3. Supporting multiple teams in the environment to on-board their ML workflows 4. Deployed nearly 10-12 Container images in AWS ECR 5. Effectively worked on Cost-optimization methods on AWS resources (S3, Sagemaker)
+6. Enabled lifecycle management policies on various S3 buckets 7. Deployed IAM roles and various AWS services using Service Catalog 8. Supported maintenance of various AI/ML models
+Contact this candidate

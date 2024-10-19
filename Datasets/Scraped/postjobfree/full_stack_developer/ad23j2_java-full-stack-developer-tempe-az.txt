@@ -1,0 +1,43 @@
+JEEVAN REDDY SURAPU REDDY
+774-***-**** • ad23j2@r.postjobfree.com • linkedin.com/in/jeevan-surapu-reddy SUMMARY
+Result-oriented developer with around 5 years of experience in java full-stack development, object-oriented programming, and microservices deployed in the cloud. Led the team of 5 to develop complex web applications from analysis to production, ensuring high performance, scalability, and security working in agile teams. EDUCATION
+M.S. Information Technology 12/2023
+Arizona State University, Tempe, AZ 4.00/4.00
+B.Tech. Computer Science & Engineering 05/2018
+Sree Vidyanikethan Engineering College, Tirupati, India 7.67/10.00 TECHNICAL SKILLS
+Languages: Java, J2EE, JavaScript, Python, SQL
+J2EE Technologies: JSP, Servlets, JDBC, JPA, JAXB
+Front-End: HTML5, CSS3, Angular, Bootstrap,
+Tools & Databases: Oracle, MySQL, MongoDB, Git, Hibernate, Data Bricks, Data Modeling, SonarQube, Kafka, Jenkins Frameworks: Spring, Spring Boot, Junit, Mockito, Easy Mock, Microservices, Restful Webservices Certifications: AWS Certified Developer Associate, Azure Data Fundamentals, Azure Data Engineer Associate PROFESSIONAL EXPERIENCE
+Document Management System (Volunteer) 02/2023 – 08/2023 Arizona State University, Tempe, AZ
+● Worked on splitting a monolith application into different microservices and handled a microservice for document management system.
+● Enabled Hystrix with fallback options to isolate the point of access different microservices.
+● Integrated Apache Kafka for queuing the messages for downstream applications to consume.
+● Created a UI using Angular 8 and with the Spring boot backend and hosted the same on EC2.
+● Crafted and implemented a resilient architecture to store documents in AWS S3.
+● Configured Amazon Route 53 to manage domain's DNS and directed requests to an Elastic Load Balancer (ELB) in AWS.
+● Utilized AWS RDS with Oracle as the database engine for the database layer within the architecture.
+● Enabled AWS Cloud watch to monitor the applications and get data with actionable insights for improved mean time resolution.
+Deloitte USI, Hyderabad, India: Java Full Stack Developer Client: Kroger Pharmacy 01/2021 – 12/2022
+● Modernized legacy applications by integrating new features, developing utility tools, and creating plugins to eliminate redundant code, resulting in a 30% reduction in application crashes and improved performance metrics.
+● Led the transformation of a legacy application by architecting and implementing 3 microservices for enhanced scalability and maintainability.
+● Implemented Apache Kafka as a robust data-sharing solution between microservices, enhancing communication efficiency and ensuring seamless data flow within the distributed system.
+● Used SonarQube Analysis for code quality to detect bugs, code smells and security vulnerabilities.
+● Worked extensively with authentication like Okta and OAuth for 3 web applications.
+● Integrated Audit logging functionality to store exceptionally large files of logs on Azure Data Lake.
+● Added multiple functionalities to the client defined libraries for use across various applications.
+● Modeled the data into multiple tables using dimensional and Data Vault modeling using Pyspark in data bricks.
+● Led migration of 60 stored procedures to Azure Synapse views and built ADF and Synapse pipelines for reports generation. Wipro Technologies, Hyderabad, India: Project Engineer Client: FedEx 07/2018 – 01/2021
+● Developed solutions to build robust applications for hassle-free flow of shipment. Role included requirements assessments, planning, solutions, testing, and deployment in agile teams.
+● Implemented updates to middleware applications using Spring Boot framework, enabling efficient data processing from upstream applications to different topics for downstream applications using JMS.
+● Monitored the applications in production for health, memory and CPU utilization using App Dynamics and Splunk.
+● Evaluated the new features added using Junit and Mockito frameworks and accomplished maximum code coverage.
+● Developed a web application to streamline database updates for support engineers, enabling simultaneous editing of multiple records successfully, deployed the application in PCF, reducing data entry time by 70%.
+● Developed RESTful Web Services with JAX-RS using Spring Boot and Micro Services Architecture and enabled the Swagger UI for REST endpoints for smooth and enhanced testing. WORK EXPERIENCE
+Exploratory Data Analysis and modelling on Crop Yield Prediction 10/2023 – 11/2023
+● Gathering, cleaning, processed the data from different files and put it together.
+● Checked correlation matrix for how columns are correlated, applied linear regression and decision tree classifier over the data and compared the results of two models.
+Website hosting using AWS 07/2023 – 08/2023
+● Implemented Virtual Private Cloud (VPC) with separate public and private subnets across distinct availability zones with secured bastion host in public subnet for secure access using SSH.
+● Deployed MySQL RDS instance in the private subnet and created IAM user for secured entry into database.
+Contact this candidate

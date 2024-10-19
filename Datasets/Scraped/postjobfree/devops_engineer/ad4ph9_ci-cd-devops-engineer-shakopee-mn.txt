@@ -1,0 +1,244 @@
+Dieudonne Che
+612-***-****
+ad4ph9@r.postjobfree.com
+Summary:
+● A talented and driven Sr. Cloud/DevOps engineer with 10 years of experience in automating and optimizing the build, deployment, and release cycle of web applications.
+● Installation and connection of Timbr with MYSQL Database
+● Experience in Installing, configuring, and maintaining IBM Web Sphere & Web Logic Application Servers, Nagios, and Chef.
+● Application Deployments & Environment Linux configuration using Chef, Saltstack, and Ansible.
+● Responsible for Installing OS on Several hundred Servers using Ansible.
+● Designed, implemented, and maintained end-to-end DevSecOps pipelines.
+● Deployment and System build configuration using Puppet.
+● Strong exposure to both AWS and Azure cloud platforms.
+● Experience in System Administration, System Builds, Server builds, Installs, Upgrades, Patches, Migration, Troubleshooting, Security, Backup, Disaster Recovery, Performance Monitoring and Fine-tuning on UNIX Red Hat Linux Systems.
+● Have good hands-on experience on some of the monitoring tools like Nagios, Splunk and Zabbix.
+● Security, Backup, Disaster Recovery, Performance Monitoring and Fine tuning on UNIX and Red Hat Linux Systems.
+● Implemented blue/green deployment strategies for seamless application updates and rollbacks.
+● Experienced in Python and Shell scripting to automate the provisioning and deployment.
+● Implemented continuous integration using UDeploy.
+● Developed tools to automate manual tasks using shell scripting, Python and integrated them in CI/CD pipeline through Jenkins.
+● Integrated Terraform with CI/CD pipelines to automate the deployment and management of infrastructure changes.
+● Setup Aerospike Database on SnowFlake and setup CI/CD pipeline for its Rehydration purpose
+● Managed configurations of Java applications and infrastructure using tools like Ansible, Chef, or Puppet to ensure consistency and reliability across environments.
+● Worked with Ansible playbooks for virtual and physical instance provisioning, configuration management, patching and software deployment.
+● Ability in execution of XML, BASH, Shell Scripts, Perl Scripts, and Python Scripts.
+● Involved in building CI/CD pipelines for deploying APIs.
+● Integrated Neo4j with SnowFlake and setup a CI/CD pipeline for new releases
+● Integrated Jenkins with various DevOps tools such as Nexus, SonarQube, and Chef etc.
+● Strong experience as a LINUX/UNIX System Administrator and Production Support of various applications on SUN Solaris, Red Hat Linux, and Windows environment.
+● Host -level troubleshooting of storage using EMC tools as well as nave Red Hat Enterprise Linux 5/6/7/8 multipath.
+● System administration including configuration of server-based systems, system installation and configuration fundamentals of security, and installing third party software.
+● Resolve network, software, and hardware issues with newly built servers.
+● Implemented CI/CD automation process using various tools like Jenkins, and Puppet to ensure shortened deployment cycles.
+● Designed and implemented CI/CD pipelines using GitLab CI/CD to automate the build, test, and deployment of applications and infrastructure.
+● Implemented GitLab's code review features, such as merge requests and code comments, to facilitate effective collaboration and knowledge sharing.
+● Day to day jobs included but not limited to handling Tickets, Monitoring, Troubleshooting and maintenance.
+● Deployed Docker Engines in Virtualized Platforms for containerization of multiple apps.
+● Worked on deployment to Datacenters, AWS, and Azure platforms. Technical Skills:
+● Cloud Orchestration: AWS Systems Manager, Terraform, AWS CloudFormation, AWS Lambda, Ansible
+● AWS Platform: VPN, VPC, Route53, Route 53 Resolver, EC2, ELB, AWS CloudFormation, AWS Lambda, AWS Systems Manager, S3, RDS, SNS, SQS, SES, Trusted Advisor, CloudFront, AWS Auto Scaling, CloudWatch.
+● Identity & Access Management: AWS Organization, AWS IAM, Active Directory, OKTA, AWS Secrets Manager, Vault etc.
+● Leveraged AKS for container orchestration, allowing me to deploy, scale, and manage containerized workloads with ease.
+● Containerization: AWS ECS, AWS EKS, Docker, Kubernetes etc.
+● Graph Databases: Aerospike, Neo4j, Timbr
+● Image & Patch: AWS SSM Patch Manager, AWS Golden AMI Pipeline, Docker
+● Governance & Compliance: AWS Config Rules, AWS Organization, AWS Control Tower, AWS Trusted Advisor, AWS Well Architected Tool, AWS Budgets, etc.
+● Integrated AKS with CI/CD pipelines using tools like Azure DevOps, Jenkins, or GitHub Actions to automate the deployment of containerized applications.
+● Security: AWS Guard Duty, AWS Shield, AWS Inspector, AWS SSM Parameter Store, WAF etc.
+● Monitoring & Event Management: AWS CloudWatch (Events & Logs), AWS SNS, AWS S3, Splunk, New Relic, PagerDuty, Prometheus
+● Application Delivery: GitHub, GitLab, Bitbucket, Jenkins, GitHub Actions, AWS Code Deploy, AWS CodePipeline, AWS Code Commit.
+● Optimized AKS clusters for cost efficiency by right-sizing nodes, utilizing spot instances for non-production workloads, and implementing cluster autoscaling based on workload demand.
+● Designed AKS clusters for scalability and high availability, leveraging features such as node pools, horizontal pod autoscaling (HPA), and availability zones.
+● Micro Services: Using Docker and Kubernetes (EKS and ECS)
+● Data Protection: AWS Certificate Manager, AWS KMS, Snapshot Lifecycle Manager, AWS CloudHSM
+● Migration: Database Migration Service, Server Migration Service, Cloud Endure, CART
+● Database: DynamoDB, RDS, MongoDB MySQL, Postgres, Amazon Aurora
+● Python: Python Boto3 Modules, Automation
+● Communication: Confluence and Slack, Box
+Professional Experience:
+Sr. Cloud/Devops/Database Engineer Solution Architect September 2023 - Present Fidelity Investment Westlake, TX
+● Used Hashicorp tools like Vault and Consul to manage secrets, configuration files, and service discovery.
+● Setup CI/CD pipeline in Azure for different customer operations when needed by customers e.g. adding/deleting/increasing IOPS/change instance size or type etc.
+● Developed scripts and automation tools using Python, Bash, and PowerShell.
+● Configured and managed secrets and credentials using HashiCorp Vault.
+● Provisioned, managed, and monitored EC2 instances on AWS.
+● Used Azure Functions to implement serverless computing, allowing for the execution of code in response to events.
+● CDN Implementation: Deploy and configure CDN solutions to optimize content delivery, reduce latency, and improve website performance.
+● Infrastructure Design: Design CDN architectures that align with business requirements, considering factors such as geographic distribution, redundancy, and scalability.
+● Performance Optimization: Continuously monitor and optimize CDN performance to ensure fast and reliable content delivery globally.
+● Configured and maintained relational databases using AWS RDS.
+● Deployed and managed Kubernetes clusters on AKS for various projects, ranging from small-scale applications to large-scale microservices architectures.
+● Implemented data access patterns and strategies for efficient and scalable DynamoDB operations.
+● Configured and managed security groups and access control rules for network security.
+● Implemented the use of SonarQube for code checks and bugs ensuring code quality.
+● Setup a blue/green environment for faster releases and updates in K8 Clusters with terraform.
+● Setup Rehydration process for Neo4j for both AWS and Azure with the CI/CD pipeline.
+● Setup Rehydration process for Aerospike in both AWS and Azure with the CICD pipeline.
+● Setup a CI/CD pipeline for new releases of Timbr and update.
+● Deployment of Timbr graph Database application with Docker/Docker Compose.
+● Used Azure Active Directory for managing identities, implementing role-based access control (RBAC)
+● Wrote shell scripts using Bash to automate repetitive tasks.
+● Deployed, configured, and managed AWS RDS instances.
+● Leveraged EC2 Lifecycle Manager to create snapshots of EBS Volumes on scheduled intervals for backup and define a retention period as a cost-saving measure used Azure Logic Apps and Azure Service Bus for building scalable and robust integration solutions.
+● Performance Optimization: Continuously monitor and optimize CDN performance to ensure fast and reliable content delivery globally.
+● Used AKS clusters, Azure Portal, Azure CLI, or Infrastructure as Code (IaC) tools like Terraform and ARM templates.
+● Security Implementation: Implement and maintain security measures within the CDN, such as DDoS protection, web application firewalls (WAF), and secure socket layer (SSL) configurations. Sr. Cloud/Devops Engineer/Solutions Architect February 2021 - August 2023 Bank of America Brooklyn Center, MN
+● Design for high availability and business continuity using self-healing-based architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB health checks, Auto Scaling, and other disaster recovery models.
+● Investigated Splunk alerts and resolved issues using kubectl and other Kubernetes utilities.
+● Used AWS system manager to automate operational tasks across AWS resources.
+● Leveraged Azure data services such as Azure SQL Database, Azure Cosmos DB, and Azure Storage
+● Content Purging and Invalidation: Develop strategies for efficient content purging and cache invalidation to ensure timely updates and content changes.
+● Troubleshooting: Diagnose and resolve issues related to CDN performance, network latency, and content delivery bottlenecks.
+● Collaboration: Work closely with development teams, network engineers, and other IT professionals to integrate CDN solutions seamlessly into existing systems.
+● Documentation: Maintain comprehensive documentation of CDN configurations, processes, and troubleshooting procedures.
+● Automated the process of deleting empty log streams and notifying for log group with never expire tags.
+● Conducted regular monthly cleanup of unused resources in lower and higher environments.
+● Automated the process of monitoring instances by leveraging Lambda that monitors instances that did not compile with company standard and sending weekly notification for remediation Managed provisioning of AWS infrastructures using Terraform, CloudFormation and Ansible
+● Used Jira to plan, track, support and close requests, tickets, and incidents.
+● Develops business relationships with other department leaders to integrate security activities and to ensure successful implementation and support of security projects.
+● Deployed Java applications using tools like Jenkins, Maven, Gradle.
+● Used Azure Monitor and Azure Log Analytics, gaining insights into application and infrastructure performance.
+● Migrated code from Bitbucket to Github.
+● Leverage Kubernetes for docker container orchestration.
+● Architect a secure infrastructure with a Client VPN Endpoint to allow users to access resources in AWS.
+● Used PKI for exchange of digital information securely.
+● ELBs, security groups, SQS queues, and continuing to replace the rest of our infrastructure.
+● Shipped CloudWatch logs to Splunk using Kinesis firehose.
+● Designed and managed NoSQL databases using DynamoDB.
+● Set up and manage MongoDB instances.
+● Designed, documented, and maintained APIs for Java applications.
+● Leveraged Docker to build, test and deploy applications in different environments.
+● Integrated Azure DevOps with source control, issue tracking, and other relevant tools.
+● Built machine images or container images using Packer.
+● Leveraged GitLab in conjunction with AWS CloudFormation or Terraform to implement Infrastructure as Code practices.
+● CI/CD Pipeline for Graph Databases like Neo4j, Aerospike, Timbr
+● Designed and implemented end-to-end DevSecOps pipelines for software development and deployment.
+● Wrote and maintained Python-based infrastructure code and utilities.
+● Designed and implemented CI/CD pipelines that integrate Hashicorp tools such as Terraform and Vault.
+● Wrote and maintained Ansible playbooks to automate infrastructure provisioning and configuration management.
+● Used Hashicorp tools like Vault and Consul to manage secrets, configuration files, and service discovery.
+● Developed scripts and automation tools using Python, Bash, and PowerShell.
+● Configured and managed secrets and credentials using HashiCorp Vault.
+● Provisioned, managed, and monitored EC2 instances on AWS.
+● Configured and maintained relational databases using AWS RDS.
+● Implemented data access patterns and strategies for efficient and scalable DynamoDB operations.
+● Configured and managed security groups and access control rules for network security.
+● Managed source code repositories using Git.
+● Configured GitLab instances for source code management, version control, and CI/CD pipelines.
+● Configured security tools such as vulnerability scanners, intrusion detection systems, and security information and event management (SIEM) systems.
+● Wrote and maintained YAML specifications for defining infrastructure and application configurations.
+● Monitoring from end-to-end view of runtime systems CPU, bandwidth, disk space and log files using New Relic
+● Leveraged AWS Systems Manager Automation to create and execute workflows or runbooks for common operational tasks.
+● Setting up and managing virtual machines using platforms like VMware or VirtualBox.
+● Designed and implemented CI/CD pipelines for Java applications.
+● Used tools like Swagger, OpenAPI for API documentation.
+● Configured MongoDB database systems. Optimized MongoDB queries and performance.
+● Collaborate with enterprise and application architects to implement new solutions and improve existing solutions.
+● Experience working with automated deployment orchestration tools such as Terraform, CloudFormation and Jenkins.
+● Developed and maintained automation scripts and tools using Python, Bash, and shell scripting.
+● Designed and optimized SQL databases.
+● Deployed and managed containerized applications on OpenShift and AKS (Azure Kubernetes Service).
+● Configured and customized ServiceNow for IT service management and ticketing.
+● Partners with Technical Leads and other IT teams to formalize, adopt, and ensure adherence to IT standards and procedures.
+AWS Cloud/Devops Engineer/Solutions Architect April 2016 - January 2021 The Library Corporation Denver, CO
+● Configured CI/CD Pipelines using Jenkins integrated with Nexus for antifactory and SonarQube for code quality check. Pipeline was triggered by a Github webhook.
+● Configured CI/CD Pipelines using Docker integrated with Github Actions and ECR for Image Repository and Helm chat for deployment in EKS Cluster.
+● Provision secured resources in VPC subnets with security groups and NACLs using Ansible.
+● Implemented security best practices in AWS including multi-factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs, etc
+● Troubleshooted and resolved issues related to the DevSecOps pipeline, such as failed builds or deployment errors.
+● Used Azure Resource Manager (ARM) templates extensively to define and deploy infrastructure as code.
+● Monitoring and Reporting: Set up monitoring tools to track CDN performance metrics and generate reports for stakeholders.
+● Capacity Planning: Assess traffic patterns and plan for CDN capacity to handle anticipated increases in web traffic.
+● Skills and Qualifications: CDN Platforms: Proficiency in working with various CDN platforms such as Akamai, Cloudflare, Amazon CloudFront, and others.
+● Network and Infrastructure: Strong understanding of networking principles, DNS, and infrastructure components involved in CDN implementations.
+● Security: Knowledge of CDN security features, including DDoS protection, WAF, and SSL configurations. Web Performance Optimization: Experience in optimizing web performance through CDN configurations and best practices.
+● Scripting and Automation: Familiarity with scripting languages (e.g., Python, Bash) and automation tools for CDN configuration and management.
+● Monitoring Tools: Experience with CDN monitoring tools for performance tracking and analysis.
+● Capacity Planning: Ability to assess traffic patterns and plan CDN capacity accordingly.
+● Worked on AWS EC2/VPC/S3/SQS/SNS based on automation Terraform, Ansible, Python, Bash Scripts.
+● Deployed and managed applications on OpenShift platform.
+● Identify opportunities for shared solutions and leverage shared solutions in architecture solutions, to increase efficiency and minimize enterprise redundancy.
+● Design and document disaster recovery plans and participate in testing to ensure the environment is recoverable within predetermined Service Level Agreements (SLA).
+● Used Harshi Corp’s Terraform to define and manage infrastructure resources as code.
+● Utilized AWS Systems Manager Patch Manager to automate the process of applying patches and updates to your instances.
+● Designed and implemented DynamoDB database schemas, tables, and indexes.
+● Optimized queries using DynamoDB APIs and query languages.
+● Conducting security assessments and vulnerability scanning using tools like Nessus, Qualys, and OpenVAS.
+● Provisioning and management of applications in both virtual and cloud infrastructures (AWS and Openstack)
+● Contribute to RFP, RFI and tender requests with engineering/design specifications, product, and service descriptions.
+● Managed and versioned infrastructure code in GitLab repositories, ensuring consistent and reproducible infrastructure deployments.
+● Configured security tools such as vulnerability scanners, intrusion detection systems (IDS), and security information and event management (SIEM) systems.
+● Used monitoring tools like Prometheus, Grafana, New Relic to track API metrics and identify and troubleshoot issues.
+● Automation and Azure Automation State Configuration and automate repetitive tasks and enforce consistent configurations across infrastructure.
+● Automated the deployment process using Hashicorp tools to ensure consistent and reliable deployments.
+● Wrote infrastructure code to deploy and scale Java application environments.
+● Configured and monitored AKS for scalability and reliability.
+● Developed shell scripts in Bash and PowerShell.
+● Configured GitLab CI/CD pipelines for automated build, test, and deployment processes.
+● Part of the team that migrated databases and servers from on-prem to the cloud using DMS and CloudEndure.
+● Managed source code repositories, work items, and release pipelines in Azure DevOps.
+● Setup a new AWS Organization environment from scratch, with preventive and detective guardrails.
+● Implemented SCP that restricted AWS service to a selected list of regions.
+● Integrated data from various sources into MongoDB, ensuring data integrity and consistency.
+● Collaborate with Enterprise Architects to evolve architecture principles, policies, and best practices.
+● Conducted regular monthly cleanup of unused resources in lower and higher environments.
+● Designed for high availability and business continuity using self-healing-based architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB health checks, Auto Scaling, and other disaster recovery models.
+● Performed testing APIs for functionality, performance, and security.
+● Optimized cost through reserved instances, selection, and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Auto scaling, etc.
+● Dockerized Java applications and creating container images.
+● Leveraged Python Boto3 to run Multiple Lambda functions and Auto Remediations
+● Wrote shell scripts using Bash to automate repetitive tasks.
+● Deployed, configured, and managed AWS RDS instances.
+● Leveraged EC2 Lifecycle Manager to create snapshots of EBS Volumes on scheduled intervals for backup and define a retention period as a cost-saving measure.
+● Integrated applications and infrastructure with Hashicorp Vault for secure access to credentials and sensitive data.
+● Setup and configured logs files for detail monitoring and alerts notification in Splunk
+● Configured and managed CI/CD pipelines, automated build, test, and deployment processes, and monitored and troubleshooted Jenkins servers.
+● Wrote and executed complex SQL queries.
+● Integrated DynamoDB with applications and services using appropriate SDKs or APIs.
+● Worked with Git hooks and other advanced Git features for automation and customization.
+● Defined infrastructure-as-code using Terraform to provision and manage cloud resources.
+● Defined image configurations and dependencies in Packer templates.
+● Setup AWS accounts with security using CIAM, OKTA and MFA.
+● Implemented security measures such as authentication, authorization, and encryption for MongoDB databases.
+● Tagged AWS resources and developed a methodological standard for tagging of individual resources for audit, tracking, and cost analysis.
+● Used AWS Systems Manager Inventory to collect metadata and generate reports about the instances and applications.
+● Utilized AWS Systems Manager Session Manager to establish secure and auditable connections to your instances without the need for SSH keys or opening inbound ports.
+● Configured lifecycle configuration rules on an S3 bucket to move data between S3 storage classes for easy accessibility, archiving, and or cost optimization.
+● Provision secured resources in VPC subnets with security groups and NACLs using Terraform.
+● Supports the Enterprise sales team by acting as a technology liaison with the customer in a pre-sale support capacity.
+● Used Azure Storage for efficient data management and storage solutions.
+● Versioning and managing YAML files using source control systems.
+● Develop value-add technology solutions with network services for potential customers.
+● Evaluate planned and in-flight projects to identify impacts to the current state architecture.
+● Present features, benefits, and value of the Shaw Business Solution in customer engagements
+● Integrate qualifying and evaluating tools/resources into opportunity lifecycle.
+● Microsoft Visio Software proficiency is an asset.
+● Maintain ongoing relationships with technical contacts of key Enterprise accounts. Cloud/Devops Engineer/Solutions Architect June 2013 - Feb 2016 Securian Financial St Paul, MN
+● Experience working with the RedHat Openshift enterprise which allows developers to quickly develop, host and scale applications in a self-managed cloud environment.
+● Increase application availability by controlling platform ecosystem DNS with the Openshift container platform.
+● Worked with RedHat OpenShift Container Platform for Docker and Kubernetes. Used Kubernetes to manage containerized applications using its nodes, ConfigMaps, selector, Services, and deployed application containers as Pods.
+● Created a Continuous Delivery process to include support building of Docker Images and publish into a private repository- Nexus v3.
+● Identified and resolved performance bottlenecks in MongoDB deployments.
+● Implemented infrastructure as code (IaC) practices within the DevSecOps pipeline.
+● Managed local deployments in Kubernetes, creating local clusters and deploying application containers.
+● Container management using Docker by writing Docker files and setting up the automated build on Docker HUB and installing and configuring Kubernetes.
+● Monitored and troubleshooted Jenkins jobs and pipelines.
+● Created and managed Terraform modules for reusability and scalability.
+● Developed and maintained automation scripts and tools using Python.
+● Implemented backup and disaster recovery strategies for MongoDB databases.
+● Leveraged Harshi Corp’s Terraform to provision and manage cloud infrastructure resources.
+● Created and managed cloud VMs with AWS EC2 command line clients and AWS management console.
+● Implemented AWS solutions using EC2, S3, RDS, EBS, and Elastic Load Balancer, Auto scaling groups and optimized volumes, EC2 instances.
+● Integrated AWS DynamoDB using AWS Lambda to store the values of the items and backup the DynamoDB streams.
+● Experienced in AWS Elastic Beanstalk for app deployments and worked on AWS Lambda with Amazon kinesis.
+● Utilized AWS Systems Manager OpsCenter and AWS Systems Manager Explorer to gain insights into the operational data and monitor the health, performance, and availability of AWS resources.
+● Integrated AWS Systems Manager with other AWS services to enhance the management capabilities.
+● Used IAM to create new accounts, roles, and groups.
+● Developed infrastructure-as-code using Terraform to automate the provisioning and configuration of cloud resources.
+● Configured and managed DynamoDB streams, global secondary indexes, and partitioning strategies.
+● Used JIRA as defect tracking system and configured various workflows, customizations and plugins for JIRA bug/issue tracker, integrated Jenkins with JIRA, GitHub.
+● Defined infrastructure provisioning, configuration, and deployment tasks using YAML-based Ansible playbooks.
+● Azure encompasses a broad spectrum of services.
+● Configured S3 versioning and lifecycle policies to backup files and archive files in Glacier. Education:
+Bachelor of Science in Information Technology 2013
+Contact this candidate

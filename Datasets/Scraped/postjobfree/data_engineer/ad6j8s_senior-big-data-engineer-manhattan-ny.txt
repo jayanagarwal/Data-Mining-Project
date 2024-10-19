@@ -1,0 +1,213 @@
+NAZ ZUBER
+Senior Big Data Engineer
+Email: ad6j8s@r.postjobfree.com, Phone: 718-***-****
+
+PROFILE SUMMARY
+
+•Dynamic and motivated IT professional with over 12+ years of experience in the field of Data Engineering focusing on customer-facing products and strong expertise in data transformation & ELT on large data sets.
+•Proficient in architecting, designing, and developing fault-tolerant data infrastructure and reporting solutions, worked with distributed platforms and systems, with a deep understanding of databases, data storage, and data movement.
+•Collaborated with Dev-ops teams to identify business requirements and implemented CICD with experience with Big Data Technologies such as Amazon Web Services (AWS), Microsoft Azure, GCP, Databricks, Kafka, Spark, Hive, Sqoop, and Hadoop
+•Proficient in architecting and implementing fault-tolerant data infrastructure on Google Cloud Platform (GCP), leveraging services like Google Compute Engine, Google Cloud Storage, and Google Kubernetes Engine (GKE)
+•Experienced in designing and developing data pipelines using GCP data services such as BigQuery, Cloud Dataflow, Cloud Dataproc, and Cloud Composer
+•Proficient in implementing data security and governance best practices on GCP, including encryption at rest and in transit, IAM policies, and compliance controls.
+•Expertise in designing efficient data ingestion processes using GCP's low latency systems.
+•Hands-on experience with GCP data services such as BigQuery, Cloud DataFlow, and Cloud Dataproc.
+•Knowledgeable in GCP's data storage solutions for handling large datasets securely
+•Skilled in optimizing performance and scalability on GCP by leveraging containerization technologies like Docker and Kubernetes
+•Demonstrated proficiency with AWS services including EC2, S3, RDS, and EMR, utilizing them extensively in multiple data projects
+•Skilled in implementing Continuous Integration/Continuous Deployment (CICD) pipelines on AWS, automating deployment and testing processes for increased efficiency.
+•Experienced in leveraging AWS Lambda for developing serverless computing solutions and implementing event-driven architectures, insightful knowledge of using AWS data services such as Athena and Glue for performing data analytics and ETL processes effectively.
+•Proven track record of working on AWS QuickSight for creating interactive dashboards and reports, facilitating data visualization and analysis.
+•Applied expertise in creating tailored reports by extracting data from AWS services and utilizing reporting tools like Tableau, PowerBI, and AWS QuickSight.
+•Skilfully used Azure data services such as Azure SQL Database and Azure Data Factory for efficient storage, management, and processing of large datasets.
+•Proficiency in implementing Azure Databricks for building and managing scalable Spark-based data analytics solutions, enabling real-time insights and decision-making.
+•Extensive experience in managing and optimizing on-premises data storage systems, including traditional relational databases and distributed file systems, to meet the needs of Big Data workloads.
+•Skilled in deploying and configuring on-premises data processing systems such as Apache Hadoop and Apache Spark, optimizing resource utilization and ensuring efficient data processing.
+•Proficiently designed efficient data ingestion processes with low-latency systems and data warehouses
+•Insightful knowledge of Hadoop Architecture and various components such as HDFS, Yarn, and MapReduce concepts.
+•Possess an understanding of Delta Lake architecture, including Delta Lake tables, transactions, schema enforcement, and time-traveling capabilities in Databricks and Snowflake.
+•Expertise with NoSQL databases such as HBase and Cassandra to provide low latency.
+•Well-versed with spark performance tuning at the source, target, and data stage job levels using indexes, hints, and partitioning and worked on data governance and data quality.
+•Successfully used PL/SQL and SQL to create queries and develop Python-based designs and programs.
+
+Technical Skills
+•IDE: Jupyter Notebooks, Eclipse, IntelliJ, PyCharm, Vs Code
+•Project Methods: Agile, Kanban, Scrum, DevOps, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Design Thinking, Lean Six Sigma
+•Hadoop Distributions: Hadoop, Cloudera Hadoop, Hortonworks Hadoop
+•Cloud Platforms: Amazon AWS, Google Cloud (GCP), Microsoft Azure
+•Database & Tools: Redshift, DynamoDB, Synapse DB, Big Table, Aws RDS, SQL Server, PostgreSQL, Oracle, MongoDB, Cassandra, HBase
+•Programming Languages: Python, Scala, PySpark, SQL
+•Scripting: Hive, MapReduce, SQL, Spark SQL, Shell Scripting
+•Continuous Integration CI/ CD: Jenkins, Code Pipeline, Docker, Kubernetes, Terraform, CloudFormation
+•Versioning: Git, GitHub
+•Orchestration Tools: Apache Airflow, Step Functions, Oozie
+•Programming Methodologies: Object-Oriented Programming, Functional Programming
+•File Format & Compression: CSV, JSON, Avro, Parquet, ORC
+•File Systems: HDFS, S3, Google Storage, Azure Data Lake
+•ELT Tools: Spark, NIFI, Aws Glue, Aws EMR, Data Bricks, Azure Data Factory, Google Data flow
+•Data Visualization Tools: Tableau, Kibana, Power BI, AWS Quick Sight
+•Search Tools: Apache Lucene, Elasticsearch
+•Security: Kerberos, Ranger, IAM
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data Engineer Citigroup New York City, NY Oct 2021 - Present
+
+(Citigroup Inc. is an American Multinational Investment Bank and financial Services Corporation headquartered in New York City.)
+
+•Launching Amazon EC2 Cloud Instances and S3 storage using Amazon Web Services (Linux/ Ubuntu/RHEL) and configuring launched instances concerning specific applications
+•Mastered the administration of critical AWS services, including IAM, VPC, Route S3, EC2, ELB, Code Deploy, RDS, ASG, and CloudWatch, orchestrating a resilient and high-performance cloud infrastructure.
+•Provided insightful input on intricate questions related to AWS system architecture, showcasing a deep understanding of cloud principles and best practices.
+•Established stringent security protocols within the AWS Cloud environment, ensuring the safeguarding of critical assets and compliance with security standards Involved in file movements between HDFS and AWS S3 and extensively worked with S3 bucket in AWS.
+•I employed AWS Glue for data cleaning and preprocessing while performing real-time analysis with Amazon Kinesis Data Analytics to leverage AWS services like EMR, Redshift, DynamoDB, and Lambda for scalable, high-performance data processing.
+•Evaluated on-premises data infrastructure, identifying migration opportunities to AWS orchestrated data pipelines with AWS Step Functions and utilized Amazon Kinesis for event messaging.
+•Proficient in Apache Airflow, an open-source workflow automation platform.
+•Applied statistical methods such as regression, hypothesis testing, and clustering to identify meaningful patterns and relationships within data, supporting informed decision-making.
+•Created visually appealing charts, graphs, and dashboards using tools like Tableau and matplotlib to effectively communicate analysis findings to stakeholders.
+•Implemented data cleaning and preprocessing techniques to handle missing values, outliers, and inconsistencies, ensuring high data quality for analysis purposes.
+•Ensured data governance and compliance by adhering to principles and regulations to maintain data integrity, privacy, and security throughout the analysis process.
+•Using Hive Script in Spark for data cleaning and transformation purposes
+•Importing data from various data sources, performing transformations using Hive, and MapReduce, loading data into HDFS, and extracting the data from MySQL into HDFS using Sqoop.
+•Use Hive to analyze the partitioned and bucketed data and compute various metrics for reporting.
+•Developed Pig Latin scripts to extract the data from the web server output files to load into HDFS.
+•Monitor and Troubleshoot Hadoop jobs using Yarn Resource Manager and EMR job logs.
+•Converting Cassandra/Hive/SQL queries into Spark transformations using Spark RDDs in Scala
+•Log data collected from the web servers was channeled into HDFS using Kafka and Spark streaming.
+•Developed Spark jobs using Scala in a test environment for faster data processing and used Spark SQL for querying.
+•Created Python Flask login and dashboard with Neo4j graph database and executed various cypher queries for data analytics.
+•Load and transform Design efficient Spark code using Python and Spark SQL, which can be forward engineered by our code generation developers.
+•Utilized large sets of structured, semi-structured, and unstructured data.
+•Created big data workflows to ingest the data from various sources to Hadoop using OOZIE and these workflows comprise heterogeneous jobs like Hive, SQOOP, and Python Script
+•Proven expertise in data quality management, ensuring accuracy, consistency, and reliability of data assets.
+•Implemented data quality frameworks and standards to maintain high data integrity.
+•Conducted data profiling, cleansing, and validation processes to enhance data quality.
+•Collaborated with cross-functional teams to establish data quality best practices and governance.
+
+Sr Cloud/ Data Engineer Berkshire Hathaway Omaha, Nebraska Mar 2019 – Oct 2021
+
+(Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States. Its main business and source of capital is insurance, from which it invests the float (the retained premiums) in a broad portfolio of subsidiaries, equity positions, and other securities.)
+
+
+•Developed Terraform templates for provisioning infrastructure on the Google Cloud Platform.
+•Administered Hadoop clusters on GCP using services like Dataproc or other related GCP tools.
+•Processed real-time data using Google Cloud Pub/Sub or Dataflow.
+•Created data pipelines using Google Cloud Dataflow or other GCP data processing services.
+•Orchestrated data pipeline executions using Apache Airflow on GCP.
+•Implemented custom NiFi processors that reacted, processed for the data pipelines.
+•Managed data storage in Google Cloud Storage or BigQuery for data warehousing.
+•Set up and managed compute instances on Google Cloud Platform.
+•Containerized applications using Google Kubernetes Engine (GKE).
+•Optimized data processing using Google Cloud Dataprep or Dataflow.
+•Implemented data governance and security using Google Cloud IAM.
+•Ran Python scripts for custom data processing on Google Cloud instances.
+•Developed and optimized data processing workflows using GCP services like Dataprep, and Dataflow.
+•Created data models and schema designs for Snowflake data warehouses to support complex analytical queries and reporting.
+•Built data ingestion pipelines (Snowflake staging) using disparate sources and other data formats to enable real-time data processing and analysis.
+•Mentored junior data engineers and provided technical guidance on best practices for ETL data pipelines, Snowflake, Snow pipes, and JSON.
+•Developed and maintained ETL pipelines using Apache Spark and Python on Google Cloud Platform (GCP) for large-scale data processing and analysis.
+•Assess the existing on-premises data infrastructure, including data sources, databases, and ETL processes.
+•Set up a CI/CD pipeline using Jenkins to automate the deployment of ETL code and infrastructure changes.
+•Version controls the ETL code and configurations using tools like Git.
+•Created automated Python scripts to convert data from different sources and to generate ETL pipelines.
+•Collaborated with data scientists and analysts to build data pipelines and perform data analysis on GCP.
+•Conducted exploratory data analysis (EDA) to identify patterns, outliers, and anomalies within datasets, informing further analysis and investigation.
+•Conducted data validation and quality assurance processes to ensure accuracy, completeness, and consistency of datasets, maintaining data integrity throughout the analysis process.
+•Work closely with stakeholders to define key performance indicators (KPIs) that align with business objectives and strategies.
+•Building real-time streaming systems using Amazon Kinesis to process data as it is generated.
+•Setting up and maintaining data storage systems, such as Amazon S3 and Amazon Redshift, to ensure data is properly stored and easily accessible for analysis.
+•Optimizing data processing systems for performance & scalability using Amazon EMR & Amazon EC2.
+•Processed data with a natural language toolkit to count important words and generated word clouds.
+•Implementing data governance and security protocols using AWS Identity and Access Management (IAM) and Amazon Macie to ensure that sensitive data is protected.
+•Creating and optimizing data processing workflows using AWS services such as Amazon EMR and Amazon Kinesis to process and analyze large amounts of data in a timely and efficient manner.
+•Offer timely and insightful ad-hoc analysis and support to various teams and departments, addressing complex data-related queries and facilitating informed decision-making.
+•Collaborating with data scientists and analysts to develop data pipelines for tasks such as fraud detection, risk assessment, and customer segmentation. Develop and implement recovery plans and procedures.
+
+Sr Data Engineer Lucid Motors Newark, CA Nov 2017 – Mar 2019
+
+(Lucid Group, Inc. is an American manufacturer of electric luxury sports cars and grand tourers headquartered in Newark, California.)
+
+•Created data frames from different data sources like Existing RDDs, Structured data files, JSON Datasets, Azure SQL Database, and external databases using Azure Databricks.
+•Loaded terabytes of different level raw data into Spark RDD for data computation to generate the output response and imported the data from Azure Blob Storage into Spark RDD using Azure Databricks.
+•Used Hive Context which provides a superset of the functionality provided by SQL Context and Preferred to write queries using the HiveQL parser to read data from Azure HDInsight Hive tables.
+•Modeled Hive partitions extensively for data separation and faster data processing and followed Hive best practices for tuning in Azure HDInsight.
+•Caching of RDDs for better performance and performing actions on each RDD in Azure Databricks.
+•Developed highly complex Python and Scala code, which is maintainable, easy to use, and satisfies application requirements, data processing, and analytics using inbuilt libraries in Azure Databricks.
+•Successfully loaded files to Azure HDInsight Hive and Azure Blob Storage from Oracle, SQL Server using Azure Data Factory. Environment: Azure HDInsight, Azure Blob Storage, Azure Databricks, Linux, Shell Scripting, Airflow.
+•Migrated legacy MapReduce jobs to PySpark jobs using Azure HDInsight.
+•Written UNIX script for ETL process automation and scheduling, and to invoke jobs, error handling and reporting, to handle file operations, to do file transfer using Azure Blob Storage.
+•Worked with UNIX Shell scripts for Job control and file management in Azure Linux Virtual Machines.
+•Experienced in working at offshore and onshore models for development and support projects in Azure.
+•Assess the existing on-premises data infrastructure, including data sources, databases, and ETL processes.
+•Set up a CI/CD pipeline using Jenkins to automate the deployment of ETL code and infrastructure changes.
+•Version controls the ETL code and configurations using tools like Git.
+•Created automated Python scripts to convert data from different sources and to generate ETL pipelines.
+•Optimized ETL and batch processing jobs for performance, scalability, and reliability using Spark, YARN, and GCP Data Proc.
+
+Data Engineer
+Allstate, Northbrook, IL Sept 2015 – Nov 2017
+
+•Leveraged Cloudera distribution of Apache Hadoop and HDFS for distributed storage and processing of large-scale data.
+•Utilized Apache Hive for data warehousing and querying, enabling SQL-like queries and analytics on Hadoop distributed file system (HDFS) data.
+•Employed Apache Pig for data processing and transformation tasks, facilitating ETL (Extract, Transform, Load) operations on large datasets.
+•Utilized Apache Spark for in-memory data processing and analytics, enabling high-speed processing and advanced analytics on distributed datasets.
+•Orchestrated workflow scheduling and coordination using Apache Oozie, enabling automation and management of data processing workflows.
+•Leveraged Apache Kafka for real-time data streaming and messaging, enabling high-throughput, fault-tolerant data ingestion and processing.
+•Utilized Apache HBase for real-time, NoSQL database capabilities, enabling random read/write access to large volumes of structured and semi-structured data.
+•Implemented Apache Impala for interactive querying and analysis of data stored in HDFS and HBase, providing low-latency SQL queries for analytics.
+•Applied machine learning algorithms using libraries such as Apache Mahout and scikit-learn for predictive analytics and machine learning tasks.
+•Used Oozie workflow engine to manage interdependent Hadoop jobs and to automate several types of Hadoop jobs such as java map-reduce Hive, Pig and Sqoop.
+•Involved in writing Java API for Amazon Lambda to manage some of the AWS services.
+•Developed simple and complex MapReduce programs in Java for Data analysis on different data formats.
+•Developed data analysis and algorithmic solutions using programming languages like Python and R.
+•Created dashboards and visualization tools using Tableau to present insights derived from data analysis and segmentation results.
+•Generated ad-hoc reports and analyses to support decision-making processes and business insights.
+•Optimized data processing pipelines for improved efficiency, scalability, and performance.
+•Implemented caching mechanisms and parallel processing techniques to handle large datasets effectively and optimize processing workflows.
+•Collaborated with cross-functional teams, including data scientists, business analysts, and software engineers, to drive data-driven decision-making and innovation.
+•Documented data processing workflows, algorithms, and data schemas for future reference, reproducibility, and knowledge sharing.
+•Ensured compliance with data privacy regulations and company policies, implementing data governance practices for maintaining data integrity and security.
+•Monitored data access and usage to prevent unauthorized access and ensure data security.
+•Participated in project meetings and discussions, providing technical insights, recommendations, and expertise.
+
+Big data developer Home Depot Atlanta GA Feb 2012 – Sep 2015
+
+•Designed and architected big data platforms tailored for cybersecurity threat detection.
+•Collaborated closely with cybersecurity experts to comprehend requirements and translate them into scalable and efficient data architectures.
+•Implemented robust algorithms and data processing pipelines to detect and mitigate cybersecurity threats effectively.
+•Developed and optimized machine learning models to analyze network traffic patterns and identify anomalies indicative of potential security breaches.
+•Leveraged a variety of machine learning algorithms, including supervised and unsupervised techniques, to analyze large volumes of network data.
+•Applied anomaly detection algorithms to identify unusual patterns and behaviors signaling cyber-attacks or malicious activities.
+•Integrated threat intelligence feeds from external sources into big data platforms to enhance cybersecurity analytics capabilities.
+•Developed mechanisms to ingest, parse, and analyze threat intelligence data in real time, enriching cybersecurity analytics capabilities.
+•Implemented real-time monitoring and alerting systems to promptly notify security teams of potential security incidents.
+•Utilized streaming data processing frameworks to analyze incoming network traffic and generate alerts for suspicious activities.
+•Leveraged Hadoop for distributed storage and processing of large datasets.
+•Employed Apache Kafka as a distributed streaming platform for ingesting and processing real-time data feeds.
+•Involved in writing Java API for Amazon Lambda to manage some of the AWS services.
+Utilized Java and MySQL from Day to day to debug and fix issues with client processed.
+Involved in HDFS maintenance and WEBUI it through Hadoop-Java API.
+Generated JavaAPIs for retrieval and analysis on No-SQL database such as HBase.
+•Utilized various machine learning libraries and frameworks, such as Scikit-learn and Apache Mahout, for developing predictive models tailored for cybersecurity threat detection.
+•Utilized SQL for querying and analyzing data within big data environments.
+•Utilized Python's Pandas library for data manipulation and analysis, enabling efficient handling of structured data within big data environments.
+•Leveraged Pandas DataFrames for performing data cleaning, transformation, and aggregation tasks on large datasets, enhancing data preprocessing workflows.
+•Utilized Pandas' powerful querying and filtering capabilities to extract relevant information from complex datasets within big data platforms.
+•Employed NumPy for numerical computing tasks, including array manipulation, mathematical operations, and linear algebra computations within Python-based big data workflows.
+•Utilized NumPy arrays for efficient storage and manipulation of large-scale numerical data, enhancing performance and memory efficiency in data processing tasks.
+•Leveraged Apache Hive for data warehousing and querying capabilities.
+•Utilized Apache HBase for real-time, NoSQL database capabilities within big data environments.
+
+EDUCATION
+
+•MA Actuarial Science, Ball State University
+•MSc Mathematics with Big Data, African Institute for Mathematical Science
+•B.Sc. Actuarial Science, University for Development Studies
+
+CERTIFICATIONS
+•Machine Learning, Coursera
+•Python and Machine Learning for Financial Analysis, Udemy
+•Tableau for data science, Udemy
+•Data Analysis with Python, Udemy
+•Python, IBM & Coursera
+•Introduction to Data Science and Analytics, IBM
+Contact this candidate

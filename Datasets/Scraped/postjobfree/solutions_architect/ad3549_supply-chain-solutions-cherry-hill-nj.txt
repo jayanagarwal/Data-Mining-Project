@@ -1,0 +1,211 @@
+Kajal Somaiya
+Sr. Data Solutions Architect
+Cherry hill, NJ, US
++1-856-***-****
+ad3549@r.postjobfree.com
+linkedin.com/in/kajalsomaiya
+
+Summary
+23+ years of extensive experience in engineering, designing, and architecting sophisticated data environments including enterprise warehouses, marts, operational stores, and data lakes.
+Proficient in translating business objectives into technology solutions, with in-depth knowledge of various architecture patterns, cloud architecture, and enterprise DLT implementations.
+Skilled in implementing industry-standard data models like Terradata FSLDM, IBM MDM, and GS1 for Banking and Supply Chain Management.
+Expertise in enterprise data architecture, master data management, and data modeling using tools like ERWIN, Power Designer, XMLSpy, SQL Developer Data Model, and Magic Draw.
+Demonstrated ability to define and evolve data strategies aligned with enterprise direction, collaborating with and influencing stakeholders.
+Experienced in cloud deployment practices, continuous delivery, and leadership skills to mentor and partner with engineering and product teams.
+Hands-on experience with Oracle, PL/SQL, Snowflake, NoSQL platforms, event processing, Data API, and emerging data technologies.
+Exposure to Python, Data Science, Machine Learning methodologies, and Agile methodologies. Strong influencer with excellent interpersonal and communication skills, specializing in building applications for Banking, Finance Organizations, and Supply Chain platforms.
+
+Work experience
+
+Sr. Solutions Architect May2023 - Current
+Bank Of America
+Architecture Governance: Spearheaded the establishment of architecture governance standards, crafting standard operating procedures and documentation templates for the team to ensure consistency and adherence to governance standards for submission of QA Evidence documentation to the external auditors.
+QA Evidence Framework: Designed and implemented a robust Quality Assurance (QA) evidence framework, bolstering the credibility and reliability of audit responses. This framework facilitated precise documentation and evidence gathering, enhancing overall audit readiness.
+Documentation Templates: Created comprehensive document templates for solutions architecture, streamlining the documentation process and ensuring alignment with industry best practices. Provided guidance on utilizing Solutions architecture diagram templates and introduced diagram-as-code principles.
+Streamlined Operations: Identified and targeted technical debts, defining solutions for various IT assets under Solutions guidance for External Audits. Implemented solutions to resolve existing issues and lay the groundwork for future operational excellence, contributing to streamlined operations.
+SQL Optimization Guidance: Offered SQL code optimization guidance to the team, leveraging Visio to visually represent code components and provide optimization insights to team members, enhancing SQL performance.
+Tools and Technologies: XML Spy for XML and JSON, IntelliJ, GitHub, Git Bash, Snowflake, Azure Cloud.
+
+Sr. Data Architect 2022-05 - 2023-03
+Company Blue Yonder
+Data Model Upgrade: Led the transition of data models from XML to JSON format, recommending alternate tools like ERWIN data modeler for constructing standard logical data models.
+Data Model Development: Developed and modified data model components for Blue Yonder applications and the canonical data model across various formats including XSD, YAML, Snowflake, and JSON.
+Deployment Lifecycle Management: Generated and reviewed Snowflake DDL to implement delta and net new structures in the deployment lifecycle. Deployed data model changes in Azure cloud utilizing Jenkins/Jfrog
+
+repository, adhering to Agile development practices and CI/CD principles.
+Team Collaboration and Review: Conducted team reviews of data models, offering constructive feedback for enhancement. Contributed to the improvement of internally developed tools such as the data model workbench and a new tool table editor for application data management.
+Code Version Management: Supported the team's transition from Bitbucket to GitHub for code version management. Prepared documentation on code promotion procedures and provided guidance on troubleshooting GitHub issues.
+Scripting and Utilities Development: Built shell script utilities in Git Bash to review and verify data models in YAML, XML, and JSON formats. Created utilities for constructing physical data model components using shell scripts, Python scripts in Git Bash, and PowerShell.
+Tools and Technologies Utilized: XML Spy (for XML and JSON), IntelliJ, GitHub, Git Bash, Snowflake, Azure Cloud.
+
+Sr. Enterprise Data Architect Consultant 2022-01 - 2022-05
+Citigroup
+Evaluation of Data Modeling Standards: Reviewed the enterprise data model standards document, offering feedback to the Chief Data Architect on proposed standards. Identified gaps and potential enhancements to ensure alignment with data governance principles.
+Enterprise Data Model Repository Build: Initiated the development of the Enterprise data model repository, collaborating with application teams to share current state data models. Oversaw the onboarding process for data models developed across different platforms into the MagicDraw data model repository.
+Guideline Development: Created guidelines for onboarding existing application data models into the enterprise data models repository, ensuring consistency and alignment with organizational standards.
+Submission and Review Process: Established a structured process for submitting and reviewing data models within the Enterprise data model repository through the architecture review process, facilitating transparency and accountability.
+Troubleshooting and Best Practices: Addressed issues related to uploading data models in MagicDraw, offering troubleshooting support and suggesting best practices. Liaised with the MagicDraw team to address missing functionality and defects in the tool
+Technologies Utilized: MagicDraw, Lucid diagrams.
+Sr. Data Architect Consultant 2020-04 - 2021-12
+Citigroup
+DLT-Based Application Design: Led the design and implementation of distributed applications using Distributed Ledger Technology (DLT) for diverse use cases.
+Functional Architecture Creation: Developed high-level functional architectures for multiple use cases, particularly focusing on CLDD products in Wholesale Trade Applications.
+Blockchain Prototypes: Successfully created Blockchain-based prototypes for Wholesale Trade Applications, ensuring meticulous Transaction Record Layouts and resolving complex product mappings.
+Data Lineage Prototypes: Designed and implemented data lineage prototypes for end-to-end data flow in the trade lifecycle, covering various banking products and unstructured datasets.
+Vendor Proposal Review: Played a key role in reviewing vendor proposals and contributed to vendor selection projects, contributing to CITI's blockchain-based supply chain applications.
+Logical Data Modeling: Created Logical Data Models for on-chain, off-chain, Streams, consumption, and reference data for NoSQL-Document-based databases.
+Snowflake Storage Components: Developed Snowflake storage components for loading data from Originating systems, Middle Offices, and Audit Analysts into Snowflake Stage, ensuring efficient processing.
+Agile Development Leadership: Demonstrated leadership in Agile development lifecycle, reporting progress in bi-weekly sprints.
+Standardized Transaction Record Layouts: Introduced standardized transaction record layouts, enabling the creation of generic data elements for seamless data consumption from various applications.
+Data Lineage and Metadata Integration: Mapped Logical Data Models to enterprise metadata, linking Critical Data Elements & Information Assets to ensure comprehensive data lineage. Designed a data lineage data lake on Snowflake.
+Blockchain Prototyping Leadership: Led teams in developing prototypes for core blockchain concepts such as Digital Wallet, Data Provenance, and Tokenization.
+Research and Syndication: Contributed to thought leadership by preparing research articles on topics including CBDC, Crypto crime, and STOs. Effectively communicated proposed solutions with application stakeholders and various boards.
+
+Technologies: Visio/Excel for Data Modeling, MongoDB, Neo4j, Oracle, CouchDB, Hyperledger Fabric 1.4, 2.2, Kubernetes, Microservices, Python scripts, PowerShell, Snowflake
+Sr. Data Architect Consultant 2019-10 - 2020-02
+JP Morgan Chase, Jersey City, US
+Source Data Model Engineering: Utilized ERWIN metadata bridges and reverse engineering techniques to comprehensively understand and document the source data model. Employed these insights to inform subsequent data modeling activities.
+Complex Data Model Analysis: Analyzed a sizable physical data model, comprising over 1000 objects. Categorized objects into subject areas, aligning them with conceptual data model entities for enhanced organization and understanding.
+Integrated Logical Data Model: Developed an integrated logical data model tailored for the firmwide business resiliency program. This involved synthesizing various data sources into a cohesive and standardized structure.
+Enterprise Metadata Integration: Integrated the logical data model with enterprise metadata systems, facilitating robust data lineage mapping. Ensured critical data elements and enterprise assets were aligned, providing a comprehensive view of data flow.
+Agile Development and Reporting: Operated within an Agile development lifecycle, contributing to sprint deliverables every two weeks. Applied expertise in Continuous Integration/Continuous Deployment (CI/CD) and Infrastructure as Code practices.
+Documentation and Support: Provided detailed documentation and support for application team leads in building the physical data model using ERWIN. Offered step-by-step guidance, ensuring accurate and efficient implementation.
+Collaboration with Enterprise Architects: Collaborated with enterprise architects to review and refine the logical data model, ensuring alignment with broader architectural strategies and objectives.
+Data Lineage and Metadata Preparation: Established robust data lineage and prepared source-to-target metadata, enhancing visibility into data flow and aiding in effective data management.
+Technologies Utilized: ERWIN Data Modeler 9.2, Sybase Power Designer 16, MSSQL Server 2014, Python scripting.
+Sr. Data Warehouse Architect Consultant 2019-01 - 2019-10
+USLBM, Hammonton, US
+Design Workshops and Business Collaboration: Actively participated in design workshops with the business team, collaboratively defining subject areas, dimensions, and facts for functional Data Marts including Sales, Marketing, and Finance. Fostered a comprehensive understanding of analytical reporting needs.
+Bus Matrix Development: Constructed a bus matrix capturing interactions between various functional DataMarts across business units. Provided a structured view of data relationships, fostering cohesive analytics.
+Dimensional Modeling Expertise: Categorized dimensions, including confirmed, junk, slowly changing, and snapshot facts, alongside other fact tables. Developed hierarchies for Customer, product, and organization dimensions, ensuring a nuanced and effective data model.
+Agile Development and Reporting: Operated within an Agile development lifecycle, providing regular updates and reports every two weeks. Ensured adaptability to evolving requirements and priorities.
+Static and Reference Data Management: Built static and reference data, creating both type 2 and type 1 slowly changing dimensions. Enhanced the temporal aspects of data, supporting historical analysis.
+Cloud Database Setup and Validation: Set up and validated Oracle Cloud database and Oracle Autonomous Data Warehouse (ADW). Ensured a secure and optimized cloud-based data infrastructure.
+Automation through Excel Macros and ERWIN Tools: Developed Excel macros for automating data modeling tasks across multiple objects. Utilized ERWIN Bulk Editor and macros to automate bulk editing of data model objects, improving efficiency.
+Source-to-Target Mapping Assistance: Assisted in creating comprehensive source-to-target mappings, ensuring clarity and alignment between data sources and the data model.
+Technologies Utilized: Oracle Autonomous Data Warehouse, Oracle Cloud, Oracle Compute instances, ERWIN Data Modeler 2018 R1, Oracle 18c, Python scripting.
+
+Sr. Data Modeler Consultant 2018-03 - 2018-12
+J.P. Morgan Chase, Jersey City, US
+Project Scope: Spearheaded the development of an operational data store (ODS) for finance and billing integration at J.P. Morgan Chase.
+Data Model Creation: Developed enterprise-wide logical data models for Fee and Billing Management systems spanning multiple Line of Business (LOB).
+Collaborative Approach: Engaged in business requirements gathering, closely collaborating with Business Analysts and portfolio architects.
+Design Focus: Designed logical data models specifically for Vendor Management and Project Portfolio Management.
+Automation Initiatives: Automated tasks using Magic Draw reporting templates, UML Class diagram reports, and scripting in Magic Draw and SQL Developer Data Modeler.
+Metadata Integration: Integrated logical data models with Enterprise Architecture metadata to ensure compliance with enterprise assets.
+Technological Utilization: Leveraged technologies such as Magic Draw, SQL Data Modeler, and Oracle PL/SQL for data modeling and automation.
+Data Specialist Consultant 2011-01 - 2017-12
+TD Bank, Mount Laurel, US
+1.Solution Design Leadership:
+Led solution design efforts to integrate semi-processed data into a new system, streamlining data management.
+Implemented Terradata FSLDM and IBM MDM data models for reference data management systems. Integrated data from acquired organizations into the existing data warehouse, optimizing data flow.
+2.System Optimization and Migration:
+Descoped redundant systems, enhancing data management efficiency.
+Assisted in migrating data from SQL/Fortran to Oracle Exadata stored procedures, ensuring compliance. Developed PL/SQL stored procedures for data load optimization and proof-of-concept demonstrations.
+3.Data Quality and Governance:
+Built scripts to analyze data quality issues and ensure accurate reference data validation. Ensured data lineage and metadata accuracy through valid data mapping documentation.
+Collaborated with data stewards for reference data validation and adherence to governance standards.
+4.Project Involvement:
+RRDW (Risk and Regulatory Data Warehouse) + Customer Liquidity Reporting System: Designed system interfaces to capture gap data elements for CCAR reporting.
+Developed data load templates using SSIS and integrated the project on a cloud database.
+RISE (Risk Information Strategy for the Enterprise):
+Upgraded document content repository and implemented SOA-based interaction models. Designed logical/physical data models and coded ETL modules and APIs.
+Filenet Upgrade P2 to P8 / MDM for Customer and Account:
+Reviewed and implemented MDM data models and led Data Warehouse integration projects. Created frameworks for data movement strategies and led solutions for data archival.
+Technologies:
+Oracle 12C, Exadata, Power Designer 16.1, SSIS 2016, MSSQL Server 2012, Power Designer 15, Unix Scripting.
+
+Sr. ETL Engineer Consultant 2010-07 - 2011-05
+Barclays Wealth, New York, US
+Data Capture and Consolidation: Captured and consolidated data from all bank systems to conduct asset valuations and generate daily/monthly reports for clients, business units, and management.
+Monthly Statement Generation: Generated monthly statements detailing clients' holdings, portfolio valuation, and a snapshot of monthly investment activity.
+GAMMA Project Involvement: Actively participated in the GAMMA project at Barclays, contributing to the enhancement of client experience through the implementation of cutting-edge technologies.
+Technologies Utilized: Employed Informatica 8.6.1, IBM DB2, Autosys, and Unix for data processing and management tasks.
+
+Sr. ETL Engineer Consultant 2007-02 - 2010-07
+Bank Of New York Mellon, New York, US
+Software System Upgrade: Upgraded software systems for Ginne Mae, ensuring smooth transition and compatibility with modern technologies.
+Centralized Database Design: Designed a centralized database using contemporary database technologies, enabling efficient data management and retrieval.
+ETL Process Development: Developed ETL (Extract, Transform, Load) processes to seamlessly transfer data from legacy systems to the new operational data store and subsequently to the data warehouse.
+Technologies Utilized: Leveraged ORACLE 10g, Informatica 8.6.1, Unix, COBOL, and Informatica Power Exchange for system upgrade and data integration tasks.
+
+Sr. ETL Engineer Consultant 2005-06 - 2006-12
+Investors Bank & Trust, Boston, US
+Billing Management System Development: Contributed to the development of a new billing management system for mutual funds, encompassing report custody billing, accounts receivable, and revenue realization functionalities.
+Centralized Fee Billing System: Orchestrated the creation of a centralized fee billing and revenue management system across Line of Businesses (LOBs) to fulfill both bank and management reporting requirements.
+Informatica Mappings Design: Designed and implemented Informatica mappings to handle XML data feeds, leveraging reusable code components like maplets, worklets, and functions. Implemented data loading mechanisms for type 2 slowly-changing-dimension fact tables.
+Legacy Data Extraction: Developed Informatica Power Exchange data maps to extract legacy data from COBOL, Mainframe files, and DB2 sources, facilitating data loading from various file formats including KSDS, ISAM, and GDG.
+Technologies Used: Leveraged ORACLE 10g and Informatica 8.1.1 for system development and data management tasks.
+Sr. Software Engineer Consultant 2004-01 - 2005-02
+Citigroup, Mumbai, IN
+Language and System Upgrade: Led the upgrade of C, C++, SQR, PERL, Solaris, and Sybase to higher versions, ensuring compliance with upgraded standards and optimizing application performance.
+Security Enhancement: Enhanced application security by removing clear text passwords from the source code, contributing to a more secure codebase.
+Standards Compliance and Deployment Restructuring: Revamped the software deployment and coding structure to align with GDMS & UDEEG standards, enhancing overall software quality and maintainability.
+Migration and Versioning: Successfully migrated C, Shell scripts, SQR, and Sybase data objects to the latest versions, implementing Make files for efficient code redeployment with migration changes.
+Code Modernization for 64-bit Systems: Converted non-ANSII, 32-bit code in C/C++ to ANSII compliant code, adapting it for 64-bit systems using new compiler and library calls.
+In-Memory Database Conversion: Involved in the conversion of in-memory databases to Sybase, optimizing data storage and retrieval processes.
+Mortgage Desktop Trading System Upgrade: Played a key role in upgrading components (C, C++, SQR, PERL, Solaris, and Sybase) of the Mortgage Desktop Trading System, contributing to improved system functionality.
+Technologies Used: Utilized a range of technologies including Brio SQR 8.2, Brio Insight, Brio Explorer, Brio Designer, C, C++, Sybase 12.5, Solaris 2.8, Visio, and Codebase.
+Software Engineer Consultant 2001-07 - 2003-05
+Raymond Textiles, Mumbai, IN
+Project 1: Enterprise & Management System & Excise
+
+Executive Information System (EIS) Development: Developed an Executive Information System enabling analysis and planning for sales, product, and marketing initiatives.
+Decision Support System (DSS) Implementation: Supported analytics and reporting functions as a decision support system for executives, facilitating data-driven strategies in sales, product, and marketing domains.
+Project 2: Textile Warehouse Management System
+Legacy System Enhancement: Enhanced legacy systems within the textile warehouse environment to accurately calculate excise duty and sales tax.
+Excise Duty Calculation Tools: Implemented excise duty calculation tools using C++ systems and libraries, ensuring compliance with regulatory requirements.
+Barcode Scanning Module Maintenance: Maintained and improved barcode scanning modules for efficient inventory management in the warehouse.
+Technologies: Utilized VB 6.0, C#, Brio Report Builder, Sybase 11.9.2, and Brio SQR 6.2 for system development and management across both projects.
+References available upon request.
+
+Education
+MS
+University of Madras
+MS - M.C.A (Masters in Computer Application), University of Madras, India
+
+(Diploma) in Systems Management NIIT
+GNIIT (Diploma) in Systems Management, NIIT, India
+
+BS
+University of Mumbai
+BS - B. Com (Bachelor of Commerce), University of Mumbai, India
+
+Skills
+Data Modeling/ MDM
+
+Oracle/PL-SQL/MS SQL / Sybase
+
+Big Data: Apache Cassandra
+
+Big Data: Mongo DB/ Apache Couchdb
+
+Big Data: Big Data / DLT
+
+ETL: Data Mapping, Data Transformation
+
+Programming: API
+
+Objective
+I am seeking a challenging role as a Senior Data Solutions Architect in a reputable organization, aiming to leverage my extensive experience in data engineering, architecture, and design. I am dedicated to driving innovative data solutions, collaborating with cross-functional teams, and contributing to organizational success through strategic data management and advanced analytics.
+
+Qualifications
+Business Intelligence Tools: Brio /Hyperion Tool Query 6.2/8.0, SQRIBE SQR 2.5 Languages: C, JavaScript, VB 6.0, VB.NET, C#, Java
+Databases: Sybase ASE 11.5- 12.5, MS-SQL 2012, Oracle 9i- 12C, DB2, Exadata, Oracle Cloud, Oracle ADW, Mongo DB, Couch DB
+Data Warehousing/ETL: SSIS 2012, Informatica 8.1- 8.6.1 Power exchange, 8.1 - 9.1, Oracle ODI
+Operating Systems: Solaris 2.5/2.8, Linux, HP-UX 10.2, MS-DOS, WINDOWS 2000/NT/9x/XP Big Data Technologies: Cassandra, Hive, HQL(Basics)
+Blockchain: Hyperledger Fabric 1.4, Iroha, Indy, Aries, understanding of Etherum, other blockchain concepts like Tokenization, NFTs, etc.
+Data Modeling Tools: Power Designer 16.1, Magic Draw (UML) Class Diagrams, ERWIN V9, Viso, SQL Developer data modeler, XML Spy.
+Source code Controls :PVCS, CVS, SVN, GIThub
+
+Achievements
+TD WOW recognition - Outstanding System design RICA Project received from the program management team TD WOW recognition - RICA project for outstanding contribution to design front end application * TD WOW recognition - Leadership on Design and Build of RegO project
+Outstanding Performance in CITI - Decentralization of Global Systems - System Migration and upgrade team
+
+Certifications
+Brainbench certification for Data Modeling Concepts: (Among the top scorers in Cambridge, Boston), transcript id – 14257118
+Brainbench certification for Data Warehousing Concepts – 99 percentile score, transcript id – 14257118 DS101: Introduction to Apache Cassandra
+DS220: DataStax Enterprise 6 Practical Application Data Modeling with Apache Cassandra DS201: DataStax Enterprise 6 Foundations of Apache Cassandra
+Snowflake Instructor led training.
+AWS Cloud Practitioner/Cloud Fundamentals Training
+Contact this candidate

@@ -1,0 +1,175 @@
+Daniel J. Akintonde, PhD, ABD
+Senior Data Scientist
+Bowie, MD, Email: ad1ifa@r.postjobfree.com, Mobile Phone: 973-***-****
+
+EDUCATION
+
+BS, Advanced Diploma in Mathematics, University of Hull, England 1990
+MS Computational Mathematics, Brunel University of West London, 1997
+PhD, ABD Applied Statistics and Information Technology, Rutgers University, Newark, NJ, 2002
+
+US Citizen with ACTIVE SECURITY CLEARANCE: PUBLIC TRUST, CONFIDENTIAL / MBI
+
+TOOLS: R / RStudio, Python, SAS, SPSS (IBM Modeler), KNIME Analytics Platform.
+ALGORITHMS: Decision Trees, Random Forest, Support Vector Machines, Nearest Neighbor k-Means, NaÃ ve Bayes, Linear / Logistic Regression, Deep Learning.
+
+AWS: S3, RedShift, Athena, EC2 and Spark clusters.
+
+NLP Expertise Social Media Data Analytics, Key-phrase Extraction, Named Entity Recognition, Sentiments, Document Classification, Topic Modeling, Document Term Matrix, SVD.
+
+Stats Knowledge Sampling, Descriptive Statistics, Hypothesis Testing, ANOVA, Factor Analysis, Principal Components Analysis, Singular Value Decomposition, Multidimensional Scaling, Stochastic Processes, Markov Models, Queuing Theory, Monte Carlo Simulation.
+
+EXPERIENCE
+
+Senior Data Scientist --- Tata Consultancy Services July 2021 to Present
+(Machine Learning / Natural Language Processing --NLP)
+
+Projects:
+
+1---Tata Consultancy Services: TCS / FedEx Corporation, USA July 2021-2023
+Shipment Performance Visibility Software and Visualization / Dashboard Reporting System
+
+The web system allows FedEx corporate customers to track / monitor package shipment status online, with the ability to observe shipment problems especially shipment delays visually through a Microsoft Power BI dashboard and reports.
+
+As the project data scientist with expertise in data visualization, I was able to enhance the system by building predictive models using machine learning (Randome Forest, Queueing models and Monte Carlo simulations – all executed using Python and KNIME Analytic Platform, as well as Microsoft Azure ML Studio), also interactive dashboards using Microsoft Power BI, and optimization.
+
+As a result, customers were able to predict delays based on shipment routes, carrier type and logistics, day of the week, time zone, package attributes such as weight, volume and dimensions, barcode info, etc. Furthermore, end-users of the enhanced system were able to perform what-if analysis visually and interactively.
+
+2---TCS / CS&I (Internal Research / Experimental POC 2021
+Machine Learning Predictor of International Demurrage In Supply Chain Management.
+
+The International Shipment Demurrage Calculator — is a binary classifier machine learning system for calculating the probability of shipping delays as well as financial penalty (demurrage). This 92% accurate calculator used shipment data, including ports, routes, vessels, commodity types, dates, etc. to predict the likelihood of delays. Developed using KNIME Analytics Platform and Excel data, and Random Forrest machine learning models. Generated interactive Power BI dashboards for end-users to easily apply the models, and perform what-if analysis through data visualization and reports. Created data models using SQL connection to Microsoft Azure, including cross-tabs, drill-through, etc.
+
+Johnson & Johnson Pharmaceutical, July 2020 to July 2021
+(Janssen Biotech, Inc), Horsham, PA
+
+Senior Data Scientist
+
+Project Objective: (based on NLP, machine learning algorithms and healthcare data sources)
+1. Predict physicians most likely to prescribe a newly approved drug over well established brands.
+2. Predict marketing slogan / message title most likely to get attention / response from physicians.
+3. Predict communication channel most likely preferred by each physician (LinkedIn, Text, Phone, Office Visit, Email, Printed letter).
+
+Project Overview
+Johnson & Johnson has successfully secured the Food & Drug Administration (FDA) approval to market three of their newly developed drugs:
+
+1, Xarelto blood thinner, used to reduce the risk of stroke and blood clots.
+2. Tremfya used to treat psoriasis, a skin disease.
+3. Darzalex used in the treatment of certain types of cancer.
+
+These drugs are new, and unknown to thousands of physicians who are already prescribing well known popular brand drugs. The challenge was how to precisely identify ready and willing physicians who, upon marketing introduction and value proposition, are most likely to prescribe a new brand over existing well known ones. This would likely minimize marketing and advertising costs at least, and potentially boost revenue.
+
+The Company’s leadership believed it might be possible to maximize sales and revenues of these new drugs by leveraging data science specifically, machine learning, deep learning, and advanced analytics. Thus, this project was initiated.
+
+Data Science Goals --- based on historical data:
+
+1 Identify the characteristics / demographic attributes of potential brand-switchers:- physicians who are most likely to switch from an existing brand, and prescribe a totally new drug for treating the same illness.
+2 Rank the effectiveness and persuasive power of various messages and marketing slogans sent to physicians by company representatives and marketing field agents. Identify most compelling messages.
+3 Identify and rank physicians preferred communication channels:- email, LinkedIn, text, office visit, FaceBook, Twitter, WhatsApp, phone call.
+
+My Direct Contributions
+
+1---Working with stakeholders and marketing experts to set goals, identify data needs and data sources, understand and document products end-users and method of deployment including modeling cycles.
+
+2---Studying relevant healthcare databases including NPI (National Physician Index), FDA public databases, UCI-ML Archive (University of California Machine Learning datasets, models, visualizations, and reports).
+
+3---Working with big data engineers and other data scientists to integrate data from disparate sources Including AWS Redshift, S3 buckets on AWS, data generated locally through PySpark code, Excel data.
+
+4---Acting as the main project Scribe in writing and coordinating code and documents using BitBucket, JIRA, and Confluence.
+
+5---Working on a daily basis with data science tools including: Dataiku, Jupyter NoteBook, Python packages,
+
+6---Developing machine learning models using popular Python packages: NumPy, Scikit-Learn, Pandas, TensorFlow, Keras, matplotlib.
+
+.
+
+EXPERIENCE
+
+AARP Digital Marketing Analytics, Washington, DC March 2018 to July 2020
+Principal Data Scientist
+
+Project Deliverables
+
+1---Multi-channel Marketing Attribution: Using statistics to quantify recent online marketing campaigns.
+2---Clickstream Data Analytics and Next Mouse-Click / Web-Page Prediction
+3---Net Promoter Score Analytics: Using Machine Learning to Predict Customer Satisfaction (NPS score).
+4---Voice of the Customer Analytics: Using Named-Entity Recognition to understand customer needs.
+5---Customer Survey NLP: Using Sentiment Analysis on open-ended responses in customer survey data.
+
+My Direct Contributions
+
+1---Working with stakeholders and marketing experts to set goals, identify data needs and data sources, understand and document products end-users and method of deploymentâ€”including modeling cycles.
+
+2---Working with big data engineers and vendors to determine needed data lake configurations (to explore and select from Amazon Web Services, Microsoft Azure, and decide on oneâ€”in this case, AWS).
+
+3---Setting up statistical and data science modeling environment: installing open source software tools and packages including KNIME Analytics Platform, Python (Jupyter, IDLE, pip, Notebook) and R-Studio. Limited purchase of proprietary software packages Tableau, Minitab, and KNIME Server Engine.
+
+4---Working with database administrators and big date engineers and outside vendors to set up an integrated data science data repository from disparate data sources and formats (text documents, JSON, Excel, database tables, XML) specifically created to generating statistical and machine learning models, visualization, and reports.
+
+5---Multi-channel Marketing Attribution: Using statistics to quantify recent online marketing campaigns.
+Successfully developed Markov Models for computing differentials in weblog data pre / post marketing campaigns and deriving data-driven channel attribution, rather than based on traditional assumptions.
+
+Lead Data Scientist / Senior Statistician November 2016 to March 2018
+(Fraud Detection / Cybersecurity Anomaly and Outlier Analyses)
+U. S. Census Bureau / U.S. Department of Commerce
+Suitland, MD
+
+Company / Project Overview:
+
+U.S. Census Bureau, in preparation for census 2020 which would be the first census ever to implement Internet-based and mobile phone response to census questionnaire, is developing a machine learning fraud detection system to intercept potential census response fraud coming through cybersecurity breaches and attacks. With annual $400 Billion federal funds to be allocated to states / counties / cities on the basis of population counts there has always been the potential threat of widespread robot / machine generated forged / fraudulent census responses. The fraud detection system under development has three components:
+
+Machine Learning (binary classifier) scoring engine for assigning census responses into fraud / non-fraud categories based on risk probabilities and a predefined threshold, (2) Natural Language Processing, NLP, applied to social media data (twitter, reddit, facebook) to detect potential forums relating to census anomalies / fraud (named-entity recognition, document clustering, topic modeling, document classification, and sentiment analysis), (3) Census response data validation and anomaly detection using probability computations, statistical hypothesis testing, pattern recognition, GIS and topological data analysis, and time series analysis.
+
+As principal data scientist working on this project my role included
+
+1 Collaborating with Infrastructure and IT department in setting up statistical / predictive modeling development environment on Amazon Web Services, including EC2 and S3 buckets, installing open source tools and configuring user accounts and privileges for R-Studio, Python, TensorFlow, GIT-GITHUB, PostGresSQL RDBMS, KNIME Analytics Platform, SAS Enterprise Miner.
+
+2 Writing modeling strategy document, recommending and defending the CRISP-DM model to upper management and providing mentorship to junior data scientists and managers with less familiarity with machine learning, NLP, and CRISP-DM concepts.
+
+3 Simulating census fraud data by collaborating with census experts in identifying data which violate census response rules.
+
+4 Procuring social media data (twitter, FaceBook, Reddit, Instagram) through web APIs as well as third party tools including Sysomos & IBM Watson.
+
+5 Writing code in R / RStudio and Python (NumPy, Sci-Kit Learn) to train and evaluate machine learning models for detecting fraud. Comparing different algorithms and model parameters for best performance based on Recall, Precision, AUC / ROC curves. Experimenting with Decision Trees, Support Vector Machines, Logistic Regressio Learning, Nearest Neighbor, k-Means.
+
+6 Performing natural language processing of social media data for potential census fraud detection using latent dirichlet allocation (LDA) for topic modeling, bag of words and tf-idf document term matrix representation followed by document clustering (k-Means) and document classification machine learning (SVM and Neural Nets).
+
+Data Scientist (Principal)
+Xerox Corporation, Albany, NY June 2010 to November 2016
+Xerox Litigation Services / Electronic Discover
+
+My roles on current projects:
+
+Machine Learning and Natural Language Processing (Predictive Coding Algorithm & Software Design)
+
+The goal of this project for each civil litigation subpoena, mergers & acquisition, or request for production (RFP) is to develop and implement cost-effective machine learning algorithm based document categorization software for detecting and coding (labeling) electronically stored information (ESI) into pre-defined target categories (responsive, non-responsive, privilege, non-privilege, and hot topic) with reasonably high accuracy (recall, precision, and F-score).
+
+As principal data scientist working on this project my role included
+
+1 Collaborating with senior attorneys and SMEs in planning automated document review scope and strategies including defining optimized lists of keywords and key phrases that best split documents into categories.
+.
+2 Performing sample size estimates and cost-benefit analysis on a set of documents (that must be reviewed by senior attorneys intimate with a particular case) to be used as input for training and testing document categorization algorithms. Planning model defensibility and EDRM workflow and compliance.
+
+3 Performing feature extraction and selection using Latent Semantic Analysis, Principal Components Analysis, Factor Analysis, and Singular Value Decomposition, using KNIME version 2.12.2 and RapidMiner with R and Python Programming Tools..
+
+4 Executing statistical methods for boosting model training samples and establishing confidence level and margin of error for model performance metrics (recall, precision, and F-score) with Monte Carlo simulation using Oracle Crystal Ball.
+
+5 Performing correlation analysis and hypothesis tests on email metadata in order to establish any statistically significant relationships between individual (or combinations) email metadata attributes and document categorization (responsiveness and privilege) using MINITAB, R, and Python programming.
+
+6 Comparing model costs and performances by varying modeling configurations such as document vector representation (binary, term frequency, term frequency-inverse document frequency), machine learning
+algorithm (Naive Bayes, SVM, k-NN, Decision Trees), and document similarity / distance method (cosine,
+
+United States: Internal Revenue Service (IRS)
+New Carrollton Federal Building, Maryland
+Consultant through SRA International, Inc. July 2003 to 12/2010
+Fairfax, VA,
+Senior Statistician, Fraud Detection, Data Mining Analyst / Engineer and Software Developer
+
+1Senior Data Mining Analyst, IRS Tax, Electronic Fraud Detection System. Responsible for developing statistical data mining algorithms for pattern recognition and fraud detection in fund disbursement applications. Maintained SPSS PASW (formerly Clementine 12.0) data mining software programs.
+
+2Providing data mining support and back up to the IRS EFDS project. This includes, but is not limited to: client- and cross-team- interaction, knowledge elicitation from the client, participating in requirements, design, specification, fraud detection research and development, performance testing, statistical verification, support in data analysis, data mining and knowledge discovery for IRS tax fraud detection.
+
+3Senior Data Mining Analyst. Responsible for collaborating with Oracle database administrators regarding data field specifications, database design, and PL/SQL query execution and optimizationsponsible for statistical and data mining technical support services including forecasting anticipated annual fraud volumes and the implicit human resource workload requirements for processing electronic filings and paper based forms on the basis of statistical predictions.
+
+4 Responsible for exploring and testing PASW (Clementine 12) algorithms: K-Means Clustering, Decision Trees C5.0, Support Vector Machines, Cohonen Clustering, PIM and PAR (program implementation and parameter files) modules and deployment on server machines running on UNIX platforms.
+Contact this candidate

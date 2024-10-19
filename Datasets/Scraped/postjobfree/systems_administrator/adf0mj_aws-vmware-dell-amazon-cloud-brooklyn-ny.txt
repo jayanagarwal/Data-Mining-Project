@@ -1,0 +1,74 @@
+Shahzada Kakar
+Linux systems administrator/engineer
+Email: adf0mj@r.postjobfree.com Ph: 347-***-****
+
+OBJECTIVE
+Individual with 6+ years of experience in Linux system administration/engineer & AWS cloud computing. Seeking a position where I can challenge my technical skills & utilize my expertise within the areas to address & solve the company’s technical needs. Experience in collaborating in a team environment & accomplishing company goals set by senior management & in dealing with high level tasks. Experience with various tools such as Ansible, Docker, Git and bash scripting.
+SKILLS
+Operating systems: RedHat Enterprise Linux (RHEL 6, 7, 8), CentOS.
+Hardware: Dell and HP servers (6th gen & upwards).
+Storage: Logical unit numbers (LUNs), Storage area network (SAN), Network attached storage (NAS), Direct attached storage (DAS), ISCI.
+Linux: Package management (Yum, Repository, RPM), VI/VIM, filesystem management (Ext3, Ext4, XFS), User/Group Administration, LDAP, disk management (logical volumes LVM, static partitioning, RAID), DNS, DHCP, SNMP, NIS, NFS client/server, Samba, FTP/VSFTP, NTP, Apache (Http, Https), network troubleshooting, kernel panic recovery, SSH, Telnet, SCP, Rsync, Wireshark, Tcpdump, TCP/IP & UDP, NIC Bonding/channel bonding/NIC teaming, Process Management, Systems performance monitoring & optimization, kernel Tuning, performance tuning, PXE Boot & Kickstart, Thick/Thin Provisioning, Network Adapters, Switches, Net backup, KVM virtualization, RedHat Satellite, Vulnerability assessment/patching, system security (IPtables/Firewall/selinux, custom ports, permissions/attributes, password policy), Crontab/Cron jobs, remote management console (ILO/IDRAC), data archiving (Tar/Zip), logging & log reviews, direct user support, ticket assessment & prioritizing, incident management, change requests (CRQ), service requests (SRQ), Data backup, disaster recovery, configuration management, High-performance computing (HPC).
+Automation, DevOps tools & Cloud computing: Ansible (ad-hoc commands, playbooks), bash/shell scripting, Docker containers, GitHub, AWS (EC2, S3, IAM, ELB, CloudFront CDN etc.).
+Monitoring tools and ticketing systems: BMC remedy, ServiceNow (SNOW), Tivoli, Nagios.
+Projects: Racking-stacking bare-metal server & virtual machine deployment, server decommissioning & data destruction, server migration (p2v), OS upgrading, service upgrading.
+VMware: Virtualization, ESXI hypervisor, vSphere, vCenter, vMotion, vConverter, clusters, clone, snapshot, template, high availability (HA), distributed resource schedular (DRS), fault tolerance (FT), load balancing.
+Languages: Python (basic).
+
+EDUCATION
+Bachelor’s in engineering: estimated time of completion 2021, New York city college of technology.
+
+PROFESSIONAL EXPERIENCE
+Honeywell Morristown, N.J
+Linux Systems Administrator / Engineer March 2018 – Present
+Experienced in Provisioning, configuring, and deploying RHEL/CentOS systems 6+.
+Assisted different teams when unboxing new servers by racking, stacking, and wiring.
+Expertise installing VMware ESXI on Dell and HP bare-metal servers.
+Installed and configured servers (dhcp, tftp, ftp) needed for over the network installation of operating systems, using PXE boot and Kickstarter.
+Daily operations consisted of assessment of tickets and resolving them in a priority order.
+Configured LVM for better file-system management and storage provisioning. Used utilities like Fdisk for partitioning. Made entries in fstab to permanently mount filesystems.
+Knowledge of different RAID levels (0, 1, 5,6,10) and the various advantages, disadvantages, and requirements of each level (mirroring, striping, parity).
+Utilized the scp and Rsync utilities to safely copy files between machines.
+Utilizing RedHat Satellite to configure local repository for within network use of various environments such as Production, Development etc.
+Troubleshooted server sluggishness using top, free, strace, iotop, vmstat, df, sar utilities.
+Knowledge of kernel tuning using the sysctl command to change kernel parameters on the fly as well changing parameters to make them boot-persistent.
+Expertise in analyzing running processes, load average, utilization of memory and CPU on systems encountering high user mass to amplify performance capability by utilizing commands like iftop / top / sar.
+Experienced using sniffing tools such as tcpdump and wireshark to monitor and analyze network traffic to assist in network troubleshooting.
+Monitored system activity information for different time frames using sar command.
+Experienced installing and configuring services such as NFS, NIS, AUTOFS, DHCP, DNS, NTP.
+Efficiently documented troubleshooting guidelines, root cause analysis sheets, strategies for improvement of various tasks for a more efficient performance overall of team.
+Periodical checking for system vulnerabilities & updating required packages – patched systems by using package management utilities such as yum and rpm.
+Researched and recommended innovative approaches for automating system administration tasks.
+Knowledge of the fundamentals of Bash scripting. Tweaked and developed scripts to automate daily tasks.
+GitHub: Experience in utilizing/managing GIT for documenting, version-control, storage, collaborating and sharing in-between the teams.
+Amazon web services cloud (AWS): Experienced in services like EC2 instances, S3 storage & buckets, EFS, ELB, Cloud Front CDN, Cloud Watch monitoring, IAM, AMI, Lambda etc.
+Crontab: Managed systems and scheduled tasks by enabling, disabling, and creating cron-jobs.
+
+Dell Technologies Texas
+Jr. Linux Systems Administrator July 2016 – December 2017
+
+Installation, configuration, and maintenance of Linux RHEL 6 & 7 operating systems.
+Installation, management and troubleshooting hardware and software issues.
+Configuring SSH access to remote hosts– SSH passwordless/keyless authentication – creating SSH keys and copying to remote servers – performed ssh troubleshooting.
+Disk management: Adding new hard drives, scanning for new hard drives. creating LVM – logical volume management – creating/managing static partitioning via tools like fdisk – mounting/unmounting file systems – maintaining/repairing file systems - carrying file system consistency checks using fsck command – configuring swap space.
+Experience in configuring/troubleshooting virtual interfaces, perform NIC bonding/channel bonding/NIC teaming to achieve speed (load balancing) & redundancy (fault tolerance).
+Experienced on remote management consoles iLo and idrac.
+Set up static IPs and configured the network interfaces.
+Experienced in troubleshooting issues relating the network, NTP, DNS and DHCP.
+Configuring, mounting, and maintaining service such as Apache HTTP/HTTPS, FTP/TFTP, NFS shares (client/server) and SAMBA to effectively manage file transfer.
+Day to day operational support and maintenance of the system through monitoring tool, which monitors system performance of CPU, memory, and disk utilization.
+Used Ansible configuration management tool to automate & orchestrate tasks across the infrastructure by utilizing Ad-hoc commands, ansible playbooks and ansible tower.
+Docker: Managed DOCKER deployed containers by maintaining docker engine/daemon, docker client, docker registry.
+Data Prise Inc New York, NY
+Linux Systems Analyst / Operator May 2014- June 2016
+
+●Memory Module, Expansion Card, Motherboard installation and configuration.
+●Recommended, scheduled, and performed PC, hardware and peripheral equipment improvements, upgrades, and repairs.
+●Remote system Administration using SSH.
+●Participating in business resumption and technical outage briefings.
+●Prepared effective technical documents, status report & presentations to management.
+●Occasionally performed application testing and debugging.
+●Project lead for provisioning 200 servers successfully in a single week.
+●Resolved TCP/IP network access problems for the users.
+●Performed 24x7 on call duties on a rotation basis with the other system engineers as part of incident management.
+Contact this candidate

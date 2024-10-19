@@ -1,0 +1,85 @@
+CHIOMA OKECHUKWU
+Houston, TX ***** 832-***-**** ad14b1@r.postjobfree.com
+Summary
+Over all 9+ years experiences in IT and also dedicated multi-cloud DevOps engineer with 7+ years experience managing infrastructure across CSP (Azure and AWS). Hands-on experience supporting Networking, Security, inner- sourcing, Firewall and so on to ensuring liable and stable Production deployment. Analytical, committed, persistent individual and reliable team member working both independently and collaboratively with great troubleshooting skill. Strong communication skills with a track record of collaborating with cross-functional teams to deliver solutions that meet business and client requirements.
+Skills
+CSP I KNOW: AWS, Azure
+AZURE and AWS Network Tools: Vnet, Ipam, VPC,
+Transit gateway, DNS and Network firewall, Virtual private network, Aws verified access, Transit gateways, Traffic mirroring and VPC lattice and so on.
+IAC Tools: Terraform, Cloud Formation and ansible. Container Tools: Docker, Kubernetes, Azure app services Managing Tool: System manager, Ansible.
+Operating system: Ubuntu, Red Hat, Debian, Windows, CentOs 7.
+Programming language: Python.
+Script: Shell script, bashscript
+Pipeline Tools: Maven, Sonarqube, Nexus, Jenkins, Gitlab and Github.
+AWS Services: IAM, Networking, Compute, Storage, elb, route53.
+Azure Services: RBAC, Vnet, ExpressRoute, DNS, DDos Protection.
+Versioning Tool: Git, GitHub, Gitlab.
+Monitoring Tools: Cloudwatch, Sns, Cloudtrail, Nargios. CI/CD Tools: Jenkins, JDK, Maven, Sonarqube, SCM,
+slack.
+Security: Active directory, sts, Secret manager.
+Serverless Compute: ECS/Fargate, EC2/ECS,
+Kubernetes.
+Storage: Azure Storage account, Aws S3 bucket, tf
+statefile.
+Cloud services worked on: Iaas, Paas and Saas.
+Application and Webserver: Tomcat, apache2.X/1.3X, Jboss 7.1.
+Collaboration Tools: Trello, Slack
+07/2020 to Current
+Remote, Remote
+Experience
+Senior DevOps Engineer
+McKinsey & Company
+Enagements
+- Wealth & asset management - (Banking & Securities).
+- Isolation zone
+Collaborated with cross-functional teams to develop and deploy isolation zones, effectively reducing the blast radius of security incidents and enhancing the overall resilience of the organization's infrastructure. Developed and maintained comprehensive documentation outlining the architecture of isolation zones, ensuring that all stakeholders had a clear understanding of the implemented security measures. Implemented a real-time monitoring system for isolation zones, resulting in a 20% improvement in the organization's ability to detect and respond to security incidents promptly.
+- Deployment patterns (Pattern and Resiliency)
+Led the initiative to optimize deployment patterns and enhance system resiliency within the organization, aligning with industry best practices and ensuring a robust infrastructure. Introduced and championed the use of infrastructure-as-code (IaC) principles, leveraging Terraform to create reusable and scalable deployment solutions. This approach streamlined the deployment process and significantly reduced manual errors.
+Enforced governance through policy-as-code using tools such as tfsec and Checkov, ensuring compliance with security and best practice policies throughout the development and deployment lifecycle.
+- Certificate Automation
+Utilized Terraform for infrastructure as code (IaC) to create a scalable and dynamic environment for certificate storage and management, ensuring both security and accessibility. Integrated Azure Key Vault to serve as a secure and centralized repository for storing sensitive cryptographic 01/2018 to 07/2020
+Remote, N/a
+keys and certificates, implementing robust access controls to safeguard against unauthorized access. Automated the entire certificate management lifecycle, including certificate request, installation, renewal, and revocation, streamlining processes and eliminating manual intervention.
+- Car Rental - (Travel, logistics and infrastructure)
+- Firewall Automation
+Collaborated closely with cross-functional teams, including network engineers and system administrators, to understand the unique requirements of different applications and services, ensuring that firewall automation aligned seamlessly with organizational needs.
+Conducted regular security audits and assessments to evaluate the effectiveness of firewall automation, identifying areas for improvement and implementing enhancements to stay ahead of emerging threats. Enforced tag-based policy checkout scans for every resource created in the Azure cloud, implementing a proactive security measure to identify and mitigate potential vulnerabilities at the resource creation stage.
+- Azure Active directory (authentication to backstage) Designed and implemented a robust authentication framework within Azure Active Directory, tailoring access to Backstage, the organization's centralized platform, for users within three distinct app roles. Collaborated closely with cross-functional teams, including developers and system administrators, to define app roles and access requirements, ensuring a granular and secure approach to authentication.
+- Azure Key vault
+Addressed and resolved Key Vault reference errors, ensuring the smooth functioning of the credential retrieval process during login and minimizing potential disruptions to user access. Collaborated closely with development and operations teams to provide guidance on best practices for utilizing Azure Key Vault, fostering a culture of security awareness and compliance across the organization.
+- Education service providers (Social, Health Care and Public entities)
+- IPAM Automation
+Established and enforced robust access controls and security measures within the IPAM automation framework, mitigating the risk of unauthorized access and ensuring compliance with security policies. Conducted comprehensive analysis and testing of the IPAM automation solution, addressing any issues and optimizing performance to meet scalability requirements.
+- DNS Automation
+Implemented a streamlined DNS solution for efficient name resolution services across cloud assets, utilizing scripted design to reduce configuration efforts through automation and self-service. Provided comprehensive training and documentation for both technical and non-technical stakeholders, promoting awareness and understanding of the automated DNS solution. Senior DevOps Engineer
+IBM
+Projects - I worked on
+Central Bank - (Banking)
+Jenkins CI/CD
+- Formulated and implemented comprehensive DevOps strategies, leading to enhanced system scalability and a 50% reduction in deployment time.
+Create and maintain comprehensive, automated Jenkins CI/CD pipelines for seamless code deployment and to trigger Jenkins builds automatically.
+Establish CI for new branches through Jenkins to meet specific client automation needs. Architected and executed a fully automated CI/CD pipeline, resulting in a remarkable 50% reduction in deployment time and a substantial 75% increase in deployment frequency. Enhanced system monitoring and alerting capabilities, contributing to a notable 40% improvement in overall system reliability.
+Pharmaceuticals - (Life Science)
+- Successfully managed and optimized cloud infrastructure to guarantee high availability and scalability for critical systems catering to millions of users.
+Introduced Kubernetes for efficient container orchestration, leading to a notable 20% reduction in infrastructure costs.
+Implemented Ansible to automate manual tasks, resulting in significant time savings—averaging over 10 hours per week for operations teams.
+Formulated comprehensive disaster recovery plans and executed regular system backups, effectively minimizing downtime and potential data loss in the event of failures. 01/2016 to 01/2018
+Houston, Texas
+Specialty Chemicals - (Global materials)
+In my capacity as a Release Manager, I lead a team of five DevOps engineers responsible for diverse deployments within the entire AWS environment. Utilizing Git, GitHub, and Nagios, actively monitor and manage source code.
+Identified and implement solutions to address any shortcomings in AWS code deployment services, resulting in a notable 30% reduction in deployment time. Additionally, I deploy Jenkins to automate tests and optimize the Continuous Integration/Continuous Deployment (CI/CD) pipeline. Senior DevOps Engineer
+CenterPoint
+Created an application in Azure using Terraform to deploy Virtual Network and Virtual machine. This application was deploy in a container.
+Perform maintenance and debugging terraform module before making any pull request and pushing code to the master branch for production use.
+Created Docker images from scratch and ensured that my code are hardened with CIS benchmark before pushing them to the operation team for further deployment. Created the automated build and deployment process for application, re-engineering setup for better user experience, leading up to building a continuous integration system for Aws services with Jenkins. Excellent communication skill and great listener to ensure that various task given to me are carried out to meet customer expectation.
+Worked on Implemented AWS using VPC, Subnet, IGW, Route Tables, SG, EC2, ELB, ASG and other Aws services using Terraform as automation configuration tool for the underlined infrastructure listed above. Configure maven sonarque interaction for code quality analysis before a build is done. Configure maven-nexus interaction to upload artifactory for backups and snapshots purpose. 12/2017
+Waco, TX
+Education and Training
+Bachelor of Science: Geology
+Baylor University
+Aws Ceritfied DevOps Engineer - Professional.
+Hashicorp Certified : Terraform Associate (002).
+Aws Certified Solution Architect - Associate.
+Microsoft Certified Azure Fundamentals AZ-900.
+Certified Kubernetes Administration CKA
+Contact this candidate

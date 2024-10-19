@@ -1,0 +1,82 @@
+Name: Albertine zountchegbe
+Address: ***** **** **** **, **
+Email: adz1gx@r.postjobfree.com
+Phone: 571-***-****
+Objective:
+A positive-minded and results-oriented professional with over 8 years of experience in the field of information technology, specializing in AWS solutions architecture and DevOps engineering. I possess 5 years of hands-on experience in designing and building scalable, fault-tolerant, cost-optimized, resilient, elastic, and highly secure infrastructure.
+My expertise lies in implementing cloud solutions while adhering to AWS best practices, utilizing a wide range of AWS services such as EC2, S3, EBS, VPC, IAM, SSM, RDS, Lambda, SNS, SQS, WAF, CloudWatch, CloudTrail, CloudFront, Elastic Beanstalk, CloudFormation, SSO, and federated identity. In addition, I have extensive experience working with popular open-source tools including Jenkins, Docker, and Terraform, Git/Github.
+Technical Skills:
+Proficient in designing and building scalable, fault-tolerant, cost-optimized, resilient, elastic, and highly secure infrastructure.
+Extensive hands-on experience implementing cloud solutions using AWS services such as EC2, S3, EBS, VPC, IAM, SSM, RDS, Route 53, Lambda, SNS, SQS, WAF, CloudWatch, CloudTrail, API Gateway, CloudFront, Elastic Beanstalk, CloudFormation, SSO, and federated identity.
+Strong familiarity with open-source tools including Jenkins, Docker, and Terraform for efficient DevOps workflows. Solid understanding of implementing AWS best practices to ensure robust and efficient cloud deployments. Proficient in managing and automating infrastructure deployments, configurations, and orchestration processes. Skilled in continuous integration and continuous deployment (CI/CD) pipelines for streamlined software delivery. Knowledgeable in monitoring and logging tools for performance optimization, troubleshooting, and proactive issue resolution.
+familiarized with containerization technologies and container orchestration frameworks such as Kubernetes. Strong understanding of networking concepts, security principles, and compliance frameworks in cloud environments.
+Proficient in scripting languages such as Python, Bash, or PowerShell for automation and infrastructure-as-code
+(IaC) implementations.
+Excellent problem-solving and troubleshooting skills to ensure smooth operations and timely issue resolution. Languages: Bash Shell, python, Java, html, yaml, JSON and Groovy, HCL Tool Chain: Terraform, Docker, Docker Swarm, Kubernetes, Jenkins, Apache httpd, nginx, Jira, Confluence, Tomcat, Maven, Git/GitHub, New Relic, Prometheus, Grafana, RDS, CloudFormation, EC2, ECS, IAM, CloudWatch, ELB, EBS, AWS EKS, AWS VPC, Subnets, NAT Gateway, AWS Organization, Control Tower
+PROFESSIONAL EXPERIENCE
+Center for Medicare and Medicaid Services
+Job Title: AWS Infrastructure Engineer (Terraform) May 2020 - Present
+● Deployed AWS resources, including Lambda functions, Step Functions, SNS, and more, using Terraform to ensure efficient and consistent infrastructure provisioning.
+● Utilized Terraform modules to accelerate the deployment process and maintain standardized resource configurations.
+● Configured Terraform workspaces to enable seamless deployment of AWS infrastructure across multiple environments.
+● Integrated Jenkins with GitHub repositories and established triggers for automated deployments, enabling smooth software delivery processes.
+● Built end-to-end automated CI/CD pipelines, leveraging a variety of interconnected tools to streamline the software development lifecycle.
+● Deploy docker for web/application servers such as JBoss/Wildfly, Nginx, Apache Air-flow, and Tomcat to support various applications.
+● Implemented a disaster recovery strategy by utilizing Lambda functions to copy database snapshots to another region and CloudFormation templates to recreate the environment within specified recovery time objectives (RTO) and recovery point objectives (RPO).
+● Utilized CloudFormation to automate the deployment of AWS applications and provision required services.
+● Deployed pods/containers to different target environments using Kubernetes YAML files, leveraging the power of containerization technologies.
+● Leveraged DevOps tools like GitHub and Jenkins for efficient software build, packaging, testing, and delivery across multiple target environments.
+● Utilized AWS Elastic Container Service (ECS) to deploy Docker containers on Fargate, ensuring seamless container management and monitoring with appropriate logging configurations.
+● Implemented CI/CD workflows for various applications using Jenkins and other DevOps tools, enabling continuous integration and end-to-end automation.
+● Provided support for mission-critical applications running on Tomcat, JBoss, and WebLogic application servers, ensuring high availability and reliability.
+● Designed and implemented high availability applications on AWS, spanning across multiple availability zones and regions.
+● Defined and deployed monitoring, metrics, and logging systems on AWS to ensure effective infrastructure and application performance monitoring.
+● Regularly refreshed development and testing instances with production data to maintain accurate and up-to-date environments.
+● Automated operational tasks such as software configuration, server scaling, deployments, and database setups in AWS using modern application and configuration management tools like Jenkins.
+● Employed Linux shell scripting for the automation of repetitive and routine tasks, enhancing operational efficiency.
+Cigna, Bloomfield, CT
+Job Title: DevOps Engineer
+March 2017 – April 2020
+• Worked extensively with AWS services such as EC2, S3, VPC, ELB, Autoscaling, Route 53, IAM, CloudTrail, CloudWatch, CloudFormation, CloudFront, SNS, and RDS.
+• Developed CI /CD to standardize the infrastructure and automate the processes, allowing customers to rapidly build, test, and release code while minimizing errors.
+• Set up and built AWS infrastructure with various services available by writing CLOUDFORMATION templates in JSON.
+• Configured various performance metrics using AWS Cloud watch & Cloud Trial
+• Created topics in SNS to send notifications to subscribers as per the requirements.
+• Used AWS Route 53 for configuring High-Availability and Disaster recovery to make the environment up and running in case of any unexpected disaster.
+• Create AMIs for mission critical production servers for backup.
+• Implemented Amazon RDS multi-AZ for automatic failover and high availability at the database tier.
+• Designed automated and manual backups for Amazon RDS databases.
+• Maintained and version controlled CFT using codecommit.
+• Configured and maintained Ansible build to automate jobs
+• Deployed and configured Git repositories with branching and notifications.
+• Created CLOUDFRONT distributions to serve content from edge locations to users to minimize the load on the frontend servers. Implemented CLOUDTRAIL to capture the events related to API calls made to AWS infrastructure. Provisioned highly available and scalable Ec2 instances by leveraging ELB and auto scaling. Configured and maintained Virtual Private Clouds (VPCs).
+• Optimized cost by using S3 lifecycle policies to move data automatically to other storage classes as needed. Implemented versioning and server-side encryption on S3 buckets to maintain critical data integrity. Created AMIs of instances and snapshots of underlying EBS Volumes, making copies in other regions to mitigate for disaster recovery.
+Airline Tariff Publishing Company (ATPCO), Dulles, VA Job Title: Cloud Architect
+Dec 2014 – Feb 2017
+• Provision AWS resources using management console as well as Command Line Interface.
+• Created user accounts, policies and roles on Amazon Web Services using IAM.
+• Plan, build and configure network infrastructure within VPC with public and private subnets, configure route tables, security groups and internet gateways.
+• Implement and maintain the monitoring and alerting of production and corporate servers/storage using CloudWatch.
+• Configure NACL, Security Groups and WAF to secure the application and VPC network depending on access parameters provided and conditions.
+• Leverage AWS cloud services such as EC2, auto scaling and VPC to build secure, highly scalable, and flexible systems that can handle expected and unexpected load bursts.
+• Setup and configure VPC Peering for communication between EC2 instances created in separate VPCs.
+• Design, develop and deploy AWS services as Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS).
+• Encrypt and manage both server-side encryption such as KMS and AWS Client encryption library, and client-side encryption of S3 and databases in the cloud.
+• Create and manage IAM user accounts and role-based policies for access to AWS services.
+• Implement, maintain and monitor alarms, notifications for EC2 instances using CloudWatch and SNS.
+• Evaluate and improve existing AWS deployments.
+• Perform S3 bucket creation, access policies, and archive outdated data to Glacier through the Lifecycle policy configuration.
+• Launch different RDS databases to support web application functionality.
+• Create flow logs for monitoring of built VPCs.
+• Responsible for allocating, releasing, associating, and disassociating elastic IP addresses. Troubleshoot various customer technical problems and adhere to best practices.
+• Technology: IAM, VPC, EC2, Auto Scaling, RDS, CloudWatch, Cloud Formation, CloudTrail
+• Utilized VPC, EC2, S3, RDS, Lambda, Route 53, CloudFormation and other AWS services and migrate On-premises applications to AWS Cloud platform.
+• Setup S3 cross region replication on AWS same account and AWS different accounts. Provisioned RDS, Load balancers, EC2 to meet application requirements. Education
+- Udemy
+- Intellipaat
+Organizations:
+Cloud Native Computing Foundation (CNCF)
+Linux Foundation
+Language Proficiency:
+English
+Contact this candidate

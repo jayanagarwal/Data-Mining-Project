@@ -1,0 +1,169 @@
+RAMYA SRI JASTHI
+Senior Data Engineer
+Email id: ad8ptm@r.postjobfree.com Ph no: +1-712-***-****
+LinkedIn: http://www.linkedin.com/in/ramyasri-jasthi
+
+PROFESSIONAL SUMMARY:
+
+Data Engineer with 8+ years of experience in Analysis, Design, Development, and Big Data environments, including Hadoop, Scala, PySpark, and HDFS, with additional expertise in Python.
+Implemented Big Data solutions using the Hadoop technology stack, including PySpark, Hive, and Sqoop, and optimized PySpark jobs to run on Kubernetes clusters for faster data processing.
+Architected and managed AWS environments, including VPCs, subnets, and security groups, with hands-on experience in legacy data migration projects such as Teradata to AWS Redshift and on-premises to AWS Cloud.
+Experience in optimizing search performance with ElasticSearch and managing KV stores such as HBase.
+Configured and optimized Azure services, including Data Factory, SQL Database, CosmosDB, Stream Analytics, Databricks, Load Balancers, and Auto Scaling groups, ensuring high availability and scalability.
+Designed, built, and deployed applications utilizing the AWS stack (EC2, R53, S3, RDS, HSM, DynamoDB, SQS, IAM, and EMR), focusing on high availability, fault tolerance, and auto-scaling.
+Developed and maintained ETL workflows using Talend and Informatica, efficiently extracting, transforming, and loading data from various sources into data warehouses, and implemented data quality checks and cleansing routines.
+Proficient in SQL and NoSQL databases, including Oracle, MySQL, and MongoDB, with strong working experience in data modeling and developing complex SQL queries for data warehousing and integration solutions.
+Hands-on experience with CI/CD pipelines, setting up Jenkins Master and multiple slaves for continuous development and deployment, and converting Hive queries into Spark actions and transformations.
+Implemented monitoring and alerting solutions using Azure Monitor, Azure Data Factory, proactively detecting and resolving issues in the data processing pipeline.
+Proficient in scripting languages including Python, Bash, and R, with experience in developing custom data processing solutions and automating data workflows.
+Involved in data warehousing and analytics projects using Hadoop, MapReduce, Hive, and other open-source tools/technologies.
+Provided support to data analysts in running Hive queries and building ETL processes.
+Created high-performance, scalable, and maintainable Java applications for complex business requirements and enhanced Java application performance and responsiveness with multithreading and concurrency features.
+Defined user stories and drove the agile board in JIRA during project execution, participated in sprint demos and retrospectives.
+Knowledge of High Availability (HA) and Disaster Recovery (DR) options in AWS and implemented data backup and disaster recovery solutions using AWS services such as EBS snapshots, S3 versioning, and Glacier storage.
+Experience in developing and optimizing complex ETL pipelines using various tools and technologies.
+Configured and managed network components to ensure secure and efficient communication between different parts of the data processing pipeline.
+Collaborated with cross-functional teams, including product managers, designers, and marketing teams, to define A/B testing objectives and success criteria.
+Expertise in data visualization and reporting, creating dashboards and reports using Tableau and PowerBI.
+Certifications
+AWS Certified Solutions Architect – Associate Certification - Link
+TECHNICAL SKILLS:
+Programming Languages
+Python (PySpark, Pandas), T-SQL, Java, R, Scala, PL/SQL
+Big Data Technologies
+Spark (PySpark, Spark applications), Hadoop, MapReduce, Hive, Kafka, Snowflake, Apache Airflow
+Database Tools
+
+Snowflake, Azure Synapse Analytics, NoSQL (MongoDB, Cassandra, DynamoDB), SQL Server, MySQL,T-SQL PostgreSQL, Oracle, DB2
+Cloud Platforms
+Azure (Databricks, Data Lake Storage, Data Factory, SQL Database, CosmosDB, Stream Analytics, Blob Storage), AWS (S3, Redshift, EMR, Lambda, Glue), GCP (BigQuery)
+ETL Tools
+Informatica PowerCenter, Talend, SSIS, SSAS, SSRS, AWS Glue
+Data Visualization Tools
+Power BI, Tableau
+Version Control Systems, CI/CD
+Git, Github, GitLab, Jenkins, Docker, DevOps
+Data Quality and Governance
+Data quality checks, Metadata management, Data governance policies
+Collaboration
+Jira
+PROJECT EXPERIENCE:
+Client: Edward Jones, St. Louis, MO June 2021 to Present
+Role: Sr. Data Engineer
+Responsibilities:
+Implemented data collection strategies using Spark Streaming to extract real-time data from AWS S3 buckets, enabling immediate data availability for analytics.
+Designed Kafka producer clients using Confluent Kafka to produce events into Kafka topics, ensuring reliable and scalable data ingestion.
+Managed Hadoop infrastructure for data storage in HDFS and utilized AWS Glue Crawlers to catalog metadata, enhancing data discovery and integration across the organization.
+Developed Python scripts and modules for ETL processes, ensuring high data quality and consistency. Created scalable ETL pipelines with AWS Glue, improving processing efficiency.
+Managed PostgreSQL databases, including installation, configuration, and performance tuning, resulting in optimal query execution and system performance.
+Designed and implemented NoSQL data models using MongoDB and Cassandra to efficiently manage semi-structured and unstructured data, supporting diverse application needs.
+Leveraged AWS Lambda for serverless computing, optimizing resource usage and enhancing the scalability of various applications, leading to cost savings and improved performance.
+Wrote SQL scripts for data migration and successfully loaded historical data from Teradata SQL to Snowflake, ensuring seamless data transfer and continuity.
+Used Python in Spark to extract data from Snowflake and upload it to Salesforce on a daily basis, ensuring up-to-date data for sales operations.
+Utilized AWS Machine Learning services to develop predictive models and conduct advanced analytics on AWS-stored data, driving data-driven decision-making.
+Implemented partitioning, caching, and tuning techniques to optimize Spark jobs for efficient data processing, improving performance and scalability.
+Developed job scheduling using Airflow for Hive, Spark, and MapReduce tasks, enhancing workflow automation and reliability.
+Implemented and maintained ElasticSearch clusters to improve search performance and reliability, reducing query response time.
+Managed ElasticSearch cluster health and scaling, ensuring high availability and fault tolerance.
+Executed machine learning use cases using SparkML and Mllib, enabling advanced analytics and predictive modeling for big data applications.
+Designed and implemented HBase schemas for efficient data retrieval and storage, reducing latency and improving read/write performance
+Integrated HBase with data processing pipelines, enabling seamless data ingestion and real-time analytics.
+Collaborated with cross-functional teams to gather requirements and translate them into technical specifications for Talend ETL jobs, ensuring alignment with business objectives.
+Developed reusable objects such as PL/SQL program units, database procedures, and functions, streamlining development processes and maintaining consistency in business rule implementations.
+Managed Hadoop infrastructure for data storage in HDFS, utilized AWS Glue Crawlers for metadata cataloging, and enhanced data discovery and integration.
+Developed automation regression scripts for validating ETL processes across databases like AWS Redshift, Oracle, MongoDB, T-SQL, and SQL Server, ensuring data consistency and reliability.
+Developed Python-based Spark applications using PySpark API, leveraging Pandas and NumPy for data manipulation and analysis, enhancing data processing capabilities.
+Developed efficient Spark code in Scala with Spark-SQL/Streaming for accelerated data processing, leading to significant performance improvements.
+Designed and implemented CloudFormation templates to automate the provisioning of AWS infrastructure, ensuring compliance with Edward Jones' stringent security and compliance standards.
+Created Tableau dashboards to visualize ETL/ELT performance metrics, providing insights for optimization.
+Integrated Tableau with Snowflake, enabling real-time analytics and reporting for stakeholders.
+Developed infrastructure-as-code (IaC) scripts using Terraform to manage AWS resources, enabling automated and consistent environment setups.
+Implemented Terraform modules to provision and manage AWS S3, EC2, and RDS instances, ensuring infrastructure scalability and reliability.
+Established CI/CD pipelines using Jenkins to automate the deployment of ETL.ELT jobs, reducing manual intervention and deployment times.
+Integrated CloudFormation with Jenkins pipelines, facilitating continuous integration and deployment of infrastructure changes, leading to faster and more reliable releases.
+Utilized Git for version control to track changes and collaborate on ETL pipeline development, ensuring code integrity.
+Managed project repositories in GitLab, facilitating code reviews, and ensuring compliance with development standards.
+Configured Jenkins jobs to automate the testing and deployment of Spark applications, improving release cycles.
+Integrated Jenkins with AWS services to orchestrate automated builds and deployments, enhancing operational efficiency.
+Containerized Spark applications using Docker to ensure consistent runtime environments and simplified deployment processes.
+Utilized Docker Compose to define and manage multi-container Docker applications, streamlining development workflows.
+Deployed containerized applications on Kubernetes clusters to achieve high availability and scalability of Spark jobs.
+Managed Kubernetes resources using Helm charts to automate the deployment and scaling of data processing applications.
+Environment: AWS, AWS Lambda, AWS CloudFormation, Hadoop, Apache Spark, PySpark, Spark Streaming, AWS Redshift, Oracle, MongoDB, T-SQL, Snowflake, Apache Airflow, Talend, Python, Scala, PostgreSQL, MongoDB, Cassandra, Apache Kafka, Salesforce, Spark, SQL, NoSQL, MongoDB, Tableau, Cassandra, ETL, Git,Github Actions.
+
+Client: Mayo Clinic, Rochester MN. October 2019 to May 2021
+Role: Data Engineer
+Responsibilities:
+Leveraged expertise in Azure Data Factory for proficient data integration and transformation, optimizing processes for enhanced efficiency.
+Managed Azure Cosmos DB for globally distributed, highly available, and secure NoSQL databases, ensuring optimal performance and data integrity.
+Created end-to-end solutions for ETL transformation jobs involving Informatica workflows and mappings.
+Demonstrated extensive experience in ETL tools, including Teradata Utilities, Informatica, and Oracle, ensuring efficient and reliable data extraction, transformation, and loading processes.
+Integrated, transformed, and loaded data from various sources using Spark ETL pipelines, ensuring data integrity and consistency.
+Automated ETL processes using PySpark Data Frame APIs, reducing manual intervention and ensuring data consistency and accuracy.
+Integrated Azure Databricks into end-to-end ETL pipelines, facilitating seamless data extraction, transformation, and loading.
+Implemented complex data transformations using Spark RDDs, DataFrames, and Spark SQL to meet specific business requirements.
+Developed real-time data processing applications using Spark Streaming, capable of handling high-velocity data streams.
+Developed and implemented HL7-compliant data pipelines to ingest, transform, and validate healthcare data, ensuring seamless integration with hospital systems.
+Created FHIR compliant ETL workflows to standardize healthcare data exchange and ensure interoperability across different systems.
+Developed and implemented data security and privacy solutions, including encryption and access control, to safeguard sensitive healthcare data stored in Azure.
+Enhanced search performance by implementing and maintaining ElasticSearch clusters, reducing query response time.
+Ensured high availability and fault tolerance by managing ElasticSearch cluster health and scaling.
+Designed and implemented PostgreSQL database schemas and table structures based on normalized data models and relational database principles.
+Created interactive and insightful dashboards and reports in Power BI, translating complex data sets into visually compelling insights for data-driven decision-making.
+Seamlessly integrated HBase with data processing pipelines, facilitating real-time analytics and data ingestion.
+Utilized Python, including pandas and numpy packages, along with PowerBI to create various data visualizations, while also performing data cleaning, feature scaling, and feature engineering tasks.
+Developed machine learning models such as Logistic Regression, KNN, and Gradient Boosting with Pandas, NumPy, Seaborn, Matplotlib, and Scikit-learn in Python.
+Designed and coordinated with the Data Science team in implementing advanced analytical models in Hadoop Cluster over large datasets, contributing to efficient data workflows.
+Automated the provisioning of Azure resources using Terraform scripts, ensuring consistent and repeatable environment setups.
+Managed infrastructure changes using Terraform, enabling version-controlled and auditable infrastructure deployments.
+Implemented CI/CD pipelines with Jenkins for automated testing and deployment of ETL processes, reducing manual errors.
+Integrated CI/CD workflows with GitLab for continuous integration and delivery, enhancing the efficiency of development cycles.
+Leveraged Git for version control to manage code changes and collaborate on ETL development, ensuring code quality.
+Coordinated with teams using GitLab repositories, facilitating collaborative development and code reviews.
+Configured Jenkins pipelines to automate the testing and deployment of data integration jobs, improving release management.
+Automated deployments by integrating Jenkins with Azure and containerized ETL workflows with Docker for consistent environments across all stages.
+Utilized Docker to deploy scalable and reproducible environments for data processing applications.
+Deployed containerized data processing applications on Kubernetes clusters for enhanced scalability and reliability.
+Managed Kubernetes deployments using Helm to simplify the deployment and scaling of ETL pipelines.
+
+Environment: Azure, Azure Data Factory, Azure CosmosDB, ETL, Informatica, PySpark, Azure HDInsight, Apache Spark, Hadoop, Spark-SQL, Scikit-learn, Pandas, NumPy, PostgreSQL, MySQL, Python, Scala, Power BI, SQL.
+
+Client: Ascena Retail Group, Delhi, India. Jul 2016 to Aug 2019
+Role: Data Engineer
+Responsibilities:
+Created Azure Data Factory (ADF) pipelines using Azure Polybase and Azure Blob.
+Worked on Python scripting to automate the generation of scripts and performed data curation done using Azure Databricks.
+Worked on Azure Databricks, PySpark, HDInsight, U-SQL, T-SQL, Spark SQL, Azure ADW, and Hive used to load and transform data and performed ETL using Azure Databricks.
+Migrated on-premise Oracle ETL process to Azure Synapse Analytics and Utilized Databricks to perform ETL, enabling efficient data transformations and seamless integration with Azure Synapse Analytics.
+Developed PySpark applications in Databricks for large-scale data processing, ensuring optimal performance and reliability.
+Utilized ETL transformations to handle schema changes and accommodate evolving business requirements seamlessly.
+Wrote Python scripts to design and develop ETL (Extract-Transform-Load) process to map the data, transform it, and load it to the target, performing Python unit tests.
+Performed troubleshooting and deployed many Python bug fixes of the main applications that were maintained efficiently.
+Implemented error handling and logging mechanisms within Python scripts to ensure robustness and reliability.
+Utilized SparkSQL for executing SQL queries on distributed data, enabling seamless integration with traditional SQL-based ETL processes.
+Troubleshoot and debug PySpark applications, identifying and resolving issues related to data processing, performance, or system compatibility.
+Developed and maintained data pipelines using Pandas, integrating data from various sources and formats.
+Utilized advanced SQL features such as window functions and CTEs to solve intricate data analysis challenges.
+Applied advanced data modeling techniques in PowerBI, ensuring accurate representation of data relationships, and performed data transformations for enhanced visualization.
+Troubleshooted and resolved issues related to Tableau dashboards, data connections, and performance bottlenecks.
+Collaborated with data engineers and database administrators to design and optimize data models and data infrastructure to support Tableau reporting needs.
+Environment: Azure, Azure Data Factory, Azure Databricks, SQL, T-SQL, Hive, Apache Spark, PySpark, Python, ETL, SparkSQL, Power BI.
+
+Client: TCS, Hyderabad, India. May 2015 to Jun 2016
+Role: Data Analyst
+Responsibilities:
+Conducted in-depth data analysis using Excel, leveraging functions like VLOOKUP, HLOOKUP, and pivot tables to derive meaningful insights from large datasets, resulting in increased data processing efficiency.
+Managed and optimized data storage solutions on AWS, ensuring efficient retrieval and storage of datasets for analytical purposes, leading to a reduction in data access time.
+Validated and improved Python reports, identifying and fixing bugs to ensure accurate and reliable reporting, reducing report errors.
+Managed and optimized data storage solutions on AWS, ensuring efficient retrieval and storage of datasets for analytical purposes, leading to a reduction in data access time.
+Led the re-architecture and migration of on-premises SQL data warehouses to AWS cloud data platforms, resulting in cost reduction and improved scalability.
+Developed data integration solutions with ETL tools like Informatica, PowerCenter and Teradata Utilities, reducing ETL processing time.
+Automated the extraction process for various files, including flat and Excel files from FTP and SFTP sources, streamlining data retrieval and enhancing efficiency, leading to an increase in data processing speed.
+Designed and implemented data pipelines using PySpark, seamlessly integrating diverse data sources and formats, improving data pipeline reliability
+Developed and maintained Tableau dashboards and visualizations, providing meaningful insights and analyses for informed decision-making, which improved business decision-making speed.
+Ensured data quality and consistency across multiple platforms by implementing robust validation and error-checking mechanisms, reducing data inconsistencies.
+Optimized data processing workflows to improve performance and reduce costs using AWS and PySpark, leading to a reduction in operational costs and decreasing downtime.
+Environment: AWS, PySpark, SQL, Python, Informatica, ETL, Tableau, Excel.
+
+Education Details: Computer Science in R.V.R & J.C of Engineering - 2011-2015
+Contact this candidate

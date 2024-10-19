@@ -1,0 +1,104 @@
+Bertrand Chi Ndoh
+Atlanta, GA
+Phone: (***) ***–*717
+Email: adw0en@r.postjobfree.com
+PROFILE
+Highly proficient, team spirited and performance driven IT consultant with over 7 years of professional experi- ence implementing and maintaining IT infrastructure, building high quality solutions that are scalable, highly available and fault tolerant, tailored towards enterprise goal. Broad based knowledge in Systems Design and Development, implementing and integrating cost-effective, high performance technical solutions and cloud im- plementations to meet challenging business needs.
+PROFESSIONAL SUMMARY
+• Cognitive about designing, deploying, and operating highly available, scalable and fault tolerant systems using Amazon Web Services (AWS).
+• Proficient in writing Terraform and CloudFormation Templates (CFT) in YAML and JSON format to build the AWS services with the paradigm of Infrastructure as a Code (IaC).
+• Experience using Terraform and CloudFormation to provision cloud infrastructures on Amazon Web Ser- vices including IAM, S3, VPC, RDS, EC2, Lambda, VPC, Route53, VPC, ELB, CloudWatch, EFS, RDS, AWS SM, Athena, among others.
+• Experienced in workload migration using tools like Application Discovery Service (ADS) and leveraging CART, ADS, AWS MGN (Application migration service) from on-premises virtualized environments to Cloud platforms such as AWS.
+• Highly skilled in deployment, data security and troubleshooting of applications using AWS services.
+• Experienced in implementing Organization DevOps strategy in various operating environments of Linux and windows servers along with cloud strategies of Amazon Web Services.
+• Possess high working qualities with good interpersonal skills, high motivation, fast learner, good team player and very proactive in problem solving to provide best solutions.
+• Experience in onsite / offshore development model, including remote work.
+• Experienced with installation of AWS CLI to control various AWS services through SHELL/BASH script- ing.
+• Provide experienced leadership in developing the architecture of highly scalable, highly available, Cloud
+(IaaS, PaaS, SaaS) detailed blueprints and platform requirements.
+• Proficient in HIPAA, HITRUST & NIST standards / regulations. WORK EXPERIENCE
+CACI INTERNATIONAL INC Reston, VA
+AWS Cloud Solutions Architect, Subject Matter Expert January 2020 - Present
+• Created a “trusted technical advisor” relationship with our customer’s technologists and internal technical teammates.
+• Performed As-Is To-Be analysis, define and execute solution demos, and define and support the scope for Proof of Concepts or Pilot.
+• Responsible for architecting, and provisioning for AWS resources as IaC for network, compute, and data- base resources.
+• Used security groups, network ACL’s, internet gateways and route tables to ensure a secure zone for organi- zation in AWS public cloud.
+• Created topics in SNS to send notifications to subscribers as per the requirement.
+• Configure cross-account deployments using AWS CodePipeline, CodeBuild and CodeDeploy creating cross-account policies and roles on IAM.
+• Worked on Control Tower Account factory and baseline configuration and deployment for Landing zone.
+• Created multiple Service catalog products for development team deployment to standardize resource utiliza- tion and usage across multiple accounts.
+• Worked on Guard duty and Security Hub finding, worked with security team to remediate findings.
+• Configured event bridge notifications with Security hub for critical findings in order to stay up to date with security threats in AWS environment.
+• Created AWS GovCloud account and setup network resources like VPC, subnet, Security groups for access and resource deployment.
+• Created terraform script for GovCloud server deployment including modules for multiple server config op- tions.
+• Defined roadmaps for security best practices and guardrails for workloads deployed into AWS environment.
+• Created, updated network ACLs, through AWS command line interface.
+• Proficient in AWS services like VPC, EC2, S3, ELB, Autoscaling Groups (ASG), EBS, RDS, IAM, Cloud- Formation, Route 53, CloudWatch, CloudFront, CloudTrail.
+• Automated the account creation process for AWS Control Tower account provisioning.
+• Managed AWS organization including SCPs, Tag policies, tag enforcement and compliance.
+• Worked with Amazon glue service, including deploying data catalogs, database, table, crawler, job, sched- uler and s3 data lake to transform data.
+• Managed FortiGate and Prisma firewall routers as addition traffic delegation into and out of AWS VPC.
+• Created and managed teamwise security for GitHub repo for dev QA and Prod environments.
+• Experienced in creating CloudFormation stacks to provision for VPC’s, public & private subnets, NAT gateways, RTs as per requirement and distributed them as groups into various availability zones of the VPC.
+• Created and configured Elastic Load Balancers and Auto Scaling groups to distribute the traffic and to have a cost efficient, fault tolerant and highly available environment.
+• Created S3 buckets in the AWS environment to store files required to serve static content for a web applica- tion.
+• Implemented domain name service (DNS) through route 53 to have highly available and scalable applica- tions.
+• Maintained the monitoring and alerting of production and corporate servers using CloudWatch service.
+• Experienced in creating RDS instances to serve data through servers for responding to requests.
+• Created snapshots to take backups of the volumes and images to store launch configurations of the EC2 in- stances.
+• Setup cloud intranet for internal portal for application running on EC2 instance and service running on AWS platform.
+• Configured routing in FortiGate firewall to filter traffic for machines setup for internal users.
+• Created hosted zone in Route53 and created routing policies to route traffic for web domain name to appli- cations sitting on the cloud.
+• Communicates with sales and product management teams regarding customer initiatives.
+• Design cloud native Disaster Recovery and High Availability architectures within AWS based on client RPO and RTO requirements. Deploy tools such as AWS Backup. VERIZON New York, NY
+Cloud Solutions Architect August 2017 – January 2020
+• Developed and implemented software release management strategies for various applications as per agile process.
+• Built and maintained complex CI/CD pipelines to support Java-based projects using Jenkins plugins to inte- grate with tools such as Git/GitHub, Maven to build artifacts, SonarQube for code quality analysis, Nexus to backup artifacts, Ansible to deploy applications, Docker for containerization of microservice applications and Kubernetes for containers orchestrations.
+• Wrote and maintained Dockerfiles to build custom docker images and create private image repositories in Docker Hub and Amazon ECR.
+• Managed Amazon redshift clusters such as launching the cluster by specifying the nodes and performing the data analysis queries.
+• Used IAM to create roles, users and groups and attached policies to provide minimum access to the re- sources.
+• Implemented Amazon RDS multi-AZ for automatic failover and high availability at the database tier.
+• Configured AWS CLI and performed necessary actions on the AWS services using shell scripting.
+• Implemented CloudTrail in order to capture the events related to API calls made to AWS Infrastructure.
+• Enabled Continuous Delivery through Deployment into several environments of Test, QA, Stress and Pro- duction using Jenkins.
+• Created a hosted zone with primary and secondary record set for failover routing policy using Route53.
+• Provisioned AWS resources using terraform templates.
+• Migrated a monolith application from on-prem to docker containers in AWS using ECS service, ECR, Jen- kins and GitHub repo.
+AMTRAK Washington, D.C.
+Linux Systems Administrator/ Cloud Architect March 2016 - August 2017
+• Created CloudFront distributions to serve content from edge locations to users so as to minimize the load on the front-end servers.
+• Used AWS Config to track changes to resources, set up alarms in Amazon CloudWatch to detect security events and used AWS Security Hub to get a centralized view of our security posture.
+• Wrote and maintained Ansible Playbooks to configure web application servers such as Tomcat, Nginx.
+• Migrated servers, databases, and workloads from on-premises to cloud platforms such as AWS with the help of services like AWS Server Migration Service, AWS Application Migration services (MGN) and AWS Data Migration Service (DMS).
+• Created and automate patch on AWS with EC2 instances. Leverage Amazon S3 as object storage to save logs from monitoring services, objects, and templates from IaC.
+• Used Helm to configure monitoring, alerting, and logging tools such as Prometheus and Grafana for appli- cation metrics like CPU utilization, disk usage, memory, network latency and Elasticsearch, Logstash, Filebeat and Kibana for logs management and data analytics.
+• Implemented Control Tower Preventive and Detective guardrails and leveraged Account Factory, integrated with Lambda for new AWS account creation and setup.
+• Governance and operation in the cloud to cover the 6 pillars of a well-architected framework.
+• Performed S3 buckets creation, access policies, and archive outdated data to Glacier through Life Cycle Pol- icy configuration.
+• Configured private and public FQDN for Dev, QA, Prod EC2, instances and Load balancers by creating re- spective records in internal DNS server and using Route53 for public internet hostname.
+• Migrated applications from on premises data center to AWS.
+• Maintained edge location to cache data with CDN using CloudFront to deliver data with less latency.
+• Managed automated backups and created own backup snapshots when needed.
+• Deployed and configured Git repositories with branching, tagging, and notifications. Experienced and profi- cient in deploying and administering GitHub.
+• Installation, Configuration and Administration of Redhat Linux 5.x, 6.x, 7.x comprising of testing, tuning, upgrading and loading patches, troubleshooting both physical and virtual server issues.
+• Performed patching of Linux servers through YUM and Ansible.
+• Involvement with the Deployment teams in trouble shooting and fixing day-to-day problems of the applica- tions in production on 24 x 7 schedules.
+• Maintained Docker images of various applications.
+• Package management using RPM, YUM and UP2DATE in Red Hat Linux. Educational history
+Arizona State University (Fulton) Tempe, AZ
+M.Sc. Engineering Management, Cum Laude
+University of Georgia Athens, GA
+B.S Computer Science, Magna Cum Laude
+Certifications
+• AWS Certified Solutions Architect – Associate
+• RedHat Linux Certified System Administrator
+TECHNICAL SKILLS PROFILE:
+• AWS Services: EC2, S3, ELB, Auto scaling Groups, Glacier, EBS, Elastic Beanstalk, CloudFormation/Ter- raform, CloudFront, RDS, Redshift, VPC, Direct Connect, Route 53, CloudWatch, CloudTrail, OpsWorks, IAM, Dynamo DB, SNS, SQS, ElastiCache, RedShift, EMR, Lambda.
+• CI/CD Tools: Github, Bitbucket, Jenkins, Bamboo, AnthillPro
+• Web Technologies: HTML5, XML
+• Programming: JSON, YAML, html, C, C++, Core JAVA, Python, Perl, Ruby, MATLAB, SQL/PLSQL
+• Database Software: Oracle, MySQL, SQLServer, MongoDB, DynamoDB
+• Servers: Apache Tomcat, WebLogic, WebSphere, JBoss, Nginx, IIS
+• Methodologies: Oracle AIM, SDLC, Waterfall, Agile, DevOps
+• Operating Systems: MS Windows, UNIX/LINUX, Ubuntu.
+Contact this candidate

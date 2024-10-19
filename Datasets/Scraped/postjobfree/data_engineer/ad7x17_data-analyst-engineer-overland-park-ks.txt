@@ -1,0 +1,120 @@
+KARNEKANTI, AKHIL
+Senior Data Engineer/Data Analyst
+EMAIL:akhilkarnekanti99@gmail
+PH.NO:+1-646-***-****
+LINKED IN: https://www.linkedin.com/in/akhil2033/
+PROFESSIONAL SUMMARY:
+Around 5+ years of experience as a Data Engineer/Data analyst with strong understanding of Data Modeling (Relational, dimensional, Data analysis, implementations of Data warehousing, Data Transformation and Data Mapping from source to target database schemas and data cleansing.
+Good experience in building pipelines using Azure Data Factory and moving the data into Azure Data Lake Store, Azure Databricks, Azure Event Hub and Azure Synapse Analytics for comprehensive data integration and analysis.
+Capable of implementing event-driven architectures with Azure Event Hubs, integrating with Azure Functions and Azure Logic Apps to automate workflows and respond to real-time data events.
+Experienced in using Informatica Power Center and CDC (Change Data Capture) for designing, developing, and deploying ETL workflows, and Apache Airflow for scheduling, to extract, transform, and load data from disparate sources.
+Experienced in Amazon Web Services (AWS) Cloud services such as AWS EC2, VPC, S3, IAM, RDS, Dynamo DB, Auto scaling, Cloud Front, Cloud Trail, Cloud Watch, Cloud Formation, AWS SNS and AWS SQS. proficient in deploying and managing Kubernetes clusters for container orchestration.
+Skilled in writing Python scripts for automating data workflows and performing complex data manipulations, contributing to streamlined data processing pipelines.
+Experienced in Agile CI/CD methodologies and pipelines with Jenkins, PySpark for distributed data processing, and API development and integration.
+Capable of optimizing NoSQL database performance through indexing strategies and shard key selection, ensuring high availability and scalability.
+Experienced in design and development of applications using Hadoop and its ecosystem components like Hive, Spark, Sqoop, Kafka, HBase and YARN.
+Proficient in Scala programming language for developing scalable and distributed applications on Apache Spark framework.
+Experienced in writing distributed Scala code for efficient big data processing.
+Experienced on building the applications using Spark Core, Spark SQL, Data Frames and Spark Streaming.
+Generated complex Transact SQL (T - SQL) queries, Sub queries, Co-related sub queries, Dynamic SQL queries.
+Proficient in configuring Kafka Connect for seamless integration with various data sources and sinks.
+Proficient in managing Snowflake accounts and resources, including user management, resource allocation, and cost optimization.
+Expertise in creating interactive dashboards and visualizations using Tableau, Power BI, QlikView including knowledge of sharing, publishing, and embedding reports, leveraging premium features such as paginated reports and AI visuals.
+Proficient in managing Git and GitHub repositories, including creating, cloning, and archiving repositories.
+
+TECHNICAL SKILLS:
+
+Programming Languages
+Python, SQL, PL/SQL, Spark SQL, Java, Pyspark, R
+Clouds
+AWS, Azure
+Data Integration
+Informatica Power Centre, SSIS
+Big Data Tools
+Spark (Core, SQL, Data Frames, Streaming), Scala, Hive, Kafka, Storm, Hadoop (Map Reduce, HDFS, Hive, Pig, Sqoop)
+Database Management
+SQL, PL/SQL, T-SQL, NoSQL, Snowflake, AWS Redshift, Dynamo DB,SSMS
+ETL
+Informatica Power Centre, AWS Glue, Apache Airflow, Azure Data Factory
+Data Visualization
+Tableau, Power BI, Excel, Python (Matplotlib, Seaborne)
+DevOps
+Git, GitHub, Azure DevOps, AWS Lambda, Confluent Control Centre, ARM templates
+Messaging Systems
+Kafka, AWS SNS, AWS SQS
+Data Modelling
+Power BI, QlikView, Snowflake, SQL, NoSQL
+
+PROFESSIONAL EXPERIENCE:
+Company: Accenture,USA Jan 2019 to Dec 2022
+Role: Sr. Data Engineer
+Responsibilities:
+Monitored and managed Azure Data Factory, Azure Synapse Analytics environments using Azure Monitor, Log Analytics, and custom dashboards.
+Integrated Azure Event Hubs with Azure Stream Analytics and Azure Functions for real-time insights.
+Automated deployment and scaling of Azure HDInsight clusters using ARM templates and Azure DevOps.
+Developed mappings, sessions, and workflows in Informatica Power Center for data extraction, transformation, and loading.
+Implemented distributed computing solutions using Apache Spark with Scala to process and analyze large-scale datasets.
+Designed and implemented data pipelines using Snowflake Snow Pipe and Snow SQL for efficient data ingestion.
+Developed custom UDFs and stored procedures in Snowflake to enhance data processing capabilities.
+Created complex data models in Power BI using DAX and implemented row-level security (RLS).
+Utilized scrum methodologies, conducted unit tests, performed code reviews, and debugging software.
+Leveraged Python for automation, developing scripts and frameworks for database testing tasks.
+Optimized database performance and ensured data integrity by managing and querying large datasets in PostgreSQL, improving data accessibility and reporting efficiency.
+Utilized JIRA for task tracking, sprint planning, and project management, ensuring timely delivery of project and effective collaboration among team members and stakeholders.
+Configured and managed access controls and permissions on GitHub repositories to enforce security protocols.
+Developed ETL pipelines in Azure Data Factory, improving data availability by 40%.
+Managed Azure SQL Database to ensure efficient data storage, leading to a 20% reduction in hosting cost.
+
+Environment: Azure (Synapse Analytics, Monitor, Log Analytics, Event Hubs, Stream Analytics, Functions, HDInsight, Resource Manager, DevOps), Informatica Power Center, Apache Airflow, JIRA, NoSQL, Spark, Scala, Python, Confluent, Hive, Hadoop, HDFS, Snowflake, Power BI, DAX, RLS,, Git, GitHub.
+
+Client: Fortis Healthcare
+Role: Sr. Data Engineer
+Responsibilities:
+Developed algorithms and scripts in Hadoop to import data from source systems and persist in HDFS for staging purposes.
+Developed and maintained ETL workflows using Informatica Power Center to extract, transform, and load data from various sources into data warehouses.
+Created AWS Lambda functions in Python for data transformations and analytics on large data sets in EMR clusters, orchestrated by Apache Airflow.
+Managed and resolved ServiceNow tickets, ensuring prompt and efficient troubleshooting of data pipeline issues and maintaining high system reliability and user satisfaction
+Experienced in using Kafka as a messaging system to implement real-time streaming solutions with Spark Streaming.
+Integrated Apache Storm with Kafka for web analytics and clickstream data processing.
+Implemented data masking and anonymization techniques for sensitive data in NoSQL databases to ensure privacy and confidentiality.
+Integrated AWS SNS and AWS SQS for reliable message delivery and queuing services, facilitating seamless communication between distributed application components
+Designed and implemented data models in Amazon Redshift, including schema design, data modeling, and performance tuning.
+Designed and implemented Snowflake data models, including schemas, tables, views, and stored procedures, to support analytical and reporting needs.
+Utilized Amazon Athena for serverless SQL queries against data stored in S3, enabling ad-hoc analysis without the need for ETL processes.
+Used Amazon Redshift for scalable data warehousing and complex queries on large datasets.
+Developed interactive Tableau dashboards with drill-down capabilities for multi-level data exploration.
+Created monitors, alarms, notifications, and logs for AWS Lambda functions, Glue Jobs, and AWS EC2 hosts using CloudWatch, ensuring operational visibility.
+Utilized Git tags and releases on GitHub for version control, facilitating easy deployment of production-ready code and ensuring version consistency.
+Led the adoption of Terraform and CloudFormation for automating infrastructure provisioning, configuration, and management. Designed and constructed intricate modules and stacks to deploy and manage complex AWS infrastructure, ensuring scalability, reliability, and repeatability.
+
+Environment: AWS (Lambda, EMR, Cloud Watch, Glue, EC2), Python, ETL, Informatica Power Center, HDFS, Sqoop, Hadoop, Spark, NoSQL, Kafka, Apache Airflow, Apache Storm, Hive, Scala, Kafka Tableau Desktop, Tableau Server, Git, GitHub.
+
+Company: Wipro, Hyderabad, India Sept 2017 to Dec 2018
+Role: Data Analyst
+Responsibilities:
+Designed and implemented ETL processes using Informatica Power Center to extract, transform, and load financial data from various sources into a centralized data warehouse.
+Developed PL/SQL Packages, Procedures, Functions, Triggers, Views, Indexes, Sequences and Synonyms.
+Developed and optimized complex SQL queries to support financial reporting and data analysis, enhancing query performance and reducing execution time.
+Created and maintained data warehouse schemas and data marts for financial data using SQL, ensuring robust data architecture and efficient data retrieval.
+Implemented data validation and cleansing processes in Informatica to ensure data integrity and accuracy across financial datasets.
+Developed interactive Tableau dashboards and reports to visualize financial metrics, trends, and key performance indicators (KPIs) for executive decision-making.
+Created detailed and user-friendly Tableau dashboards with drill-down capabilities for in-depth analysis of financial data, enabling users to explore data at various levels of granularity.
+Monitored and tuned SQL queries and ETL workflows to ensure optimal performance and reliability of financial data processing and reporting.
+Collaborated with financial stakeholders to gather requirements, translate them into technical specifications, and deliver solutions that address business needs effectively.
+Documented ETL processes, data models, and Tableau dashboards, and provided training to end-users on how to utilize dashboards and interpret financial data insights.
+Environment: Informatica Power Center, SQL, Tableau
+
+EDUCATION:
+
+University of Central Missouri Jan 2023 -May 2024
+Masters in Big data analytics and information system
+
+Jawaharlal Nehru Technology University, Hyderabad, TS, India May2013 – June 2017
+BTech in Electronic and Communications
+CERTIFICATES:
+Microsoft Certified in PL900- Power Platform Fundamentals
+Microsoft Certified in DP 203 Azure Data Engineer
+Received “APEX AWARD ” for year 2022 in Accenture.
+Certified in Azure AZ-900-Azure Data Fundamentals in A cloud Guru.
+Certified in Amazon certified developer associate in A cloud Guru.
+Contact this candidate

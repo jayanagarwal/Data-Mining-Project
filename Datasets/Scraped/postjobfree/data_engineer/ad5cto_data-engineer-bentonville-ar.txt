@@ -1,0 +1,85 @@
+Chandan Reddy Nandyala
+Data Engineer
+Location: AR Email: ad5cto@r.postjobfree.com Phone: 913-***-**** LinkedIn
+Professional Summary
+
+•Accumulated 3+ years of practical expertise in Big Data, Hadoop Ecosystem, Cloud Engineering, and Data Warehousing, with am emphasis on developing reliable Data Pipelines and Applications.
+•Proficient in Python, Scala, and SQL programming languages, with expertise in managing streaming data in terabytes using Kafka, Spark streaming, Strom, Batch Data, and Automation and Scheduling using Airflow, Oozie.
+•Knowledgeable with AWS services such as S3, EC2, EMR, RDS, VPC, Elastic Load balance, IAM, Auto Scaling, Cloud front, CloudWatch, and Lambda, with experience in Hadoop distributions (Cloudera, Amazon EMR, Azure HDInsight, Hortonworks).
+•Competent in utilizing Spark SQL, DataFrames, Datasets, Spark-ML, and Spark Streaming to create production-ready Spark applications.
+•Working knowledge in migrating SQL databases to Data Bricks, Azure SQL Data Warehouse, Azure Data Lake, and Azure Data Lake Analytics and managing and approving database access and utilizing Azure Data Factory to migrate on-premise databases to Azure Data Lake storage.
+•Extensive familiarity with NoSQL and SQL databases like Cosmos DB, MongoDB, HBase, Cassandra, data modeling, tuning, disaster recovery, and backup.
+•Proficiency in scripting for development and aggregation from a variety of file formats, including XML, JSON, CSV, and Parquet, using Python (PySpark), Scala, and Spark-SQL.
+•Extensive experience in Data Warehousing, Data Modeling (Star Schema), Data Processing, and Transformations, including monitoring, debugging, performance adjustment, and troubleshooting Hadoop clusters.
+•Hands-on experience with Kubernetes cluster creation using cloud formation templates and PowerShell scripting for automated deployment in a cloud environment.
+•Practical knowledge of building Kubernetes clusters utilizing cloud formation templates and automating deployment in a cloud environment with PowerShell scripting.
+Experience
+
+Walmart, AR Feb 2023-Current
+Data Engineer III
+•Working in Data Analytics team, developed Spark applications using PySpark and Spark-SQL, leading to efficient data extraction, transformation, and integration into SQL databases.
+•Developed and maintained a robust ETL framework using Spark, incorporating daily runs, error handling, and logging, significantly improving data processing efficiency.
+•Designed and maintained complex SQL queries and stored procedures in PostgreSQL to support advanced analytics.
+•Wrote neo4j queries and utilized Spark for efficient data reading from neo4j databases as a crucial part of the ETL pipeline.
+•Designed data cleansing and data enrichment processes in Alteryx to standardize data formats, resolve data quality issues, and enhance data usability for analytics and reporting purposes.
+•Created a data pipeline in PySpark, integrating Azure Data factory and SparkSQL in Azure Databricks for the effective data extractions, transformations, and aggregations with multiple file formats.
+•Developed Python programs for data ingestion to various Azure services (Azure Data Lake, Azure Storage, and Azure SQL), enhancing data processing and transformation in Azure Databricks.
+•Have Experience in designing and developing Azure stream analytics jobs to process real time data using Azure Event Hub.
+•Vigilantly monitored Splunk dashboards for pipeline failures and conducted log analysis to rectify issues, maintaining high pipeline reliability.
+•Showcased expertise in developing a range of reports and dashboards using Tableau Visualizations, enhancing data interpretation and presentation, and created detailed Tableau bar graphs and scatter plots, providing comprehensive summary reports and dashboards for better data insights.
+•Used Looper and Concord for CI/CD, streamlining development processes.
+•Implemented Apache Airflow as the orchestration tool for authoring, scheduling (using python) and monitoring the data pipelines.
+•Creating a scalable data lake using Medallion architecture, organizing data across the Bronze, Silver, and Gold layers to improve the efficiency of data processing and storage.
+•Demonstrated expertise in Linux commands and efficiently scheduled pipelines using crontab, ensuring smooth and automated data processing workflows.
+
+Epsilon, TX
+Data Engineer Jan 2022 –Feb 2023
+•Utilized HDFS’s scalable architecture to efficiently store and manage large volumes of data, seamlessly handling the growth of data generated from diverse digital marketing.
+•Successfully managed S3 buckets creation, implementing robust policies on IAM roles, enhancing data security and access control.
+•Developed PySpark code for AWS Glue jobs and EMR, optimizing data processing and integration across AWS services.
+•Designed and developed an ETL process in AWS Glue using PySpark, effectively migrating data from sources like S3, flat files, RDBMS into AWS Redshift, and enabled efficient reporting using Athena.
+•Showcased professional knowledge in AWS Redshift by designing ETL jobs that enhanced data extraction and loading efficiency.
+•Involved in constructing ETL pipelines using AWS Data Pipelines, leading to streamlined data transfer and processing.
+•Developed complex T-SQL stored procedures using joins and unions to create crystal reports and also optimized SQL queries and procedures for efficiency and improve system performance.
+•Established comprehensive monitoring systems using CloudWatch for Lambda functions, Glue Jobs, and EC2 hosts, ensuring high system reliability and performance.
+•Data migrating into Elasticsearch through Spark integration and created mapping are indexing in Elasticsearch for quick retrieval.
+•Built Lambda and step function serverless orchestration from S3 to Redshift and RDS services, streamlining data flow and processing.
+•Wrote Spark SQL jobs to enrich data (joining, aggregating) and build KPI tables, providing crucial metrics for business analysis.
+•Designed Lambda functions using Python for various use cases, including creating dynamic DAGs and event triggers, enhancing automation and efficiency.
+•Authored numerous PostgreSQL functions to encapsulate complex business logic within the database, reducing application code complexity and enhancing data manipulation efficiency.
+•Used Kafka as a message cluster to pull/push messages into spark for data ingestion, processing, and storing the resultant data in AWS S3 buckets.
+•Experience in writing custom Kafka consumer code and modifying existing producer code in Python to push data to Spark-streaming jobs.
+•Gained experience in Kubernetes to deploy, scale, load balance, and manage Docker containers, ensuring robust and scalable containerized applications.
+•Used Jenkins (CI/CD) pipelines to drive all code builds out to the Docker registry and then deployed to Kubernetes.
+•Involved in publishing various types of interactive data visualizations, dashboards, and reports from Tableau Desktop to Tableau Servers, enhancing data accessibility and user engagement.
+•Hosted and managed MongoDB (NoSQL) databases on the cloud, designed database structures, and wrote MongoDB queries, ensuring efficient database management and operation.
+•Data lineage procedures were examined in order to find weak places in the data governance, control gaps, and problems with the data quality.
+•Worked on scheduling all jobs using Airflow scripts in Python, achieving high levels of automation and workflow efficiency.
+
+Dell, India July 2019-Nov 2020
+Data Engineer
+•Streamlined the transfer of data from servers to HDFS using Apache Sqoop, improving the efficiency and reliability of data storage processes.
+•Executed complex MYSQL queries from Python, leveraging Python-MySQL connector and MySQL dB package, leading to more effective data manipulation and extraction.
+•Configured and automated AWS services (Glue, EC2, S3) using Python's Boto3 library, enhancing cloud infrastructure efficiency and operational agility.
+•Developed and managed pipelines for seamless data migration from on-premise databases to AWS services like Redshift, RDS, and S3, ensuring secure and efficient data transfer.
+•Implemented PySpark code in AWS Glue jobs for robust data extraction, transformation, and loading into S3, leading to improved data processing capabilities.
+•Used AWS glue catalog to get the data from S3 and perform SQL operations using AWS Athena.
+•Developed scripts using Spark which are used to load the data from Hive to Amazon RDS(Aurora) at a faster rate.
+•Experience with Apache Airflow, Python scripting for scheduling tasks and process automation.
+•Designed and developed insightful Power BI reports and dashboards, providing dynamic data visualization and enhanced reporting capabilities for better decision-making.
+Core Qualifications
+
+Languages: Python, Spark, SQL, Shell script, Java.
+Cloud: S3, Lambda Functions, EC2, Glue, Redshift, Azure Databricks, Azure SQL, ADLS, ADF, Azure Event Hub.
+Databases: MySQL, Hive, Oracle, Redshift, Mongo DB, Azure SQL DW, Databricks Database, Neo4j (Graph Database).
+On-Prem: Hadoop, HDFS, Sqoop, Spark.
+Tools: Kafka, Power BI, Tableau, Jira, Confluence.
+CI/CD & Version Control: Jenkins, looper, Concord, Git.
+Scheduler: Airflow, ADF.
+Education
+
+University of Central Missouri, Warrensburg, MO Jan 2021-Dec 2022 Masters in Big Data Analytics & IT, GPA: 3.4/4.0
+• Relevant courses: Cloud Computing, Advanced programming in Java, Big Data Architecture, Big Data Solutions, Business Intelligence Analysis, Data Resource Management, and Information Security.
+
+Jawaharlal Nehru Technical University, Hyderabad, India Aug 2015 – May 2019 Bachelor’s in Computer Science, GPA: 7.3/10
+Contact this candidate

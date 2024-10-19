@@ -1,0 +1,157 @@
+Rakesh Pandala
++1-872-***-****•ad2f3p@r.postjobfree.com•LinkedIn
+Professional Summary
+Over 8 plus years of IT Industry experience with Configuration Management, Build, Deploy, Release Management and Quality Assurance. Strong understanding of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). Worked with optimization of server resources, Azure DevOps, Amazon Elastic Cloud instances and website security, Web services /REST, Amazon AWS, Chef and Puppet.
+Technical Skills
+DevOps Tools: Git, GitHub, Bitbucket, Jenkins, Maven, Chef, MS build, Jfrog Artifactory, Docker, Ansible, Splunk, Jira, Terraform.
+Cloud Platforms: Azure, Amazon Web Services: EC2, IAM, Elastic Beanstalk, Elastic Load Balancer (ELB), RDS, DynamoDB, S3, SQS, SNS, Cloud Formation, Route 53, VPC, Cloud Watch, Lambda, VMware.
+Operating Systems: Red Hat Linux, Ubuntu, CentOS, Windows.
+Web/Application Servers: Tomcat, Apache, Nginx, WebSphere,
+Database: MySQL, SQL Server, DynamoDB
+Languages, Tools & Other: Bash, Python, Ruby, YAML, Power shell.
+
+Professional Experience
+Cisco – Raleigh/NC remote October 2022 - Current
+Role: Senior DevOps/AWS Engineer
+Responsibilities:
+
+As a part of DevOps team, my role includes Release management, Environment Management, deployments, Continuous integration, Continuous deployment, Incident management, Version management.
+Implemented and designed AWS virtual servers by using AWS Cloud Formation Templates (CFT) and AWS CodeDeploy to ensure configuration & deployment of web applications.
+Involved in designing and deploying multiple applications utilizing almost all AWS stack (including EC2, Route53, S3, RDS, ELB, CFT) focusing on high-availability and auto scaling in AWS Cloud Formation.
+Built S3 buckets, managed policies for S3 buckets, used S3 bucket for storage and backup on AWS.
+Used AWS command line (CLI) client and management console to interact with Dependent resources and APIs.
+Configured Jenkins jobs to build across the different environments.
+Wrote Modules in Terraform to trigger highly available EC2 Instances on AWS Cloud Platform. Wrote new plugins to support new functionality in Terraform and integrated Jenkins pipeline with Terraform for Continuous Deployment.
+Involved in setting up Kubernetes Clusters for running Microservices and pushed Microservices into production with Kubernetes backed Infrastructure and development of automation of Kubernetes clusters via playbooks in Ansible.
+Build AWS Lambda functions to automate dev team procedures and integrate applications.
+Written Cloud Formation Templates (CFT) using AWS CDK to build the AWS services with the paradigm of Infrastructure as Code.
+Used Docker Swarm to cluster the Containers for high availability and to manage different infrastructure resources, like physical machines, VMs and even Docker Containers using Terraform.
+Automate infrastructure creation, deployment using AWS Developer tools like AWS Commit, AWS CodePipeline and AWS CodeDeploy.
+Deployed Docker containers to AWS and implemented fully automated build pipelines.
+Automated build & deployment process from DEV to production environment including UAT setup and runs and worked on microservices project-to build docker containers and deploy to Dev, Test, UAT (SIT), PROD
+Worked to setup Jenkins as a service inside the Docker swarm cluster to reduce the failover downtime to minutes and to automate the docker containers deployment without using configuration management tools.
+Implemented production ready, load balanced, highly available, fault tolerant Kubernetes infrastructure with Rancher, Kops, AWS EKS .
+Deployed application which is containerized using Docker onto a Kubernetes cluster which is managed by Amazon Elastic Container Service for Kubernetes (EKS). Configured ‘Kubectl’ to interact with Kubernetes infrastructure.
+Implemented build stage- to build the microservice and push the docker container image to the AWS ECR private docker registry.
+Used HPOO tool to deploy the application in UAT and Production servers (WEB, TP and RM).
+Configured Docker containers and created Docker files for various applications.
+Worked on end-to-end setup of the Artifactory as a docker container with a secure private docker registry and local docker repositories for storing the built docker images.
+Worked on Docker service rolling updates, Blue Green Deployment to implement zero downtime PROD deployments.
+Created Ansible playbooks to install and setup Artifactory.
+Worked on Docker machine to install docker-engine on managed virtual hosts in the data center.
+Worked on Docker, Docker Swarm, AWS ECS, Kubernetes and several Docker components like Docker Engine, Hub, Machine, Compose and Docker Registry
+Worked on POC on implementation of continuous deployment pipeline with Jenkins and Jenkins workflow on Kubernetes.
+Migrated a few Cloud formation templates to Terraform by using various AWS modules and Secured the Terraform state file in S3 buckets. Detected and analyzed the changes that will be inflicted after Terraform Apply using Terraform Plan.
+Implemented docker-maven-plugin in maven pom to build docker images for all microservices and later used Docker file to build the docker images from the java jar files.
+Demonstrated expertise in utilizing Maven build tool and configuring Project Object Model (POM) files to efficiently manage project dependencies. Proficiently leveraged Maven to automate the build process, ensuring seamless integration of external libraries, version control, and project standardization.
+Spearheaded the implementation of Maven for library control, significantly enhancing the efficiency of project development. Successfully configured POM files to enforce standardized project structures, manage dependencies, and execute targeted build goals. This resulted in improved collaboration, reduced development time, and increased overall project stability
+To achieve Continuous Delivery goal on a highly scalable environment, used Docker coupled with load-balancing tool Nginx.
+Worked on Rancher Multi-cluster, orchestration platform for managing Kubernetes service across the enterprise.
+Used Rancher for on-premises Kubernetes cluster and AWS.
+Used Rancher UI for managing and monitoring deployments.
+Worked on Shell Scripts to pull the latest successful image from the docker repository through JSON API. Deployed, scaled, and managed AWS services.
+Worked on Ansible modules to deploy docker services on swarm cluster for entire microservices stack
+Wrote playbooks and roles for Ansible and deploying applications to AWS cloud using Ansible.
+24/7 on call support for emergency site maintenance and immediate build and install requests.
+
+Environment: AWS, Docker, Kubernetes, Jenkins CI, Ansible, Jira, Gitlab, SonarQube, Rancher, Terraform, AWS Cloud Formation Templates, AWS Cloud Watch, PowerShell, Tomcat, Bitbucket, AWS CodePipeline, AWS CodeDeploy, Splunk
+
+Progressive – Mayfield Heights, OH Duration Jan 2018 – October 2022
+Role: Azure DevOps and Build/Release Engineer
+Responsibilities:
+
+Responsible for creating the Azure Repos using Git, Azure Pipelines to implement the Continuous Integration (CI) and Continuous Delivery (CD).
+Resolve merge issues/code conflicts, while merging the code from one to another branches.
+Worked on moving applications from on-premises to Azure servers IaaS and PaaS.
+Responsible for creating Azure infrastructure which includes App service, Azure Key Vault, Azure Kubernetes Service (AKS), Azure DevOps Services, Azure Container Registry, Azure Functions, SQL, application in-sights, alerts using ARM templates.
+Created App service back up filter automation that does the back of all the app services.
+Hands on experience with Azure Key Vault, Application gateways, Traffic manager profile, Azure app service health check, application initialization.
+Used Azure cloud storages as blob and table storages for storing large amounts of data.
+Responsible for troubleshooting build and deployment issues on azure cloud.
+Used Bash, python and PowerShell scripts for running various custom tasks for testing/deploying.
+Implemented and maintained Ansible playbooks and roles for configuration management, automating routine tasks, and ensuring infrastructure as code (IaC) best practices.
+Integrated Ansible with AWX to orchestrate and schedule job runs, enhancing automation efficiency and reducing manual intervention.
+Designed and managed inventory files and dynamic inventory plugins, optimizing resource management and minimizing configuration errors.
+Collaborated with cross-functional teams to define, document, and enforce Ansible best practices and coding standards for seamless collaboration and consistency.
+Enhanced security by implementing Ansible Vault for the encryption of sensitive data in playbooks and variables.
+Skilled in .NET development with a strong background in C# and the .NET framework.
+Designed and implemented robust and scalable web applications using ASP.NET, ensuring responsiveness and optimal user experience.
+Developed custom .NET solutions, including web services and APIs, to streamline data processing and enhance system integration.
+Developed and maintained Azure Resource Manager (ARM) templates and Bicep files to provision, configure, and manage Azure resources, ensuring efficient and consistent infrastructure deployments.
+Proficient in utilizing Azure Data Explorer (ADX) to analyze and query vast datasets, providing insights and solutions for data-driven decision-making.
+Conducted in-depth data exploration and analysis in ADX, uncovering patterns, trends, and anomalies for improved business intelligence.
+Created data visualizations and dashboards in ADX using KQL to facilitate data-driven reporting and visualization.
+Optimized KQL queries and ADX configurations to enhance query performance and reduce latency.
+Collaborated with cross-functional teams to gather infrastructure requirements, design templates, and translate complex infrastructure needs into automated ARM/Bicep configurations.
+Implemented best practices for version control and repository management, utilizing tools like Azure DevOps or Git, ensuring easy collaboration and code versioning for ARM and Bicep templates.
+Automated deployment and resource scaling using Azure DevOps pipelines or other CI/CD tools, leading to a streamlined release process and faster time-to-market.
+Stayed up-to-date with the latest Azure updates and best practices for ARM and Bicep, ensuring that the templates remained current and efficient.
+Configured and customized Grafana dashboards to visualize and monitor critical system and application metrics, providing real-time insights into performance and resource utilization.
+Integrated Grafana with various data sources, including Prometheus, InfluxDB, Elasticsearch, and others, to collect and display comprehensive metrics and logs.
+Successfully managed Azure subscriptions, overseeing budgeting, cost control, and resource allocation.
+Created and maintained resource groups to logically organize and secure Azure resources, simplifying resource management and enhancing security.
+Having good implementation experience with installation and configuration of Kubernetes, clustering them and managed local deployments in Kubernetes.
+Provided consistent environment using Kubernetes for deployment scaling and load balancing to the application from development through production, easing the code development and deployment pipeline by implementing Docker containerization.
+Performed IIS Website deployment automation using MS Web Deploy tool with PowerShell.
+Acting Release Manager with end-to-end release management expertise on ZDD model with good exposure to DevOps and CI/CD tools like Jenkins/ XLR.
+Build Repository for Cloud artifacts using GIT Version Control System & Setup Microsoft Azure across the environment.
+Set up CI/CD model from VSTS to Azure App service & Set up Deployment groups in VSTS to deploy the applications to Azure.
+Maintain and administrate GIT source code tool and create branches, labels and performed merges in GIT and implement and maintain the branching and build/release strategies.
+Responsible for performing code builds through Jenkins, Release Orchestration using XL Re-lease (XLR), and Environment Infrastructure consisted of OpenStack, Docker, Kubernetes built on OpenShift.
+Upgraded Azure Rm modules to Az modules as per the recommendation from Microsoft and successfully implemented to the deployment scripts.
+Conducted pre-sales technical support services for directing sales force of windows Azure applications.
+Responsible for installing Dynatrace one agent on azure app services using PowerShell script as an extension for monitoring errors, database calls, response times and which request is consuming more time.
+Responsible for automating the installation of application insights using ARM template on to the app service for failures and exceptions in code.
+Responsible for taking dump and profiler trace for azure app service in case of issues from troubleshooting end point.
+Implemented health check feature in coordination with Microsoft for applications availability by removing unhealthy instances from the load balancer.
+Setting up new applications and environments from scratch and get the app rolled out in production from lower environments and provided server maintenance after that as well.
+
+Meijer – Grand rapids, MI Duration Jan 2017 – Jan 2018
+Role: DevOps Engineer
+Responsibilities:
+
+Configuring the Docker containers and creating Docker files for different environments.
+Developed Python and shell scripts for automation of the build and release process.
+Create, maintain and administrating Bitbucket repositories as source code management.
+Implemented a cloud native CI/CD pipeline involving Bitbucket, CFT, Ec2 and JFROG Artifactory to complete the automation from committing to Deployment.
+Worked on migrating the git code from community edition to Enterprise edition.
+I’m part of the operations team in my recent project where I have automated the whole CI/CD process. All the nonproduction builds get deployed directly to non-prod environments and the production build is scheduled in UCD (Urban code Deployment).
+Our team size is 3. I have created pipelines for around 30 applications which includes creation of components in Udeploy which downloads artifacts from jfrog artifactory and created environments and processes in application which are used to do deployments to specific environments like DEV TEST, PRE-PROD & PROD.
+Used Jenkins for continuous integration and Urban code deployments for continuous deployments. Created Multi branch pipelines in Jenkins. Integrated Jenkins and urbancode deploy using ucd plugin. Whenever a commit happens in GitHub the Jenkins will trigger the pipeline and create a war/ear file and push it to Jfrog artifactory. Jenkins then notifies UCD to download that specific build and Udeploys on to the specific environment.
+Migrated the code from TFS (team foundation server) to git lab.
+Created the pipeline jobs and automated continuous deployment in the development server.
+Created multiple pipeline jobs to deploy the code from git and build the application using node js and deployed the application in Development, IT and UAT Servers.
+Create, maintain, and administrate GitHub repositories as source code management.
+Used HPOO tool to deploy the application in UAT and Production servers (WEB, TP and RM).
+Automated the MSI deployment using Jenkins freestyle jobs.
+Modeled the structure for multi-tiered applications by orchestrating the processes to deploy each tier using UrbanCode Deploy.
+Using Apigee and Microservices, we do deployment, scaling and stack implementation of the components in an independent way.
+Worked on Bamboo, Hudson, Jenkins, and UDeploy for continuous integration and for End-to-End automation for all build and deployments.
+Created pipeline jobs using declarative scripting for deploying the code into development server.
+Created several Jenkins windows slave nodes to schedule the jobs from slave nodes.
+Configured and worked on static code coverage tools like SonarQube, find bugs, Junit, and security scanning tools fortify after post build actions.
+PowerShell deployment of various Microsoft management services.
+
+Environment: Jfrog, Gitlab, Linux, PowerShell, Tomcat, Jenkins, uDeploy, AppDynamics, Apigee, Windows Servers, Docker, Kubernetes, Maven, Jfrog, RHEL, PowerShell, Tomcat, Bitbucket, AWS CodePipeline,
+
+AVEVA - Hyderabad, India Duration: May 2014 - Jun 2015
+Role: Build & Release and Configuration Engineer
+
+Responsible for design and maintenance of Subversion Repositories, and the access control strategies.
+Working as part of DevOps Team for different internal automation and build configuration management. Developed shell scripts for automation of the build and release process.
+Collaborating with leads from DEV, QA, PM, DevOps, and other functional groups to implement SDLC and Continuous Integration (Build -> Test -> Deploy -> Report)
+Implementing new projects builds framework using maven as build framework.
+Efficiently performed the task of resolving conflicts while merging in Subversion with the J2EE.
+Setup the build and deployment scripts using AnthillPro for J2EE and Java applications using Web Logic Application Server.
+Experience in migration of consumer data from one production server to another
+production server over the network with the help of Bash.
+Performed merges and executed builds on a pool of dedicated build machines.
+Involved in periodic archiving and storage of the source code for disaster recovery.
+Used MAVEN as a build tools on java projects for the development of build artifacts on the source
+code. Active participation in Build and release process.
+Collaborating with leads from DEV, QA, PM, DevOps, and other functional groups to implement SDLC and Continuous Integration (Build -&gt, Test -&gt, Deploy -&gt, Report)
+
+Education
+Governors state University - Chicago, IL Dec 2016
+Master’s in computers information sciences
+Contact this candidate

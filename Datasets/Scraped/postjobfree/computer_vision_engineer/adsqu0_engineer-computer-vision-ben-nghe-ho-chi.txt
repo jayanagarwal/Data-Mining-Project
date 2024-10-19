@@ -1,0 +1,45 @@
+QUOC-VIET LE
+linkedin: www.linkedin.com/in/vietawake
+Ho Chi Minh, VietNam
++84-935****** adsqu0@r.postjobfree.com
+OBJECTIVE
+This phrase, ”Start of the end in your mind” really inspired me. Recognize what you want to become and where you want to start. I made the decision to conduct additional experiments in real life in order to learn new lessons and improve daily. Long term, I aim to accomplish my goal and travel the path I have chosen.
+EDUCATION
+HCM University of Science 2017 - 2022
+Computer Science GPA: 3.1
+Thesis: Event-Specific Image Importance score: 9
+VinGroup Bigdata Institute 10/2020 - 02/2021
+AI Talent Training Program
+This is a program that was founded by VinGroup to find talent and grown-up skills in the AI field through 7 courses: Linear Algebra, Probability and Statistics, Machine Learning, Deep Learning, Com- puter Vision, Nature Language Processing, AI Ethic. COURSES
+Machine Learning Coursera
+Deep Learning Specialization of Deeplearning.ai Coursera SKILLS
+Programming Languages: Python, C++
+Deep learning: Pytorch, Pytorch Lightning, ONNX
+Computer Vision: OpenCV, PIL
+Research Skill
+Other: Docker, Scikit-learn, Pandas, Matplotlib
+English: Intermediate
+Soft Skill: Time Management, Teamwork, Multitask
+EXPERIENCE
+AI Engineer,VinAI Research 02/2021- 03/2022
+AI Engineer,Vingroup Bigdata Institute 10/2020- 02/2021 PROJECTS
+Mirror Adjustment Feb 2022 - March 2022
+AI Engineer VinAI Research
+This project is a part of the Driving Monitor System (DMS) that can help the car automatically adjust the mirror and The driver has more information view among the car.
+· Investigated the pattern of mirror adjustment and broke it into components.
+· Implemented 3D eye location by using computer vision to detect 2D eye coordinates and convert them into 3D eye coordinates with 2 techniques: MediaPipe Iris Segmentation and Depth Estimation.
+· Developed model evaluation of deep learning systems that can handle not only metrics of deep learning model but also neuron coverage like as code coverage in software, and robustness. Free Space and Lane Detection March 2021 - Feb 2022 AI Engineer VinAI Research
+This project is mainly a key component of the Perception module, alongside Object Detection, Traffic Sign and Light Detection in the ADAS system. In addition, it can help the car understand situations on the road with free space that can be used or not, and lanes can help the car run safely on the road.
+· Developed data process toolkit that can preprocess Public datasets and In-House datasets collected from roads in VietNam, including created label mapping, clean data, and image annotation for all Lane and Segmentation.
+· Researched and developed Semantic Segmentation Framework to detect free space and merged with the Lane Detection model into a multi-task model.
+· Applied Model Compression techniques such as Model distillation for reducing model params and speeding up inference time still keep high accuracy.
+· Implemented Unsupervised Learning methods such as Domain Adaptation and Few-Shot Domain Adaptation by using few labels and improving 4% accuracy when changing the domain on unseen data and working better with raw video test.
+· Collaborated with the team leader to develop PostProcessing by using CRF PostProcessing to smooth output and exclude small contours, and far contours.
+· Configed training script and wrote Dockerfile for the team to train on the Superpod server. Reported the issues to the DevOps team to fix the infrastructure. Event-Specific Image Importance Oct 2021 - Sep 2022 Student HCM University of Science
+This is my thesis at the university. The problem is with the popular smartphones and cameras, taking pictures is very common so the quantity of photographs increases daily. Organizing and keeping signif- icant images automatically is a problem that needs to be addressed.
+· Surveyed challenges and overviewed SoTA papers and designed codebase for my research including a loaded dataset, model, metrics, and training procedure.
+· To tackle ambiguous albums, using multi-label classification for Event Recognition based on Trans- former. Proposed multi-task learning to address 2 tasks: event recognition and image importance.
+· To tackle albums consisting of many irrelevant images and high-level image representation while datasets are rather small. Applied Attention mechanism both low-level information like objects and high- level information such as scenes. My proposed method achieved SOTA results improvements of 3-4% on the Image importance task and high accuracy on event importance. AWARDS AND SCHOLARSHIPS
+University scholarship 2020
+This scholarship to encourage the hard-working students with high GPAs
+Contact this candidate

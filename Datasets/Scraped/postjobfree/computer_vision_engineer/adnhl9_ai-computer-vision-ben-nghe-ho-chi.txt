@@ -1,0 +1,56 @@
+NGUYỄN MINH PHÁP
+AI Engineer
++84-38-448-****
+adnhl9@r.postjobfree.com Mar 13, 1999
+https://www.linkedin.com/in/phapnm/ https://github.com/phapnm During the period of stydying, researching at university and working at company. I have 1 year of experience, I have basic knowledge in Computer Vision, Machine Learning, AI. I have experience apply Deep Learning to Computer Vision projects, check inference results of state-of-the-art Deep Learning model for various task. I have also significant knowledge of image processing algorithm. Additionally, I also experience build Machine Learning project pipeline. Finally, I am eager to extend my knowledge. Ho Chi Minh University of Education – HCMUE Sep 2017 – Present Major: Information Technology.
+GPA: 3.1/4.0.
+Course: Machine Learning, Neural Networks and Deep Learning, Convolutional Neural Networks by deeplearning.ai on Coursera.
+Smart Vision May 2020 – Feb 2021
+AI Engineer
+Smart Vision is a start-up company that focuses on research and development of security camera (CCTV) products that incorporate artificial intelligence. Here, my responsibilites:
+Apply Machine Learning, Deep Learning to camera project.
+Build model to detect Violence based on CCTV. Build API for web application demo.
+Build model to detect hands pose from camera frame and classify hand gesture. This model is used to unlock smart door system combine with face recognition.
+Check inference results of state-of-the-art model and open sources such as TF-Pose, Detectron2, MMLab for camera project.
+Framework: Pytorch, Tensorflow, Keras.
+Kyanon Digital Jul 2019 – Oct 2019
+AI Engineer Intern
+Be trained in data analysis, building models and evaluating model results.
+Using YOLOv3 architecture to detect license plate. Then, building CNNs model to classify characters of license plate.
+Apply Machine Learning, Deep Learning to Computer Vision project.
+Framework: Tensorflow, Keras.
+Summary
+Education
+Work Experience
+Violence Recognition based on CCTV
+Description: Apply SlowFast architecture to recognize Violence from CCTV video. Analyze results based on experiments of different datasets and training times. Export the model to ONXX for embedding on different platforms. Using Flask framework to build API for web application demo. Input: Video file.
+Output: Predict its violence or non violence.
+Related: Computer Vision, Deep Learning, Image Processing.
+Framework: Pytorch, Flask.
+Hand Gesture Classification based on CCTV
+Description: From a camera frame, using TF-Pose model to cut hands. Then, building CNNs model to classify hand gesture. Result of this model is used to unlock smart door system combine with face recognition.
+Input: Image file.
+Output: Predict its one of the gestures.
+Related: Computer Vision, Deep Learning, Image Processing.
+Framework: Pytorch.
+Grapes Classification
+Description: Apply transfer learning (VGG16, ResNet50, MobileNet) to classify Chinese grapes and Ninh Thuan grapes. Have 2 types of grapes: Green grapes and Red grapes. Input: Grapes image file.
+Ouput: Predict its Chinese grapes or Ninh Thuan grapes and Green grapes or Red grapes.
+Related: Computer Vision, Deep Learning, Image Processing.
+Framework: Tensorflow, Keras.
+Time attendance machine face recognition
+Description: By detecting user’s face, this application can record information, time check-in check-out of user access.
+Related: Computer Vision.
+Technologies used: C#, SQL, Git, OpenCV, EmguCV. Programming Languages: Python, C++, C#.
+Machine Learning: Have a knowledge of basic algorithms. Deep Learning: CNNs, RNNs, Transfer Learning, state-of-the-art models. Computer Vision: Image Processing, Classification, Object Detection, Action Recognition, Pose Human. Framework and Library: Tensorflow, Keras, Pytorch, Numpy, Sklearn, Pandas, OpenCV. Tools: Github, Visual Studio, Anaconda, Jupyter, CUDA, GPU. Projects
+Skills
+Operating System: Windows, Linux.
+Others: Data Analysis, Self-study.
+The Student Scientific Research Conference Oct 2019 – May 2020 Ho Chi Minh University of Education, Vietnam
+Research face recognition technology for Time attendance machine. Research face recognition technology using EmguCV, OpenCV, Deep Learning. Apply it for development Time attendance machine application. Neural Networks and Deep Learning Jun 2020
+deeplearning.ai, Coursera
+Convolutional Neural Networks Jul 2020
+deeplearning.ai, Coursera
+Activities
+Certifications
+Contact this candidate

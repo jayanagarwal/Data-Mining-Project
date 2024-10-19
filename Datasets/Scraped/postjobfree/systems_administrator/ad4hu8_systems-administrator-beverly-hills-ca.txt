@@ -1,0 +1,187 @@
+Name: Stewart J. Hill Date of Birth: */*/****
+Address: ** ******** ****, ***********, *** 6ER, United Kingdom
+Tel: 079******** E-mail: ad4hu8@r.postjobfree.com
+Principal I.T. skills
+Level of experience
+Windows 10 (32-bit and 64-bit)
+5 years
+Windows 7 (32-bit and 64-bit)
+7 years
+SCCM (System Center Configuration Manager 2016)
+4 years
+Microsoft Exchange 2010/2013/2016
+5 years
+Microsoft SQL Server Support
+5 years
+InTune (app deployment: “Line of Business” and .IntuneWin)
+1 year
+Windows 2012/2016 Active Directory Server
+7 years
+Software packaging: InstallShield, MSI Maker, Smart Packager
+6 years
+Desktop/laptop imaging: SCCM, Ghost, Image-X, Active Boot
+7 years
+Powershell App Deployment Toolkit
+2 years
+Inventorising software: Snow, SCCM custom reporting function.
+5 years
+Cyber Essentials/Nessus/Qualys Vulnerability Remediation
+4 years
+TCP/IP: DNS, DHCP, WINS, firewall IP port rules, etc.
+5 years
+VirtualWare: VSphere, ESX, Horizon VMWare, Hyper-V
+5 years
+Anti-Virus software (McAfee e-Policy, MS Defender, F-Secure)
+5 years
+Citrix Metaframe Server, ICA Client 10.2
+4 years
+Remote control: MS Remote Desktop, Dameware, Teams, Skype
+3 years
+Hardware: Dell, HP/Compaq, IBM, Lenovo
+8 years
+
+Profile Summary:
+Possessing strong I.T. technical, interpersonal and organisational skills, very flexible, resourceful and intelligent I.T. technician with many years’ experience in I.T. support, migration, rollout, installation, app discovery, software packaging, updating patching, configuration, troubleshooting, documentation and systems administration. Degree (Class 2:1) in Psychology.
+
+Employment Details:
+
+Duration: Nov 2022 – Dec 2023
+Company: Standard Life/Phoenix Group (Scotland)
+Job title: Infrastructure Support/App Packager/SCCM Admin/Triage Specialist
+
+Duties:
+Helping with a major Windows 7-to-Windows 10 Virtual Desktop Infrastructure (VDI) workstation migration project after the merger of Phoenix and Standard Life (Scottish financial institutions), involving the deployment, remediation and support of hundreds of business-critical applications in various departments.
+SCCM 2203 Admin: ensuring discovery settings would allow usernames in Active Directory groups to populate user group collections, in turn allowing apps to appear in “Software Center.” Adding SQL queries to user group collections, to connect them to Active Directory user groups. Correcting the properties of app “deployment types” and “deployments.”
+App remediation/root cause solution discovery: using the “msiexec.exe /l*v” command switch, to create verbose log files, to analyse in great detail why certain (in-house) apps would not function properly, even though they appeared to have completed installation runs with “error code = 0.” Also using the “Sysinternals Procmon” real-time system activity analyser, to see why apps might fail to install or uninstall fully, or fail to launch. Editing MSI files using “Orca” to alter configurations, based on issues uncovered using log files or “Procmon.” Also, triaging between different groups of technicians, to get to the root cause of app issues. And searching far and wide across the Internet, to find fixes to unusual problems. Using “ServiceNow” helpdesk system to track the progress of scores of apps, and their remediation measures. Plus fully documenting solutions for the “ServiceNow” knowledgebase.
+Slow login and slow Win10 (VDI) sub-project: analysing, in great detail, why virtual Win10 machines would take twenty minutes to log in, or why they would slow down using user sessions at any time of the working day. Involving: many group policies, Event Viewer analysis, drive mappings, Registry analysis, process explorers, etc.
+Application/Windows 10/Windows Server support via the “ServiceNow” helpdesk system: keeping detailed notes on hundreds of cases opened in association with the migration project, tracking progress with regular updates, as solutions were refined, tested and then rollout to users.
+Active Directory admin: analysing user group membership, drive mappings, file/folder permissions.
+Software applications included: SQL Server, SQL Management Suite, OneDrive, Office 365, MS Exchange, Teams, MS Edge, MS SharePoint.
+
+Duration: July 2017 – March 2022
+Company: Skanska U.K. (Construction) (3.6k users)
+Job title: Vulnerability Patcher/Application Packager/SCCM Admin
+
+Duties:
+Helping with server/workstation support, security hole patching and remediation, plus business as usual and special project work in The Automation Team of a major construction company, involving these elements:
+“Tenable” “Cyber Essentials”-related “Nessus” testing and “Qualys” testing and remediation: using the “Nessus” and “Qualys” agents running on workstations and servers to create detailed reports to expose security vulnerabilities, then chasing down remediation measures, via for example: "The National Institute of Standards and Technology" Web pages or “Tenable” Web pages, to find the correct “CVE-“ page(s) with potential remediation measures to fix the vulnerabilities identified by the “Nessus” agents. Then configuring SCCM Windows Update Packages, by filtering/searching for the relevant patch(s) using the "All Software Updates" node in the SCCM Console, creating "Software Update Groups," then deploying them to device collections populated by the correct target server and workstation names. Also, creating targeted SCCM packages, with installer batch files to push a single KB (.MSU) file (using “wusa.exe” and the correct “/quiet” and “/norestart” switches) to push a critical patch to a collection of servers or workstations. Plus, pushing scripted Registry reconfigurations (.REG Files), or removing older apps, or updating apps with newest versions, or altering target machines in any way required to make them appropriately secure. Also, using “Snow” and SCCM (SQL query-driven) app reporting, to create reports of discovered apps on workstations/servers, for analysis.
+Application packaging: finding and testing silent automated installer and uninstaller Powershell or batch file commands for various apps (either .MSI file format, or .EXE file format), preparing apps for deployment via the SCCM “Apps node” and the “Packages node,” test deploying them to endpoints like: Windows 10 (64-bit) and Windows 7 (64-bit) workstations using “Software Center,” analysing verbose log files, and using “Sysinternals ProcMon” to reveal in real-time where blockages in the (Windows 10 or Windows 7) file system and the Registry might be stopping installations, editing MSIs with “Flexera’s Installshield” or “Orca” to customise them into installing properly. Sometimes capturing an MSI from just a collection of app files (.DLL files and .EXE files). Also, using the “Powershell App Deployment Toolkit” (with the “Master Wrapper” app) to automate the installations/uninstallation of apps, with deferral options set, via “Software Center.”
+SCCM 2012/2016 Admin: making device collections and user collections for app or Windows update patch deployment, also connecting the collections via SQL queries to Active Directory groups, for the I.T. Helpdesk to use. Reporting on the successful installation or uninstallation of apps using SCCM’s reporting function.
+· InTune App Packaging (via https://endpoint.microsoft.com): either creating simple “Line of Business” apps (with one MSI), or using the “IntuneWinAppUtil” utility to convert SCCM-prepped apps to the correct “.InTunewin” (Win32) format, and pointing the apps to the correct deployment groups as “available” or “mandatory,” so that they then appear inside the “Company Portal” for the correct users. Also, enrolment of mobile devices using various methods, including the “WindowsAutoPilotInfo.ps1” script, and importing the .CSV files created by this script.
+Active Directory admin: creating user accounts, user groups, organisational units, changing file/folder permissions, roaming profiles. Troubleshooting app functionality issues caused by user/group access rights.
+Applications included: “SQL Server Express 2019,“ “SQL Management Studio 18.8,” Autodesk AutoCAD 2016/2017/2018/2020,” Autodesk DWG TrueView 2016/2017/2020,” “Google Chrome Enterprise,” “Mozilla Firefox,” “Microsoft Power B.I.,” “Adobe Creative Cloud Suites 2015/2017/2020,” “Fireworks_CS6,” “Adobe InDesign 2017/2018/2020,” “Adobe DC Pro 2017/2020,”“Tableau Reader Version 10,” “Bentley Explorer (versions 8 and 10),” “Trimble SketchUp Pro 2017/2018,” ”Palisade Corp. Risk Versions 5/6/8,” ”MS Project 2010/2013/2016,” ”MS Visio 2013/2016,” ”Cementation apps,” and many other software packages associated with the construction industry:
+Providing daily (expert level) support, via Hornbill SupportWorks Helpdesk system, for app deployment issues (to Windows 10 and Windows 7) that the 1st-line helpdesk couldn’t fix. Plus Windows 10 O.S. support, to deepest levels, and user profile config.
+
+Duration: Jan. 2016 – April 2017
+Company: Ricoh (Northants)
+Job title: Windows 10 Build Engineer/Systems Engineer
+
+Duties:
+Helping with a project to rollout Nokia Lumia smartphones, and migrate hundreds of Windows 7 touch screen tablets to Windows 10 at sites including: Bristol, Staines, London Colney, Bury St. Edmunds, Northampton.
+Building new Lenovo tablets using bootable USB drives and LanDesk to install Windows 10 pre-bundled with core applications (Lotus Notes 9.0, MS Office 2013, Adobe Acrobat Reader 11, etc.), and then adding the machines to the correct Active Directory domain.
+Suspending bitlocker (encryption software) running on old Windows 7 laptops, removing the hard disks, attaching them using USB cables to new Windows 10 tablets, and then using the “User Profile Data Migration Tool” (updm.exe) to migrate key files and folders to the new machines via a stage-by-stage scripted process in a (printed-out) Word help doc.
+Troubleshooting any software or hardware issues flagged during the migration process, screenshotting, logging and reporting problems to relevant teams of technicians for analysis.
+Downloading the AirWatch client from the MS Online Store to Nokia Lumia smart phones, configuring AirWatch with the correct connection settings for each (Lotus Notes e-mail) user in turn, enrolling each smart phone via accepting incoming requests sent to the AirWatch Server. Then sending and receiving test e-mail messages to prove connectivity. And ensuring correct contacts are present for each user.
+Testing the remote connectivity of the Windows 10 tablets using Cisco VPN software and 3G/4G (internal) modems, ensuring Lotus Notes (version 8.5) e-mail, and Lotus Sametime instant messenger, still functioned fully, checking that the users’ data (my documents, Internet Explorer Favorites, etc.) were present, adding networked or local printers, dealing with any ad hoc software issues the users flagged up during the migration sessions.
+Providing post-migration desktop support in: Windows 8.1 (64-bit) via (LanDesk) remote control or Microsoft Remote Desktop.
+
+Duration: Aug. 2014 – Nov. 2015
+Company: Northamptonshire County Council
+Job title: Application Discovery/App Packager/SCCM Admin (contract)
+
+Duties:
+Helping with a transformation project to migrate thousands of desktops and laptops from Windows XP (SP3) to Windows 7 (64-bit) at many Northants Council sites and offices:
+Application discovery: mainly employing SCCM 2012’s Asset Intelligence reporting functionality, which interrogates workstations’ Windows Management Instrumentation database. Also employed was Sysinternals’ utility called “psinfo.exe,” which when used with the “-s” switch for software analysis, creates a highly detailed text file filled with information on software installed on each workstation the utility is run against. This was especially useful for identifying precise version numbers for applications, and pre-requisites (like MS Redist C++ 2008, 2010, 2012, MS DotNet 4,5, etc.).
+Finding source media for hundreds of applications (licensed or freeware), plus any installation instructions that may have been stored in network folders, and doing compatibility testing to ensure that the apps would install and function fully within Windows 7 (64-bit). Plus identifying pre-requisites
+(like MS DotNets, or MS Dist C++, etc.), by manually installing apps on Windows 7 workstations and analysing dialogue boxes that pop up, or log files.
+Application Packaging: capturing and configuring self-installer package (.MSI) files, to be fed into SCCM 2012 Server, for test deployment to Windows 7 workstation, and then user acceptance testing before rollout. Also adding “netsh advfirewall” commands to packages to add firewall rules to Windows 7 workstations. Apps included: “Jaws” (screen reader for blind users), and “Dragon” (speech recognition software).
+Helping define and refine the SCCM task sequences used to install Windows 7 (64-bit) workstation, assisting with capturing a reference model WIM file using the ISO image provided by the SCCM 2012 console, injecting hardware drivers into the WIM file using a graphical DISM utility. Plus discovery of apps required by all (Windows 7) desktops and laptops (for example: Citrix Receiver 13.3).
+Installing Windows 7 (64-bit) via automated SCCM task sequences using the bootable PXE network interface cards (NICs) in a wide variety of Dell laptops and desktops, the task sequences also installing core apps like: Outlook 2010, MS Office 2010, Adobe Acrobat Reader 11, Citrix Receiver (for access to Citrix-delivered apps via Internet Explorer, etc,.), also adding machines to the correct domain, sometimes manually when required.
+Migrating users’ profile data (“my docs,” “IE Favorites,” “desktop” folder icons, etc.) from old Windows XP machines to new Windows 7 workstations, finding folders containing live Outlook PST files to be copied across to new Windows 7 machines, configuring Outlook profiles to open the correct mailbox, and to open the right Outlook PST files, also installing networked and local (USB) printers.
+All laptops encrypted using Becrypt’s “Disk Protect” software, with “pre-boot” usernames and passwords issued to users.
+Asset info for all desktops and laptops saved in MS Sharepoint data store: asset tags, unique Dell serial numbers, also Active Directory “description field” data used to store machine owners’ names and post codes.
+Post-rollout desktop support in: Windows 7 (64-bit) via Sharepoint ticketing system, solving issues via remote control of machines (Microsoft Remote Desktop mostly, and sometimes via the SCCM Console).
+Support for mobile devices like Blackberrys: the Pearl, the Curve.
+Networking: arranging cabling in the office complex, patching live floor ports and desk ports at network/switch patch panels. Understanding of TCP/IP/DHCP.
+Hardware is use: Dell and HP.
+
+Duration: March 2013 - May 2014
+Company: B.O.C. Gases (Guildford, Surrey, U.K.)
+Job title: Application Discovery/App Packager/SCCM Admin/ (contract)
+
+Duties:
+Working on a major project to migrate 3,500 workstations from Windows XP (SP3) to Windows 7 (Enterprise), offering help and analysis to application discovery, packaging and deployment of software (via SCCM):
+Discovery of apps in use by the company: organising and clarifying lists of apps (with version numbers) discovered by Centrix agents running on Windows XP machines or using Sysinternals “Psinfo.exe” utility, finding correct source media and installation instruction documentation on the network, analysing the applications’ Registry settings, folder structures, config files, pre-requisites, documenting configuration for later packaging of the apps, with screenshots and plain English descriptions of software components and pre-requisites.
+Application packaging: after securing source media and accurate installation and configuration documentation for apps, packaging of the applications to create self-contained MSI files using my own “MSI Generator” software (which I have a full business license for). Some applications captured and configured using the App-V (5.0) Sequencer to create virtualised self-contained MSI packages. Orca (the MSI editor) also employed often, to analyse and reconfigure MSI files.
+Administering SCCM (System Center Configuration Manager 2012) Server: creating application package structures, automated installer and uninstaller programs, application deployment collections, and task sequences. Testing and troubleshooting to ensure that applications would install and uninstall silently, and launch under a standard user account. Diagnostics tools included: using the “/l*v” switch at the end of “msiexec.exe /i” command strings in installer batch files, to create verbose (i.e. highly detailed) installation logs, to figure out why an application might not fully install on a target workstation. Also, “Procmon.exe” (from Sysinternals) employed, to view a workstation’s real-time Registry- and file system-related activities during installation attempts of an application, giving insights into installation issues. Also, Windows 7’s Event Viewer employed to identify causes of issues.
+Application compatibility testing and remediation: Windows 7 (64-bit) has a 32-bit subsystem called “Syswow64,” which can be used, via application compatibility layer flags set in the Registry, to run “setup.exe” installer files or application program executables, in 32-bit modes (here is the list of possible application compatibility layer flags: Win95, Win98, Win2000, Winxpsp2, Winxpsp3, Vistartm, Vistasp1, Vistasp2, Winsrv03sp1). In this way many unusual applications were reconfigured to work fully in Windows 7, without having to buy newer revisions of software. Also employed was “Windows XP Mode” (a 32-bit virtual WinXP PC within Windows 7) for older software to run in.
+SCCM task sequencing: helping to refine the SCCM task sequences to install Windows 7 plus core apps (VPN client, Citrix ICA Client 10.2, MS Office 2010, Outlook 2010, IE 8) using bootable USB drives (with 12Gb of media on them), joining machines to the Windows domain as the final task, creating a zero touch deployment Also, capturing workstation images (.WIM files) using ImageX.exe and SCCM’s own ISO for image capturing. And creating department-specific application deployment task sequences, with sometimes ten or more apps in each sequence, and advertising them to installer collections for each department within the company, to deploy the various apps efficiently.
+Deploying applications: approximately 300 software applications were available via SCCM, which were deployed via Active Directory group membership of the users’ computer account names.
+Analysis of the Group Policies applied to the Windows XP workstations, to see which ones should be created for, and applied to, the organisational unit for the Windows 7 workstations, providing settings such as screensavers, wallpapers, IE proxy settings, DNS search suffixes, etc.
+Post-rollout desktop support in: Windows 7 via a Touchpaper helpdesk ticketing system. Issues and resolved via e-mail, remote control (Remote Desktop), the telephone, or deskside visits.
+Software applications included: Citrix ICA Client (10.2), MS Office 2003/2007/2010, Outlook 2010 (with PST files), MS Visio 2003/2010, MS Project 2003/2007, Business Objects (6.5), Lotus Notes (9), Mertec’s FileScan, Protheus 2.2, Oracle (9.2, 10g, 11g), JRE, Attachmate Reflections, DoPDF, Adobe Writer 9 (Standard and Pro), SAP GUI (7.2), Putty, WinCP, CCPulsePlus 8.0, Blackberry Desktop Software (7.1), VMWare Workstation (7.0), Juniper VPN Client, Cisco Webex, Adobe CS4 Suite, and many inhouse apps related to the compressed gas industries.
+Hardware is use: Lenovo X230 and T510, HP 6545b laptops, Lenovo M83 desktops.
+
+Duration: Nov 2011 – Jan 2013
+Company: Thomas Cook/Accenture (U.K., Europe)
+Job title: I.T. Support/Deployment Engineer/SCCM Admin (contract)
+
+Duties:
+Helping with a major Windows XP to Windows 7 migration project involving Thomas Cook sites in England, Belgium, France, Germany and the Netherlands, testing 550 software applications installed via SCCM to test machines with various country-specific builds of Windows 7 on them.
+Administering and troubleshooting SCCM (System Center Configuration Manager 2007) Server: creating package structures, installer and uninstaller programs, mandatory advertised programs, collections, task sequences to install multiple apps, pushing source media (MSI and MST files) to Distribution Points, and then test installing approximately 550 different software applications to target (Windows 7) laptops and desktops, ensuring that each app would launch successfully (under a standard user account). Plus troubleshooting installation and uninstallation issues (using Procmon.exe, MSI-generated log files, and Event Viewer data), identifying and documenting (with screenshots) issues with the software, so that the source media for the applications could be reworked by application packagers, and then retested via SCCM until full functionality had been achieved. This required a deep level of understanding of the Windows 7 file system, including Registry-level configuration.
+Reworking/repackaging apps to solve issues identified during the testing phase. Applications reworked and repaired by an offshore team in India, and also by me using “Orca” and “MSI Maker.” Sharepoint-based application tracker database employed to record the progress of software remediation and retesting.
+Software applications included: Cisco VPN Client (5.0) for remote connectivity, MS Office 2010 Professional, Outlook 2010 (with PST files), Visio 2010, Project 2010, Lotus Notes (7.04 and 8.5), Oracle (9.2, 10, 11g), JRE, Attachmate Reflections, MS SQL Server Express 2005, Novell Client SP1 (2.0), Acro Software CutePDFWriter (2.8), SAP GUI (7.2), Blackberry Desktop Software (6.1), Cognos Powerplay (7.4), SAP Crystal Reports (10.5), VMWare Workstation (7.0), Adobe Acrobat Pro (7.0), Cisco Webex, Adobe CS4 Suite, and many inhouse travel industry-related apps.
+Administration and support in: Windows Server 2003 (Active Directory) server: changing users’ group membership, password resets, changing file and folder permissions.
+Post-rollout desktop support in: Windows 7 (64-bit) via a Remedy helpdesk system. Solving issues, documenting fixes, and closing tickets as required.
+
+Duration: June 2011 – Aug 2011
+Company: DHL/Yodel (U.K.-wide sites)
+Job title: I.T. Support Analyst/Server Engineer (contract)
+
+Duties:
+Helping with a major migration project after the fusion of DHL with Yodel. Duties included:
+Using scripts to migrate Windows XP workstations (desktops and laptops) from one Windows domain to a new one, ensuring that users’ profiles continue to be correctly configured to use Outlook, printers, various databases, Web-page applications, and many other software applications.
+Using USMT (User State Migration Tools: scanstate.exe and loadstate.exe) to migrate users’ data from local profiles to SAN disks, to be copied back to freshly imaged machines.
+Administration and support in: Windows Server 2003 (Active Directory) server: changing users’ group membership, file and folder permissions.
+Software support and configuration: Outlook 2007 (pst files, e-mail accounts, offline mail folders, etc.), Office 2007 (Word, Powerpoint, Excel), Office 2010, IE 8, Cisco VPN client, McAfee AntiVirus.
+Administration and support in: Exchange 2007 Server: mailboxes, distribution lists, Contact objects, smtp addresses, granting access rights to mailboxes, creating mailboxes stores/databases.
+Configuring printers (networked, TCP/IP): setting IP addresses, adding print drivers to print servers, assigning users’ permissions to access and use the printers. Also, USB.LPT1 printing for certain users.
+
+Duration: Dec 2010 – April 2011
+Company: Atos Origin (Wolverhampton)
+Job title: Windows Server Support Engineer (contract)
+
+Duties:
+Building/reimaging laptops/desktops with Windows XP and Windows 7 operating systems using SCCM (MDT).
+Administering SCCM (System Center Configuration Manager 2007) server: creating packages, collections, advertised programs, task sequences (for app deployment). Also, fixing SCCM Client software running on laptops and desktops: installing the BITS (Background Intelligent Transfer Service), configuring the Windows Management Instrumentation Service to run perfectly, and then pushing out the SCCM client software using the SCCM admin console to laptops and desktops once they had properly connected to the SCCM server.
+Administration and support in: Windows Server 2003/2008 (Active Directory) server: creating user accounts and user groups, changing user group membership, creating roaming profiles, changing file and folder permissions, altering users’ drive mappings in login scripts (batch files), also, editing Group Policy objects, assigning server roles. Plus: DHCP admin, DNS, etc.
+Administration and support in: Exchange 2007 Server: creating mailboxes, distribution lists, Contact objects, smtp addresses, granting access rights to mailboxes, creating mailboxes stores/databases.
+Many servers running on VMWare (ESX), all accessible via MS Remote Desktop Connection software (mstsc.exe) or DameWare or OpsWare (remote control software).
+Software support and configuration: Outlook 2007 (pst files, e-mail accounts, offline mail folders, etc.), Office 2007 (Word, Powerpoint, Excel), Office 2010, IE 8, Cisco VPN client, McAfee AntiVirus, Citrix (ICA) client.
+Configuring printers (networked, TCP/IP): setting IP addresses, adding print drivers to print servers, assigning users’ permissions to access and use the printers. Also, USB printing for certain users.
+
+Duration: June 2009 – Oct 2010
+Company: Ricoh UK (Northampton)
+Job title: Support Engineer/Systems Administrator/SCCM (contract)
+
+Duties:
+Helping with a number of I.T. support, deployment and integration projects after the fusion of Ricoh with a company called Ikon, including:
+Administering and troubleshooting SCCM (System Center Configuration Manager 2007) client software running on laptops and desktops: analysing SCCM client logs on the workstations, installing the BITS (Background Intelligent Transfer Service) using a batch file, configuring the Windows Management Instrumentation Service to run perfectly, and then pushing out the SCCM client software using the SCCM admin console to laptops and desktops once they had properly connected to the SCCM server. Plus all standard admin tasks associated with SCCM Server:
+Administering and supporting Windows 2003/2008 Active Directory Servers, including: user account creation, user group membership, user profiles, setting file/folder permissions, home drives, creating shared Active Directory printers and assigning access rights to them, editing Group Policy objects, assigning data storage quotas to users. Plus: DHCP, DNS. Plus WSUS: downloading latest patches/updates, then approving them for use by computers on the domain.
+Performing laptop and desktop rollout: Creating, testing and installing new builds of Windows 7 and Windows XP (SP3), for a variety of Lenovo laptops (mostly T400, T410, T60, and T61) and desktops (M55 and M58), and then migrating users’ data (My Docs, Favorites, Lotus Notes local database .NSF replicas, notes.ini, .id files, etc) to the new machines. Remote access for laptop users granted via 3G USB modems, Vodafone Mobile Connect software, and Juniper Network Connect.
+Desktop support in: Windows XP (SP3) and Windows 7 workstation: changing local profiles, adding printers (direct TCP/IP ones or shared Active Directory ones), installing and configuring software applications, swapping out hard disks and reimaging them with fresh builds of operating systems when required.
+Software support and configuration in: Lotus Notes (version 7.02), Microsoft Office 2003 (Word 2003, Excel 2003, Powerpoint 2003), Citrix (Metaframe/ICA Cient), SQL Express 2005, IIS (Internet Information Services), Dexterra (database), Windows Defender (anti-malware software), Citrix (ICA Client), Juniper Network Connect VPN (remote user) software, Checkpoint Pointsec (encryption software on laptops), Terminal Services (mstsc.exe) connections, DameWare, VNC, Sophos Anti-Virus, IBM Client Access Express (AS/400 terminal emulator).
+Remote access administration, using RSA SecurID tokens and Juniper Networks (VPN software): performing RSA SecurID token resets/resynchronisations, PIN number resets.
+Documenting bug fixes with plain English text and helpful screenshots for internal knowledgebase.
+Updating information relating to each users’ hardware (make, model, serial number of laptop or desktop) using internal Lotus Notes audit database.
+Patching network and phone system cables at Cisco switches for various buildings/departments.
+
+Duration: 4th Dec 2008 – April 2009
+Company: Mouchel I.T. Services (Bath, Somerset)
+Job title: Support Engineer/Systems Administrator/SCCM (contract)
+
+Duties:
+Working on a multi-part Government Connect Secure Extranet (GCSX) Project at Bath & North East Somerset Council, involving the following elements:
+Administering SCCM (System Center Configuration Manager 2007) Server: testing various software application installation methods (batch files, command line .exe switches, etc.) to allow applications to be “published” so that various desktops and laptops in Active Directory groups could install them. Also, performing SCCM client “health checks” on workstations: ensuring that Service Pack 2 was installed, and that the BITS (Background Intelligent Transfer Service) was running, and that the Windows Management Instrumentation Service was running perfectly, and pushing out the SCCM client software to laptops and desktops once they had properly connected to the SCCM server.
+Administering user accounts in a Windows 2003 Active Directory trees, including: account creation, group
+Contact this candidate

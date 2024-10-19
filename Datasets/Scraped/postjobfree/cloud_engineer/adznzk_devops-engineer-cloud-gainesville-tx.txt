@@ -1,0 +1,168 @@
+Poornima Bhogi
+Mobile: +1-940-***-****
+Email: adznzk@r.postjobfree.com
+
+Summary:
+Over 7+ years of extensive experience in Cloud Support engineer, Middleware Admin, and Windows server administration, expert in System Analysis, Design & Support of Production, QA, Development environments.
+Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+Professional work experience as DevOps Engineer, Linux Admin, Build & Release with AWS Cloud platform experience with mentoring skills and good understanding of the principles.
+Experienced in DevOps CI/CD (cloud DevOps) Architecture & Network Security Architecture on AWS.
+Expertise in Migrating an existing on-premises application to AWS by selecting the appropriate AWS services PaaS, IaaS, SaaS based on compute, data, or security requirements.
+Expertise in writing Terraform to deploy various cloud environment infrastructures Dev, QA and UAT in Dev, QA, UAT and PROD.
+Experience on Azure infrastructure such as migrate physical and VM’s from on premises to Azure, setting up Express route, configure Metrics to monitor memory, disk usage etc., Knowledge of setting up web application in Azure.
+Experience in using Jenkins and pipelines to drive all micro-services builds out to the Docker registry and then deployed to Kubernetes, created Pods, and managed using Kubernetes.
+Experience in Terraform code to build VM/VMSS, Private end point, Private link, Key Vault, load balancer and storage account.
+Build & deployed customized images based on requirements.
+Experience in Event hub to store live data, Analytics data, and archiving data.
+Experience in Redis cache to accelerate our data layer through caching.
+Experience in using ARM template (json) to create Azure services, while ensuring no changes were made to the existing infrastructure.
+Involved and working experience with ARM template to deploy, update and delete multiple resources.
+Experience in IIS application hosting, Microsoft SharePoint server and SQL server database administration and Configuration, SharePoint Config and Content DB management.
+Have worked in IaaS (Infrastructure as a Service) creation of Azure VM using templates and PaaS (Platform as a Service) deploy web application and set-up the Metrics to monitor in Azure cloud.
+Experience in dealing with Windows Azure, IaaS-Virtual Networks, Virtual Machines, Cloud Services, Express Route, Traffic Manager, VPN, Load Balancing, Auto-Scaling and Application Deployments using Terraform in Azure.
+
+Technical Skills:
+
+Platforms: AWS, Microsoft Azure
+Configuration tools: Ansible, Chef, ANT, Maven
+Programming: C, Java/J2EE, Xml, Python, PowerShell, SQL, JavaScript, HTML
+OS Platforms: UNIX (Solaris 8,9,10), Linux 5/6, Ubuntu, AIX, Windows 2008,2012
+Web Service Tools: JBoss, Apache Tomcat 5.x, IntelliJ IDEA, Oracle WebLogic 10.x/11.x
+CI Tools: Jenkins, AzureDevops
+SDLC: Agile, Waterfall Methodologies
+Database Systems: SQL Server 2008/2012, Oracle 9i/10g, PL/SQL, MS Access, DB2, Postgres.
+Monitoring tools: Nagios
+
+Professional Experience:
+
+Legato, Columbia, Maryland Oct2020 - Present
+Senior DevOps Engineer
+Roles & Responsibilities:
+Focused on automation, containerization, and integration monitoring and configuration management.
+Streamlined applications delivery to get applications out to customers faster.
+Developed and implemented software release management strategies for various applications according to agile process.
+Created release branches in GIT and GIT Administration including branching, reporting and assisting with project and end user support.
+Managed the GIT using Nexus tool to automate the build process and used the same to share the snapshots and releases of internal projects.
+Used PowerShell for DevOps in Windows-based systems.
+Performed integration of Code Quality Analysis using SONARQUBE.
+Build scripts using ANT and MAVEN build tools in Jenkins to move from one environment to other environments.
+Managed Sonatype Nexus repositories to download the artifacts (jar, war & ear) during the build.
+Used Puppet and Chef for Configuration Management tool & automation.
+Developed automation scripting in Python (core) using Puppet to deploy and manage Java applications across Linux servers.
+Used Shell scripts to automate the deployment process.
+Worked on Splunk to monitor the infrastructure implementation.
+Deployed java applications to application servers in agile continuous integration environment and also automated the whole process.
+Responsible for installing Jenkins master and slave nodes.
+Created the build scripts using Maven for Java projects. Automating the build process by configuring Subversion for projects. Build tracking so that whenever defect is detected, developers will be able to track the source code. Handling Environment issue in Linux boxes.
+Worked on infrastructure with Docker containerization.
+Kubernetes is being used to orchestrate the deployment, scaling and management of Docker Containers.
+Worked on Micro Services deployments on AWS ECS and EC2 instances
+Actively worked on Docker and deploying and maintaining Micro services in Dev & QA environment.
+Implemented docker-maven-plugin in maven pom to build docker images for all microservices and later used Docker file to build the docker images from the java jar files.
+Implemented build stage- to build the micro service and push the docker container image to the private docker registry.
+Used Jenkins pipelines to drive all microservices builds out to the Docker registry and then deployed to Kubernetes, Created Pods and managed using Kubernetes
+Building/Maintaining Docker container clusters managed by Kubernetes Linux, Bash, GIT, Docker, on GCP (Google Cloud Platform) . Utilized Kubernetes and Docker for the runtime environment of the CI / CD system to build, test deploy.
+Developed microservice on boarding tools leveraging Python and Jenkins allowing for easy creation and maintenance of build jobs and Kubernetes deploy and services.
+Experience on Deployment Automation & Containerization (Docker, Kubernetes).
+Creating Ansible Playbooks, to Deploy VM and install the Components as per requirements.
+Automation using Puppet and involved in developing Manifest and Modules for System and Application Configuration Management.
+Worked on Docker open source project by automating the deployment of applications inside software containers.
+To achieve Continuous Delivery goal on high scalable environment, used Docker coupled with load-balancing tool Nginx.
+Configure, monitor and automated cloud-based service Amazon Web Services.
+Created and managed custom Windows and Linux based AMIs
+Setup Elastic Load Balancer for distributing traffic among multiple WebLogic servers.
+Involved in deploying the content cloud platform on Amazon Web Services using EC2, S3 and EBS.
+Implemented multi-tier application provisioning in AWS, Openstack cloud and integrating it with Chef/Puppet.
+Used SonarQube to help maintain the source code quality.
+Deploying the Openstack components on multimode with High availability environment.
+Deploy Openstack environments through automated tools, Ansible / custom pipeline.
+Integrating Jenkins with AWS and Openstack to automatically launch instances.
+Responsible for OpenStack project core infrastructure including code review, continuous integration systems, and deployment tools.
+Working with DevOps practices using AWS, Elastic Bean stalk and Docker with kubernetes.
+Changing the AWS infrastructure Elastic Beanstalk to Docker with kubernetes.
+Creating S3 buckets and also managing policies for S3 buckets and Utilized S3 bucket and Glacier for storage and backup on AWS.
+Worked on PL/SQL database objects tables, views, sequences, triggers, Procedures, Functions, Triggers, Cursors, Exceptions Partitions, analytical functions, views, Indexes and global temporary tables etc.
+Developed, maintained and distributed release notes for each scheduled release.
+Kept track of all releases and request of the developers through infrastructure management tool.
+
+Fidelity, NC Jan 2019 – October 2020
+AWS DevOps Engineer
+
+Roles & Responsibilities:
+
+Solutions Consultant responsible for architecture decisions and tasks for ongoing migration efforts.
+POC on migrating on premise application to AWS and Azure.
+Worked on core AWS services such as Setting up new server (EC2) instances/services in AWS, configuring security groups, and setting up Elastic IP's, Auto Scaling and Cloud Formation.
+Assigning custom Roles and Policies to Users, Security Groups by using Identity and Access Management (IAM) in AWS.
+Designed AWS Cloud Formation templates to create custom VPC, subnets, NAT to ensure successful deployment of Web applications and database templates.
+Configured S3 Buckets for EBS backed Snapshots. Create and manage S3 buckets and policies for storage and backup purposes.
+Set up and built AWS infrastructure resources, VPC EC2, S3, IAM, EBS, security groups, auto scaling and RDS in Cloud Formation JSON templates.
+Launched Amazon EC2 Cloud Instances using Amazon Web services (Linux/ Red Hat/Windows) and configured the launched instances with respect to specific applications
+Creating and Architecting HA application by Using Docker Container Service.
+Installed applications on AWS EC2 instances and configured the storage on S3 buckets
+Performed S3 buckets creation, policies, IAM role based polices and customized the JSON template.
+Implemented and maintained the monitoring and alerting of production and corporate servers/storage using AWS Cloud watch.
+Identifying opportunities to improve infrastructure that effectively and efficiently utilizes the Microsoft Azure Windows server 2008/2012/R2, Microsoft SQL Server, Microsoft Visual Studio, Windows PowerShell, Cloud infrastructure.
+Architect, develop, plan and migrate servers, relational databases (SQL) and websites to Microsoft azure cloud.
+Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs and subnets.
+
+Informatica, Tx Mar 2017 – Jan 2019
+
+DevOps Engineer
+
+Roles & Responsibilities:
+
+Evaluation and Migration of on premise infrastructure and applications to Azure, rapidly scale up and scale down IT resources to meet business demand.
+Working with multiple technical teams, architects, security officers, managers and business users, reviewed and documented workloads, system dependencies and business requirements. Mapped workloads to the capabilities of Azure for public, private and hybrid clouds.
+Designed Azure Resource Manager (ARM) templates that helped to deploy, manage and monitor all Azure resources into a single group
+Built Continuous Integration CI/Continuous Delivery (CD) pipeline using Azure DevOps as a part of service improvements to achieve seamless and error prone deployments
+Worked on IoT Hub and Azure Stream analytics job to establish the seamless data transfer activity between multiple systems. Developing Docker images to support Development and Testing Teams
+Worked on implementing Micro services on Kubernetes Cluster
+Worked on creating pipeline to automate application deployment on Kubernetes using Jenkins
+Used Kubernetes to deploy scale, load balance, scale and manage Docker containers with multiple name spaced versions
+Served as process owner under an Agile Scrum project implementation, leading session for sprint planning, sprint review and sprint retrospective meetings.
+Guiding & Leading team members technically
+
+COX communication, GA Nov 2016 – Mar 2017
+Senior Associate DevOps Engineer
+
+Roles & Responsibilities:
+
+Evaluation and Migration of on premise infrastructure and applications to Azure, rapidly scale up and scale down IT resources to meet business demand.
+Working with multiple technical teams, architects, security officers, managers and business users, reviewed and documented workloads, system dependencies and business requirements. Mapped workloads to the capabilities of Azure for public, private and hybrid clouds.
+Terraform code to build VM/VMSS, Private end point, Private link, Key Vault, load balancer and storage account.
+Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets, Provided high availability for IaaS VMs and PaaS role instances
+Strategy and Planning to migrate On-Premise Services to Azure Cloud services (IaaS and PaaS)
+Designed Azure Resource Manager (ARM) templates that helped to deploy, manage and monitor all Azure resources into a single group
+Built Continuous Integration CI/Continuous Delivery (CD) pipeline using Azure DevOps as a part of service improvements to achieve seamless and error prone deployments
+Developing Docker images to support Development and Testing Teams
+Worked on implementing Micro services on Kubernetes Cluster
+Worked on creating pipeline to automate application deployment on Kubernetes using Jenkins
+Used Kubernetes to deploy scale, load balance, scale and manage Docker containers with multiple name spaced versions
+Served as process owner under an Agile Scrum project implementation, leading session for sprint planning, sprint review and sprint retrospective meetings.
+Guiding & Leading team members technically
+
+Dell Tech, India April 2014 – Sep 2015
+Associate DevOps engineer
+
+Roles & Responsibilities:
+
+Worked for multiple clients by leading the implementation of Cloud solutions using Azure and underlying technologies
+Responsible for delivering application migration projects and providing weekly reports to IT Leadership and Business Units on risks and/issues and overall schedule
+Managed delivery by working with engineers from Infrastructure, Database, IT Security and DevOps to deploy an Azure Cloud environment
+Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+Working with multiple technical teams, architects, security officers, managers and business users, reviewed and documented workloads, system dependencies and business requirements. Mapped workloads to the capabilities of Microsoft Azure for public, private and hybrid clouds.
+Implemented high availability with Azure Classic and Azure Resource Manager deployment models.
+Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs and subnets.
+Responsible for overall design and migration of application to Azure Platform, Accountable for Architecture reviews & deliveries, PoCs to identify and evaluate suitable Cloud model (PaaS, IaaS, etc.,)
+Assisted teams with the rewrite of on-prem applications to Azure/.NET/C# PaaS applications
+Deploying VM's, Storage, Network and Affinity Group through Power Shell Script and Azure Portal.
+Used Windows Azure portal to manage Virtual Network and Traffic Manager
+Used Azure BLOB to access required files and Azure Storage Queues to communicate between related processes.
+Experience in continuous integration technologies like Jenkins. Designed and created multiple deployment strategies using Continuous Integration and Continuous Development Pipelines.
+
+Education:
+
+KL University, India – 2009-2013
+Btech, Computer Science – CGPA: 9.2/10
+Contact this candidate

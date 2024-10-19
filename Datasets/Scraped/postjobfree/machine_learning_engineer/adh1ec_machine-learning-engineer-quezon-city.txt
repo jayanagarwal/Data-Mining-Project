@@ -1,0 +1,60 @@
+Ron Medina
+Æ +63-995-***-**** Q adh1ec@r.postjobfree.com
+linkedin.com/in/ron-medina-5a411218a/ particle1331 With a strong background in mathematics, my goal is to develop machine and deep learning systems that would (1) optimize business functions and (2) lead to valuable information and business insight. Education
+University of the Philippines - Diliman June 2013 – Dec 2018 Bachelor of Science
+Major in Mathematics
+Relevant Courses:
++ CS11 Intro. to Computer Programming 1 (Python) - 1.00
++ Math171 Numerical Analysis - 1.75
++ Math123.2 Advanced Calculus 2 - 1.50
++ Math110.2 Abstract Algebra 2 (Linear Algebra) - 1.25 Eskwelabs July 2019 – Oct 2019
+Data Science Bootcamp
+Attended a 10-week bootcamp which included 160 hours of in-class learning in addition to coursework. At the end of the bootcamp, I resented my capstone project in front of industry leaders in Makati City, Philippines.
+Skills
+Data analysis
++ Data visualization, data wrangling, and exploratory data analysis of datasets (<5M) using Pandas, seaborn, matplotlib, and NumPy.
++ SQL, probability modelling, basic statistics, scikit-learn Machine Learning
++ Training and tuning of deep neural networks in Keras, PyTorch
++ Training and tuning of machine learning models in scikit-learn (SVM, RF, logistic regression, k-Means, Naive Bayes, PCA, etc.)
++ Recommender systems (CF, next-item sequential), fraud/anomaly detection (highly imbalanced data)
++ Gradient boosting (Catboost, XGBoost, LightGBM), ensemble learning (stacking) Model deployment
++ Experience with deploying models in Django
++ Version control using git
++ Familiarity with bash scripts
+Projects
+Data-driven reconstruction of a chaotic dynamical system Oct 2019
++ Code is written in Tensorﬂow 1.x.
++ Sampled data from the Lorenz (1963) equations is fed into a dense MLP network.
++ Obtained good results for correlation dimension and Lyapunov exponent in the reconstructed system. Recommendation system May 2020-Present
++ Recommendation system for online food delivery (simlar to foodpanda). Currently deployed on four diﬀerent franchises, with multiple stores per franchise. Trained over 5M transactions.
++ Collaborative ﬁltering, item-item based recommender model
++ Code written using numpy, pandas, and scipy (sparse matrices)
++ Increased ATC=3.38 (ave. ticket count), ATV=$11.49 (ave. ticket value) to ATC=4.86, ATV=$14.21 in the ﬁrst two months in production.
++ An improved version of the recommender currently under development is based on [Tang & Wang (2018)] uses a convolutional network over embeddings of sequences.
++ Predicts within a Django server.
+Fraud detection July 2020-Present
++ Uses a stacked CatBoost, Imbalanced-XGBoost basemodels, and Logistic Regression model to detect fraudulent transactions.
++ Prediction time is 1.00 sec, with a true positive rate of 88% and a true negative rate of 98% on a test set of 100,000 transactions which drastically improved previous rule-based approaches.
++ Prediction is done using a Django server.
++ Currently being integrated into existing systems. Employment History
+Machine Learning Engineer Mar 2020 – Present
++ Currently a Machine Learning Engineer at BrewedLogic, Inc.
++ Preprocessing and analysis of datasets
++ Model selection, training, evaluation (cross-validation) of models
++ Research and implementation of novel techniques and architectures that will be useful to current projects.
++ Deployment of models. Making sure that the machine learning models satisfy the constraints for proper implementation (e.g. size and time constraints).
++ Maintenance of models. Retraining of models as well as monitoring of model performance. Bootcamp Associate Oct 2019 – Jan 2020
++ Developed curriculum materials for the data science bootcamp at Eskwelabs
++ Participated in live Hackatons.
++ Presented a talk at the National Youth Congress held at UP Diliman School of Economics, Nov 2019, on the topic of artiﬁcial intelligence and deep learning. Data analyst June 2017 – June 2019
++ Worked part-time at an online shop with 122K followers.
++ Performed basic statistical analysis of shop data
++ Clustered customers based on RFM criteria.
++ Analysis of frequently bought together items using graphs and correlation.
++ Advised proprietor about which items have higher ROI. Tutor Sept 2013 – Dec 2018
++ Tutoring high school students 1-on-1 in mathematics and science.
++ Exam review: NMAT, Civil Service, UPCAT/ACET, etc. Tutor June 2016 – Aug 2016
+ACE Tutorial Center, Katipunan, Quezon City
++ Tutored students from Ateneo Grade and High School.
++ Designed curriculum materials, provided homework and project assistance.
+Contact this candidate

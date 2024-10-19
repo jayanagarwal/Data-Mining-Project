@@ -1,0 +1,41 @@
+Guangming Luo
+Address: Naperville, IL
+Immigration Status: U.S. Permanent Resident
+Phone: 630-***-****
+Email: ad0b4z@r.postjobfree.com
+Summary
+* ***** ********** ** ********** software development, 15+ years experience on basic science research, modeling complex system, data analysis, high performance / parallel computation, machine learning algorithm and statistics. Familiar with different programming language such as C#, Java/Spring, C/C++, Javascript, Python, MPI, GPU/CUDA, OpenGL. Microsoft Certified Solutions Associate (MCSA) for SQL Server 2012, including T-SQL query, SQL Server maintenance and data warehouse implementation.
+(The work on data analysis and complex system simulations induced about 40 publications on international journals on scientific research).
+Education and Certifications
+Ph.D. on Physics, Institute of Physics, Chinese Academy of Sciences
+Microsoft Certified Solution Associate (MCSA) for SQL Server 2012 Professional Experience (Software-Development Activities Only) Senior Software Engineer 05/10/2022 – 09/01/2023
+Role: Senior Software Engineer at Interactions LLC, developing PaaS cloud service for intelligent virtual assistant, to offer flexible and reliable solution combining artificial intelligence and human understanding in productive conversations.
+Environment: Java / Spring, Kubernetes / Docker / micro-services, Kafka /Active MQ, Hazelcast, Redis, protobuf message, RESTful/WebSocket, PostgreSQL, Language Processing / Conversation.
+Main efforts:
+1. Design and implemented streaming voice / chat across microservices, and the services for training analysts
+2. Design and implemented low-latency (< 0.5 sec) HTTP-Live Streaming (HLS) for human understanding in productive conversation, using Web Assembly at browser. 3. Design and implemented script engine to support customized UI workflow in React application
+4. Maintenance of recognition, TTS (Text To Speech), Apache Lucene search engine with index search and other services, e.g. google map, GIS services. 5. Deploy micro-services by Kubectl, Rancher and Ansible 6. Python for PostgreSQL database and cloud data migration, cloud service log tracing. 7. Maintenance of TDD / BDD tests, JUnit, Cucumber / Selenium Senior Software Engineer 03/28/2016 – 05/10/2022
+Role: Senior Software Engineer at GE Digital, developing SmartSignal in Cloud and Windows Environment: C#, Java / Spring, AWS Cloud / Microservice, RabbitMQ / RedisCache, Asp.Net Core, Spring Boot, PostgreSQL / MS SQL, Python, Machine Learning Prize: GE above average prize, GE Above & Beyond prize, GE Digital APM (Asset Performance Management) Recognition Award
+Main efforts:
+1. Develop APM/SmartSignal (similarity-based model, supervised machine learning) product on AWS. Major on the microservices (SaaS) for data processing, model training and asset metadata management, and other services with dotnet core and Java/Spring. 2. Develop and maintain Premise SmartSignal product on Windows platform, with .net Framework, WPF/WCF/MS SQL Server
+3. Implementation of LDAP/ActiveDirectory security authentication for Premise SmartSignal product.
+4. Implement external TCP/IP, HTTP router hosting for AWS cloud QA environment 5. Product innovation works: Steam Table function to calculate energy transform of steam in turbine engine, Time To Action to forecast asset maintenance requirement, algorithm to detect data “Shift” in time-series data processing and sensor health status monitoring. 6. Algorithms and models were initialized, validated and hosted with Python Scikit-learn and Flask API.
+Software Developer 11/02/2015 – 03/28/2016
+Role: Contractor for software developer at GE Digital, working on SmartSignal. Environment: C#, WPF / Winform, WCF, ASP.Net, Web API, MS SQL, Software Engineer 08/2015 – 10/2015
+Role: contractor for software development at Technical Center of Caterpillar Inc. Join the development of next-generation D2D calculation engine at Caterpillar (US). The calculation engine at Caterpillar has been widely used in the community with more than 3500 international users in US, UK, Indian, China and other countries. Main efforts:
+Develop D2D next-generation calculation engine with Java. Scientific Researcher, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 10/2012 - 04/2015
+Role: Leading liquid surface research with synchrotron radiation X-ray techniques and computer simulations.
+Keywords: Molecular dynamic simulation, Monto Carlo, statistics, data analysis Main Software Development:
+1. Structural simulation packages were developed for automatic structural optimization, with multi-dimensional variables search and error analysis, integrating Monte Carlo technique with Levenberg-Marquardt multivariable optimization algorithm. The techniques were applied to X-ray data analysis and structural model simulations. 2. A distributed Monte-Carlo procedure was developed for numerical calculation of 2d small angle scattering pattern for studying nanoparticle at water surface, with geometrical structural configurations sampled with Monte-Carlo method. 3. Extended multi-threaded Molecular Dynamic simulation with CUDA C/C++ code based on NVIDIA Fermi-architecture GPU.
+4. Developed software for 2d grazing incident small angle scattering pattern calculation with CUDA C/C++ based on NVIDIA GPU.
+Assistant Physicist, Argonne National Laboratory 12/2008 - 05/2012 Role: Leading liquid surface research relating to heavy element separation with synchrotron radiation X-ray techniques and computer simulations. Keywords: Molecular dynamic simulation, Monto Carlo, statistics, data analysis, CUDA / GPU, 3D visualization with OpenGL
+Main Software Development:
+1. Liquid interface structural model development and fitting with experimental data. Developed MFC C/C++ packages for X-ray experimental data analysis, liquid interface x-ray reflection calculation and automatic model fitting algorithm. 2. Modeling heavy ions at liquid interface, to prove the aggregation effect due to the surface electrostatic interaction. Multi-threaded full-atomic and coarse-grained Molecular Dynamic simulation packages were developed with C++ and CUDA on GPU, to understand the mechanism about liquid and interfacial structure formation. Desktop visualization was developed with OpenGL to monitor 3d structure during simulation. Also, statistics model was developed independently for interfacial structure and calculated numerically with CUDA on GPU for consistent result.
+Postdoctoral Research Associate, Oak Ridge National Laboratory 05/2006 – 11/2008 Role: macromolecular structure analysis with small angle neutron scattering technique. Keywords: Molecular dynamic simulation, Monto Carlo, MPI/HPC/distributed computation, statistics, data analysis
+Main Software Development:
+1. Developed spectrum analysis packages for small angle X-ray and neutron scattering experimental data analysis and model simulation, integrated with interactive commercial Igor Pro package.
+2. Modeling polymer and macromolecule structure with Newton-Euler Inverse Mass Operator method. Developed multi-threaded Molecular Dynamic simulation package for polymer structure simulation with C++ on cluster with MPICH for distributed calculation. User- interactive GUI was developed with MFC VC++ and OpenGL to show the 3d atomic structure of polymer.
+Postdoctoral Research Associate, University of Illinois at Chicago 01/2002 – 03/2006 Role: liquid interface structure study with synchrotron radiation X-ray technique. Main scientific achievement:
+observed abnormal ion distribution at liquid electrolyte interface Main Software Development:
+Developed C/C++ packages for X-ray experimental data analysis. Modeling ion distribution at inhomogeneous liquid interface controlled with biased voltage, based on different electroanalytical chemical models.
+Contact this candidate

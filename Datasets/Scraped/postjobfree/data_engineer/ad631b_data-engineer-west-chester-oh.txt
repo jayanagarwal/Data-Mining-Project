@@ -1,0 +1,54 @@
+Lakshmi Julakanti
+Email:ad631b@r.postjobfree.com 513-***-**** Cincinnati, OH
+Professional Summary:
+Around 5 years of professional experience in all aspects of data engineering that includes researching, prototyping, design and implementation, testing, debugging code and documenting.
+A professional with varied experience in multiple programming languages which includes Java, python and eager to expertise in new skills.
+Experienced in using various cloud services along with computing and storage. Professional Experience:
+Data Engineer,Microsoft, California Nov 2022 to present
+● Developed data transformations through the creation of Python Spark notebooks on Azure Synapse spark pool by utilizing PySpark libraries for enhanced efficiency, resulting in a 30% increase in data processing throughput and a 30% reduction in data storage cost..
+● Increased the query performance in an Azure Synapse dedicated SQL Pool environment using sharding technique by changing table distribution design from Round Robin distribution to Hash distribution, led to 40% increase in performance.
+● Automated online stream video game data pipelines using python by providing REST API endpoints.
+● Developed and published automated PowerBI reports by extracting data from multiple REST APIs, and SQL databases, reducing the manual intervention by 40% and by providing real time updates.
+● Developed an automated data pipeline using Python scripts to fetch files from the Perforce server and store them in Azure Blob Storage.
+● Consolidated data from multiple disparate sources, ensuring 99% data accuracy through rigorous data quality checks and automated data cleansing processes.
+● Retrieved data from bugsplat platform using REST API endpoint and then consumed that data for power BI reporting.
+● Developed Spark applications for data extraction, transformation and aggregation from multiple systems and stored on Azure Data Lake Storage using Azure Databricks notebooks.
+● Developed PySpark scripts from source system like Azure Event Hub to ingest data in reload, append, and merge mode into Delta tables in Databricks
+● Created pipelines in ADF to copy json data files from ADLS Gen2 to cosmosDB and parquet data files to Azure Synapse Analytics.
+● Actively involved in data requirements gathering and translated them into technical documentation.
+Data Engineer, 66degrees, Chicago,IL Sep 2022 to Nov 2022
+● Automated multiple data streaming events ingestion into BigQuery using Cloud Pub/Sub.
+● Applied a data quality check mechanism to identify and flag data anomalies using GCP data governance tools, reducing data errors by 20%
+● Built Looker dashboards by leveraging the use of Parameter select,template filters, derived tables, custom table calculations by creating data actions.
+● Developed complex SQL queries for data extraction and analysis.
+● Designed and implemented efficient ETL jobs using Composure, Dataproc and python, ingesting data from 100+ diverse sources, handling terabyte data volumes daily. Software Engineer Intern,SAGE IT, Dallas,Texas May 2022 to Aug 2022
+● Developed APIS and deployed on AWS Lambda with DynamoDB as a datastore.
+● Collaborated on targeted ad data by helping advertisers to assess campaign performance.
+● Automated sanity checks with python script after legacy system migration, enhancing data accuracy and efficiency.
+Software Engineer, University of Central Missouri,Kansas Sep 2021 to April 2022
+● Collaborated closely with data scientists and data analysts to define data requirements and data quality issues
+● Achieved 25% reduction in data loading time by implementing ELT workflows using Hive
+● Established data governance policies regarding data accuracy, accessibility, consistency, and completeness for long-term data management.
+Data Engineer,Couth Infotech Pvt. Ltd, Hyderabad May 2019 to Aug 2021
+● Managed real-time data pipeline synchronization between 30 databases and 10 Kafka topics, processing millions of records per hour, ensuring data consistency and accuracy.
+● Implemented data transformations in the real-time data pipeline utilizing Dataproc, achieving a 60% reduction in data pipeline execution time.
+● Achieved a 60% reduction in data pipeline execution time by optimizing SQL queries for large datasets by utilizing the techniques which includes data return limit, partitioning and indexing,
+● Developed Python programs for preserving raw file archives in the GCS bucket.
+● Constructed scripts that facilitated the loading of Google Big Query.
+● Developed a Data Warehouse model, utilized Star Schema to create dimensional data marts by producing fact tables that reference multiple dimensional tables.
+● Developed BigQuery authorized views for row-level security and data exposure to other teams.
+● Created optimal ETLs with Dataproc to load and transform raw data into user-friendly dimensional data for self-service reporting.
+● Applied Rest API with Python for data ingestion from various sites to Big Query.
+● Utilized Apache Airflow in the GCP composer environment to construct data pipelines, employing various Airflow operators like the bash operator, Hadoop operators, and Python callable and branching operators.
+● Configured GCP Firewall rules to regulate traffic to and from the VM's instances based on the specified configuration, and used GCP Cloud CDN to deliver content from GCP cache locations, significantly enhancing user experience and reducing latency.. Education:
+Master of Science, Big Data and Analytics, GPA: 3.5: University of Central Missouri,Kansas.
+● Awarded University Graduate Scholarship (UGS).
+Bachelor of Technology, Electronics and Communication, GPA 3.7: JNTU,Kakinada
+● Awarded 1st prize in inter college coding competition and gave a presentation on Game Engine Constructor.
+Projects:
+Online video user rater: Developed a web application which takes any familiar social networking website data as an input and displays user profiles who use the most number of abusive words online.For every video a score namely Bad Words Score(BWS) is calculated and corresponding ranking is provided for them.
+Analyzing of New York Traffic: Analyzed the 16 years collection of traffic data by placing them in HDFS and extracted the required information by analyzing them and querying them using HIVE and even in Pig Script. Created visualizations for results and created documentation Technical Skills:
+Languages : JAVA, Python, C, Scala, SQL
+Technologies : Hadoop, Apache Spark, Looker, Tableau Databases : MySQL, PostgreSQL, MsSQL, MongoDB
+Cloud Services : GCP, Azure, AWS
+Contact this candidate

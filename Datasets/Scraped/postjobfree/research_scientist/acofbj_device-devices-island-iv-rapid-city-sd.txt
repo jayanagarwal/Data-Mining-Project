@@ -1,0 +1,365 @@
+Dr. Madhusudan A. Savaikar
+
+***E Anamosa St #*** acofbj@r.postjobfree.com
+
+Rapid City, SD 57701 1-906-***-****
+
+QUALIFIED BY: Seven months of research experience in single-molecule fluorescence microscopy, image
+processing, localization, and seven years of research experience in experimental single-electron device
+simulations using Monte Carlo techniques. Nano-device physics, super-resolution microscopy, and imaging
+expertise with hands-on experience in optical and electron microscopy, set up of optical systems, algorithm
+design, and software development for device simulations signifying multidisciplinary problem-solving skills.
+
+EDUCATION
+Ph.D. in Engineering Physics, Michigan Technological University (MTU), Houghton, Michigan
+
+GPA – 3.63 / 4.0, Fall 2013.
+Dissertation Title: Stochastic Charge Transport in Multi-island Single-Electron Tunneling
+
+Devices.
+
+RESEARCH EXPERIENCE
+
+Research Scientist I (Postdoctoral Researcher in Nanoscience and Nanoengineering), South Dakota
+School of Mines and Technology, Rapid City, SD, 07/2014-present.
+NSF Project Title: Imaging Cellulose-Carbohydrate Binding Module Interactions with Nanometer Resolution
+using Single Molecule Fluorescence Methods.
+Set up a Total Internal Reflection Fluorescence Microscopy (TIRFM) system consisting of
+
+fluorescence microscope, lasers, and other optical devices such as beam expanders, beam splitters,
+dichroic mirrors, LabVIEW-controlled shutters, etc., and aligned different laser beams for super
+resolution imaging of biological samples.
+Prepared biological samples such as caged fluorescein (CF), and carbohydrate-binding
+
+modules (CBMs) tagged with green fluorescent proteins (GFPs) and photo-activated fluorescent
+protein PAmCherry on Valonia cellulose nanocrystals for imaging.
+Designed and carried out numerous Photo-Activated Localization Microscopy (PALM)
+
+experiments on the above-mentioned samples using the TIRFM system after having optimized the
+parameters.
+Extensively processed, and analyzed the imaged data in ImageJ, IDL, and MATLAB using
+
+particle tracking algorithm for selecting and localizing single molecules to an accuracy of ~ 10nm.
+Investigated different properties such as nearest-neighbor distribution, pair-correlation
+
+function, and binding specificities of the CBMs onto cellulose microfibrils that influence the
+accessibility of cellulase enzymes responsible for hydrolyzing the cellulose.
+The characteristic features in CBM-valonia samples were reconstructed from the imaged data
+
+showing nearest-neighbor distribution of ~ 100nm and particles localized to ~ 10nm.
+
+Ph.D. Dissertation Research: Stochastic Charge Transport in Multi-island Single-Electron Tunneling
+Devices, 01/2007-12/2013.
+Dissertation Objective: Simulation of single-electron tunneling devices with an emphasis on explaining the
+experimentally observed device properties, investigate the microscopic details, and suggest experiments to
+test the conclusions drawn from the simulation studies.
+Performed extensive single-electron device (SED) and single-electron transistor (SET)
+
+simulations using SED simulation software SIMON, 2007-2008.
+
+Savaikar, page 1 of 5
+o Examined critical issues such as the circuit model, capabilities, and limitations of SIMON.
+o Circuit model limits SIMON’s capabilities in explaining the terminal device characteristics in
+terms of its physical features.
+
+Development of a theoretical model and its implementation in the development of the
+
+simulator, MITS, to model and simulate SEDs and SETs consisting of multiple nano-islands
+(quantum dots), 2008-2010.
+o Developed the theoretical framework based on semi-classical tunneling theory and kinetic
+Monte Carlo method for multi-island device simulations.
+o Designed and developed a new, robust multi-island transport simulator, MITS, which can
+elucidate key linkages between the physical characteristics of the system and the resulting
+current-voltage (IV) device characteristics.
+o Developed parallel computing capabilities in MITS that decreased the simulation time thereby
+enhancing MITS’s capabilities which are beneficial for high temperature device simulations.
+
+Testing and validation of MITS model by simulating the experimental devices described
+
+in the literature, 2010-2011.
+o Tested MITS’s capabilities and validated its model by simulating the experimental devices
+described in the literature consisting of a single-island and a one-dimensional (1D) chain device.
+o Successfully performed the microscopic investigations of charge transport in a single-island
+device and proposed the physical mechanisms that lead to the Coulomb blockade (CB) and the
+Coulomb staircase (CS) structure in the device IV characteristics.
+o Investigated the effects of gate voltage (VG), temperature (T), background charge, and the
+structural disorder on the device characteristics such as the device threshold voltage ( Vth), current
+staircase, current on/off ratio, and the Coulombic gate oscillations.
+o In a single-island device whose physical features are well characterized, it is possible to
+analytically predict the device characteristics by estimating the device current, device Vth,
+staircase step positions, and width and height of the steps in the IV.
+
+Comprehensive investigation of charge transport in disordered one-dimensional (1D)
+
+chains of metallic nano-islands deposited on an insulating 1D substrate using MITS, 2011-
+2012.
+o Modeled and extensively simulated an experimental device fabricated by the collaborators that
+consisted of a one-dimensional chain of gold nano-islands deposited on an insulating boron nitride
+nanotube.
+o Analyzed the effect of chain disorder arising from the distribution in island radii and junction
+widths on junction charging energies and the device characteristics.
+o Critically examined the effect of change in applied source-drain bias on junction potential
+drops and tunneling junction resistances in the disordered chain.
+o Investigated the effects of chain length on the device Vth and the current staircase structure.
+With increasing chain length, the device Vth increases and the staircase steps are observed to be
+more prominent in longer chains, properties observed in experimental devices.
+o Examined the device IV scaling behavior, the characteristic behavior observed in experimental
+devices. Investigated effects of disorder and the chain length on the scaling behavior.
+o Investigated the effect of defects on the device characteristics and the Vth. Vth increases with
+the increase in the number of defects in the device chain.
+o Thoroughly probed and analyzed thermal effects on the current staircase, device V th, and the
+device current at high and low biases for different chain lengths. Increase in temperature
+decreases the device Vth and modulates the current staircase. Similar observations have been
+made in experimental works.
+o Proposed a new hypothesis that may explain the observed non-linear decrease in the device
+threshold voltage with the increasing temperature in 1D chains.
+
+2
+2
+o Successfully performed the microscopic investigation of charge transport in multi-island 1D
+chain devices.
+o Proposed and investigated new physical mechanisms that lead to the Coulomb blockade (CB)
+giving a well-defined device threshold voltage (Vth), and the Coulomb staircase (CS) in multi-island
+device IV characteristics.
+o Overall IV characteristics in a strongly-coupled multi-island device with a random distribution in
+island sizes and inter-island spacings are a result of a complex interplay among those factors that
+affect the tunneling rates which are fixed a priori (island sizes, inter-island separations,
+temperature, background charge, gate bias, etc.), and the evolving charge state of the system,
+which changes as the applied source-drain bias (VSD) is changed.
+Charge transport simulations in MITS of two-dimensional (2D) systems consisting of
+
+randomly positioned multiple metallic nano-islands, 2012-2013.
+o Generated physical models of experimental devices using hard-sphere Metropolis Monte
+Carlo simulation methods with desired density of nano-islands and packing fraction.
+o Examined the effect of distribution in inter-island spacings on the conducting paths in the
+devices.
+o Demonstrated the existence of a dominant conducting path (DCP) in a disordered 2D device
+structure that carries majority of the device current, and makes the device effectively behave as a
+quasi-1D device.
+o Investigated the effects of changes in source-drain bias voltage (VSD), gate voltage (VG) and
+temperature (T) on the DCP, and the overall device IV characteristics.
+o The DCP in a highly disordered system is sufficiently robust to withstand changes in V SD, VG,
+and T although the local currents flowing through the DCP junctions may change.
+o The increase in T may affect the DCP, and open new conducting paths depending on the
+island sizes and the amount of disorder present in the system.
+o Simulated the device behavior under the influence of lateral gate, and successfully
+demonstrated the change in the device Vth with the change in VG.
+o Demonstrated the decrease in the device Vth with the increasing temperature, property also
+observed in experimental devices.
+o Simulated a quasi-1D device made of only the DCP islands and the DCP junctions after
+etching away the non-participating islands in the device. Investigated gate and thermal effects on
+quasi-1D device characteristics.
+o The quasi-1D device exhibits better gate control with smooth variation of V th with VG and a
+larger device conductance. It also shows a smoother translational shift in the IV curves towards
+lower VSD values with the increasing temperature.
+o The quasi-1D structures fabricated after having etched away the non-participating islands from
+multi-dimensional structures could be a better choice over multi-dimensional and 1D device
+structures for switching applications and transistor operations.
+
+Suggested specific experiments to the collaborators that may test the conclusions
+
+drawn from the simulation studies, 01/2014-04/2014.
+
+Research Project Trainee, National Institute of Oceanography, Goa, India, 1999-
+
+2000.
+M.Sc. Project Team Leader: Repair and assembling of PVD unit, 01/1999-08/1999.
+
+
+o Repaired and replaced parts of an old non-functional PVD unit.
+o Assembled and operationalized the unit.
+
+PROJECT MANAGEMENT EXPERIENCE
+Graduate Student Research, Michigan Tech, 2007-2013
+
+Savaikar, page 3 of 5
+Planned and coordinated four research projects in consultation with the
+
+computational research group.
+Initiated and coordinated collaborations with experimental groups in the department
+
+of electrical and computer engineering, and the department of physics to address experimental device
+issues that may guide in improving the device design.
+Wrote a proposal to NERSC, a division of LBNL, for computing time at its
+
+supercomputing facilities.
+
+TEACHING EXPERIENCE
+Graduate Teaching Assistant, Department of Physics, Michigan Tech, 2005-2013
+
+Faculty in Applied Physics / Physics, 2002-2005
+
+o Rayeshwar Institute of Engineering and Technology (Affiliated to Goa University), Goa, India,
+2004-2005
+o Goa College of Engineering (Affiliated to Goa University), Goa, India, 2003-2004
+o Institute of Shipbuilding and Technology, Goa, India, 2003
+o SES Higher Secondary School, Goa, India, 2002-2003
+BUSINESS EXPERIENCE
+Supervised family agribusiness, Goa, India, 2000-2002
+
+Turned the business cost effective by employing methods such as assigning
+
+individual responsibilities to the employees and enforcing stricter time schedules.
+Motivated employees to be more productive by giving performance-based
+
+incentives.
+Reduced the costs and increased the profits by increasing yield per acre and
+
+plugging the leaks.
+
+GRADUATE COURSEWORK
+Solid State Devices, Solid State and Quantum Physics, Microfabrication Lab, Advanced
+
+Scanning Electron Microscopy, Computational Physics, Material Physics, Electronic Materials,
+Selected Topics in Nanotechnology, Electrodynamics, Electricity and Magnetism, Classical, Statistical,
+and Mathematical Physics, Physics and Electronics Labs.
+
+SKILLS and TECHNIQUES
+
+Systems, Programming Skills, and Software Packages
+LabVIEW, LaTeX, EndNote,
+
+Windows, Linux, Mac OS X Origin
+
+FORTRAN, C, C++ Image processing software
+
+MATLAB / Simulink, IDL, MathematicaImageJ
+
+Spectroscopic software WinSpec
+SED simulation software packages SIMON,
+
+MS office suite, iWork office suite
+
+MOSES, MITS
+Adobe Acrobat, Photoshop, etc.
+
+
+Fabrication, Characterization, Microscopy, and Imaging
+
+4
+4
+Total Internal Reflection
+
+Scanning Electron Microscopy (SEM),
+Fluorescence (TIRF) Microscopy
+Transmission Electron Microscopy (TEM) Super-Resolution Microscopy
+
+Focused Ion Beam (FIB) Photo-Activated Localization
+
+Microscopy
+Device IV characterization using SPA
+
+Optical set-up, laser beam
+
+4200SCS
+alignment
+
+Computing, Modeling, and Simulation
+Device modeling and simulations
+Theoretical development, algorithm Image processing, feature selection,
+
+design, mathematical modeling localization, particle tracking
+Physics-based modeling, multi-physics High performance serial and parallel
+
+simulations, software tool development computing
+Monte Carlo techniques Physics and engineering simulations
+
+Statistical and numerical techniques Solid state, material, and quantum physics
+
+Optics and electronics
+
+Stochastic charge transport
+simulations
+
+OTHER ACCOMPLISHMENTS / AWARDS / ACTIVITIES / INTERESTS
+The research work on boron nitride nanotubes functionalized with gold quantum dots received
+
+wide coverage in the news outlets such as Phys.org, CBS Detroit, and IEEE Spectrum.
+http://www.altmetric.com/details.php?domain=onlinelibrary.wiley.com&citation_id=1574757
+
+Awarded travel grant, and the departmental Miles fellowship for fall 2013.
+
+Other interests include business, sports, politics, debates, reading, driving, and traveling.
+
+
+PROFESSIONAL MEMBERSHIPS
+
+APS member IEEE member MRS member
+
+
+RESEARCH PUBLICATIONS
+Madhusudan A. Savaikar, Douglas Banyai, Paul L. Bergstrom, and John A. Jaszczak,
+
+“Simulation of charge transport in multi-island tunneling devices: Application to disordered one-
+dimensional systems at low and high biases,” J. Appl. Phys. 114, 114504 (2013).
+Lee, C. H., Qin, S., Savaikar, M. A., Wang, J., Hao, B., Zhang, D., Banyai, D., Jaszczak, J. A.,
+
+Clark, K. W., Idrobo, J.-C., Li, A.-P., and Yap, Y. K., “Room-Temperature Tunneling Behavior of Boron
+Nitride Nanotubes Functionalized with Gold Quantum Dots,” Adv. Mater. 25, 4544 (2013).
+J. A. Jaszczak, M. A. Savaikar, D. R. Banyai, Boyi Hao, Dongyan Zhang, P. L. Bergstrom, A-
+
+P. Li, J.-C. Idrobo, and Y. K. Yap, “Simulation of Charge Transport in Disordered Assemblies of Metallic
+Nano-Islands: Application to Boron Nitride Nanotubes Functionalized with Gold Quantum Dots,” MRS
+Proceedings, 17, 1700 (2014).
+Madhusudan A. Savaikar, Paul L. Bergstrom, and John A. Jaszczak, “Physical Mechanisms
+
+Leading to the Coulomb Blockade and Coulomb Staircase Structures in Strongly Coupled Multi-Island
+Single-Electron Devices,” submitted.
+Boyi Hao, Anjana Asthana, Paniz Khanmohammadi Hazaveh, Paul L. Bergstrom, Douglas
+
+Banyai, Madhusudan A. Savaikar, John A. Jaszczak, and Yoke Khin Yap, “New Flexible Channels
+for Tunneling Field Effect Transistors by Quantum Dots Functionalized Boron Nitride Nanotubes,”
+submitted.
+Savaikar, page 5 of 5
+Madhusudan A. Savaikar, Paul L. Bergstrom, and John A. Jaszczak, “Analytical Study of
+
+Charge Transport in a Single-island Transistor Device,” in preparation.
+Madhusudan A. Savaikar, Paul L. Bergstrom, and John A. Jaszczak, “Thermal Effect on the
+
+Coulomb Blockade Behavior of a One Dimensional Chain Device,” in preparation.
+
+PROFESSIONAL PRESENTATIONS
+John A. Jaszczak, Madhusudan A. Savaikar, Banyai R. Banyai, Boyi Hao, Zhang Dongyan,
+
+Paul L. Bergstrom, An-Ping Li, Juan-Carlos Idrobo, Yoke Khin Yap, “Simulation of Charge Transport in
+Disordered Assemblies of Metallic Nano-Islands: Application to Boron Nitride Nanotubes
+Functionalized with Gold Quantum Dots (QDs-BNNTs),” invited talk, MRS spring meeting, San
+Francisco, CA, April 21-25, 2014, Symposium MM3.01.
+Madhusudan A. Savaikar, “Stochastic Charge Transport in Multi-island Single-electron
+
+Tunneling Devices,” invited talk, Nano science and engineering seminar, SDSMT, Rapid City, SD,
+February 06, 2014.
+Madhusudan A. Savaikar, “Single-electron Device Behavior,” invited talk to the solid-state
+
+device class, Department of electrical and computer engineering, Michigan Tech, Houghton, MI, April
+04,10, 2014.
+Madhusudan A. Savaikar, Douglas Banyai, Yoke Khin Yap, Paul L. Bergstrom, and John A.
+
+Jaszczak, “Modeling of Charge Transport in a One-Dimensional Chain of Metallic Nano-islands on an
+Insulating Wire: The Effect of Chain-length and Temperature on Device Characteristics,’’ colloquium
+talk, graduate student council research colloquium, Michigan Tech, Houghton, MI, spring 2013.
+Madhusudan A. Savaikar, Douglas Banyai, Paul L. Bergstrom, and John A. Jaszczak,
+
+“Modeling of Charge Transport in a One-Dimensional Chain of Metallic Nano-islands on an Insulating
+Wire: The Effect of Chain-length and Temperature on Device Characteristics,” poster presentation,
+MRS fall meeting, Boston, MA, November 25-30, 2012, Paper FF13.18.
+Madhusudan A. Savaikar, Paul L. Bergstrom, and John A. Jaszczak, “Development of MITS:
+
+Testing, Validation, and Application to the Simulation of IV Behavior in a 1D Chain of Islands,”
+colloquium talk, graduate physics research colloquium, Michigan Tech, Houghton, MI, spring 20012.
+Madhusudan A. Savaikar, Paul L. Bergstrom, and John A. Jaszczak, “Modeling of Multi-
+
+Island Single-Electron Transistor (SET) Devices,” colloquium talk, graduate physics research
+colloquium, Michigan Tech, Houghton, MI, spring 20011.
+Madhusudan A. Savaikar, Paul L. Bergstrom, and John A. Jaszczak, “IV Behavior of Multi-
+
+Island Single-Electron Devices using SIMON,” colloquium talk, graduate physics research colloquium,
+Michigan Tech, Houghton, MI, spring 2010.
+Madhusudan A. Savaikar, Paul L. Bergstrom, and John A. Jaszczak, “Conduction through
+
+Multi-Dot Quantum System,” poster presentation, graduate physics research colloquium, Michigan
+Tech, Houghton, MI, spring 2008.
+
+6
+6
+Contact this candidate

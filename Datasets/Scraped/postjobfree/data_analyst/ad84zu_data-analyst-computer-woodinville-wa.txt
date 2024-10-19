@@ -1,0 +1,95 @@
+Skills
+Bioinformatics, Data Analyst, Python, R, C++, C, Scripting languages Perl, Bash, Lisp, Java, Post-Script, Linux
+
+Work Experience
+Proteomics/Genomics Software development and analysis- multiple species. Collaborating with diverse teams PhDs, computational scientists, engineers to develop tools and pipelines for the rigorous analysis and presentation of PB sized complex data.
+
+Database Management and Development Skills
+Oracle, Sybase, MYSQL, Utilized databases/tools at NCBI RefSeq, GenBank, UniProt, Broad, 1000 Genomes, Ensembl
+
+Professional Summary
+2019-3/2024 Senior Software Engineer – ISB, Institute for Systems Biology, Seattle, Washington
+Reprocess publicly available ProteomeXchange Mass Spec proteomics large scale data for the resource library PeptideAtlas.org using open source TransProteomePipeline software on Arabidopsis and Maize organisms. Added new pipelines, slurm queue interfaces, modified existing pipelines, method qualification, validation, implemented bash scripts, c and python programs and designed workflows for automation of analysis using slurm queues resulting in six peer reviewed publications. Delivered preliminary data for reports and finalized data summaries in a timely manner for project milestones. Created data visualizations using Python for publications, created and delivered quarterly one hour power point presentations for progress reports to scientific audiences. Presented posters and talks at proteomics symposium, Cascadia Proteomics Symposium. Utilizing existing genomic databases, data mined and incorporated RNA edits into proteomic search databases, identifying RNA edits in protein sequences. Peptide and protein sequences with their RNA edits are listed in the PeptideAtlas, a publicly available resource at PeptideAtlas.org for Maize and Arabidopsis protein communities. Read and extracted biometrics data from 500+ papers to determine eligibility for inclusion into reprocess large scale data sets. Presented hour long quarterly updates to scientific audiences, presented poster and gave short talk at Seattle’s 2023 Cascadia Proteomics Symposium.
+
+2012-2018 – Lawrence Livermore National Labs, Livermore, California
+Designed and implemented algorithms for incorporating variants in protein databases from genomic databases. Searched for variants from different ethnic populations in Mass Spec data. At LLNL we examined the hair proteins of 120 individuals and we obtained NGS genotypes (NGS Illumina) for these individuals. Responsible for collection of all possible hair variants (tissue specific for hair and related proteins) from the Broad MIT database and integrating these variants into a protein search database. This database was used for mapping the mass spectrometry data to peptides found in the samples. The objective of the project was to determine if any variant could be found in hair proteins and if these variants could be used to determine ethnic or identifying information from hair shaft samples. Developed the pipelines for analyzing the mass spectrometry data sets using the search engines Comet, MSGS and XTandem. Created scripts and pipelines to merge these results for data validation. Developed algorithms to determine which peptides contained variants. Implemented scripts to search results to determine which samples contained variants.
+
+1992-2012 – Department of Human Genetics, University of Utah, Salt Lake City, Utah
+Created one of a kind software to analyze complex and extended human pedigrees. Engineered visualizations for genotype + phenotype data. Invented haplotype and breakpoint chromosome visualization algorithms. NGS data was collected on the original 10 sib families, known as the CEPH families. Curated genotypes from Illumina, creating breakpoint maps and haplotype routines to create visualizations of inherited segments of chromosomes from grandparents to grandchildren. Graphically reduced the large 2G datasets per person, to one graphic sheet per 10 sib family (8-20 persons) showing the inheritance patterns as they varied from sibling to sibling. Along with the breakpoint maps, small area haplotyping was performed, this process uncovered mis-inheritances which were examined to determine if the base/allele calls were correct, or if a spontaneous mutation could have occurred.
+
+Oracle DBA for UGRP human pedigree data, phenotype, SNPs, RFLPs. Designed and developed programs to analyze SNP data looking for shared regions, haplotypes and breakpoints. A genetics project was funded to look at CEPH families searching for non-disease genes. A large self–report questionnaire, along with fasting blood draw, and 10 other stations manned by physician researchers to collect measurements from three generation family groups (grandparent, parent and children) participants. Some of the measurements collected were hearing exams, vision/eye exams, fully body scan biometrics, 62 blood metrics, psychology measurements, lifestyle questionnaires, skin exams, lung/heart/pulmonary health exams etc. Designed the database to enter/store and retrieve these measurements keeping in mind HIPPA requirements, multiple secure access points by various medical schools and data entry and double checking protocols. Implemented software for retrieval of this data as well as integrating phenotype and genotype pipelines for analysis protocols. The data analysis involved circular steps of normalization, analysis, interpretation, possible reformatting of analysis parameters based on initial results and then re-evaluation. Visualization, validation and quantification for various types of data examined. Some simple graphics provided by R, or excel could be used, and sometimes a more complex output visualization was required. Pascal and C code were used to create postscript files for a customized visualization.
+
+Database manager and data entry designer for the clinical genetic database for the University of Utah medical center physician researchers. There were 72 different diseases studied using this comprehensive clinical Sybase database which was structured to provide security and privacy between research entities and physician researchers.
+
+Planned and developed user interface for data entry, Autism and Tourette research centers. Performed genetic linkage analysis using SAS, linkage, PAP, solar, loki, fastlink on multiple psychiatric disorders.
+
+Designed and implemented tools and interfaces for genetic mapping, maps used for the Human Genome Project. Created framework maps for the HapMap project using data originating from the lab of Dr. Ray White at the University of Utah, Human Genetics Department a key group in the HapMap project. Collaborated with geneticists to create automated pipelines for determining framework maps using RFLP and STR datasets. We utilized LINKAGE analysis, processing data through RFLP and STR frameworks. The algorithm started with small numbers of markers and automatically gradually filled in large gaps with new markers. Each time a marker was added to the map, existing physical mapping information, if available, was compared for accuracy.
+
+Managed and mentored a team of programmers to develop an automated genotyping collection system from digitized florescent images. Pipeline entailed image capture, manipulation, analysis, database interface, database design, database implementation and graphical user interface as well as backup and storage management for a large volume of digitized images. For the NIH National Heart Study, I managed a team of software developers and engineers that developed an automated multiplex genotyping system based on repeated hybridizations of markers to a DNA digest on filter paper. This system involved a pipeline starting with image capture, automated image scoring, automated data storage in an Oracle relational database, error calling, user interface, backup/storage of data and extraction of genotypes for several diseases for linkage analysis of both phenotype and genotype in both familial data as well as for GWAS data analysis. The team was successful in creating working high throughput automated genotyping resulting in multiple significant publications in peer review journals.
+
+Envisioned and implemented algorithms for automated linkage genetic analysis.
+
+1986-1992 – Howard Hughes Medical Institute, University of Utah, Salt Lake City, Utah
+Developed reports and debugged algorithms for the first widely used genetic analysis package (LINKAGE). Implemented many of the original LINKAGE output routines to visualize the result of each type of analysis, MLINK, ILINK, CILINK and LINKMAP. These routines were written for Dr. Jean-Marc Lalouel and Dr. Marc Lathrop at the University of Utah, Department of Human Genetics.
+
+Education
+Bachelor of Science - Utah State University
+Major: Computer Science with Engineering emphasis
+Minor: Mathematics
+
+Publications
+
+1.Detection and editing of the updated Arabidopsis plastid- and mitochondrial-encoded proteomes through PeptideAtlas. Klaas J van Wijk, Stephane Bentolila, Tami Leppert, Qi Sun, Zhi Sun, Luis Mendoza, Margaret Li, Eric W Deutsch. Plant Physiology 2024-02-29 DOI:10.1093/plphys/kiad572
+2.The Zea mays PeptideAtlas – a new maize community resource 2023-12-22 Preprint DOI: 10.1101/2023.12.21.572651
+CONTRIBUTORS: Klaas J. van Wijk, Tami Leppert, Zhi Sun, Isabell Guzchenko, Erica Debley, Georgia Sauermann,
+Pratyush Routray, Luis Mendoza, Qi Sun, Eric W. Deutsch
+3.Detection of the Arabidopsis Proteome and Its Post-translational Modifications and the Nature of the Unobserved (Dark) Proteome in PeptideAtlas. van Wijk KJ, Leppert T, Sun Z, Kearly A, Li M, Mendoza L, Guzchenko I, Debley E, Sauermann G, Routray P, Malhotra S, Nelson A, Sun Q, Deutsch EW. J Proteome Res. 2023 Nov 21. doi: 10.1021/acs.jproteome.3c00536. Online ahead of print.PMID: 38104260
+4.Detection and editing of the updated Arabidopsis plastid- and mitochondrial-encoded proteomes through PeptideAtlas.
+van Wijk KJ, Bentolila S, Leppert T, Sun Q, Sun Z, Mendoza L, Li M, Deutsch EW. Plant Physiol. 2023 Oct 25:kiad572.
+doi:10.1093/plphys/kiad572. Online ahead of print. PMID: 37879112
+5.Mapping the Arabidopsis thaliana proteome in PeptideAtlas and the nature of the unobserved (dark) proteome, strategies towards a complete proteome. van Wijk KJ, Leppert T, Sun Z, Kearly A, Li M, Mendoza L, Guzchenko I, Debley E, Sauermann G, Routray P, Malhotra S, Nelson A, Sun Q, Deutsch EW. bioRxiv. 2023 Jun 5:2023.06.01.543322. doi: 10.1101/2023.06.01.543322. Preprint. PMID: 37333403 Free PMC article. Updated.
+6.Does the Ubiquitination Degradation Pathway Really Reach inside of the Chloroplast? A Re-Evaluation of Mass Spectrometry-Based Assignments of Ubiquitination. van Wijk KJ, Leppert T, Sun Z, Deutsch EW. J Proteome Res. 2023 Jun 2,22(6):2079-2091. doi: 10.1021/acs.jproteome.3c00178. Epub 2023 Apr 24. PMID: 37092802
+7.The Arabidopsis PeptideAtlas: Harnessing worldwide proteomics data to create a comprehensive community proteomics resource. van Wijk KJ, Leppert T, Sun Q, Boguraev SS, Sun Z, Mendoza L, Deutsch EW. Plant Cell. 2021 Nov 4,33(11):3421-3453. doi: 10.1093/plcell/koab211. PMID: 34411258 Free PMC article.
+8.Demonstration of Protein-Based Human Identification Using the Hair Shaft Proteome. Parker GJ, Leppert T, Anex DS, Hilmer JK, Matsunami N, Baird L, Stevens J, Parsawar K, Durbin-Johnson BP, Rocke DM, Nelson C, Fairbanks DJ, Wilson AS, Rice RH, Woodward SR, Bothner B, Hart BR, Leppert M. PLoS One. 2016 Sep 7,11(9):e0160653. doi: 10.1371/journal.pone.0160653. eCollection 2016. PMID: 27603779 Free PMC article.
+9.Identification of rare DNA sequence variants in high-risk autism families and their prevalence in a large case/control population.
+Matsunami N, Hensel CH, Baird L, Stevens J, Otterud B, Leppert T, Varvil T, Hadley D, Glessner JT, Pellegrino R, Kim C, Thomas K,
+Wang F, Otieno FG, Ho K, Christensen GB, Li D, Prekeris R, Lambert CG, Hakonarson H, Leppert MF. Mol Autism. 2014 Jan
+27,5(1):5. doi: 10.1186/2040-2392-5-5. PMID: 24467814 Free PMC article.
+10.Identification of rare recurrent copy number variants in high-risk autism families and their prevalence in a large ASD population. Matsunami N, Hadley D, Hensel CH, Christensen GB, Kim C, Frackelton E, Thomas K, da Silva RP, Stevens J, Baird L, Otterud B, Ho K, Varvil T, Leppert T, Lambert CG, Leppert M, Hakonarson H. PLoS One. 2013,8(1):e52239. doi: 10.1371/journal.pone.0052239. Epub 2013 Jan 14. PMID: 23341896 Free PMC article.
+11.A family-based paradigm to identify candidate chromosomal regions for isolated congenital diaphragmatic hernia. Arrington CB, Bleyl SB, Matsunami N, Bowles NE, Leppert TI, Demarest BL, Osborne K, Yoder BA, Byrne JL, Schiffman JD, Null DM, DiGeronimo R, Rollins M, Faix R, Comstock J, Camp NJ, Leppert MF, Yost HJ, Brunelli L. Am J Med Genet A. 2012 Dec,158A(12):3137-47. doi: 10.1002/ajmg.a.35664. Epub 2012 Nov 19. PMID: 23165927 Free PMC article.
+12.Further evidence for the role of genes on chromosome 2 and chromosome 5 in the inheritance of pulmonary function. Alka Malhotra, Andy P Peiffer, Darin T Ryujin, Tami Elsner, Richard E Kanner, Mark F Leppert, Sandra J Hasstedt Am J Respir Crit Care Med 2003 Sep 1,168(5):556-61. doi: 10.1164/rccm.200303-410OC. Epub 2003 Jun 5. PMID: 12791583
+13.Genetic analysis of a complex trait in the Utah Genetic Reference Project: a major locus for PTC taste ability on chromosome 7q and a secondary locus on chromosome 16p. Dennis Drayna, Hilary Coon, Un-Kyung Kim, Tami Elsner, Kevin Cromer, Brith Otterud, Lisa Baird, Andy P. Peiffer, Mark Leppert Hum Genet (2003-03-06) 112 : 567–572 DOI 10.1007/s00439-003-0911-y
+PMID: 12624758
+14.A strategy for constructing high-resolution genetic maps of the human genome: a genetic map of chromosome 17p, ordered with meiotic breakpoint-mapping panels. S C Gerken, H Albertsen, T Elsner, L Ballard, P Holik, E Lawrence, M Moore, X Zhao, and R White Am J Hum Genet. 1995 Feb, 56(2): 484–499. PMCID: PMC1801127 PMID: 7847385
+15.Breakpoint analysis: precise localization of genetic markers by means of nonstatistical computation using relatively few genotypes. T I Elsner, H Albertsen, S C Gerken, P Cartwright, and R White Am J Hum Genet. 1995 Feb, 56(2): 500–507. PMCID: PMC1801133 PMID: 7847386
+16.A genetic linkage map with 29 loci spanning human chromosome 13q Gerken S, Leppert M, O'Connell P, Cavenee W, James CD, Ballard L, Stauffer D, Dr. , Plaetke R, Lalouel JM, et al Genomics. 1993 May,16(2):515-9. doi: 10.1006/geno.1993.1219. PMID: 8100218
+17.Polymorphic SSR (Simple-Sequence-Repeat) Markers for Chromosome 20 R Melis, P Bradley, T Elsner, M Robertson, E Lawrence, S Gerken, H Albertsen, R White Genomics. 1993 Apr,16(1):56-62. doi: 10.1006/geno.1993.1140. PMID: 8486385
+18.The CEPH consortium linkage map of human chromosome 1. N C Dracopoli, P O'Connell, T I Elsner, J M Lalouel, R L White, K H Buetow, D Y Nishimura, J C Murray, C Helms, S K Mishra, et al. Genomics. 1991 Apr,9(4):686-700. doi: 10.1016/0888-7543(91)90362-i. PMID: 2037294
+19.A primary genetic linkage map for human chromosome 12. P O'Connell, G M Lathrop, M Law, M Leppert, Y Nakamura, M Hoff, E Kumlin, W Thomas, T Elsner, L Ballard, et al. Genomics. 1987 Sep,1(1):93-102. doi: 10.1016/0888-7543(87)90110-8. PMID: 3478299
+
+Participation in scientific conferences: Cascadia Proteomics Symposium (2023, Institute for Systems Biology, Seattle, USA. Lightning talk (5 minutes) and poster.
+
+Certificates
+CITI Conflicts of Interest - Conflicts of Interest (ID 155368) August 2023 to August 2027
+CITI Program - Biomedical Data or Specimens Only Research - Basic/Refresher - Biomedical Data or Specimens Only Research (ID 155122) August 2022 to August 2025
+CITI Program - Human Research - Group 1.Biomedical Research Investigators and Key Personnel. (ID 959) May 2020 to May 2023
+CITI Program - Good Clinical Practice Course (US FDA focus) (ID 59597) May 2020 to May 2023
+
+References
+Dr. Robert Moritz, Institute for Systems Biology. Seattle, WA, ad84zu@r.postjobfree.com, 206-***-****
+Dr. Eric Deutsch, Institute for Systems Biology. Seattle, WA, ad84zu@r.postjobfree.com, 206-***-****
+Dr. Klaas VanWijk, Plant Biology Cornell. Ithaca, NY, ad84zu@r.postjobfree.com, 607-***-****
+
+Tami Leppert 2024 PeptideAtlas Maize presentation
+https://www.linkedin.com/in/tami-leppert-758485109/
+https://www.linkedin.com/in/tami-leppert-758485109/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAABtM7fQB3Ih26qgwlYvRCiBmdh4v4YIsIPo
+
+Tami Elsner Leppert
+B.S. Computer Science, Bioinformatics Scientist,
+Genomics, NGS and Proteomics Data Engineer,
+Software Developer, Data Analytics.
+https://www.linkedin.com/in/tami-leppert
+801-***-****
+ad84zu@r.postjobfree.com
+Woodinville, WA 98072
+Contact this candidate

@@ -1,0 +1,50 @@
+SAYYED M. ZAHIRI
+US Citizen
+Milpitas, California jTel: 408-***-**** jEmail: adnees@r.postjobfree.com jLinkedIn URL PROFILE
+• 10+ years of experience in Machine/Deep Learning and Predictive Modeling, 3+ years of leadership experience
+• 4+ years of experience in Information Extraction, Knowledge Graph Construct and Data Mining
+• Customer facing experience, architecture and implementing solutions. EXPERIENCE
+Principal Data Scientist - Search and Recommendations at Kaiser Permanente, Pleasanton, CA April 21-Present Query Understanding and Search Retrieval Enhancement:
+Developing machine/deep learning models to recognize the intents from search terms
+Constructing a healthcare knowledge graph which will empower both search and recommendations with Probabilistic Reasoning. Conversational AI: Leading a team of two data scientists to build a healthcare chatbot which leverages AI to infer members’ intents and connecting them to a right department
+Leading University Collaboration program: Mentoring three computer science PhD students. This is part of Kaiser university-academia collaboration program.
+Senior Data Scientist - Search Science at The Home Depot, Atlanta, GA October 18-April 21 Semantic Product Search:
+• Developed deep semantic matching in e-commerce product search. Given a customer query, deep learning model retrieves all semantically related products from the catalog. The model is expected to increase key performance indicators by a large amount. I led deep learning model development in this project
+• Utilized a new loss function that has an inbuilt threshold to di erentiate between the signals available in behavior data Led Product Knowledge Graph Enrichment and Search Retrieval Enhancement project:
+• Built an active learning framework to discover product types and intrinsic product relations (this project accepted in KDD 2020 workshop of Knowledge Graph and E-Commerce). In total 7 Data Scientists, Analysts, Engineers participated
+• Multimodal Deep Learning model to predict types of products. The model leveraged products’ titles, images, ... Query Classi cation: Mixed encoder neural model to predict multiple categories for a given query. User clicks employed as weak supervision to capture user intent. Leveraged continual learning pipeline to incorporate users’ new implicit feedback Automatic Product Categorization model: A Deep Learning based model which takes product’s information from a vendor and recommends relevant product categories. This model is expected to shorten on-boarding process time Led University Collaboration program: Mentored two computer science PhD students at Emory university. This was part of The Home Depot university-academia collaboration program. Two Papers recently accepted at SIGIR2021 Arti cial Intelligence Engineer at Stanley Black and Decker, Atlanta, GA February 18-October 18
+• Abnormality Detection from Images: Collaborated with the department of Oil & Gas to develop computer vision algorithms for detecting defective areas in weld radiography images
+• Product Review Analysis:Analyzed and extracted information from Stanley0s online product reviews using NLP and Deep/Machine learning algorithms such as POS tagging, dependency parsing, sentiment analysis, TFIDF, Word2Vec, Doc2Vec and Latent Dirichlet Allocation
+Machine Learning Research Scientist at Emory, Atlanta, GA May 16-December 17 Led Neural Networks-Based Model for Multi-modal Emotion Recognition project:A multi-modal approach for the emotion recognition that integrates information coming from videos and subtitles of Friends TV show was proposed. Dataset annotated through Amazon Mechanical Turk platform. In this project, I led two graduate students Text-Based Emotion Detection from TV Show Transcript (preprint version) :
+• Utterance-level emotion detection from transcripts of Friends TV show by applying Natural Language Processing techniques
+• Emotion of each utterance was classi ed into one of the seven primary emotions using the following approaches:
+- A novel Sequence-based Convolutional Neural Networks (CNNs) with an attention mechanism
+- A combination of a Recurrent Neural Network (RNN) and CNN
+• The dataset was gathered through Amazon Mechanical Turk platform and is publicly available (link to the dataset) Collaboration with Evolution of Language and Information Technology (ELIT) team:
+• Elit is developed by Emory NLP research group with collaboration of Amazon MXNet team to provide end-to-end NLP pipeline
+Abnormalities Detection in 3D MRI Brain Images:
+• Abnormalities detection in 3D MRI brain images using 3D CNNs, RNN-CNN models and Image Segmentation algorithms. The dataset was provided by the department of Radiology and Imaging Sciences of Emory hospital Machine Learning Research Scientist at Amir-Kabir University, Tehran, Iran September 11-January 13
+• Simulated Passive Dynamic Walker (Robot) that energy lost in the collisions is balanced by kinetic energy gained going down a ramp. This allows walker to achieve dynamically stable limit cycles, resulting in a natural and anthropomorphic motion without any external energy input.
+• Utilized spring on the hip joint, value of the spring constant determined by a Feed Forward Neural Network (Supervised Learning). All simulations proceeded by aid of MATLAB.
+• The improved walker could walk at ramp angle 50% larger. In this project I mentored one under-graduate student Natural Language Processing Research Internship at CareerBuilder, Atlanta, GA December 17-February 18
+• Applied NLP, Machine/Deep Learning algorithms for building a resume to job matching system SKILLS
+Programming/scripting languages: Python (Pro cient), MATLAB (Pro cient), C/C++ (Familiar), SQL,PHP, JavaScript Frameworks and tools: Tensor ow, Keras, OpenCV, PyTorch, MXNET, PyCa e, Scikit-Learn, Pandas, Flask, Git, AWS Arti cial Intelligence: Machine Learning and Statistics, Deep Learning, Natural Language Processing, Computer Vision Control Systems/Robotics: Linear Systems and Dynamics, Optimal Control, Multi-Agent Systems and Networked Control EDUCATION
+Georgia Institute of Technology, GA, US August 13-December 15 MS in Electrical and Computer Engineering (minor in Mathematics) Overall GPA: 3.90/4.00 Focus: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Robotics University of Birmingham, Birmingham, UK July 10-June 11 Bachelor of Electrical Engineering Overall GPA: First Class Honours Amirkabir University of Technology, Tehran, Iran September 07- June 10 Transferred to University of Birmingham
+PUBLICATIONS
+APRF-Net: Attentive Pseudo-Relevance Feedback Network for Query Categorization (Accepted in SIGIR 2021, preprint version)
+De-Biased Modeling of Search Click Behavior with Reinforcement Learning (Accepted in SIGIR 2021, preprint version) CRAB: Class Representation Attentive BERT for Hate Speech Identi cation in Social Media (Submitted to WWW 2021, preprint version)
+Active Learning for Product Type Ontology Enhancement in E-commerce (Published in KDD 2020 workshop of Knowledge Graph and E-Commerce, link to the paper) Next-Generation of Weld Quality Assessment Using Deep Learning and Digital Radiography (Published in Arti cial Intelligence in Manufacturing, The 2020 AAAI Spring Symposium Series, link to the paper) Segmentation of brain MR images using a proper combination of DCS based method with MRF (Published in Multimedia Tools and Applications, Springer, link to the paper) Emotion Detection on TV Show Transcripts Using Sequence-based Convolutional Neural Networks (Published in AAAI-18, A ective Content Analysis workshop, preprint version) PROJECTS
+CRAB: Class Representation Attentive BERT for Hate Speech Identi cation in Social Media May 20-July 20
+Proposed a transformer-based neural model to identify hate speech from Twitter data.
+The model leveraged matching scores between trainable class representations and encoded input data to detect hate speech
+CRAB model outperformed strong state-of-the-art baselines by a large margin (preprint version) Facial Expression Recognition using CNNs and Faster Region-based CNN January 17-March 17
+Classi ed 100000 labeled 256 256 color images containing one of 7 emotional categories (Angary, Happy, . . . )
+Faster region-based CNN was utilized to detect the faces from the training examples. Accuracy rate of 75% achieved Segmentation of brain 3D MR images January 16-May 16
+A novel algorithm called Dynamic Classi er Selection Markov Random Field (DCSMRF) for supervised segmentation of MR images into three main tissues was introduced. This project led to a publication in the Journal of Springer
+DCSMRF combines a novel ensemble method called Dynamic Classi er System-Weighted Local Accuracy with MRF algorithm Tra c Sign Detection and Recognition from video Streams September 15-December 15
+Color and Shape based segmentation for the detection and Convolutional Neural Networks for the recognition part were used Networked Control and Multi-Agent Systems November 15
+Navigated a team of 6 simulated robots through the rough terrain and located and re-activated the 8 disabled robots 3D Remote Sensing September 10-July11
+Laser scanning method utilized to render 3D Topographic Map of a 3-Acre outdoor place with accuracy of 2ft. The allocated budget for this project was $1500
+Participated in Microcontroller programming and ArcGIS (Geographic Information System) software as part of a 5-member team ACHIEVEMENTS AND ADDITIONAL INFORMATION
+Ranked rst student award among all Electrical Engineering students at Amirkabir University Scholarship from University of Birmingham due to outstanding academic background (2010) Language: English(Fluent), Persian(Native)
+Contact this candidate

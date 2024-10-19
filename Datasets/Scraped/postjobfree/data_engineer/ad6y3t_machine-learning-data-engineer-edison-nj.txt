@@ -1,0 +1,138 @@
+Sahiti Kondapally
+AWS Data Engineer
+ad6y3t@r.postjobfree.com 469-***-****
+
+PROFESSIONAL SUMMARY:
+
+Possessing over 7+ years of hands-on experience in building data and Analytics, specializing in Big Query utilization, SQL, Data Collection, Data Warehousing, Data Cleaning, Featurization, Feature Engineering, Data Mining, Machine Learning, and Statistical Analysis with large datasets of structured.
+Demonstrated expertise in utilizing cloud services such as Amazon Web Services (AWS), including EC2, S3, AWS Lambda, and EMR, focusing on leveraging Redshift for migration.
+Deeply experienced in architecting and implementing end-to-end data solutions on AWS, leveraging AWS Glue to orchestrate complex ETL processes, ensuring data workflows' reliability, scalability, and efficiency for mission-critical business operations.
+Skilled in harnessing cloud technologies like Azure and Databricks to achieve scalable and efficient data processing, storage, and analysis.
+Proficient in designing and implementing end-to-end ETL pipelines to efficiently extract, transform, and load data from various sources, ensuring data quality and integrity.
+Proficient in leveraging the versatility and power of Python for data processing, analysis, and machine learning tasks within diverse data engineering and analytics projects.
+Specialized in utilizing Apache Spark, Python, and Scala to develop scalable and high-performance data processing applications, enabling rapid analysis and insights generation from large datasets.
+Experienced in working with Apache Kafka and Apache Airflow for streamlining data ingestion and workflow orchestration in real-time and batch-processing environments.
+Deep understanding and practical experience in big data technologies, including Hadoop ecosystem components like HDFS, Hive, and MapReduce.
+Adept at harnessing the power of big data technologies like Hadoop, Spark, and Kafka to handle vast volumes of data, enabling efficient processing, real-time analytics, and seamless integration with traditional data systems, thus unlocking valuable insights and driving data-driven decision-making at scale.
+Created Pipelines in ADF using Linked Services, Datasets and Dataflows to Extract, Transform and load data from different sources into Azure SQL, Blob storage, Azure SQL Data warehouse.
+Experience in developing Spark applications using SQL and PySpark in Azure Databricks for data extraction, transformation, and aggregation from multiple file formats for Analyzing & transforming the data to uncover insights into the customer usage patterns.
+Responsible for estimating the cluster size, monitoring, and troubleshooting of the Spark Databricks cluster.
+Hands on experience on Unified Data Analytics with Databricks, Databricks Workspace User Interface, Managing Databricks Notebooks, Delta Lake with Python, Delta Lake with Spark SQL.
+Designed Star and Snowflake Data Models for Enterprise Data Warehouse using ER Studio. Used ER Studio for Creating/Updating Data Models.
+Defined user stories and driving the agile board in Azure Devops during project execution, participate in sprint demo and retrospective.
+Skilled in database management and SQL development, proficient in architecting and optimizing databases using PostgreSQL, MySQL, and other relational databases.
+Proficient in implementing flexible and scalable data models in NoSQL databases like MongoDB and DynamoDB, facilitating agile development and high-volume data processing for dynamic and evolving application needs.
+Experienced in implementing DevOps practices and CI/CD pipelines to automate the deployment and management of data solutions, ensuring rapid delivery and continuous integration of ML models and data pipelines.
+Proficient in version control using Git and Bitbucket, facilitating collaboration among team members and ensuring efficient management of code repositories for data engineering projects.
+
+TECHNICAL SKILLS:
+
+Big Data Ecosystem
+HDFS, MapReduce, Impala, Hive, Pig, HBase, Flume, Storm, Sqoop, Oozie, Airflow, Apache Kafka, Spark Streaming
+Programming & Data
+Python, SSIS, VBA, Excel, Scala, SQL, PL/SQL
+Databases
+Snowflake, MySQL, Teradata, Oracle, SSRS, PostgreSQL, DB2, Cassandra, Mongo DB, DynamoDB and CosmosDB
+Frameworks
+Apache Airflow, Apache Spark (Spark SQL, Spark Core)
+Data Warehousing Tools
+Redshift, Snowflake, OLTP, OLAP
+Cloud Services
+AWS(EC2, S3, EMR, RDS, Lambda, Autoscaling, API Gateway, Redshift, Glue), Azure (Databricks, Azure Data Lake, Azure Blob Storage, Azure HDInsight), and Snowflake.
+Version Control
+Gitlab, Git and SVN
+ETL/ Visualization
+Informatica, Airflow, Tableau
+Operating System
+Mac OS, Windows 7/8/10, Unix, Linux, Ubuntu
+SDLC Methodologies
+Jira, Confluence, Agile, Scrum
+
+PROFESSIONAL EXPERIENCE:
+
+Client: Time Warner Cable, Dallas, TX
+Role: AWS Data Engineer May 2022 – Present
+Responsibilities:
+Conducted thorough analysis of business rules, data sources, and volume to strategically plan and execute architecture, ensuring alignment with business requirements.
+Provided recommendations for enhancements to existing data and crafting Python and Snow SQL-based ETL pipelines for data warehousing.
+Worked on loading and transformation of large sets of structured, semi-structured, and unstructured data into the Hadoop system.
+Collaborated closely with business analysts to comprehend data needs, delivering scalable solutions for advanced analytics and ML initiatives.
+Extracted data from Salesforce Workbench into PostgreSQL tables and managed code versioning and repository using Git.
+Oversaw the SDLC lifecycle, implemented Microsoft Flow for automation, and developed modules using DAX and Power Automate.
+Managed the importing and exporting of databases using SSIS, transforming and moving large volumes of data in AWS databases such as Amazon S3 and Amazon Redshift. Executed end-to-end services encompassing Amazon Redshift, S3, EC2, and EMR.
+Orchestrated the migration of an on-premises application to AWS, leveraging EC2 and S3 services for efficient processing and storage of data, while maintaining and optimizing the Hadoop cluster on AWS EMR.
+Imported data from AWS S3 into Spark RDD, executing transformations and actions to drive data processing and analysis.
+Stored Excel data in AWS Cloud Storage and conducted data loads into Snowflake using Python and Snowflake connector.
+Established PySpark framework for data transfer from DB2 to AWS S3 using AWS Glue, and troubleshooted AWS EC2 instances.
+Implemented SCD type 1 using pipelines, developed and maintained ETL jobs, and utilized AWS Glue for data integration.
+Leveraged AWS services such as EC2, S3, Athena, RedShift, and Lambda, and crafted serverless architecture with API Gateway and DynamoDB.
+Utilized AWS Redshift, S3, and Athena for querying large datasets, deployed Lambda code from S3 buckets, and adhered to Agile methodologies.
+Successfully generated group lags from Kafka using their APIs, collected data from multiple portals using Kafka, and processed it using PySpark.
+Developed scripts for Extracting, Loading, and Transforming data, loaded data into the data warehouse for business intelligence using Python.
+Installed and configured Apache Airflow for the S3 bucket and Snowflake data warehouse, creating DAGs to run the Airflow.
+Automated resulting scripts and workflow using Apache Airflow and shell scripting to ensure daily execution in production.
+Created Power BI reports with advanced DAX features, collaborated with stakeholders, and integrated Power Apps with live data sets.
+Demonstrated proficiency in DevOps practices, enabling agile development with robust CI/CD pipelines.
+Developed internal and external stages, transformed data during load into Snowflake, and implemented large-scale data solutions on Snowflake Data Warehouse.
+
+Client: Fintech Bank, NYC, NY. September 2019 – May 2022
+Role: AWS Data Engineer
+Responsibilities:
+Gathered data and business requirements from end users and management, designing and implementing data solutions to migrate existing source data from the Data Warehouse to Atlas Data Lake (Big Data).
+Orchestrated data workflows using AWS Data Factory and Airflow 1 across multiple cloud platforms, proficient in leveraging Airflow operators.
+Developed reports for data validation using Tableau/Power BI, and designed Tableau dashboards featuring stack bars, bar graphs, scattered plots, geographical maps, and Gantt charts.
+Conducted statistical analysis using SQL, Python, R Programming, and Excel, identifying areas for improvement to enhance data consistency and efficiency.
+Formulated data mapping procedures for ETL-Data Extraction, Data Analysis, and Loading processes, utilizing R programming.
+Effectively communicated project plans, status, risks, and metrics to the project team, and devised test strategies aligned with the project scope.
+Ingested data from Sqoop & Flume from the Oracle database, overseeing comprehensive data ingestion utilizing Sqoop and HDFS commands.
+Leveraged AWS Step Functions and AWS Lambda to construct serverless data pipelines for orchestration and data transformation.
+Analyzed large volumes of data, developing both simple and complex HIVE and SQL scripts to validate data flow across various applications, utilizing MHUB for Data Profiling & Data Lineage validation.
+Devised PL/SQL statements including Stored Procedures, Functions, Triggers, Views, and packages, optimizing query performance through Indexing, Aggregation, and Materialized views.
+Integrated data from MySQL to the cloud (Azure SQL DB, Blob storage) and applied transformations for data loading.
+Designed the ETL runs performance tracking sheet in different phases of the project and shared it with the production team.
+Analyzed user stories, contributed to grooming sessions, and provided estimates for development tasks in adherence to Agile methodology.
+Developed Spark jobs using Scala and Python on AWS, particularly on Amazon EMR (Elastic MapReduce), for both interactive and batch data analysis. Optimized performance utilizing AWS services like Amazon S3, Amazon Redshift, and AWS Glue for data transformation.
+Oversaw data migration from on-premises to the AWS cloud, leveraging AWS services such as AWS DMS (Database Migration Service) for database migrations to AWS RDS (Relational Database Service).
+Evaluated the performance of Apache Spark on AWS EMR for analyzing genomic data stored in AWS S3, processed using AWS Lambda functions.
+Conducted database performance tuning and optimization utilizing AWS RDS and Amazon Aurora for SQL queries and stored procedures, thereby improving overall system responsiveness.
+Integrated Alation with other data tools, including business intelligence platforms or data analytics tools, to streamline data workflows.
+Created CI/CD pipelines to load data from Azure into SQL DB, ensuring consistency across environments.
+Implemented Kafka data ingestion, activity tracking, and commit logs using Git for distributed systems.
+Maintained and established CI/CD pipelines across all environments using automation tools like Git (Bitbucket).
+Design and implement multiple ETL solutions with various data sources by extensive SQL Scripting, ETL tools, Python, Shell Scripting, and scheduling tools. Data profiling and data wrangling of XML, Web feeds, and file handling using Python, Unix, and SQL.
+Initiated work with AWS for storing and managing terabytes of data for customer BI Reporting Tools.
+Experienced in dimensional modeling (Star schema, Snowflake schema), transactional modeling, and SCD (Slowly Changing Dimension).
+Proficient in implementing machine learning backend pipelines with Pandas and NumPy.
+
+Client: CBRE, Dallas, TX. January 2017 – September 2019
+Role: Big Data Engineer
+Responsibilities:
+Conducted thorough analysis on extensive datasets using Hive queries and Pig scripts to extract valuable insights and facilitate data-driven decision-making processes.
+Developed Spark applications in Scala and Spark-SQL to extract, transform, and aggregate data from various file formats, unveiling customer usage patterns and actionable insights.
+Demonstrated Hadoop practices and knowledge of technical solutions, design patterns, and code for medium/ complex applications deployed in Hadoop production.
+Deployed and managed Big Data Hadoop applications on AWS, demonstrating expertise in event-driven and scheduled AWS Lambda functions to trigger various AWS resources.
+Developed ETL pipelines using a combination of Python and Snowflake's Snow SQL, enhancing data warehouse capabilities.
+Deployed Big Data Hadoop applications on AWS and Microsoft Azure, with expertise in event-driven and scheduled AWS Lambda functions.
+Conducted end-to-end architecture and implementation assessments, ensuring optimal performance of ETL systems.
+Led the strategy and execution of integrating Hadoop Impala with the existing RDBMS ecosystem using Apache Spark.
+Employed AWS Lambda for real-time data streaming and processing via Amazon Kinesis Streams and Kinesis Firehose.
+Developed reusable frameworks for automating ETL from RDBMS to Data Lake using Spark Data Sources and Hive data objects.
+Mentored Data Engineers, offering technical assistance and developing solutions leveraging ETL processes and Snowflake with Python.
+Developed REST APIs in Python, integrated with backend systems, and designed ETL integration CI/CD pipelines using Python on Spark.
+Developed dashboards and visualizations using Amazon Quick Sight for data analysis and reporting
+Created Simple to complex MapReduce jobs in Scala, leveraging Hive and Spark for efficient data processing and cleansing.
+Installed and configured Hive, while also developing customized Hive User Defined Functions (UDFs) to enhance functionality.
+Conducted comprehensive assessments of AWS services including EMR, Redshift, and S3, contributing to building and scaling ETL and event processing systems.
+Generated comprehensive reports using Power BI, aggregating data from multiple sources.
+Setup and configured Kerberos authentication for secure network communication, conducting testing on various Hadoop ecosystem components.
+Designed and implemented ETL processes in Alteryx, conducted root cause analysis, and resolved production issues.
+Leveraged Power BI's DAX language for advanced calculations and measures.
+Extracted files from Oracle databases using Sqoop, processed them in Spark, and executed Hadoop streaming jobs to handle terabytes of XML format data.
+Migrated data from Snowflake database to MySQL and stored Excel data in Google Cloud Storage using ETL.
+Developed a Data pipeline using Spark, Hive, and HBase to ingest data into the Hadoop cluster for analysis. Exploring with Spark to improve the performance and optimization of the existing algorithms in Hadoop using Spark context, Spark SQL, Data Frame and Spark Yarn.
+Managed the loading and transformation of extensive sets of structured, semi-structured, and unstructured data, facilitating the export of analyzed data to relational databases using Sqoop.
+
+EDUCATION:
+Bachelor’s Degree – GR College of Engineering & Technology
+Masters - University of Texas at Dallas
+Contact this candidate

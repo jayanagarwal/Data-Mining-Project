@@ -1,0 +1,115 @@
+Surya Prakash
+Data Engineer
+
+Phone: +1-803-***-**** Location: SC Email: ad6d4b@r.postjobfree.com
+SUMMARY
+Around 5 years of technical software development experience with expertise in Big Data, Hadoop Ecosystem, Analytics, Cloud Engineering, and Data Warehousing.
+Experience in analyzing data using Python, R, SQL, Microsoft Excel, Hive, Pyspark, and Spark SQL for Data Mining, Data Cleansing, Data Munging and Machine Learning.
+Strong proficiency in building large-scale applications using the Big Data ecosystem: Hadoop (HDFS, MapReduce, Yarn), Spark, Kafka, Hive, Impala, HBase, Sqoop, Pig, Airflow, Oozie, Zookeeper, Ambari, Flume, Nifi, and AWS.
+Exhibiting substantial experience with Azure services including HDInsight, Stream Analytics, Active Directory, Blob Storage, Cosmos DB, and Storage Explorer.
+Extensive involvement with AWS services like EC2, S3, EMR, RDS, VPC, Elastic Load Balancing, IAM, Auto Scaling, CloudFront, CloudWatch, SNS, SES, SQS, and Lambda to trigger resources.
+In-depth understanding of Hadoop Architecture and its components: HDFS, Job Tracker, Task Tracker, Name Node, Data Node, MapReduce, and Spark.
+Proficient in Scala programming for developing high-performance and scalable applications. Leveraged Scala's concise syntax and functional programming capabilities to build robust software solutions.
+Strong working experience with SQL and NoSQL databases (Cosmos DB, MongoDB, HBase, Cassandra), including data modeling, tuning, disaster recovery, backup, and creating data pipelines.
+Proficient in scripting with Python (PySpark), Java, Scala, and Spark-SQL for development and data aggregation from various file formats such as XML, JSON, CSV, Avro, Parquet, and ORC.
+Experienced in developing end-to-end ETL data pipelines that extract data from various sources and load it into RDBMS using Spark.
+Configuring Spark Streaming to receive real-time data from Apache Kafka and storing the stream data to HDFS, utilizing Spark-SQL with various data sources like JSON, Parquet, and Hive.
+Proficient in utilizing ELK stack for developing search engines on unstructured data within NoSQL databases in HDFS.
+Sound knowledge in developing highly scalable and resilient Restful APIs, ETL solutions, and third-party integrations using Informatica.
+Highly skilled in all aspects of SDLC using Waterfall and Agile Scrum methodologies.
+Familiarity with NLP, Image Detection, Map R.
+SKILLS
+Big Data Technologies:
+Kafka, Scala, Apache Spark, HDFS, Yarn, MapReduce, Hive, HBase, Cassandra.
+Cloud Services:
+Amazon EMR (EMR, EC2, EBS, RDS, S3, Glue, Elasticsearch, Lambda, Kinesis, SQS, DynamoDB, Redshift, ECS) Azure HDInsight (Databricks, Data Lake, Blob Storage, Data Factory, SQL DB, SQL DWH, Cosmos DB, Azure DevOps, Active Directory).
+Programming Languages
+Python, SQL, Scala
+Databases:
+Snowflake, MS-SQL SERVER, Oracle, MySQL, PostgreSQL, DB2
+Reporting Tools/ETL Tools:
+Informatica, Talend, SSIS, SSRS, SSAS, ER Studio, Tableau, Power BI.
+Methodologies:
+Agile/Scrum, Waterfall.
+Others:
+Machine learning, NLP, Airflow, Jupyter Notebook, Docker, Kubernetes, Jenkins, Jira.
+
+EXPERIENCE
+BCBS, SC July 2023 - PRESENT
+Data Engineer
+
+Develop and maintain a robust data pipeline architecture that efficiently extracts, transforms, and loads data from diverse data sources into GCP 'Big Data' technologies, ensuring data accuracy and integrity.
+Developed and maintained scalable ETL pipelines on AWS using AWS glue Amazon S3 and AWS Lambda services, ensuring efficient data processing and transformation.
+Involved in building a data pipeline and performed analytics using AWS stack (EMR, EC2, S3, RDS, Lambda, Glue, Redshift) Knowledge of Redshift Spectrum for querying external data sources directly from Redshift clusters.
+Performed ETL operations using Python, SparkSQL, S3, and Redshift on terabytes of data to obtain customer insights.
+Used Spark's in-memory capabilities to handle large datasets on S3 Data Lake, loaded data into S3 buckets, and filtered and loaded it into Hive external tables.
+Good Understanding of other AWS services like S3, EC2 IAM, and RDS Experience with Orchestration and Data Pipeline like AWS Step functions/Data Pipeline/Glue.
+Utilized various data analysis techniques to extract insights and data-driven decision-making processes.
+Collaborated with data analysts to gather and understand data requirements for BI and analytics purposes.
+Implemented strategic database performance optimization techniques resulting in a 25% reduction in average query execution time implemented best practices for managing workload concurrency, query optimization, and resource utilization in Redshift.
+Implemented compression techniques and column encoding to reduce storage and improve query performance in Redshift.
+Conducted performance tuning exercises and workload analysis to optimize Redshift cluster performance.
+Monitored and tuned Redshift clusters using performance monitoring tools and AWS CloudWatch metrics.
+Led the successful integration of Snowflake with AWS to establish a robust data architecture, resulting in a 30% increase in data processing speed, enabling scalability and reducing infrastructure cost by 25%.
+Utilize this SQL and my SQL for executing queries, ensuring optimal data retrieval and manipulation.
+Managed the procurement and setup of IT equipment for production and warehouse locations, ensuring optimal performance and reliability of data infrastructure.
+Created IAM policies for delegated administration within AWS and configured IAM Users / Roles. Used AWS EMR.
+Involved heavily in setting up the CI/CD pipeline using Jenkins, Terraform, and AWS to transform and move large amounts of data into and out of other AWS data stores and databases, such as Amazon Simple Storage Service (Amazon S3) and Amazon DynamoDB.
+
+Dell Technologies, India Jun 2019- Jul 2021
+Senior Data Engineer
+Worked in a Databricks Delta Lake environment on AWS, leveraging Spark for efficient data processing and management, ensuring optimal performance and scalability in big data operations.
+Developed a Spark-based ingestion framework for ingesting data into HDFS, creating tables in Hive, executing complex computations and parallel data processing, and enhancing data analysis capabilities Developed and executed data loading processes using AWS Data Pipeline, AWS Glue, or custom scripts to load data into Redshift.
+Implemented data transformations and data cleansing operations using SQL, Python, or ETL tools before loading data into Redshift.
+Ingested real-time data from flat files and APIs into Apache Kafka, enabling data streaming for immediate processing and analysis, facilitating timely insights and decision-making.
+Developed a data ingestion pipeline from HDFS into AWS S3 buckets using Apache NiFi, ensuring seamless data movement and storage in a scalable and secure cloud environment Strong Hands on experience in creating and modifying SQL stored procedures, functions, views, indexes, and triggers.
+Performed ETL operations using Python, SparkSQL, S3 and Redshift on terabytes of data to obtain customer insights.
+Performed end- to-end Architecture & implementation assessment of various AWS services like Amazon EMR,
+Redshift, S3.
+Used AWS EMR to transform and move large amounts of data into and out of other AWS data stores and databases,
+such as Amazon Simple Storage Service (Amazon S3) and Amazon DynamoDB
+Good Understanding of other AWS services like S3, EC2 IAM, RDS Experience with Orchestration and Data
+Pipeline like AWS Step functions/Data Pipeline/Glue.
+Designed and managed public/private cloud infrastructures using Confidential Web Services (AWS) which
+include EC2, S3, Cloud Front, Elastic File System, and IAM which allowed automated operations.
+Created IAM policies for delegated administration within AWS and Configure IAM Users / Roles / Used AWS EMR
+Involved heavily in setting up the CI/CD pipeline using Jenkins, Terraform and AWS
+to transform and move large amounts of data into and out of other AWS data stores and databases, such as Amazon Simple Storage Service (Amazon S3) and Amazon DynamoDB.
+Created external and permanent tables in Snowflake on AWS, enabling efficient data storage and querying in a cloud-based data warehouse, supporting advanced analytics and business intelligence.
+Worked on creating Hive tables and writing Hive queries for data analysis to meet business requirements and experienced in using Sqoop to import and export data from Oracle & MySQL databases to the Hadoop ecosystem.
+Implemented Spark to migrate MapReduce jobs into Spark RDD transformations and Spark streaming, optimizing big data processing for speed and efficiency.
+Developed an application to clean semi-structured data like JSON into structured files before ingesting them into HDFS, ensuring data quality and consistency for downstream processing.
+Automated transformation and ingesting of terabytes of monthly data using Kafka, S3, AWS Lambda, and Oozie, streamlining data pipelines and reducing manual intervention.
+Integrated Apache Storm with Kafka to perform web analytics and to process clickstream data from Kafka to HDFS, enabling real-time analytics on user interactions and website traffic.
+I worked on automating the CI/CD pipeline with AWS Code Pipeline, Jenkins, and AWS Code Deploy, ensuring the seamless and efficient deployment of data applications and services.
+Created an internal tool for comparing RDBMS and Hadoop, ensuring that all data in the source and target matches, reducing the complexity of moving data, and ensuring data accuracy.
+
+Adani, India JUL 2018 - MAY 2019
+Junior Data Engineer
+
+Leveraged Python libraries and frameworks such as Pandas, NumPy, and SciPy for advanced data analysis and statistical modeling, resulting in more accurate business insights.
+Leveraged Tableau and Power BI to create interactive data visualizations and dashboards, facilitating data-driven decision-making for business stakeholders.
+Perform Data Cleaning, features scaling, features engineering using pandas and NumPy packages in Python.
+Managed and optimized SQL databases, creating complex queries and performing data transformations.
+Conducted performance tuning of SQL queries and database operations, leading to a 20% improvement in query response times Leveraged Redshift for ad-hoc data analysis, generating insights, and creating reports and dashboards for business stakeholders.
+Worked closely with data analysts and business users to understand data requirements and deliver actionable insights using Redshift.
+Used BI tools like Tableau, Power BI, or Quick Sight to visualize data from Redshift clusters and create interactive dashboards.
+Developed interactive visualizations and reports using Tableau and MS-Excel to effectively communicate findings to stakeholders.
+Utilized SQL for data extraction and manipulation, performing complex queries for data analysis and reporting.
+Prepared detailed monthly reports, highlighting project KPIs and progress, for management and key stakeholders.
+Conducted software reconciliations for vendors, ensuring compliance with licensing agreements and optimizing costs.
+Developed and maintained Python-based ETL pipelines to process and analyze large datasets.
+Worked with Apache Spark to build scalable data processing solutions, accelerating data analysis and reporting capabilities.
+
+Projects
+Sentiment Analysis for Product Reviews
+Developed a Python code for conducting sentiment analysis of product reviews in an e-commerce website to recommend products to users with similar interests based on ratings.
+Cleaned and analyzed the data using Pandas, Matplotlib, NumPy, Math, and Seaborn libraries and conducted the analysis.
+Online Social Networking Platform – DBMS
+Created a backend online social networking portal for sending data from CSV files to a database using Python script.
+Designed a relational database with tables for the online social networking portal using an SQL server, incorporating strong and weak entities with non-key attributes and surrogate keys.
+Designed a relational database with tables for the online social networking portal using an SQL server, incorporating strong and weak entities with non-key attributes and surrogate keys.
+Data Integration Using Azure Services
+Utilized Twitter API to extract data from Twitter, such as tweets, user profiles, and hashtags, and retrieve data in JSON format.
+Implemented data transformation tasks within Azure Data Factory (ADF) to process the raw Twitter data, using ADF's data flow capabilities to cleanse, filter, and enrich the extracted tweets, extracting essential information like tweet text, user location, timestamps, and user mentions.
+Contact this candidate

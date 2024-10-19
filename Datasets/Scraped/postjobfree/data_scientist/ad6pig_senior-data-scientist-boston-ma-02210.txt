@@ -1,0 +1,228 @@
+Arnaud Dacheu
+(MS AI, MS DE, BS Math)
+Data Scientist / AI Engineer
+Phone: 617 482- 4965 Email: ad6pig@r.postjobfree.com
+Professional Summary.
+A highly skilled and experienced Data Scientist/ AI Specialist & Data Engineer with 16+ years in the data related field, I have a strong understanding of data mining Ing, wrangling, and exploration data analysis (EDA), and have applied these skills to various projects in industries including education, finance, marketing, and healthcare. I count on a strong foundation in statistics, programming, and machine learning. I can apply my technical skills to real-world data analysis problems. Throughout my career, I have employed agile methodology and experiment design to drive informed decision-making, while also leveraging my knowledge of A/B testing to optimize performance. With a deep interest in deep learning, natural language processing, and artificial intelligence, I am eager to contribute my skills and expertise to drive data-driven innovation and growth.
+
+Technical Skills
+Machine Learning
+
+Classification Algorithm: Logistic Regression, K-NN, Decision Tree, Random Forest, SVM Regression Algorithms: Linear Regression, Decision Tree.
+Clustering Techniques: K-Means, Hierarchical.
+Ensemble Techniques: Bagging, Boosting, AdaBoost, Gradient Boost, XGBoost.
+Dimensionality Reduction: PCA and LDA
+Deep Learning, Generative AI & Deployment
+
+Neural Nets: Text Analytics/NLP, TF-IDF, Sentiment analysis, Image processing.
+Model Deployment: AWS EC2, IBM DB2, Flask, APIs, React.
+Generative AI: OpenAI: Davinci, GPT-4, DALLE. Google: BERT Squad, PaLM, BARD, KerasCV Stable Diffusion
+Tools & Languages
+Programming Languages: Python, R, SQL, MATLAB, DAX
+Data Visualization Tools: Tableau, Power BI, Matplotlib, Seaborn, Plotly, ggplot2
+Statistical Tools: SPSS, Excel
+Cloud Computing: Google Collaboratory, Azure, AWS, Vertex AI,Google Cloud (BigQuery, etc.)
+Statistical Analysis
+
+EDA: Outlier detection, Sampling techniques, Boxplots.
+Inferential Analytics: Hypotheses tests, z-test, t-test, A/B test, ANOVA, ANCOVA
+Databases
+
+SQL Server: Advanced SQL queries for Data Analytics.
+PostgreSQL: Advanced queries, transactions, indexing
+NoSQL: MongoDB
+Others
+
+Data Mining: Data preparation, Model building, Model evaluation, Web scraping
+Business Intelligence/Analysis: Customer segmentation, Fraud detection, Market basket analysis, Predictive modeling
+Numpy, pandas, scikit-learn, TensorFlow, Keras, PyTorch, fastai, SciPy, Matplotlib, Seaborn, Numba
+
+Professional Experience
+Generative AI Engineer
+Vertex Pharmaceuticals, Boston, Massachusetts
+08/2023 – Present
+
+Vertex Pharmaceuticals is a Global Biotechnology Company. As part of the data driven initiative at Vertex Pharmaceuticals, I lead a team that developed a state-of-the-art generative ai based application to query and search the extensive company document library. To this end we developed a custom RAG based system using tools such as Langchain, LammaIndex and fine-tuned LLMs from Open AI and Cohere.
+
+•Gathered requirements from Stakeholders and Product Owners.
+•Established minimum KPIs and Model metrics goal.
+•Utilized LangChain and LAMMA Index to generate document splits and prepare semantic fragments for upsert to vector database.
+•Utilized Prompt engineering, Context re-ranking and recursive character splitting to generate text completions from LLM models.
+•Tested RAG system using Perplexity, Bleu Index, Veracity and Relevance as metrics.
+•Deployed generative completions as API endpoint using Fast API.
+•Created effective roadshow tutorials to introduce the new system to stakeholders and product owners.
+•Benchmarked GPT 3.5 Turbo, GPT 4, 4o and 4-Vision.
+•Tested Cohere’s command-r, command-r-plus.
+•Applied text and vision embeddings including Open Ai’s text-embedding-ada-002, text-embedding-3-Large, text-embedding-3-Small and Cohere embed-english-v3.0
+•Performed Semantic Search using Cosine Similarity and Manhattan Distance.
+•Explored transfer learning to leverage pre-trained models for new tasks thereby reducing training time and resource requirements.
+•Utilized GANs (Generative Adversarial Networks) to enhance data generation and model creativity.
+•Implemented reinforcement learning to optimize model performance based on feedback loops and iterative improvements.
+•Conducted bias detection and mitigation efforts to ensure fairness and inclusivity in model outputs.
+•Established ethical guidelines and review processes to address potential risks and ethical concerns related to generative AI.
+•Deployed complete system using a CI/CD pipeline using Jenkins and Docker.
+•Built a microservice utilizing Flask, Gunicorn.
+
+Lead Data Scientist/ AI Specialist
+First Citizens Bank, Raleigh, North Carolina
+01/2022 – 7/2023
+
+First Citizens Bank is a financial services company. The company provides banking, investment, mortgage, trust, and payment services products to individuals, businesses, governmental entities, and other financial institutions. Successfully implemented mortgage loss forecasting and handled data analytics and reporting work. Performed model validation, code review, and stress testing on loss forecast models. Developed reports using SAS reporting procedures, Python data visualization libraries, and Tableau/ Power BI/ Excel dashboards. Assisted in model outputs analysis & interpretation.
+
+•Developed and implemented churn prediction models using advanced machine learning algorithms to accurately identify customers at risk of attrition.
+•Utilized customer lifetime value estimation techniques to quantify the long-term value of customers and inform strategic decision-making.
+•Extracted insights from large datasets using statistical analysis.
+•Led a cross-functional team of data scientists and engineers in the end-to-end development and implementation of a cutting-edge AI-based fraud detection system.
+•The system successfully identified and prevented many fraudulent transactions, resulting in substantial financial savings for the organization.
+•Developed and deployed sophisticated anomaly detection algorithms to effectively identify and flag aberrant patterns in customer behavior, resulting in a significant reduction in false positive alerts.
+•Implemented advanced machine learning algorithms, such as random forests and gradient boosting, to optimize customer segmentation and personalize marketing campaigns.
+•Conducted market segmentation analysis to identify distinct customer segments and develop targeted marketing strategies for each segment.
+•Provided technical guidance and mentorship to junior data scientists, fostering a collaborative and innovative team environment.
+•Incorporated diverse external data sources, including social media platforms and web scraping, to enrich customer profiling and enhance the accuracy of predictive models.
+•Developed and maintained data pipelines and ETL processes to ensure data quality and availability for AI initiatives.
+•Developed and deployed a generative AI-based customer support system that leveraged natural language processing techniques to automate responses to frequently asked customer queries.
+•Collaborated with IT teams to deploy machine learning models into production, ensuring scalability and real-time performance.
+•Designed and implemented a machine learning-based customer lifetime value prediction model, empowering the marketing team to make data-driven decisions for optimizing customer acquisition and retention strategies.
+•Used BERT for sentiment analysis to gauge customer satisfaction based on sentiment analysis scores.
+•Applied ULMFit for tasks such as text classification to improve customer experience and increase sales through targeted content.
+•Developed models using Logistic Regression, Random Forest, and XG Boost to predict customer churn accurately, enabling proactive retention strategies.
+•Deployed models on Google Cloud Platform (GCP) Vertex AI for scalability and accessibility, leveraging services like BigQuery, Cloud Storage, and Dataflow.
+•Used GPT-3 for text summarization, which helps in condensing lengthy product descriptions or customer feedback into concise summaries.
+•Created interactive dashboards and visualizations using tools like Tableau, Power BI, and Plotly to communicate insights effectively and engage stakeholders.
+Senior AI/ ML Engineer
+Phillips 66, Westchase, Houston, Tx
+11/2020 - 01/2022
+
+Led the development and execution of advanced data analytics and machine learning initiatives. Led cross-functional teams to deliver data-driven solutions that drive business growth and innovation. Designed and conducted experiments to validate hypotheses and test the effectiveness of machine learning models. Communicated complex technical concepts and analysis results to both technical and non-technical audiences. Provided mentorship and guidance to junior team members, shared knowledge, and promoted a culture of learning and continuous improvement. Collaborated with business stakeholders to identify opportunities to leverage data to drive better decision-making and improve business outcomes.
+
+•Created and executed comprehensive test scenarios and plans to ensure the reliability and performance of developed models and applications.
+•Developed and implemented machine learning algorithms for enterprise-wide AI applications, resulting in improved customer experiences and increased revenue generation.
+•Conducted data mining and analysis to identify patterns and trends, enabling predictive modeling for business outcomes optimization.
+•Analyzed system efficiency and identified bottlenecks, proposing automation opportunities to improve productivity and sustainability.
+•Built and supported a community of Citizen Data Scientists within the organization, organizing workshops and training sessions to promote data literacy.
+•Conducted data mining and analysis to identify patterns and trends, enabling predictive modeling for business outcomes optimization.
+•Led the deployment of AI/ML models from development to production, ensuring rigorous validation and testing protocols were followed.
+•Assisted in the development of IoT and Connected Enterprise projects, leveraging data insights to drive innovation and operational efficiency.
+•Collaborated with cross-functional teams, including data scientists, engineers, and business units, to align data projects with organizational objectives.
+•Troubleshoot performance issues and refined models based on feedback and outcomes, resulting in enhanced accuracy and efficiency.
+
+Director of Data Science
+Planet Fitness, Hampton, New Hampshire.
+11/2018 - 10/2020
+
+Planet Fitness is a large Gym operator with locations in every state. As part of their data actualization initiative a data science team was tasked with finding data insights and predictive analytic solutions. Performed EDA on company data and created an actionable dataset including feature engineering and cleansing. Created classification and regression models to extract insights from the company data.
+
+•Created robust reporting tools to extract data from various sources, enabling proactive trend analysis and forecasting of business outcomes.
+•Researched market demographics and competitor landscapes, recommending strategic marketing approaches.
+•Leveraged business intelligence tools such as Microsoft Power BI, Tableau, GIS, SAS, SQL, and Python, showcasing exceptional proficiency in Excel and the Microsoft Office Suite.
+•Identified opportunities for organic growth, optimal store site selection, enhanced operational efficiencies, marketing strategies, and overall profitability.
+•Served as a Data Scientist in a highly technical and analytical capacity, driven by a strong passion for data, mathematics, programming, and statistics.
+•Built dashboards and other visualization tools to facilitate easy data consumption by stakeholders and end-users.
+•Discovered opportunities for revenue enhancement, cost control, and profitability optimization.
+•Partnered with business stakeholders to leverage analytics for driving organizational change and improvement.
+•Established protocols, methods, and systems for data collection, aggregation, storage, and analysis.
+•Developed a deep understanding of operational processes and needs, employing technology to implement impactful solutions.
+•Produced ad hoc reports and analyses to support the organizational structure.
+•Utilized GIS technology to assess member distribution, drive-time reach, and market penetration potential.
+•Extracted, aggregated, and analyzed data to deliver predictive insights and outcomes crucial for business growth.
+•Conducted predictive analysis for membership and new unit forecasting, aiding in club acquisition underwriting and market growth strategy.
+•Evaluated marketing campaign effectiveness by measuring ROI.
+•Designed, developed, and maintained business intelligence software and platforms.
+
+Data Scientist/ MLOps Engineer
+Care Source, Dayton, Ohio
+12/2015 – 11/2018
+
+Care Source is a non-profit nationally recognized managed care organization which administers one of the largest Medicaid managed care plans. I worked within the Data Analytics team as a Machine Learning Engineer to develop data pipelines, MLOps pipelines, OCR models, reports, and data validations. Built a pipeline for the Supply Chain team to produce weekly Inventory Reconciliation Reports, which included Inventory Mismatch Reporting, Missing Shipments, and Transfer Order completeness.
+
+•Worked on computer vision-based OCR models.
+•Implemented CNN-based Tesseract with BERT for named entity recognition.
+•Utilized Python, Pytesseract, OpenCV, and TensorFlow for this computer vision and NLP-based OCR problem.
+•Worked with Finance to troubleshoot & enhance Settlement Payment Reports for cash reconciliation.
+•Built pipeline to map SKUs to corresponding UPC/EAN.
+•Validated data for MWS to SPAPI transition.
+•Collaborated with cross-functional teams of data scientists, user researchers, product managers, designers, and engineers passionate about our consumer experience across platforms and partners.
+•Performed analyses on large sets of data to extract impactful insights on user behavior that helped drive product and design decisions.
+•Worked with the Python package Pandas and Feature Tools for data analytics, cleaning, and model feature engineering.
+•Updated Python scripts to match training data with our database stored in AWS Cloud Search so that we could assign each document a response label for further classification.
+•Performed Supply Chain Reporting analytics and ran in Power BI.
+•Built dashboards in Periscope for internal usage and reporting.
+•Extracted source data from Amazon Redshift on the AWS cloud platform.
+•Built, trained, and deployed machine learning models using Amazon Sage Maker.
+•Designed and implemented a CI/CD pipeline to automate model development and model deployment.
+•Setup model training pipelines to be triggered when model drift is detected.
+•Utilized AWS Sage Maker ML Ops tools.
+
+Data Scientist/ Data Engineer
+Nestle, New York, NY
+01/ 2013 - 11/2015
+
+At Nestle, I spearheaded a team of data scientists to create advanced models for demand forecasting and sales prediction. In this role, I focused on enlightening company leadership about the strategic impact of data science and collaborated closely with stakeholders to ensure that our data-driven initiatives delivered maximum relevance and value to the organization.
+
+•Implemented PCA for handling high-dimensional sparse categorical variables.
+•Used NLP and K-Means for analyzing and attributing causes to negative reviews.
+•Proficient in Cloud Computing for end-to-end machine learning.
+•Designed and managed data workflows using Apache Airflow.
+•Conducted NLP-driven proof of concepts with LDA for topic clustering.
+•Created robust machine-learning models for demand forecasting (MLib/GBT).
+•Improved forecasting accuracy through advanced data engineering.
+•Employed HyperParameter Tuning for optimizing model performance.
+•Conducted web scraping for generating Amazon review datasets.
+•Developed predictive models for identifying delivery delay risks.
+•Developed demand forecasting models using IRI syndicated data.
+•Collaborated with stakeholders to refine model features and enhance predictive accuracy.
+•Integrated diverse data sources into a unified master dataset.
+•Utilized Hadoop and SQL Database for scalable analytics.
+•Implement and enforce data governance policies to ensure data privacy and security.
+•Monitor and optimize data systems and pipelines for performance, ensuring they meet the needs of the business.
+•Integrate data from various internal and external sources to create comprehensive data sets for analysis.
+•Implement best practices for database design, storage, and retrieval.
+
+Data Engineer
+Enphase Energy, Petaluma California
+01/2011 – 12/ 2012
+
+Enphase Energy, Inc. is an American energy technology company
+
+•Design, build, and maintain efficient, scalable data pipelines to collect, process, and store data from various sources.
+•Ensure data integrity and accuracy through effective data integration techniques and validation processes.
+•Develop and maintain robust data models that support various business and analytical needs.
+•Design and implement scalable data architecture to manage large volumes of data efficiently.
+•Design, implement, and optimize Extract, Transform, Load (ETL) processes to ensure data is clean, reliable, and ready for analysis.
+•Monitor database performance and implement improvements as necessary.
+•Enforce data governance policies and best practices.
+•Ensure compliance with data protection regulations.
+•Document data processes, data flow diagrams, and data architecture.
+•Evaluate and recommend new tools and technologies for data management.
+
+Data Analyst
+Gartner Inc., Stamford, CT
+01/ 2008 – 12/2010
+
+Gartner, Inc. is an American technological research and consulting firm
+
+•Managed data processing, cleansing, and validation to ensure data integrity for analysis.
+•Conducted univariate, bivariate, multivariate analyses to generate new features and evaluate their significance.
+•Streamlined feature extraction in machine learning pipeline, significantly enhancing system efficiency.
+•Assisted in optimizing port utilization by forecasting demand.
+•Resolved analytical challenges and effectively communicated methodologies and findings.
+•Integrated externally sourced data through mining and scraping techniques.
+•Enhanced data collection methods to capture pertinent information essential for developing analytical systems.
+
+Education
+Master’s Degree in Artificial Intelligence and Machine Learning
+University of North Texas
+
+Master’s degree in data engineering
+University of North Texas
+
+Bachelor’s degree in mathematics
+University of Yaunde
+
+Certification & licenses
+
+•AWS Certified Cloud Practitioner
+•Azure Data Engineer
+•Databricks Data Engineer
+•Azure Machine Learning Engineer
+Contact this candidate

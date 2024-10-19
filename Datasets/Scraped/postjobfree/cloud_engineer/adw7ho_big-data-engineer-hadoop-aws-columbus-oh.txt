@@ -1,0 +1,133 @@
+JAMES GHOSN
+Contact: 380-***-**** (M), Email: adw7ho@r.postjobfree.com
+Professional Summary:
+● Big Data Engineer Professional with 7+ years of IT experience working as a Data Engineer on Amazon Cloud Services, Big Data/ Hadoop Applications, and Product Development.
+● Well-versed with Big Data on AWS Cloud Services IE., ec2, s3, Glue, EMR/ Spark, RDS, Athena, Dynamo DB, Lambda, Step Functions, IAM, KMS, SM, and Redshift.
+● Well-versed with Big Data on Databricks Services such as DBFS, workflow, connecting to Azure DevOps, and Dashboards.
+● Experience in job/ workflow scheduling and monitoring tools like Oozie, AWS Data Pipeline.
+● Experience with UNIX/ LINUX systems with scripting experience and building data pipelines.
+● Expert in developing SSIS/ DTS Packages to extract, transform, and load (ETL) data into a data warehouse/ data mart from heterogeneous sources.
+● Expertise in performance optimization for spark in multiple platforms like Databricks, Glue, EMR and on-premises.
+● Good understanding of software development methodologies including Agile (Scrum).
+● Expert in the development of various reports, and dashboards using Tableau, visualizations.
+● Hands-on experience with various programming languages such as Python, Pyspark and Scala
+● Experience in using different Hadoop ecosystem components such as HDFS, YARN, MapReduce, Spark, Pig, Sqoop, Hive, Impala, HBase, Kafka, Flume, and Crontab Tools.
+● Experience in developing ETL applications on large volumes of data using different tools: MapReduce, Spark-Scala, Pyspark, Spark-Sql, and Pig.
+● Experience in using Sqoop for importing and exporting data from RDMA to HDFS and Hive.
+● Experience with MS SQL Server and MySQL.
+● An assertive team leader with strong aptitude in developing, leading, hiring, and training highly effective work teams, strong analytical skills with proven ability to work well in a multi-disciplined team environment and adept at learning new tools and processes with ease.
+● Proficient in Databricks developing spark jobs and working with its components (DBFS, Notebooks, Repos, Delta Lake).
+Technical Skills:
+Libraries – NumPy, Pandas, Matplotlib, Seaborn,
+Plotly, Pyspark, MySQL, Pyspark, Apache, Spark,
+boto3, Kafka-python.
+Analytics – Power BI, Plotly, Tableau, AWS
+Quicksight.
+ETL Tools – AWS Glue, Apache Nifi
+Big Data Methods - Batch and Real-time data
+pipelines, Lambda and step function
+architecture, author schedule and monitor
+workflows with DAGs (apache airflow), Data
+transformation, map-reduce batch compute,
+Programming Languages - Python, SQL, Scala,
+and Shell
+Big Data Tools – Apache Hadoop, Spark, Apache
+Airflow, Hive, Sqoop, Spark Streaming, Flume,
+SQL Server, Cassandra, MapReduce, MongoDB,
+AWS Glue, Zookeeper.
+Cloud - Analytics in cloud-based platforms (AWS)
+AWS – Glue, EMR, Lambda, SQS, SNS, RDS,
+Redshift, Step Functions, Athena, S3, Ec2,
+Dynamo DB
+stream computations, low latency data store,
+deployment
+Development - Git, GitHub, GitLab, PyCharm,
+IntelliJ, Visual Studio, Linux.
+Data Extraction & Manipulation - Hadoop HDFS,
+SQL, NoSQL, Data Warehouse, Data Lake,
+HiveQL, AWS (RedShift, Kinesis, EMR, EC2,
+Lambda)
+Databases and File Formats – HDFS, DynamoDB,
+AWS Redshift, MySQL, SQL, Parquet, JSON.
+Big Data Ecosystems - Hadoop, SnowFlake,
+Databricks.
+Professional Experience:
+Rhyme, Columbus, Ohio: November 2022 - Present
+Sr. Data Engineer
+Project Synopsis: Rhyme is a proud Columbus company, building a healthcare IT cloud-based product that makes submitting, monitoring, and completing a prior authorization a simple experience. We are firm believers in setting a quality culture based on our core values of collaboration, transparency, honesty, and commitment to helping others. My main task was to develop the data model and create the most robust ETL pipeline to ingest the provided data and transform the data, so it is ready for the analytics team.
+Responsibilities:
+● Worked in an AWS environment and then migrated the pipeline into Databricks.
+● Data was stored in an S3 bucket and later read using AWS Glue to transform and store into the Glue data catalog.
+● Transformed, mapped data utilizing Pyspark and dynamic frames to automatically infer JSON file schema.
+● Used lambda and SNS functions to trigger required glue jobs and send notifications in case of an error.
+● Used Athena to query the data.
+● Migrated into a Databricks ecosystem.
+● Worked with auto loader in Databricks to incrementally and efficiently process new data files that arrived in the S3 bucket and ingested these files using spark streaming.
+● Utilized a bronze, silver, and gold architecture to manage different quality levels.
+● Built a robust monitoring notebook to detect if there are any bad records or mismatched schema.
+● Created data validity checks to ensure that all data files are being ingested - The first was using cloud files and the other was scrapping the DBFS files using DBFS.
+● Used Databricks workflows to orchestrate and automatically run the ETL pipeline and monitor these workflows using notifications.
+● Optimized the delta tables in the delta lake using optimize, vacuum and Z-ordering indexes.
+● Extensive experience with Databricks, a unified analytics platform, for big data processing, and analytics on Apache Spark clusters.
+● Proficient in managing Databricks workspaces, creating notebooks, and utilizing built-in collaboration features like Databricks repos.
+● Skilled in using Databricks Runtime to optimize Spark performance, leveraging its built-in optimizations and support for various data formats like Delta Lake, Parquet, and Avro.
+● Utilized Databricks Dashboards to create data quality views.
+● Implemented and configured data pipelines as well as tuning processes for performance and scalability.
+● Expertise in implementing Delta Lake for reliable and scalable data lakes, schema enforcement, and time travel features to ensure data integrity and consistency. Nike (Remote): September 2021 – November 2022
+Senior Data Engineer
+Project Synopsis: It involved detecting bots in Nike’s registered customers, and their launch entries. The main motivation for this was to increase customer satisfaction by increasing their chance to buy products online. I used AWS Cloud to create the end-to-end ETL process using tools like AWS Lambda, S3, Glue, RDS, and Athena.
+Responsibilities:
+● Implemented data scraping along with a data preprocessing layer part of the data ingestion process on AWS lambda.
+● Worked with diverse data sets in AWS S3, identified, and developed new sources of data, and collaborated with product teams to ensure successful integration.
+● Created an ETL process to consume, transform and load data using AWS S3, Glue, and Redshift to prepare the data pro analysis.
+● Worked with business units to fulfill the requirements while creating the data model for the data warehouse and adding business logic to the data using AWS Glue.
+● Maintained various visualization tools and dashboards used to provide data-driven insights using BI tools and Python code.
+● Used different Python libraries to process data such as pandas, numpy, Pyspark, boto3.
+● Tools used: Python, Spark, Plotly, AWS Glue, AWS Athena, Hadoop, Redshift, SNS, AWS Step Functions, SQS, and AWS Lambda.
+● Developed ETL and Data Pipelines using AWS Glue and used Athena for data profiling and querying files from S3.
+Vistaprint, Lexington, MA: Sep 2018 - Aug 2021
+Big Data
+Project Synopsis: Vistaprint is a global e-commerce company that produces physical and digital marketing products for small and micro businesses. My role as a Data Engineer at Vistaprint was to consume, transform and analyze and manage customer data. I gathered this data and created more efficient ways so the customer could receive the best product possible. I mentored, trained, and taught more junior members of the analytics team, in addition to duties. I developed ETL pipelines and models to analyze churn, the propensity to buy, segmentation, cross-sell/up-sell, etc. Responsibilities:
+● Consumed data from the on-premises SQL Server database using Apache Spark.
+● Collaborated with cross-functional teams and business units to help map exchange data into a normalized model for the enterprise data warehouse on Snowflake.
+● Conducted analysis using Python on data derived from Big Data Hadoop systems using distributed processing paradigms, stream processing, and databases such as SQL and NoSQL.
+● Updated, maintained, and validated large data sets for derivatives using SQL and Pyspark.
+● Conducted root-cause analysis and preventative measures for data quality issues that occurred in day-to-day operations.
+● Identified and analyzed anomalous data (including metadata).
+● Used Pandas library and Spark in Python for data cleansing, validation, processing, and analysis.
+● Performed large data cleaning and preparation tasks within the company using Python, Spark, and SQL to improve performance.
+Airbus, Herndon, VA: Sep 2016 - Sep 2018
+Data Engineer
+Project Synopsis: Airbus is an aerospace manufacturer specializing in manufacturing and providing engineering support for business jet aircraft My role as a Data Engineer at Airbus was to work with large amounts of sensor data taken from flight recorders on our jet aircraft. I built a pipeline that can efficiently ingest, transform, and load the data from flight recorders and store them in a tabular format in a Hadoop environment to be used by data scientists for predictive maintenance analytics. Responsibilities:
+● Worked in a Cloudera Hadoop environment, utilizing Apache tech stack.
+● Utilized Apache Kafka for data streaming sensor data from flight recorders.
+● Transformed, and mapped data utilizing Spark and MapReduce for parallel computation.
+● Ran sensor data through several filters to eliminate noise for more accurate data modeling.
+● Relational data was stored into hive tables, which were easily queried by data scientists.
+● Managed data flow with Apache airflow, ensuring proper and efficient scheduling and task execution.
+● Worked in an Agile Scrum environment, participating in daily Scrum meetings and showcasing team contributions and accomplishments.
+● Built data ingestion workflows using Apache NiFi, Schema Registry, and Spark streaming.
+● Worked extensively with shell scripting to ensure proper execution with docker containers.
+● Created data management policies, and procedures and set new standards to be used in future development.
+● Algorithm development on high-performance systems, orchestrating workflows within a contained environment
+● Worked with the end user to ensure the transformation of data to knowledge in very focused and meaningful ways.
+● Implemented and configured data pipelines as well as tuning processes for performance and scalability
+Crown Castle. Houston, TX: Jan 2016 – September 2016 Data Engineer
+Company Profile: Crown Castle is a real estate investment trust and provider of shared communications infrastructure in the United States. Its network includes over 40,000 cell towers and nearly 80,000 route miles of fiber supporting small cells and fiber solutions.
+● Designed a relational database management system (RDBMS) and incorporated it with SQOOP and HDFS.
+● Created Hive external tables on RAW data layer pointing to HDFS location.
+● Implemented Spark using Scala and Spark SQL for faster testing and processing of data.
+● Utilized Hive Query Language (HQL) to create Hive internal tables on a data service layer (DSL) Hive database.
+● Integrated Hive internal tables with Apache HBase data store for data analysis and read/write access.
+● Developed Spark jobs using Spark SQL, PySpark, and Data Frames API to process structured and unstructured data into Spark clusters.
+● Analyzed and processed Hive internal tables according to business requirements and saved the new queried tables in the application service layer (ASL) Hive database.
+● Developed knowledge base of Hadoop architecture & components such as HDFS, Name Node, Data Node, Resource Manager, Secondary Name Node, Node Manager, MapReduce concepts.
+● Installed, configured, and tested the Sqoop data ingestion tool and Hadoop ecosystems.
+● Imported and appended data using Sqoop from different Relational Database Systems to HDFS.
+● Exported and inserted data from HDFS into Relational Database Systems using Sqoop.
+● Automated the pipeline flow using Bash script.
+● Used Spark API over Hortonworks Hadoop YARN to perform analytics on data in Hive.
+● Provided connections to different Business Intelligence tools to the tables in the data warehouse such as Tableau and Power BI.
+Academic Credentials:
+BS in Mechanical Engineering from Lebanese International University
+Contact this candidate

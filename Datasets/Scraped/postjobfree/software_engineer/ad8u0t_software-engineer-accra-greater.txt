@@ -1,0 +1,43 @@
+*
+Rasheed Alale Mohammed
+Software Engineer
++233-********* ad8u0t@r.postjobfree.com www.rasheedstarlet.com github SUMMARY
+As a software engineer I excel at mastering new technologies and consistently delivering high-quality, readable code.
+LANGUAGES: Go, Python, Rust, Dart, Ruby, JavaScript FRAMEWORKS: Django, Flask, Ruby on Rails, Flutter
+DATABASES: RDBMS(PostgreSQL), MongoDb, RealmDb
+INFRA AND TOOLS: Docker, AWS, Terraform, Git, AI
+WORK EXPERIENCE
+Stac.ai
+Software Engineer - Remote FEBRUARY 2024 - PRESENT
+● In Charge of provisioning AWS Infrastructure using IaC tools, mainly, Terraform.
+● Designed and set up AWS site-to-site VPN to connect our infrastructure to MTN and Telecel.
+● Implemented a StrongSwan VPN to test our VPN connection
+● Designed implemented our serverless infrastructure using AWS Fargate as IaC
+● Automated our workflow for creating github repositories and deploying to Fargate. Yapaala
+Full Stack Software Engineer - Hybrid FEBRUARY 2019 - 2021
+● Taught myself Python and Django in order to successfully implement project goals
+● Designed and implemented relational database schema to solve business needs
+● Customized the django admin dashboard to enable non technical admins to manage rentals
+● Created search and sort functionality for location specific discovery
+● Integrated cloudinary for all image handling on the platform PROJECTS
+Llama Programming Language
+My own implementation of Craftinginterpreters.com CURRENT I am learning and building little programming languages from scratch in Rust. I Research on ancient programming languages that have had major influences on the most popular higher level programming languages of today. Learning to grok and build complex software. 1
+2
+Oubre OS
+An Operating System built with Rust. NOVEMBER 2022 - 2023 Since I started programming I have always been amazed by the inner workings of computers and operating systems. What I cannot build I do not understand so I took on the task to learn the inner workings of operating systems and computers by building. This led me to learning Rust and building a toy Operating System.
+● Learned how to write Rust for no_std
+● Built a minimal OS Kernel in Rust for x86
+● Programmed the VGA text buffer
+● Wrote Integration tests for no_std using Rust custom_test_frameworks
+● Read about interrupts and implemented software and hardware interrupt handlers
+● Implemented Hardware Exceptions
+● Learned a lot about memory management and implemented a memory management unit
+● Implemented multitasking support for the Kernel
+Built with: Rust
+Ferndi - A money management app. JULY 2023 - PRESENT I wanted to build a Spend Management app for personal use. Even though I had no mobile development experience I thought it would be an awesome challenge so I built one.
+● I learnt and built a demo of the app by the third week.
+● I learned RealmDb and created models to be stored locally.
+● I learnt Riverpod to implement app wide state management. Built with: Dart, Flutter, RealmDb, Riverpod
+OPEN SOURCE WORK
+PIC8259 - Abstractions for 8259 and 8259A Programmable Interrupt Controllers (PICs) While using the crate to build Oubre OS, I realized that allowing the user to manually set the 2 PICs, even though desired sometimes could lead to the user leaving out some interrupts in the IDT so I worked with the creator and maintainer of the crate to add a new utility function that made it impossible for this kind of bug to surface. 2
+Contact this candidate

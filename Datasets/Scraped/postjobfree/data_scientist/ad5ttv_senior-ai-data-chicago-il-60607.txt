@@ -1,0 +1,184 @@
+Ali Kone
+Senior AI Data Scientist
+
+Phone: 425-***-****
+Email:ad5ttv@r.postjobfree.com
+
+Profile Snapshot
+
+Seasoned Data Scientist with 16+ years of IT experience and 12+ years of experience in Data Science, Machine Learning, and Artificial Intelligence, driving innovative solutions across various industrial sectors. Proficient in predictive analytics, including predictive modeling, recommender systems, and forecasting.
+
+Technical Proficiency:
+•Advanced expertise in Python using Pandas, NumPy, Seaborn, Matplotlib, TensorFlow, Keras, and Scikit-learn to develop machine learning models such as Logistic Regression, Gradient Boost Decision Trees, and Neural Networks.
+•Skilled in Data Acquisition, Data Validation, and Predictive Modeling to ensure robust and accurate model performance.
+•Extensive experience in Natural Language Processing (NLP) methods for information extraction, topic modeling, parsing, and relationship extraction, utilizing Python libraries like NLTK and SpaCy.
+•Proficient in developing, deploying, and maintaining scalable NLP models for production environments.
+
+Machine Learning and Statistical Analysis:
+•Expertise in feature engineering techniques such as PCA, feature normalization, and label encoding with Scikit-learn.
+•Utilized cross-validation techniques to optimize models and prevent overfitting.
+•Designed and implemented Python-based distributed random forests using PySpark and MLlib.
+•Applied a wide range of machine learning techniques, including Naïve Bayes, Linear and Logistic Regression Analysis, Neural Networks (RNN, CNN), Transfer Learning, Time-Series Analysis, and Random Forests.
+
+Data Visualization and Reporting:
+•Created interactive data visualizations and widgets in Python with Matplotlib, Plotly, and Seaborn, in R using dplyr, tidyverse, and Shiny for UI design.
+•Developed custom BI reporting dashboards using Dash with Plotly for delivering actionable, data-driven insights.
+•Generated comprehensive reports to display the status and performance of deployed models and algorithms using Tableau.
+
+Cloud Computing and Automation:
+•Utilized AWS services (S3, DynamoDB, Lambda, EC2) for data storage and model deployment.
+•Automated processes using Python and AWS Lambda to enhance efficiency and scalability.
+
+Stakeholder Engagement:
+•Transformed business requirements into analytical and statistical data models in Python and TensorFlow.
+•Designed, built, and deployed custom Power BI solutions to meet specific business needs.
+•Engaged with stakeholders to gather requirements through interviews, workshops, and documentation review, defining business processes and identifying risks.
+
+Database Management:
+•Proficient in working with relational databases, demonstrating advanced SQL skills.
+•Applied statistical procedures to both supervised and unsupervised machine learning problems, ensuring robust data analysis and model accuracy.
+
+Professional Competence:
+•Adept at discovering patterns in data using algorithms, visual representation, and intuition.
+•Demonstrated ability to use experimental and iterative approaches to validate findings and improve model performance.
+
+With a proven track record of leveraging advanced data science techniques to drive business outcomes, I bring a combination of technical expertise and practical experience to deliver impactful data-driven solutions.
+Technical Skills
+
+•Programming Languages: Analytic programming using Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Keras). R (Tidyverse, Ggplot2, Dplyr, Purrr, Tidyr, and more)
+•Analytic Scripting Languages: Python, R, MATLAB
+•IDEs: RStudio, PyCharm, Visual Studio, Visual Studio Code, Jupyter Notebook, Sublime, XCode, MATLAB_R2021b, Eclipse
+•Database, Query, Data Cleaning, and Normalization: PostgreSQL, MySQL, SQL Server, RDS, RedShift, MongoDB, DynamoDB, MS Excel, MS Access
+•Machine Learning Methods: Applying classification, regression, prediction, dimensionality reduction, and clustering to problems, predictions, and analytics that arise in retail, manufacturing, and market science. Linear Regression, Logistic Regression, Random Forest, XG Boost, KNNs, Deep Learning in Python.
+•Deep Learning Methods: Artificial Neural Networks, CNN, LSTMs, Gradient Descent variants (including ADAM, NADAM, ADADELTA, RMSProp), Regularization Methods, and Training Acceleration with Momentum Techniques TensorFlow, PyTorch, Keras
+•Artificial Intelligence: Text understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems, and analytics.
+•Statistical Analysis: A/B Testing, ANOVA, T-Test, Model Selection, Anomaly Detection, Case Diagnostics, and Feature Selection in R or Python for analysis of data.
+•Analytics: Research, analysis, forecasting, and optimization to improve the quality of user-facing products, Probabilistic Modeling, and Approximation Inference. Advanced Data Modeling, Predictive, Statistical, Sentiment, Exploratory, Stochastic, Bayesian Analysis, Inference, Models, Regression Analysis, Linear models, Multivariate analysis, Sampling methods, Segmentation, Clustering, Sentiment Analysis.
+•Cloud: Extensively used Cloud for model development, deployment and maintenance using AWS, GCP and Azure.
+
+Work Experience
+
+Lead AI Engineer
+Numerator, Chicago, Illinois April 2022 - Present
+
+As a Senior AI Engineer at Numerator, Chicago, I engineered a bespoke algorithm for document ingestion, effectively converting, splitting, and preparing documents for embedding into a vector database. Utilizing Langchain and OpenAI's ADA002 model, I efficiently processed PDF, HTML, and text files. I also developed a chunk provenance scheme for enhanced data traceability and authored a Context Retrieval Class in Python using Pinecone. Additionally, I implemented advanced prompt engineering techniques for large language models (LLMs) and deployed the complete system through a CI/CD pipeline using Jenkins and Docker, ensuring robust, scalable, and efficient service delivery.
+
+•Engineered a bespoke algorithm for document ingestion that effectively converts, splits, and prepares documents for embedding and subsequent upsert into a vector database.
+•Leveraged Langchain and OpenAI's ADA002 model to efficiently split and embed various document formats, including PDF, HTML, and text files.
+•Developed an innovative chunk provenance scheme to be integrated into the metadata of the Vector DB, enhancing data traceability and management.
+•Authored a Context Retrieval Class in Python, utilizing Pinecone to facilitate efficient and accurate data retrieval.
+•Implemented advanced prompt engineering techniques to generate system and user prompts for insertion into large language models (LLMs).
+•Created robust functions for LLM completions that seamlessly incorporate retrieved data, ensuring accurate and contextually relevant responses.
+•Assessed LLM responses using metrics such as BLEU index, perplexity, and diversity to ensure high-quality output.
+•Conducted thorough evaluations of Retrieval-Augmented Generation (RAG) effectiveness by testing relevance and veracity, ensuring the reliability of the generated content.
+•Deployed the complete system through a continuous integration/continuous deployment (CI/CD) pipeline using Jenkins and Docker, facilitating efficient and reliable updates.
+•Built a microservice using Flask and Gunicorn, ensuring scalable and efficient service delivery.
+•Presented findings and results to stakeholders and potential users, effectively communicating complex technical concepts and the value of implemented solutions.
+•Stayed abreast of the latest advancements in AI, continuously integrating cutting-edge techniques and models to enhance system performance and capabilities.
+•Implemented advanced data security protocols to ensure the protection and privacy of sensitive information within AI systems.
+•Conducted extensive scalability and performance optimizations, ensuring the system can handle increased load and deliver consistent, high-quality results.
+•Worked closely with cross-functional teams, including data scientists, engineers, and product managers, to align AI solutions with business goals and user needs.
+•Focused on enhancing the user experience by integrating intuitive interfaces and ensuring the seamless functionality of AI-driven features.
+
+Lead Data Scientist Feb 2020 – Mar 2022
+Anthem Inc., Indianapolis, IN
+
+As the Lead Data Scientist of the Digital Personalization Team, I led efforts to elevate user experiences through cutting-edge technologies, focusing on three pivotal projects. We enhanced search functionality using advanced NLP techniques, fine-tuning BERT and ELMO models, and optimizing processing times with parallel computing and GPU frameworks. In predicting medical costs, we employed Machine Learning and Deep Learning algorithms, refining optimization routines and forecasting metrics. Additionally, we developed a recommender system that tailored service suggestions based on user behavior and clinical history, utilizing data from clicks, logs, and demographics to personalize recommendations.
+
+•Conducted in-depth analysis of data insights and statistics related to Medicare and Medicaid specialties and procedures.
+•Utilized various visualization techniques, including Histograms, Pie Plots, Whisker and Box Plots, and Distribution Curves, for meticulous examination of variable distributions.
+•Implemented tools such as NLTK, Gensim, SpellChecker, Spello, SymSpell, Textblob, Re, and sentence_transformers embedding BERT versions to ensure normalized user searches.
+•Spearheaded the adoption of cutting-edge Generative AI (Gen AI) techniques to synthesize data, augment training sets, and diversify data distributions for enhanced machine learning model robustness.
+•Leveraged state-of-the-art language models like GPT-4 within the LangChain Framework to employ advanced decoding strategies and prompt engineering for generating contextually rich text.
+•Led efforts in AI modeling, exploratory data analysis, and modernization for GPT-4 and GPT-4 Vision, driving innovation and technological advancement within the organization.
+•Orchestrated Azure DevOps pipelines to automate deployment processes, ensuring seamless integration and delivery of software applications to enhance user experiences.
+•Implemented rigorous protocols across Azure resources, including Azure Active Directory and Azure Key Vault, to fortify data security and compliance, safeguarding the confidentiality and integrity of healthcare data.
+•Hosted bots using Azure OpenAI Studio and engineered cloud-centric solutions leveraging Azure's suite, amplifying the resilience and scalability of digital personalization initiatives.
+•Employed Optuna for model fine-tuning and visualized KPI results and processing times using Matplotlib and Seaborn.
+•Refactored code from Notebook to Python Class/Methods, maintained version control using Bitbucket, and documented implementation details on SharePoint for stakeholders.
+•Ensured search engine query accuracy and performance through meticulous QA and UAT testing, supplemented by critical debugging and troubleshooting support.
+•Contributed to a versatile and dynamic technical environment, utilizing object and functional programming languages such as Linux, Python, and C/C++, to drive forward Anthem Inc.'s mission with innovation and excellence.
+Lead Data Scientist
+Centene Corporation in St. Louis, MO Aug 2018 – Jan 2020
+
+As the Lead Data Scientist at Centene Corporation, I spearheaded the initiative to enhance their long-term care business data handling system, which involved a collection of Excel spreadsheets. Our goal was to utilize NLP to analyze text across rows and columns to determine the probability of semantic equivalence. We focused on medical terms and codes to identify instances such as birth deliveries by C-section that may indicate long-term care needs. By implementing an advanced text analysis framework, we generated reports showing the probability that data entries referred to the same concept. This system prioritized cases with mid-range probabilities (around 50%) for human review, while extreme probabilities were deemed lower priority, streamlining the review process and ensuring accuracy in data interpretation.
+
+•Managed a multidisciplinary team consisting of a Data Scientist, a Project Manager, and three NLP Specialists at Centene Corporation, overseeing project planning and facilitating effective team communication.
+•Conducted extensive research at Centene Corporation on topics including Advanced Regular Expression, Data Cleaning/Pre-Processing Frameworks, Code String Similarity Computations, and various clustering methodologies.
+•Evaluated the impact of model optimizations on performance metrics through A/B experiments.
+•Utilized data insights from sources related to Medicare, Medicaid, and Ambetter, employing techniques such as Variables Distribution Analysis using Histograms and Pie Plots.
+•Leveraged LLM for advanced text analysis at Centene Corporation, automating potential matches identification within the company's long-term care business data.
+•Implemented the LLM framework across Excel spreadsheets to determine similarity probabilities between entries, flagging cases for human review based on likelihood thresholds.
+•Conducted drug and procedures code string pre-processing using Regex, performed data imputations for missing data, and calculated sample similarities.
+•Employed Autogen techniques and the Llama Index framework to streamline workflows and quantify linguistic patterns and trends.
+•Provided valuable insights for clustering and feature selection through the application of unsupervised learning techniques such as prototype-based clustering and hierarchical clustering at Centene Corporation.
+•Ensured code efficiency and scalability by refactoring code from Notebook to Python Class/Methods.
+•Prepared mock-ups for Research and Development and documented implementation details on SharePoint for broader stakeholder visibility.
+•Manually debugged anomalies in Python code, applied object and functional programming methods, and utilized technologies such as Pandas, Numpy, Matplotlib, Seaborn, and the Pyclustering library.
+
+Sr. NLP Engineer
+Merck & Co. Inc., Rahway, NJ Dec 2015 - July 2018
+
+As a Senior NLP Engineer at Merck & Co., I led the development of advanced automated pipelines for literature search and biological sequence analysis, significantly advancing our capabilities in this domain. I contributed to creating predictive DNA and protein language models, demonstrating expertise in sequence-based prediction methods. I managed extensive datasets exceeding 10 million text observations, integrated with AWS for model optimization, and leveraged cloud computing for efficient cross-validation. I developed various machine learning models and conducted exploratory data analysis, utilizing tools such as Python, R, and Git for seamless collaboration and effective communication of data insights.
+
+•Extracted and validated data from production SQL databases for seamless third-party integration.
+•Managed extensive datasets exceeding 10 million text observations, employing advanced cleaning techniques.
+•Integrated with AWS for model optimization and hyperparameter tuning.
+•Leveraged cloud computing resources for efficient cross-validation of statistical models.
+•Developed machine learning models including logistic regression, random forests, gradient boosted decision trees, and neural networks using Python libraries (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn).
+•Built and analyzed datasets using Python and R, applying linear regression in Python and SAS for relationship understanding.
+•Conducted exploratory data analysis (EDA) using techniques such as bag of words, K-means, and DBSCAN.
+•Utilized Git for version control on GitHub to foster team collaboration.
+•Explored various embedders (Universal Google Encoder, DocToVec, TFIDF, BERT, ELMO) to identify optimal solutions.
+•Developed predictive models for Key Performance Indicators (KPIs) and created ready-to-use templates based on specifications.
+•Prepared insightful reports and presentations using Tableau, MS Office, and ggplot2 to communicate data trends and analyses.
+•Crafted SQL queries for extracting insights from data warehouse architectures.
+
+Data Scientist
+PwC, Albany, New York Sep 2012 - Nov 2015
+
+During my tenure as a Data Scientist at PwC, I played a pivotal role in leveraging data-driven insights to optimize business strategies. I conducted sentiment analysis on customer feedback to identify key satisfaction drivers and implemented targeted improvements. I developed advanced customer segmentation algorithms, reducing marketing expenditures by 20%, and designed robust data pipelines using SQL, Python, and Hadoop. Additionally, I executed A/B testing experiments, improving campaign ROI by 15%, and collaborated on deploying recommendation systems to enhance personalized customer experiences. My work led to a 25% increase in customer engagement and provided strategic, data-driven recommendations for senior executives.
+
+•Conducted sentiment analysis on customer feedback data, identifying key drivers of satisfaction and implementing targeted improvement initiatives.
+•Developed and deployed advanced customer segmentation algorithms, achieving a 20% reduction in marketing expenditures through optimized budget allocation.
+•Designed and implemented robust data pipelines and databases using SQL, Python, and Hadoop technologies, ensuring data integrity and reliability for analysis.
+•Executed A/B testing experiments to optimize conversion rates, resulting in a 15% improvement in campaign ROI.
+•Collaborated with cross-functional teams to develop and deploy recommendation systems, enhancing personalized customer experiences and increasing upsell opportunities.
+•Led a cross-functional team in designing and executing customer segmentation analysis, leading to targeted marketing campaigns and a 25% increase in customer engagement.
+•Defined project objectives, gathered data requirements, and developed analytical solutions for market research and customer lifetime value analysis.
+•Stayed current with the latest advancements in data science and machine learning technologies to continuously improve analytical capabilities.
+•Applied natural language processing techniques to analyze customer feedback for sentiment analysis and product improvement.
+•Conducted market segmentation analysis to identify distinct customer groups and tailored marketing strategies accordingly.
+•Delivered comprehensive reports and presentations to senior executives, highlighting key findings and providing actionable recommendations based on data analysis.
+•Utilized A/B testing methodologies to assess the impact of marketing campaigns on customer behavior, offering data-driven recommendations for optimizing future initiatives.
+•Collaborated with cross-functional teams to define project objectives, gather data requirements, and develop analytical solutions.
+•Built customer lifetime value estimation models to predict future revenue potential, informing customer acquisition and retention efforts.
+
+Data Analyst
+MU Sigma, Chicago, Illinois April 2008 - Aug 2012
+
+•Transformed database management systems to meet evolving company needs, fostering agility and innovation.
+•Enhanced customer satisfaction by strategically implementing SQL-driven database tools, streamlining service delivery.
+•Utilized advanced SQL queries and MS Excel reporting to deliver actionable business insights, facilitating informed decision-making.
+•Orchestrated end-to-end project schedules, collaborating with stakeholders to ensure successful product releases.
+•Drove continuous improvement initiatives in product development and process optimization, bolstering operational efficiency and standardization.
+•Led a multidisciplinary team in executing comprehensive data cleansing and ETL processes, ensuring data integrity for a new database system.
+•Implemented rigorous quality control measures to maintain data consistency and integrity, conducting thorough audits of generated data samples.
+•Facilitated seamless transitions from legacy systems to new platforms through proactive inter-departmental coordination and regular progress meetings.
+•Oversaw end-user training programs to enable proficient operation of software tools, empowering employees with necessary skills.
+•Ensured uninterrupted service availability by proactively maintaining the company's online Oracle database infrastructure.
+
+EDUCATION
+
+CFA Institute from CFA candidate
+
+MS in Financial Engineering from World Quant University, New Orleans, LA
+
+Master of Finance from Rotman School of Management, University of Toronto
+
+CERTIFICATIONS
+
+Deep Learning Certificate from deeplearning.ai/Coursera
+
+Certificates in Data Science & Quantitative analysis with R & Python from DataCamp
+Contact this candidate

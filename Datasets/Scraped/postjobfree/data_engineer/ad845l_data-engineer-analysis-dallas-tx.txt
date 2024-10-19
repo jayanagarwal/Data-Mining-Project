@@ -1,0 +1,99 @@
+Priyanka Pimpalekar
+Data Engineer
+945-***-**** ad845l@r.postjobfree.com Frisco, TX
+SUMMARY
+5+ years of experience as a Data Engineer in design, development, deploying, and large-scale supporting large-scale distributed systems, consulting in cloud data solutions
+Extensively experienced in developing cloud-based ETL jobs using Python, with a focus on seamless integration as API plugins
+Proficient in developing SSIS packages to model and transform heterogeneous data, following best practices in BI & DWH
+Proficient in cloud platforms like Amazon Web Services, Azure, and Databricks (both on Azure as well as AWS integration of Databricks) for serverless computing, cloud migration, data pipeline end-to-end solutions.
+Good knowledge of exploratory data analysis using NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Seaborn, and TensorFlow.
+Proficient in the development of various reports, and dashboards using various Tableau Visualizations.
+Well-Versed in handling, configuration, and optimization of databases like MySQL, MongoDB, NoSQL, PL/SQL, PostgreSQL. Deep knowledge of relational databases and schemas for data modeling
+Proficiency in using Version Control systems like Git.
+
+SKILLS
+Methodology
+SDLC, Agile, Waterfall, CloudFormation, Terraform
+Programming Language:
+Python, SQL, PySpark, R, Scala
+IDE’s:
+PyCharm, Jupyter Notebook, Databricks Notebook, VS Code
+ML Algorithm:
+Linear Regression, Logistic Regression, Decision Trees, Supervised Learning, Unsupervised Learning, Classification, SVM, Random Forests, Naïve Bayes, KNN, K Means, CNN, Hyperparameter tuning, ANOVA test
+Big Data Ecosystem:
+Hadoop, MapReduce, Hive, Apache Spark, Pig, Flink
+ETL Tools:
+AWS Glue, SSIS, DBT, Databricks, DLT
+Cloud Services:
+Orchestration:
+
+AWS S3, EC2, Glue, Redshift, Lambda, Athena, Azure ADLS Gen2, ADF, BigQuery
+Apache Airflow, AWS Step function, CloudFormation, Google Dataflow
+
+Frameworks:
+Kafka, Airflow, Snowflake, Docker
+Packages:
+NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Seaborn, TensorFlow
+Reporting Tools:
+Tableau, Power BI, SSRS
+Database:
+MongoDB, MySQL, PostgreSQL
+Other Tools:
+Git, MS Office, Atlassian Jira, Confluence, Jenkins, Peoplesoft, ALM, Postman
+Other Skills:
+Data Cleaning, Data Wrangling, Critical Thinking, Communication Skills, Presentation Skills, Problem-Solving, Generative AI, Cross Functional collaboration
+Operating Systems:
+Windows, Linux CloudFormation, Terraform
+
+EDUCATION
+Master in Business Analytics The University of Texas at Dallas Aug 2021- May 2023
+Bachelor in Computer Science Engineering University of Pune, India
+Certifications AWS Cloud Practitioner, Azure Fundamentals
+
+EXPERIENCE
+Metlife, USA Sr. Data Engineer Aug 2023 - Current
+Used the Agile methodology to build different phases of the Software development life cycle with regular code reviews
+Engineered and executed efficient data processing ETL pipeline with AWS services successfully, resulting in a 20% reduction in data ingestion time and 30% improvement in data availability
+Streamlined an OLAP solution for historical data form Data Lake, implementing Kimball methodologies for data modeling
+Wrote AWS Lambda functions in python for AWS's Lambda which invokes python scripts to perform various transformations and analytics on large data sets in EMR clusters
+Generated and maintained a scalable data infrastructure, harnessing cloud-based technologies such as AWS, leading to a decrease in infrastructure costs and a 50% increase in data processing capacity.
+Designed and implemented multi-tier data standardization framework using PySpark and SparkSQL and medallion architecture in Databricks and DLT, resulting in a 15% improvement in overall data quality and 20% lesser data related errors
+Implemented Change Data Capture (CDC) mechanism using triggers and event handlers in AWS Lambda and SNS to enable real-time data synchronization and event-driven processing
+Conducted comprehensive data analysis using SQL, PySpark, MongoDB and RESTful APIs driving data-driven decision making and delivering actionable insights that propelled operational efficiency by 10%.
+Harnessed advanced PowerBI features to connect and blend semi structured sensor data from multiple sources to visualize critical metrics leading to enhanced operational efficiency and boosting revenue growth.
+
+Vanguard Group Data & Analytics Intern May 2022 - Aug 2022
+Uncovered and fixed bug in the notification system, ingested real time AWS SNS into a messaging queue AWS SQS
+Optimized Cloudwatch logs output by streamlining the Python code in AWS Lambda, eliminating redundant functions
+Feature enhancement to improve data pipeline health by 5% - analyzed a sample of 700 system fault logs, implementing preventive measures that reduced service interruptions by 18%
+Trained AWS Textract to detect keywords in input documents and classify various financial document types, potentially increasing prediction accuracy by 25%
+
+Magna Infotech, India Data Consultant Dec 2019 - July 2021
+Managed a 1 PB data lake, ensuring data availability and reliability for business intelligence and reporting purposes.
+Assisted in the design and performance optimization of database using AWS DynamoDB, AWS Redshift resulting in 25% faster response times.
+Led 3 juniors to design and develop ETL jobs using AWS Glue Studio- extracted data from Workday using APIs, transformed the data using Python and Pyspark scripts, and loading the transformed data into S3 buckets for reporting purposes.
+Involved Map Reduce/Spark Python modules for machine learning and predictive analytics in Hadoop on AWS.
+Leveraged HiveQL to process and analyze 2TB of data, enabling 15% more accurate sales/performance trend prediction.
+Implemented HBase for real-time data ingestion and storage of IoT sensor data, enabling instant insights and alerts.
+Devised and developed robust Kafka connectors, seamlessly integrating data from diverse sources into Kafka topics, optimizing data flow by 30%.
+Spearheaded the integration of Apache Flink with Apache Kafka for event streaming, resulting in a 40% reduction in data transfer latency, handling a daily average of 10 TB of streaming data.
+Recommended and implemented the extracting and restructuring of data into MongoDB using the import and export command line utility tool, validated stakeholders requirements
+Orchestrated an automated custom workflow for streamlining the ETL process using Apache Airflow, minimizing manual labor costs by 30%, designed efficient customized data models in DBT after thorough requirement elicitation
+Designed dockerized microservices to facilitate scalable and isolated model deployment, allowing for efficient resource allocation and management, resulting in a 30% improvement in system reliability and performance.
+Developed automated monitoring and alerting solution using AWS Cloudwatch to ensure data pipeline health, including notifications for failed data transfer, with a success rate of 90%
+Optimized AWS EMR cluster configurations to reduce processing time of 100TB dataset and save significant cost.
+Created ETL metadata reports using SSRS, reports include like execution times for the SSIS packages, failure reports with error descriptions.
+
+Groovy Web, India Data Engineer Jan 2018 - Nov 2019
+Worked on Agile project execution methodology, mentored new resources for maximizing team performance
+Involved in the complete Implementation lifecycle, specialized in writing custom MapReduce, and Hive.
+Developed complex queries and designed SSIS packages to extract, transform, and load (ETL) data into data warehouses data marts from heterogeneous sources.
+Queried database in Snowflake data warehouse and utilised SPSS for statistical analysis on panel data
+Implemented dynamic scaling mechanisms in Azure, leading to a 25% decrease in resource utilization during low traffic periods and ensuring optimal resource allocation during peak loads.
+Implemented time-based windowing strategies in Azure Stream Analytics, optimizing the process of streaming data.
+Leveraged Azure NoSQL Database to design and implement high-performing data storage solutions for unstructured and semi-structured data.
+Presented end-to-end data solutions to C-Suite consisting of Azure Synapse, ADLS Gen 2, and Azure ADF, enabling efficient data processing and analysis workflows.
+Developed and optimized ETL processes using ANSI SQL and Azure ADF to integrate and transform data from diverse sources, resulting in a 25% reduction in data processing time and improved data accuracy.
+Creation of compelling Tableau dashboards to visualize KPI’s and validate stakeholder’s requirements.
+Optimized pipeline architecture by rewriting ETL jobs scripts, ensuring deduplication and normalization.
+Contact this candidate

@@ -1,0 +1,163 @@
+SUMMARY
+
+●Having *+ years of experience in all parts of Software Development Life Cycle(SDLC) including requirement analysis, design specification, code development, code integration, testing and deployment of client-server applications using Object Oriented Analysis Design(OOAD) and methodologies.
+●Experience in working environments using Waterfall, Agile(SRUM) and Test Driven development(TDD) methodologies.
+●Expertise in Design, Development of applications using middleware/back-end technologies like Java/J2EE technologies using Core Java, Servlets, JDBC, Spring modules, implementation of Model-View-Controller(MVC) using Spring, Spring Boot, Struts frameworks and ORM tools like Hibernate etc.
+●Experience in AWS platform and its features including CloudWatch, AutoScaling, CloudFront, EC2, S3, Amazon DynamoDB, Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, Lambda, API GATEWAY.
+●Implemented a ‘serverless’ architecture using API Gateway, Lambda, and DynamoDB and deployed AWS Lambda code from Amazon S3 buckets. Created a Lambda Deployment function and configured it to receive events from S3 bucket.
+●3 years of experience in Big Data and Data warehousing(ELT/ETL) technologies includes requirements gathering, data analysis and documentation.
+●Extensive experience in Extraction, Transformation- Loading (ETL and ELT) data from various sources into Data warehouse and Data marts with industry best practices.
+●Extensive experience in developing Microservices using Spring Boot, Spring Cloud using Netflix OSS and following domain driven design.
+●Experience in using build/deploy tools such as Jenkins, Docker for Continuous Integration/Continuous Deployment for Microservices.
+●Proficient and well versed with new features but not limited to Java multiple exception handling, Lambda expressions and annotations.
+●Good knowledge on client-side JavaScript framework ReactJS and Angular 2.x/6.x/8.x/13.x with NGRX to achieve MVVM design flow.
+●Experienced in ReactJS and AngularJS for unique and customized front end app development and to achieve MVC design flow.
+●Good amount of hands-on experience in developing server -side JavaScript frameworks using Node JS (Express JS) to build event driven, non-blocking i/o model web applications.
+●Professional skills in authentication and authorization with Spring Security in the mode of LDAP, OAuth 2, JWT(JSON Web Token).
+●Have good knowledge on different databases like PostgreSQL, MySQL, Oracle, Kubernetes, Microsoft SQL Server, NoSQL DB (Raven DB, MongoDB and Cassandra, Couch DB, Redis, DynamoDB) and good experience in writing stored procedures, functions and triggers using PL/SQL in JDBC, ODBC and in WebLogic server.
+●Experience in building web applications using Spring framework features like MVC, AOP(Aspect Oriented Programming), IOC(Inversion of Control), DAO(Data Access Object).
+●Experience in using Web Services such as SOAP(JAX-WS) and REST(JAX-RS) and implemented using Spring technologies. Strong experience with Version Control like Git.
+
+TECHNICAL SKILLS
+
+Programming Languages : Java (1.5/1.6/1.7/1.8,11), PL/SQL, Python, JavaScript
+Software Methodologies: Agile, Kanban, Scrum, TDD, SDLC Waterfall
+J2EETechnologies& frameworks: JSP (2.x), JSTL, Servlets (3.1,3.0), JDBC, EJB (3.x), Java Beans XSD, JAX-RS, JAX-WS, SOAP, WSDL, Axis, Apache CXF
+Web Technologies: HTML, DHTML, JavaScript, AJAX, Bootstrap, jQuery, OAUTH2.0, XML, XSLT, XSL, CSS, JSON, Chase Standards, Node JS, EXTJS, ReactJS, AngularJS, Angular 2/4/6/8/13.
+Web service Frameworks: Spring (4.x/3.x), Hibernate (5.x,4.x,3.x), Struts (2.5/2.3), Spring MVC, Spring IOC, Spring Boot, Spring AOP, Spring Web Flow, JSF, Log4J, Junit
+Web Services: SOAP, RESTful, Oracle SOA, UDDI, WSDL
+Design Patterns: Singleton, Business Delegate, Data Transfer Object, Façade, Data Access Object, MVC, Filter
+IDEs: Eclipse (4.x/3.x (Neon, Oxygen, Kepler, Luna, Indigo, Juno), Net Beans, IntelliJ, Spring Tool Suite, RAD 9.0, JBPM 6
+Application/Web Servers: Web Logic Server 12c, Web Sphere Application Server 8.5, Apache Tomcat (8.5/8.0), Apache HTTP Server, IBM HTTP Server (8.5), JBoss
+Databases: Oracle(9i/10g/11g/12c), SQL Server (14.0), PostgreSQL, MongoDB, Cassandra, Redis, Shell scripting, SQL
+Build Scripts: Maven, Ant and Jenkins
+Testing Tools: JUnit, Log4J, Mock Framework, SoapUI, Putty, Mockito, Apache Camel
+Version Control Tools: GIT, SVN, Clear Case, Bitbucket, Gitlab
+Operating Systems: Windows, Unix, Linux, Mac OS
+Cloud Technologies, DevOps Tools & Other: AWS, EC2, Pivotal Cloud Foundry (PCF), Docker, JIRA, Kubernetes(Proficient)
+OR Mapping: Hibernate, JPA
+Big Data Technologies: Hadoop(Basics), Apache Kafka(Proficient)
+ELT/ETL: TerraData/ Multiload/ fast Load
+
+PROFESSIONAL EXPERIENCE
+
+Client: Vanguard, Valley Forge, PA. Sep 2022 – Present
+Java Full Stack Developer
+Responsibilities:
+●Involved in all the phases of SDLC including Requirements Collection, Design & Analysis of Customer Specifications, Development and Customization of the Core web application.
+●Used Java 8 concepts like lambda expressions and streams while loop iterations and functional interfaces with default method implementations- Spring, Microservices.
+●Developed the backend server with Spring Boot, involving different layers of the application including entity/model, DAO/repository, controller, Service, Business, and Persistence.
+●Developed application on Spring framework by utilising its features like Spring Dependency Injection, Spring Security, Spring Web flow with Spring MVC.
+●REST architecture-based web services to facilitate communication between client and servers and used Swagger to test the web service responses.
+●Produced and consumed centralised Spring Restful Web Services for Enterprise and web applications to consume in JSON format and in trusted client-server environments.
+●Implemented Hibernate named queries concept to retrieve data from the database and integrate with Spring MVC to interact with back-end persistence systems.
+●Experience in creating request response POJOs for JSON response through Data Transfer Object Layer.
+●Written code using Test Driven Development of writing Test cases first and then login to satisfy the test case requirements.
+●Developed JPA layer using Spring JPA connect with two different databases of SQL Server. Developed Native SQL queries when complex associations are formed to query.
+●Worked with AWS services like EC2 and elastic bean stack to create new environments as needed.
+●Developed code using AWS SDK to interact with S3 service to store and retrieve documents. Angular & React Development.
+●Used Angular Http clients to make AJAX calls and load the data into UI components like tables, grids and models.
+●Worked on Express framework in Node.js to develop the logic code to get the data from the MongoDB database and to bind the response data to the HTML5 using Angular 8.
+●Developed Single Page Application(SPA) with two-way data binding using Angular 8 and developed nested views with the help of Angular Router.
+●Involved JWT token and Guards to prevent unauthenticated users from accessing restricted routes and to realize user authentication.
+Environment: Java 8/11, J2EE, HTML5, CSS3, Bootstrap, JQuery, AngularJS/8, Spring IOC, Spring AOP, Spring MVC, Spring Security, Hibernate, Cloud/AWS, OAUTH 2.0, JDBC, REST(JAX-RS), CI/CD, WSDL, Microservices, MongoDB, PL/SQL, Unit Testing, JUnit, Log4j, Maven, Gitlab, Multi-Threading, Collections, Tomcat Server, Jenkins and Spring Tool Suite (STS), No-SQL, Agile Methodology, Node.js, JWT, AWS(EC2, S3, Elastic bean stack)
+
+Client: Northern Trust Corporation-Chicago, IL Feb 2021 – Aug 2022
+Java Full Stack Developer
+Responsibilities:
+●Designed and Developed UI for Customer Service Modules and Reports using Angular7, HTML5, CSS3, Bootstrap, JavaScript, Kubernetes, jQuery, AJAX, JSP, Servlets, API’s.
+●Worked on creating AWS EC2 instances, AWS RDS for inbuilt feature to restore backups/snapshots, AWS S3 to store documents and CloudWatch to monitor the application performance.
+●Implemented helper classes that access HBase directly from java using java API to perform CRUD operations.
+●Implemented Partitioning, Dynamic Partitions and Buckets in HIVE. Developed ETL mappings to Extract Data from OLTP Systems/Files applying Technical and Business Transformations, loading data into Oracle Data Marts and Enterprise Data warehouse Systems.
+●Implemented data integration solutions with traditional ELT/ETL tools and Big Data technologies.
+●Worked with Angular CLI and Typescript in Angular 4 to create Controllers and components for the Web Pages.
+●Have worked with reactive forms, template driven forms and written pipes in Angular 4 to transform the data according to the client's requirement and need and met the desired requirements.
+●Created services with Angular 4 injectable property, to make the service available for dependency injection when creating components and modules according to client’s requirement.
+●Designing and Developing the Web Portal Application, web services, JBPM workflows, Back end Queuing implementations (MQ) using the technologies Spring MVC, JQuery, JSON, Spring ORM, Hibernate, CXF JAX-WS JAXB and Active MQ using Scrum based Agile methodologies.
+●Involved in developing code for obtaining bean references in Spring framework using Dependency Injection (DI) or Inversion of Control (IOC) using annotations.
+●Built web applications using Spring Framework features like MVC (Model View Controller), AOP (Aspect Oriented Programming), IOC (Inversion Of Control), DAO (Data Access Object) and template classes.
+●Implemented microservices based architecture using Spring Boot interacting through REST API.
+●Implemented the various layers of the application using Spring Framework modules such as Spring IOC, Spring AOP, Spring MVC and Spring ORM, Spring JPA, Spring boot.
+●Worked with OAUTH 2.0 to provide authentication and authorization to Rest services by exchanging Access tokens.
+●Implemented Spring ORM with Hibernate taking advantage of Java features like annotation metadata, auto wiring, and generic collections using JPA specification that is used to implement the DAO layer with Hibernate Entitymanager SessionFactory, HQL, and SQL.
+●Worked on NoSQL databases like MongoDB to store key values, for data analytics which is used as a Database.
+●Developed stored procedures and triggers using PL/SQL to calculate and update the tables to implement business logic using Oracle database.
+●Involved in using GitLab for project management and version management.
+●Expertise in using JIRA to track issues and communicate with other teams in various environments.
+●Used Jenkins for CI/CD Continuous Implementation and Continuous Delivery.
+●Worked on AWS CloudFront, S3 and Lambda Web Services to integrate the server side and client-side code.
+●Used Maven as a build tool and retrieved all the dependencies required for the application.
+●Experienced with Hadoop, Kafka, Spark, Terraform, Ansible, and Docker. Built end to end CI/CD Pipelines in Jenkins to retrieve code, compile applications, perform tests and push build artifacts to Nexus.
+
+Environment Java, J2EE, HTML5, CSS3, Bootstrap, JQuery, AngularJS, Spring IOC, Spring AOP, Spring MVC, Spring Security, Hibernate, Cloud/AWS, Kubernetes, OAUTH2.0, JDBC, REST, SOAP, CI CD, JAX-RS, JAX-WS, WSDL, Microservices, MongoDB, PL/SQL, Unit Testing, JUnit, Log4j, Maven, Gitlab, Multi-Threading, Collections, Web Logic Application Server, Jenkins and Spring Tool Suite (STS), Hazel cast for distributed cache, No-SQL, Agile Methodology, JBPM, Apache kafka.
+
+JPMorgan Chase & Co- Jersey City, NJ Jun 2019 – Jan 2021
+Full Stack Developer
+Responsibilities:
+●Involved in SDLC Requirements gathering, Analysis, Design, Development and testing of application using AGILE methodology (SCRUM) and Design Driven Development.
+●Developed Web services to allow communication between applications through REST over HTTP using Metro.
+●Used IntelliJ, Eclipse for designing, coding and developing applications
+●Design and implementation of web applications in Java and HTML5/JavaScript using Eclipse, Swing, JPA frameworks and GIT maven source code environments.
+●Designed and implemented applications using JSP, Spring MVC, JNDI, Spring IOC.
+●Configured Maven dependencies for application building processes
+●Used ReactJS to create the foundation for rich and complex web applications.
+●Implemented unit test cases in JUnit framework.
+●Implemented Spring Validators, persistence layer, and service layer components using Spring/Hibernate API and Spring/Hibernate annotations. Extensively used Hibernate QL.
+●Designed RESTful web services with JSON representation for handling AJAX requests Used Advanced Rest Client plug-in to run the rest APIs on localhost Tomcat Server for Unit testing
+●Implemented PL/SQL queries and used oracle stored procedures.
+●New library development with micro services architecture using Rest APIs, spring boot and pivotal cloud foundry.
+●All the functionality is implemented using Spring IO / Spring Boot, Thyme leaf and Hibernate ORM. Implemented Java EE components using Spring MVC, Spring IOC, Spring transactions and Spring security modules
+●New library development with micro services architecture using Rest APIs, spring boot and pivotal cloud foundry.
+●Migrating existing applications into micro services architecture using Rest APIs, spring boot.
+●Wrote Operations and corresponding handlers to communicate with Oracle 12c database sitting on Linux server
+●Involved in upgrading production Linux and Solaris, development QA servers.
+●Expertise in Maven for build, Jenkins continuous integration.
+●Used Log4j to capture the log that includes runtime exception and for logging info and are helpful in debugging.
+●Involved in multiple high priority releases with aggressive deadlines.
+Environment: J2EE, JMS, Spring MVC, IAM, Hibernate, Rest Web services, WebLogic 12.c server, Spring Boot, Angular 4, Agile, SCRUM Methodology, OAUTH 2, JMeter, HTML5, CSS3, JavaScript, jQuery, AJAX, JSP, Servlet, XML, UML, Unix Shell Scripting, Oracle 10g, Log4j.
+
+Client: TriGeo Technologies-INDIA Dec 2016– Feb 2019
+Java Developer
+Responsibilities:
+●Involved in creating pages from mockups using JavaScript, Angular JS, jQuery, CSS3, and HTML5.
+●Worked with Bootstrap Twitter Framework and AngularJS to Design single page applications.
+●Implemented modularization for the entire application by using MVC.
+●Created Directives, Controllers and Services by using AngularJS.
+●Built dynamically generated dropdown lists using Ajax, jQuery UI and AngularJS.
+●Involved in writing application-level code to interact with APIs, Web Services using AJAX, JSON and XML.
+●Designed business applications using web technologies like HTML5, XHTML 2.0, CSS based on the W3C standards.
+●Developed generalized service class by using AngularJS
+●Deep understanding of JavaScript and the jQuery Framework.
+●Experience on working with CSS Background, CSS Layouts, CSS Positioning, CSS Text, CSS Border, CSS Margin, CSS Padding, CSS Table, Pseudo Classes, Pseudo Elements and CSS Behaviours in CSS.
+●Ability to rapidly prototype interface designs in hand-coded validating, standards-compliant, and semantically rich code and be aware of cross-browser compatibility and bugs.
+●Thorough understanding of the differences and bugs in different browsers and versions.
+●Understanding of application development lifecycle methodologies.
+●Worked on implementation of modules with integration with service desk and clarity for ticket management and portfolio integration of services.
+●Strong communication, analytical and interpersonal skills working within cross-functional teams
+●Excellent problem-solving skills and the ability to work independently.
+●Extensive experience in implementing model-view-controller (MVC) architecture using Angular Framework.
+●Created and optimized graphic prototype websites and applications interfaces using HTML5 and CSS3.
+●Implemented and designed user interface for web-based customer application.
+●Developed data formatted web applications and deployed the script using client-side scripting using JavaScript.
+●Worked on Cross-Browser compatibility and fixed the bugs for several browsers.
+●Extensively used CSS3 (Cascading Style Sheets) along with RWD to apply different styles to the layouts for varying screen sizes and pixels
+●Created cross-browser compatible and standards-compliant CSS-based page layouts.
+●Produced content pages with CSS3 layout and style markup presentations and also used JavaScript methods and properties.
+Environment: HTML, CSS, JavaScript, jQuery, Angular JS, AJAX, Bootstrap, MVC Architecture, JSON, XML.
+
+Client: IS Solutions-INDIA Mar 2014 – Nov 2016
+Java Developer
+Responsibilities:
+●Involved in Java Multithreading to cascade multiple changes on multiple records in only one transaction and developed a batch process framework.
+●Involved in creating and Deployment of REST API and Microservices in Java J2EEE using Spring Boot.
+●Integrated Spring DAO for data access using Hibernate, used HQL and SQL for querying databases.
+●Developed User Interface having animations and effects using JSF, JavaScript and HTML.
+●Developed Core Java classes and methods for handling data from databases.
+●Developed the presentation layer using JSP, HTML and client-side validations using JavaScript.
+●Apache Camel is used for routing.
+●Used Hibernate to store the persistence data into the Oracle database and wrote HQL to access the data from the database.
+●Involved in coding, code reviews, Junit testing, Prepared and executed Unit Test Cases.
+●Used Log4j for External Configuration Files and debugging.
+●Designed various tables required for the project in Oracle 11g database and used the Stored Procedures in the application.
+Environment: J2EE, JSP, Java, spring, Servlets, JMS, Hibernate, MVC, DAO, Eclipse, HTML, DHTML, CSS, AJAX, XML, Junit, EJB, JBoss, Multi-Threading, WebLogic, SOAP, GIT, SQL, Oracle, and Windows.
+Contact this candidate

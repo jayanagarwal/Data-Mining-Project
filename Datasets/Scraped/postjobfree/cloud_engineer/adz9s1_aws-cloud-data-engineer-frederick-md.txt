@@ -1,0 +1,83 @@
+Sarath Chitraju
+
++1-240-***-****
+adz9s1@r.postjobfree.com
+Frederick, MD
+
+Oriented Data Engineer with 7 years of experience in designing, developing, and maintaining scalable data solutions. Proficient in AWS Cloud, data modeling, ETL processes, and data warehousing techniques. Strong programming skills in Python and SQL, with expertise in data manipulation, transformation, and optimization. Demonstrated ability to collaborate effectively with cross-functional teams and deliver high-quality data solutions that meet business requirements.
+TECHNICAL SKILLS
+
+Programming : Python, SQL
+AWS Cloud : EC2, S3, EMR, ECS, Kinesis, Glue, Lambda, Athena, Step functions, RDS,
+CloudWatch, DMS, SNS, SQS.
+GCP Cloud : DataProc, BigQuery, GCS, Pub/Sub, Dataflow.
+Tools : Databricks, Jenkins, Octopus, TeamCity, JIRA, Git, Jupyter, Docker, Power BI
+Databases : MySQL, PostgreSQL, MongoDB, SQL server, Teradata, DynamoDB
+Big Data : PySpark, Hadoop, HDFS, Hive, Oozie, MapReduce, Kafka, snowflake, Airflow
+Operating Systems : Windows, Linux, and Unix.
+PROFESSIONAL EXPERIENCE
+Data Engineer Paylocity Schaumburg, IL Aug 2022 – Present
+Built serverless ETL pipelines using AWS Lambda and Step Functions.
+Creating and managing Databricks workspaces to run Spark-based applications in a collaborative environment. Also, using Databricks notebooks to write and execute Spark code.
+Developed Airflow DAGs in python by importing the Airflow libraries.
+Developed alerts and warnings with different metrics for EMR, RDS, and S3.
+Developed and deployed data pipelines on Databricks to extract, transform, and load data from a variety of sources.
+Developed AWS CloudWatch Dashboards for monitoring API Performance.
+Integrated PagerDuty with Airflow DAG failure detection to promptly receive alerts and notifications, utilizing SQS and SNS services for efficient message delivery.
+Developed ETL scripts using Python and PySpark within AWS Glue serverless environment to perform complex data transformations and aggregations.
+Extracted and generated data into CSV files and stored them into AWS S3 by using AWS EC2 and then structured and stored in AWS Redshift.
+Worked on isolated and reproducible testing environments using Docker containers, ensuring consistent testing conditions across different stages of the software development lifecycle.
+For quicker performance, appraised the SQL scripts and built them with Spark SQL.
+Experienced in managing infrastructure configuration using Pulumi (IAC), resulting in improved efficiency and consistency in the development lifecycle.
+Implemented real-time streaming of AWS CloudWatch Logs to Splunk using Kinesis Firehose.
+Ingestion/replication from traditional on-prem RDBMS (MS SQL Server, IBM DB2, Postgres) to AWS.
+Optimized and tuned ETL processes and SQL queries for better performance.
+Participated in the migration of objects from Redshift to Snowflake and scheduled various Snowflake jobs using Airflow.
+Proficient in utilizing version control systems such as Git, with expertise in managing code repositories on platforms like Bitbucket and GitHub.
+Skilled in writing complex SQL queries, including joins, subqueries, and aggregations, to extract, manipulate, and analyze data stored in PostgreSQL databases.
+Strong experience in migrating other databases to Snowflake.
+We have formally decommissioned the Qlik platform and seamlessly migrated our operations to the Data Migration Service (DMS).
+Worked on CI/CD tools like TeamCity and Octopus to deploy into other environments.
+Wrote Spark transformations and automated them to write the data to S3 and RDS using Python.
+
+Data Engineer Virtuesoft Hyderabad, India Apr 2018 – June 2021
+Built complex SQL queries and stored procedures for data analysis and extraction.
+Created Sqoop scripts to import/export user profile data from RDBMS to data lake.
+Critiqued Apache Airflow DAG (Directed Acylic Graph) to dispatch the tasks and workflow for processing the data in S3 Buckets.
+Strong experience working with various file formats like Parquet, Orc, Json, Csv etc.,
+Worked with Apache Nifi to ingest the data into HDFS from variety of sources.
+Designed and implemented a highly scalable and fault-tolerant data processing pipeline using Spark and Amazon ECS, resulting in a 30% reduction in data processing time and enabling the organization to handle a 50% increase in data volume.
+Developed complex ETL SSIS jobs from various sources as SQL server, PostgreSQL and loaded into target databases.
+Experienced in writing T-SQL queries, subqueries and joins for generating Stored Procedures.
+Generated Power BI reports for sales, finance, marketing teams to support respective predictive analysis.
+Involved in performance tuning and optimization of long running spark jobs and queries (Hive/SQL).
+Migrated NoSQL Database to Amazon DynamoDB which helped to handle more than 2.5x spikes in transaction volume without extensive pre-planning or downtime and maintain near - 100% uptime.
+Optimized ETL processes to reduce processing times and improve scalability using techniques like parallel processing, distributed computing, and caching.
+Automate provisioning and repetitive tasks using Terraform and Python.
+Involved in loading data from UNIX file system to HDFS using Shell Scripting.
+Transform data using Python pandas, develop and share descriptive analysis in Jupyter notebooks to business.
+Utilized Glue meta store service in AWS for storing all the Hive metadata.
+Utilized Python to perform data analysis, build predictive models, and develop automated reports.
+Data Engineer Tech Mahindra Hyderabad, India Feb 2015 – Mar 2018
+Designed, developed, and deployed data pipelines on GCP, integrating diverse data sources using Kafka for real-time ingestion, Spark for processing, GCS for storage, and BigQuery for analytics.
+Developed real-time data processing systems using GCP technologies like Cloud Pub/Sub and Dataflow, enabling the capture, transformation, and analysis of streaming data for immediate insights.
+Experience in building and architecting multiple Data pipelines, end-to-end ETL, and ELT processes for Data ingestion into the hive on GCS and loading the target tables into BigQuery using the Automic tool.
+Implemented automated data quality checks and monitoring solutions using GCP Stackdriver, ensuring data integrity and pipeline reliability by proactively identifying and addressing issues.
+Created ETL/Talend jobs both design and code to process data to target databases.
+Created Fact and Dimension tables for staging Database following the Kimball Methodologies.
+Orchestrated and scheduled ETL workflows using Oozie, ensuring seamless execution of Spark jobs for data transformation, cleansing, and loading into Big Query daily.
+Utilized cloud SQL as external hive Metastore for Dataproc clusters so that metadata is persisted across multiple Dataproc clusters.
+CERTIFICATIONS
+AWS Certified Developer - Associate Aug 2023 – Aug 2026
+ACADEMIC PROJECT
+Car Rental System
+Developed a web application for a car rental system using Python, JavaScript, HTML, CSS, MongoDB. Developed and designed entire frontend and backend.
+Design and Implementation of an Automated ETL Process for Sales Data Integration
+Created an automated ETL process to extract, transform, and load sales data from multiple sources into a centralized data warehouse. Leveraged Talend for data integration, Apache Spark for data transformation, and Amazon Redshift for data warehousing.
+EDUCATION
+University of Central Missouri, Warrensburg, MO Aug 2021 – Dec 2022
+Masters in computer information systems & Information Technology
+
+B V Raju Institute of Technology, Hyderabad July 2008 – May2012
+Bachelor of Technology in Electronics and Communication
+Contact this candidate

@@ -1,0 +1,218 @@
+Professional Summary
+
+*+ years of IT experience in MS SQL Server development, SSIS development and Database Modelling. Involved in Analysis, Design, Development, Testing and Implementation of variety of software applications which includes web based Intranet, Desktop and client/server and data warehouse applications.
+MCSE Microsoft Certified Solutions Expert SQL Server 2012 (Data platform).
+Passionate about delivering outstanding results through creative combination of Business-Strategy and Technology.
+Expertise in MS SQL Server Installation, Configuration, Migration and Maintenance.
+Experienced in working with SQL Query Analyzer, SSMS, BIDS, scheduling jobs with SQL Server Agent and SQL Profiler.
+Proficient experience in developing SQL Stored procedures, Functions, Triggers and Views.
+Proficient in performance tuning using Query Optimization and Execution plans.
+Experience working with USQL (Unified SQL), new Microsoft programming language to deal with bigdata that resides in Microsoft cloud Azure.
+Experience working with Microsoft cloud’s bigdata Cosmos, ADL (Azure Data Lake) and ADS (Azure Data Storage).
+Experience working with business intelligence tools SSIS, SSRS and SSAS.
+Strong experience in developing and debugging SQL Server SSIS packages.
+Profound knowledge in developing SSRS reports and SSAS analysis services.
+Well versed with SSRS components Report Manager, Report Designer and Report Builder.
+Have experience in developing and designing various SSRS reports Linked, Ad-hoc, Parameterized, snapshot, Drillthrough, Drilldown and Subreports.
+Have knowledge in creating SSAS data source views, dimensions, cubes and deploying of analysis services projects.
+Strong knowledge and experience in upgrading SQL Server databases from one version to another version.
+Experience in working with log shipping, replication and mirroring concepts and profound knowledge on high availability feature Always ON.
+Have good experience in creating data models in Sybase Power Designer.
+Have good knowledge with other Data Modelling tools ERWin and ER/Studio.
+Proficiency in developing windows command batch (cmd) scripts.
+Experienced in administrative tasks like Backup/Restore, migration of databases.
+Experience in Data Extraction, Transforming and Loading (ETL) between Homogenous and Heterogeneous systems using SQL tools (SSIS, DTS, Bulk Insert, BCP and XML).
+Expertise in creating Jobs, Alerts, SQL Mail Agent, and scheduling SSIS Packages.
+Experience in monitoring and troubleshooting SQL server.
+Good knowledge in creating and maintaining documentation and standards.
+Have profound experience in Functional and DB Testing.
+Hands on experience with tools Microsoft Visio, TFS, Jira, TortoiseHG and Octopus.
+Good Communication and Leadership, analytical thinking and problem solving skills.
+Possess excellent interpersonal, communication and organizational skills with proven abilities in team management, customer relationship management and planning.
+
+Achievements:
+
+MCSE Microsoft Certified Solutions Expert SQL Server 2012 (Data platform).
+Accenture Stellar Award for the performance excellence in the year 2014.
+
+Skills & Courses
+
+Programming Languages:
+MS SQL Server, SQL, TSQL, USQL, Core Java, C#, C++, C
+Middleware Technologies:
+IBM WebSphere Application Server, Apache Tomcat Server, IIS Server
+Tools:
+SSMS, BIDS, Jira, Octopus, Tortoise HG, Biml, Microsoft Visio, MS Office, Power Designer, ER/Studio, ERWin, SQL Profiler, TFS.
+Operating Systems:
+Windows, Unix and Linux
+Others:
+TSM (Tivoli Storage Management)
+
+Professional Experience:
+AppsIntegration Inc. (Feb 2016 – Present) (Dec 2012 – July 2015)
+
+Project : Velocity
+Client: : AppsIntegration Inc.
+Role : MSBI & SQL Server Developer
+
+Project & Role Description:
+Velocity is a one stop shop for multiple datasources like SAP, Cosmos, Azure, SQL databases. The application gets data from different sources and maintained in a single Velocity database. This velocity database is used by different subscribers for their data reports using web services. Informatica is used as the ETL tool for transforming data from different sources and loading into the Velocity databases.
+
+Responsibilities:
+Responsible for migration of existing system to AzureSQL and replacing Informatica with Microsoft SSIS packages.
+Responsible for the smooth flow of data from different data sources to velocity databases.
+Creating SSIS packages and updating the existing ones for resolving the issues and adding the new functionality upon the requirement.
+Handling replication configured on the system effectively and to make sure it run smoothly without any issues.
+Developing necessary windows command batch scripts for deployment of the automated builds for both issues and requirements.
+Handling different environmental issues that come up in different environments DEV, TEST, UAT.
+
+Environment: MS SQL Server 2005/2008/2008 R2/2012,2014, Windows 7/XP/2008
+
+Infosys Ltd. (July 2015 – Jan 2016) (Dec 2012 – July 2015)
+
+Project : UCM
+Client : Microsoft
+Role : MSBI, SQL & USQL Developer
+
+Project & Role Description:
+UCM is about handling Microsoft search engine Bing's data. The search data (both structured and unstructured) comes in different formats from different devices and gets stored in the ADL (Azure Data Lake). ADL is the platform to handle bigdata in Microsoft similar to Hadoop. USQL (Unified SQL) is the Microsoft’s new programming language used to deal with the data that lies in the ADL cloud. All the data first gets staged (loaded) into ADL and gets cleansed and necessary transformations are carried out and business rules gets applied to the data. This data is then used to generate reports by various reporting methodologies like Excel, SSRS, mails, PDF's etc.
+
+Responsibilities:
+Participated in migrating the existing traditional SQL application into Microsoft cloud ADL.
+Participated in research and analysis of the new programming language USQL for handling data within the cloud.
+Created USQL scripts from the existing SQL scripts as a part of the project to handle the data that lies inside the Microsoft cloud Azure.
+Created Azure Data Storage accounts within the ADF (Azure Data Factory) for storing the bigdata inside the cloud.
+Participated in design and implementation of the existing application into the Microsoft ADL cloud.
+
+Environment: MS SQL Server 2008 R2/2012/2014, USQL, Windows 7/XP/2008
+
+Accenture Services Pvt. Ltd. (Dec 2012 – July 2015) (Dec 2012 – July 2015)
+
+Project : PASE
+Client : Microsoft
+Role : MSBI & SQL Server Developer
+
+Project & Role Description:
+PASE is a Product Activation Sustaining Engineering project. The main aim of this project is to handle new Requirements or Bugs for the existing Microsoft products such as POEDS, CWS, RDSLM, PAINTEL, BLOCKPID, CHSRV etc. All these applications are related to activation and validation of different Microsoft products. My role is to make sure that these applications are up and running smoothly without any issues.
+
+Responsibilities:
+Scoping, Gap Analysis & Development design.
+Designing and developing necessary SQL scripts to resolve existing issues and new issues and adding new functionality across different applications.
+Creating SSIS packages and updating the existing ones for resolving the issues and adding the new functionality upon the requirement.
+Handling mirroring and replications configured on the various systems effectively and to make sure they run smoothly without any issues.
+Developing necessary windows command batch scripts for deployment of the automated builds for both issues and requirements.
+Handling different environmental issues that come up in different environments DEV, TEST, UAT and PROD.
+
+Environment: MS SQL Server 2005/2008/2008 R2/2012, Windows 7/XP/2008
+
+Project : UPL Technical Upgrade
+Client : Microsoft
+Role : MSBI & SQL Server Developer
+
+Project & Role Description:
+UPLD is a Universal Price List Distribution system. UPLD, more popularly known as UPL, is a reporting tool that provides Microsoft customers such as Licensing Account Replicators, Distributors, Retailers, etc. with access to published price lists via a single web portal worldwide. This project deals with upgrade of different technologies where SQL database is upgraded from 2005 to 2008R2.
+
+Responsibilities:
+Designed and Developed necessary scripts to modify the SQL code as per SQL server version 2008 R2 to handle the deprecated and discontinued features of 2005.
+Developed SQL scripts which dynamically gets all the server level logins, roles and schema from one server and then creates them on another server.
+Developed SQL scripts that migrates database level securable(s) from one database to another database.
+Handled replication feature configured on the system effectively and made sure that project went live smoothly without any issues in all the environments.
+Written necessary windows command batch scripts for deployment of the automated builds.
+Handled and resolved different environmental issues raised in different environments DEV, TEST, UAT and PROD.
+Preparation of Test Cases and documentation.
+Data Migration & Validation.
+
+Environment: MS SQL Server 2005/2008/2008 R2, Windows 7/XP/2008
+
+QSource Global consulting Pvt. Ltd. (July 2011 – Dec 2012)
+
+Project : Referral Tracking System
+Vendor : Accenture Services Pvt. Ltd
+Client : Microsoft
+Role : MSBI & SQL Server Developer
+
+Project & Role Description:
+Referral Tracking System (RTS) program is a part of the greater Digital Distribution IT Platform for Microsoft. The business purpose of Digital Distribution is to enhance customer satisfaction and to create additional revenue to Microsoft by giving the customers more flexibility in how they purchase and/or upgrade Microsoft products. Using Product Activation (PA) data, RTS calculates reward payments for program participants actively enrolled in referral programs. Referral program participants are eligible to earn rewards for two customer scenarios:
+Conversion of trial software license to a perpetual license
+Upgrade of existing software license to a higher version
+
+Responsibilities:
+Requirements Gathering and Gap Analysis to integrate.
+Developed SSRS reports Drilldown, Drillthrough, Subreports, Ad-hoc and linked reports.
+Developed required SQL scripts for generating the various SSRS reports.
+Maintaining of SQL jobs and resolved database related issues.
+Developed SQL scripts to resolve bugs and to handle the new requirements.
+Deploying build using Octopus in DB server whenever there is a release.
+Preparation of Test Cases and documentation.
+Data Migration & Validation.
+
+Environment: MS SQL Server 2005/2008/2008 R2, Windows 7/XP/2008
+
+Cura Technologies Ltd. (Jun 2008 – July 2011)
+
+Project : Internal Audit & Cura Workflow
+Client : Cura Technologies
+Role : MS SQL Server Developer
+
+Project & Role Description:
+Cura Technologies Ltd. is established in South Africa in 2002 and lately acquired by an Indian Group of Companies ICSA in 2008. Headquartered now in Hyderabad, Cura provides smarter software solutions designed to enable businesses around the world to quickly achieve the bottom line benefits of GRC – Governance, Enterprise wide Risk Management, and Compliance linked to performance management. Cura does this through fast implementation, easier configurability, & true enterprise architecture. CURA has Cura Assessor, Cura IA, Cura Surveys, Cura Forms, Cura Quants, RBN, Cura workflow & Cura Dashboards in its tool kit.
+
+Responsibilities:
+Developed Views for Internal Audit Permissions Redesign.
+Key resource for Cura Workflow design and development.
+Developed SQL Triggers, Stored Procedures, User Defined Functions and Views.
+Resolved issues on existing code for various modules and adding new functionality upon the requirement.
+Developed scripts for handling Database Upgrade issues for Cura’s customized product release versions.
+Participated in the design of Entity Management Refactoring and Adhoc Tasking projects and developed scripts for the same
+Worked on Workflow optimization to reduce the query execution time for better performance.
+Created DFD's (Data Flow Diagrams) and SFD's (Sequential Flow Diagrams) for various modules using Microsoft Visio.
+Developed scripts (Views and Procedures) for Rules Based Notifications (RBN) for reducing the execution time of existing SQL queries that are used in Java coding.
+Helped Java team members in writing SQL queries.
+Worked on Power Designer (PDM) to generate SQL scripts. General scripts and Table Maintenance scripts for a new Database creation and Model script for upgrading existing Databases.
+Worked on Delphi for generating DLL's (Dynamic Link Library) on a daily basis.
+Preparation of Test Cases and documentation.
+
+Environment: MS SQL Server 2005/2008/2008 R2, Windows 7/XP/2008
+
+University of New Haven. (Aug 2006 – Apr 2007)
+
+Role : System Administrator
+
+Responsibilities:
+Responsible for the maintenance of the university computer labs.
+Updating the computers up to the date with respect to software and hardware.
+Educating under graduates and other students on how to use and rectify basic issues of computers.
+
+Environment: Microsoft Windows, MS Office
+
+Triniti Advanced Software Labs Pvt. Ltd. (Aug 2004 – July 2005)
+
+Project : Cura Internal Products
+Client : Triniti Advanced Software Labs
+Role : Java Developer
+
+Project & Role Description:
+Triniti Software Solutions Pvt. Ltd. is an Information Technology organization headquartered in USA, providing wide range of development solutions in web, software, mobile applications & content management for various business segments such as, travels, manufacturing, food, logistics, warehouse management, e-commerce, healthcare, education, auto dealer management and others.
+
+Responsibilities:
+Resolved issues on existing code for Viewer module.
+Added new functionality to the Configuration Setup of the Viewer module using Java Swings.
+Tested core Triniti components such as TAB, ETK and Viewer on TTT (Triniti Testing Tool) that was developed by Triniti for internal testing purpose.
+Worked on Windows and Linux environments.
+
+Environment: Core Java, Linux, Windows XP/7
+
+Scholastic Record
+Course
+Year
+Institution
+%
+M.S (Masters in Electrical Engineering)
+2007
+University of New Haven, USA
+3.5/4
+B.E (Electronics & Communications)
+2004
+University of Madras, India
+70
+Contact this candidate

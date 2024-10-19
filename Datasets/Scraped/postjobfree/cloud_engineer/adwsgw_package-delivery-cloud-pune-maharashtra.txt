@@ -1,0 +1,223 @@
+Sachin Rane.
+A-***, Concorde Portia,
+Balewadi, Pune, MB No. +91-997*******
+411045 Email. adwsgw@r.postjobfree.com
+
+I. Professional Summary
+Around 15+ years of software design and development experience.
+Experienced in android apps development, ad integrations., release to play store.
+Google cloud certified Associate cloud Engineer.
+Worked on PCI-DSS compliance architecture design and development.
+Experienced on payment service provider integrations like Worldpay,Mastercard,Cybersource and others.
+Worked on RH-SSO keycloak plugin development and Identity provider integrations with OpenID.
+Significant work in software development-Integration life cycle, requirement analysis and technical design.
+Worked in Trade finance, Investment banking,Health Insurance,Travel Insurance and Security domains.
+Around one year experience of working on complex rule engine development using Oracle policy automation.
+II. Experience
+Working as Associate technical manager in Accenture solutions Pvt Ltd. [Apr-2013 to till date].
+Worked as Tech lead in Infosys technologies Ltd [Apr-2011 to Apr-2013].
+Worked as Team lead in Mahindra-Satyam [Jan-2008 to Mar-2011].
+Worked as Senior Software Engineer in iMedX Information services Pvt Ltd [May-2005 to Dec-2007].
+III. Technical Skills
+Java
+Spring-Boot
+Google cloud platform
+Android
+J2EE
+Spring-Cloud
+Microservices
+Android Studio
+OpenShift
+MySql
+RH-SSO keycloak
+Oracle Policy Automation
+
+IV. Professional Certifications
+Title
+Organization
+Location
+Time
+Google Cloud Certified Associate cloud Engineer
+Google LLC
+Pune
+May-2022
+V. Trainings
+Title
+Organization
+Location
+Time
+Google Cloud Professional cloud developer
+ACloudGuru
+Pune
+Sep-2021
+Google Cloud data Engineer
+ACloudGuru
+Pune
+Oct-2021
+Secure development Training
+Provadys Security Experts
+Paris
+Sep-2018
+VI. Projects Profile
+
+Android Play store apps [Feb-2016 to Till Date]
+Android Play store Apps
+Live wallpaper-Collage
+Web Widget
+Team size
+1
+Skills Used
+Android, Android Studio, Oracle virtual Box, GenyMotion and Graddle
+Project Description and Work :-
+Worked on various android app integrations like AdMob, Facebook Audience network, Billing api and Google cloud Firebase. This android app used Google cloud platform Firebase api for analytics . Animated photo collage wallpaper show photo collage in home screen from the photos of the user’s choice. Worked on wide variety of android API features.
+
+DEutsche bank- Enterprise Identity and Access management [Nov-2019 to till date]
+Organization
+Accenture Services Pvt Ltd
+Role
+Technical Architect
+Team size
+5
+Skills Used
+Java, Red-hat SSO keycloak, OpenShift, Spring boot.
+
+Project Description :-
+EIDP is central identity and access management platform of Deustche Bank based on OAuth2 authorization framework with OpenId Connect and Saml protocol. EIDP is used for authentication and authorization by various internet and intranet based applications of DB. EIDP uses RedHat keycloak server for access management and single sign on needs of internal and external users. Application resources are secured using Mutlifactor authentication like dbrsa, otp, phototan and Azure mfa.
+Responsibilities :-
+Design and development of the rh-sso plugins using keycloak framework to support multifactor authentications.
+Cloud migration for multifactor authentication services to use spring boot.
+User migration batch to migrate users from legacy system to EIDP Active directory.
+Microsoft Azure identity provider integration in rh-sso keycloak.
+Integration support to DB applications to use oauth2 framework with open-Id protocol.
+Test automation, Splunk Integration.
+
+Allianz OnePay [Feb-2016 to Jul-2019]
+Organization
+Accenture Services Pvt Ltd
+Role
+Technical Architect
+Skills Used
+Java, Spring Boot, Spring-Cloud, Config server, Spring-Integration and MySQL.
+Project Description :-
+OnePay is a payment platform used by various Allianz Business Units. OnePay Core exposes Soap web services for various payment operations. OnePay is integrated with several payment service providers like WorldPay, CyberSource, MasterCard, SlimPay, UnionPay, Adyen, PayU and provide a standard API for them. OnePay provides multiple payment methods like Card, eWallet and Sepa direct debit. OnePay is PCI-DSS compliant and enables NON-PCI applications to use it as payment platform. It also provides highly customizable UI based integration for payment collection on ecommerce sites.
+Responsibilities :-
+Lead AWS cloud migration project of 30 applications by refactoring them to use Spring Boot and spring cloud.
+Design and development of payment service integration with Mastercard, Adyen, WorldPay and CyberSource.
+Design and development of the PCI-DSS compliance in OnePay Platform.
+Implementation of OnePay-UI which is a OnePay hosted payment page for use by non-pci ecommerce sites.
+Worked on complex projects like OnePay-Proxy, OnePay Batch using spring Integration and spring batch.
+Requirement Analysis and technical design specifications.
+Agile daily scrum meetings, package delivery and support.
+Worked at client onsite in Paris for year as technical architect for Allianz delivery platform migration to cloud.
+
+California Healthcare Enrollment, Eligibility and Retention System [Apr-2013 to Jan-2016]
+Organization
+Accenture Services Pvt Ltd
+Team size
+10
+Skills Used
+Java, Spring, Hibernate, WebServices, Portlets and Oracle Policy Automation.
+Project Description :-
+Calheers system is enabling Californians to determine their eligibility for subsidized health benefits, compare insurance plan options and enroll in coverage. CalHEERS implementation includes deployment of the Accenture Public Service Platform (APSP) and the Accenture Health Benefits Exchange (AHBX), software products designed to help public agencies modernize IT capabilities and manage citizen services in an integrated, cost-effective and customer-friendly manner.
+Responsibilities :-
+Worked on several requirements involving portlets, spring batch and soap webservices.
+Development of rule engine for eligibility determination using oracle policy automation.
+Was responsible to coordinate, track and deliver several releases.
+Worked on finance management related aspects of system using Accenture billing engine.
+
+UBS-Prion [Apr-2011 to Apr-2013]
+Organization
+Infosys Technologies Ltd
+Team size
+3
+Skills Used
+Java, Spring, Hibernate, WebServices, Sybase 15
+Project Description :-
+Prion is a webService which provides interface to OBS database. Prion is accessed by various derivative trade capture applications in UBS. WebService interface provided by prion enables to save and query various derivative products trade data. Prion uses Hibernate framework extensively for ORM. OBS database stores data of various derivative instruments and curves.
+Responsibilities :-
+Worked on several complex requirements involving Hibernate mappings, Webservices framework and memory management issues.
+Worked on analysis,design, development, code review, uat and production support.
+Was responsible to coordinate and communicate with various teams of applications accessing prion.
+Successfully added configurability to prion resulting in reduction of development time.
+
+IVision Trade Finance [Mar-2008 to Apr-2011]
+Organization
+BNP Paribas
+Team size
+3
+Skills Used
+Java, Servlets, Spring, Hibernate, XSLT, Java script, EJB, Oracle-plsql, Oracle Forms 6i
+Project Description :-
+Ivision was used for management of the back-office of the banking businesses of pre-financing and short-term financing of the international trade. This application facilitates transaction processing of documentary letter of credits for import and export, import and export utilization modules, Finance and collection modules for import and export. Ivision facilitates generation of advices and swift messages for communication to various parties involved in the contract.
+Responsibilities :-
+Worked on development of complex features like interests, charges, advices and accounting matrix.
+Was responsible for preparation of estimation documents and technical specifications.
+Successfully tracked and managed the delivery of various patches with tight deadlines.
+Was responsible for code review, analysis and management of delivery process and documentation.
+Was responsible for UAT support of go live on user site in BNP Paribas HongKong.
+
+TurboScribe Admin [Oct-2006 to Dec-2007]
+Organization
+iMedX Information services Pvt Ltd
+Team size
+2
+Skills Used
+Java 1.5,Multithreading,JDBC,MySQL,XML
+Project Description :-
+TurboScribeAdmin is a backend application that automates medical transcription workflow process. This application needs to cater the demands of Medical Transcription operations done on 24x7 basis like automated file movements, allocations for transcriptionists and quality checkers and making transcriptions available to doctors in least possible time. It is responsible for making the voice files uploaded by doctors available to medical transcriptionists in India and US through TurboFlow.
+Responsibilities :-
+Redesigned and developed various threads having functions stated below to make them more scaleable, robust and fail safe for increasing work load, complexity and need of least turnaround time.
+a] Uploading received voice files to respective MT vendor SCP site based on allocation set in database.
+b] Downloading respective transcriptions from vendor sites and assigning them to Quality checkers.
+c] Parsing the patient demographic data from processed transcriptions from Quality checkers.
+Reengineered the application to reduce the overall turnaround time from 40 mins to 3 mins by separating execution of these threads from each other and staggering them at different times.
+
+Turbo Flow™ [Nov-2005 to Dec-2007]
+Organization
+iMedX Information services Pvt Ltd
+Team size
+3
+Skills Used
+Java, Swing, Servlets and MySQL
+Project Description :-
+TurboFlow™ is development project used for medical transcription process. This application is used by Medical Transcriptionists, Quality auditors and operations managers. This application have two modules a] TurboFlowAllocator which provides user interface to shift managers to assign various voice files to MTs, Proofers and Quality checkers. b] TurboFlow provides user interface to MTs, Proofers and QAs to play the voice file and do transcription in MS word or check quality of transcription.
+Responsibilities :-
+Designed and developed the application for smooth flow of transcriptions between MT, Proofers and QAs through each level of process without manual intervention based on allocation details set in database through TurboFlow allocator.
+Developed all the complex stored procedures and queries used for the current status of the job transcription.
+Designed and developed the search feature in TurboFlow to fulfill the complex requirement of data search.
+
+V. Education
+Degree
+University
+Year of passing
+B.E. (Mechanical)
+Amaravati University.
+06/1999
+Diploma (Mech.)
+Board of Technical Education, Maharashtra.
+07/1996
+S.S.C.
+Pune university
+03/1993
+
+VII. Objective
+To make myself an important asset of the organization I work in, to take on more responsibilities and challenging assignments and to keep on learning new technologies.
+
+VIII. Personal Details
+Name
+Sachin Prakash Rane
+Email
+adwsgw@r.postjobfree.com
+Languages
+English,Marathi,Hindi
+Address
+Flat no A-303,Chintamani,
+Concord Portia, SR No 40+41,
+Balewadi, Pune, 411045
+Mobile
++91-997*******
+Date of Birth
+27-June-1978
+Passport
+U2113964
+Contact this candidate

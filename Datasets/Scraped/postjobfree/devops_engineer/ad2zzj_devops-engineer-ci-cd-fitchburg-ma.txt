@@ -1,0 +1,70 @@
+Leslie Foryoung
+Fitchburg, MA
+I am an experienced Solution Architect/Cloud Engineer with 5 years of experience in designing, implementing, and optimizing robust cloud solutions.
+Proven expertise in architecting scalable and cost-effective AWS environments, aligning technology solutions with business goals.
+Experience in transforming the CI/CD pipeline using Jenkins and Docker, increasing deployment.
+Scope delivery projects and guide customers through successful pilot and production deployments of solutions like OpenShift by Red Hat, Ansible by Red Hat, and other open source-based technologies.
+Adept at translating complex business requirements into innovative and secure cloud architectures, driving operational excellence and enhancing overall efficiency.
+Proficient in leveraging a wide array of AWS services and tools to deliver high-performance, resilient, and scalable infrastructure.
+Skilled in automating deployment processes, implementing best practices for security, and optimizing resource utilization for maximum ROI. Known for collaborating seamlessly with cross-functional teams and staying at the forefront of AWS advancements through continuous learning and certification.
+
+Professional Experience:
+Comcast- United State Feb 2023 - Sep 2023
+AWS cloud engineer
+
+Implemented comprehensive monitoring solutions using AWS CloudWatch, reducing mean time to detect and resolve issues by 30%
+Migrated data from on-premise SQL Server to AWS RDS using Data migration service from a self managed infrastructure to a fully manage cloud base solution.
+Transformed the CI/CD pipeline using Jenkins and Docker, increasing deployment speed by 35%.
+Designed and implemented AWS infrastructure that increased system scalability by 30%, accommodating a growing user base.
+Establish infrastructure and service monitoring using Prometheus and Grafana.
+Full infrastructure as code continuous integration deployment and integrity checks with Pulumi, containerized as a single deployment image for full repeatability.
+Experience with other build/deploy/install tools (e.g., Maven, Jenkins, Puppet, Docker, Install Shield).
+Expert in all major platforms such as Google App Engine, OpenShift, Cloud foundry, Cloud Bees, etc.
+Deploy Azure Services using Terraform and Implement test using Golang, Docker and Travis CI.
+Implemented AWS Identity and Access Management (IAM) policies, enhancing system security and achieving compliance with industry standards.
+Strong experience in driving API centric architecture and API Management solutions.
+
+Metropol-tech consulting inc Jan 2020 - feb 2023
+AWS Solution Architect
+
+..Designed multi-tier, fault tolerant, scalable and robust architecture to setup infrastructure in AWS for web server, db server, load balancers & Route53.
+Migrated data from on-premise SQL Server to AWS RDS using Data migration service.
+Created lambda functions to read the logs from CodeBuild and ingest logs in LogDNA tool.
+Created YAML template to spin the infrastructure (VPC, EC2, RDS, Security Groups) using AWS CloudFormation and automated infra provision by 25%.
+Created S3 bucket policy to enable cross account bucket access using policy generator tool.
+Managed Kubernetes cluster by kubectl commands, deployed new images and recreated pods by using kubernetes definition files.
+Automated infrastructure provisioning with the help of terraform (Infrastructure as Code (IaC)
+
+walmart Jan 2018 - jan 2020
+AWS cloud engineer
+
+Designed, configured and deployed Amazon Web Services (AWS) for applications utilizing the AWS stack (Including EC2, Route53, S3, RDS, Cloud Formation, Cloud Watch, SQS, IAM)
+Created low latency static website using S3, Cloud Front, and Route53.
+Created and managed users, permissions, directories and files in Linux environment.
+Cost and performance monitoring of resources and applications using AWS Cloud Watch and configured notifications for the alarms generated based on events defined.
+Created CICD pipelines for code deployment on different environments with the help of AWS CodePipelines & Jenkins
+Designed ServerLess Architecture for the users to upload their pictures to S3 and setup notification system using SNS
+
+Education:
+Education National Polytechnic Bamenda – Cameroon 2015
+Bachelor’s degree in computer science
+
+Certification:
+AWS Solution Architect Associates Certification
+HashiCorp Certified: Terraform Associate (003)
+
+Skills:
+
+AWS RDS, DynamoDB, ElasticCache, Aurora, Kubernetes, SQL, AWS Data Migration Service, AWS Elastic Load Balancer, AWS Lambda, PythonTerraform, CICD, Linux, Devops, AWS EC2, AWS CloudWatch, Jenkins, Scrum, Agile, Docker, AWS SDK, AWS CLI, Git, Kubernetes, JIRA, ITIL, AWS Elasticsearch, Cloudformation
+
+PERSONAL PROJECTS
+Static Website on S3 bucket
+Cloned the Angular project from Github and created S3 bucket Enabled S3 Static website hosting feature
+Uploaded all the required build files in the bucket
+Website Accessible link: http://betteroffpayment.s3-website.ap-south- 1.amazonaws.com
+
+MicroService Based Application
+Cloned NodeJS application from github and followed online documentation
+Created EKS cluster and followed the commands to turn on the pods
+This project helped to understand how micro service based architecture helps over monolithic based architecture
+Contact this candidate

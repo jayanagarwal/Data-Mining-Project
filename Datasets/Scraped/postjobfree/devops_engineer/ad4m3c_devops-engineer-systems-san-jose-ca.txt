@@ -1,0 +1,194 @@
+Ravi Kumar Subramania Rao ad4m3c@r.postjobfree.com 301-***-****
+Total Experience 10+ Years
+In Apple Inc Sunnyvale, as Senior DevOps Engineer
+In Apple Inc, with Corporate System Engineering, Project Workday Currently. 2019 to Till Date,
+In Apple Inc, with Customer Systems Engineering 2017 to 2019
+AWS
+Hands on Experience with AWS - IAM, S3, EC2, RDS, Elastic Load Balancer, Linux, Windows
+Automation on the Provisioning of AWS EC2 Instances Using 4 Methods (1) with Ansible-Ansible Playbooks using AWS Modules, (2) Using AWS CLI Tools (3) AWS Cloud Formation Tool and (4) Terraform
+Docker and Kubernetes
+Using Single, the Same, Docker Compose File, built Flask NGINX Application, a Python Web Framework in 3 Methods (1) docker-compose, (2) docker swarm, (3) docker Format Kubernetes and scale the Application.
+Provisioned Kubernetes EKS Cluster and Deployed Applications in Kubernetes .
+Automation
+Extensive experience in scripting, with Shell. Python, Ansible, puppet,terraform,awscli
+With Customer Engineering in Apple, Automation of Patching of Linux Systems using Ansible, so that the Service, that is, VIP is always available, no down time of the VIP, after patching, the Servers will go down Sequentially, and it is rebooted to apply Patches.
+Linux and Unix
+Worked across various flavors of Unix (Sun Solaris, IBM AIX, and HP/UX) and Linux (RedHat,CentOS, Oracle Enterprise, Debian, Ubuntu, and SuSe,. Windows Server environments through 2012 R2/2016 Standard, VMWare, CDot NetApp Storage.
+Middleware
+Experience with Java Applications, WebLogic, WebSphere, Apache, Nginx, Git and Databases Oracle, Mysql, MogoDB
+Security
+Security Analytical Engineer in Ebay, Harden the Servers, as per the Security Policies
+Security Experience includes fixing Security vulnerabilities like disabling Directory Browsing, ETag Headers, disabling Trace, and SSL RC4 Cipher Suite (POODLE Padding Oracle On Downgraded Legacy Encryption vulnerability) in Apache and Apache Log4J/4J2 vulnerability
+Fixed 63-bit Entropy vulnerability with Certificates.In March 2019, Several CAs, including Apple and Google, discovered that they had been issuing certificates that didn’t comply with the CA Browser Forum SSL Baseline Requirements (BR), which is what gives CAs the ability to issue publicly trusted certificates. Specifically, the BR requires that Certificate Serial Numbers contain at least 64-bits of entropy (random data), but ours only contain 63-bits. Hence there was a need to Bulk revocation of VIP Certificates – written Shell Script to analyze the Data from the Certificate Manager API and identified de-commissioned VIPs and generate New Compliance Certificates and implemented on the Applications and using Python Script to get Validity Dates of Bulk of Certificates
+Documentation
+Share Knowledge by Documenting the Technical Procedures for the Installation and setting up the Configuration and how the issues are resolved after resolving the Incident Tickets
+Support
+Worked to give 24 x 7 Support, Given Support to Applications using PagerDuty Incident Alert System in Workday Project in Apple
+Worked on Caesar Incident Management Ticketing System, developed by Apple, and resolved issues.
+Continuity
+Regularly update the Technical Knowledge by reading Books, on AWS, Azure, Google
+Certification
+Certification in Cloud Computing AWS-1
+Certification EDX Docker Kubernetes Certification
+US Citizen
+
+PROFESSIONAL EXPERIENCE
+Apple Inc, Corporate System Engineering, 2019 to Till Date Project Workday
+and Customer Systems Engineering 2017 to 2019 Sunnyvale
+Team Lead Devops Engineer
+June 2017 till Date
+Environment: Python, Powershell, bash shell, Oracle Linux, Oracle Database, Mongodb, AWS Workday
+Project: Workday 2017 to till Date
+Automation
+Provisioned ec2 instances in AWS
+Provisioned and Configured Auto Scaling Group, to increase, the Instances to meet the Demand in High Traffic and reduce it when there is not much of the Traffic, using aws cli and Terraform
+Monitored the Cost of Resources
+Monitored the CloudWatch logs
+Provisioned Kubernetes EKS Cluster, using ekdctl
+Build Pipelines to build Dockerized Image of the Application and deploy to the EKS Kubernetes Cluster
+Updated Kubernetes EKS Cluster Version
+Provisioned Karpenter, which helps the Workload of Kubernetes and also helps during the Upgradation of Kubernetes EKS Cluster
+Deployed Applications in Kubernetes EKS Cluster
+On Premises, Provisioning Infrastructure, Linux Oracle Linux, RedHat Linux 8, 9, and Windows 2012/2016 VMs over Apple Could, for Data Conversion on Premises
+Setting up ACLs (Firewall Port openings)
+Automation of Patching using Ansible, so that the Service, that is the, VIP is always available, no down time of the VIP, after patching, the Server will go down and it is rebooted to apply Patches.
+Little Description about the Automation of Patching: Using Java and the Nitro API get all the VIPs Data
+in a CSV File, VIP associated with the Servers to be patched, is given as input, the Shell Script gathers
+the sudo Application User, Java Process that is running, get the Application Startup Script, put this in the
+crontab File, use Ansible attribute “serial:1” and each Server is patched Sequentially and when it reboots
+starts the Java Process so that the VIP is always available to be accessed by the Users.
+Installed Applications Apache, nginx, PHP, Weblogic using Ansible on Linux Servers, using Ansible shell, command, raw, copy, file, lineinfile, replace, synchronize
+Experience with Power Shell Script to test Firewall Ports openings for Multiple Destinations and Multiple Ports using Test-NetConnection
+Wrote the Python Script, using python built-ins, subprocess. Call Zip and Un-Zip Files with Password Protection.
+Installed the Required Softwares like Python and its Libraries, Oracle Data Access Components (ODAC), 7-ZIP, Git, Microsoft Visual Studio Editor, Oracle TCPS SQL Client
+Generated Certificates for MongoDB.
+Got Data from the MongoDB using pymongo Module
+Got Data from Oracle using cx_Oracle Module
+Worked with Deloitte Team in the Installation of Hoover Software and its Pre-Requisite Oracle Java JDK and fixing Apache Log4J vulnerability
+Transferred Files between VMs
+Checking the Validity and Expiry Dates of the Certificates of VIPs
+Configured VIPs in Load Balancer, Netscalar and Shield, for Jetty/Apache/WebLogic Hosting.
+Worked on Caesar, Incident Management Ticketing System, developed by Apple, and resolved issues.
+Used Basic Splunk Queries to see Application issues
+Security
+Fixed Apache Log4J vulnerability
+In March 2019, replaced the certificates of all the Applications which had the vulnerability with the Certificates, having the serial numbers 63-bits entropy
+Written Shell Script to analyze the Data from the Certificate Manager API and then Python pandas and datetime to get Validity Dates of Bulk of Certificates
+Resolved problems
+Resolved Performance issue with the Applications using Troubleshooting Diagnostic Tools like sar, iostat, vmstat, top, ping, strace, apache ab, ps, tcpdump,
+Fixed Trust issue between Linux Systems, by setting the .ssh Directory under the Home Directory of the User to 755
+Fixed login issues on Linux Servers by setting the Permissions of the Right Netgroup and configuring in /etc/security/access.conf
+Fixed issue with MongoDB Certificate, and diagnosed the issue of using deprecated Apple IST Certificates
+Fixed Network TCP/IP issues like slowness in Network
+
+Documentation
+Documentation of the Project, Infrastructure Information, raised Tickets Activities
+Support
+Given Support to Applications using PagerDuty Incident Alert System with 24x7 Support.
+
+eBay Inc, San Jose, CA
+Senior Security Analytics Engineer
+Nov 2016 – May 2017
+Environment: Dell Power Edge 610 / HP Proliant DL 360 G7 200 Servers Linux RHEL 6.8/7.2, CentOS 6.8/6.9, Ubuntu 14.0, Hadoop, ETL, Kanban Agile
+Using Ansible Playbooks, Hardened the Servers according to the eBay recommended Security Rules.
+Fixed vulnerabilities by patching the ETL Servers and Hadoop Cluster Nodes, through Ansible Scripts.
+Validated after Hardening of Servers and the fixed vulnerabilities by writing shell Scripts.
+Ansible Modules used Command, Shell, raw, lineinfile, replace,copy,sync,ec2
+Analyzed the Qualys Scan Reports and fixed vulnerabilities.
+Iptables implementation.
+Written bash Shell Scripts to deploy Network Kernel bonding Modules across all ETL Servers, Network bonding Configuration and Protocol sssd, chkconfig, deployed Repos Files for Patching.
+Given support to the ETL, Hadoop, Teradata Infrastructure and fixing the issues.
+Used strace Debugging Tool and identified the Network issue and fixed it.
+Reverse Proxy for Sites with TLS 1.2 Cerificates.
+Configured LDAP with sssd+TLS and troubleshooting LDAP Clients and fixing the issue.
+Used Puppet to maintain 6 Files for Configuration Standard.
+Worked on Kanban (Scrum) (Agile) for Project Tracking.
+Excellent at making Documentation.
+Presentation to China Team on Patching and hardening the Linux Servers
+Crescendo Bioscience, San Francisco, CA
+Senior Linux Systems Engineer
+Aug 2016 – Sept 2016
+Environment: Dell PowerEdge R710, R610, 620, 410, 310, Cisco UCS 5108, Filers Netapp DS2246, Disk Shelves DS4243-01, 02, 03, 04, 2246-01, 02, 03, 04, Brocade ICX 6450-48, 6610-48, Cisco ASA 5505, 5520, 5525-X, 5515-X, Palo Alto Networks PAN PA-3020, Cisco 1921, 2901/K9, 2951/K9, 3850, WS-C3560X-48T-L, Evault PNP-300
+Built VMs Linux 6.X and 7.2 VMs and Windows 2012 R2 VMs on VMWare 6.0, taking snapshots of the VMs, reacting to the Alarms.
+Built a DR VMWare vCenter Site, configured Replication Appliances on both the Sites and replicating the VM to the DR Site.
+Prepared the Document to install Site Recovery Manager to implement DR Solution.
+Configured Storage on Netapp Filers and set up Snap Mirror between 2 Sites.
+Installed and administered the OpenLDAP Server and Linux Clients and Users.
+Configured Nagios Monitoring and added Services for monitoring SSL Certificates and configured Linux NRPE Clients and NSClient++ on Windows Servers.
+Configured and published the New Patches on RedHat Satellite Server 6.2 and patched the all the Linux Servers.
+April 2013 – April 2016
+NetApp INC, Sunnyvale, CA
+Senior Domain Architect Unix/Linux/Cloud Platform Engineer
+Environment: (1) AWS, (2) Netapp Private Hybrid Cloud, (3) Century Links Cloud and (4) On Premises Data Centers.
+Hardware Platforms: Sun (Oracle) M4000/M5000, IBM P570, P560, P520, Linux/VMware/Windows UCSB200M3, RX200S7, RX600S6, Storage FAS 6240, FAS 6280, E2600, E2800, HBA Cards QLE2460, Firewalls Palo Alto Network Firewall, Load Balancer Cisco ACE 30, F5 Load Balancer, CISCO 4492R, WAN Riverbed 7050.
+Software: Sun (Oracle) Solaris10, IBM AIX 6.1, Linux RHEL 7.0/6.6/5.x, Windows 2008 R2 SP1/2012 R2, ESX 5x/4.x Virtual Center 2.5, Satellite Server, Oracle RAC 10.2G, 11G, Apache 2.2.83, WebLogic 10.3.6, Tomcat V6, Oracle Access Manager 11.1.2.0 and Oracle Identity Manager 9.1.0.2, Oracle LDAP and Active Directory 11.1..1.5, IIS 7.5/7.0, Ontap 8.1.2, Nexpose Rapid7 Security Scanning Tool.
+Infrastructure
+Design, Installation, Delivery and Support
+Interact with different Business Units/Project Teams and fulfill their Requirements, instill Confidence in them, by acting like a Single point of contact and managing the complete Project Life Cycle.
+24 x 7 Support.
+Cloud
+Provisioning of the EC2 instances by using 4 Methods (1) Ansible, (2) AWS CLI, (3) CloudFormation, (4) Terraform
+Migrated around 15 On Premises Application to AWS
+Hands on AWS, IAM, S3, EC2, RDS, Elastic Load Balancer
+Worked on Cloud Auto Provisioning VMs using ITApp Cloud Management Platform Orchestration Tool on to (1) AWS Cloud Platform and (2) Netapp Hybrid Private Cloud and (3) Century Links Cloud Platform.
+Migrated Servers from the (1) Sacramento, California Data Center to (2) Hillsboro, Oregon Data Center and (3) Research Triangle Park, North Carolina, Data Center.
+Docker and Kubernetes
+Using Single, the Same Docker Compose File, built Flask NGINX Application,Python WebFrameWork in 3 Methods (1) docker-compose, (2) docker swarm, (3) docker Format Kubernetes and scale the Application.
+Deployed the Flask NGINX Application/MongoDB Application in Kubernetes Microservices.
+Updating the POD images for fixing the vulnerability using rolling update
+Deployed Applications in Kubernetes configmaps for Volumes, secrets to use TLS Certificates, with Secure https Service.
+Automation and DevOps
+Deployed post build Tasks using Bash Shell Scripts and Ansible playbooks 1.9.4 across Multiple Servers.
+Wrote Python Scripts to parse the Log File and generating DashBoard Report.
+Worked with puppet to deploy package, File and Services.
+Provisioned Containers/Dockers in Linux, and provisioned Dockers using Ansible.
+Deployed /installed VMs Redhat and Cent OS Linux 6.5, 7, Ubuntu 14.04 and Windows 2008 R2 SP1/2012 R2, SuSe Linux 11.2 on the ESX VMWare Servers and in the OpenStack Hybrid Netapp Cloud, using the HP Operation Orchestration Tool.
+Installed Linux and Windows on Physical Servers Sun Solaris Non-Global Zones and IBM AIX.
+Installed Appliances, Storage Grid Appliances using OVF (Open Virtualisation Format) Files, VMDK & VMX Files.
+Created Non-Global zones on the Sun Solaris Servers M4000/M5000.
+Supported VMware Virtual Servers with VCenter 5.X.
+Experience with V2V through VMware VSphere Replication.
+Installed Oracle RAC 11G R2.
+Installed and configured Cloudera Hadoop Clusters on Fujitsu Primergy 200X S8/300X Servers-Hadoop Version 2.0.0-CDH4.6.0 by provisioning XFS File Systems for storage and creating users cloudera-scm, solr, impala, zookeeper, mapred, hdfs, flume, hive, hadoop, hbase and yarn.
+Provisioned VMs for SAP HANA Application Project and supported it.
+Support
+Worked on ServiceNow, Incident Management Ticketing System and resolved issues
+Set up Apache Web Servers with F5 Load Balancer, and Application Servers, WebLogic and Tomcat with Oracle Database, Oracle RAC Database, mysql Database.
+Used Performance Analysis using ab, apachetop, and tuned the Parameters.
+Set Resource Kernel Parameters, sudo Permissions, Configured sudo log.
+Registered Servers with RedHat using rhn_register command and checking with rhn_check Command.
+Upgraded Linux with yum Utility and rolled back using the Boot Time grub Menu, and also rolled back using yum info history and yum undo.
+Enabled Subscription for EPEL (Extra Packages for Enterprise Linux) and Optional RPMS Packages to install MESA 3D Graphics Library and Large File System XFS Packages using rhn-channel Command.
+Configured Virtual Network Interface Cards with redundancy bonding Network Cards.
+Configured Disks, expand Capacity of the Disks and File Systems using Linux LVM, fdisk, pvcreate, vgcreate/ vgextend, lvextend, resize2fs, pvresize.
+Installed and configured multipath/Device Mapper for LUNs and Storage Disks.
+Detected New LUNs using issue lip ( Loop initialization Protocol ) and scan, fdisk, multipath.
+Configured Passwordless login to the Users between Servers.
+Installed other Software’s /Upgrade Software’s through yum and registering for Special RedHat Channels through Command Lines.
+Configured Apache 2.2.* and installed and configured WebLogic 10.3.6.
+Configured mysql on Linux Servers.
+Installed GPG (GnuPG) 1.4.10 on Sun Solaris Systems.
+Set Capped Memory on the Non-Global Zones.
+Set ndd tcp and udp Parameters of anon_ports 9000 and 65500 (smallest and largest) for Oracle 11G.
+Setup X-Windows and TightVNC Service.
+Used curl Command to upload the Files to Oracle Site.
+Configured a Printer Server on Sun Solaris Non-Global Zone
+Resolved vip Interface issue with Oracle RAC using srvctl.
+Resolved a program error in Perl by defining the right Path for Modules.
+Resolved the libz.so.1 64 Bit and 32 Bit File not found error by including the right Path for the Files in LD_LIBRARAY _PATH in the User’s Profile
+Resolved problems
+Fixed Security vulnerabilities like disabling Directory Browsing, ETag Headers, disabling Trace, SSL RC4 Cipher Suite ( POODLE Padding Oracle On Downgraded Legacy Encryption vulnerability) in Apache.
+Fixed Shell Shock ( 24 September 2014 ) Virus.
+Resolved problems of the User login due to Maximum Number of Processes and connections-found using ps -U Username wc -l and lsof grep Username wc -l and increasing the ulimit nproc and nofile Parameters.
+Resolved ssh login issues of various categories of various Reasons.
+Resolved the issue of oracle Volumes not mounting-Fixed this issue with specifying mount option “suid” and setting set user id and ownership as root on $ORACLE_HOME/bin/oradism.
+Resolved the issue of oracle not coming up by setting the SGA Parameter 1/4th Size of the total Memory, by setting up the shm-memory Parameter in /etc/project and using prctl command
+Resolved the issue of Sun Solaris Server not coming up by starting the Dependency Services.
+Performance:
+Debugged the Sun Solaris slowness issue by using the Commands prstat -Z, prstat -Lm pid, jmap -dump and jvisualvm to analyze the dump File and identified a Java Process was having Memory Leak.
+Wrote Shell Script to diagnose ports opened for TCP Services using netcat command and verifying the Load Balance Implementation using curl Commands.
+Resolved the critical Packet Drop issue on the Ethernet Card
+Resolved the Network issue when sftp to put the Files was very slow, by identifying the MTU Size is the issue with the command ifconfig eth2 mtu 1500 up -SCP Transfer completed successfully. After test we changed it to ifconfig eth2 mtu 9000 up and the transfer failed again.
+
+Education: B.Tech Electronics, Madras Institute of Technology
+Contact this candidate

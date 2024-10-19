@@ -1,0 +1,299 @@
+Anthony Baraja
+(Big Data Engineer)
+408-***-**** ad8n85@r.postjobfree.com
+
+Profile Summary:
+
+•Result-oriented professional with nearly 15 years of experience including 10 years in the development of AWS Cloud Data Engineer, Hadoop, and Senior Big Data as well as 4+ years in IT.
+•Well-versed in using Hadoop tools, Apache Spark, AWS services, Snowflake, Airflow, and Docker containers.
+•Skilled in managing data analytics, data processing, machine learning, artificial intelligence, and data-driven projects.
+•Brilliant in creating ETL processes to transform data into one consistent format for data cleansing and analysis.
+•Created dashboards for TNS Value manager in Tableau using various features of Tableau like Custom-SQL, Multiple Tables, Blending, Extracts, Parameters, Filters, Calculations, Context Filters, Data source filters, Hierarchies, Filter Actions, Maps, etc.
+•Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS, and IAM entities, roles, and users.
+•Using Docker as a development and deployment tool, AWS Glue ETL to extract and transform data, and Elastic Search to store and index the transformed data. The project would require knowledge of AWS Glue ETL and Apache Spark, as well as skills in data transformation and performance tuning.
+•Strong skills in containerization with Docker and infrastructure as code with AWS CloudFormation.
+•Hands-on with Hadoop-as-a-Service (HAAS) environments, SQL, and NoSQL databases.
+•Apply in-depth knowledge and skill to incremental imports, partitioning, and bucketing concepts in Hive and Spark SQL needed for optimization.
+•Expert with the design of custom reports using data extraction and reporting tools, and development of algorithms based on business cases.
+•Using a variety of Azure services to build an end-to-end data pipeline for processing, storing, and querying data. The project would require knowledge of Azure Data Lake Store, Databricks, Event Hub, Azure Functions, Data Factory, and Cosmos DB, as well as skills in data transformation, performance tuning, and security.
+•Design and build scalable Hadoop distributed data solutions using native, Cloudera Hortonworks, Spark, and Hive.
+•Skilled in designing and implementing Redshift data warehouses to support scalable and high-performance analytics solutions.
+•Implement Py Spark and Hadoop streaming applications with Spark Streaming and Kafka.
+•Analyzed the MS-SQL data model and provided inputs for converting the existing dashboards that used Excel as a data source.
+•Skills in using a variety of GCP services to build an end-to-end data pipeline for processing, storing, and querying data. The project would require knowledge of GCP Cloud Function, Cloud Storage, Data Prep, Data Flow, Big Table, Big Query, and Cloud SQL, as well as skills in data transformation.
+•Extend HIVE core functionality using custom User Defined Functions (UDF), User Defined Table-Generating Functions (UDTF), and User Defined Aggregating Functions (UDAF) for Hive.
+
+Technical Skills:
+
+Big Data
+RDDs, UDFs, Data Frames, Datasets, Pipelines, Data Lakes, Data Warehouse, Data Analysis
+Hadoop
+Hadoop, Cloudera (CDH), Hortonworks Data Platform (HDP), HDFS, Hive, Zookeeper, Sqoop, Oozie, Yarn, MapReduce
+Spark
+Apache Spark, Spark Streaming, Spark API, Spark SQL
+
+Apache
+Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Sqoop, Apache Flume, Apache Hadoop, Apache HBase, Apache Cassandra, Apache Lucene, Apache SOLR, Apache Airflow, Apache Camel, Apache Mesos, Apache Tez, Apache Zookeeper, Apache Presto
+Programming
+Py Spark, Python, Spark, Scala, Java
+Development
+Agile, Scrum, Continuous Integration, Test-Driven Development (TDD), Unit Testing, Functional Testing, Git, GitHub, Jenkins CI (CI/CD for continuous integration)
+Query Language
+SQL, Spark SQL, Hive QL
+Databases /Data warehouses
+MongoDB, AWS Redshift, Amazon RDS, Apache HBase, Elasticsearch, Snowflake
+File Management
+HDFS, Parquet, Avro, Snappy, G zip, Orc, JSON, XML
+Cloud Platforms
+AWS Amazon Web Services, Microsoft Azure, GCP
+Security and Authentication
+AWS IAM, Kerberos
+AWS Amazon Components
+AWS Lambda, AWS S3, AWS RDS, AWS EMR, AWS Redshift, AWS Lambda, AWS Kinesis, AWS ELK, AWS Cloud Formation, AWS IAM
+Virtualization
+VMware, VirtualBox, OSI, Docker
+Data Visualization
+Tableau, Kibana Crystal Reports 2016, IBM Wats
+Cluster Security
+Ranger, Kerberos
+Query Processing
+Spark SQL, HiveQL
+Data Frames
+
+Professional Experience:
+
+PALO ALTO NETWORKS, TANNERY WAYSANTA CLARA, CA APR 2024 – PRESENT
+LEAD DATA ENGINEER
+
+PROJECT 1: INTERCOMPANY REVENUE REPORTS
+PROJECT 2: MARKET DEVELOPMENT FUND REPORTS
+
+I was brought on to take over and support SQL development tasks for two key client projects. My role involved gathering and clarifying requirements from the business team and collaborating with the Data Pipeline, SAP, and Tableau teams to ensure smooth execution. I worked with applications integrated into Google Cloud Platform (GCP), analyzing existing data marts and reporting insights from data analysis. I also addressed any discrepancies by providing effective solutions. Additionally, I documented processes in Confluence, ensuring adherence to documentation standards.
+
+•Leveraging tables, views, and stored procedures to generate comprehensive SQL reports.
+•Created & maintained Python DAGs (Directed Acyclic Graphs) to automate reporting tasks on a scheduled basis.
+•Coordinated with various internal IT teams to support data-related observations and conduct root cause analysis for any anomalies in data pipelines or processes.
+•Led the deployment of code, strictly adhering to organizational deployment standards, and utilized Service-Now for managing the deployment process.
+•Managed and regularly updated project documentation using Confluence Pages, ensuring clear communication and adherence to documentation protocols across the team.
+•Developed complex queries, views, and stored procedures to generate reports and extract key insights from data for business decision-making.
+•Managed data storage and processing using Big Query, ensuring efficient data retrieval and scalability across large datasets.
+•Optimized query performance in Big Query for faster data analysis and streamlined processing of large-scale datasets.
+•Integrated procurement data from SAP Ariba into the analytics pipeline, enabling comprehensive reporting on procurement and supply chain processes.
+•Analyzed and reported on sales and marketing data from 360 Insights, facilitating better business intelligence and campaign effectiveness.
+•Documented project workflows, technical procedures, and data analysis methodologies in Confluence to ensure team-wide knowledge sharing and adherence to standards.
+•Utilized VS Code for coding, debugging, and managing SQL scripts, Python code, and data workflows efficiently.
+•Managed version control for SQL scripts, Python DAGs, and configuration files, ensuring smooth collaboration and change tracking.
+•Used Service-Now to manage and track the deployment of data pipelines and automated reporting, following the organization’s IT change management protocols.
+•Automated CI/CD pipelines using Jenkins to streamline the deployment of new code, ensuring consistent and reliable delivery of data workflows.
+•Scheduled and maintained automated data pipelines using Python DAGs in Apache Airflow to ensure timely reporting and data processing.
+
+GUARDIAN LIFE, BETHLEHEM, PA NOV 2023 – MAR 2024
+SR. DATA ENGINEER
+
+The project entails the seamless migration of 82 data pipelines from Amazon EMR to the Databricks Platform. It involves transferring existing Hive scripts and shell orchestration code to Databricks SQL scripts and workflow orchestration, respectively. The objective is to ensure a smooth transition of data processing workflows to leverage the capabilities of the Databricks Platform efficiently. The project aims to optimize data pipeline performance, enhance scalability, and streamline workflow orchestration for improved operational efficiency.
+
+•Led the migration of existing Hive scripts and shell orchestration code to Databricks SQL scripts and workflow orchestration, leveraging AWS services for a seamless transition to modernized infrastructure and technologies
+•Developed and executed a comprehensive migration plan encompassing analysis, design, code migration, orchestration setup, configuration with CI/CD integration using Databricks Asset Bundles, Workflows, testing, code review, approval, QA testing, job schedule changes, parallel runs, cutover, and cleanup phases
+•Collaborated with cross-functional teams to gather requirements, analyze existing systems, and design migration strategies aligned with business objectives, utilizing AWS services such as Amazon S3, AWS EMR, and third party tools such as Control-M and Apache Presto
+•Migrated core logic code and orchestration code to Databricks, leveraging AWS EMR for efficient data processing and workflow management
+•Set up Databricks environments within the AWS ecosystem and integrated them with Databricks' native tools to automate deployment and ensure consistency across environments
+•Conducted development testing using Databricks SQL Editor, Job Runs, Compute and Catalog to validate the functionality and performance of migrated scripts and workflows
+•Managed code reviews and approvals utilizing Databricks' collaborative features to uphold coding standards and best practices
+•Coordinated with QA and platform teams to conduct comprehensive testing of migrated solutions using custom data validation tool in python, addressing any issues or discrepancies identified during testing
+•Managed changes to Control M job schedules using Shell and Python scripts to reflect the migration to Databricks and ensure smooth execution of job schedules
+•Executed parallel runs of migrated processes alongside existing systems using Databricks functionalities like Workflows, Workspace, and Catalog to validate consistency and accuracy of results
+•Planned and executed the final cutover from legacy systems to Databricks, utilizing AWS services like AWS DataSync for data transfer and AWS CloudFormation for infrastructure provisioning, ensuring minimal disruption to operations
+•Performed cleanup activities using Visual Studio Code, Git and AWS CLI to remove redundant code, configurations, and resources associated with the legacy environment
+•Provided documentation and knowledge transfer to stakeholders and team members regarding the migration process and new infrastructure using Atlassian Confluence, and Databricks Workflows and Catalog
+•Designed and optimized algorithms for real-time data processing using Databricks and PySpark programming features
+•Conducted post-migration analysis to evaluate the effectiveness and efficiency of the migrated pipelines on the Databricks platform
+•Identified areas for further optimization or enhancement based on stakeholder’s feedback and performance metrics.
+
+GOLDMAN SACHS GROUP, INC., NEW YORK, NY (REMOTE) APR 2022-NOV 2023
+AWS BIG DATA ENGINEER
+
+Built a cloud for financial data to serve all our clients through a global network powered by partnership, integrity, and a shared purpose of advancing sustainable economic growth and financial opportunity.
+
+•Executed Hadoop/Spark jobs on AWS EMR using programs, and data stored in S3 Buckets.
+•Developed AWS Cloud Formation templates to create a custom infrastructure for our pipeline.
+•Designed a data warehouse and performed the data analysis queries on Amazon redshift clusters on AWS.
+•Automated data pipeline workflows with Azure Data Factory, integrating data from various sources.
+•Automated data loading and transformation workflows into Redshift using AWS Data Pipeline and AWS Glue.
+•Executed ELK (Elastic Search, Log stash, Kibana) stack in AWS to gather and investigate the logs created by the website.
+•Wrote Unit tests for all code using PyTest.
+•Leveraged Akka toolkit for building distributed, resilient message-driven systems in Scala.
+•Implemented custom Airflow operators and sensors to extend functionality for specific use cases and systems.
+•Designed & implemented scalable data warehousing solutions using Snowflake's cloud-native architecture.
+•Worked on architecting Serverless design using AWS API, Lambda, S3, and Dynamo DB with optimized design with Auto scaling performance.
+•Designed the schema, cleaned up the input data, processed the records, wrote queries, and generated the output data using Redshift.
+•Populated database tables via AWS Kinesis Firehose and AWS Redshift.
+•Worked on the data lake on AWS S3 to integrate it with different applications and development projects.
+•Set up Cloud Composer cluster as a fully managed workflow orchestration service to enable data developers to create, schedule, and monitor workflows consisting of tasks that can run on GCP services, including Cloud Dataflow, BigQuery, and PubSub
+•Managed and optimized Azure Synapse Analytics (formerly SQL DW) for complex queries on large datasets.
+•Implemented usage of Amazon EMR for processing Big Data across the Hadoop Cluster of virtual servers on Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3)
+•Created Spark jobs that run in EMR clusters using AMR Notebooks.
+•Developed Spark code using Python to run in the EMR clusters.
+•Created User Defined Functions (UDF) using Scala to automate some business logic in the applications.
+•Documented ETL workflows, data mappings, and transformation logic for reference and knowledge sharing.
+•Managed Redshift Spectrum to efficiently query and analyze exabytes of data in Amazon S3 directly from Redshift.
+•Monitored and managed Snowflake resources and usage to ensure optimal performance and cost efficiency.
+•Managed data pipeline backfills with Airflow to accurately process historical data.
+•Developed and maintained build, deployment, and continuous integration systems in a cloud computing environment.
+•Utilized Redshift's materialized views and query caching features to improve query performance and reduce latency.
+•Implemented real-time analytics on streaming data using Azure Stream Analytics.
+•Leveraged Snowflake's unique multi-cluster warehouse architecture to auto-scale compute resources and handle concurrent user workloads efficiently.
+•Utilized Airflow's monitoring and alerting features to track workflow progress, detect failures, and troubleshoot issues proactively.
+•Skilled in extracting and generating data visualizations.
+•Wrote simple SQL scripts on the final database to prepare data for visualization with Tableau.
+•Utilized Azure HDInsight to manage Hadoop clusters for processing large-scale datasets.
+•Documented Snowflake configurations, deployment procedures, and best practices to facilitate knowledge sharing and onboarding of new team members.
+•Used Python Boto3 for developing Lambda functions in AWS.
+•Analysis was done using Python libraries such as PySpark.
+•Designed extensive automated test suites utilizing Selenium.
+•Wrote numerous spark codes in Scala for information extraction, change, and conglomeration from numerous record designs.
+•Designed AWS Glue pipelines to ingest, process, and store data interacting with different services in AWS.
+
+CONSOLIDATED ELEVATOR CO. MWS FABRICATIONS, SAN DIMAS, CA JAN 2020 – APR 2022
+SR. BIG DATA ENGINEER
+
+Consolidated Elevator Company was established in 1969 by three passionate pioneers of the elevator industry and has grown into an extremely successful family-owned and operated business serving all Southern California. Their goal is to deliver customers the fastest, most dependable, expert service and repair whenever and wherever required.
+
+•Implemented and configured Azure HDInsight services including Hadoop, MapReduce, and HDFS for big data processing.
+•Developed and optimized MapReduce jobs in Java to clean and preprocess large datasets efficiently.
+•Implemented workload management (WLM) configurations to prioritize critical queries and manage system resources.
+•Optimized data distribution and sort keys in Redshift to improve parallel processing and reduce query times.
+•Crafted custom collection libraries in Scala for specialized data handling and processing requirements.
+•Managed and optimized storage using Snowflake's automatic data compression and micro-partitioning features.
+•Proficient in installing, configuring, and managing various components of the Hadoop ecosystem on Azure.
+•Set up Airflow with dynamic task generation to handle scalable workflow structures based on data volumes.
+•Administered and maintained Pig, Hive, and HBase installations, ensuring seamless operation and performance.
+•Utilized Sqoop to import/export data between HDFS and Hive, defining Sqoop job flows for efficient data transfer.
+•Experienced in troubleshooting and tuning Hadoop clusters to optimize performance and resolve issues.
+•Conducted thorough testing of ETL processes to validate data integrity, accuracy, and completeness.
+•Developed Azure Functions to create serverless event-driven data processing applications.
+•Designed and maintained automated deployment pipelines for Airflow workflows using CI/CD practices and tools like Jenkins or GitLab.
+•Conducted performance tuning and optimization activities in Snowflake, including optimizing warehouse configurations, query tuning, and data partitioning strategies
+•Managed and reviewed Hadoop log files to monitor system health and identify potential issues.
+•Configured Azure Cosmos DB for globally distributed, multi-model database services.
+•Utilized SBT (Scala Build Tool) for project builds, dependency management, and custom build tasks automation.
+•Oversaw loading & transformation of structured, semi-structured, unstructured data from diverse sources.
+•Secured data with Redshift's encryption capabilities, using hardware-accelerated AES-256 encryption for data at rest.
+•Supported MapReduce programs running on the Azure HDInsight cluster, ensuring smooth execution and performance.
+•Documented Airflow workflows, configurations, and best practices to facilitate knowledge sharing and ensure consistency across the team.
+•Facilitated data loading from UNIX file systems to HDFS, ensuring data integrity and consistency.
+•Automated data quality checks and validation using Airflow to ensure integrity of the data throughout the pipeline.
+•Enhanced application responsiveness by using Scala Futures and Promises for non-blocking operations.
+•Developed complex ETL/ELT pipelines within Snowflake using its powerful SQL and procedural language capabilities.
+•Installed and configured Hive on Azure HDInsight, developing Hive UDFs and writing optimized Hive queries for data processing.
+•Implemented cluster coordination services through Zookeeper for efficient cluster management and coordination.
+•Set up Azure DevOps pipelines for continuous integration and delivery (CI/CD) of data applications.
+•Performed data modeling and ETL process design for staging, data integration, and aggregation layers within Redshift.
+•Exported analyzed data to relational databases using Sqoop for visualization and reporting purposes.
+•Developed scripts in Scala for data transformations, ensuring accuracy and efficiency in processing.
+•Configured Spark Streaming to ingest real-time data from Apache Kafka and store it in HDFS using Scala.
+•Assisted in setting up the QA environment and updated configurations for implementing scripts with Pig and Sqoop to ensure seamless testing and deployment processes.
+
+UNITED HEALTH GROUP INC. – PHOENIX, AZ SEP 2017 – DEC 2019
+SR. BIG DATA CLOUD ENGINEER
+
+The Company operates through the Healthcare, Life Sciences, and Insurance segments. It provides end-to-end, integrated application, and infrastructure management services, develops software applications, and offers legacy modernization services.
+
+•Use Azure Data Lake Store to store raw data, and Azure Databricks to process and transform it using Apache Spark.
+•Ingest data into Azure Event Hub and use Azure Functions to pre-process and clean the data before storing it in Azure Data Lake Store.
+•Implemented error handling and logging mechanisms to track data lineage, identify issues, and facilitate troubleshooting during the ETL process.
+•Set up an Azure Data Factory pipeline to orchestrate data movement and transformation across various Azure services.
+•Containerized Airflow components using Docker to create isolated and reproducible environments.
+•Implemented data sharing capabilities in Snowflake to securely share live, read-only data with external stakeholders.
+•Orchestrated containerized big data applications using Azure Kubernetes Service (AKS).
+•Developed snapshot and backup strategies for Redshift clusters to ensure data durability and business continuity.
+•Performed unit and integration testing using ScalaTest and ScalaCheck to ensure code reliability and correctness.
+•Use Azure Cosmos DB to store and query processed data, providing a scalable, globally distributed NoSQL database solution.
+•Utilized Scala's functional programming features to write concise and expressive code for complex data manipulation and analysis tasks.
+•Implement data quality checks to validate the completeness and accuracy of the data loaded into Azure Data Lake Store and Cosmos DB.
+•Optimize the performance of the data pipeline by tuning Azure Databricks and Data Factory configurations and adjusting Azure resource allocation.
+•Implement error handling and logging to ensure the reliability and accuracy of the data pipeline.
+•Configure Azure security and access controls to protect sensitive data and ensure compliance with data privacy regulations.
+•Worked on Hadoop, Spark, similar frameworks, NoSQL, RDBMS databases including Redis and MongoDB.
+•Attended meetings with managers to determine company's Big Data needs & developed Hadoop systems.
+•Secured Airflow webserver and metadata database using best practices for authentication and encryption.
+•Utilized Snowflake's Time Travel and Fail-safe features for data recovery and historical analysis.
+•Finalized the scope of the system and delivered Big Data solutions.
+•Collaborated with the software research and development teams and built cloud platforms for the development of company applications.
+•Training staff in data resource management.
+•Enhanced data security and compliance with Azure Key Vault for managing encryption keys and secrets.
+•Implemented disaster recovery and backup solutions to ensure business continuity and data availability.
+•Worked with cross-functional teams to optimize data storage and processing costs on AWS.
+•Configured Redshift for cross-region replication to meet disaster recovery and global data availability requirements.
+•Implemented DevOps practices like infrastructure as code, automated testing, and continuous integration/continuous deployment (CI/CD) to increase agility and reduce time to market.
+•Collected data using REST API, built HTTPS connection with client-server, sent GET request, and collected response in Kafka Producer.
+•Automated scalability and management of Azure SQL databases using Auto-scaling and Performance tuning features.
+•Applied functional programming principles in Scala for composing pure functions and managing side effects.
+•Utilized Airflow's XComs to enable task-to-task communication and sharing of intermediate results.
+•Integrated Redshift with BI tools like Tableau, Looker, and QuickSight for real-time business intelligence and reporting.
+•Imported data from web services into HDFS and transformed data using Spark.
+•Worked on AWS Kinesis for processing huge amounts of real-time data.
+•Implemented Scala-based custom data quality checks and validation procedures to ensure the accuracy and completeness of data stored in Azure Data Lake Store and Cosmos DB.
+•Architected event-sourced systems using Scala and Eventuate for distributed data consistency.
+•Created and managed data visualization dashboards using tools like Tableau and AWS Quick Sight to provide insights to business users and executives.
+•Implemented data governance and security policies to ensure data quality, integrity, and confidentiality.
+
+WESTROCK, ATLANTA, GA JAN 2014 – SEP 2017
+HADOOP DATA ENGINEER
+
+WestRock is an American corrugated packaging company. It is the 2nd largest American packaging company. It is one of the world’s largest paper and packaging companies with US$15 billion in annual revenue.
+
+•Use GCP Cloud Storage to store raw data, and GCP Data Prep to preprocess and clean it.
+•Use GCP Data Flow to transform and process the data, and load it into GCP Big Table for fast, scalable access.
+•Use GCP Big Query to store and analyze the processed data, providing a highly scalable, fully managed data warehouse solution.
+•Use GCP Cloud Function to trigger data processing and transformation events and implement custom business logic as necessary.
+•Use GCP Cloud SQL to store and query relational data, providing a managed relational database solution.
+•Configured Snowflake's virtual warehouses to balance and allocate resources for varying analytic workloads.
+•Configured Airflow to send alert notifications via email, Slack, or other channels upon job failures or retries.
+•Integrated NoSQL databases like MongoDB & Cassandra with Scala applications for scalable storage solutions.
+•Implement data quality checks to validate the completeness and accuracy of the data loaded into Cloud Storage, Big Table, Big Query, and Cloud SQL.
+•Optimize the performance of the data pipeline by tuning GCP Data Flow and Big Query configurations and adjusting GCP resource allocation.
+•Implement error handling and logging to ensure the reliability and accuracy of the data pipeline.
+•Configured GCP security and access controls to protect sensitive data and ensure compliance with data privacy regulations. Used different file formats such as Text files, Sequence Files, and Avro for data processing in the Hadoop system.
+•Loaded data from various data sources into Hadoop Distributed File System (HDFS). using Kafka.
+•Optimized performance of Airflow tasks with smart scheduling and concurrency limits.
+•Built microservices in Scala, leveraging Docker and Kubernetes for orchestration and deployment.
+•Integrated Kafka with Spark Streaming for real-time data processing in Hadoop.
+•Used Cloudera Hadoop (CDH) distribution with Elasticsearch.
+•Used image files to create instances containing Hadoop installed and running.
+•Streamed analyzed data to Hive Tables using Sqoop, making it available for data visualization.
+•Tuning and operating Spark and its related technologies like Spark SQL and Spark Streaming.
+•Developed data transformation and aggregation jobs using Spark Scala API for big data analytics.
+•Used the Hive JDBC to verify the data stored in the Hadoop cluster.
+•Connected various data centers and transferred data using Sqoop and ETL tools in the Hadoop system.
+•Enabled seamless data integration from diverse sources including JSON, Parquet, Avro, and CSV formats into Snowflake.
+•Implemented CI/CD for Airflow DAGs, ensuring that code changes are automatically tested and deployed.
+•Implemented custom serialization and deserialization routines for Scala applications interfacing with various data formats.
+•Imported data from disparate sources into Spark RDD for data processing. In Hadoop
+•Used shell scripts to dump the data from MySQL to Hadoop Distributed File System (HDFS).
+
+CALIFORNIA STATE LIBRARY, CA JUL 2009 – DEC 2013
+APPLICATION DEVELOPER
+
+•Maintained and improved existing Internet/Intranet applications.
+•Created a workflow using technologies such as GIT/SSH to develop multi-programmer
+•Hands-on experience in SQL and PL/SQL and writing stored procedures.
+•Integrated applications with designing database architecture and server scripting, studying & establishing.
+•Built-up and configured server cluster (CentOS /Ubuntu)
+•Determined optimal business logic implementations, applying best design patterns.
+•Optimized JVM performance for Scala applications with profiling, heap analysis, and tuning garbage collection.
+•Developed a fully automated continuous integration system using Git, Jenkins, My SQL, and custom tools developed in Python and Bash.
+•Created user information solutions for backend support.
+•Experienced in Agile Methodologies and Scrum processes.
+•Hands-on experience in data processing automation in Python.
+•Integrated development environments like Eclipse, NetBeans, and PyCharm.
+
+Academic Credentials:
+
+•Bachelor of Science - Computer Science from Cal Poly Pomona - Pomona, CA
+
+•Associate of Mathematics in Science from Citrus College - Glendora, CA
+
+•Duck Creek Author – Developer, Proficient Level Certification
+
+•Cybersecurity Certification of Completion from Cal Poly Extended Education Cyber Bootcamp
+Contact this candidate

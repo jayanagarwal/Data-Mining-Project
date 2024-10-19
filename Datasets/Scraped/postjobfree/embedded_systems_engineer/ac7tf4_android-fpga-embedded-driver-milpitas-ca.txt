@@ -1,0 +1,73 @@
+ANDREY SMOLNIKOV
+**** ******** **. *****: 408-***-****
+Milpitas, CA 95035 Email: ac7tf4@r.postjobfree.com
+SENIOR FIRMWARE/SOFTWARE ENGINEER
+SUMMARY
+Over 15 years of experience in embedded system software/firmware design
+Valuable combination of strong knowledge and deep understanding of analog and digital circuits and wired/wireless networking and protocols
+Product development experience spans over various type of embedded systems like audio/video devices, power electronics, routers, Wi-Fi/802.11(Wi-Fi for Samsung galaxy phones), 802.15.4(Broadcom WICED Sense, Cypress PSoC BLE), cell phones, IP Cameras, networking Multimedia devices
+Security for embedded devices: Have worked on firmware Authentication, Encryption and hardware anti tampering solutions. Have written uController code for DES, AES, SHA algorithms
+Hands-on working with microcontrollers as ARM CR M0, CR4, Atmel, Microchip PIC, Intel, Motorola.
+Proficiency in design and development of high performance Linux device drivers
+Hands-on working with various measuring equipment such as oscilloscopes, logic, and network analyzers
+Professional versatility, “can-do” attitude and ability to quickly master new concepts and technologies
+TECHNICAL SKILLS
+ANSI C
+C++
+Object Pascal (Delphi)
+FPGA design (Xilinx, Altera)
+ARM Cortex M3, CR4, M0
+Python
+CodeBlocks IDE, GCC
+Linux Kernel
+Android OS
+Ethernet
+Wi-Fi/802.11
+TCP/IP
+Wireshark, CommView
+PCIe,I2C,SPI,SDIO,USB
+PWM PID
+SVN
+Excellent technician
+skills (PCB rework, etc.)
+PROFESSIONAL EXPERIENCE
+JUNE 2018 – CURRENT QUALCOMM, WI-FI FIRMWARE ENGINEER
+OCT 2017 – MAR 2018, AUTOMOTIVE ELECTRONICS SYSTEMS, FIRMWARE ENGINEER
+MAY 2017 – SEPT 2017, BROADCOM LTD. FIRMWARE ENGINEER
+NOV 2016 - JAN 2017 TDK CORPORATION, SOFTWARE ENGINEER
+DEC 2009 - JUL 2016, BROADCOM CORPORATION, SENIOR WI-FI FIRMWARE ENGINEER
+Nov 2008 – Dec 2009, CYPRESS SEMICONDUCTOR, EMBEDDED FIRMWARE ENGINEER
+MAR 2006 – SEPT 2008, NATIONAL SEMICONDUCTOR, STAFF SOFTWARE ENGINEER
+JAN 2001 – MAR 2006, UBICOM (FORMER SCENIX SEMICONDUCTOR), APPLICATIONS ENGINEER Andrey Smolnikov Resume, Page 2
+
+WORK EXPERIENCE (PROJECTS)
+QUALCOMM
+A 802.11AD WI-FI ARC SOC EMBEDDED FIRMWARE DEVELOPMENT FOR STA AND AP WITH C AND EMBEDDED C++ LANGUAGES
+UNITED AUTOMOTIVE ELECTRONIC SYSTEMS
+DESIGNED IN-CAR DIAGNOSTICS AND PROGRAMMING MODULE USING XILINX ZYNQ FPGA. BROUGHT UP WORKING PROTOTYPE OF THE DESIGN. WROTE ENCRYPTED APPLICATION LAYER PROTOCOL FOR COMMUNICATING WITH THE MODULE OVER WI-FI FROM A CONTROL CENTER ON THE PRODUCTION LINE.
+TDK CORPORATION
+Designed a demo system (software+hardware) for TDK Wi-Fi+BlueTooth micro modules. Ported Broadcom software and firmware and brought up the system. The project objective was to show TDK customers the advantage of using TDK RF components vs competition
+BROADCOM CORPORATION
+Worked on experimental project for sending Digital Audio Dolby 5.1 to wireless speakers over Wi-Fi
+Ported Android SDMMC/SDIO 3.0 driver to Broadcom BCM2814X SOC
+Designed and tested firmware ARP offload feature that allowed host CPU processor to save power
+Designed and implemented BT-COEX algorithm for the host side android driver that greatly improved interoperability of the BCM Wi-Fi STA with several wireless routers on the market when the user is on the phone call with BT headset (SCO-ESCO)
+Designed, implemented and integrated Wi-Fi Hotspot function (aka SOFTAP) for Google Nexus1 mobile phone which later became a common feature in mobile devices.
+Ported old firmware for BCM4329 Wi-Fi chip to Motorola XOOM and Nexus-S devices for compatibility with the new Broadcom DHD driver that uses CFG802.11 instead of WEXT
+Resolved lots of corner case issues that affected Wi-Fi throughput CYPRESS SEMICONDUCTOR
+Implemented TURBO MTP protocol for transferring files to/from SD, USB, NAND, SPI FLASH storage controller companion chip Astoria West BridgeTM. Astoria chip was connected to mobile device host CPU OMAP3430 via OMAP GPMC interface. Astoria chip enabled large file transfers to and from storage devices connected to the chip via USB interface to PC without waking up the Host CPU (OMAP), that saved great deal of power, and reduced file transfer time. I also wrote Android kernel driver (Google's flavor of Linux kernel) and user space middle-ware that handled file transfer synchronization with Kernel file system. File transfers used Microsoft's MTP protocol. There were a couple problems with USB and SDIO protocols on Astoria chip, I had successfully debugged the issues with Catalyst USB analyzer and Tektronix scope (for SD bus protocol issues) and applied firmware fix to Astoria chip firmware. Andrey Smolnikov Resume, Page 3
+NATIONAL SEMICONDUCTOR
+Designed a evaluation system for NSM Laser driver IC. The system was based on XILINX Spartan 3 FPGA that implements a Video pattern generator +MPL2 5D1C video interface serializer @450Mbit/sec per lane. The built-in soft core was based on Xilinx PicoBlaze micro-controller. Picoblaze core program was written in assembly language. PC GUI control center was written in Borland Delphi. Designed and implemented Adaptive Backlight algorithms for National Semi mobile LCD display drivers
+Worked in the lab on a prototype of National’s 1st digital Power (PID based) high power PSU. Identified and fixed number of issues with controller’s buck-boost power train
+Provided technical support for NSM CR16C Microcontrollers (mostly software support for CR16C SDK and uCos-II). Developed custom software modules for uCos-II RTOS UBICOM Inc.
+Designed and developed Client-Server and Network protocols that facilitated measurement of online gaming playability score (aka OPScore) to the users. The OPScore greatly depends on user’s ISP and type of their CPE (Routers switches, etc.) The client was implemented as Win32 ActiveX object built into the OPScore Web page that was hosted on RackSpace
+Developed embedded software and PC client (PC Multimedia Fileserver) and hardware interface between Ubicom’s IP3023 32-bit CPU and ESS6425 DVD/DIVX chip that later served as a prototype for Vestel Inc. wireless/wired connectivity enabled TV
+Architected a prototype system for streaming digital Video and Audio over Ethernet and 802.11 networks
+Implemented Win32 Tools for testing Ubicom Networked devices at ODM production facilities
+Implemented FPGA design (with Xilinx FPGA) for verification of SERDES block of IP2023 CPU
+Developed proprietary HTTP streaming protocol for a customer’s wireless camera that allowed traverse HTTP proxies and firewalls
+EDUCATION AND TRAINING
+RVVPKU BIRYUZOVA (A MILITARY ENGINEERING SCHOOL) LATVIA, RIGA (1983-1988) Highest degree – MSEE, additional courses - Automatic control systems and Computer engineering
+Work Authorization
+US Citizen
+Contact this candidate

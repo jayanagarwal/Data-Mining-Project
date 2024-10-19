@@ -1,0 +1,381 @@
+Jie Li
+Sr. Adobe AEM Fullstack Developer
+
+Professional Summary
+Overall, 20 years of technical experience and 11 years of Adobe AEM full stack developer experience. Experienced in J2EE, XML, HTML, Javascript (React & Angular) and AEM based web applications. Responsible for the design and development of AEM based web applications and advising clients on AEM implementations. Experienced in requirements gathering, design & development, code quality standards, web testing, client communications and promoting best practices during implementation. Worked in the Web Content Management space for companies such as Charter, Caesar Entertainment, Kelley Blue Book, Kaiser Permanente, and Adobe, etc.
+Skills and Expertise
+In addition to AEM, have experience with other Web Content Management systems including WordPress, Joomla Content Management, JBoss Portal and Liferay Portal. Experience with additional tools & technologies are listed below:
+CMS
+Adobe Experience Manager (AEM) as a cloud service(in AWS), 6.5, 6.4, 6.3, 6.2, 6.1, 6.0, 5.6, 5.5, WordPress, Joomla, JBoss Portal, Liferay Portal, Adobe Tag Manager, Google Tag Manager.
+Languages
+JAVA, J2EE, Servlet, JSP, JSF, JSTL, HTML5, CSS3, JavaScript, Angular, ReactJS, JQuery, ExtJS, XML, Prototype, REST/SOAP, AJAX, JMS/JMX, PLSQL.
+Tools
+Apache Maven, Apache Ant, Sonar, Eclipse, IntelliJ Idea, HPQC, Gradle, CRXDE, CRXDE Lite, JIRA, Confluence, Selenium, Rally, Bamboo, Splunk, New Relic, DataDog.
+Version Control/DevOps
+Tortoise SVN, CVS, GitHub, BitBucket, Jenkins.
+RDBMS
+Oracle, SQL Server, MYSQL, PostgreSQL, DB2, Cassandra, Informix.
+Frameworks
+Apache Sling (using JCR), OSGi, Spring, Hibernate, TopLink, iBatis, Struts, EJB, jBPM/Activiti Workflow, Apache CXF, JAXB, Fuse ESB, Active MQ, Drools, Spring Security, Spring MVC, Camel, Jasper, jCharts.
+Platform
+Windows, Linux, Sun Solaris, AIX, HP UX.
+Application Server
+Tomcat/JBoss, WebLogic, OC4J, WebSphere, GlassFish.
+Education
+Master’s Degree in Computer Science, Maharishi University of Management, Fairfield, IA, 2000.
+Master Candidate, Electronic Science & Technology of China.
+Bachelor of Science, Chengdu University of Science & Technology, China, 1994.
+Professional Certifications
+Adobe Certified AEM Developer (scored 100%)
+SUN Certified Java Programmer
+Salesforce.com Certified Administrator
+Professional Experience
+Company: JM Alliance, Inc., Los Angeles, CA, Role: Sr. AEM Fullstack Developer, Duration: Nov 2019 – Present
+Client: Charter Communications, Inc., Stamford, CT
+Role: Sr. AEM & React Developer
+Duration: Mar 2021 – Present
+Designed and implemented internet, phone and TV service subscription buyflow web site
+Implemented common modules to support charter buyflow site including common components, styles and utilities
+Implemented editable page template with policies
+Implemented component rendering dynamically from content fragment to improve authoring and performance
+Implemented accordion/tab component. Author can switch accordion/tab type and include other components inside accordion
+Implemented service card component, shopping cart component, select card, quantity card, conditional container, modal component, payment component, SMS component, etc.
+Implemented logging service to log both front end and backend errors and customize error code and redirect to specific pages
+Integrated with backend service calls and saved data in redux store and dispatch actions and use backend data drive the front end rendering
+Leveraged google lighthouse to find potential issues to improve performance e.g. preload, lazy loading, lack of caching, lack of compression, largest contentful paint, large images, third party scripts etc.
+Wrote groovy script to remove useless configuration data due to dialog changes
+Integrated with adobe target: created audience, A/B testing and experience based activities, mbox, show different experience based on rules
+Integrated with adobe analytics: create data elements, evars, events, rules, libraries and reports and fire events
+Make sure java and react test coverage meet the requirement
+Worked with UI designer to match with figma design and converted to HTL/scss in AEM on desktop/tablet/mobile
+Technology: AEM 6.5, Java, javascript, React, OSGI, junit, sling, webpack, eslint, stylelint, jest, html5, scss, HTL, Maven, Git
+
+Client: Meijer, inc., Grand Rapids, MI
+Role: Sr. AEM & React Developer
+Duration: Aug 2020 – Mar 2021
+Implemented user account react component to allow user enter name, password, birth date, payment methods etc.
+Implemented product data service and integrated with product tile react components
+Implemented countdown react component to show the remaining time before special buy products are expired
+Implemented shopping cart item listing react component
+Implemented shopping cart promo code react component
+Implemented shopping cart add note react component
+Integrated with 3rd party search API and implemented search product react component
+Implemented brand filter react component
+Implemented product detail react component
+Fixed product tile styles according to new UI standards
+Integrated with eligibility service to determine shopping cart actions
+Used enzyme and jest to implement test cases and snapshot
+Fixed ADA issues for all react components and make sure screen reader speaks properly
+Converted existing code to AEM & react SPA framework
+Integrated with adobe analytics variables to existing react components
+Used fiddler to map requests to local file to help developers during service down time
+Integrated with adobelaunch to track events for analytics
+Integrated with experience based adobe target in SPA environment
+Created content fragment model, content fragment, graphql queries
+Technology: AEM 6.5, React 16.13.1, Axios, React Thunk, React Redux, bootstrap, react-hook-form, react-router, eslint, stylelint, enzyme, jest, react-scripts, react-slick, slick-carousel, prop-types, AEM SPA framework, html5, css, sass
+Client: National Rural Utilities Cooperative Finance Corporation, Dulles, VA
+Role: AEM Lead Developer
+Duration: Nov 2019 – July 2020
+Created AEM starter project to support front end &back-end development and added dependencies in pom.xml.
+Wrote document to help developers’ setup local environment.
+Configured box.com document management dev environment and created box.com connection API key.
+Implemented a web page to import csv file to setup box.com folders, users, groups, permissions automatically.
+Implemented custom doc component to download, upload, print and share documents and author can configure doc title, container. height, folder name, logo, sort direction, sort by (name, date, size)
+Implemented a custom component dialog dropdown which can read from a database lookup table.
+Implemented a web page to manage web user in database/LDAP and associate it with box.com user.
+Implemented unit test cases for all database operations.
+Technology: AEM 6.2, html5, css3, jQuery, Javascript, Java, Servlet, Box CLI, Box Java SDK, Box API/UI Elements, Jersey, hibernate, Sybase, ehcache, Junit
+
+Company: City National Bank, Los Angeles, CA
+Role: AEM Lead Developer
+Duration: Apr 2019 – Nov 2019
+Migrated legacy web sites from AEM 6.3 to AEM 6.5.
+Designed and implemented www.cnb.com responsive website in AEM 6.5.
+Ensured www.cnb.com follow ADA accessibility compliant using AXE chrome plugin.
+Implemented custom components on top of core components.
+Implemented home page template and content page template using editable page templates.
+Implemented header and footer using experience fragments.
+Implemented shared content using content fragments.
+Implemented visual variations of components using AEM style system and followed BEM notation.
+Leveraged ui.frontend project and webpack server to speed up front end development.
+Reorganized client libs to /apps to follow adobe best practice.
+Built up unit test cases using junit, mockito, AEM Mocks.
+Implemented a scheduler to pull bank rates from web service and saved in jcr.
+Implemented 301/302 redirect admin page to generate redirect rules for complex marketing campaigns.
+Created common module to include all shared configurations and added 403/404 error handling.
+Implemented shorten URL for web sites (remove /content/website/en).
+Implemented sitemap for web sites.
+Implemented a migration servlet to update sling:resourceType to refer old components to new ones.
+Migrated AEM users and groups from AEM 6.3 environments to AEM 6.5 environments.
+Implemented vanity URL admin page using ReactJS and SPA Editor.
+Configured Jenkins pipelines to sync code to adobe repository and use cloud manager pipelines to deploy to various adobe cloud environments.
+Technology: AEM 6.5, html5, css3, ReactJS 16.8, AEM SPA Editor, jQuery, Javascript, vs code, aemfed, Java, Servlet, Bootstrap, Oracle, WebService, Apache CXF, junit, sling model, HTL
+
+Company: JM Alliance, Inc., San Marino, CA, Role: AEM Lead Developer, Duration: Jun 2008 – Apr 2019
+Client: PNC Bank, Pittsburgh, PA
+Role: AEM Forms Architect & Lead Developer
+Duration: Dec 2018 – Apr 2019
+Implemented personal loan application form (multi steps form) based on Adobe Adaptive Form.
+Created form templates, various form fields (text, dropdown, radio, buttons, tables) and start form project from scratch.
+Created form theme to ensure all form fields have the same style.
+Validated form fields e.g. SSN, DOB field for required, data type, business logic, focus & blur event and customized error message.
+Customized form components e.g. tooltip, timeout, live help, login.
+Implemented form back button, continue button, and cancel button, wait modal logic.
+Implemented form dropdown values retrieved from REST APIs.
+Implemented personal creditors table which allows user to add/modify/delete multiple creditors in a table.
+Implemented java bundles & servlets to provide configurations, business logic checking e.g. business within zip code checking and form submit handling.
+invoked multiple servlets asynchronously from javascript and parsed json response and routed to different pages based on business logic.
+Implemented media query to ensure form responsive to desktop and various mobile & tab devices.
+Ensured form follow ADA accessibility compliant using AXE chrome plugin.
+Technology: AEM 6.3.2, AEM Adaptive Form, html5, css3, jQuery, Javascript, Java, Servlet, Perfecto mobile test platform
+Client: ServiceNow.com, Santa Clara, CA
+Role: AEM Lead Developer
+Duration: Feb 2018 – Dec 2018
+Implemented CQ component dialog using cq component maven plugin to replace traditional CQ dialog development.
+Reorganize components, slightly templates, clientlibs to cleaner and reusable architecture.
+Make components as mixin to reuse later.
+Implemented asset block component to support various assets e.g. image, svg, youtube video and brightcove videos etc.
+Implemented text/background component to support various text/background colors and opacities.
+Implemented agenda component to let the author configure any events in timespan format. End user can drill down event details and filter events.
+Implemented single sign on feature using okta and webdb e.g. registration, forget password.
+Implemented email sending based on template, integrated with office365 SMTP server and added run mode for various environments.
+Implemented popup page that can show translated languages e.g. English, Spanish, French, etc.
+Implemented tabbed component that end user can navigate each tab and view text/video content.
+Implemented breadcrumb components that shows navigation based on user defined root path. It can go up/down to the root path.
+Implemented common CTA component to meet all various CTA requirements.
+Implemented job list component to integrate jobvite API to list jobs based on user search filters.
+Generated sitemap automatically based on content structure for search engine.
+Technology: CQ component maven plugin, slightly templates, html5, css3, sass, scss, jQuery, Javascript, CQ6.4.1
+Client: www.panduit.com, Chicago, IL
+Role: AEM Lead Developer/Angular Developer
+Duration: Dec 2017 – Feb 2018
+Developed a component to show product groups in list view/grid view/mobile view.
+Developed i18n framework based on angular & AEM platform
+Developed web site menu navigation that enables author easy configuration
+Developed a servlet to fetch products from large amount of data and built index to improve search performance
+Developed angular application to import parts from excel and search, edit and update parts in a table and integrated with AEM
+Developed angular application to export parts data and generate certificate PDF for these parts and integrated with AEM
+Technology: html5, css3, sass, scss, jQuery, Angular 5, AEM6.2, Bootstrap, Git, Jira, maven, Apache Web Server
+Client: Petco Animal Supplies, Inc., San Diego, CA
+Role: AEM Lead Developer/AEM Support Team
+Duration: Mar 2017 – Nov 2017
+As a member of AEM support team and troubleshoot all AEM related issues.
+Enabled web site mobile preview capability and customized almost all available mobile devices in the marketplace in device groups.
+Integrated with new relic real time system & application monitoring system and customized events, metrics and dashboard to monitor servlets health, web pages & DAM search, indexing, user login, page publish, dispatcher flush, activation/de-activation workflow, DAM update asset with scene7.
+Wrote a listener to monitor bundle status whenever it goes down and author cancel page inheritance events.
+Implemented a large amount of data (250GB+) sync between prod and lower environments using grabbit tool.
+Wrote a tool to reset users' password.
+Migrated users, groups, permissions between environments.
+Used query debugger tool to retrieve all kinds of AEM health info e.g. number of assets by type, number of new assets in a given day, average access to assets per month, what percentage of the repository is active, etc.
+Analyzed memory dump and thread dump to tune performance and troubleshoot out of memory issue.
+Configured publish agent, dispatcher flush agent and dispatcher.
+Refractored css & javascript loading using client libraries.
+Reviewed and optimized servlet performance e.g. article search, category search and product info.
+Tested applications performance using adobe toughday and jmeter and generated charts e.g. create/update pages, activation, user login, search, upload images.
+Analyzed and discovered disk i/o performance.
+Configured user authentication using LDAP in AEM.
+Troubleshoot scene7 image viewer not rendering issue.
+Customized image sync servlet to remove junk images in live copies. (adobe blue print activation bug).
+Troubleshoot publish & dispatcher flush agent blocking issue.
+Reviewed and optimized daily backup and cleanup scripts.
+Technology: html5, css3, sass, scss, jQuery, Javascript, CQ6.0sp2, New Relic, Grabbit, Git, SourceTree, Jira, maven, IBM WebSphere Commerce, Apache Web Server
+
+Client: North Face, San Francisco, CA
+Role: AEM Lead Developer
+Duration: Oct 2016 – Feb 2017
+Worked in a complex multiple sub modules retail platform environment as a front end developer.
+Implemented Oracle Rapid Retargeter tag for shop cart tracking in Google Tag Manager.
+Implemented Media Math pixel tag for shop cart, checkout, PDP, catch all pages in Google Tag Manager.
+Implemented Neustar pixel tag in Google Tag Manager.
+Implemented Pebble Post remarketing tag in Google Tag Manager.
+Implemented Bold Chat tag tracking in Google Tag Manager.
+Analyzed network requests loading time and download size on web site major pages.
+Audited 3rd party tracking systems for potential performance improvements.
+Added Aria roles to the top navigation bar for accessibility.
+Implemented sign in modal and popup second modal (create account) inside of the first modal using Foundation Reveal Modal framework.
+Fixed bug footer misalignment issue on IE9.
+Fixed bug gap between price and reviews in quick shop page.
+Made font size smaller for product name on mobile PDP page.
+Technology: html5, css3, sass, scss, jQuery, Requirejs, Fundation, Javascript, Google Tag Manager, CQ6.2, Git, SourceTree, Sublime Text, Grunt, Jira, maven, IBM WebSphere Commerce, Oracle VirtualBox, Chrome Requestly, Apache Web Server
+Client: Avery Dennison, Glendale, CA
+Role: AEM Lead Developer/Architect
+Duration: Aug 2016 – Oct 2016
+Designed and implemented training registration forms using Adobe Adaptive Form
+Integrated Adobe Analytics with Adaptive Form
+Designed Adobe XDP form template and synchronized with Adaptive Form
+Localized Adaptive Form in various languages e.g. French, German, Italian
+Developed and implemented contact us form using adobe form
+Developed list pages to show all available trainings
+Integrated with Card Connect/Doc Data to process credit card online payment
+Implemented template based email notification
+Leveraged Adobe API to prevent XSS attacking on Forms
+Leveraged OSGi configuration to configure online payment parameters
+Technology: AEM6.1, Adobe Form, Adaptive Form,Adobe XDP form template, HTML5, CSS3, jQuery,java, servlet, Rest service, jenkins, maven, Sling, Content Repositories (CRX, Apache Jackrabbit)/ OSGi (Apache Felix)
+Client: Adobe/Kaiser Permanente, Pleasanton, CA
+Role: AEM Lead Developer/Architect
+Duration: Apr 2016 – Aug 2016
+Attended meeting with client infrastructure team to gather user requirement
+Implemented curl scripts to change user password, privileges, create transport user, replication user, publish agent, flush agent, etc.
+Provided suggestion about heartbeat for FN5 cache strategy
+Implementing preview workflow for preview content before publish
+Installed and configured dispatcher
+Reviewed AEM security checklist and collect and review log files and provided recommendations
+Implemented scripts to backup and restore AEM instance
+Reviewed hotfixes for AEM6.1 and implemented scripts to install automatically
+Reviewed Splunk and AEM log files integration
+Reviewed Mercury BSM tool for AEM integration
+Reviewed Akamai invalidation mechanism
+Technology: AEM6.1, curl,java, servlet, Rest service, Rally, jenkins, maven, Apache Sling/ Java Content Repositories (CRX, Apache Jackrabbit)/ OSGi (Apache Felix)
+Client: U.S. Department of Veterans Affairs, Washington D.C.
+Role: AEM Lead Developer
+Duration: Jan 2016 – Mar 2016
+Implemented mobile application in AEM6.1 in Android & iOS
+Implemented Find VA Facilities for mobile users and show on google map
+Implemented scheduler to pull VA facilities via VA web services and saved in CQ jcr nodes
+Technology: PhoneGap, Mac/iOS, xcode, Android SDK,html5, css3, jQuery, AEM5.6.1, java, servlet, Rest service, Rally, jenkins, maven, Apache Sling/ Java Content Repositories (CRX, Apache Jackrabbit)/ OSGi (Apache Felix)
+Client: Uniqlo.com, Burbank, CA
+Role: AEM Lead Developer
+Duration: Aug, 2015 – Dec, 2015
+Reviewed existing code and provided possible solution to improve code quality and performance
+Bug fixes, new functionalities, customization, site improvements for Uniqlo (retail ecommerce) entire us website
+Provided informal mentoring to less experienced colleagues
+Provided design and documentation at an application or function capability level
+Participated in establishing and maintaining application standards and processes
+Integrated with scene7 to support US images
+Integrated with find in store Google GeoLocation API and visitor invisible location detection
+Integrated with Google Analytics Tagging
+Implemented responsible design for product detail page
+Developed a new inventory API
+Implemented quick view feature and purged useless page nodes
+Developed a scheduler to sync with Google calendar
+Integrated with bazaar voice SEO
+Implemented A/B test feature and integrated with Adobe Target
+Technology: html5, css3, SASS, jQuery, RequireJS, Slice, AEM5.6.1, Git, java, servlet, Rest service, Jira, jenkins, maven, Apache Sling/ Java Content Repositories (CRX, Apache Jackrabbit)/ OSGi (Apache Felix)
+
+Client: Kelley Blue Book, Irvine, CA
+Role: AEM Lead Developer/Architect
+Duration: May 2015 – Aug 2015
+Attended business discovery session to prepare Technical Design Document for presales and SOW
+Trained and mentored developers for technical implementation and best practices
+Designed and implemented page templates and components (Carousel, BrightCove Video, Customized Image, Rich Text Editor, Customized Tag Component, Customized Container Component, Gigya Integration, Customized MultiField Components, Column Control Container Component, Customized Link Component)
+Implemented ImageRenditionHelper, LinkHelper, ArticleHelper, TagHelper, Character Counter, Valid Character Checker
+Implemented page properties and design dialogs to support default values
+Built deployment framework to support Dev, QA and Staging multiple environments deployment
+Designed and implemented workflow and event trigger to create, edit, approve, publish content
+Provided best practice and optimized css, javascript and client libraries reorganization, OSGi configuration, and jsp/html
+Tested in Author and Publish instance to make sure it works in all environments
+Technology: html5, css3, jQuery, touch ui, sightly, AEM6.0 with SP2, java, servlet, Rest service, Jira, jenkins, teamcity, maven
+Client: Adobe/T.RowePrice, San Antonio, TX
+Role: AEM Lead Developer/Architect
+Duration: Mar 2015 – May 2015
+Automate user, group and access right creation process on multiple environments using Adobe ACS commons UI standards
+Create preview workflow and deactivate workflow to allow author edit content, send email notification and approve from admin user and replicate to preview and publish instance
+Create listener for Akamai synchronization
+Help client setup right code base structure, common libraries, and maven build
+Provide component standardization
+Create sling search servlet to allow user search content and return with json, jsonp and xml
+Technology: AEM 5.6.1, HTML5, CSS, jQuery, JavaScript, Servlet, JSP, JSTL, JDK 7, Maven, Jenkins, Git, jUnit, Eclipse
+Client: Adobe/CPS Energy, San Antonio, TX
+Role: AEM Lead Developer
+Duration: Feb 2015 – Mar 2015
+work as AEM mentor to resolve any technical issues that development team faces
+Help Team fix various CSS styling issues
+Help Team fix blog sort by date issue and can't create comment issue
+Help Team fix Maven setup issue and install Oracle JDBC driver bundle
+Implement Login function using JSON
+Custom workflow for super author review, reject & approve and build mail service using templates
+Client: Kelley Blue Book, Irvine, CA
+Role: Senior AEM Developer
+Duration: Jul 2014 – Dec 2014
+Migrated legacy complex web site js & jquery and css to AEM environment, figure out which one can be reused and which one has to be rewritten e.g. carousel landing page, QuickPoll component, video component.
+Created custom client lib folders and defined categories & dependencies in AEM for js & css e.g. REST service based dynamic dropdown, custom multiple composite field and various page layout, color, styles, font and alignment.
+Troubleshoot and bug fix in multiple composite field JavaScript errors and share with the team.
+Resolved js & jquery and css conflicts between AEM and integration environment to avoid overloading.
+Resolved JavaScript same origin policy issue and provide workaround to read panels from carousel.
+Read legacy web site JavaScript and json format and code servlet that generates the right json to make JavaScript continue working e.g. expand panel from carousel.
+Developed and configured AEM components & pages to support legacy js & jquery and css.
+Coded dynamic JavaScript and AEM components to support BrightCove video components.
+Leveraged html/css/JavaScript to custom richtext component.
+Configured JavaScript& css base path and setup run mode for various environments deployment.
+Customized dropdown listener JavaScript to display friendly help text.
+Coded RSA encryption utility java class and encrypt/decrypt important accounts.
+Read panels in the carousel by multi-threading to improve performance greatly.
+Developed utility java classes to read resources from AEM easily.
+Performed proof of concept and integrated with BrightCove video capability in AEM
+Performed proof of concept and integrated with Gigya customer identity management in AEM.
+Performed proof of concept and integrated with BazaarVoice ratings and reviews in AEM.
+Implemented mobile version of kbb.com carousel pages.
+Technology: AEM 6.0, HTML5, CSS, jQuery, JavaScript, Servlet, JSP, JSTL, JDK 7, Maven, Jenkins, Git, jUnit, Eclipse, JIRA, Confluence
+
+Client: Avery Dennison, Glendale, CA
+Role: Senior AEM Developer
+Duration: Jun 2014 - Jun 2014
+Integrated AEM/Twitter and make Twitter configuration easily from a web site.
+Technology: AEM 6.0, HTML5, CSS, jQuery, JavaScript, Servlet, JSP, JSTL, JDK 7, Maven, Jenkins, Git, jUnit, Eclipse, JIRA, Confluence
+Client: Caesars Entertainment, Las Vegas, NV
+Role: Senior AEM Developer
+Duration: Apr 2014 - Jun 2014
+Created standard AEM responsive templates for all Caesar properties web sites.
+Added bootstrap responsive design and media queries to pages. Optimize for all kinds of devices and browsers, and small screens.
+Ensured JavaScript and css e.g. page layout, alignment, color and style compatible across various browsers.
+Technology: AEM 6.0, Bootstrap3, HTML5, CSS, jQuery, JavaScript, Servlet, JSP, JSTL, JDK 7, Maven, Jenkins, Git, jUnit, Eclipse, JIRA, Confluence
+Client: La Quinta, San Antonio, TX
+Role: Senior Java Developer
+Duration: Jan 2014 – Mar 2014
+Implemented RESTful Java Web services that were utilized by AEM and designed to be used by other La Quinta systems.
+Integrated web services with other partners, such as Pegasus, Epsilon, Lanyon, TripAdvisor, MerchantLink, Google Wallet and Google Maps.
+Technology: AEM 6.0, HTML5, CSS, jQuery, JavaScript, Servlet, JSP, JSTL, JDK 7, Jenkins, jUnit, Eclipse, Confluence, Swagger, Spring Profile, Graddle, JMX, ActiveMQ, Tomcat, Hystrix, Rally, Git
+Client: Caesars Entertainment, Las Vegas, NV
+Role: AEM Developer
+Duration: Nov 2013 – Jan 2014
+Implemented Internet Booking Engine to return json feed to .Net service call
+Created templates, components and pages to make sure same look & feel as existing web sites
+Technology: AEM 5.6, HTML5, CSS, jQuery, JavaScript, Servlet, JSP, JSTL, JDK 7, Maven, Jenkins, Git, jUnit, Eclipse, JIRA, Confluence
+
+Summary of other roles:
+Company/Client Name & Location
+Role
+Duration
+CGI Group Inc., Sacramento, CA
+Senior Java Developer
+Sep 2013 – Nov 2013
+SYSCOM Inc., Baltimore, MD
+Senior Java Developer
+Dec 2012 – Jul 2013
+Resources Global Professionals Healthcare, San Francisco, CA
+Senior Java Developer
+Apr 2012 – Oct 2012
+Franklin Templeton Investments, Dublin, CA
+Java Lead Developer
+Jun 2011 – Mar 2012
+www.LifeQuotes.com, Darien, IL
+Java Consultant
+Mar 2011 – Jun 2011
+EC Wise, Inc., San Rafael, CA
+Lead Developer
+Feb 2010 – Mar 2011
+HoHo Technology, San Jose, CA
+Senior Developer
+Aug 2009 – Jan 2010
+www.soamods.com, Chicago, IL
+Lead Developer
+Mar 2009 – Jul 2009
+SOS International LTD., New York, NY
+Web Architect and Lead Developer
+Oct 2008 – Feb 2009
+Voyona, Inc., Cupertino, CA
+Web Architect and Lead Developer
+Jul 2008 – Oct 2008
+EC Wise, Inc., San Rafael, CA
+Sr. Software Architect and Lead Developer
+Feb 2005 – Jun 2008
+Oracle Corp, Redwood Shores, CA
+Senior Applications Engineer
+Sep 2000 - Feb 2005
+Everest Consulting Group
+Informix DBA
+Nov, 1999 – Sep, 2000
+Ciber Consulting, Inc
+Software Engineer
+Apr, 1999 – Oct, 1999
+Contact this candidate

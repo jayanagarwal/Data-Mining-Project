@@ -1,0 +1,133 @@
+EDUCATION
+*rd student of Computer Science at UIT – University Information
+Technolory
+GPA : 8.12 / 10.0
+Certification:
+• Convolution Neural Networks (Coursera)
+• Neural Networks and Deep Learning ( Coursera)
+• Structuring Machine Learning Projects (Coursera)
+• Improving Deep Neural Networks: Hyperparameter
+Tuning, Regularization and Optimization (Coursera)
+• Sequence Models (Cousera)
+CertificationLink:https://drive.google.com/drive/folders/1uMWSsT6HoUi S2r_QLJJsf1UhnCaZN5vS?usp=sharing
+Course:
+• DeepLearning ( Coursera) – Full Course
+Programming Languge: C++, Python
+Libraries: Scikit-learn, TensorFlow,
+NumPy, Pandas, Matplotlib, Keras
+Others: Github, Google Colab, Visual
+studio
+Lê Phước Đạt
+AI Engineer
+TECHNICAL SKILLS
+Participating in school algorithm contest : WECODE_CHALLENGE2018 Participating in school algorithm activity: ALGO BOOTCAMP2018 Participating in school AI contest: AI Tempo Run 2021 Encouring learning scholarship at 2nd semester of the academic 2018-2019 OBJECTIVES
+Name : Lê Phước Đạt
+Date of Birth : 8th Sep 2000
+Address :
+National University A dormitory, 6 Town,
+Linh Trung Ward, Thu Duc City, Ho Chi
+Minh CT
+Phone : +849********
+Email: adn3ma@r.postjobfree.com
+• Get into a large company, work under a
+professional enviroment
+• Contribute your ability to projects
+• Become a leading expert in AI industry
+• Bring value to society
+• Knowledge, good programming ability
+• Have programming thinking,
+good ability to solve problem
+• Actively learn, research and seek
+new technologies
+• Adapt quickly to new enviroments
+• Good interpersonal and
+communication skills PROJECTS
+SKILLS
+ACTIVITIES AND AWARDS
+PERSONAL INFORMATION
+1, Gender Classification
+- Description : Input: image, output: Gender
+- Method: + Data : 2000 images from CelebA dataset
++ Use MTCNN to face alignment
++ Reduce dimension with pretrained facenet
++ Train in multi Machine Learning model, tuning
+hyperparameter and select the best
++ Enhance 200 images about elderly and children and retrain to overcome the disadvantages of CelebA dataset
+- Team size: 1 members
+- Role : Do everything
+- Finishing time : 2 months
+- Tech used : Python, Sklearn, Keras
+- Github: https://github.com/lephuocdat2000/-CS114.K21-
+/tree/master/GenderClassification
+2, Removing background with Chroma Key Technique
+- Description: Input: image or video and background Output: Image or video which has been replaced background 5, Speech Emotion Recognition for Vietnamese
+- Description : Input : Audio or Record for 5-10
+seconds
+Output: Emotion
+- Method : + Collect 500 Vietnamese audio and
+combine with IEMOCAP and RAVDESS dataset
++ Build model using two methods:
+traditional Machine Learning with hand-crafted
+features ( pitch, harmonic,…) and Deep Learning
++ Conduct three experiments for
+each method:
+- Use only Vietnamese dataset
+- Use English dataset to train
+then test on Vietnamses dataset
+- Combine two languages
++ Evaluate two methods and choose
+the best one
+- Team size: 5
+- Finishing time: 1 months
+- Role: Build Deep Learning model and conduct
+three experiments
+- Tech used : Python, Flask
+- Github:
+https://github.com/lephuocdat2000/Speech-
+Emotion-Recognition-for-Vietnameses
+PROJECTS
+- Method: + Convert image or frame (video) from RGB to HSV color space
++ Detach H and S color space and use K-means Clustering algorithm to cluster background pixel value in these color spaces
++ Calculate Gauss distribution of background
++ Create image mask with Gauss distribution
++ Remove background with formula: mask * image +
+background * (1- mask)
+- Team size: 3 members
+- Role : Propose solution, Back-end
+- Finishing time: 1 months
+- Tech used: Python, Sklearn, Flask
+- Github:
+https://github.com/lephuocdat2000/NhapmonCV/tree/master/%C4%90%E 1%BB%93%20%C3%A1n%20Th%E1%BB%8B%20gi%C3%A1c%20M%
+C3%A1y%20t%C3%ADnh
+3, Part - of Speech tagging for Vietnamese ( POS)
+- Description : Input : Vietnamese sentece
+Ouput: Sentence has been seperated from word and
+label with each word
+- Method: + Collect 60 Vietnamese sentences
++ Word separation with Vietokenizer
++ Labeling data using website:
+https://vlsp.hpda.vn/demo/?page=vcl
++ Build model with Hidden Markov algorithm
+- Team size: 3 members
+- Role: Participating in collecting data, build model
+- Finishing time : 1 months
+- Tech : Python, Flask
+- Git:
+https://github.com/lephuocdat2000/NLP/tree/main/Pos%20Tagger%20for
+%20Vietnamese
+4, Social Distancing Violation Detection
+- Description : Input: image or video
+Output: image or video with red bouding boxes if it has violation
+- Method: + Pick 4 points to define detection area ( ROI )
++ Use pretrained Yolov4 to detect person and choose bottom
+– center point in each bouding box to represent that box coordinate
++ Convert ROI to top-down view with perspective transform
++ Calculate scale beetween pixel and real distance
++ Calculate pixel distance beetween each pair of bouding boxes and using scale to convert it to real distance
++ Drawn red boxes for pairs that have distance under 2m
+- Time size: 2 members
+- Finishing time: 2 months
+- Role: Participating in contributing solution, coding, optimzation and model validation
+- Tech used: Python, Flask
+- Github: https://github.com/lephuocdat2000/Advanced- CV/tree/main/Social%20Distancing%20Violation%20Detection
+Contact this candidate

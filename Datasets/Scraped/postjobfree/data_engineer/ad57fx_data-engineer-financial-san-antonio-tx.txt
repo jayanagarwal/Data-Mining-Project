@@ -1,0 +1,131 @@
+Pavithra Nagarajan ad57fx@r.postjobfree.com Data Engineer +1-210-***-****
+Professional Summary
+
+10+ years of experience in design, development, testing and deploying data & analytics solutions using GCP, AWS, Python, Snowflake, Big Data/ Hadoop, Meta Data Management, Data Governance, Data Quality and Data Modelling to large Insurance, Retail and Financial services
+Extensive experience in developing data pipelines, managing database migrations, maintaining data infrastructure and implementing CI/CD practices. Results-driven Data Engineer with extensive experience in migrating data pipelines from legacy infrastructure to modern frameworks.
+Experience with Python and corresponding Data Analysis and Data Visualization such as Pandas and NumPY
+Responsible to manage data coming from different sources like Databases, Hadoop, different file formats and loading of structured and unstructured data in GCP cloud storage bucket and AWS S3
+Hands on Experience in Spark architecture and its integrations like Spark SQL, Data Frames and Datasets APIs.
+Worked on Extraction, Transformation, and Loading (ETL) of data from multiple sources like Flat files, XML files, JSON, API and Databases.
+Developed and maintained data ingestion and transformation processes using tools like Apache Beam and Apache Spark
+Designed and implemented data pipelines using GCP services such as Dataflow, Dataproc, Cloud composer and Pub/Sub. Created and managed data storage solutions using GCP services such as BigQuery, Cloud Storage, and Cloud SQL.
+Hands on experience AWS S3, AWS ELB (Elastic Load Balancer), AWS EC2, IAM, AWS Lambda, EFS (Elastic File System), Cloud Formation, Cloud Watch, Redshift and AWS Glue.
+Implemented data security and access controls using AWS, GCP’s Identity and Access Management (IAM)
+Managed containerized workloads and services using Kubernetes.
+Optimized data pipelines to reduce costs, while ensuring data integrity and accuracy. Furthermore, I have streamlined the import of data from various sources into the BigQuery warehouse, enhancing the quality of data insights and improving access to data sources.
+Analyzed the data and created insightful information about data in the form of reports, charts, dashboards and metrics using Microstrategy, Tableau and Datastudio that aids stakeholders to improve their business performance.
+Proficient in converting complex business scenarios to understandable IT requirements.Proven credibility through vision, business acumen, strategy, thought leadership and technical expertise
+Steered in gathering complex business requirements through strategic partnership with customers to understand the data needs
+Expert knowledge in Data & Analytics Strategy, Information Life cycle Management, and Agile.
+Technical Skills
+GCP Services: Bigquery, Dataproc, Cloud Storage, Google Kubernetes Engine (GKE), Pub/Sub, Cloud Composer, Cloud SQL, Cloud Run, Dataflow, Data Studio, IAM
+AWS Services: S3, EC2, Lambda, EFS, Redshift
+Snowflake - SnowSQL, Copy command, Snowpipe
+Programming Languages: Python & Flask, SQL, Java & Spring basics, Scala basics, HTML, CSS &Bootstrap, JavaScript, jQuery & AJAX
+Python Libraries and API: Pandas, NumPY and Pyspark
+Big Data Technologies: Hadoop, Hive, Kafka, Spark
+ETL: Informatica
+Databases: Teradata, PostgreSQL, MySQL server, MongoDB
+BI Tools: Microstrategy, Tableau, Data Studio
+Version Control Tools: GIT, GITHUB, GITLAB
+Containerization Tools: Docker, Kubernetes
+Application Servers: Apache Tomcat, Nginx
+Operating Systems: Linux (CENTOS & REDHAT), Ubuntu, UNIX and Windows
+Infrastructure as Code: Terraform, Cloud Formation
+Others: Control-M, Postman, Agile Development, JIRA
+
+Work Experience
+
+Data Engineer (Oct 2023 – Present)
+Minisoft Technologies
+Architected and deployed data ingestion solutions using Python and REST API to efficiently load and transform data into BigQuery, enhancing data accessibility and enabling timely decision-making for stakeholders.
+Spearheaded the adoption of innovative BigQuery solutions, improved the query performance.
+Automated data extraction and integration processes using GCP Data Fusion, reducing man-hours spent by 20%
+Used Pub/sub a publish-subscribe messaging system by creating topics using consumers and producers to ingest data into the application for Spark to process the data and create kafka topics for application and system logs.
+Created a customized report for all the projects in organization using GCP Bigquery connected with Datastudio which displays cost consumed by each project, drilling down cost based on service. Automated mail will be sent to management every week.
+
+Technical Lead – Cloud Migration (May 2022 – Sep 2022)
+HCL Tech
+End Client: Ford
+Transformed on-prem Teradata/Hadoop data to GCP Bigquery as per the client requirements using cloud storage, Dataproc / Dataproc serverless and Dataflow. Developed the Historical Incremental logic with proper restore facility.
+Analysed existing data pipelines to understand their architecture, dependencies, and functionality.
+Designed a data pipeline for migrating on-prem data to GCS worked on Cloud Composer (Apache Airflow DAG) for scheduling the jobs to load the data from GCS to Bigquery, restoring the backup data.
+Managed Hadoop/Spark cluster with Cloud Dataproc via Command-line Interface.
+Integrated data pipelines with data visualization tools such as Tableau for Dashboard and report generation.
+Transfer the data from Teradata to GCP by using JDBC connector and Dataproc serverless.
+Developed a streaming data pipeline from Pub/Sub to BigQuery using Dataflow templates, and led the migration to BigQuery, achieving a 40% improvement in query performance.
+Extracted data from GCP cloud storage using gsutil and export it to format that snowflake supports such as CSV and loaded the data into Snowflake using SnowSQL, Snowpipe and copy command.
+
+IT Analyst (March 2015 – May 2022)
+Tata Consultancy Services (TCS)
+Project 1: Technical lead- Cloud Migration (Nov 2021 – May 2022)
+End Client: CNA Insurance
+Managed database migration for Java application, transitioning from MySQL server to PostgreSQL (Cloud SQL), ensuring seamless data transfers and system integration.
+Executed batch migration of base and dependent table DDLs and DMLs to PostgreSQL, enhancing database performance and reliability.
+Implemented continuous integration/continuous deployment (CI/CD) pipelines using Jenkins and Kubernetes, achieving a 45% reduction in release times.
+Configured and operated Cloud Dataproc clusters, executing Apache Hadoop jobs and directing outputs to Cloud Storage, adeptly managed cluster lifecycle.
+Created a batch data pipeline on GCP with Dataflow to process the extract raw data from cloud storage and process the data, and write it to Bigquery.
+Set up development environment with necessary tools and libraries such as JDK, Apache Beam and Google Cloud SDK.
+Created a new Dataflow job using Python by mentioning the source as Cloud Storage Bucket and implemented the necessary transformations, process logic to transform raw data into desired format.
+Configured the sink to write the processed data to Bigquery and Tested the Dataflow job locally to ensure it function as expected.
+Utilized Cloud SQL, Cloud Composer (Apache Airflow), and Stackdriver Monitoring within the Google Cloud Platform to optimize computing and storage solutions.
+Streamlined data extraction and loading processes, handling CSV and JSON files from Cloud Storage to Snowflake Data Warehouse, bolstering data accessibility.
+
+Project 2: Technical lead (Nov 2018 – Oct 2021)
+End Client: Signify
+•Developed a visualization tool Python Flash web application to view dashboards models, utilizing the Flask web framework and Plotly JS by ensuring efficient sprint planning and user story effort estimation and created the workflow based on business requirements.
+•Integrated multiple data sources into the tool, including databases, files, and Rest APIs, to enhance functionality and user experience.
+•Implemented Elasticsearch to provide a robust search index, facilitating quick retrieval of datasets.
+•Used Postman for design and test the Rest API.
+•Analysed and manipulated data using the Pandas and NumPy libraries, focusing on data cleaning and exploration.
+•Designed and stored data models in PostgreSQL, utilizing loopback API for efficient data handling.
+•Constructed a web interface employing JavaScript, jQuery, and Ajax to improve user interaction and functionality.
+•Managed version control and continuous integration/deployment using GitLab, streamlining code updates and delivery.
+•Orchestrated the creation and management of Docker images and containers, automating deployment processes to enhance performance.
+•Successfully deployed Dataphics on production servers, GKE, and Azure, ensuring reliability and access for stakeholders.
+•Deployed the application in AWS, utilized Infrastructure as code tools like Terraform and maintained CI/CD pipelines using AWS Lambda service.
+•Optimized AWS Lambda function for cost and Performance.
+•Developed Spark application using Scala to save files into S3 buckets and processing using PySpark below
+•Created Data Lake from scratch in AWS and load the data based on ETL process.
+•Developed workflows using AWS Glue Extract, Transformation and Load the data into Data Lake
+•Created workflow DAG’s and schedule the DAGs in Airflow.
+•Used IAM roles to load the data based on the roles like Data Engineers, Devops Engineers & Admins.
+•Extracted the data and loading into S3 Buckets and Redshift based on the requirements.
+•To check the logs using CloudWatch after running the jobs.
+•Demonstrated expertise in customer service, streamlining appointment scheduling, and effectively resolving complaints.
+
+Project 3: Developer - Financial Planning and Analysis (Mar 2016 – Oct 2018)
+End Client: The Home Depot
+•Analysed functional specifications, ensuring accurate source-to-target mapping and adherence to data models.
+•Involved in data transformation and processing from Teradata to Bigquery using Bigquery Data Transfer Service (BTEQ) and TPT.
+•Conducted Data validation processes to confirm the integrity of table structures, data types, and data consistency between Teradata and BigQuery databases.
+•Transitioned from MicroStrategy to Datastudio for the generation of data reports, optimizing reporting processes.
+•Developed and maintained Tableau reports to meet specific client requirements.
+•Communicated effectively with stakeholders, providing updates and highlighting potential issues with project deliverables.
+•Collaborated within a team environment to meet project milestones and deliver high-quality BI solutions.
+•Contributed to the smooth migration of databases by verifying data accuracy and system compatibility.
+
+Project 4: System Engineer - Data transformation (Mar 2015 – Feb 2016)
+End Client: Microsoft Mobile One (Nokia)
+•Developed ETL programs using Informatica to implement the business requirements.
+•Developed the mappings using needed Transformations in Informatica tool according to the technical specifications.
+•Created complex mappings that involved the implementation of Business logic to load data into the staging area.
+•Performed data manipulations using various Informatica Transformations like Filter, Expression, Lookup (Connected and Unconnected), Aggregate, Update Strategy, Normalizer, Joiner, Router, Sorter and Union.
+•Scheduled and monitored complex workload using control-M
+
+Software Engineer – Application Development (Aug 2012 – Feb 2015)
+MiniSoft Technology
+Collaborated with clients to analyse and interpret business requirements, ensuring alignment with technical specifications and project objectives.
+•Developed the application's front end, integrating technologies such as HTML, CSS, Bootstrap, JavaScript, jQuery, JSON, and AJAX for a responsive and user-friendly interface.
+•Constructed and maintained the application's backend using the Flask framework, and managed data interactions through RESTful API integration, complemented by the creation and execution of MySQL database queries.
+
+Certifications
+
+Google Cloud Certified Professional Data Engineer
+Google Cloud Certified Associate Cloud Engineer
+
+Education
+
+Graduated Master of Engineering in Medical Electronics and Minor in Computer Science at Rajalakshmi Engineering College, Anna University, 2014, India
+Graduated Bachelor of Engineering in Bio Medical Engineering and Minor in Computer Science at Dhanalakshmi Engineering College, Anna University, 2012, India
+Contact this candidate

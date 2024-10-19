@@ -1,0 +1,101 @@
+Ntseh Monikang Oracle Database Engineer
+www.linkedin.com/in/notyouraveragedba www.credly.com/users/ntseh-monikang
+Bowie, MD 240-***-**** adypyj@r.postjobfree.com
+
+8X Oracle CERTIFIED
+
+I’m a highly experienced and dedicated Oracle Cloud DBA with Solutions Architect experience. I’ve accumulated 19+ years of experience in IT. I possess deep proficiency in Oracle Database Administration and cloud architecture, migration, and transformation, with a proven track record of delivering successful enterprise cloud solutions for customers. Possessing excellent communication and collaboration skills, with the ability to lead technical teams and guide internal and external stakeholders in process improvement. I always place our stakeholders’ best interests first, and will always accomplish the mission, and deliver on all promises. Here's why I believe I am the best fit for the role of Database Administrator:
+
+Analysis and Planning: Gathering requirements and research. Accessing scope and addressing stakeholder expectations, Resource allocation, Capacity Planning, Documentation, Presentation.
+Database and Storage: Redshift, AWS S3, AWS DMS, RDS, Oracle RDBMS 12/19/21c, Mongo DB, PostgreSQL
+Observability and Management: OEM 13c, AWR, Ad-hoc scripts, Peer review, Troubleshooting performance issues, Root cause analysis, Documentation, Mentoring, Upgrades, Patching, Security, Trend analysis.
+High Availability, Backup and Replication: RMAN, Oracle RAC, Dataguard, GoldenGate, ODI
+Testing and Development Tools: Database Refreshes, Data pump, Snapshot standbys, SQLDeveloper, Toad
+Languages: Shell scripting, SQL, Bash, Python
+
+PROFESSIONAL EXPERIENCE
+
+Senior Database Engineer IV & Cloud Architect USAC Washington, DC 07/2013 – Present
+
+Helmed 20+ projects from cradle to grave following all stages in SDLC, ensuring effective cross-functional collaboration and transparent status reporting. All project accomplished within SAFe framework.
+Spearheaded relationship management with key stakeholders, to develop roadmaps to the cloud and perform assessment for existing process for improvement.
+Reduced Oracle footprint and cost: Migration of some of our smaller oracle database from Oracle to Postgresql.
+Monitored and mitigated project risks, ensuring 100% on time delivery.
+Collaborative team player performing peer review of documentation before final presentation, review scripts before final release to production.
+Adept in heterogeneous database upgrading and migration scenarios.
+Improved overall security for the database by integrating database user management with Microsoft Active Directory.
+Automated processes and reduced costs by 23%, Increase DBA productivity and overall security posture of databases Leveraging tools like CMU
+Play a leadership role in the design of Disaster Recovery and High Availability solutions.
+Improved Developer and other stakeholder onboarding process and experience there by increasing productivity.
+Managed DBA on-call rotation
+Master troubleshooter (nicknamed The Closer) for Oracle database, Coordinate with Oracle Support for immediate timely resolutions for very serious issues.
+Refresh databases across the environments using appropriate backup and restore procedures.
+Performed multiple OEM installations, configurations and upgrades.
+On-call rotation
+
+Subject Matter Expert Oracle SyApps, LLC (Dept of Homeland Security) Washington, DC 02/2011 – 06/2013
+
+A driving force in data center consolidation project for DHS, Phases involve discovery, analysis, planning, migration, and validation.
+An active participant in multiple complex software development and integration projects from cradle to grave.
+Lead the architecting, documenting, implementation of a comprehensive DR/HA strategy, actively carried out training workshops of personnel regarding these procedures.
+Increase DBA productivity by leveraging bigfile tablespaces instead of default tablespaces.
+Implemented DR solution for Oracle databases by using Oracle Dataguard.
+Refresh databases throughout all environments using suitable backup and restore methods.
+Using Rapid Install in the installation of Oracle applications R11i/R12.
+Troubleshoot performance issues and apply patches and family packs as needed.
+Directed the manual migration of Oracle E-Business Suite R12.2 with oracle 12c database.
+Perform patching and upgrading of an Oracle E-Business Suite R12.2 on oracle 12c database.
+Using RConfig Convert a single instance EBS oracle database to RAC. The process also involved using adbldxml.pl to create new context file and modifying said file. Supervising the execution of AutoConfig in the App Tier.
+Cloning Oracle Applications Release 11/12 with Rapid Clone on oracle RAC database systems.
+On-call rotation.
+
+Senior Database Engineer AT&T Annapolis, MD 10/2005 – 02/2011
+
+Data Center with almost 2000 databases in various stages in SDLC and with different SLAs.
+Promoted to Senior Database Engineer.
+Bolstered customer satisfaction scores 35% by developing a project management framework ensuring SOW was completed on time and on budget.
+Provide support for PeopleSoft, SAP, EBS and COTS: Involved in database install, configure, monitor, Upgrade or Patch, Planning, Preparing the Environment, Backup and Restore, deploying, Testing and Validating, Go-Live and providing support throughout the SDLC. Perform database refreshes and other common database tasks.
+Refresh databases across all environments using backup and restore techniques.
+Perform proactive monitoring and provide quick resolutions to issues before it becomes noticeable to the stakeholder.
+Create necessary SOP documentation to guide database activities.
+Install, configure and tune SQL Server 2008 R2 and SQL Server 2012 on Windows Servers.
+Configured full, differential and transaction log backups for SQL Server databases, Use transaction logs for database recovery.
+Monitor and troubleshoot the daily tasks such as backup failures to ensure successful database backup.
+Monitor scheduled jobs and resolve failures to ensure that application tasks such as critical reports complete on time.
+Monitor database resource utilization.
+Configure and monitor Quest SharePlex for database replication.
+
+Additional Experiences:
+
+Evolver Inc. (Dept. of Commerce), Senior Oracle DBA, 2010 Census
+Bereans Partners, Oracle DBA, 2003-2006
+
+PROFESSIONAL DEVELOPMENT & FEATURED CLOUD PROJECTS
+
+DIGITAL CLOUD TRAINING BOOTCAMP: AWS Solutions Architect 06/2022 – Present
+
+Currently still in the program. However I’ve completed comprehensive apprenticeship program with 18+ real-world projects. Cumulated with the acquisition of AWS Certified Solutions Architect – Professional Certification. Accepted into AWS Community Builders program.
+
+Oracle University: Cloud Infrastructure 09/2022 – Present
+
+Currently enrolled in Oracle University. Successfully completed the OCI 2022 Architect Associate and currently working on OCI 2023 Architect Professional certification
+
+Migration: Oracle to AWS
+Planned and executed the migration of Oracle database to AWS using AWS DMS in certain cases I also used Data Pump, RMAN and S3 buckets during the migration process. The process involved preparing the AWS environment, backup of the Oracle database, transfer of data to AWS, restore and recovery of the database.
+Tools & Services: DMS, Data Pump, RMAN
+
+3 Tier Architecture
+Designed and implemented a highly available 3-tier architecture in AWS/OCI containing a web tier, an application tier, and data tier that hosted a static website, enforced and maintained security between tiers, and leveraged Auto Scaling and ASG. Deployed in two Availability Domains with launch Templates and AMIs for scalability, maintainability, flexibility, and security.
+Tools & Services: VPC, Auto-Scaling, Launch Templates, AMI, Load balancers, Elastic Block Store, EC2, Security Groups
+
+Disaster Recovery
+Developed an active/passive disaster recovery solution for Oracle databases and web application across multiple AWS/OCI Regions with failover between regions. This architecture provided fully automated DR Failover with short RPO/RTO.
+Tools & Services: RDS, EC2, DB Systems, Dataguard, Database Backups, DNS, Load Balancer, Auto Scaling, ASG, AMIs, Instance Configurations, Custom Images, Disaster recovery (DR) protection groups
+
+Zero Downtime Migration
+Reduced human error, automated repetitive tasks, and reduced costs by 30%, by leveraging Oracle ZDM. Scheduling the migration of databases at specific times when the workload is less and any impact will be minimal.
+Tools & Services: Autonomous Database, ZDM, VM instances, API Keys, Oracle Database, Object Storage, Auth Tokens
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Professional AWS Cloud Quest: Solutions Architect Oracle Cloud Database 2023 Migration and Integration Professional OCI 2022 Architect Associate OCI 2022 Foundations Associate Oracle Database 12c Administrator Certified Professional Oracle Database 11g Administrator Certified Professional Cloud Practitioner
+Contact this candidate

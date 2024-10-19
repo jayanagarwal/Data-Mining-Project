@@ -1,0 +1,29 @@
+Soumya Bonela
+813-***-**** ad80a5@r.postjobfree.com linkedin.com/in/soumya-bonela-033636140/
+EDUCATION
+University of South Florida Tampa, FL, USA.
+Master of Science in Computer Science Aug 2021– May 2023 K L University Guntur, Andhra Pradesh, India.
+Bachelor of Science in Computer Science and Engineering May 2015 – May 2019 WORK EXPERIENCE
+Software Engineer I Oct 2023 – Present
+Charter Communications Spectrum Englewood, CO
+• Build synchronous and asynchronous API (application programming interface) clients that submit API calls and HTTP requests to reset devices and query for device information/status for over 26,000,000 devices.
+• Developed new speed test router for a backend REST API to GET the device information and to POST the test results and audited the request and the response body for all the end points built for a microservices
+• Build python client for modem speed test service by implementing authentication and authorization mechanisms such as JWT and Basic Auth to secure the API and tested the API using tools such as Postman and Containerize the application using Docker
+• Upgrade and refactor synchronous and asynchronous versions of > 90% of REST API clients to use the HTTPX web client Python library to improve code functionality, quality, and consistency
+• Improve code coverage by 84% and test coverage by 95% for new backend API microservice by implementing comprehensive automated continuous integration and continuous development (CI/CD) pipeline unit tests
+• Implement custom logging capabilities to cover 100% of methods and functions of REST API clients to create debugging and information logs to track events and errors.
+• Utilized Postman to create and execute test suites, analyze responses, and debug API endpoints, ensuring seamless integration and optimal performance of backend services. Developed Python clients based on Swagger specifications, ensuring seamless integration with API endpoints, both in synchronous and asynchronous.
+• Performed audit testing, unit testing, and component testing on services to ensure code quality and reliability, especially to validate the responses giving the correct error code.
+• Collaborated with senior developers to design and develop Python clients for various services.
+• Technologies/Frameworks used: Python, FastAPI, Docker, Kubernetes, RabbitMQ, Redis PROJECTS
+PokeAPI - FastAPI App with Message Brokers FastAPI, Docker, Kubernetes, RabbitMQ.
+• Developed a FastAPI app that interfaces with the open source Pok emon API and performs GET, PUT, DELETE, and POST operations to update a connected Redis database
+• Utilizes a publish-subscribe messaging model through RabbitMQ, producer and consumer microservices to perform HTTP methods and notify users of successful message publishing and consuming. Mygarmentsshop- Online Shopping web Python, Django framework, HTML, CSS, Bootstrap, SQLite.
+• Created an online store for displaying and selling garments using Python and Django.
+• This website showcases clothing from where the user can purchase, built in HTML, CSS and bootstrap.
+• The data related to each item is stored into the database (SQLite).
+• The site provides facilities like product search, sending emails to customers, creating customer logins, order history and admin panel.
+TECHNICAL SKILLS
+Languages: Python, Java, SQL, JavaScript, HTML, CSS Frameworks and Technologies: FastAPI, Docker, Kubernetes, RabbitMQ, Redis, Django, PyTest, Datadog, Angular, React/ReactJS, MySQL, NoSQL
+Developer Tools/Skills/Knowledge: Agile, Scrum, Software Development Life Cycle, Test Driven Development, UnitTesting, Version Control, VS Code, IntelliJ, Git, GitHub, Gitlab, Linux, Artifactory, Jira, Computer Networking
+Contact this candidate

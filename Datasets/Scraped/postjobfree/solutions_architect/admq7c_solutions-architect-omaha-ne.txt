@@ -1,0 +1,75 @@
+Name: Alban T Dossou
+Address: **** **** *** *****, **
+Tel: 507-***-****
+Email: admq7c@r.postjobfree.com
+Summary of Qualifications:
+A self-motivated Cloud AWS/DevOps Engineer offering about 7 years of experience in supporting and optimizing mission critical deployments in AWS, designing, and implementing CI/CD pipeline using Jenkins, provisioning, and managing highly available, fault-tolerant and scalable infrastructures on AWS utilizing terraform as IAC along with Ansible to automate configuration management. Proficient in Cloud security, identity and access management, monitoring and event management, governance and compliance, application delivery, data protection, image and patch management, self-service and ops analytics in AWS platform. Solid background in creating and handling containers with Docker and Kubernetes. Technical skills in writing bash and python codes.
+Technical Skills and Technology Stack:
+• Cloud Orchestration/Automation: AWS CloudFormation, AWS Lambda, AWS Systems Manager, AWS SSM Parameter Store, Ansible, Docker
+• AWS Security: AWS Security Hub, AWS Guard Duty, AWS Shield, AWS Firewall Manager, AWS Inspector, etc.
+• Monitoring & Event Management: AWS CloudWatch (Events & Logs), AWS SNS, AWS S3
+• Identity & Access Management: AWS Organization, AWS IAM, AWS AD Connector, Active Directory, AWS Workspaces, AWS Secrets Manager, etc.
+• Governance & Compliance: AWS Config Rules, AWS Organization, AWS Control Tower, AWS Trusted Advisor, AWS Well Architected Tool, AWS Budgets, AWS License Manager, etc.
+• Programming Languages: Bash, JSON, YML, Python
+• Application Delivery: Jira, Confluence, Jenkins, Bitbucket, AWS Code Pipeline, AWS Code Commit, AW
+• Data Protection: AWS Certificate Manager, AWS KMS, Snapshot Lifecyle Manager, AWS Cloud HSM,
+• Self Service: Service Catalog
+• Network: VPC, VGW, TGW, CGW, IGW, NGW etc.
+• Image & Patch: AWS SSM Patch Manager, AWS Golden AMI Pipeline
+• AWS Platform: AWS CloudFormation, AWS Lambda, AWS Systems Manager, S3, VPC, EC2, ELB, RDS, SNS, SQS, SES, Route53, CloudFront, Service Catalog, AWS Auto Scaling, Trusted Advisor, CloudWatch etc.
+• Data Analytics: Amazon S3, Amazon S3 data lakes, Amazon RDS, Amazon DynamoDB, Amazon Redshift, Amazon Athena
+Education:
+• Bachelor of Science in business with a Financial Planning Certificate
+• University of Phoenix (March 2018)
+• Bachelor in Finance – Accounting
+• National University of Benin (2009)
+Certifications :
+• AWS Certified Solutions Architect – Professional
+• GCP Associate Cloud Engineer
+Professional Experience:
+DevOps Engineer June 2016 – Present
+JJTECH Inc, MD
+• Developed and leveraged baseline and custom guardrails, policies, centralized policy enforcement, tagging policies and a well architected multi account environment.
+• Designing and implementing automation infrastructure for configuration management and orchestration deployment using Automation tools such as Ansible
+• Built and maintained Kubernetes cluster on AWS EKS
+• Managed Kubernetes cluster and Docker containers upgraded and downgraded applications on K8s cluster based on development team’s needs.
+• Designed and implemented highly available, scalable, and secure AWS Infrastructures using IAAC tools such as Terraform.
+• Built and maintained automated CI/CD processes for applications with Jenkins, eliminating up to 70% of manual work which reduced human error and sped up production.
+• Created Ansible playbooks to automatically install packages from a repository, to change the configuration of remotely configured machines and to deploy new builds.
+• Implemented a production ready, load balanced, highly available, and secure and fault tolerant Kubernetes cluster on AWS EC2 instances.
+• Updated limits and requests of resources within the Kubernetes cluster.
+• Used Kubernetes to orchestrate the deployment, scaling and management of containers.
+• Utilized code repositories (GitHub), CI/CD tool (Jenkins) and configuration management (Ansible) to automate build and deployment.
+• Assisted developers in breaking up monolithic app into microservices, improving developer workflow, increasing scalability, and optimizing speed to meet the business
+• Built and managed dev and testing environments, assisting developers in debugging application issues on containers, monitored and troubleshot failed builds in various pipelines.
+• Architected and configured Dev/Stage/QA environments in AWS (VPC, subnets, security groups, EC2 instances, load balancer, RDS, Redis, route53, etc.) AWS Platform Architect/Engineer February 2013 - June 2016 Prime Home, Omaha, NE
+• Managed provisioning of AWS infrastructures using CloudFormation
+• Design for high availability and business continuity using self-healing-based architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB health checks, Auto Scaling, and other disaster recovery models.
+• Created patch management using Systems Manager automation for multi-region and multi account execution
+• Implemented preventive guardrails using Service Control Policies (SCPs)
+• Implemented security best practices in AWS including multi factor authentication, access key rotation, encryption using KMS, firewalls- security groups and NACLs, S3 bucket policies and ACLs, mitigating DDOS attacks etc.
+• Monitored end-to-end infrastructure using CloudWatch and SNS for notification
+• Built custom images though docker server, docker compose with multiple local containers and created production grade workflows and a continuous application workflow for multiple images
+• Implemented multiple container deployments to AWS and maintained sets of containers with deployments
+• Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling etc.
+• Configured CloudWatch alarm rules for operational and performance metrics for our AWS resources and applications.
+• Deployed and configured infrastructure using Terraform and Ansible
+• Performed applications installation, upgrades/patches, troubleshooting, maintenance, and monitoring Linux servers
+• Perform security setup, networking, system backup and patching for both AWS, and on-premise environments.
+• Architect high availability environment with auto scaling & Elastic Load Balancer
+• Securely deploy MySQL Primary DB and its read replica in private subnet with multi AZ for disaster recovery and best practice
+• Migration of high availability webservers and databases to AWS EC2 and RDS with minimum or no downtime
+• VPC build with Private and Public Subnet couple with VPNs setup back to on premise datacenter and cooperate offices
+• Built secure, highly available, redundant and resilience architectures on AWS
+• Provisioned Infrastructures on AWS using AWS console, terraform defining VPC, EC2, subnets, SG, ELB, ASG, EBS, EFS, S3 and Route 53 to ensure high availability of resources.
+• Developed baseline AWS account security, implemented/integrated end-point protection, vulnerability scanning and intelligent threat detection
+• Built serverless architecture with Lambda integrated with SNS, CloudWatch logs.
+• Configured CI/CD Pipelines using Jenkins connected to GitHub and build environments.
+• Implemented IAM best practices and role-based access control.
+• Solution and Manage enterprise architecture in AWS (Control Tower, AWS Organization, Trusted Advisor).
+• Setup Ansible control and slave nodes and developed playbooks to automation configuration of servers across environments.
+• Leveraged different design principles for security in the cloud and implemented various AWS services to improve our security posture for Authentication, Authorization, Monitoring, Auditing, Encryption and Data path security and incident response.
+• Implemented containers on AWS using ECS and complementary services, including Amazon Elastic Container Registry (ECR)
+• Wrote Docker files, built images and deployed Docker containers.
+• Developed VPC and Network design, leveraging VPN connectivity and Direct Connect
+Contact this candidate

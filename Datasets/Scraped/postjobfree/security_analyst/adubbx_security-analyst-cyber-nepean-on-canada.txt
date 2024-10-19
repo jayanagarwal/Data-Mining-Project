@@ -1,0 +1,109 @@
+Dedicated Cyber Security Analyst in the process of graduating from college. Eagerly seeking employment that will utilize the knowledge and skills gained in cybersecurity techniques in my upcoming position. Familiar with vulnerabilities, cyber threats, and cyber security technologies.
+
+Key Skills and Attributes:
+Work confidently under pressure and independently, self motivated, excellent time management skills
+Have garnered superior interpersonal and communication skills by collaborating closely with
+individuals and corporations
+Frequently multitasked and effectively managed time to perform and deliver results within deadlines
+Work seamlessly in various team environments to successfully manage responsibilities, possess effective communication skills
+Demonstrate determination to succeed by taking on responsibilities entrusted while working
+Results oriented, problem solver, attention to detail
+
+Education
+
+Willis College, Ottawa, ONT 2022
+Cyber Security Analyst, Diploma Program
+COURSE OUTLINE: Computing Hardware and Host Based Security Foundations, Windows Networking Administration and Security, Microsoft Application Services and Security I - Databases, Microsoft Application Services and Security II - Messaging Systems, Linux Systems Administration and Security, Network Architecture Design and Operations, Network Security Technology I - Routing & Switching, Network Security and Unified Threat Management, Labs & Certification Preparation, Cyber Security Operations and Threat Analysis, Hands-on Ethical Hacking and Network Defense.
+
+CERTIFICATIONS IN PROGRESS: Technical Certification and Product Certifications: CompTIA Security+, Cyber Security Analyst (CYSA+)
+
+CERTIFICATIONS COMPLETED: Microsoft Certified System Engineer on Windows Server 2000 (MCSE), Microsoft Certified Professional (MCP), Certified Tester Foundation Level (ISTQB), CompTIA Network+(N10-008)
+
+University of Greenwich, London, UK 2005
+MSc- Computing and Information Systems
+COURSE OUTLINE: Internet & Web Technologies, System Planning, Strategy & Management, Application Development, Distributed Systems, Project: Information Science Systems and Multimedia (Website Security).
+
+University of Delhi, India 2003
+Bachelor’s in business data Processing
+
+WILLIS COLLEGE LAB PROJECTS
+Part 1: IP Structure
+Part 2: Virtualization
+Part 3: Installation
+1. Install the operating systems with the following common configurations:
+a)IP Address: From Virtual Machine Configuration
+b)Subnet Mask: of the Servers Subnet
+c)DNS: Primary: IP of DC1, Secondary IP of DC2
+d)Gateway: First IP of the Servers subnet
+e)Enable: Remote desktop without network level authentication
+f)Change: the time zone and time settings so the time is correct to local time
+g)Join: all computers to the domain
+h)Install ADDS with integrated DNS
+i)Create the domain STUDENTNAME.com
+j)DNS zone entries:
+k)This server will only be running the Forest FSMO roles
+l)Run the following PowerShell commands as administrator: hostname
+4. Active Directory
+a. OUs: Use the following table to create the following Organizational Units:
+b. Groups: Create a Security Group in Shipping, Administration, IT, Finance, and the Sales OU’s with the name of that Organizational Unit, preceded by “Team-”
+• Create an additional Universal Group called TOR-UNIV in the Toronto OU
+c. Computers: Move the servers to the Server’s OU, The domain controllers to the Domain Controllers OU
+• Pre-stage 2 Domain-joined Workstations named WS1, WS2 in the appropriate OU
+• Pre-stage 2 Domain-joined Laptops named LT1, LT2 in the appropriate OU
+d. Users: Create a template account in each of the Shipping, Administration, IT, Finance, and the Sales OU’s, starting with “-TPL- “
+• Map a U: drive for each user going to the following UNC Path:
+\\ DC1\Staff$\DEPARTMENT\%Username% (Replace DEPARTMENT with Shipping, Administration, IT, Finance, and the Sales for the appropriate template account)
+e. Run the following PowerShell commands as administrator:
+
+other skills:
+
+Firewall
+Intrusion Detection Systems
+Intrusion Prevention System
+Access Control Lists
+Wireshark
+Snort
+Nmap
+Nessus
+Windows Server 2003
+Windows Server 2006
+Windows Server 2016
+Ubuntu 22.04
+Java Script
+HTML
+PowerShell
+Routing Protocols: RIP, OSPF,BGP etc.
+Spiceworks
+ServiceNow
+Jira
+GitHub
+
+Work Experience
+
+The Glebe Centre, Canada Nov 2022- Present
+IT Administrator
+
+Monitored, analyzed, and improved the company’s network infrastructure, troubleshooted issues and fixed bugs.
+Updated hardware and software, performed regular data backups, and developed effective processes to reduce downtime by 15%.
+Ensure all policies and procedures are followed by training staff pro-actively and in cooperation with Directors and other stakeholders.
+Developed IT policies for acceptance of use of devices, security, maintenance, lending devices, etc.
+Developed a 3-phase implementation plan for the director to implement services for the residents. Also presented a project report on the mobile device management system for iOS devices.
+Educated the staff and other team members about cyber security threats and how to mitigate them.
+Report on implementing a help desk system and recommending Spiceworks for managing a ticketing system and overall inventory of the system.
+Performed audits of active user accounts, their permissions, and privileges and made sure that non-active accounts are disabled and maintained for audit purposes in accordance with company policies.
+
+Lee Valley Tools, Canada March 2021- Oct 2021
+Machine Shop Supervisor
+
+Manages the production department to maintain a high level of manufacturability through coordination of existing facilities and efficient utilization of human resources.
+Optimized manufacturing operations by implementing Lean and other 6-Sigma techniques.
+Streamlined the process of developing SOPs and tracking production via documents and charts, as well as conducting Value Stream Mapping and assessing flow improvement and implementation.
+Strong MRP system experience to value and flow manufacturing build plans, schedules, production capabilities, and analyze current inventory levels and production capacity relative to the need for goods, based on forecasts. MRP schedules production as per bills of materials while minimizing inventory.
+Create WO, BOM’s and Routers.
+
+The Flavours Classic Indian Cuisine, Mississauga ON, Canada 2016-2020
+Restaurant Manager
+
+Continental Engineering 2005- Dec 2015
+Business Owner
+Contact this candidate

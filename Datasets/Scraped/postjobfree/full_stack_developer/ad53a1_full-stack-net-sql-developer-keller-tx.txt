@@ -1,0 +1,275 @@
+David Gilden MCSD
+Microsoft Certified Professional ID: 3230509
+LinkedIn: https://www.linkedin.com/in/davidgilden/
+
+SUMMARY
+
+Experienced software developer with over fifteen years of web related industry experience.
+Extensive experience in C#, ASP.Net (Webforms & MVC), VB.NET, T-SQL (Microsoft SQL Server),
+HTML5, CSS3, User Interface/Visual Design. Adept at translating design requirements into
+functional products (development, testing and deployment). Proficient with web site and
+application design and development using a wide range of software on both Macintosh
+and Windows platforms. Proven ability to demonstrate advanced technical abilities,
+strong work ethic and effective communication skills.
+
+PROFESSIONAL TRAINING & CERTIFICATIONS
+
+Microsoft Certified Solution Developer (MCSD)
+·Analyzing Requirements and Defining Microsoft .Net Solution Architectures (70-300), 2005
+·C# .Net (7 0-315 ASP.Net Web Applications), 2005
+·VB.Net (70-310 XML / Web Services), 2005
+·VB.Net (70-306 Windows apps), 2004
+·SQL Server 2000 (70-229 Implementing SQL Server 2000), 2004
+
+Professional Training: MUMPS Programming Language
+ESI Technology Corporation, 2003
+
+Certification in Web Programming
+University of Illinois, 2002
+
+COMPUTER Languages
+Microsoft C#, VB.NET, LINQ, Entity Framework, ADO, WCF, WPF, ASP .Net (WebFoms) / MVC / Classic,
+T-SQL, PLSQL, JavaScript, jQuery, HTML5, CSS3, PHP, PERL, XML, XLST, Regular Expressions, Splunk
+
+Development Software
+Visual Studio 2003 - 2019, Visual Studio Team System 2005 / 2008 / 2012, VS Code
+Fiddler, Telerik RadControls, Infragistics .Net Advantage, JetBrains Dot Net Peak,
+ReSharper Dev Express Code Rush, IBM iNavigator, Postman, Splunk
+
+Database
+Microsoft SQL Server 2000 - 2014, SQL Reporting Services (SSRS), SQL Server Integration Services (SSIS), Red Gate tools (SQL Prompt), Oracle (Toad), MySQL, DB2
+
+Professional Work Experience
+
+BNSF Railway January 2, 2024 - March 1, 2024
+VB.Net/ Webforms Developer - contract
+oRescued existing project after previous employee was terminated.
+oResearched existing source code and assorted backups folders to determine
+what was deployed to the Production Web Server.
+oCreated GIT Repo for codebase.
+oResolved bugs and updated existing code to meet business requirements.
+oProvided cross-training so that code could be maintained.
+oContract ended to budgetary constraints.
+
+Geographic Solutions April 17, 2023 - July 15, 2023
+.Net/SQL Developer - contract
+oModified exiting SSRS reports,
+oRefactored dynamic SQL queries in legacy stored procedures.
+oUpdated existing stored procedures to meet new business requirements.
+oWrote new C# .Net code to include a disclaimer message in PDF and Excel data export.
+oRefactored C# code used by internal application notification system.
+oParticipated in weekly code review and mentoring sessions.
+
+Bank Of America September 9 2022 - January 1, 2023
+.Net Developer - contract
+oAnalyze existing ASP classic code and database queries.
+oWork with end users to determine business requirements.
+oCreate new Razor pages using ASP .Net MVC and Bootstrap.
+oMigrate inline queries to Web API utilizing C# and Toad / DB2.
+oParticipated in daily Scrum meetings and code reviews.
+
+Brinks Inc. March 7 2022 - September 1, 2022
+.Net Developer - full-time
+oMember of iTrack support team.
+oArchitected and coded new iTrack audit modules using C# and T-SQL.
+oCreated SQL Server stored procedures that were used by audit project
+oAdding logging for audit modules application.
+oDesigned SSIS ETL Data Sync Process
+oParticipated in application deployment.
+
+JP Morgan Chase February 22, 2021 - March 2022
+Full-Stack .Net Developer - full-time
+oMember of ETF support team.
+oAdded new functionally to internal ETF applications.
+oAdding logging for legacy application.
+oParticipated in application testing.
+
+National Bankruptcy Services February 17, 2020 - March 20, 2020
+Full-Stack .Net Developer - contract
+oMember of an agile project team that supported internal business units
+oAnalyzed CSV and other data formats from external financial partners
+oWrote code to parse these flat files in a variety text formats.
+oMentored development team on using Regular Expressions.
+oContract suspended prematurely due to Covid-19
+
+NCR April 8, 2019 – July 10 2019
+Full-Stack .Net / Splunk Developer - contract
+·Member of Connected Payment Team
+oConfigured Aloha POS to run on locally on Windows 10.
+oResearched log files for Aloha POS system.
+oWorked with Splunk to analyze log files.
+oFixed bug by adding guard clauses using C# in Aloha POS Open EPS module.
+
+Talus Pay October 2018 - January 18 2019
+Full-Stack .Net/SQL Developer - contract
+·Automated Business Processes
+oResearched a cost effective scheduled FTP solution. Installed, configured and documented business requirement that VanDyke Secure FX FTP software meet.
+oCreated new DTS / SSIS packages to send CSV files via email to senior staff and managers.
+oAutomated ‘month end’ financial process using SQL Server Agent Jobs and stored procedures to run a DTS / SSIS package on the first five business days of each month.
+oCreated DTS / SSIS package with new stored procedures to pull data for daily import integration with HubSpot.
+
+·Application Maintenance
+oAdded CVS Export functionally to an existing classic ASP web page.
+
+Cornerstone Health Group May 2018 - June 2018
+Full-Stack .Net Developer - contract
+·Analyzed pharmacy web application, looked for ways to speed up application response time.
+oCreated stored procedures in DB2 Mainframe based off the original dynamic queries
+in SQL Server.
+oUpdated the HTML and CSS as needed.
+oRefactored C# code time and fix bugs and overall poor architecture
+
+·Capital Expense Request
+oUpdated the code repository, files were missing from the last developer’s code check in.
+oActively fixing poorly implemented ASP MVC project.
+oIdentified and resolved issues with invalid data in SQL Server.
+
+BNSF Railway May 2017 - October 2017
+.Net Application Developer PTC Group - contract
+·Developed Data Acquisition Web Application with Visual Studio 2017
+oCreated a desktop like user experience leveraging Javascript and jQuery
+with Telerik RadControls.
+oDesigned Information architecture using advanced CSS and HTML
+oMulti-Tier design (in C#) utilized WCF Web Service layer to isolate the front end
+presentation layer from the database.
+oWCF Ajax with jQuery allowed front end to connect the WCF Web Service layer to
+return data from SQL server and Active Directory.
+oCreated database schema and objects in SQL Server 2014.
+
+·Refactored Data Analysis WinForm Application with Visual Studio 2017
+oTook a 7 thousand line block of code in a Button Click Event
+and broke it out in multiple methods and classes.
+Facilitating code testability, maintainability, intelligibility and reuse.
+oWindows Service was able to use the classes as a result of the refactoring.
+oWrote Code to replace SQL server ‘Bulk Insert’ method with application code and TVP
+oCreated stand along WinForm to test Regular Expressions in C#.
+
+Daryl Flood Inc. May 2016 – March 2017
+.Net Business Developer - full-time
+·Rewrote Calendar Web Application using Visual Studio 2015
+oWrote Javascript code and incorporated jQuery UI widgets
+oFix bugs and added new features.
+oRefactored SQL Server stored procedures and UDFs.
+·Rewrote Warehouse Inventory Webform Application using Visual Studio 2015
+oConverted VB.Net code 2.0 to C# 4.5.
+oReplaced ADO with LINQ & Entity Framework 6.0 (for all CRUD data operations)
+·Wrote ASP.Net solution that creates dynamic PDFs with embedded barcodes.
+oBarcodes are truly dynamic and database data driven.
+·Designed Financial Aging Report using Server Reporting Services (SSRS)
+oCreated SQL Server stored procedures to aggregate data.
+oBuilt report to create multiple workbooks when exported to Excel.
+·Migrated Crystal Reports to SQL Server Reporting Services (SSRS)
+
+Y Soft (North America) May 2014 – February 2016
+.Net Application Developer - full-time
+·Architected two distinct applications for an internal invoice report project.
+oDeveloped Windows Service using Exchange web services to receive reports.
+oUtilized RSA cryptography to verify report’s digital signature.
+oImplemented database schema in SQL Server 2012.
+oCreated stored procedures, user defined functions and other database objects.
+oBuilt ASP.Net 4.5 webform application to track invoices and provide user administration.
+oDesigned a ‘Single Page Application’ user experience using jQuery and JavaScript.
+oConstructed a XSLT transform for report export from web page.
+·Migrated legacy C# winform applications from .Net 2.0 to 4.5 using Visual Studio 2012
+oFixed bugs and revised SQL queries and database access code to use ‘best practices’.
+oResearched Installer options (InstallShield, WIX)
+
+IT Consultant Contract(s) February 2006-May 2014
+
+Indico Corporation
+.Net Web Application Developer
+·Upgraded existing record management applications using Visual Studio 2012.
+oWrote new C# code and implemented new functionally for Document Upload module.
+oAdded new JavaScript code and refectories existing code to use ‘best practices’.
+oRevised HTML and CSS.
+·Created Unit and Coded UI Test plans utilizing Team Foundation Server 2012
+·Developed Windows Service and custom DLL to create data driven XML files.
+oWrote WPF application to control this service and display Event Log messages.
+
+Crosstex Energy
+.Net Web Application Developer
+·Gathered business requirements for a truck driver scheduling and management web application:
+oCreated process diagrams in Visio.
+oCreated documentation for application workflow.
+oIdentify points of failure in existing code base where new code would be added.
+
+Fidelity Investments
+Team Lead / .Net Developer
+·Was an integral part of a team of four webforms developers.
+oMigrated two existing ASP.Net ‘web forms’ written in .Net 2.0 to .Net 4.0
+oResolve complier warnings and errors. Refactored code to use new namespaces as required.
+oDocumented application deployment issues for the client's server admin group.
+
+Cash America
+.Net Web Application Developer
+·As part of the Cashlinx maintenance team:
+oResearched business rules and integrated with the Q&A group to recreate and resolved software bugs as part of webform based applications.
+oAssisted colleagues in working through complex use cases.
+oUpdated Oracle database packages using Toad.
+oWrote C# code for bug fixes and new requirements with Visual Studio 2010.
+oDocumented work and testing done for migration to the Q&A group.
+oLearned and used GitHub for version control.
+
+McKesson
+.Net Web Application Developer
+·Managed several concurrent Webforms projects.
+·Rewrote ASP.Net web applications incorporating ‘best practices’
+·Upgraded web projects to Visual Studio 2010 VB.Net 3.5 and Telerik RAD Controls
+·Replaced basic ‘drag & drop’ data source objects with programmatic versions.
+·Added UI & back end data validation with error handling.
+·Created and corrected T-SQL queries and database tables in SQL 2005
+·Updated client side JavaScript with jQuery.
+
+Range online Media
+.Net Web Application Developer
+·Built several User Controls in C#, ASP.NET
+·Created framework for intraNet dashboard
+oIncorporated LINQ & jQuery
+oDynamically Loaded User Controls (.ascx)
+
+BNSF Railway
+VB.Net Web Application Developer
+
+·Responsibilities ranged from code maintenance to new development for internal business units.
+·Visual Studio Team System 2005 / 2008 VB.Net 2.0, ASP.NET
+oBuilt apps using Microsoft XSD and ADO Datasets
+oCoded requested enhancements and resolved bugs quickly in VB code
+and at the database level (T-SQL)
+·Infragistics .Net Advantage web controls 2008 V2
+oWell versed with the use of the Webgrid control and AJAX Warp panel
+oResearched Infragistics forums and worked with their support staff to maximize
+projects under development.
+oUpgraded older projects from 7.1 to 8.2
+oResolved and documented bugs with Infragistics
+·SQL Server 2005 (Database design / created queries and created stored procedures)
+·SSIS 2005/2008 (DTS) SQL Server Integration Services
+oCreated ETL packages to import and data from Excel into SQL Server
+oLearned SSIS tool set on the job as needed and was able to provide timely turnaround when business end user emailed Excel data that needed to be imported
+·Red Gate SQL Tool Set
+oUsed for data migration and database schema synchronization.
+·SQL 2005 Reporting Services
+oCreated Reports using embedded sub-reports
+oSupported and built (new) ASPX pages that used the .Net Report Viewer control utilizing a XSD as the data layer tied to SQL Server backend (wrote both ad-hoc queries and stored procedures)
+
+Galactic LTD
+ASP.Net Web Application Developer
+·Web development and design for Galactic Meetings & Incentives.
+oBuilt web sites using ASP.Net for both external clients and internal use.
+·Web Dashboard for business and sales tracking
+oCode written in C# .Net 2.0 with SQL Server 2005 database.
+oProject used Telerik RadControls for ASP.Net 2.0
+·Used Classic ASP for internal data conversion between SQL Server and office subsystems
+·Created Flash Animation for client project.
+·Created reports using SQL 2005 Reporting Services
+
+PNM Resources
+ASP.Net Web Application Developer
+·Code maintenance, documentation and new web development for Texas New Mexico Power and
+First Choice Power.
+·Wrote custom code in C#, VB.Net 1.1 and ASP/.Net using Visual Studio 2003.
+·ASP Classic bug fixes and changes as requested by business units.
+·Wrote Web Services C# used by the TNMP marketing group.
+·Wrote new modules in ASP VB.NET. As needed, existing modules were rewritten using correct syntax and best practices.
+·SQL database scripts, created new database objects, data changes and other related data manipulation work. Work was done using Toad for Oracle and or SQL Plus.
+·Incorporated CSS and JavaScript to provide new functionally and to resolve outstanding issues.
+Contact this candidate

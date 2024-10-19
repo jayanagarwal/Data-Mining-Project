@@ -1,0 +1,180 @@
+Srikanth Boinapelly
+Senior Big Data Engineer
+Email: ad8ld5@r.postjobfree.com
+Contact: +1-330-***-****
+LinkedIn: linkedin.com/in/srikanth-boinapelly-89a4172aa
+
+SUMMARY OF EXPERIENCE
+Senior Big Data Engineer having 10+ years of experience with strong background in end-to-end enterprise data warehousing and big data projects.
+Hands on experience in using Hadoop ecosystem components like Hadoop, Hive, Pig, Sqoop, HBase, Cassandra, Spark, Spark Streaming, Spark SQL, Oozie, Zookeeper, Kafka, Flume, MapReduce framework, Yarn, Scala and Hue.
+Experience in using Kafka and Kafka brokers to initiate spark context and processing livestreaming.
+Extensive experience in working with micro batching to ingest millions of files on Snowflake cloud when files arrives to staging area.
+Extensively used Spark Data Frames API over Cloudera platform to perform analytics on Hive data and also used Spark Data Frame Operations to perform required Validations in the data.
+Proficient in Python Scripting and worked in stats function with NumPy, visualization using Matplotlib and Pandas for organizing data.
+Developed Impala scripts for ETL processes and designed database solutions in Azure SQL Data Warehouse, integrating data and implementing ad-hoc analysis using Azure Data Lake Analytics, Store, and HDInsight.
+Skilled in using Kerberos, Azure AD, Sentry, and Ranger for maintaining authentication and authorization.
+Developed and optimized Databricks ETL pipelines, integrating data from multiple sources and fine-tuning jobs to reduce processing times and improve resource utilization for real-time analytics with Spark Structured Streaming.
+Collaborated with cross-functional teams to integrate Databricks with Azure Data Factory, creating automated workflows that seamlessly moved and transformed data between cloud services while ensuring data consistency, accuracy, and alignment with organizational goals.
+Designed and implemented advanced data analytics solutions in Databricks, developing Spark applications using PySpark and Scala to perform complex transformations, aggregations, and validations, enabling real-time insights and enhancing data quality for key stakeholders.
+Excellent knowledge in using Partitions, bucketing concepts in Hive and designed both Managed and External tables in Hive to optimize performance.
+Capable of understanding and knowledge of job workflow scheduling and locking tools/services like Oozie, Zookeeper, Airflow and Apache NiFi.
+Experienced in designing different time driven and data driven automated workflows using Oozie.
+Accomplished complex data extraction by writing advanced HiveQL queries and Hive User Defined Functions (UDFs), and proficiently converted Hive/SQL queries into Spark transformations using Data Frames and Datasets.
+Extensive experience in development of Bash scripting, T-SQL, and PL/SQL scripts.
+Good Knowledge on architecture and components of Spark, and efficient in working with Spark Core, Spark SQL, Spark streaming and expertise in building PySpark and Spark-Scala applications for interactive analysis, batch processing and stream processing.
+Capable of using AWS utilities such as EMR, S3 and cloud watch to run and monitor Hadoop and spark jobs on Amazon Web Services (AWS).
+Experience in configuring the Zookeeper to coordinate the servers in clusters and to maintain the data consistency which is important for decision making in the process.
+Hands on Experience in using Visualization tools like Tableau, Power BI.
+Experience in configuring Spark Streaming to receive real time data from the Apache Kafka and store the stream data to HDFS and expertise in using spark-SQL with various data sources like JSON, Parquet and Hive.
+Experience in importing and exporting the data using Sqoop from HDFS to Relational Database Systems and from Relational Database Systems to HDFS.
+Worked on HBase to load and retrieve data for real time processing using Rest API.
+Strong knowledge in working with ETL methods for data extraction, transformation and loading in corporate-wide ETL Solutions and Data Warehouse tools for reporting and data analysis.
+Proficient in relational databases like Oracle, MySQL and SQL Server. Extensive experience in working with NO SQL databases and its integration Dynamo DB, Cosmos DB, Mongo DB, Cassandra and HBase
+Knowledge in using Integrated Development environments like Eclipse, NetBeans, IntelliJ, STS.
+Capable in working with SDLC, Agile and Waterfall Methodologies.
+IT SKILLS:
+
+Bigdata/Hadoop Technologies
+Map Reduce, Spark, SparkSQL, Spark Streaming, Kafka, PySpark,,Pig, Hive, HBase, Flume, Yarn, Oozie, Zookeeper, Hue, Ambari Server
+Languages
+Python, R, SQL, Java, Scala, Javascript
+NO SQL Databases
+Cassandra, HBase, MongoDB
+Web Design Tools
+HTML, CSS, JavaScript, JSP, jQuery, XML
+Development Tools
+Microsoft SQL Studio, IntelliJ, Azure Data bricks, Eclipse, NetBeans.
+Public Cloud
+AWS, Azure
+Development Methodologies
+Agile/Scrum, UML, Design Patterns, Waterfall
+Build Tools
+Jenkins, Toad, SQL Loader, PostgreSQL, Talend, Maven, ANT, RTC, RSA, Control-M, Oozie, Hue, SOAP UI
+Reporting Tools
+MS Office (Word/Excel/Power Point/ Visio/Outlook), Crystal reports XI, SSRS, cognos.
+Databases
+Microsoft SQL Server, MySQL, Oracle, DB2, Teradata, Netezza
+Operating Systems
+All versions of Windows, UNIX, LINUX, Macintosh HD, Sun Solaris
+
+PROJECT EXPERIENCE
+Client: Centene corporation - St. Louis MO Feb 2023 – till now
+Role: Senior Big Data Engineer
+
+Responsibilities:
+Developed Spark applications using Pyspark and Spark-SQL for data extraction, transformation and aggregation from multiple file formats for analyzing & transforming the data to uncover insights into the customer usage patterns.
+Utilized Scala functions, dictionaries, and data structures such as arrays, lists, and maps to enhance code reusability, and conducted unit testing to ensure the reliability and correctness of the developed code.
+Utilized Spark SQL API in PySpark to extract, load data, and perform SQL queries, and played a key role in the data migration process using Azure, integrating with GitHub repository and Jenkins for seamless deployment.
+Used Spark Data Frame operations for data validation and analytics on Hive data, and performed ETL from source systems to Azure services using Azure Data Factory, T-SQL, Spark SQL, and U-SQL, with data processing in Azure Databricks.
+Utilized Hive on top of Beeline for enhanced performance and developed automated build and deployment pipelines with Jenkins, achieving a 50% reduction in deployment time.
+Collaborated with cross-functional teams to configure and manage Jenkins agents for distributed builds and scalability, and conducted Jenkins training sessions to enhance team members' proficiency in continuous integration and deployment practices.
+Configured Hadoop tools including Hive, Pig, Zookeeper, Flume, Impala, and Sqoop, and deployed initial Azure components such as Azure Virtual Networks, Azure Application Gateway, Azure Storage, and Affinity groups.
+Managed data ingestion from various sources through Kafka and worked with big data technologies such as Spark, Scala, Hive, and Hadoop on the Cloudera platform.
+Making a data pipelining with help Data Fabric job SQOOP, SPARK, Scala and KAFKA. Parallel working in data side oracle and MYSQL server for data designing to source to target.
+I was in charge of PostgreSQL databases, making ensuring they were set up properly and optimized for maximum performance and dependability.
+Efficiently stored data by designing and implementing well-normalized PostgreSQL data models, while enhancing database performance, reducing query execution times, and optimizing SQL queries.
+Secured PostgreSQL databases by implementing authentication, authorization, and encryption for users to prevent unauthorized access to sensitive data.
+Designed, deployed, and managed highly available and scalable Confluent Kafka clusters to support real-time data streaming for a large-scale enterprise application.
+Designed, built, and managed ELT data pipelines leveraging Airflow, Python, and DBT, and demonstrated proficiency in Apache Cassandra, a highly scalable and distributed NoSQL database management system.
+Architect and optimize cloud-based data solutions, leveraging cloud computing technologies and platforms (e.g., Snowflake) to store and process large volumes of data.
+Led data migration efforts using SQL, SQL Azure, Azure Storage, Azure Data Factory, SSIS, and PowerShell, and designed and implemented a product search service using Apache Solr PDVs.
+Write programs using Spark to move data from Storage input location to output location by running data loading, validation, and transformation to the data.
+Possess extensive knowledge and experience in the Healthcare Insurance domain and designed highly efficient data models to optimize large-scale queries using Hive complex datatypes and Parquet file format.
+Used Cloudera Manager continuous monitoring and managing of the Hadoop cluster for working application teams to install operating system, Hadoop updates, patches, version upgrades as required.
+Developed data pipelines using Sqoop, Pig and Hive to ingest customer member data, clinical, biometrics, lab and claims data into HDFS to perform data analytics.
+Analyzed Teradata procedure and imported all the data from Teradata to My SQL Database for Hive QL queries information for developing Hive Queries which consist of UDF’s where we don’t have some of the default functions in Hive.
+Provided design recommendations and thought leadership to sponsors/stakeholders that improved review processes and resolved technical problems. Managed and reviewed Hadoop log files.
+Used Hadoop Resource Manager to monitor jobs on the Hadoop cluster, monitored the Spark cluster using Log Analytics and Ambari Web UI, and transitioned log storage from Cassandra to Azure SQL Data Warehouse, resulting in improved query performance.
+Involved in developing data ingestion pipelines on Azure HDInsight Spark cluster using Azure Data Factory and Spark SQL. Also Worked with Cosmos DB (SQL API and Mongo API).
+Worked extensively on Azure data factory including data transformations, Integration Runtimes, Azure Key Vaults, Triggers and migrating data factory pipelines to higher environments using ARM Templates.
+Worked on developing ETL processes (Data Stage Open Studio) to load data from multiple data sources to HDFS using FLUME and SQOOP, and performed structural modifications using Map Reduce, HIVE.
+Developing Spark scripts, UDFS using both Spark DSL and Spark SQL query for data aggregation, querying, and writing data back into RDBMS through Sqoop.
+Written multiple MapReduce Jobs using Java API, Pig and Hive for data extraction, transformation and aggregation from multiple file formats including Parquet, Avro, XML, JSON, CSV, ORCFILE and other compressed file formats Codecs like gZip, Snappy, Lzo.
+Implemented Data Lake to consolidate data from multiple source databases such as Exadata, Teradata using Hadoop stack technologies SQOOP, HIVE/HQL.
+Developed real-time streaming applications integrated with Kafka and Nifi to handle large volume and velocity data streams in a scalable, reliable and fault tolerant manner for Confidential Campaign management analytics.
+
+Environment: SPARK, Kafka, DBT (data build tool), Data Stage, DB2, Snowflake, Map Reduce, Python, Hadoop, Hive, Pig, Spark, PySpark, SparkSQL, Azure SQL DW, Data brick, Azure Synapse, Azure Data lake, ARM, Azure HDInsight, Blob storage, Apache Spark, Oracle 12c, Cassandra, Git, Zookeeper, Oozie. confluent, Kafka
+
+Client: Express Script - St. Louis, MO Jan 2022 – Feb 2023
+Role: Big Data Engineer
+
+Responsibilities
+Used Spark-Streaming APIs to perform necessary transformations and actions on the data got from Kafka.
+Implemented Kafka Connect connectors to integrate Kafka with various external systems, enabling seamless data ingestion and delivery.
+Developed workflow in Oozie to automate the tasks of loading the data into Nifi and pre-processing with Pig.
+Worked on Apache NIFI to decompress and move JSON files from local to HDFS.
+Managed diverse data sources like Access, Excel, CSV, Oracle, and flat files using connectors, tasks, and transformations provided by AWS Data Pipeline, and worked with JSON format files using XML and Hierarchical DataStage stages.
+Designed and implemented robust ETL workflows for data extraction, transformation, and loading, utilizing AWS Glue Crawlers to catalog data across Amazon S3 and RDS, enhancing data accessibility and processing efficiency.
+Extensively utilized Parallel Stages like Row Generator, Column Generator, Head, and Peek for development and debugging, and mentored analysts in building purposeful analytics tables in dbt for cleaner schemas.
+Developed a python script to transfer data from on-prem with AWS. Worked on the tuning of SQL Queries to bring down run time by working on Indexes and Execution Plan.
+Reduced analytical query response times and improved query speed by implementing query optimization techniques in Amazon Redshift.
+Created and executed comprehensive recovery and backup strategies for Amazon Redshift to protect data and minimize loss, with a strong understanding of AWS components such as EC2 and S3.
+Designed and implemented a configurable data delivery pipeline for scheduled updates to customer-facing data stores using Python, and ingested data through cleansing and transformations, leveraging AWS Lambda, AWS Glue, and Step Functions.
+Developed HIVE UDFs to incorporate external business logic into Hive script and Developed join data set scripts using HIVE join operations.
+Created various hive external tables, staging tables and joined the tables as per the requirement. Implemented static Partitioning, Dynamic partitioning and Bucketing.
+Developed custom Kafka producers and consumers for publishing and subscribing to Kafka topics, migrated MapReduce jobs to Spark jobs for improved performance, and worked on designing MapReduce and YARN flows, writing MapReduce scripts, performance tuning, and debugging.
+Used the Data Stage Director and its run-time engine to schedule running the solution, testing and debugging its components, and monitoring the resulting executable versions on ad hoc or scheduled basis.
+Stored data in AWS S3 similar to HDFS and ran EMR programs on the stored data, while using AWS CLI to suspend AWS Lambda functions and automate backups of ephemeral data stores to S3 buckets and EBS.
+When data is unavailable on our HDFS cluster, I scoop data from Netezza to HDFS, and transfer data from AWS S3 to AWS Redshift using the Informatica tool.
+Worked on Hive UDFs but had to end the task midway due to security privileges, implemented a Continuous Delivery pipeline using Docker, GitHub, and AWS, and wrote Flume configuration files for importing streaming log data into HBase.
+Experience in setting up the whole app stack, setup, and debug log stash to send Apache logs to AWS Elastic search.
+Developed Spark code using Scala and Spark-SQL/Streaming for faster testing and processing of data.
+Implemented AWS provides a variety of computing and networking services to meet the needs of applications
+Wrote HiveQL queries based on requirements, processed data in Spark, and stored it in Hive tables. Imported existing datasets from Oracle to the Hadoop system using Sqoop, and brought data from various sources into Hadoop and Cassandra using Kafka.
+Experienced in using Tidal Enterprise Scheduler and Oozie Operational Services for coordinating clusters and scheduling workflows, modelled, lifted and shifted custom SQL, transposed LookML into dbt for materializing incremental views, and applied Spark Streaming for real-time data transformation.
+Exported analysed data to relational databases using Sqoop for visualization and report generation for the BI team with Tableau, and implemented a Composite server for data visualization needs, creating multiple views for restricted data access using a REST API.
+Implemented the machine learning algorithms using python to predict the quantity a user might want to order for a specific item so we can automatically suggest using kinesis firehose and S3 data lake.
+Allotted permissions, policies and roles to users and groups using AWS Identity and Access Management (IAM).
+
+Environment: Hadoop (HDFS, MapReduce), DBT, Data Stage, Scala, Spark, DB2, Snowflake, Impala, Hive, MangoDB, Pig, Devops, HBase, Oozie, Hue, Sqoop, Flume, Oracle, AWS Services (Lambda, EMR, Auto scaling), Mysql, Python, Scala, Spark, Hive, Spark-Sql.
+
+Client: Allied Telesis - San Jose, CA Aug 2020 – Dec 2021
+Role: Data Engineer
+
+Responsibilities:
+Experience in Job management using Fair scheduler and Developed job processing scripts using Oozie workflow.
+Used Spark-Streaming APIs to perform necessary transformations and actions on the fly for building the common learner data model which gets the data from Kafka in near real time.
+Experienced in performance tuning of Spark Applications for setting right Batch Interval time, correct level of Parallelism and memory tuning.
+Developed streaming pipelines with Azure Event Hubs and Stream Analytics for IoT data analysis, and maintained UNIX/Linux environments.
+Developed custom alerts using Azure Data Factory, SQL Database, and Logic Apps, optimized existing Hadoop algorithms using Spark Context, Spark SQL, Data Frames, and Pair RDDs, and built pipelines to move hashed and un-hashed data from XML files to a Data Lake.
+Expertise in analyzing data using Pig scripting, Hive queries, Spark (Python), and Impala, with experience in writing live real-time processing using Spark Streaming with Kafka.
+Development level experience in Microsoft Azure providing data movement and scheduling functionality to cloud-based technologies such as Azure Blob Storage and Azure SQL Database.
+Involved in importing real-time data to Hadoop using Kafka and implemented Oozie jobs for daily imports, while developing a Pig program to load and filter streaming data into HDFS using Flume.
+Experienced in handling data from different datasets, join them and pre-process using Pig join operations.
+Developed HBase data model on top of HDFS data to perform real time analytics using Java API.
+
+Environment: Spark, Kafka, Hadoop, HDFS, Spark-SQL, Azure, Python, Map Reduce, Pig, Hive, Oracle 11g, My SQL, MongoDB, Hbase, Oozie, Zookeeper, Tableau.
+
+Client: Northfield Bank, Staten Island, NY Jan 2017 – July 2020
+Role: Hadoop Developer
+
+Responsibilities:
+Experience in writing stored procedures and complex SQL queries using relational databases like Oracle, SQL Server and MySQL.
+Developed various Mappings with the collection of all Sources, Targets, and Transformations using Informatica Designer.
+Used Hive to implement data warehouse and stored data into HDFS. Stored data into Hadoop clusters which are set up in AWS EMR.
+Performed data preparation using Pig Latin to achieve the required data format, and gained experience working with the Spark ecosystem, utilizing Spark SQL and Scala queries on various formats such as text files and CSV files.
+Developed Spark code and Spark SQL/streaming for efficient data processing, and created ETL pipelines using Pig and Hive for data extraction and ingestion into the Hadoop Data Lake.
+Involved in designing the row key in HBase to store Text and JSON as key values in HBase table and designed row key in such a way to get/scan it in a sorted order.
+Created Hive schemas using performance techniques such as partitioning and bucketing, and utilized Hadoop YARN to perform analytics on data in Hive.
+Developed and maintained batch data flows using HiveQL and Unix scripting, and converted Hive/SQL queries into Spark transformations using Spark RDD, Scala, and Python.
+Worked extensively with Sqoop for importing metadata from Oracle, created Hive tables, loaded and analysed data using Hive queries, and developed Hive queries to process data and generate data cubes for visualization.
+
+Environment: Hadoop, MapReduce, HBase, JSON, Spark, Kafka, Hive, Pig, Hadoop YARN, Spark Core, Spark SQL, Scala, Python, Java, Hive, Sqoop, Impala, Oracle, Yarn, Linux, Oozie.
+
+Client: TESCO Hindustan PVT Ltd, India Dec 2013 – Oct 2016
+Role: Junior Hadoop Developer
+
+Responsibilities:
+Implemented Avro and parquet data formats for apache Hive computations to handle custom business requirements.
+Installed and configured Hive, Pig, Sqoop, Flume and Oozie on the Hadoop cluster.
+Installed Oozie workflow engine to run multiple Hive and Pig Jobs.
+Developed Simple to complex Map/reduce Jobs using Hive and Pig
+Developed Map Reduce Programs for data analysis and data cleaning.
+Extensively used SSIS transformations such as Lookup, Derived column, Data conversion, Aggregate, Conditional split, SQL task, Script task and Send Mail task etc.
+Implemented Apache PIG scripts to load data from and to store data into Hive.
+
+Environment: Hive, Hadoop, Cassandra, Pig, Sqoop, Ooze, Hive, Python, MS Office.
+
+Education Details
+B. Tech in computer science – Aurora’s Technological and Research Institute (JNTUH) – 2013.
+Contact this candidate

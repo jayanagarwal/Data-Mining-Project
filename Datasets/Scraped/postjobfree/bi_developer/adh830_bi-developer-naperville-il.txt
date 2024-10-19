@@ -1,0 +1,159 @@
+Harika Konereddy
+BI Developer adh830@r.postjobfree.com
+Chicago, IL 773-***-****
+
+Summary:
+* ***** ** ******* ********* experience implementing solutions in Informatica, Oracle, SQL Server Database, Oracle BI (OBIEE) and Power BI through design, development, deployment, post go-live and support.
+Experience with SDLC phases of Data warehouse and Business Intelligence projects that includes Requirements Gathering, Data Requirement Analysis, Solution Design and Data Mapping, Code Development, Unit Testing and Deployment.
+Sound knowledge of Database, data analysis, ETL, reporting processes in developing Enterprise Data Warehouse (DW).
+Experience with SDLC phases of Data warehouse and Business Intelligence projects that includes Requirements Gathering, Data Requirement Analysis, Solution Design and Data Mapping, Code Development, Unit Testing and Deployment.
+Extensive experience in T-SQL (DDL, DML and DCL), Creating, developing new database objects by like Tables, Views, Indexes, Complex stored procedures, function (UDF), cursors, and triggers, locking issues, BCP, common table expressions (CTEs).
+Extensive experience in Creating Reports and Dashboards for various needs of Business Intelligence using OBIEE and Power BI.
+
+Power BI
+
+Having good experience in Power query, Power pivot and Power view for creating the effective reports and dashboards in Power BI.
+Experience in creating dashboards using Power BI visualizations Worked on Custom Visualizations like Chiclet Slicer, Pulse Chart etc.
+Publishing the reports into Power BI Service and sharing the dashboards to the Users.
+Creating content packs and creating roles to implement Row Level Security (RLS) for the reports.
+Experience on enabling various types of filters for reports and pinning visuals into dashboards
+Experience in importing data from developed excel into power bi desktop using get data.
+Experience DAX expressions like Logical, Aggregate, and Time Intelligence & Date Functions to create business Calculations based on requirements.
+Good knowledge in Power BI Embedded functionality to embed Power BI reports into their own web apps.
+Knowledge in connecting on premise Gateways to server in Power BI.
+
+OBIEE
+
+Created visual interactions using edit interactions to make few visual to effect data based on requirement.
+Experience in gathering reporting and analysis requirements, documenting the report specifications, implementing the metadata layers including Physical, Business Model and Mapping, and Presentation layer.
+Experience in migration of OBIEE between dev/test/prod environments.
+Experience in facts, dimensions, hierarchies and developing Dimension and Snowflake schemas.
+Expertise in design and development of the three layers (Physical/Business Model and Mapping/ Presentation) of OBIEE Metadata Repository (.rpd) using Oracle BI Administration Tool.
+Experience at configuring OBIEE Metadata Objects including repository, variables, interactive dashboards, and reports.
+Experienced in designing customized interactive dashboards in OBIEE using drill down, guided navigation, prompts, filters, and variables.
+Expert in using OBIEE Answers to create queries, format views, charts, and add user interactivity and dynamic content to enhance the user experience.
+Experienced in working with Variable Manager to define session and repository variables and initialization blocks to streamline administrative tasks and modify metadata content dynamically.
+Experienced in developing Dimensional Hierarchies, Level Based Measures, and adding multiple sources to business model objects.
+Experience in creating and scheduling iBots in Oracle BI Delivers to provide real-time, personalized and actionable intelligence data to subscribers.
+Experienced in configuring and set up of OBIEE Security using External Database Tables and configuring object level and database level security.
+Experienced in configuring Usage Tracking.
+Extensive experience in creating executive reports with BI Publisher integrated with OBIEE.
+Familiar with Oracle BI Apps modules- Sales, Service, Marketing, HR, and Finance.
+Extensive experience with Informatica data Extraction, Transformation and Loading from various sources like Oracle, SFDC and Flat Files.
+Experience with installation and configuration of Informatica and OBIEE environments.
+
+Technical Skills:
+Databases
+MS SQL Server, Oracle11g/12c
+SQL Server Tools
+SSMS, Configuration Manager, SSIS, SSAS, Visual Studio, SSDT
+ETL Tools
+SQL Server Integration Services (SSIS), Informatica power center v 9.61, 10.1.1, Power Query
+Reporting Tools
+Excel, Power BI, OBIEE
+Operating Systems
+Windows 7, Windows 10, MAC.
+
+Educational Qualification:
+
+Bachelor of Technology in Information Technology from Jawaharlal Nehru Technological University, Andhra Pradesh, India. (2010-2014)
+
+Professional Experience:
+
+Project # 1 (May 2016 to May 2018)
+Client: Sunrun Inc, San Francisco, CA
+Project Summary:
+Phase2: Second phase is to migrate from OBIEE to Power BI. This is a POC project where we built reports in Power BI based off OBIEE.
+Role: Power BI Developer
+Responsibilities:
+Responsible for analyzing and developing reports in Power BI.
+Building the relationships between the various data sets in power pivot.
+Created new columns, new measures and conditional columns using DAX functions.
+Created different filters like visual level filters and page level filters and report level filters as per reporting needs.
+Created virous visualizations like donut chart, Pie chart and Bar graph, Tree map and water fall charts and Card Visualizations.
+Representing data using in custom visualizations.
+Designed different types of reports like drill down, drill through, And Sync Slicer.
+Used groups, hierarchies, sorting to create focused and effective visualizations
+Developed custom report tool tips for different reports to showcase the multiple data points in one report.
+Developing visuals using the data and measures.
+Translating data into informative visuals and reports.
+Creating measures and Calculated columns using DAX in Power BI.
+Connecting on premise Gateways to server in Power BI.
+Creating Dashboard Reports to support end users using SSAS.
+
+Phase1: The first phase is to deploy the Oracle Sales Analytics, which is a set of reports and a physical schema. It has several “subject areas” pre-built for users to be able to use ad hoc reporting. The second phase is to customize the ETL/reports to suit the requirements of Sunrun.
+Role: OBIEE Developer
+Responsibilities:
+Responsible for analyzing and developing ETL strategies and processes.
+Created the unit test cases for mappings developed and verified the data.
+Involved in debugging ETL jobs and data issues
+Interacted with the End-Users in agile methodology to meet their expectation.
+Worked on RPD Development using OBIEE Admin Tool.
+Handled report performance that came due to complex query and report design.
+Developed complex reports using OBIEE Analytics.
+Checking data consistency of report data against the database by writing SQL queries.
+Worked on unit testing Document and worked with testing team, while addressing defects raised by them.
+Worked on the performance tuning of the reports .
+Participated in the process of deploying developed reports from development to production environments.
+Pro-actively resolved defects raised by QA team
+Responsible for documenting the code changes as per the User change requests.
+Implemented External table user security authentication using LDAP server directory
+Environment: Informatica PowerCenter, OBIEE 11g, Oracle 11g, Jira, GitHub
+
+Project # 2 (Sep 2015 to April 2016)
+Client: Ellucian, Reston, VA
+Project Summary:
+Ellucian is the most widely used higher education ERP in the world, providing easy access, essential features, and speedy workflows for students, faculty and staff. Banner Enterprise Data Warehouse Analytical solution was built on OWB which provides a single source of easily accessible and accurate information that helps to deliver better services, faster and more affordably.
+
+Role: ETL Developer
+Responsibilities:
+Worked on Preparing Data validation scripts for Unit testing.
+Worked on migrating mappings from OWB to ODI12c.
+Worked on ODI Knowledge Modules like, LKM, IKM and JKM, CKM.
+Worked debugging ODI mappings and issue fixes during conversion process.
+Worked on performance tuning by applying ODI best practices.
+Environment: Oracle12c, OWB11g, ODI 12c
+
+Project # 3 (Sep 2014 to Aug 2015)
+
+Client: INC Research LLC, Raleigh, NC
+Project Summary:
+INC Research is leading healthcare company with a broad spectrum of innovative medical solutions. INC has implemented Sales force and EBS for their Sales and Marketing Divisions to increase productivity, physician relationships and decreased downtime and drive times, leading to higher employee and customer satisfaction and increased revenues.
+
+Role: OBIEE Developer
+Responsibilities:
+Responsible for analyzing and developing ETL strategies and processes.
+Developed standard and re-usable mappings and mapplets using various transformations like expression, aggregator, joiner, source qualifier, router, lookup, update strategy, etc.
+Direct interaction with the client for daily status report and ETL requirements.
+Created the unit test cases for mappings developed and verified the data.
+Building OBI Repository/Metadata.
+Creating Physical, Business and Presentation layers in the Repository.
+Created physical joins and complex joins in Physical and BMM Layer.
+Created Dimensions Hierarchies and Metrics for various business needs.
+Create the reports like Table, Chart, and Pivot and Narrative views and publish them in dashboards using Answers and Dashboards.
+Configured IBots to deliver analytics content based on schedule to obtain weekly reports and sent notification Alerts.
+Design business model – Perform Dimension modeling, identify fact tables and measures.
+Documentation of various activities in the project.
+Interacted with users for effective issue resolution.
+Logical layer-create – Create logical tables/dimensions, columns, set levels to support drill–down, Aggregation/sum over columns.
+Security implementation – Data Level and Object Level.
+Implemented security at the data and object levels.
+Environment: Informatica PowerCenter, OBIEE 11g, Oracle 11g, DAC11g, Jira, GitHub
+
+Project # 4 (Sep 2013 to May 2014)
+Client: Ansell Healthcare LLC
+Project Summary:
+Ansell is leading healthcare company with a broad spectrum of innovative medical solutions. Ansell Pharmaceuticals is implemented Siebel Analytics for their Sales and Marketing Divisions to increase productivity, physician relationships, and decreased downtime and drive times, leading to higher employee and customer satisfaction and increased revenues.
+Role: Intern/Trainee
+
+Building OBI Repository/Metadata
+Creating Physical, Business and Presentation layers in the Repository.
+Created Dimensions Hierarchies and Metrics for various business needs
+Creating Dashboards, Reports for various needs of Business.
+Create the reports like Table, Chart, and Pivot and Narrative views and publish them in dashboards using Answers & Dashboards.
+Implemented security at object/Data levels.
+Migration of RPD and Web Catalog from one environment to another environment.
+Set the subject Area permission for the users.
+Unit Testing of Reports.
+Environment : OBIEE 10g/11g, OBIA 7.9.6.4, BI Publishers, Oracle 10g/11g.Informatica 8.x/9..x
+Contact this candidate

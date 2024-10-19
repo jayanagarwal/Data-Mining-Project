@@ -1,0 +1,107 @@
+Swapnil. N
+Data Engineer
+ad69in@r.postjobfree.com 551-***-**** Dallas, TX- 75036
+
+SUMMARY
+Goal-oriented with experience in settings. Forward-thinking when reviewing project requirements to determine precise solutions. Composed professionalism when working under tight schedules and limited budgets to achieve innovative designs meeting and exceeding objectives.
+
+SKILLS
+• ETL
+• Python
+• Snowflake
+• SQL
+• Java
+• Power BI
+• CI/CD
+• Azure, AWS
+
+EXPERIENCE
+
+Client: PepsiCo, Dallas, TX September 2023 to Present
+Role: Azure Data Engineer
+
+Responsibilities:
+• strong knowledge of structured streaming and Spark Architecture with Databricks. Managing the Machine Learning Lifecycle, Databricks Workspace for Business Analytics, Cluster Management in Databricks, and Microsoft Azure Configuration with Databricks.
+• Adept at extracting, transforming, and loading data from source systems utilizing Azure services including Azure Data Factory, Azure Data Lake Analytics, Azure Data Lake Storage (ADLS Gen2), Azure SQL, and Azure Data Warehouse.
+• created and put into place a multi-layered data pipeline that used medallion architecture to include landing, bronze, silver, and gold data layers.
+• Autoloader uses methods such as polling or change data capture (CDC) to continually check the directory for changes. Autoloader automatically reads the data and uploads it to the Delta Lake table in micro-batches when it detects new or updated files.
+• Combined DBT with Azure Data Factory to automate processes for end-to-end data processing, making operations like loading, transforming, and inputting data easier.
+• Coordinated additional transformations, aggregations, and joins via Databricks (silver layer) and Data Flow.
+• Created SQL queries in Azure Synapse Studio to improve and refine data in gold layer staging tables.
+• Databricks Autoloader, which allows data to be continuously ingested into Delta Lake tables inside the Databricks environment from cloud storage services like Azure Blob Storage. used Azure Synapse Analytics (SQL Pools) to create informative dashboards and reports for data investigation.
+• Use Azure Machine Learning to create machine learning models that can identify fraudulent transactions in real time and take quick action to stop financial losses.
+• Create machine learning models to improve real-time efficiency and cost-effectiveness in inventory management, demand forecasting, and logistics routing.
+• Has experience integrating Databricks Autoloader with Delta Lake and making use of its transactional features to offer ingested data dependability, ACID compliance, and data versioning.
+• Added pipeline performance tracking and problem-solving notifications via Azure Monitor and Grafana monitoring.
+• Using Python and SQL for data analysis activities, we developed interactive Databricks Notebooks for exploratory data analysis, machine learning model construction and training, and visualization generation.
+• The ability to do data modification within Spark sessions using the Spark Data Frame API, resulting in quicker and more effective data processing.
+• A solid grasp of the deployment options, stages, executors, tasks, Spark Core, Spark SQL, Data Frame, Spark Streaming, Driver Node, Worker Node, and other components of the Spark architecture that provide optimum performance and scalability.
+• Collaborated on ETL tasks, maintaining data integrity and verifying pipeline stability.
+• Hands on experience in using Kafka, Spark streaming, to process the streaming data in specific use cases.
+• Developed a data pipeline using Kafka, Spark, and Hive to ingest, transform and analyzing data.
+• Working with JIRA to report on Projects, and creating sub tasks for Development, QA, and Partner validation.
+• Experience in full breadth of Agile ceremonies, from daily stand-ups to internationally coordinated PI Planning.
+Environment: Azure Databricks, Data Factory, Logic Apps, Functional App, MS SQL, Oracle, SAP HANA, Spark, SQL, Python, Scala, Pyspark, GIT, JIRA, Jenkins, Kafka, ADF Pipeline, Power Bi.
+
+Client: Fifth Third Bank, Cincinnati, OH January 2022 to July 2023
+Role: Big Data and Cloud Solutions Development
+
+Responsibilities:
+• Managed Hadoop ecosystem components including Hive, HBase, Oozie, Pig, Zookeeper, and Spark Streaming within the Map distribution, ensuring seamless data processing and management.
+• Installed and configured Hadoop MapReduce and HDFS, and developed multiple MapReduce jobs in Java for effective data cleaning and preprocessing.
+• Built robust code for real-time data ingestion using Java, Map-Streams (Kafka), and Apache Storm, enhancing the system's ability to handle streaming data efficiently.
+• Created and maintained comprehensive reports on deployed models and algorithms using Tableau, providing clear insights into performance and status.
+• Actively participated in Agile Scrum processes, contributing to various phases of development, analysis, and system enhancement.
+• Designed and deployed AWS CloudFormation templates for services including SNS, SQS, Elasticsearch, DynamoDB, Lambda, EC2, VPC, RDS, S3, IAM, and CloudWatch, integrating them with Service Catalog for automated infrastructure management.
+• Conducted in-depth analysis of the Hadoop stack and big data tools like Pig, Hive, HBase, and Sqoop to optimize data processing workflows.
+• Developed efficient data pipelines using Flume, Sqoop, and Pig for extracting and storing weblog data in HDFS, improving data accessibility.
+• Managed data integration from diverse sources such as Avro, XML, JSON, SQL Server, and Oracle into Hive tables, ensuring data consistency and reliability.
+• Created data ingestion modules using AWS Glue to load data into various S3 layers and leveraged Athena and Quick Sight for reporting. Transferred data from S3 to Redshift for historical data analysis and visualization using Tableau and Quick Sight.
+• Performed performance tuning and optimization in Snowflake, focusing on query optimization and resource management to enhance data processing efficiency.
+• Developed code to optimize the performance of AWS services used by application teams, ensuring secure and efficient operations through IAM roles, credential management, and encryption.
+• Provided training on Snowflake best practices, SQL optimization, and data warehouse architecture, fostering team proficiency.
+• Utilized Spark to transform unstructured data from various sources into structured formats, significantly improving data usability.
+• Implemented Amazon EMR for processing big data across Hadoop clusters on Amazon EC2 and S3, enabling scalable data processing.
+• Developed interactive Tableau dashboards using parameters, filters, calculated fields, sets, groups, and hierarchies for enhanced data visualization and exploration.
+Created Python scripts to identify vulnerabilities in SQL queries through SQL injection, enhancing database security.
+Designed and developed proof-of-concept projects in Spark using Scala, comparing performance with Hive and traditional SQL/Oracle systems.
+Specified cluster sizes and resource pools, and configured Hadoop distribution using JSON file format, ensuring optimal resource utilization.
+• Implemented advanced SQL queries with Window Functions, including GROUP BY and PARTITION BY clauses, to achieve granular data summarization and aggregation for business insights.
+• Designed and developed ETL processes in AWS Glue to migrate data from external sources like S3, ORC/Parquet/Text files into AWS Redshift, ensuring efficient data integration.
+• Imported weblogs and unstructured data using Apache Flume and stored it in HDFS, facilitating data analysis and processing.
+• Utilized RESTful web services with MVC for parsing and processing XML data, improving data handling and integration.
+• Managed OpenShift clusters, including scaling AWS application nodes, ensuring robust and scalable application deployment.
+• Developed and optimized complex SQL queries, stored procedures, functions, and triggers in Oracle and SQL Server, enhancing database performance and functionality.
+• Collaborated with stakeholders to present actionable insights through visualizations and dashboards in Amazon Quick Sight.
+• Developed Pyspark code for AWS Glue jobs and EMR, optimizing big data processing and analysis.
+• Created complex Tableau dashboards focused on interactive visualizations and data exploration, delivering valuable insights to users.
+• Worked on data modeling concepts like star schema and snowflake schema, ensuring efficient database design and query performance.
+
+Jr. Data Engineer, TCT Holidays and Technologies Pvt Ltd, June 2019-November 2020
+Hyderabad, Telangana
+
+Responsibilities:
+• Assisted in building data pipelines to improve data quality and facilitate iterations for accommodating new user requirements.
+• Automated pipelines to reduce workload for senior data engineers and increased the efficiency of data loading.
+• Bulk loading from the external stage (AWS S3), and internal stage to snowflake cloud using the COPY command.
+• Experienced in Azure cloud, including Azure Resource Manager (ARM), Azure Virtual Machines (VMs), Azure Storage, and Azure Active Directory (AD).
+• Designed and implemented database schema using SQL.
+• Experience with Web Development, Web Services, Python Framework.
+• Proficient in scripting with Python, automating tasks, and building tools for infrastructure management and application deployment.
+• Experience with Windows and/or Linux administration, and Infrastructure management.
+
+Jr. Software Engineer, TCT Holidays and Technologies Pvt Ltd, December 2018-May 2019
+Hyderabad, Telangana
+• Experience in setting up and configuring cloud monitoring using AWS CloudWatch for metrics and logs monitoring.
+• Experience with AWS cloud services: EC2, S3, EMR, RDS, Athena, and Glue.
+• Developed the user interface using Java and HTML/CSS.
+• Created reports and dashboards using Power BI for data visualization.
+• Used import and Export from the internal stage (snowflake) from the external stage (AWS S3).
+• Developing RESTful Applications using Java8 and Spring boot.
+
+EDUCATION AND TRAINING
+Master of Science :
+Masters in Information Systems, Wilmington University, New Castle DE August 2022
+Bachelor of Science :
+Electronics And Communications Engineering, Sreenidhi Institute of Science And Technology, Hyderabad May 2019
+Contact this candidate

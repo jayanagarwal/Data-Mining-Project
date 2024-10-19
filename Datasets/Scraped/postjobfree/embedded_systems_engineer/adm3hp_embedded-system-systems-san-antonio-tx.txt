@@ -1,0 +1,37 @@
+Keerthi **** Research Radhakrishnan Dr Apt ****, San Antonio TX 78240
++1-845-***-**** adm3hp@r.postjobfree.com krad246.github.io krad246 keerthi-radhakrishnan Education
+University of Virginia Charlottesville, VA
+B.S. iN COMPUTER ENGiNEERiNG August 2016 May 2020
+• GPA: 3.752
+• Relevant Coursework: Hardware Software Security, Advanced Embedded Systems, Digital Signal Processing, Digital Image Processing, Com puter Architecture & Design, Embedded System Design, Operating Systems
+• Got an Outstanding Teaching Assistant award for 2 years of servicewiththedepartmentandprovidingextracrucialhelpduringCOVID 19crisis.
+• Inducted into Eta Kappa Nu for exceptional department performance. Skills
+Languages C · Assembly (MSP430, ARM, AVR, SPARC) · Python OSs RTEMS · seL4 . Linux
+Development Tools Docker · Cross GCC . Scan build (static analyzer) . Ceedling Debugging GDB . OpenOCD · Oscilloscope · Multimeter Miscellaneous Git · Bash · Tcl . Gitlab CI
+Work Experience
+Embedded Software Engineer June 2020 Present
+SOUTHWEST RESEARCH INSTiTUTE San Antonio, TX
+• One of the sole software developers on Polarimeter to Unify the Corona and Heliosphere (PUNCH) satellite project. Designed several critical software modules based on RTEMS, including Error Detection And Correction (EDAC) on the flight processor and highly generic table driven, a scalable SWIFT protocol stack to interface with propulsion and transceiver modules on the system, and an event logger. Have also participated in several code and design reviews.
+• Developed Gitlab CI/CD pipeline for teamsoftwaredevelopment,including static analysis using scan-build, unit testing using ceedling, and on target integration testing. Also developed a flight software testbench and many reusable test scripts for the flight software.
+• LedaflightsoftwareEDACanomalyinvestigationonunexpectedflightprocessorresetsforCycloneGlobalNavigationSatelliteSystem(CYGNSS), wrote up and presented findings to stakeholders after identifying several key bugs.
+• Led and wrote a $75,000 internal research proposal to develop formally proven seL4 microkernel as a flight software hypervisor implementing time and space partitioning for mixed criticality systems comparable to ARINC 653 operating systems.
+• Developing another $75,000 internal research proposal to develop a hardware accelerator for seL4 permissions model that enforces seL4 par titioning at the hardware level.
+• Have contributed to department marketing thrusts to increase revenue and department capabilities.
+• Have conducted several interviews for new hires and am currently trying to take on mentorship roles for incoming students. NASA Big Idea Challenge Engineer March 2020 June 2020 UNiVERSiTY OF ViRGiNiA Charlottesville, VA
+• Part of a 5 person embedded R & D team developing a long range power beaming energy harvesting system for lunar polar crater exploration.
+• Reverse engineered a laser galvanometer using an AD2 Discovery oscilloscope and a multimeter for external control by a microcontroller.
+• Designed control circuitry to interface single ended 3.3V microcontroller signals with bipolar 10V galvanometer interface.
+• Wrote embedded C firmware for wireless rover control over BLE using CC2650MA shield.
+• Designing rover energy harvesting system for laser power supply to charge multi cell LiPo batterypack.
+• Co authored paper which went on to win ’Best Technical Demonstration’ AND ’Best Technical Poster’ in the 2020 Big Idea Challenge. Sensenet Embedded Systems Engineer August 2019 May 2020 UNiVERSiTY OF ViRGiNiA Charlottesville, VA
+• Designed micropower ATSAML21 evaluation board with USB and battery charging interface.
+• Mapped SAML21 current consumption to register configurations by writing embedded C firmware in Atmel Studio and measuring with both the Atmel Power Debugger and a multimeter.
+• Reconfigured and tested ArduinoCore SAMD21 bootloader for SAML21 MCU.
+• Integrated embedded sensor nodes into The Things Network and MQTT backend. Projects
+MS TOS April 2019 Present
+• Designed preemptive RTOS for MSP430 and MSP430X ISA supporting all code and data models in C and assembly.
+• Wrote and tested 16 bit optimizeddatastructuresinCforultralow100μskerneloverheadanddeterministicresponsetimesincludingred black trees and deques.
+• Implemented and tested VTRR, a deterministic fair share scheduling algorithm for preemption as outlined in academic literature. Combined VTRR with a fixed priority scheme to interleave real time and non real time threads.
+• Profiled kernel performance using hardware timers and a Tektronix oscilloscope.
+• Implementedkernelsynchronizationprimitivesandotherkernelservicessuchasthreadjoiningandkilling,IPC, thread sleeping, dynamicmem ory allocation, tickless operation, and stack checking. JUNE 6, 2021 KEERTHi RADHAKRiSHNAN · RÉSUMÉ 1
+Contact this candidate

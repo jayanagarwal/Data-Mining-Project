@@ -1,0 +1,230 @@
+KUMAR K
+ad6p6x@r.postjobfree.com 904-***-**** Los Angeles, California, United States 90034
+Summary
+Practical Database Engineer possessing in-depth knowledge of data manipulation techniques and computer programming paired with expertise in integrating and implementing new software packages and new products into system. Offering [15+]-year background managing various aspects of development, design and delivery of database solutions. Tech-savvy and independent professional bringing outstanding communication and organizational abilities.
+Skills
+· Data Warehousing
+· Scripting Languages
+· Data Modeling
+· API Development
+· Data Migration
+· NoSQL Databases
+· Spark Framework
+· SQL Expertise
+· Hadoop Ecosystem
+· Data Pipeline Design
+· Real-time Analytics
+· Big Data Processing
+· Risk Analysis
+· Big data technologies
+· SQL and Databases
+· Database Design
+· Data Analysis
+· Apache Spark
+· Scala Programming
+· Hadoop programming
+· Python Programming
+· Data Migration Strategies
+· Continuous Integration and Deployment
+· Data Lake Management
+· ETL Design and Implementation
+· Tableau Visualization
+· AWS Glue Knowledge
+· Real-time Data Streaming
+· Apache Spark Mastery
+· DynamoDB Experience
+· AWS Redshift Expertise
+· SQL Querying
+· PowerBI Reporting
+· Cloud Computing
+· Database Development
+· Data Analytics
+· Azure SQL Database
+· Azure Synapse Analytics
+· Azure Data Services
+· Azure Databricks
+· Azure AD Integration
+· Azure Data Factory
+· AWS and Azure
+· AWS, Azure, GCP
+Experience
+Apollo Med Alhambra, CA
+Sr. Azure Cloud Data Engineer
+01/2020 - Current
+Close participation in all stages of SDLC creation using Agile methodology
+Scheduled different Snowflake jobs using NiFi
+Moving data from Teradata to a Hadoop cluster Using TDCH/Fast export and Apache NIFI
+Installed and configured Apache airflow for workflow management and created workflows in python
+Creation of S3 data lake infrastructure and automate the entire process using AWS Lambda function and API Gateways and further ETL process to Cloud warehouse (Redshift) to support Advance Analytics ( Ml )
+Redshift spectrum external schema creation and tables creation for S3 data on Redshift upon running instance and query S3 data from Redshift and load data into other fact and dimension tables, rather than using COPY command if data volume are huge
+Partitioning Data streams using Kafka
+Designed and configured Kafka cluster to accommodate heavy throughput
+Using rest API with Python to ingest Data from and some other site to BIGQUERY
+Knowledge in Tableau Administration Tool for Configuration, adding users, managing licenses and data connections, scheduling tasks, embedding views by integrating with other platforms
+Developed preprocessing job using Spark Data frames to transform JSON documents to flat file
+Working with AWS stack S3, EC2, Snowball, EMR, Athena, Glue, Redshift, DynamoDB, RDS, Aurora, IAM, Firehose, and Lambda
+Used Amazon Airflow for complex workflow automation
+The process automation is done by wrapper scripts through shell scripting
+Developed Snow pipes for continuous injection of data using event handler from AWS (S3 bucket)
+Define the right distribution keys, Columns Encoding, Sort key, write SQL Queries in SQL Workbench / Agility to process data from S3 to Redshift by passing different parameters
+Write UDFs in Hadoop Pyspark to perform transformations and loads
+Importing data from DynamoDB to Redshift in Batches using Amazon Batch using TWS scheduler
+Designing and creating SQL Server tables, views, stored procedures, and functions
+Worked with NoSQL database like Cassandra
+Processed the Web server logs by developing Multi-Hop Flume agents by using Avro Sink and loaded into Cassandra for further analysis, Extracted files from Cassandra through Flume
+Created technical document for ETL process and Design documents for each module
+Designed, Developed and Supported Extraction, Transformation and Load Process (ETL) for data migration
+Performing ETL operations using Apache Spark, also using Ad-Hoc queries, and implementing Machine Learning techniques
+Responsible for design and development of PySpark, Spark SQL Scripts based on Functional Specifications
+Implemented a CI/CD pipeline with Git Hub and AWS
+Designed and developed various SSIS packages (ETL) to extract and transform data and involved in Scheduling SSIS Packages
+Built scripts using MAVEN that compiles the code, pre-compiles the JSP's, built an EAR file and deployed the application on the WebSphere application server
+Installed and configured Hive and written Hive UDFs and Used Map Reduce and Junit for unit testing.
+Integrated third-party APIs into existing web applications in order to provide additional features.
+Implemented web services such as RESTful APIs for integration into student systems.
+Evaluated current processes related to API development and suggested improvements.
+Analyzed customer requirements to determine appropriate solutions using the API.
+Blue Shield of California Promise health Plan Monterey Park, CA
+Lead Cloud Data Engineer
+07/2018 - 11/2020
+Worked on migrating SQL database to Azure data lake, Azure SQL Database, DataBricks, and Azure SQL Data warehouse
+Expertise in integrating and processing data from diverse sources, including relational databases (SQL Server, Oracle), cloud storage (Azure Blob Storage, AWS S3), streaming platforms (Kafka, Azure Event Hubs), and APIs (REST, GraphQL), ensuring seamless data ingestion, transformation, and analysis for data engineering workflows
+Involved in data transfer using azure synapse and Polybase
+Orchestrated data integration pipelines in ADF using various activities like Get Metadata, Lookup, For Each, Wait, Execute Pipeline, Set Variable, Filter, until, etc
+Developed Azure IoT Edge modules to process data locally on edge devices, reducing latency and bandwidth costs while enhancing data privacy and security
+Utilized the synapse serverless pool's built-in support for Apache Spark to perform advanced analytics and gain valuable insights from the data, facilitating data-driven decision-making and delivering significant business value
+Performed ETL operations using Azure Data Bricks and migrated On-premises Oracle ETL process to azure synapse analytics
+Leveraged Azure Cosmos DB and Azure Blob Storage to efficiently store and manage large volumes of IoT data with high availability and scalability
+Skilled in building end-to-end data engineering pipelines using Azure Synapse Spark Pools, facilitating seamless data extraction, transformation, and loading (ETL) operations
+Utilized Microsoft Azure services including HDInsight Clusters, BLOBs, Data Factory, Logic Apps, and conducted proof-of-concept (POC) on Azure Databricks
+Leveraged PowerApps' integration capabilities to automate workflows, enhance collaboration, and empower teams with real-time data access, driving better decision-making across the organization
+Utilized Delta Lake's transactional capabilities to maintain data integrity and consistency in complex data pipelines
+Configured and optimized Hadoop clusters on Azure using services like Azure HDInsight or Azure Databricks
+Applied Apache Spark, including its Spark, SQL, and Streaming components, to facilitate real-time and intraday data processing
+Developed ETL transformations and validations using Spark-SQL/Spark Data Frames with Azure Databricks and Azure Data Factory
+Knowledge in developing and deploying machine learning models using Databricks' MLlib and integrating them into data pipelines, enabling predictive analytics and advanced data-driven applications
+Deployed effective data integration solutions to smoothly ingest and integrate data from various sources such as databases, APIs, and file systems, utilizing tools like Apache Kafka, Apache NiFi, and Azure Data Factory
+Used Function App for grouping functions as a logical unit for better and easy management, deployment, scaling, and sharing of resources
+Experienced in deploying optimized Python web applications to Azure DevOps CI/CD to focus on development
+Delivered production support and issue resolution for data pipelines, effectively identifying and resolving performance bottlenecks, data quality concerns, and system failures
+Leveraged Scala and Spark to process both schema-oriented and non-schema-oriented data
+Created Partitions, Buckets, and Indexes based on attributes and used map-side joins to optimize the processing of Hive queries
+Developed and managed Hadoop workflows using Oozie, ensuring automation and efficient execution of data processing tasks and timely delivery of results
+Developed Hive generic UDFs to handle dynamic business logic based on policy requirements
+Worked with Data Lakes and big data ecosystems such as Hadoop, Spark, Hortonworks, and Cloudera
+Experience in extracting, loading, and transforming large sets of structured, semi-structured, and unstructured data
+Wrote Hive queries for data analysis, fulfilling specific business requirements through the creation and manipulation of Hive tables using Hive QL to simulate MapReduce capabilities
+Developed a data pipeline using Kafka, Spark, and Hive to ingest, transform and analyze data
+Executed Spark Scripts using Scala, and Spark SQL to access hive tables into Spark for faster testing and processing of data
+Skilled in using Tableau Bridge to maintain live connections to on-premises data
+Experienced in using parameter controls to allow users to change data dimensions in Tableau
+Employed Spark streaming to partition streaming data into batches for input to the Spark engine, facilitating efficient batch processing
+Expertise in using Tableau's data connectors and APIs to access and analyze data from various sources
+Proficient in creating KPIs (Key Performance Indicators) and scorecards in Tableau for performance tracking
+Skilled in using Tableau's trend lines, forecasts, and reference lines to highlight patterns and trends
+Experienced in using Airflow to automate end-to-end data pipelines, encompassing data extraction, transformation, loading, and integration across various data sources and destinations
+Experienced in creating storyboards to guide users through data narratives and insights using Tableau
+Proficient in utilizing groups, sets, and hierarchies to organize and structure data for clarity
+Implemented CI/CD pipelines to build and deploy the projects in the Hadoop environment
+Used Git as a version control tool to maintain the code repository
+Attended daily sync-up calls between onsite and offshore teams to discuss the ongoing features/work items, issues, blockers, and ideas to improve the performance, readability, and experience of the data presented to end users.
+Integrated third-party applications with Microsoft Azure using APIs and RESTful web services.
+Deployed applications to the cloud using ARM templates with CI and CD pipelines in Azure DevOps.
+Collaborated with other developers to design, develop, and maintain APIs.
+Analyzed customer requirements to determine appropriate solutions using the API.
+Documented processes related to the development of new or updated APIs.
+Conducted API integration tests between different components of the application.
+Utilized APIs, web services, FTP protocols, messaging queues for developing efficient integrations.
+L.A. Care Health Plan Los Angeles, CA
+Data Engineer
+09/2014 - 06/2018
+The project involves cautious planning, execution, and constant management to migrate data from on-premises to the cloud while executing CI/CD automation with Jenkins
+Applied Hadoop system administration using Hortonworks/Ambari and Linux system administration (RHEL 7, Centos.)
+Instigated a Hadoop Cloudera distributions cluster using AWS EC2
+Designed cloud-based architecture for scalability to handle growing data volumes
+Incessantly monitor the performance of the cloud-based data solution and make necessary optimizations as data volumes and workloads evolve
+Plan and execute the final migration, which may involve a cut-over from the on-premises system to the cloud-based system
+Continuously monitor resource utilization and optimize the infrastructure for cost efficiency
+Developed consumer intelligence reports based on market research, data analytics, and social media
+Perform thorough testing of the migrated data and ETL processes to ensure data accuracy and completeness
+Configure Jenkins as the CI/CD tool for automating deployment tasks
+Create pipelines for building, testing, and deploying data engineering code and infrastructure as code (IaC)
+Utilized AWS Redshift to store Terabytes of data on the Cloud
+Used Spark SQL and Data Frames API to load structured and semi-structured data into Spark Clusters
+Wrote shell scripts for log files to Hadoop cluster through automatic processes
+Validate that the cloud-based solution meets performance and scalability requirements
+Designed and developed data pipelines in an Azure environment using ADL Gen2, Blob Storage, ADF, Azure Databricks, Azure SQL, Azure Synapse for analytics and MS Power BI for reporting
+Implement cost management practices to control and optimize cloud infrastructure costs
+Leverage PySpark's capabilities for data manipulation, aggregation, and filtering to prepare data for further processing
+Implemented AWS Fully Managed Kafka streaming to send data streams from the company APIs to Spark cluster in AWS Databricks
+Implement data ingestion from various sources into the AWS S3 data lake using AWS Lambda functions
+Utilize PySpark to extract and transform data from different file formats (CSV, JSON, Parquet) stored in S3
+Joined, manipulated, and drew actionable insights from large data sources using Python and SQL
+Worked on AWS to form and manage EC2 instances and Hadoop Clusters
+Implement data enrichment pipelines using PySpark to combine data from Snowflake with additional details from MongoDB
+Used Spark-SQL and Hive Query Language (HQL) for obtaining client insights
+Develop PySpark ETL pipelines to cleanse, transform, and enrich the raw data
+Ingested large data streams from company REST APIs into EMR cluster through AWS kinesis
+Streamed data from AWS Fully Managed Kafka brokers using Spark Streaming and processed the data using explode transformations
+Integrate with MongoDB to retrieve relevant information and enrich the existing data
+Finalized the data pipeline using DynamoDB as a NoSQL storage option
+Liaised with data engineers, DevOps teams, and cloud specialists for a smooth transition.
+Indian Eagle LLC Austin, TX
+Oracle Developer
+10/2013 - 09/2014
+Responsible for requirement analysis and preparation of high-level design document
+Developed PL/SQL Procedures, Functions and Packages and used SQL loader to load data into the database
+Extensively worked in TOAD, SQL Developer, PL/SQL, SQL
+Plus, SQL
+Loader, Query performance tuning, created DDL scripts, created database objects like Tables, Views Indexes, Synonyms and Sequences
+Performed unit testing at various levels of the ELT experience in configuring ODI Agent on UNIX server and creating new agents and test them in ODI 11G
+Extensively used SQL Loader to load the data from Flat Files into the staging tables and verified the Log Files for rejected rows
+Developed SQL scripts for ETL process to load data into target tables
+Wrote PL/SQL programs, stored procedures and triggers for data loading and data validations for various Java based applications
+Extensively used UNIX SHELL scripts for automation of daily and weekly batch jobs
+Created indexes on huge number of data available in tables based on requirements
+Interlinked related forms and passing parameters between forms related to order entry
+Scheduled Oracle reports in UNIX
+Worked mostly on the data conversion part to be uploaded into corporate reports using Oracle PL/SQL
+Analyzed SQL statements reorganize database objects and design indexes to improve response of queries
+Used Dynamic SQL to create stored procedures for cleaning the data base tables
+Used SQL queries and analytic functions to develop reports for managers for business analysis
+Involved in Unit testing and migrate the objects to the QA and UAT TEST environment.
+Fidelity Investments Bangalore, India
+Sr. Software Engineer
+04/2006 - 10/2013
+Responsible for requirement analysis and preparation of high-level design document
+Supported the implementation and configuration issues related to Eligibility, Electability, Life events, Fast Formulas, Rates and configuration of rates, Premiums etc
+Configured Benefit structure - New Plan Types, Plans, Options, Life Events, Eligibility Profiles, Rates and VAPROs
+Create/update key BRD's and other existing business requirement documents that may be impacted include Payroll, Carrier File and Account Payable requirements
+Expertise in Oracle SQL, PL/SQL
+Skilled in Application development using Oracle Forms and Reports with knowledge in master-detail blocks, forms triggers, system variables, multiple form applications, menus, alerts and LOV's
+Involved in the generation of User Interface using oracle forms by extensively creating forms as per the client requirements
+Handled errors using Exception Handling extensively for the ease of debugging and displaying the error messages in the application
+Worked on SQL
+Loader to load data from flat files obtained from various facilities every day
+Performed source to Staging and staging to target mapping specifications and developed ETL / ELT ODI code for the same
+Test and validate that all data loads properly and execute manual procedures like running any scripts to validate data
+Developed and configured both standard and client specific fast formulas as per the requirements
+Review the fast formulas developed and responsible till they migrate to production
+Responsible to support any productions issues on a weekly basis
+Developing Fast Formulas which will internally call the Stored Procedures and modifying them for better performance
+Supporting the implementation and configuration issues by tracing the rules and fixing them
+Extended Technical and Functional Support for Annual Enrollment process for Fidelity's 42 Clients
+Supported the implementation and configurations issues relating to tech spec loader tool.
+Cybrid Software Hyderabad, India
+Technical Consultant
+10/2002 - 04/2006
+Report to view the pending item transaction with respect to the Inventory Organization
+PO form customization to capture relevant supplier item number and stock-keeping unit
+PO receipts conversion
+Item attachment conversion
+Customization of PO form to check whether the supplier is in the defaulters list or not
+Report summarizing the accruals by PO, by buyer
+Development of forms and reports
+Developing pl/sql packages, procedures, and functions.
+Education and Training
+Osmania University Hyderabad
+Bachelor of Science in Mechanical Engineering Technology
+05/2002
+Contact this candidate

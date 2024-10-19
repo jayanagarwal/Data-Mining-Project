@@ -1,0 +1,91 @@
+MUSHAHID HUSSAIN
+
+ad69mu@r.postjobfree.com 516-***-****
+SENIOR AZURE DATA ENGINEER SQL Data Factory Databricks
+
+Azure Data Engineer with 7 years of experience in Microsoft technologies including Synapse, SQL Server, Azure Data Factory, DataBricks, and SSIS
+Experience in architecture and implementation of OLTP/OLAP systems and ETL on the Microsoft Azure platform.
+Involved in the implementation of medium to large-scale BI solutions on Azure using Azure Data Platform services (Azure Data Lake, Data Factory, Data Lake Analytics, Stream Analytics, Azure SQL DW, HDInsight/Databricks, NoSQL DB)
+Involved in various projects related to Data Modeling, System/Data Analysis, Design, and Development for both OLTP and Data warehousing environments
+Practical understanding of Data modeling (Dimensional & Relational) concepts like Star-Schema modeling, Snowflake Schema Modeling, and Fact and Dimension tables.
+Experience in Migrating SQL database to Azure Data Lake, Azure data lake Analytics, Azure SQL Database, Data Bricks, and Azure SQL Data
+Good understanding of Apache Spark Architecture including Apache Spark Core, Apache Spark SQL, Data Frames, Apache Spark Streaming, Driver Node, Worker Node, Stages, Executors, and Tasks.
+Implemented both ETL and ELT architectures in Azure using Data Factory, DataBricks, SQL DB, and SQL Data Warehouse.
+Well-versed with Azure authentication mechanisms such as Service Principal, Managed Identity, and Key Vaults.
+Deep understanding of Azure data storage technologies such as Azure Blob Storage, Azure Data Lake Gen2, Synapse, and Azure SQL.
+Expert in writing the Dynamic content expressions in ADF, which enables to pass of dynamic values to parameters at pipeline, dataset, and activity levels.
+Experience in the design, development, and implementation of large-scale, high-volume, high-performance data lake and data warehouse solutions.
+Excellent experience in query optimization and tuning of the queries in Azure SQL DB, Synapse, or RDBM systems.
+
+Database
+SQL Server, MySQL, MongoDB, Azure SQL
+ETL
+SSIS, Azure Data Factory, Databricks, Apache Kafka, Apache Flink
+Data warehousing
+Azure Data Lake, Delta Lake, Synapse Analytics
+Programming
+T-SQL, Python, C#, Java, Scala, Javascript, DAX
+DevOps
+Docker, Openshift, Kubernetes
+Reporting
+Power BI, SSRS
+
+EDUCATION
+
+B.S. Computer Science. NUST Pakistan (2015)
+PROFESIONAL EXPERIENCE
+
+Senior Data Engineer. April 2020 to Present
+Advantage Solutions – New York, NY
+Involved in data warehouse implementation on Azure Synapse using Synapse pipelines, notebooks, SQL Serverless, and dedicated SQL Pool
+Created dynamic data pipelines to ingest data from Salesforce, SQL Server, Oracle, Marketo, and other proprietary data sources into Azure Data Lake Gen2.
+Implement data ingestion, transformation, and analysis workflows
+
+using Apache Spark APIs (RDD, DataFrame, and Dataset).
+Implemented incremental data loads into Data Lake using a watermark table, variables, and parameters.
+Architected 3-layered architecture using Delta Lake to store raw data in the bronze layer, transformed data in the silver layer, and fact and dimension tables in the gold/curated layer.
+Implemented slowly changing dimensions (Type II) using Data Factory and Databricks.
+Involved in building CI/CD pipelines for deploying Data factory pipelines and Databricks notebooks to UAT and production.
+Design and develop end-to-end big data pipelines, leveraging Spark for various processing tasks.
+Integrate Spark with other big data technologies (e.g., Kafka, Hive, Cassandra) to create a seamless data flow.
+Provide technical leadership and mentorship to team members on the use of Spark and other big data technologies.
+Integrate Apache Spark with other technologies (e.g., Kafka, Hadoop, databases) to create end-to-end data pipelines.
+Utilized various optimization features of Databricks to improve code performance such as partitioning, bucketing, avoiding data skew, salting, and z-order clustering.
+Design and implement self-service data platforms that enable users to access, explore, and analyze data using Spark and other big data tools.
+Integrate Apache Spark with other technologies (e.g., Kafka, Hadoop, databases) to create end-to-end data pipelines.
+Built visually appealing, intuitive dashboards on Power BI that provide answers to key business questions.
+Develop solutions that leverage the capabilities of the Apache Spark ecosystem, like Apache Spark Structured Streaming, Apache Spark SQL Thrift Server, and Apache Spark Notebooks.
+Involved in using drill down and drill through techniques to build interactive reports in Power BI.
+Built visually appealing, intuitive dashboards on Power BI that provide answers to key business questions
+Involved in performance tuning of Power BI reports by configuring dataset modes, import mode, and direct query.
+
+Azure Data Engineer. Jul 2018 to Mar 2020
+iValua – New York, NY
+Worked on designing and implementing P&L Attribution platform for equity option pricing and risk analytics using Azure Data Lake, Azure Data Factory, Azure Databricks, Delta Lake, Azure Logic Apps
+Implemented ETL/ELT-based solutions to integrate various data sources and created a unified/enterprise data model for analytics and reporting.
+Troubleshoot and resolve issues related to Apache Spark job execution, resource utilization, and cluster management.
+Built an ETL Framework specifically in Microsoft Azure environments using Azure data factory pipelines, stored procedures, Azure functions, APIs, etc.
+Ingested huge volume and variety of data from disparate source systems into Azure DataLake Gen2 using Azure Data Factory V2.
+Designed Data Pipelines for ETL Jobs using LOOKUP, FOREACH, COPY, and GET METADATA ACTIVITIES and load data into the data lake.
+Contribute to the Apache Apache Spark open-source project, such as reporting issues, submitting bug fixes, or proposing new features.
+Develop Azure Databricks notebooks to apply the business transformations and perform data cleansing operations using PyApache Spark and SQL.
+Using Azure Logic Apps to develop workflows that can send alerts/notifications on different jobs in Azure.
+Troubleshoot and identify performance, connectivity, and other issues for the applications hosted in the Azure platform.
+Maintain comprehensive documentation for Apache Spark applications, including architecture, code, and deployment procedures.
+Provisioned, configured deployed, and administered Azure Synapse Pool with all accessory components such as Azure Key Vault, ADLS Storage, and other Azure services
+Designed and developed solutions for ingestion, transformation, and load of complex datasets in XML, JSON, parquet, and CSV formats using data Factory and Azure Databricks.
+Implement authentication, authorization, and encryption mechanisms for Apache Spark clusters and data.
+
+SSIS/ SQL Server Developer. Feb 2016 to Jul 2017
+Barnes & Noble – New York, NY
+
+Responsible for the development of SQL Objects, Tables, Stored Procedures, Indexes, Triggers
+Created SSIS packages to load data into Data Warehouse using Various SSIS Tasks like Executing SQL Tasks, bulk insert tasks, data flow tasks, file system tasks, send mail tasks, active script tasks, xml tasks, and various transformations
+Extensively used different types of transformations such as lookup, slowly changing dimension (SCD), multi-cast, merge, OLE DB command, and derived column to migrate SSIS packages from one database to another database.
+Involved in queries optimization using tools like SQL Profiler, Tuning Advisor, Execution plan, and statistics IO
+Developed complex SQL queries and performed optimization of databases and tuning of long-running SQL Queries by using SQL Server Profiler and SQL Tuning Advisor.
+Created Event Handlers for various runtime events and created Custom Log Provider in SQL Server to log those events for audit purposes
+Implemented Change Data Capture (CDC) to perform incremental data extraction to reduce the time for importing data into the CDW
+Extensively used SSIS parallelism and multithreading features to increase performance and decrease ETL duration
+Created packages in SSIS with error handling capability, and using different types of data transformations like conditional split, cache, for each loop, multicast, derived column, merge join, Script component, slowly changing dimension, Lookups, Mail tasks, etc.
+Contact this candidate

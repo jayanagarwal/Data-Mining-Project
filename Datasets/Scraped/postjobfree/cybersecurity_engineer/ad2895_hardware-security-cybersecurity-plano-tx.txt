@@ -1,0 +1,114 @@
+Prabhu Roja Goli
+Email: ad2895@r.postjobfree.com
+Contact: +1-469-***-****
+LinkedIn URL: www.linkedin.com/in/rojagoli
+Professional Summary:
+Experienced Cybersecurity Engineer for 9+ years, focusing on PKI and Hardware Security Modules. Proficient in a diverse range of cybersecurity technologies, exhibiting hands-on expertise. Specialized in designing and implementing secure PKI infrastructures, providing end-to-end support. Committed to enhancing organizational security through practical knowledge and expertise in cybersecurity. Experience Summary:
+• Experience of 9+ years in Public Key Infrastructure(PKI) and Hardware Security Modules
+(HSMs) in Tata Consultancy Services.
+• Manage the end-to-end lifecycle of digital certificates, including issuance, renewal, and revocation using Microsoft PKI and Entrust CA.
+• Monitor certificate expirations and proactively renew certificates to ensure uninterrupted services.
+• Ensure compliance with industry standards and regulations related to PKI.
+• Expertise in troubleshooting certificate-related issues and incidents.
+• Design and Deployment of two-tier PKI hierarchy based on organizational requirements and security best practices.
+• Deployment and Configuration of Subordinate CAs and Root CAs.
+• Configuration of management of certificate templates.
+• Implementation of automated certificate provisioning by integrating Microsoft PKI with third party tools like Venafi.
+• Maintain the Certificate Revocation Lists(CRLs) and implement Online Certificate Status Protocol (OCSP) for real-time revocation checks.
+• Implement monitoring and auditing mechanisms for certificate life cycle management.
+• Design and Development of PKI products that includes Certifying Authorities, Online Certificate Status Protocol and Time Stamping.
+• Handle development and release of regular patches for PKI suites.
+• Plan, Design and Deploy Hardware Security Modules based on organizational security requirements.
+• HSM cryptographic key management by implementing effective key ceremony policies and procedures.
+• Integration of HSMs with critical applications deployed on various platforms.
+• Expertise in troubleshooting HSM related issues.
+• Implement backup and recovery procedures for the HSM configurations and document the restoration process to ensure business continuity.
+• Maintain communication with the vendors to get updates on HSM latest patches
+• Develop automated scripts to generate HSM performance reports.
+• Conduct regular scans to identify vulnerabilities in systems, networks and applications using Qualys VA.
+• Identify and prioritize vulnerabilities based on the severity and potential impact.
+• Generate and communicate vulnerability assessment reports with the stake holders.
+• Define and implement Data Loss Prevention (DLP) policies based on organizational requirements, compliance regulations and industry best practices.
+• Monitor network traffic, end points and communication channels for potential data leakage incidents.
+• Investigate and respond to DLP alerts collaborating with incident response teams.
+• Analyze HTTP/S requests and responses between the client and server to identify security issues and anomalies using burp suite.
+• Document test cases, test plans and test results for future and compliance purposes.
+• Working knowledge of Gemalto and SafeNet tokens. TECHINICAL SKILLS
+Cryptographic HSM’s nShield Connect XC, nShield Edge, SafeNet Network HSM. Cryptographic Tokens SafeNet eToken, Gemalto Token. Scripting Languages Unix Shell Scripting, Java Script. Programming Stack Java, J2EE, Servlets, JDBC, Hibernate. Databases Oracle 10g/11g/12c, MS-SQL Server 2008 R2, Postgre SQL. IDE’s Eclipse, IntelliJ IDEA.
+Operating Systems UNIX, Windows, Linux, Solaris, OSX(mac). Certifying Authority Microsoft PKI, Entrust CA.
+Cybersecurity Tools Forcepoint DLP, Qualys VA, Burp Proxy, Venafi. Software Development Agile(Safe), Waterfall.
+Cloud Platform Amazon Web Services(AWS).
+Version Control GIT
+Task Tracker JIRA
+Others Confluence, Service NOW, OCSP,Time Stamping, Dhruvam, Dhruvam-Lite, FormSigner.
+Professional Experience:
+Project: MS PKI and HSM implementation
+July 2019 – Mar 2022
+Client: OP Bank (Finland)
+Role: Lead PKI Engineer
+Location: Finland
+Description: As a PKI engineer I need to migrate and manage the complete PKI and HSM environment from Tieto to TCS. Identify the vulnerabilities based on severity using Qualys VA and prepare the remediation reports. Perform File share discovery scans using Forcepoint DLP and report the incidents to the Incident response team for remediation.
+Responsibilities:
+• Evaluate the existing PKI infrastructure to understand the current configuration and dependencies.
+• Collaborate with stakeholders to gather requirements required for the migration.
+• Develop a migration plan outlining key milestones, timelines, and potential risks.
+• Perform a thorough backup of all cryptographic keys, certificates, and other configuration settings from the existing nShield HSMs.
+• Execute and validate the migration plan, ensuring a secure transfer of cryptographic keys to the new client's environment.
+• Validate the applications and systems that connect to the HSM within the new client's environment.
+• Maintain clear communication with stakeholders throughout the migration process, providing regular updates on progress, challenges, and resolutions.
+• Troubleshooting assistance in the post-migration phase to address any issues.
+• Monitor the performance of the nShield HSM in the new environment and optimize configurations as needed.
+• Update documentation to reflect the changes made during the migration process.
+• Upgrade HSM software on all the clients including RFS.
+• Upgrade firmware on all the HSMs in UAT, Development and Production Environments.
+• Prepare plan for the key ceremony, including the generation, backup, and storage of cryptographic keys. Implement the key ceremony process in a secure environment.
+• Develop a disaster recovery plan for the PKI infrastructure, including backup and restoration procedures.
+• Install and configure the necessary Microsoft PKI components, including Certificate Authority
+(CA) servers.
+• Configure CA policies, templates, and revocation settings.
+• Design the PKI hierarchy based on the organization's structure and security requirements.
+• Implement Certifying Authority and Sub-Ordinate Certifying Authorities.
+• Create and configure certificate templates to define the properties and permissions of issued certificates.
+• Configure Group Policy settings to automatically enroll and renew certificates.
+• Implement certificate enrollment processes, including auto-enrollment for users and devices.
+• Configure web enrollment services for manual certificate requests.
+• Define and implement certificate revocation policies.
+• Configure and manage Certificate Revocation Lists (CRLs) to provide timely revocation information.
+• Troubleshooting and resolving PKI and HSM related issues.
+• Life cycle management of certificates including generation, renewal, revocation and suspension.
+• Perform regular vulnerability scans across the organization's network, systems, and applications using the Qualys VA Scanner.
+• Analyze scan results to identify vulnerabilities and security issues in systems and applications.
+• Prioritize vulnerabilities based on risk and potential impact.
+• Prepare remediation reports for identified vulnerabilities and communicate to the stakeholders.
+• Maintain documentation related to scanning processes, configurations, and remediation efforts.
+• Define rules to identify and monitor sensitive data of an organization.
+• Generate reports on DLP incidents, trends, and policy violations and report them to the Incident Response Team.
+Environment: nShield Connect XC Mid and High HSMs, nShield Edge HSM, Microsoft PKI, Entrust CA, UNIX, Windows, Linux and Solaris.
+Project: PKI Products Development
+July 2013 – June 2019
+Client: Prudential Insurance, IDRBT, NIC, ECIL, BEL, Dohatec, Ultimatix, Passport Seva, City Union Bank
+Role: Lead PKI Developer
+Location: India
+Description: As a Lead PKI Developer I need to support the development of products Dhruvam® and Dhruvam-Lite which are public key infrastructure suites designed to manage cryptographic keys and digital certificates that make up the digital identities required to automate security related processes in organization. They enable an organization to setup its own Certifying Authority to issue and manage digital certificates. These products are used in generation, revocation, suspension, and activation of digital certificates and also in generating CRLs (Certificate Revocation List). Develop Security Services Framework (SSF) security framework from TCS that is aimed at providing a solution to common and general security requirements of application. This project deals with customizing Dhruvam® as per the client requirement, setting up CA environment to issue Digital Certificates and providing support. Develop cybersecurity products like Form signer, Time Stamping and OCSP(Online certificate Status Protocol) using open source libraries.
+Responsibilities:
+• Development and Release of regular patches of the products according to client requirement and adhere to relevant standards and regulations, such as X.509, PKI, and cryptographic standard.
+• Integration of HSM with CA suite for secure key generation and storage.
+• Use Burp Proxy to perform secure web testing of designed applications.
+• Implement secure key generation and secure network communication by leveraging Java’s cryptographic libraries and Java’s SSL packages.
+• Deploy the Bouncy Castle cryptography library within the Java environment for the generation of public and private key pairs, creation of X.509 certificates, encryption and decryption of data, implementation of digital signatures, and seamless integration with SSL/TLS protocols.
+• Establish resilient logging and auditing protocols through the adept implementation of both Log4j and the inherent Java logging frameworks.
+• Architect and implement a Certifying Authority utilizing Java Spring Web, Spring Data JPA, Java Hibernate, and additional cryptographic libraries in the Java environment.
+• Leverage the Java Cryptographic Architecture (JCA), encompassing a suite of APIs and providers, to access comprehensive cryptographic services.
+• Design and Develop API Microservices using Java Spring boot to serve certificate renewal process and provide better access to all PKI services for end users.
+• Employ Java's diverse security providers, each equipped with a curated set of cryptographic algorithms, alongside Java key stores for the secure management of keys, digital certificates, and other sensitive information.
+• Implement encryption and decryption with the Cipher Class, create and verify digital signatures using SHA-256 with RSA, and compute message digests with MD5 and SHA-2 hashing algorithms.
+• Implement User Authentication and Authorization services through the utilization of the Java Authentication and Authorization Service (JAAS) API. Additionally, s access cryptographic tokens, including Hardware Security Modules (HSMs) using the PKCS#11 API, and Smart Cards through the Java Smart Card API.
+• Implement and enforce security measures, including access controls, encryption, and authentication, to safeguard sensitive data in the database.
+• Integrate the database with Java applications, ensuring seamless data flow between the PKI applications and the database.
+• Comply with the X.509 standard for certificate formats and structures, RFC 3647 for the establishment of CPs(Certificate Policy) and RFC 2527 for CPS(Certificate Practice Statement) within the PKI, NIST guidelines (e.g., FIPS 140-2) for cryptographic module security and key management, Online Certificate Status Protocol (OCSP) as defined in RFC 2560 for real-time certificate revocation checks and RFC 3161 for implementing the Internet X.509 Public Key Infrastructure Time-Stamp Protocol (TSP).
+Environment: Java, J2EE, Servlets, JDBC, Hibernate, Oracle 10g/11g/12c, MS-SQL Server 2008 R2, Postgre SQL, Eclipse, DB Visualizer, SafeNet Network HSM, SafeNet eToken,Gemalto Token and Burp Proxy. Educational Summary:
+• Master of Technology in Computer Science and Engineering
+• Bachelor of Technology in Computer Science and Engineering Certifications
+• AWS Cloud Practitioner
+• ISC2 Candidate
+Contact this candidate

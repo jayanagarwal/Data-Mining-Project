@@ -1,0 +1,99 @@
+Jeremy Frerichs
+Sr. Systems Engineer
+Phone : 858-***-**** / E -mail : ad2e71@r.postjobfree.com /
+CERTIFICATIONS
+CompTIA: Security+
+Microsoft:
+MCITP: Enterprise Administrator
+MCITP: Enterprise Messaging
+MCTS: Server Virtualization
+Kaseya:
+VSA 10 Certified Technician
+BMS Certified Administrator
+Other:
+VMware Technical Sales
+Symantec Netbackup Professional
+SUMMARY
+Over 20 years of experience designing, implementing, managing and improving server, network, security and cloud technologies. Continuous escalation of responsibilities and rapid mastery of evolving IT help desk, datacenter, NOC and managed services landscapes in a variety of environments including aerospace, biotech, law, medical, manufacturing and technology startups. EXPERIENCE
+SR SYSTEMS ENGINEER, MANAGED SERVICES
+The Kanavel Group, Reno, NV (2017-Present)
+Implement SSO and MFA in Azure and Google Cloud to protect infrastructure and enterprise applications like Salesforce, GitHub and Tableau, utilizing SAML, DUO, and OKTA. Migrate thousands of mailboxes from Google Cloud and Exchange to Office365. Update DNS/MX/SPF records for Proofpoint and Barracuda Antispam and E-mail security products. Multiple migration projects from Box and Google Drive to Azure SharePoint and OneDrive. Moved SFTP infrastructure from AWS to Azure including SSL/TLS and PGP encryption Audit Azure IAM and implement PAM / Just in time, network security groups, to harden cloud security posture and pass HIPPA and PCI penetration and security testing requirements. Facilitated shift to work from home for clients utilizing Citrix, RDP, Teams, OneDrive. Implemented Client VPN including Meraki, Cisco AnyConnect, SonicWALL, Azure VNET. Bolstered remote PC and BYOD access with Kaseya RMM, Intune and deployment toolkit for low and zero touch deployments, configuration, application installation, and patch management on hybrid and AzureAD joined workstations. Manage storage- SAN (EMC, EqualLogic, NetApp), NAS (QLogic, buffalo), and cloud (Azure blob / Amazon S3). Architect and implement complete backup, disaster recovery and security solutions using Azure Backup, Veeam, Appasure and Netbackup. Architect and implement all client network switching, firewall, and WIFI projects utilizing Cisco, Meraki, HP Aruba, Sonicwall, Ruckus, and Barracuda gear. Configure all VLANS / SSIDs / Routing / ISP / Failover / IP/UDP access rules / NAT Policies and WAF / CDN. IT MANAGER
+Kalani Oceanside Retreat, Pahoa, HI (2015-2017)
+Designed and implemented a guest WIFI system with Captive portal, access points, multiple vlans, SSIDs, and radios to provide coverage for 5 multi story buildings spread across 20 acres of jungle terrain utilizing Cisco and Ubiquity equipment. Supported Windows desktops, Ubuntu Linux server, Fortinet Firewall, Property management, credit card, point of sale, security, and PBX for this nonprofit organization. Setup an active directory domain, group policies, DFS file shares with profile and desktop redirection.
+,
+SR SYSTEMS ENGINEER
+Questpoint/Sambreel, Carlsbad, CA (2011-2014)
+Lead a team of 4 Network/Systems Administrators responsible for the operation of 500+ production Windows 2008 and 2012 servers across multiple datacenters, providing 99.99% uptime to 18 million daily active users (7.5 million concurrent connections at peak). SKILLS
+Multicloud Platforms:
+Azure / Office 365 / AD sync
+AWS, Google Cloud
+NSG, ELB, Route53, IAM, PAM
+VMs, S3, IaaS/PaaS, Intune
+Operating Systems:
+Windows Desktop 7-11
+Windows Server 2003-2022
+CentOS, Ubuntu Linux
+Virtualization:
+VMware, Hyper-V, Citrix Xenserver
+Docker / Kubernetes, P2V, Imaging
+Networking:
+DNS, DHCP, STP, OSPF, BGP, VRRP,
+SNMP, SFTP, SSH, NAT/PAT, VPN,
+IDS/IPS, RADIUS, ROUTING,
+SWITCHING, FIREWALLS, ACL
+Cisco, Meraki, Brocade, SonicWALL
+Barracuda, Ubiquiti, Ruckus, HP
+Storage:
+EMC, EqualLogic, NetAPP, iSCSI,
+fiberchannel, S3, Azure Blob,
+datalake, OneDrive
+Completely re-architected the production network for 2N redundancy and a 40gb/s backbone on Brocade and Dell Froce10 Switches.
+Utilized BGP to multihome 10gb/s wan uplinks to multiple ISPs. Introduced F5 LTM load balancers to replace previous DNS load balancing. These actions increased uptime by .9% annually and yielded a 15 man hour per week administrative savings.
+Implemented F5 GTM DNS infrastructure to replace UltraDNS saving $25k/month. SR NETWORK ENGINEER
+Managed Solution, San Diego, CA (2009-2011)
+Functioned as IT Director for over 20 small to medium sized business customers. Key projects include the implementation of a high availability SQL 2008 cluster, setup of a Cisco WIFI installation supporting 2,500 devices simultaneously on 80 access points. Multiple VMware and HyperV virtualizations, MS Server 2003 to 2008 migrations, and Exchange Server upgrades / migrations.
+NETWORK ADMINISTRATOR 3
+GKN Aerospace, El Cajon, CA (2006-2008)
+Provided support for all escalated issues at a 900+ user, 85 server, 13 building campus. Implemented VMware Infrastructure and virtualized aging physical servers to decrease costs and risk associated with supporting out of warranty legacy hardware. Deployed and managed 3 EMC CX series SANs attached to 25 Dell blades, configured all FiberChannel switches, and architected a backup strategy using Netbackup. Rolled out SMS to manage patches, updates, and inventory of 700+ workstations. SR NETWORK ADMINISTRATOR
+Neurocrine Biosciences, San Diego, CA (1999-2005)
+Guided and supported the explosive growth of Neurocrine’s network infrastructure from a local research company with 150 employees, 4 servers, and 1 flat network segment into a 600+ employee pharmaceutical producer with nationwide sales offices relying on over 70 servers spanning multiple LANs, WANs, and VPNs
+Developed and maintained programs for security, antivirus, and spam protection Managed network storage infrastructure, NAS/SAN, and created a comprehensive network backup plan including robotic tape, off site storage, hot site backup, disaster recovery, and file lifecycle management policies.
+Documented procedures and faced stringent auditing from Ernst & Young and SAIC for Sarbanes-Oxley compliance and network security.
+Documented procedures and faced stringent auditing from Ernst & Young and SAIC for Sarbanes-Oxley compliance and network security.
+NETWORK TECHNICIAN
+ISIS Pharmaceuticals, Carlsbad, CA (1998-1999)
+Installed, troubleshot, upgraded, and repaired a large variety of PC and MAC hardware and software (including scientific lab equipment) across a 4 building campus with 400+ employees.
+Trained Jr. technicians, kept inventory, and developed vendor relationships. Created a service request system to track help desk service calls. Database:
+MS-SQL (Server and Azure
+Managed), MySQL, Hadoop
+IT / Monitoring Software:
+ConnectWise, Zendesk, Kaseya,
+SolarWinds, Frame flow, Cactii,
+Pingdom, Splunk, Wireshark, Visio,
+Bittitan, ITGlue, Tableau Admin
+DEVOPS / Deployment:
+Terraform, GitHub, Python, Chef,
+Kickstart, Microsoft Deployment
+Toolkit, Intune
+Disaster Recovery:
+Azure Backup and Site Recovery,
+Symantec NetBackup. Veeam,
+AppAssure, Backup Exec, Ghost
+Security / AV:
+Sophos, McAfee, Bitdefender,
+Azure Key Vault, OpenSSL, SSH/TLS
+Certificate management, Duo,
+Okta, PGP, CloudFront, Barracuda,
+Proofpoint Kali Linux Pen Testing
+Additional:
+Documentation, Runbooks,
+Network Diagrams, User
+onboarding / offboarding, Disaster
+recovery planning, Crypto Locker
+virus mitigation, Compliance and
+vulnerability management, Active
+Directory optimization,
+Subscription Management,
+Licensing Management, Vendor
+Management
+Contact this candidate

@@ -1,0 +1,164 @@
+André Quitta
+PROFESSIONAL SUMMARY
+I am a highly skilled technical professional with over 15 years of experience, with extensive experience in SQL Server data warehousing, database development, and database administration. I have extensive experience in SQL Server Management Studio and has used Visio for data modeling. On my last position I was responsible for analyzing performance bottlenecks using SSMS and updating procedures to reduce memory requirements. I have analyzed legacy data sources and has found effective ways to combine them into coherent set of business models and data marts, including combining CRM, software licensing and help desk ticketing into management reports. I have experience doing SQL design of legacy and new databases using Visio an ERWin, tracing data lineage of reports to their main sources. I have helped automate on-prem SQL Data Warehouse which improved overall reliability of the system. I’m looking for my next opportunity where I can use my well-rounded SQL skills to add immediate value to an organization.
+
+Professional EXPERIENCE
+Contract Data Engineer, Ryan Specialty Group 11/23 to 3/24
+Modified SSIS reports to include auto-correcting steps and optimized performance to pick up where last left off
+Created early validation on data inputs, automated and flexible that email importers quickly
+Improved performance through proper indexing strategies
+Reduced validation processing steps
+Bordereaux report design and validation
+New SSRS reports to allow inserting data into tables
+Automated and scheduled DEV database environment refresh from Production. Can be expanded to other systems
+Documented process steps to accelerate learning curve for new hires
+Recommended database designs to simplify reporting
+SSRS and PowerBI report optimization such as simplifying administration, security, data sources and parsing the reports
+Data Engineer and DBA, Digimarc Corporation 3/21 to 9/23
+Modified legacy SSIS packages to run more efficiently, identify errors and notify business owners of status
+Updated SSIS for more consistent variable usage and cleaner deployments with environment variables.
+BigQuery analysis of large sets of giant files
+Profitability and Cost analysis by customer to determine Cost Per Customer Service, done for the first time at Digimarc
+Automated on-prem SQL Server data mart, reducing dozens of daily errors to one every few weeks
+System integration with a variety of feeder applications and multiple export and report systems, including SSRS and PowerBI
+Created monitoring for database and reporting processes, with enhanced error handling with logging, notification and retries
+Made the DataMart and DBA services available to multiple department consumers, with consumption reports and validation
+Modernized MongoDB Atlas environment and used Studio 3T for analysis, usage and clean up
+Enhanced Postgres customer databases to allow for more flexible reporting in Looker
+Snowflake conferences in anticipation of companywide usage
+Patent application potential for automatically recognizing and categorizing JSON structural changes in individual records
+Patent application for archiving data by table/month
+Patent application for automating DEV data environment creation from PROD
+BI Engineer, Columbia Sportswear 3/19 to 2/21
+Simplified business model by centralizing calculations in Databricks, and aggregates in AAS
+Created and maintained Tabular performance tuning using DAX Studio.
+Wrote automated daily process of business model processing in PowerShell with YML configurations, later in Tidal
+Made business model enhancements using Kimball practices and dimensional modelling.
+Created security settings in Azure and AAS using Active Directory groups
+Verified calculations using DAX Studio, PowerBI and Excel’s PowerPivot, depending on my audience
+Worked on PowerBI reports and VertiPaq, created to show system status, such as security, data freshness and record counts
+Created Perspective for easier visuals and reporting for a variety of audiences
+Documented Data Flows for the first time in our group to track impact of changes.
+Attended Mastering DAX Workshop with Marco Russo
+BI Analyst and Developer, KinderCare 7/18 to 3/19
+SQL Server 2017 Tabular data warehouse performance analysis
+oWrote customized script to gauge performance for each measure in a group of reports
+oTracked progress and performance at each step of program execution to help recommend configuration
+oCollaborated heavily with Octopus Release Manager, debugging process and adding steps
+oDesigned SSRS data driven subscription that automated report deployments and allowed multiple filtering models
+Infrastructure standardization
+oStandardized security at all levels of SSAS and SSRS, with a much more nuanced model
+oReconfigured SQL and Windows environments that put an end to frequent crashes of database and model
+oTook six disparate environments and standardized them, giving a detailed outline to Infrastructure
+oAutomated installation and configuration, gave multiple PowerShell and SQL scripts to Octopus Release Manager
+SQL Server DBA, Standard Insurance Corporation 5/15 to 7/18
+DBA for SQL Server 2008 r2 to 2017, including but not limited to
+oUpdated SSIS packages for more consistent deployments
+oSSRS 2016, including architectural framework of software configuration, security and deployment methodology
+oPerformance tuning and troubleshooting poorly performing queries, using PerfMon changes, sp_Blitz, indexing/statistics strategies, partitioning, archiving, execution plans
+oSSIS 2016, including hardware and software configuration, security and deployment framework
+oMade the DataMart and DBA services available to multiple department consumers, with consumption reports and validation
+oAutomated install of SQL Server through PowerShell 4.0 scripts, migrating over 60 servers to SQL 2014 from SQL 2000 and 2008.
+This came in ahead of schedule and under budget
+oSystem Integration with a variety of data sources and systems through SSIS and data validation scripts
+oOracle 11g reporting environment clean up with new architecture and templates for development, as well as monitoring of future releases for compliance
+oStudied R and machine learning for better use of data resources in Azure.
+Operations
+oManager of offshore Operations DBAs
+oOperationalized most routine actions for offshore resources. Created Run Books and Knowledge Transfer sessions for those resources.
+oIntroduced SSRS and SSIS guides and templates
+oManagement approach identified as a standard for other infrastructure off-shore operations teams, with increased staff retention rates
+oPaired senior staff with new members for a better onboarding process
+Architectural successes
+oReporting architecture for Crystal Reports to SSRS migration with a simplified approach that was very scalable and self-documenting
+oNetwork drive crawl for Oracle Split project, where entire network was analyzed for reporting objects that connect to Oracle databases
+oData model design approaches for Hadoop and Apache Spark that would allow for rapid querying of Key / Value pair data set using NoSQL’s columnar indexing strategy
+oIdentified ownership of SQL databases, extended that ownership to applications and security groups, first time in company history
+oRepeatable server environments. Best practices followed for all environments
+oStandardized servers and security environment. Extending this to automation using Ansible.
+oSecurity clean up and standardization
+SQL Server Developer and DBA, ShiftWise 11/13 to 4/15
+Data Architect and Developer, including but not limited to
+oConverted legacy Maintenance packages to SSIS with notification and logging
+oSSRS reports and report tables for integration partners
+oCreated Excel “dashboard” ad hoc reporting tool that allowed users to create reports with SQL WHERE and ORDER clauses
+oPartitioning, archiving and indexing strategies for greatly improved performance
+oWorkflow modelling
+oWrote audit and scheduled reports to stake holders
+oWrote stored procedures, triggers, indexed views and workflow for OLTP and reporting data stores
+oData publication using Always On, Change Data Capture, Replication
+DBA for SQL Server 2008 r2 to 2014, including but not limited to
+oScripted installs for instances from VCAC (vCloud Automation Center)
+oPublished in http://SQLServerCentral.com
+oSystem integration with source systems through SSIS packages and tracking Data Flows between systems.
+oPowerShell 4.0
+oDell Spotlight SQL monitoring and trending
+Senior SQL Server ETL Developer and DBA, Integra Telecom 10/10 to 11/13
+SSIS creation, standardization, repair and tied to SQL job release, included error handling and logging
+Converted Access 2007 data import processes into SSIS scripts and SQL jobs, VBA scripts to stored procedures
+DBA for SQL Server 2005 to 2012, including but not limited to
+odatabase creation,
+oreplication,
+obackups/restore, permissions,
+olinked servers, job creation/monitoring,
+oPowerShell and xpCmdShell
+ospace monitoring,
+oservice pack patching
+Headed operational DBA’s with on-call rotation but was able to bring in practices that reduced production stoppages by 75% by
+oEarly warning systems and threshold notifications
+oScripted error handling based on more common errors
+oAutomated modification of scheduled SQL jobs
+oStandardized server creation, patching and database maintenance
+oGrowth pattern analysis
+oAutomated and on-demand security reset
+Oracle PL/SQL developer
+Created and maintained clustered servers, LUN additions, snapdrives
+Dell Spotlight setup and monitoring
+Senior ETL and Application Developer, Wilshire Credit Corporation 2/06 to 10/07
+Wrote dynamic Data Transformation Services in SQL to include error checking, notification and execution until successful completion
+Changed job requirement from 80% maintenance to 15%, through stronger error handling, correcting common data anomalies, notification
+Migrated Microsoft Access 2000 and 2003 applications to SQL Server 2000 for the Accounting, Treasury and HR departments
+Dashboard. Display audit logs through a .NET web application for customers to evaluate the processes. Could drill down to all details
+Opt In/Out application. Created SQL backend and .NET front end to allow users to set their level of process notification
+Worked closely with Business Analysts and Quality Assurance to create a standardized project flow. First department to do so.
+Market Architect and Lead DBA, Comcast 2/04 to 1/06
+Created Excel “dashboard” ad hoc reporting tool that allowed users to create reports with SQL WHERE and ORDER clauses
+Developed tools to allow users to create and save custom reports, gave application owners the ability to maintain users, selection lists, reports
+Performed new database installations, scheduled and maintained backups, handled security through Active Directory groups
+Created standardized status reporting process to show in-process systems and compared to historical durations and successes
+Created capital tracking application for finance group in C# and ASP.NET, administered IIS 5 and 6 web environments
+Managed other developers and contractors in application development
+Published in http://SQLServerCentral.com
+2004 Nominee for company-wide award for outstanding achievement
+
+SKILLS
+Database Applications SQL Server 2022, back to 6.5 with SSIS, SSAS, SSRS, Team Foundation Server,
+DTS and T-SQL, ADO.NET, AWS Postgres, MongoDB Atlas, BigQuery, Oracle PL/SQL
+Data Warehouse Azure Analysis Services, Azure Data Factory and Databricks, SQL Server Data Tools, Tabular Editor, DAX Studio, PowerBI, PowerShell, GIT, Tidal,
+Dev Tracking GitHub, Agile, Jira, SCRUMs, retrospectives, story writing, Kanban planning, BitBucket, Docker
+Programming Languages T-SQL, PowerShell, Terraform, Puppet, C#, BASIC, PERL, AWK, COOL:Gen, SAP’s ABAP
+Interface tools: Visual Studio Code, DBeaver, Studio 3T, and SQL Server Management Studio
+Script Languages JavaScript, Excel VBA, BASH, Access VB Script, Word VBA
+
+Reporting Tools PowerBI, Looker, SSRS, Excel, Access, Crystal Reports, Active Reports, Bordereaux, BRIO
+
+EDUCATION
+Columbia Sportswear
+Mastering DAX, June 2019
+Standard Insurance
+SSRS 2016 report creation and configuration, July 2017. Runbooks and templates created
+Oracle Database Performance Tuning Workshop, August 2017
+Integra Telecom
+MS-6234: Implementing and Maintaining Microsoft SQL Server 2008 Analysis Services, July 2011
+Implementing SQL Server 2008 Analysis Services, September 2012
+SQL Server 2008 Reporting Services, March, 2013
+UNIX Shell Scripting Basics, March, 2013
+Instructor, Portland Community College, Portland, Oregon
+Advanced Visual Basic (CIS 234B), spring and summer semester 2000
+Columbia University
+Certificate Program: Computer Technology & Applications in C Programming and Telecommunications
+City University of New York
+BA in Accounting, minor in Economics and Programming
+Languages
+Fluent in German
+Contact this candidate

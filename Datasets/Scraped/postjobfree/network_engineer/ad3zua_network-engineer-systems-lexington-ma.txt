@@ -1,0 +1,81 @@
+TRUNG T VO
+**A, Outlook Drive, Lexington, MA-****1
+(Cell) 339-***-****
+Email: ad3zua@r.postjobfree.com
+
+OBJECTIVE: Network operation, security, network support, system interoperability, system integration, data center interconnect, conformance testing, deployment testing .
+WORK EXPERIENCE:
+CASA SYSTEMS Andover,MA Dec 2013 - Feb 2023
+Principal Systems Engineer / Network Engineer
+Wrote and implemented test plans for
+-Support and Validation customer deployment new product/features vCCAP(SDN/NFV) connected to different TOR’s (Arista 7280, Juniper QFX 10K, Cisco Nexus 5500, 9336, Melanox … ) using LAGs and BGP evpn between TOR’s or MC-LAG for redundancy .
+-Multiple Multicast VPN profiles (GRE/PIM), NG-MVPN (C-BGP/MLDP), (Partitioned MDT - MLDP P2MP) etc . (Next Generation of Multicast VPN )
+-IPv6 (Stateless/Stateful Autoconfiguration, Neighbor Discovery, Prefix Delegation)
+-L2VPN(EoMPLS/VPWS/VPLS(LDP/BGP) and L3VPN, 6PE, 6VPE
+-Integration, Performance and interoperability Testing with different platform ASR9000, ALU7750, QFX3500/3600
+-Support and Validation customer deployment new product/features
+-Routing/MPLS/Multicast VPN/L2VPN/L3VPN .. for Virtual Broadband Network Gateway (vBNG) and virtual Converged Cable Access Platform (vCCAP) products . These products are installed and run as containerized application on a Kubernetes K8 server virtual platform that accommodates the vCCAP and vBNG control plane and data plane functionality.
+-Evaluate vendor switches and setup and verified vCCAP evpn all-active multihoming to TOR switches (Cisco Nexus 5500 / 9300, Arista 7280, Juniper qfx5120, qfx10k, extreme switch X690… connect to CORE Networks
+
+SOVEREIGN/SANTANDER Bank Dorchester,MA Sep 2012 - Nov 2013
+Network / Network Security engineer
+Provide and support access to internal resources for remote Access VPN users, Site-to-Site IPsec VPN with Cisco PIX/ASA firewalls .
+Implemented internal wireless network (WCS/MSE/WLC/APs) for Sovereign/Santander New England region. Features included: locate and disconnect rogue APs or clients, route alerts from APs to different administrators, reports generation …
+Implemented NAC-L2-802.1x which provides for both user and machine based authentication of the endpoint with Cisco Secure ACS/Radius Server/Active Directory .
+Provide support for TANDBERG Video Conference, Gatekeeper and Voice/IP
+GREEN MOUNTAIN COMMUNICATIONS INC, Pembroke, NH Nov 2011 - Aug 2012
+Network Consultant
+Main user requirements:
+Consolidate five (5) administratively independent networks owned by different state agencies into a single network
+Each agency has many offices dispersed throughout the state, and has its own QOS and SLA requirements for streaming videos and video conferencing applications.
+The consolidated network is managed via a single site.
+Network Design
+Create a top-level service provider to provide L2/L3 VPNs networking services and SLAs to each agency
+Use MPLS, BGP/ISIS, L2VPN, L3VPN, MVPN, QoS, microwave radio, and T1 and technologies to implement security requirements and bandwidth allocation for multicast data, video
+LSM (Label Switched Multicast) is NOT implemented in ME 3800. Proposed solutions to customers to implement multicast vpn
+Simulate prototype 15-node PEs network using customers’ applications
+Complete design reviews, test result with customers
+Network is fully deployed and operational
+Reported two majors MVPN SR (SEV1) to Cisco
+
+CISCO SYSTEMS, Boxborough, MA Jan 1996 to Aug 2011
+Software Engineer IV / Network Engineer
+Customer support and escalation : Build simulated customer networks, reproduced critical customer issues, drive resolution and verify bug fixes for service providers such as (AT&T, Verizon, France Telecom, NTT, Swiss Telecom, Deutch Telecom, Bhati telecom ..etc)
+Built multiple lab network topologies to support customer requirements
+Interact with various departments including escalation engineering, development engineering, and test engineering. Wrote and executed unit, integration, and performance test for MPLS features
+Purchase equipment for the team/departments
+Worked in the following functional areas:
+* ISSU In-service Software Upgrade: Unit tested ISSU support (router software upgrade without traffic drops) for MPLS.
+* LSM Label Switched Multicast: LSM is an MPLS extension to support multicast using labels. Tested basic LSM functionality as well as stateful switchover (SSO) support.
+* MPLS: write and execute test plans for multiple MPLS technologies such as L2VPN, MetroEthernet, L3VPN, inter-AS L3VPN,VPLS, 6PE, 6VPE, vrf NAT and Multicast. Performed MPLS unit, integration and interoperability testing. Also performed scalability testing for MPLS forwarding. This required working closely with the Software Development Engineering team in reporting problems, reproducing bugs, and verifying fixes.
+* Traffic Engineering: Tested and wrote Traffic Engineering Fast Reroute and SSO unit test plans.
+* Traffic Engineering performance testing: Performed scale and performance testing for traffic engineering and measured forwarding performance improvements for the Cisco 7200 and 3800 platforms.
+* BFD: Executed unit, scale and performance testing for BFD IPv4 clients (OSPF, ISIS, RIP, EIGRP, BGP, VPN ) and BFD IPv6 clients (EBGP, ISIS, OSPFv3).
+* Security: Did negative testing of MPLS label spoofing. Testing Network Address Translation and ACL (Access Control List) for VPN.
+* Network Operations: Designed, built, configured, and maintained the development network used for unit and integration testing for the MPLS team. Also build the simulation network topologies of service provider networks to reproduce customer issues
+* ATM: Tested the Cisco ATM port adapters (ILMI, SSCOP, Signaling UNI3.0 ATM components). This included both the user and network sides.
+
+CABLETRON, Durham, NH Mar 1994 - Dec 1995
+
+Software Engineer III - ATM Signaling Project
+* Developed ATM signaling protocol in C++ for ATM UNI3.0.
+
+EDUCATION:
+Master of Computer Networks, University of Paris, France
+Master of Mathematics, University of Orsay, France
+Passed the written CCIE SP exam.
+
+SKILL SUMMARY:
+
+* Programming Languages: C, C++, tcl
+* Operating Systems: Windows, UNIX, Cisco IOS, Cisco IOX, Cisco NXOS, JunOS
+* Routing Protocols: BGP, ISIS, OSPF, EIGRP, RIP (IPV4 and IPV6), Multicast Routing (PIM, Multicast BGP, MSDP, IGMP ..), NG-MVPN
+* Good understanding of SDN and ACI ( Cisco Application Centric Infrastructure) technologies: Intra fabric packet flows, ACI forwarding: L2,L3 external connectivities, Multipod deployment, Multicast, GOLF, Multisite.
+* Security / Access protocols : IPSEC, 802.1X
+* Multimedia protocol : H.323 suite, SIP
+* Platforms: NCS5500, Nexus7k, N9k Standalone and N9K-ACI mode, 2900, 4500, 4948, 3750, 3800, 3800ME, 7300, 7200, 6500, GSR/C12K, ASR-1K, ASR9K, ASA 5500, PIX, Cisco AP, WLC, WSE, WCS, ACS 5.3,3500/3600,Checkpoint R75, ALU 7750, Arista 7280,Juniper QFX5120, QFX10k
+* Network protocol Analyser : Wireshark, Agilent, Spirent etc..
+* Network Management and security monitor Tools: MARS, ORION (NCM/NPM), Cisco Prime
+
+REFERENCES: US Citizen. References Available on request
+Contact this candidate

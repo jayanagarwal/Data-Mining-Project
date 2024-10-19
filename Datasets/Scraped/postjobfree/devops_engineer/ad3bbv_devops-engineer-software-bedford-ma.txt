@@ -1,0 +1,180 @@
+HECTOR RODRIGUEZ
+ad3bbv@r.postjobfree.com
+
+Lead AWS and Azure DevOps Engineer
+
+SUMMARY
+●Experienced Cloud and DevOps Engineer with 10 years of IT industry experience in Software Analysis, Design, Development, Automation and Maintenance of on premise and Cloud based Applications and Services using AWS Services like EC2, ELB, VPC, EBS, S3, AutoScalingGroups (ASG), Route 53, IAM, CloudTrail, CloudWatch and CloudFront and offerings.
+●Involved in all stages of the software development cycle (SDLC) namely design, specification, administration, environment setup, debugging, integration and system testing. Has good working awareness on E Commerce, Healthcare, Financial and Insurance domains.
+●Cognitive about designing, deploying and operating highly available, scalable and fault tolerant systems using Amazon Web Services (AWS).
+●Creating and managing VPC, Subnets, Security groups and Load balancer (ELB).
+●Create and manage files, policies in S3 bucket (SimpleStorageService). Well versed in writing, understanding the UNIX commands and scripts.
+●Developed Templates for AWS & Azure infrastructure as a code (IAC) using Terraform to build Dev, QA, staging and production environments.
+●Integrated Kafka clusters with monitoring and logging solutions like Prometheus, Grafana, and the ELK stack to gain real-time insights into Kafka health and performance.
+●Creating and managing Azure VNet, Subnets, Security groups, Application Gateways and Load balancer.
+●Setup and build Azure infrastructure using various resources, AKS Clusters Virtual Machines, Azure Blob Storage, Azure Active Directory, Virtual Networks, and Azure Security Groups
+●Create and manage files, policies in Azure Blob Storage.
+●Setup and build AWS infrastructure using various resources, VPC, EC2, S3, IAM, EBS, Security Group, Auto Scaling, SES, and SNS in Terraform templates.
+●Integrated AWS CodeDeploy seamlessly into CI/CD pipelines (e.g., AWS CodePipeline) for end-to-end automation of the software delivery process.
+●Integrated Scalr with Infrastructure as Code (IaC) tools like Terraform or CloudFormation to define, deploy, and manage cloud resources programmatically.
+●Proficient in AWS services, including EC2, S3, VPC, IAM, Lambda, and CloudFormation
+●Good Knowledge in bash and exposure to Python scripting
+●Hands-on experience in Build and Deployment of CI/CD pipelines, managing projects often includes tracking multiple deployments across multiple pipeline stages (Dev, Test/QA staging and production).
+●Good knowledge in maintaining public GIT Repositories.
+●Created Docker image builds within AWS CodeBuild for containerized applications, optimizing deployment and ensuring consistency across environments.
+●Expertise in Jenkins for continuous integration (CI) for automating complete build and deployments.
+●Experience in using configuration management tools like Ansible.
+●Experienced in implementing and organization DevOps strategy in various operating environments like Linux and windows servers along with cloud strategies of Amazon Web Services.
+●Has good knowledge with Kubernetes to manage the containerized applications and deploying application containers as pods.
+●Experienced on Docker hub, creating Docker images, and handling multiple images primarily for middleware installations.
+●Possesses good working experience in Agile (Sprint and Scrum), Waterfall and V Model methodologies.
+●Good experience in leading and managing both development and system integration test teams.
+●Extensive experience in producing detailed status reports for management and clients.
+●Exceptionally well-qualified AWS Engineer with sophisticated technical skills and a passion for resolving complex problems or business challenges through innovation and technical research.
+
+TECHNICAL SKILLS
+
+Cloud Platforms
+AWS, Microsoft Azure
+Continuous Integration Tools
+Jenkins, Gitlab, Github Actions
+Continuous Deployment Tools
+FluxCD, ArgoCD
+Configuration Management Tools
+Ansible Tower
+Source Control Management Tools
+Github, Gitlab, Bitbucket, CodeCommit.
+Tracking Tools
+JIRA.
+Artifact Repositories
+JFrog.
+Logging & Monitoring Tools
+PRTG, Nagios, Splunk and ELK Stack, CloudWatch.
+APM Tools
+Dynatrace, New Relic.
+Web Servers and Application Servers
+Nginx and Apache Tomcat
+Database
+MongoDB, SQL Server and MySQL.
+Operating Systems
+Windows, Linux/Unix and MAC OS.
+Network Services and Topologies
+LDAP, DNS, Web, FTP, Sub netting, LAN, VPC, WAN and firewalls.
+Scripting languages
+Shell, Python, Powershell XML, JSON and YAML.
+Cloud Migration, Infrastructure
+Terraform, CloudFormation and Azure Resource Manager Templates.
+
+CERTIFICATIONS
+●Microsoft Certified: Azure Administrator Associate ID: I809-4864
+●CKA: Certified Kubernetes Administrator ID: LF 40oaoiaqx2
+●AWS Cloud Practitioner ID: 7LEKLCJ1NMR1123G
+●AZ900 ID: 990400463
+
+PROFESSIONAL EXPERIENCE
+
+Lead DevOps Engineer/Aspentech/Remote Sept 2021- Till date
+●AWS administration and deployment using Terraform.
+●Gitlab CI/CD development.
+●Python scripting on AWS SDK to collect information for SOC2 certification.
+●Artifactory deployment and troubleshooting.
+●Maintain and improve in-house DevOps code written in different languages.
+●Kubernetes and Docker administration, deployment and release.
+●Managing Amazon Web Services (AWS) infrastructure with automation tools.
+●Implemented Scalr as a centralized cloud management platform to manage and automate AWS resources.
+●Utilized Scalr to provision and manage AWS resources such as EC2 instances, databases, storage, and networking components.
+●Create multiple VPC’s and public, private subnets as per requirements and distribute them as groups into various availability zones of the VPC.
+●Develop Templates for AWS infrastructure as a code (IAC) using Terraform to build Dev, QA, staging and production environments.
+●Setup and build AWS infrastructure using various resources, VPC EC2, RDB, S3, IAM, EBS, Security Group, Auto Scaling, SES, SNS and RDS in Terraform templates
+●Used security groups, network ACL’s, internet gateways and route tables to ensure a secure zone for organization in AWS public cloud.
+●Familiar with various shell scripting languages, including Bash, PowerShell, and Python for system tasks and task automation.
+●Integrated AWS CodeCommit with CI/CD pipelines (e.g., AWS CodePipeline) for automated codebuilds and deployments, reducing manual intervention and accelerating the release cycle.
+●Utilize Jenkins with custom-built Java libraries to integrate IAM tools into the DevOps workflow.
+●Developed and improved processes to improve production support, such as incident response procedures, root cause analysis procedures, and change management procedures.
+●Create and configure elastic load balancers and auto scaling groups to distribute the traffic and to have a cost efficient, fault toler and highly available environment.
+●Proficient in container orchestration using Amazon ECS to manage and deploy containerized applications.
+●Create S3 buckets in the AWS environment to store files, sometimes, which are required to serve static content for a web application. Configure S3 buckets with various life cycle policies to archive the infrequently accessed data to storage classes based on the requirement.
+●Designed and orchestrated multi-container applications using ECS, defining task definitions and service configurations.
+●Integrated AWS CodeBuild seamlessly into CI/CD pipelines (e.g., AWS CodePipeline) to automate the building, testing, and deployment of applications, resulting in faster and more reliable releases.
+●Create and launch EC2 instances using AMI’s of Linux, Windows and write shell scripts to bootstrap instance.
+●Used IAM for creating roles, users, groups and implemented MFA to provide additional security to AWS account and its resources. Implement domain name service (DNS) through route 53 to have highly available and scalable applications.
+●Automated security-related tasks and compliance checks using AWS Lambda functions and CloudWatch Events, reducing manual effort and improving security posture.
+●Utilized Infrastructure as Code (IaC) practices to define and provision Kafka clusters, topics, and other related resources in a consistent and repeatable manner.
+●Managed and maintained code repositories using AWS CodeCommit, ensuring version control, collaboration, and traceability of code changes.
+●Build CI/CD pipeline with GitLab, JFrog artifact repository, Docker, AWS ECR registry for Images and designing and maintain Helm charts to deploy the spring boot java, Node Js applications on EKS cluster and upgrades in a reliable and efficient manner
+●Develop, deploy, and operate automation and cloud-native (microservices, serverless, containers)
+●based solutions.
+●Utilized AWS CodeDeploy to automate the deployment of applications to various environments, ensuring consistent and reliable releases.
+●Used monitoring tools, incident response tools, and automation tools to provide production support.
+●Maintain monitoring and alerting of production and corporate servers using Cloud Watch service.
+●Create EBS volumes for storing application files for use with EC2 instances whenever they are mounted to them.
+●Create RDS instances to serve data through servers for responding to requests.
+●Create snapshots to take backups of the volumes and also images to store launch configurations of the EC2 instances.
+●Helped individual teams to set up their repositories in Gitlab and maintain their code and help them setting up jobs which can make use of CI/CD environments.
+
+Senior Infrastructure Engineer/Schneider Electric/Remote March 2020 – Sept 2021
+●AWS Files Server Migration.
+●Office closures voice infrastructure migration.
+●Enterprise Voice & Voicemail activation for Skype for Business users.
+●Powershell scripting for Windows Server
+●Managed Kafka configurations as code, enabling version control and traceability of changes using tools like Ansible or Terraform.
+●Integrated shell scripts into CI/CD pipelines for tasks like deployment, testing, and infrastructure provisioning.
+●Cloud telephony migration to Teams.
+●Used JIRA tool to track all the defects and changes released to all environments.
+
+DevOps Solution Architect/Neoris: Cemex Project/Monterrey, Nuevo Leon (Onsite). Jan 2019 – March 2020
+●Managed the administration of web applications (Linux) and orchestrated seamless deployment using DevOps practices. Oversaw reverse proxy configurations (Apache) and maintained SQL Servers hosted on Microsoft Azure.
+●Streamlined the deployment process for Construrama, Construrama Supply, and Small-end Customer stores by employing Jenkins as CI/CD tool.
+●Created CI/CD pipelines for Cloud flow, java applications into Azure DevOps YAML pipelines
+●Implemented a robust monitoring strategy for server performance utilizing Dynatrace in adherence to DevOps principles, enabling proactive enhancements and efficient issue resolution.
+●Architected scalable Hybris solutions for new e-commerce projects.
+●Demonstrated proficiency in Bash scripting for automation and SSL certificate installations, enhancing server configurations and strengthening security measures, aligning with DevOps best practices.
+●Utilized Git and Bitbucket for version control, while employing JIRA for project management and embracing Agile/Scrum methodologies to foster collaboration, iteration, and continuous improvement in line with DevOps philosophy.
+●Expertly diagnosed and resolved issues related to Hybris implementation on SUSE and Windows Server 2016.
+●Conducted comprehensive vulnerability assessments and implemented corrections on servers to achieve PCI Compliance certification.
+Unified Communication Engineer/Neoris: Cemex Project/Monterrey, Nuevo Leon (Onsite). Sept 2017–Jan 2019
+•Deployment of Polycom & Skype for Business services (VMR, Real Connect & Group Series).
+•Installation of video conference equipment.
+•Skype for business integration with video conference endpoints (Cisco & Polycom).
+•Experience with Agile/Scrum methodologies.
+•Implementation of Evoko server solution on Azure servers.
+•Integration of SBC Audiocodes to Skype for Business telephony service.
+•Skype for Business global architecture design for global UCaaS deployment.
+•Scrum methodology.
+
+Axtel-Infrastructure Security Engineer - – Monterrey, Nuevo Leon (Onsite). March 2017–Sept 2017
+•Conducted comprehensive vulnerability assessments for Cisco and Alcatel infrastructures, developing and implementing effective solutions to bolster network security and resilience.
+•Administered Cisco ASA firewall to establish secure zones, ensuring robust protection and adherence to established security policies.
+•Executed penetration tests on network infrastructure using Kali Linux, proactively identifying and resolving security vulnerabilities to enhance the overall security posture.
+•Managed and optimized secure zone switches, enhancing network efficiency and security.
+•Implemented robust monitoring and mitigation measures to counter volumetric attacks using Arbor, maintaining network integrity and availability.
+
+Softtek Information Services-VoIP Engineer– Monterrey, Nuevo Leon (Onsite). May 2015–March 2017
+•Experience working with Avaya G650 and G450 cabinet.
+•Administration and technical support (local level 2 and global level 3) to Avaya global services.
+•Experience configuring Skype for Business Enterprise roles (Front End, Mediation, Back End, Edge, SQL Server, Reverse Proxy)
+•Troubleshooting with Avaya and Skype for business system.
+•Configuration of Avaya session manager, system manager and CM.
+•Administration and support of the Skype for Business Global Servers.
+•Configuration of AAR, ARS, IP Trunks, E1, Coverage Path, Pick up groups, etc…)
+•Experience configuring DHCP, DNS, SQL, IIS & Active directory in Windows Server 2012.
+•Powershell scripting to monitor Skype for Business in PRTG using synthetic transactions (Inbounds calls, outbound calls, IM testing, Presence, etc.).
+•Experience developing integrations with Skype for business-Avaya, Skype for business- Asterisk and Avaya-Asterisk.
+•Migration of the Skype for business and Avaya datacenter to the new Softtek site.
+•Troubleshooting Skype for Business issues as local level 2 support and as global level 3 support.
+•Implementation of a NID server based on Linux to improve security in GE network.
+•Develop projects based on Linux to innovate and improve VoIP services in Softtek.
+•Implementation and maintenance of Ruckus AP monitoring server based on Linux.
+
+Telvantix Voice Support Engineer– Monterrey, Nuevo Leon (Onsite). June 2014–May 2015
+•Preventive and corrective maintenance to Xorcom appliance (Linux voice server)
+•Implementation of Linux iptables, fail2ban and other security services to improve the security of client server.
+•PHP, bash and mysql scripting in linux.
+•Presale engineer of Xorcom system.
+•Xorcom integration with others voice system such as Avaya, Cisco and Lync.
+•Implementation of voice infrastructure using open code for Linux (Sangoma, Asterisk, Yeastar, Hypermedia)
+•Troubleshooting of Linux, asterisk & networking services
+
+EDUCATION
+Electronic & Communication Engineer Universidad Autónoma de Nuevo León - July 2009–July 2014
+Contact this candidate

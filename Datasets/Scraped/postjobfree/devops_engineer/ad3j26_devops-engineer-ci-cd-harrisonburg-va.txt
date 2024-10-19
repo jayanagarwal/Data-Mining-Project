@@ -1,0 +1,81 @@
+TERENCE NIDAH
+Harrisonburg, VA ***** ad3j26@r.postjobfree.com
+Cell: 202-***-**** LinkedIn: https://www.linkedin.com/in/terence-nidah I am a skilled Industrious IT professional with over 8+ years of involvement as a Cloud, on prem and DevOps engineer with proven hands-on participation in supporting, automating, and optimizing both monolithic and micro-service applications deployments in AWS by building an automated CI/CD pipeline. Detail-oriented and have excellent communication, problem-solving, and decision-making skills and always ready to learn new tools/technologies and be innovative.
+TECHNICAL SKILLS
+Operating systems- Linux, windows,
+Build management tool- Maven, Gradle,
+Scripting languages- Bash, Python, groovy, YAML, HCL, Go, HTML, XML, Version control tool- Git,
+Source Code Manager- Github,
+CI/CD- Jenkins
+Configuration monitoring- Ansible
+Servers- Apache, Nginx, Tomcat, Jboss,
+Containerization tool- Docker, Docker Swarm
+Containerization Management- Kubernetes
+IAAC- Terraform
+Database- NoSQL(DynamoDB, MongoDB) & SQL (Oracle and PostgreSQL, MySQL) Log Management- EFK /ELK,
+Artifactory- Nexus, Jfrog & Docker hub,
+Big data- Hadoop,
+Continuous delivery- ArgoCD
+Monitoring- Prometheus, Grafana,Cloud watch, Rancher, AWS Cloud- EC2, VPC, S3, ELB, EBS, Log Auto, IAM, Route53,ECS,EKS, AWS certificate management, ASG, ECR, Fargate, AWS transfer family, Code quality- SonarQube, Sonarcloud,
+Atlassian tools- Bitbucket, Jira, Confluence,
+Files Scanner- Trivy
+EXPERIENCE:
+DevOps Engineer,
+Dominion System inc
+Houston, TX
+February 2019 - Present
+• Managing multi-tier enterprise and web application deployment in Kubernetes leverage AWS resources.
+• Set up maintenance scripts using metadata for graceful startup and shutdown of servers.
+• Reviewed and modified Terraform and Ansible scripts to provision and configure EKS, VPC, Route53, EC2 instances, etc. in AWS cloud and GCP.
+• Storing state file remotely in S3 bucket and lock it with DynamoDB to prevent the submission of two changes at the same time by teammates.
+• Deployed and managed applications running on a mix of Kubernetes, AWS, and GCP and introduced optimization which resulted in savings of over $10k per month.
+• Managing, importing, creating and monitoring Mix multiple Kubernetes clusters and it’s components using Rancher .
+• Deploying and configuring ArgoCD in to Kubernetes clusters for visualization, tracking and pulling changes from Git Repos and applying the changes in Kubernetes clusters.
+• Creating dash board with new relic that alerts on daily basis and using them to monitor resful API’s
+• Set quality gate policies on SonarQube for code coverages, to track bugs, vulnerabilities and failed the Jenkins pipeline when the threshold was not met.
+• Ensuring security in Kubernetes by Configuring authentication and authorisation through ConfigMap file and RBAC leveraging IAM .
+• Configured namespaces, resource quotas for different enviroments. RBAC, HPA, and Cluster RBAC. Setup for Apache and Nginx webservers couple with AWS ELB SSL for all HTTP to HTTPS thereby maximizing security
+• Configured Security groups and locked them down to the various authorized subnet and IP addresses in AWS.
+• Used Jira for ticketing and Confluence to document SOPs and Procedures.
+• Created Ansible playbooks for installation, patching configuration of servers, user management, with different levels of access, file management, deployment and full automation.
+• Responsible for building, managing, and optimizing Kubernetes deployments, volumes, and replicas in the entire software development lifecycle.
+• Implemented security best practices in AWS including multi-factor authentication, access key rotation, encryption using KMS, firewalls- security groups, RBAC and NACLs, S3 bucket policies and mitigating DDOS attacks, etc.
+• Applied best practices in Cloud Security, auditing, and implementing security controls.
+• Integrating lambda with cloud watch event to create servers snapshots for disaster recovery purposes
+• Created CI/CD pipelines on Jenkins and setup auto triggers like poll SCM, build periodically and GitHub web-hooks
+• Use Helm charts to deploy Prometheus and Grafana for monitoring.
+• Experience with container-based deployments using Docker, working with Docker images, Docker hub, and configuring EKS clusters using Terraform.
+• Carry out renewal of SSL certificate in the organization Performed applications
+• Performed applications installation, upgrades/patches, troubleshooting, maintenance and monitoring of Linux servers.
+• Assisted on the onboarding and seamless transition of new recruits Cloud Support Engineer
+Beyond Technologies
+Richmond, VA
+March 2015 - 2019
+• Implemented security best practices in AWS including multi factor authentication, access key rotation, role based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs, etc
+• Designed and built self-healing, fault-tolerant, and cost-effective architectures making use of R53 fail-over routing policies, multi-AZ EC2 instance deployments, ELB health checks, Auto Scaling, and other disaster recovery models
+• Working very closely with Developers and Build & Release team. We setup Jenkins server & slave nodes for build and release team as per request.
+• Wrote terraform manifest yaml files to provision our infrastructure with EKS clusters, EC2 instances, IAM roles, VPC’s, S3 bucket, and other resources on AWS.
+• Used Docker for containerization and Kubernetes for container orchestration
+• Building and configuring Kubernetes Clusters ensuring that nodes/pods can auto scale, communicate with each other and load balance.
+• Strong experience in enhancing security configuration in Linux, docker and Kubernetes
+• Created CI/CD pipeline on Jenkins and setup auto triggers like poll SCM, build periodically and GitHub wed-hooks
+• Identified and troubleshoot network related issues TCP/IP,DHCP,DNS
+• Installed web/application Servers (Nginx, Apache, JBoss/wildfly and Tomcat)
+• Used Jenkins Declarative pipelines to deploy applications to appropriate targets
+• Configured and deployed highly available, scalable applications on AWS Cloud using EC2, RDS, S3, ELB, and Auto Scaling and monitored these applications with Cloud watch and Prometheus.
+• Integrated SonarQube with Jenkins for continuous inspection of code quality, unit tests and bug tracking.
+• Managed SCM on GitHub and Git Repositories, granted required access to Teams and Deployment branches.
+• Managed and Configured File systems (NFS) and system.
+• Wrote Terraform scripts for provisioning of infrastructure
+• Lowered expenses by using reserved instances, selecting and modifying EC2 instance types based on resource requirements, S3 storage classes and S3 lifecycle policies, and using Auto Scaling, among other things.
+• Automated basic daily tasks using bash scripts and setting cron jobs. DevSecOps PROJECT
+Project on DevSecOps which involved designing, creating, Deploying movie channel application ensuring high security majors by using security tools. EDUCATION ●
+-Postgraduate program in information technology
+(Cyber security)
+University of Texas at Austin.
+-Bachelor degree,
+University of Bamenda .
+CERTIFICATIONS ●
+-AWS Certified Solutions Architect Associate
+- cyber security certificate
+Contact this candidate

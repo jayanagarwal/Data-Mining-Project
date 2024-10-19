@@ -1,0 +1,59 @@
+Geoffrey Bonias
+Edmonton, Alberta, Canada +1-780-***-****
+linkedin.com/in/geoffrey-bonias github.com/Geoffrey-42 ad7jdn@r.postjobfree.com Driving License
+Data Scientist with a diverse background in engineering, math, and extensive experience in Machine Learning, algorithms, programming, and a passion for continuous learning, eager to contribute to innovative projects and make a meaningful impact in the field. I am open to relocation, and bilingual (en/fr). SKILLS
+• Background: Mathematics, Computer Science, Machine Learning, Data Science and Statistics (2 Master degrees)
+• Machine Learning: Deep Learning, Natural Language Processing, Computer Vision, Time Series, Neural Networks, Supervised & Unsupervised Learning, Recommender Systems, Ranking, Transfer Learning, Ensembling, Classification, Regression, Clustering, Segmentation, Transformers, CNNs, RNNs, LLMs
+• Programming: Python, SQL, Tensorflow, PyTorch, Keras, Scikit-learn, Numpy, Pandas, Matlab, R
+• Cloud: Docker, Kubernetes, ETL Pipelines, Data processing, AWS, GCP, Vertex AI, Terraform, Multi-Cloud EXPERIENCE
+Alberta Machine Intelligence Institute (Amii) Edmonton, Alberta, Canada AI Consultant (WILO contract) Jun 2024 – Aug 2024
+• Collaborating directly with the Amii industry team to communicate with stakeholders and gather requirements for integrating AI and ML into a client’s business. Developing effective strategies, making adjustments as needed, and outlining a comprehensive scope tailored to the client's unique needs.
+• Focusing on improving prediction accuracy, uncovering stronger correlations, and enhancing data analytics while increasing the explainability and dependability of the model to boost user confidence. Apziva Remote
+Data Scientist May 2023 – Jun 2024
+• Assisted in migrating a hotel registration system to the cloud and provisioning the cloud infrastructure.
+• Designed a decision-support system to enhance investment strategies, incorporating multivariate time series forecasting. Developed a customized LSTM model for accurate stock price prediction, employing sktime for feature engineering and Optuna for Bayesian optimization of hyperparameters.
+• Contributed to a mobile app with automated page flip detection for seamless scan and OCR functionality for the visually impaired. Developed an image classification model using TensorFlow to accurately detect page flips, integrated Transfer Learning with CNNs, prototyped the model with Gradio and deployed it through HuggingFace.
+• Optimized the hiring process by developing an NLP pipeline to analyze LinkedIn profiles. Utilized SBERT for generating candidate embeddings and evaluating their relevance to recruiter-defined search terms.
+• Spearheaded sentiment analysis and customer segmentation initiatives, utilizing optimized Random Forests, XGBoost and additional supervised learning models to derive actionable insights. University of Alberta Edmonton, Alberta, Canada
+Research Assistant Oct 2022 – Jan 2023
+• Automated the material characterization process from microscopy images by implementing a research paper's methodology for image segmentation tasks, which helped characterize the phase compositions of samples. Page 1 / 3
+• Engaged in substantial research, proactively staying current with field literature and applied a structured and systematic synthesis of information for effective problem-solving. Modeled a multi-scale physical problem with thoroughness and gained deep expertise in the field.
+• Delivered quantifiable improvements over existing processes and reduced residual stresses by 200 MPa.
+• Documented and presented results to the team and in conferences with clarity and conciseness with publication of a research paper.
+PROJECTS
+Cloud Migration Project Mar 2024 - Apr 2024
+• Assisted a hotel in scaling their services by migrating on-premises capabilities to the cloud and provisioning a multi-cloud architecture using Terraform.
+• Facilitated moving the database to an AWS S3 bucket using MySQL and Linux, containerizing the application with Docker and deploying it on GCP with Kubernetes Engine. Multivariate Stock Price Prediction and Recommendation Jan 2024 – Apr 2024
+• Engineered a decision-support system to provide informed recommendations for an investment portfolio company.
+• Harnessed multivariate time series forecasting and classification techniques using sktime and pandas on Python, and implemented an LSTM model with Tensorflow to analyze trends and forecast future stock prices. The implementation is highly modular, with unit tests and an object-oriented approach.
+• Conducted a literature review to identify relevant data, building a holistic dataset that includes stock market data, technical indicators and external features from sources such as Google Trends.
+• Performed Feature Selection using state-of-the-art time series classifiers in sktime (Rocket, HIVECOTEv2) and Feature Engineering using PCA in sklearn for dimensionality reduction.
+• Tuned model hyperparameters using Bayesian optimization with Optuna, enhancing computational efficiency, experimental tracking, and result interpretability.
+• Achieved a 73% accuracy rate on average in predicting stock price movements using the sktime classifiers. This allowed for improved stock price forecasting and the development of a more lucrative investing strategy. Video Event Detection and Action Identification Oct 2023 – Dec 2023
+• Built the Computer Vision backbone for a mobile app for the visually impaired that scans documents, detects page flips, and performs OCR and synthesize speech, while accomodating computing constraints specifications.
+• Employed pre-trained Convolutional Neural Network architectures such as MobileNetV2, ResNet50, EfficientNet with Tensorflow and numpy and applied transfer learning to provide a data efficient and high precision architecture.
+• Prototyped a custom model with Gradio, resulting in a user-friendly interface accessible through a web browser and hosted on HuggingFace.
+Candidate Screening and Ranking Jul 2023 – Sep 2023
+• Streamlined the hiring process by building a ranking system leveraging an NLP pipeline to analyze candidate information. Automatically ranked candidates based on the recruiter’s query keywords.
+• Implemented a Transformer-based sentence embedding technique with SentenceBERT for semantic comparison, employing NLTK and RegEx for text preprocessing.
+• Integrated a manual supervisory signal, allowing recruiters to star a candidate and provide feedback, continuously improving recommendations.
+Page 2 / 3
+Financial Customer Segmentation and Market Target Prediction Jun 2023 – Jul 2023
+• Significantly improved marketing success rate and personalized communication by identifying customer segments more likely to subscribe.
+• Applied undersampling and cross-validation techniques on a severely imbalanced dataset using sklearn and imblearn, tuned tree-based ensemble models with XGBoost, and utilized interactive dashboards with Tableau to enhance data-driven decision making.
+• Designed a robust predictive model (0.89 F1-score), enabling targeted outreach and reducing marketing costs. Customer Satisfaction Prediction and Survey Analysis May 2023 - Jun 2023
+• Conducted sentiment analysis on customer reviews, extracting key factors influencing customer satisfaction.
+• Performed feature importance analysis using Logistic Regression with sklearn and tree-based XGBoost.
+• Provided valuable insights for business improvement strategies by designing models which consistently identified relevant factors for customer satisfaction.
+Automatic microscopy image segmentation Oct 2022 – Jan 2023
+• Automated the optical material characterization of metal matrix composite microscopy images by implementing a research paper’s unsupervised EM-like methodology on Python for an automatic image segmentation task.
+• Implemented custom graphs using an object-oriented programming approach to efficiently compute graph-cuts and resolve the inconsistency between feature clustering and pixel spatial coherence.
+• Achieved a 93% average pixel labeling accuracy to permit an accurate automatic characterization of the volumetric presence of a target tungsten carbide phase within a sample. EDUCATION
+University of Alberta (3.9 GPA) Edmonton, Alberta, Canada Materials Engineering, Machine Learning (Master of Science) Sep 2019 – Oct 2022
+• Modeled and optimized a metal Additive Manufacturing (PTAAM) process as a Graduate Research Assistant to improve the wear and abrasion resistance of oil sands digging tools by lowering the residual stresses in coating.
+• Presented MSc work at the 16th MCWASP International Conference and published a conference paper.
+• Applied Machine Learning to an image segmentation task for metal matrix composites microscopy images. Mines Nancy (Top French “Grande Ecole”) Nancy, France Mathematics, Computer Science (Master of Science and Executive Engineering) Sep 2015 – Aug 2019
+• Established a solid proficiency in Mathematics, with a focus on Statistics, Data Science, Linear Algebra, and Computer Science, with applications in Physics. Gained proficiency in Python Programming, and familiarity with Matlab and R.
+• Valedictorian in Inferential Statistics and Descriptive Statistics (amongst about 200 graduates). CERTIFICATIONS
+Machine Learning Engineer for Production (MLOps), Deep Learning AI, 2023 Reinforcement Learning Specialization, AMII, University of Alberta, 2023 Deep Learning Specialization, Deep Learning AI, 2023 Natural Language Processing Specialization, Deep Learning AI, 2023 Machine Learning Specialization,Deep Learning AI, 2023 Interests: I appreciate nature and the Rocky Mountains in Banff National Park, and enjoy hiking, skiing, bouldering, kickboxing and drinking espressos or tea while reading a good book. I am autonomous and proactive. Page 3 / 3
+Contact this candidate

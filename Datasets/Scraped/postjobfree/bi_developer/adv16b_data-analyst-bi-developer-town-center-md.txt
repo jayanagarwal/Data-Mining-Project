@@ -1,0 +1,71 @@
+Rachel Liu
+Baltimore, MD 443-***-**** adv16b@r.postjobfree.com
+Objective: BI Developer /Data Analyst /Report Developer/ ETL Developer/ SQL Developer
+Summary
+• Professional experience of SQL Server, Oracle database
+• With the Business Intelligence & Reporting teams to build out and develop SQL Server-based Business Intelligence (SSIS, SSAS, SSRS) and Power BI
+• Extracting, transforming, cleansing and loading data from a variety of source platforms into the target platform using SSIS or non-GUI tool e.g. insert into/select, bulk insert and bcp
+• Generated variety of business reports using SQL Server SSRS
+• Implement complex DAX measures in Analysis services models and in Power BI.
+• Creating ad-hoc reports as requested by business stakeholders
+• Create supporting technical and functional documentations, including data flow diagrams and provide support for deployed solutions
+• Strong team player with great verbal, written communication and interpersonal skills
+Selected Achievements on Business Intelligence
+• Created ETL packages using SSIS to extracted data from different sources (different APIs,
+OLTP, AWS, database table, flat file) transformed into data warehouse or target
+table for report. Deployed SSIS packages and solutions into production system using
+Microsoft Visual Studio.
+• Developed projects using Microsoft visual studio SSAS tabular model, created data
+Source/data source view/cube with measure and dimensions, configured attributes of
+Dimension table with hierarchy relationships, modified cube and dimensions, deployed KPIs
+On SSRS and created different metrics, added new measure groups and dimensions.
+• Generated variety of business reports using Microsoft visual studio SSRS including matrix
+report, parameter report, sub report, dashboard with charts drill down and drill through
+function, configured report server and deployed reports on web server.
+• Use Power BI Desktop to design an interactive report to analyze and visualize the data.
+Selected Achievements on SQL Server Database and Oracle Database
+• Using advanced SQL queries with multi-table joins, group functions, sub-queries, CTE, temp table, set operations and T-SQL or PL/SQL functions to deliver meaningful and actionable insights. And taking care of performance tuning.
+• Created database objects such as tables, views, indexes, stored procedures, function (UDF), primary key, foreign key, check, etc.
+• Loaded data from flat data files into SQL Server database tables using bcp, bulk insert, and table export/import, loaded data from flat data files and excel sheet into Oracle database using SQL Developer.
+• Extracted data from SQL Server database tables and Oracle database tables into flat data files and Excel sheet.
+• Generated variety of business reports using SQL query.
+Experience
+2021.11 - current Business Intelligence Architect, Finance company, Baltimore MD
+• Gather and process raw data from multiple disparate sources (including writing scripts, calling APIs, write SQL queries, utilizing SSIS, etc.) into target table for analysis.
+• Automatic load data into reporting tables from file folder by using script task, sequence container, execute sql task, file system task and send email task in SSIS package.
+• Create automatic renewable reminders for the employee when their licenses is set to expire, with attaching multiple email and multiple renew instructions by using foreach loop container, sequence container, project/package parameters, expressions, event handling and environment configurations in SSIS package.
+• Refactor or develop relational data models, dimensional data models, data dictionaries, and necessary metadata using SSAS.
+• Create advanced multi-leveled (drill-downs/sub-reports) tabular and graphical reports to meet user requirements using SQL, Microsoft SQL Reporting Services (SSRS) and Power BI. Add security to the report and let branch managers/VPs/SVPs can only access their own branches.
+• Using Jira, Bitbucket, GitKraken, and SourceTree with a good understanding of Git
+• Support business decisions with ad-hoc analysis as needed.
+• Create supporting technical and functional documentation, including data flow diagrams, and provide support for deployed solutions.
+• Collaborate with QA team to ensure valid and proper deliverables.
+
+2021.6- 2021.10 Sr. Analyst Fortitude Systems
+Data conversion from legacy to new system
+
+• Data mapping: Data profiling, data type conversion, modify legacy stored procedures by write new SQL query based on new logics.
+• Stored procedures performance tuning after conversion: Remove duplicates in the upstream temp tables by managing many to many join, stage larger volume data in temp tables instead of CTE/subquery and add index to temp tables.
+• Create supporting technical and functional documentation, including data flow diagrams, and provide support for deployed solutions.
+• Data validation in reports after conversion: Compare SSRS reports between PROD and DEV to make sure data are consistent after conversion.
+• Knowledge using TFS version control
+
+2012- 2021.6 BI Developer/ Data Analyst Kennedy Krieger Institute, Baltimore MD
+Develop practical database management system to study human gene and disease association
+• Collect and examine different type of source data (flat file, csv file, Excel spreadsheet, database tables) from a variety of sources including internal data and public sources.
+• Design and create database tables such as gene sequence, disease, mutation/variant, mutation based on requirements.
+• Load source data into database tables using ETL tool SSIS or without tool, e.g. SQL query (bulk insert, insert into/select, bcp).
+• Perform data analysis using statistical software to create a data model, such as regression analysis.
+• Generate different type of reports using SSRS, Power BI reporting tools and SQL queries.
+
+Computer Skills
+
+Database: SQL Server 2012-2019, Oracle
+Reporting: SSRS, Power BI
+Language: SQL, T-SQL/PL-SQL
+MS Office: Word, Excel, PowerPoint
+
+Education
+
+1996-2000 Bachelor of Biology, Nanjing Agriculture University
+Contact this candidate

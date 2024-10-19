@@ -1,0 +1,180 @@
+PROFESSIONAL SUMMARY
+*+ years’ experience in iOS mobile application development experience.
+* **** ********* ** ***** Store
+Able to design and develop rich UI/UX via programmatic means, XIBs, as well as through Storyboards.
+Extensive use of Apple and third-partyframeworks and tools for storing data persistently such as, CoreData, Documents Directory, NSUserDefaults, pLists, Settings Bundle, NSKeyedArchiver (NSCoding protocol), and the Keychain
+iOS expertise includes WatchKit, Healthkit, iBeacon Bluetooth Low Energy (BLE), Unit Testing, over-the-air Ad Hoc App Distribution, Storyboarding, Core Data, Internationalization and Localization, in-app purchase, ad and analytics integration, Auto Layout, Apple Push Notification.
+Seasoned in Agile/SCRUM project management methodologies
+Demonstrated skills in the use of databases such as SQLite and MySQL
+Demonstrated success in working on all phases of the software development lifecycle (SDLC) process including requirements gathering, design, coding, documentation, testing, debugging and maintenance
+Excellent track record of designing and implementing flexible solutions in Mobile IOS application Development using UIKit, Core Foundation with Cocoa touch
+Strong knowledge about Core Frameworks like, MapKit, CoreGraphics, CoreAnimation, UIKit, CoreLocation, AVFoundation, CoreData, CloudKit, CoreBluetooth, EventKit, and Social framework
+Expertise in MVC and MVVM design architecture, as well as OOP patterns and concepts like delegation, protocols, notifications, and categories/extensions
+Skilled in troubleshooting and testing using LLDB, NSLog & print statements, breakpoints, and Instruments
+Proficient in source control with Git and SVN and use of third-party GUIclients such as SourceTree, Tower, and GitHub
+Flexible in the integration and management of 3rd party framework dependencies using Carthage and CoacoaPods
+Contributed problem-solving analysis and recommended solutions within the guidelines of the project and following best practices to iOS app development, such as scalability, re-usable code, and consistency
+Experience working with in-app purchase iOS application for the iPhone/iPad along with distinct marketing-based iOS applications enhancing sharing through social networks and email
+Adept at communicating with stakeholders,product, and marketing teams to discuss project milestones
+Seasoned in consuming RESTful and SOAP services and parsing through JSON and XML data responses
+Excellent communication, organizational skills, attention to detail and the ability to meet tight deadlines
+Strong commitment to organizational work ethics, supporting organizational goals and the team
+Mentors and guides junior team members, participates in code reviews, paired programming sessions, and organizing scrums and sprints
+
+TECHNICAL SKILLS
+Languages
+Swift, Objective-C, C/C++, Python Assembly, Unix, MatLab, VisualBasic, Verilog
+Databases
+Core Data, SQLite, MySQL
+Frameworks
+CocoaPods, CocoaTouch, AFNetworking, AVFoundation, MapKit, Core Location, Reachability, UIKit, EventKit, GCD, Keychain, Core Data
+Version Control
+SVN, GIT, SourceTree, Tower, Command Line / Terminal, GitHub, Bitbucket
+IDEs
+XCode, Visual Studio, Android Studio
+Architecture Patterns
+MVVM, MVP, MVC, VIPER
+Project Management Tools
+JIRA, Confluence, KanBan, Redmine, Basecamp, Slack
+Methodologies
+PSP, SCRUM/AGILE, TDD
+Testing Methods
+Unit Testing, XCTest, Automated Testing
+Continuous Integration
+Jenkins, Travis, Hudson, TestFlight
+
+PROFESSIONALEXPERIENCE
+Senior iOS App Developer
+Client: Michaels, Irving, TX December 2021 to Present
+https://apps.apple.com/us/app/michaels-stores/id445458809
+
+Implemented the front end for the store-map feature with Rest backend services for dynamic placement of in store aisles on store-map
+Rendering logic for the store layout using CoreGraphics
+Implemented product search feature, which supports barcode scanning and voice commandswith AVCaptureSession and AVFoundation
+Feature lead for the Weekly Ad and Coupon section
+Rendering engine for coupons, which handles images and PDF documents
+Utilized annotations with MapKit to make modifications to the store locator feature
+Pinch-zoom for full-size coupons and ads
+Fixed numerous bugs related to logic, OAuth, and session management
+Created 40+ screens using SwiftUI, very carefully based on a Figma template
+Worked harmoniously with QA and Backend engineers to achieve company goals
+Refactored design of app to use colors in an asset catalog for universal company design/pallet.
+Fixed numerous bugs related to the account section
+Corrected lagginess which was caused by CoreData faults in the shopping cart
+Utilized keychain to store user passwords securely
+Added AES encryption for protected user data to be transmitted securely over the network
+Added touch-states to several buttons across the app which were missing them
+Corrected the hit-area of several buttons which were in violation of the Apple Human Interface Guidelines
+Created revolving carousel, which automatically circulates a revolving and customizable product carousel
+
+Senior iOS Mobile Engineer
+Bath and Body Works, Reynoldsburg, OH July 2020 – August 2021
+https://apps.apple.com/us/app/my-bath-body-works/id1256027729
+
+Implemented the rewards list feature using UIKit, MVC architecture, and an existing network layer
+Implemented front-end push notification service to notify customer of important deals
+Created numerous layouts and interfaces for time-constrained promotions
+Stored sensitive information about the user in the Keychain for extra security
+Implemented a custom image cache using twin LRU caches, for RAM and HD
+Created a palette of colors, library of fonts, and other universal UI styling features
+Implemented dynamic text, which meant re-working a lot of layout constraints, to support large fonts.
+Upgraded the reachability suite to use NWPathMonitor
+Added a feature to persist outbound URL requests, which would be dispatched once the user re-establishes internet
+Built a custom recycling carousel view, which swipes from last page back to first. This was implemented efficiently, such that the current-active element downloads its content with the highest priority
+Resolving many difficult storyboard conflicts
+Custom path rendering for the dotted lines on the edges of certain coupons
+Rendering coupon pipeline which works on all platforms with PDF, SVG, JPEG, and PNG data
+Implemented pinch-zoomable full-screen coupons
+Carefully implementing several effects such as blur animations (and many more)
+Carefully analyzing and reviewing other developers’ pull requests on GitHub
+Using dynamic programming to solve regular expression-like problem
+Built several prototype apps for navigation shells, one of which ultimately ended up replacing the existing app shell. Migrated entire app into my new app shell
+Created a custom component-based animation system, which links images together based on pivot points. These were used for in-app-promotions
+
+iOS Application Developer
+Meijer, Grand Rapids, MI December 2019 – June 2020
+https://apps.apple.com/us/app/meijer-delivery-pickup/id583093664
+
+Feature lead for "Shop and Scan" portion of app using proprietary barcode SDK
+Implemented the KMP pattern matching algorithm to highlight text matching search bar.
+Implemented the mPerks ID feature, which can be scanned at checkout
+Wrote the front-end code for product search using UITableView and custom cells.
+Implemented the entire "more" section, which includes Account and Settings
+Feature lead for "Rewards" section of app
+Used UIKit, layout constraints, compression resistance, and content hugging to handle dynamic type
+Added the "Clip Coupon" feature, using UIPasteBoard
+Added SSL pinning to verify trusted server and prevent man-in-the-middle attack.
+Took initiative to assign myself bugs from the backlog, which I solved
+Fixed numerous UI/UX bugs related to device size
+Implemented the "Weekly Ad" section
+Created several promotional banners for the home page of the app
+Used LaunchDarkly for feature flags
+Implemented a system for A/B testing
+
+iOS Developer
+Client: Rocket Farm Studios, Boston, MA December 2018– December 2019
+https://apps.apple.com/us/app/sermo-physician-network/id438752890
+
+Worked with Navigation controllers, Navigation Bars & Tab Bars
+Involved in Integration of web-based content made with HTML5 on a Native app using WKWebView
+Installed frameworks and tracked dependencies using CocoaPods
+Worked in a team of 4 other iOS developers
+Sent push notifications to APNS
+Integrated social media support via Facebook with the FBSDK
+Validated input values to make sure that they will be accepted before they are submitted
+Worked on GCD to build a responsive UI and implemented background threads
+Worked with Objective C, Swift and Cocoa frameworks
+Resolved bandwidth, memory, and performance issues
+Implemented URLSession to integrate with backend web services
+Published the application on App Store and then pushed updates after every sprint release
+Designed icons and images that are required for App using Sketch
+Responded to constantly changing project requirements and kept the project on track
+Developed Delegates for updating the model information
+Worked heavily with persistence: Set-up an SQLite parser, saved and loaded values from Core Data, and set up a Core Data model to handle arbitrary data
+Worked on UIViews & UITableViews for user interface in the application
+GDB for debugging and worked with Xcode
+Created a side swipe menu controller which makes it easy to navigate through the application
+Integrated iPhone application with applications across all aspects of the client: user input, protocols, performance, memory management, debugging
+
+iOS Application Developer
+Speech Analyzer, San Francisco, California December 2015 – November 2018
+https://apps.apple.com/us/app/speech-analyzer/id1553659443
+
+Assisted in full life cycle of mobile iOS that includes testing on device and simulator as well
+Used Agile development methodology
+Worked iteratively with Product, Design, Back-End and QA teams
+Developed the iOS mobile app in Swift and Objective-C using Xcode
+Implemented search and refine search functionality and tightly bound data to the view using RxSwift
+Developed the services that went into the core structure of the app. Created using UITableViews to display various content that is easily readable and clicked on using the IOS design guidelines
+Created new build scripts and updated existing build scripts using Python
+Implemented feature that allows the user to import their contacts from their device
+Managed Jenkins Continuous Integration server and created builds for testing and production
+Applied Git for version control management, and applied multiple design patterns such as Delegate and Promises/Futures
+Configured RESTful API to integrate with internal services and third-party services
+Implemented Firebase for push notifications
+Used GCD and NSOperation Queue to improve app responsiveness and performance
+Supported testing team during test cycle to address issues found before release
+Redesigned app to create user interface targeting multiple device sizes.
+Utilized Charles Proxy to test analytic data
+UIKit, RESTful Web Services, Agile Scrum Development, HTML/CSS, Jira Charles Proxy, Jenkins
+
+iOS App Developer
+Sprint, Overland Park, KS March 2014-November 2015
+https://apps.apple.com/us/app/my-sprint-mobile/id491126018
+
+Coded the application in a hybrid codebaseof Swift and Objective-C using bridging headers
+Worked to assist in development of the application using Xcode, and managed Git code repository with SourceTree with a Jenkins CI
+Invoked RESTful web service calls using AFNetworking framework, POC’s made in Swift
+Analyzedwritten web services to interface with the iOS Mobile App. All web services were RESTful and used Open Authentication to implement a secure environment
+Refactored RESTful requests from NSURLConnection to AlamoFire to be compatible with iOSnew standard
+Worked with MVVM architectural pattern and Delegation, Notifications, KVC, and Singleton design patterns
+Participated in brainstorming sessions for iOS app enhancements, features, and fixes
+Adapted Core Animation and CALayer to crop and animate images over videos
+Applied new layout, refactored source code, reduced app size, fixed memory leaks, reviewed source code, and optimized performance. Performed unit test. Managed project configuration
+Assisted in running various Agile project management meetings (Sprint Planning Meetings, Scrums, etc.
+Built wireframes for app designs, Coding of applications, Built application test framework with UI Automation
+Built, tested, and deployed a scalable and modular application. Also modified existing software to correct errors, improve performance and adapt to new versions of iOS
+
+EDUCATION
+Bachelor of Science in Computer Science from University of Saskatchewan
+Contact this candidate

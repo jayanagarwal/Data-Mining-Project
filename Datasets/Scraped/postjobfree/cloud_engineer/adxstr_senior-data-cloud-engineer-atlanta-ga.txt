@@ -1,0 +1,127 @@
+Andres Edmundo Espinosa Gutierrez
+Senior Data & Cloud Engineer
+Phone: 870-***-****
+E-mail: adxstr@r.postjobfree.com
+
+Profile
+●10+ years’ experience in Big Data and Cloud.
+●Engineer, develop, implement, and administer data solutions on-premises and on the cloud.
+●Build and configure virtual environments in the cloud to support Enterprise Data warehouses.
+●Developed and optimized data queries using HiveQL, SQL, PySpark.
+●Utilize Spark to optimize ETL jobs and data pipelines to reduce memory and storage consumption.
+●Document Big Data systems, procedures, governance, and policies.
+●Participate in the design, development, and system migration of high-performance metadata-driven data pipelines AWS Glue, Crawler, Data Catalog and Athena.
+●Good knowledge of Cloud Services.
+●Developed and maintained data integration solutions using Talend and Informatica.
+●Integrate Kafka with Avro files for serializing and deserializing data in near-real time.
+●Hands-on with Apache Spark for collecting, aggregating, and moving from various sources.
+●Extensive Experience streaming data with Kafka. Expertise with Kafka producer and consumer.
+●Extend HIVE core functionality by using custom User Defined Functions (UDF), User Defined Table-Generating Functions (UDTF), and User Defined Aggregate Functions (UDAF) for Hive.
+●Implement Spark in EMR for processing Big Data across our Data Lake in AWS System.
+●Experience with multiple terabytes of data stored in AWS S3 using Elastic Map Reduce (EMR), Databricks and Redshift for processing.
+●Develop AWS strategy, planning, and configuration of S3, Security groups, IAM, EC2, EMR, and Redshift.
+●Hands-on with AWS tools Redshift, Kinesis, S3, EC2, EMR, DynamoDB, Elasticsearch, Athena, and Lambda).
+●Conducted data profiling and analysis to identify data quality issues and recommend data cleansing and enrichment strategies.
+
+Technical Skills
+
+Programming/Scripting - Scala, Python, SQL, Hive QL,
+Shell Scripting, Java, Ruby, C+, MySQL
+
+Data Visualization –Tableau, PowerBi, Python
+
+ETL Pipelines – Elasticsearch, Elastic MapReduce,
+ELK Stack (Elasticsearch, Logstash, Kibana), NiFi
+
+Hadoop and Big Data – Apache Flume, Yarn,
+Cluster Management, Cluster Security, Zookeeper,
+Airflow, Snowflake Apache beam, google dataflow
+Databases/Datastores - Hadoop HDFS, NoSQL,
+HBase, MongoDB, MySql, MSSql, Oracle,
+Dynamo
+
+Hadoop Distributions – Hadoop,
+Cloudera Hadoop (CDH)
+GCP
+Amazon Cloud Platform (AWS) - AWS RDS, AWS EMR, AWS Redshift, AWS S3, AWS Lambda, AWS Kinesis, AWS Cloud, AWS IAM Formation
+
+Other Cloud Platforms – Snowflake, Databricks, GCP
+
+
+Professional Experience
+Sr. Big Data Engineer / January 2021 – Present
+Murphy USA / El Dorado, Arkansas, U.S.
+●Use AWS S3 for data collection and storage, allowing for easy access and processing of large volumes of data.
+●Experienced in using AWS Step Functions for pipeline orchestration and Amazon Kinesis for event messaging.
+●Skilled in data cleaning and preprocessing using AWS Glue, with the ability to write transformation scripts in Python.
+●Proficient in real-time data analysis with Amazon Kinesis Data Analytics and Amazon Managed Streaming for Apache Kafka (Amazon MSK).
+●Skilled in transforming data using Amazon Athena for SQL processing and AWS Glue for Python processing, including cleaning, normalization, and data standardization.
+●Experienced in implementing and monitoring solutions with AWS Lambda, S3, Amazon Redshift, Databricks, and Amazon CloudWatch for scalable and high-performance computing clusters.
+●Applied Amazon EC2, Amazon CloudWatch, and AWS CloudFormation in AWS.
+●Created automated Python scripts to convert data from different sources and to generate ETL pipelines.
+●Designed and implemented a data lake using Amazon S3 to store and process large volumes of data.
+●Converted SQL queries into Spark transformations using Spark RDDs, Python, and Scala.
+●Produced distributed query agents to perform distributed queries against Amazon S3.
+●Loaded data from different sources such as Amazon S3 and Amazon DynamoDB into Spark data frames and implemented in-memory data computation to generate the output response.
+●Monitored Amazon RDS and CPU Memory using Amazon CloudWatch.
+●Used Amazon Athena to realize quicker results compared to Spark throughout information analysis.
+●Implemented usage of Amazon EMR for processing Big Data across the Hadoop Cluster of virtual servers on Amazon EC2 and Amazon S3, and Amazon Redshift for data warehousing.
+●Wrote streaming applications with Apache Spark Streaming and Amazon Managed Streaming for Apache Kafka (Amazon MSK).
+●Worked with DevOps team to deploy pipelines in higher environments using AWS CodePipeline and AWS CodeDeploy.
+●Executed Hadoop/Spark jobs on Amazon EMR using programs and data stored in Amazon S3 buckets.
+●Worked/Task tracking done in Jira – Kanban Jira board and Service Now for Agile methodology.
+
+Sr. Cloud Data Engineer / Sep 2018 – Dec 2020
+Macy’s / Remote
+●Developed and maintained ETL pipelines using Apache Spark and Python on Google Cloud Platform (GCP) for large-scale data processing and analysis.
+●Designed and implemented efficient data models and schema designs using BigQuery for optimized data querying and storage.
+●Utilized Google Cloud Storage and Pub/Sub for data ingestion and event-driven data processing, respectively.
+●Created data models and schema designs for Snowflake data warehouses to support complex analytical queries and reporting.
+●Built data ingestion pipelines (Snowflake staging) using disparate sources and other data formats to enable real-time data processing and analysis.
+●Mentored junior data engineers and provided technical guidance on best practices for ETL data pipelines, Snowflake, Snowpipes, and JSON.
+●Worked with various data sources including structured, semi-structured and unstructured data to develop data integration solutions on GCP.
+●Implemented real-time data processing using Spark, GCP Cloud Composer, and Google Dataflow for streaming data processing and analysis.
+●Optimized ETL and batch processing jobs for performance, scalability, and reliability using Spark, YARN, and GCP DataProc.
+●Used Google Cloud Composer to build and deploy data pipelines as DAGs using Apache Airflow.
+●Integrated data pipelines with various data visualization and BI tools such as Tableau and Looker for dashboard and report generation.
+●Collaborated with cross-functional teams including data scientists and analysts to deliver data-driven solutions.
+●Built a machine learning pipeline using Apache Spark and scikit-learn to train and deploy predictive models.
+●Implemented data security measures such as access control policies and data encryption to ensure data protection and compliance with regulatory requirements.
+●Developed and maintained automated testing frameworks using python for data pipelines to ensure data quality and reliability.
+●Managed and optimized GCP resources such as virtual machines, storage, and network for cost and performance efficiency.
+●Worked with stakeholders to understand business requirements and translate them into technical data engineering solutions.
+
+Big Data Engineer / Jan 2016 – Aug 2018
+Liberty Mutual Group / Boston, MA
+●Created data frames from different data sources like Existing RDDs, Structured data files, JSON Datasets, Azure SQL Database, and external databases using Azure Databricks.
+●Loaded terabytes of different level raw data into Spark RDD for data computation to generate the output response and imported the data from Azure Blob Storage into Spark RDD using Azure Databricks.
+●Used Hive Context which provides a superset of the functionality provided by SQL Context and Preferred to write queries using the HiveQL parser to read data from Azure HDInsight Hive tables.
+●Modeled Hive partitions extensively for data separation and faster data processing and followed Hive best practices for tuning in Azure HDInsight.
+●Caching of RDDs for better performance and performing actions on each RDD in Azure Databricks.
+●Developed highly complex Python and Scala code, which is maintainable, easy to use, and satisfies application requirements, data processing, and analytics using inbuilt libraries in Azure Databricks.
+●Successfully loaded files to Azure HDInsight Hive and Azure Blob Storage from Oracle, SQL Server using Azure Data Factory. Environment: Azure HDInsight, Azure Blob Storage, Azure Databricks, Linux, Shell Scripting, Airflow.
+●Migrated legacy MapReduce jobs to PySpark jobs using Azure HDInsight.
+●Written UNIX script for ETL process automation and scheduling, and to invoke jobs, error handling and reporting, to handle file operations, to do file transfer using Azure Blob Storage.
+●Worked with UNIX Shell scripts for Job control and file management in Azure Linux Virtual Machines.
+●Experienced in working at offshore and onshore models for development and support projects in Azure.
+●Implemented data visualization solutions using Tableau and Power BI to provide insights and analytics to business stakeholders.
+
+Big Data Engineer / Jan 2013 – Dec 2015
+Net Apps Inc. / Sunnyvale, CA
+
+●Implemented solutions for ingesting data from various sources and processing the Data-at-Rest utilizing Big Data technologies such as Hadoop, Map Reduce Frameworks, HBase, Hive.
+●Exploring Spark for improving the performance and optimization of the existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frame, spark Paired RDD, Spark YARN.
+●Created ETL pipelines using different processors in Apache Nifi.
+●Experienced developing and maintaining ETL jobs.
+●Performed data profiling and transformation on the raw data using Pig, Python, and oracle.
+●Experienced with batch processing of data sources using Apache Spark.
+●Developing predictive analytics using Apache Spark Scala APIs.
+●Created Hive External tables and loaded the data into tables and query data using HQL.
+●Used Sqoop to efficiently transfer data between databases and HDFS and used Flume to stream the log data from servers.
+●Developed Spark code using Scala and Spark-SQL for faster testing and data processing.
+●Imported millions of structured data from relational databases using Sqoop import to process using Spark and stored the data into HDFS in CSV format.
+
+Education
+Master's in Finance, Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), Monterrey, Mexico.
+Bachelor’s Degree in Computer Software Engineering, (ITESM), Toluca, Mexico.
+Contact this candidate

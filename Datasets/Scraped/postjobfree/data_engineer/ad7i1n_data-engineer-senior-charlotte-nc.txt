@@ -1,0 +1,202 @@
+SENIOR DATA ENGINEER
+V Poojitha
+Phone: +1-913-***-****
+Email: ad7i1n@r.postjobfree.com
+LinkedIn: https://www.linkedin.com/in/v-poojitha-5b45a0289/
+
+PROFESSIONAL SUMMARY:
+
+Skilled Data Engineer with approximately 10 years of experience, specializing in building and maintaining robust data solutions across multiple platforms including AWS, Azure, and GCP.
+Utilized Agile methodologies to streamline the software development process, reducing the bug rate and improving team delivery times.
+Proficient in utilizing Vertex AI for developing, deploying, and managing machine learning models at scale.
+Proficient in designing scalable data pipelines using AWS technologies such as Redshift, S3, Data Pipelines, and Glue, enhancing data accessibility and analysis capabilities.
+Expert in managing big data technologies, notably Hadoop ecosystems with extensive use of YARN, Hive, and Sqoop, optimizing data processing workflows.
+Demonstrated excellence in developing streaming data applications using Spark, Spark Streaming, and Kinesis, focusing on real-time data processing and analytics.
+Advanced skill set in programming with Python and Scala, utilized for scripting complex data transformation and analysis processes.
+Proficient in deploying and managing cloud infrastructure on AWS, GCP, and Azure, including services like EMR, EC2, RDS, Cloud SQL, and Azure Databricks.
+Experienced with modern ETL tools such as Informatica, DBT, Apache Airflow, Talend, and Fivetran, streamlining data ingestion and integration processes.
+Experienced in building data marts for data sharing.
+Knowledgeable about Data Marts, OLAP/OLTP systems including Star Schema Modeling, Snowflake Modeling, Fact and Dimension Tables.
+Capable of enhancing data storage and retrieval by implementing and managing databases such as Cassandra, Oracle 12c, MySQL and Postgres.
+Converted data between Avro, Parquet, ORC, and JSON formats as part of data integration processes.
+Highly adept in real-time data ingestion using platforms like AWS Kinesis, Azure Event Hubs, and GCP Pub/Sub, ensuring timely data availability for analytics.
+Utilized Advanced Snowflake features including Time Travel for historical analysis, Zero-Copy Clone for efficient testing, CDC for real-time data sync, and Stored Procedures for automated data tasks, enhancing data management and efficiency.
+Strong background in data visualization and reporting using Tableau, Power BI, and Salesforce, providing actionable insights for business decision-making.
+Solid experience in automating data workflows and job scheduling using tools like Oozie, Control-M, and Cloud Shell, significantly improving operational efficiencies.
+In-depth knowledge of data quality management and performance tuning, utilizing SQL Profiler and Database Engine Tuning Advisor to enhance database performance, as well as leveraging Microsoft Business Intelligence Studio and Visual Studio Data Tools for comprehensive data management and development tasks.
+Effective collaborator using JIRA, GIT Hub, and SharePoint to manage project timelines, documentation, and team coordination.
+Dedicated to ensure high data integrity and compliance by implementing rigorous security and data protection measures across all data handling activities.
+Versatile in adapting to new technologies and frameworks, continuously seeking to leverage emerging tools to solve complex data challenges and drive business growth.
+
+TECHNICAL SKILLS:
+
+Category
+Skills
+Cloud Platforms
+AWS Redshift, AWS S3, AWS Data Pipelines, AWS Glue, AWS EMR, AWS EC2, AWS RDS, Azure Event Hubs, Azure Synapse, Azure Data Factory, Azure Databricks, GCP, GCP BigQuery, GCP Dataprep, GCP Databricks, GCP Cloud Dataflow, GCP Dataproc, GCS Bucket
+Programming Languages
+Python, Scala, PL/SQL, SQL, T-SQL, R, SQL Script
+Data Warehouse
+Snowflake, AWS :Redshift, Teradata
+Big Data Technologies
+Spark, Spark Streaming, Hadoop YARN, Apache Hive, Apache Sqoop, Map Reduce, Apache Beam, SparkSql
+Databases
+SQL Server, Dynamo DB, Teradata, Cloud SQL, MySQL, Oracle 12c, Postgres, Cassandra
+ETL/Workflow Tools
+Informatica, DBT, Apache Airflow, Talend, Fivetran, oozie, Control-M, G-Cloud Function, ELT
+Data Visualization
+Tableau, Power BI, Salesforce, Hue
+Containerization & Messaging
+Docker, Kubernetes, Apache Kafka
+Development Tools
+Microsoft Business Intelligence Studio, Microsoft Visual Studio Data Tools, Jira, GIT Hub, SharePoint, Cloud Shell, Gsutil
+Management & Monitoring
+SQL Profiler, Database Engine Tuning Advisor
+Miscellaneous
+Linux, Shell Scripting, Terraform, SFDC, MS Office, VM Instances
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer Experian, Costa Mesa, CA Nov’ 2021 to Present
+Responsibilities:
+
+Worked in Agile development environments, participating in sprints and daily stand-ups.
+Used AWS Redshift for storing large amounts of data, making data searches faster and improving how data is stored to help with analytics and business reports.
+Built and took care of data pipelines using AWS Data Pipelines, used AWS Glue, and Sqoop to make data collection, changing, and loading (ETL) more reliable and easy to access.
+Used AWS S3 for storing large amounts of data in a data lake from AWS Redshift, making sure data is always available and secure for big data analysis projects.
+Administered Snowflake databases, ensuring efficient configuration, maintenance, and optimization of databases, schemas, and tables.
+Utilized DBT for transforming raw data into a more structured and analyzable format, so that it can be loaded to Snowflake
+Install and configure Apache Airflow for S3 bucket and Snowflake data warehouse and created DAG’s to run the Airflow.
+Loaded data from S3 into Snowflake tables with internal stage using SnowSQL
+Utilized AWS EC2 instances to run the developed Snow SQL scripts for deploying objects and updating changes into Snowflake
+Managed user accounts and roles with RBAC, ensuring secure and compliant access to sensitive data.
+Leveraged Snowpark's support for UDFs (User-Defined Functions) to extend functionality and optimize performance.
+Utilized Snowpark DataFrames to perform complex data manipulations and aggregations.
+Used Hive for running queries on Snowflake, making it easier to access large datasets for analysis and reports.
+Designed and implemented Snowpipe to automate continuous data ingestion from AWS into Snowflake.
+Developed and scheduled SnowTasks to automate data processing workflows, enhancing operational efficiency and reliability.
+Led the integration of KPI data from multiple sources into a centralized data warehouse, enhancing data accessibility and usability.
+Designed and enforced RBAC policies to secure data access and ensure compliance with regulatory requirements.
+Combined Streams with Snowpipe and SnowTasks to build end-to-end automated data pipelines.
+Utilized Streams for change data capture and incremental processing, enabling real-time data insights and reducing data latency.
+Created solutions to process data in real time using Spark Streaming and Kinesis, helping to get insights and make decisions faster.
+Automated administrative tasks using Snowflake Tasks, Streams, and stored procedures, enhancing operational efficiency.
+Established KPIs to measure the success and performance of the data migration project, ensuring alignment with business goals.
+Utilized AWS Glue Data Catalog to manage metadata and automate schema discovery for structured and semi-structured data.
+Improved data processing efficiency through optimized Glue scripts and job orchestration.
+Made data workflows and job schedules automatic with Oozie and Control-M, increasing how well operations work and making data processing more reliable.
+Utilized SQL to design and develop Extract, Load, and Transform (ELT) processes within data warehouses, ensuring high efficiency and scalability.
+Wrote complex SQL queries on SQL Server and Oracle 12c databases to analyze and report data, making data fetching faster and improving data quality.
+Designed and deployed serverless applications using AWS Lambda to execute code in response to triggers without managing servers.
+Wrote advanced data processing scripts in Python and Scala, improving how data is handled and supporting more complex data analysis needs.
+Implemented strategies for managing slowly changing dimensions (SCD) and data versioning
+Set up and managed Hadoop YARN clusters to process large datasets effectively, ensuring they are always available and can grow as needed.
+Optimized DBT models for performance, reducing data processing times and improving query efficiency.
+Utilized PySpark DataFrames and SQL for data manipulation, transformation, and analysis.
+Ran Spark jobs for processing large amounts of data in batches, greatly increasing the speed and capacity of processing.
+Created AWS RDS (Relational database services) such that it can ran EMR clusters to handle huge amounts of data, optimizing how computing resources are used and cutting costs.
+Used DynamoDB for a NoSQL database solution, ensuring quick and consistent performance for large applications.
+Improved data integration using Informatica and Talend, supporting different data sources and formats for thorough data analysis.
+Created database models in Cassandra for handling large volumes of data reliably, meeting the needs of managing a lot of data.
+Used the Linux operating system for managing servers, writing scripts, and automation, making sure systems run smoothly and efficiently.
+Created and maintained multiple GitHub repositories for various projects, implementing best practices for branching and merging.
+Optimized PL/SQL code and SQL queries for performance tuning, including index optimization, query optimization, and database caching techniques.
+Managed source code using GIT and Bitbucket repositories.
+Set up Tableau dashboards for interactive data visualization, helping business users understand data and make well-informed choices.
+Installed and configured Jenkins plugins to extend functionality and integrate with other tools such as Docker and Kubernetes
+Integrated Terraform with CI/CD pipelines to automate infrastructure deployments and updates, enhancing deployment efficiency.
+Utilized KPIs to monitor and report on the progress and performance of the data migration from AWS to Snowflake.
+Implemented KPIs for system performance post-migration, such as query performance, system uptime, and response times.
+Implemented serverless architectures using AWS Lambda for automated processing, integrated with Amazon SNS for real-time notifications and AWS SQS for reliable message queuing, improving application scalability and responsiveness
+Checked data quality and fine-tuned the performance of databases and data jobs, ensuring data is handled accurately and efficiently.
+
+Environment: AWS Redshift, AWS S3, AWS SNS, AWS SQS, AWS Lambda, AWS Glue, Pyspark, Hadoop YARN, SQL Server, Spark, Spark Streaming, KPI, Snowpark, Snowflake, Terraform, Scala, ETL, PL/SQL, Kinesis, Python, Hive, Linux, Sqoop, Kubernetes, Docker, DBT, Data Vault, Informatica, Tableau, Talend, Cassandra, oozie, Control-M, Fivetran, EMR, EC2, RDS, Dynamo DB Oracle 12c.
+
+Senior Data Engineer Molina healthcare, Bothell, WA Sep’ 2019 to Oct’ 2021
+Responsibilities:
+
+Created and set up data storage on GCP using GCS Buckets and Cloud SQL for safe and scalable data storage.
+Used GCP Dataprep to clean and prepare data for analysis, improving data quality and making it easier to access.
+Set up and managed GCP Databricks environments to help teams work together on health care projects.
+Worked on GCP for the purpose of data migration from Oracle database to GCP.
+Made serverless functions with G-Cloud Function for handling events, improving system speed and ability to grow.
+Developed solutions to process data in real time with GCP Cloud Dataflow to meet changing health care analysis needs.
+Made data pipeline deployments automatic using Cloud Shell and Gsutil for effective management of cloud resources.
+Used GCP Dataproc to set up and manage Spark and Hadoop clusters, making data processing tasks more efficient.
+Handled VM Instances on GCP for specific computing tasks, ensuring resources were used well and cost-effectively.
+Wrote and improved SQL queries in Cloud SQL, Oracle, and SQL Server for working with and getting data.
+Built and looked after data pipelines using GCP Big Query, GCP Dataflow, and Apache Beam, ensuring data was processed efficiently and accurately.
+Integrated Vertex AI with other Google Cloud services like Big Query, Cloud Storage, and Dataflow for streamlined data processing and analysis.
+Programmed advanced data analysis and machine learning models in Python and Scala, solving complex patient care data problems.
+Utilized PL/SQL for data manipulation tasks such as inserting, updating, deleting, and querying data in Oracle databases.
+Used Pyspark for processing large amounts of data, increasing the speed and efficiency of data analysis.
+Set up data storage solutions in GCP Big Query, improving how data is stored and searched.
+Designed ETL processes with GCP Dataprep and Apache Beam, ensuring smooth data integration and transformation.
+Built scalable systems for bringing in data using GCS Buckets and GCP Pub/Sub, making real-time data available.
+Improved GCP Cloud Dataflow pipelines for real-time and batch processing, enhancing speed and reducing delays.
+Configured Cloud Run to automatically scale applications based on demand, ensuring optimal performance and cost efficiency during peak usage times.
+Put security and compliance measures in place for data storage and processing on GCP, ensuring data was safe and protected.
+Performed data analysis and reporting with GCP Big Query and Data Studio, providing insights to help with health care decisions.
+Automated deployment and management of Google Compute Engine resources using scripts and tools like Terraform and Google Cloud SDK.
+Designed and implemented disaster recovery solutions on Google Compute Engine, ensuring minimal downtime and data integrity in case of failures.
+Integrated Datadog with CI/CD pipelines to monitor deployment health and performance.
+Automated data integration and transformation workflows using Teradata utilities and scripts.
+Automated application deployments, scaling, and management using Kubernetes.
+Automated setting up and scaling of infrastructure using Cloud Shell scripts, increasing operational efficiency.
+Managed Cloud SQL instances, doing database tasks to ensure they were always available and performing well.
+Connected GCP services with outside data sources and APIs, improving data access and flexibility.
+
+Environment: GCP, GCP Big query, Gcs Bucket, GCP Dataprep, GCP Databricks, G-Cloud Function, Apache Beam, GCP Cloud Dataflow, Vertex AI, Cloud Shell, Gsutil, GCP Dataproc, GCP Pub/Sub, Cloud Run, Compute Engine, Cloud Sql, Terraform PL/SQL, Pyspark, Kubernetes, Teradata, Datadog, Oracle, Sql Server, Python, Scala, Hive, SparkSql
+
+Data Engineer Travelport, Englewood, CO Oct’ 2017 to Aug’ 2019
+Responsibilities:
+Worked in Agile environment and gathered requirements for Analysis, Design, Development, testing, and implementation of business rules.
+Performed ETL operations for Data cleansing, Filtering, Standardizing, Mapping, and Transforming Extracted data from multiple sources such as Azure Data Lake, and on-prem Oracle DB.
+Used Hadoop to process large amounts of data, making our models for prediction of the data better.
+Used Hive and Map Reduce to handle data tasks, making it faster to get data needed for analysis.
+Managed and improved Teradata databases to handle lots of data for finding useful insights.
+Wrote SQL and T-SQL queries to manipulate and fetch data, helping to make better decisions.
+Used Azure Event Hubs to bring in data in real time, making sure data is immediately available for urgent needs.
+Used Azure Synapse Analytics to run complex searches on different types of data, helping with in-depth research.
+Built and Managed data pipelines using Azure Data Factory and Azure Databricks to help with analysis and reporting.
+Managed data movement and changes with Azure Data Factory, making data pipelines more efficient for analysis.
+Loaded the data from Azure data Lake to Azure Blob Storage for pushing them to Snowflake
+Implemented Snowflake’s data sharing features, facilitating secure and real-time data collaboration across different retail departments.
+Automated data loading and processing workflows using Snowflake Tasks and Streams.
+Maintained data accurate and consistent across systems using Microsoft Business Intelligence Studio and Microsoft Visual Studio Data Tools.
+Designed and implemented PL/SQL scripts to automate routine database maintenance tasks, resulting in improved efficiency and reduced manual effort.
+Used Hue for exploring and showing data, supporting strategies and improvements in retail based on data.
+Worked on automating and validating the created data-driven workflows extracted from the ADF using Apache Airflow.
+Orchestrated data pipelines using Apache Airflow to interact with services like Azure Databricks, Azure Data Factory, Azure Data Lake, and Azure Synapse Analytics.
+Made data queries faster using SQL Profiler and Database Engine Tuning Advisor, ensuring quick access to data for analysis.
+Worked together on data projects using Jira, making sure data solutions are delivered on time.
+Used GitHub for keeping track of changes and working together on data projects, improving team work and data accuracy.
+Analyzed retail data trends using Tableau and Power BI by creating live reports and dashboards, which helps in finding ways to better services.
+Utilized Snowpark's seamless integration with Snowflake to streamline data workflows and reduce operational complexity.
+Utilized Kafka Connect to streamline data integration processes.
+Checked the quality of data using SQL and data checking tools, making sure the data is accurate for analysis.
+Utilized PySpark for big data processing, enabling scalable and efficient handling of large datasets, which enhanced the accuracy of predictive models for retail data.
+Containerized applications using Docker, ensuring consistent environments for development and deployment, which streamlined the setup of data analysis tools and minimized system conflicts.
+Implemented CI/CD pipelines with Azure DevOps using Jenkins and GitLab, automating continuous integration, testing and deployment processes for data solutions, ensuring rapid and reliable delivery of updates and new features.
+Implemented version control for Snowflake objects using tools like DBT (data build tool).
+
+Environment: Hadoop, Hive, Map Reduce, Teradata, Snowflake, Apache Airflow, Oracle, Azure event hubs, Azure synapse, Azure data factory, PL/SQL, Snowpark, Azure Databricks, Pyspark, Tableau, Power BI, SQL, T-SQL, Hive, Kafka, Microsoft Visual Studio Data Tools, DBT, Power BI, Tableau, SQL Profiler, Jira, GIT Hub.
+
+Data Analyst WalkingTree Technologies Jun’ 2014 to Jul’ 2017
+Responsibilities:
+
+Helped IT technical teams and end-users talk to each other, making sure everyone understood specific needs and requirements.
+Used advanced data analysis techniques to predict changes based on market demands, helping with informed decision-making.
+Utilized Python libraries such as Pandas and NumPy for data manipulation, cleaning, and transformation.
+Gained a deep knowledge of products, which helped accurately estimate product costs for clients.
+Analyzed and interpreted results with different techniques and tools, ensuring a thorough understanding of data outcomes.
+Played a key role in supporting the data warehouse by updating and adjusting reporting requirements.
+Ran tests, updated software, and helped with making strategic decisions.
+Maintained track of daily activities and performance with Salesforce reports, ensuring everything ran efficiently.
+Increased knowledge of ETL tools, data pipelining, and data warehousing to improve data management skills.
+Automated ETL processes and ran complex SQL queries, boosting report generation, data preparation, and predictive analytics for business growth by 40%.
+Actively fixed issues with database report maintenance, ensuring data operations ran smoothly.
+Made detailed and clear reports using Tableau, making it easy to understand project status and results.
+Created presentations and dashboards using Tableau, MS Excel, and other Microsoft tools to meet client needs effectively.
+Environment: Python, R, SQL Script, Salesforce, Tableau, ETL Pipelines, Data Warehouse, MS Office.
+Contact this candidate

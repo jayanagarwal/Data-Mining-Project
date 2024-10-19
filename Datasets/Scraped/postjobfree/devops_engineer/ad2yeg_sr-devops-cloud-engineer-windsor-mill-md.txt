@@ -1,0 +1,136 @@
+Ndikum F. Terence
+Windsor Mill, Maryland, USA
+Cloud Engineer DevOps Platform Engineer
+Cell: 443-***-**** • Email: ad2yeg@r.postjobfree.com • LinkedIn: http://www.linkedin.com/in/archindikumfru
+
+SUMMARY
+
+I am a skilled DevOps/Cloud Engineer with 7 years of hands-on experience in managing IaaS, PaaS, SaaS, IaC, and on-prem resources with skills in leading and coordinating cross-functional teams. I specialize in automating the building, testing, deployment, and operations of mission-critical applications and microservices at scale across different infrastructures and scalable cloud-based hosting. My expertise lies in designing and building robust infrastructure architecture and efficient systems using the best design principles and patterns.
+
+I am highly proficient in automating infrastructure provisioning, configuration management, and supporting and optimizing critical applications on Linux/Windows servers, ensuring that applications meet Service Level Agreement (SLA) targets, and leveraging the AWS cloud and open-source technologies for high availability, scalability, and performance. I have experience in building and maintaining efficient CI/CD pipelines with modern tools.
+
+I have deep knowledge of application delivery, operational efficiency, scalable systems, automation, monitoring, capacity optimization, troubleshooting, networking, storage solutions, security, identity and access management, middleware and platform integration, disaster recovery, cost optimization, and software development life cycle best practices.
+TECHNICAL SKILLS
+
+Operating Systems: Linux/Unix/Windows
+Linux: Ubuntu, Red Hat, CentOS, Debian, Amazon Linux 2
+Languages: Java, HTML, YAML, Python, JSON, Groovy
+Command Line Tools: Bash, PowerShell, AWS CLI, Kubectl
+Management tools: Jira, Confluence
+Infrastructure as Code: Terraform, CloudFormation
+Repositories: GitHub, Docker Hub, JFrog, Nexus, ECR, GitLab
+CI/CD Orchestration: Jenkins, Maven, SonarQube, Ansible, CodeBuild, CodePipeline, CodeDeploy
+Version Control: Git, CodeCommit
+Container Orchestration: Docker, Kubernetes (K8s), ECS, EKS, Rancher
+Kubernetes Package Manager: Helm
+Databases: MySQL, PostgreSQL, MongoDB, DynamoDB
+Web/Application Servers: JBoss/WildFly, Tomcat, WebSphere, Nginx, Apache
+Observability Platform: Prometheus, Grafana, ELK (Elasticsearch, Logstash, Kibana)
+Infrastructure/Configuration Management: Ansible, AWS SSM
+Collaborative Platform: Jira, Confluence, Agile Scrum
+AWS Services: EC2, IAM, ALB, NLB, S3, EBS, EFS, VPC, NAT, IGW, NACL, Security Group, NACL, CloudWatch, RDS, Organization, SCP, SNS, SQS, R 53, KMS, Secret Manager, Parameter Store, Lambda, Kinesis, Trusted Advisor, Config, SSM, MGN, CloudFront, CloudTrail, WAF, Shield, GuardDuty, Well Architected, AWS CLI, AWS SSO, etc.
+
+WORK RELATED EXPERIENCE
+
+Sr. DevOps Cloud Engineer – Dominion Systems, 1304 Walnut Hill, Irving TX 75038, USA Jan 2019 – Present
+Contributed to architecture design, improvement, and implementation, including services such as EC2, S3, SNS, SQS, Lambda DynamoDB, VPC, SG, and WAF for a highly secure, resilient, fault-tolerant, and compliant solutions
+Designed and configured CDN to optimize content delivery, improve website performance and user experience, and monitor, diagnose and resolve network issues
+Implemented and maintained security measures within CDN, including DDoS protection, WAF, and SSL configurations
+Analyzed infrastructures using Trusted Advisor and made improvements that led to performance gains, cost efficiency, and increased security
+Configured VPCs, Network/Application Load Balancers, Autoscaling groups, and multi-AZs for high availability, scalability, and resiliency
+Provisioned infrastructure as code (IaC) resources using Terraform, enabling automation, scalability, consistency, and reliability
+Implemented infrastructure lifecycles, including planning, design, implementation, operation and maintenance with enhanced efficiency
+Implemented best practices for proper maintenance and support of a 24x7 cloud infrastructure – service and server hardening, tuning, vulnerability management, documentation, and patch management using Ansible and shell scripts
+Administered Git and GitHub repositories, ensuring adherence to best practices, branching/merging codes, enhancing team productivity, and managing users and roles
+Leveraged Maven to automate builds and managed Java projects by executing Maven goals and creating WAR and EAR packages for web and enterprise applications
+Configured and managed Jenkins and plugins for extensibility to automate and streamline the CI/CD pipeline to build, test, create images, and deploy applications to Dev, QA, UAT, Perf, and Prod environment with enhanced efficiency
+Implemented Jenkins master/agent architecture with multiple build agents and distributed tools to build and release software in a fault-tolerant environment
+Updated configurations in build scripts (POM files) to execute Maven projects and generate artifacts
+Set up a quality profile in SonarQube to automate code quality analysis by scanning the codebase and generating metrics to identify and resolve integration issues and enhance code quality, security, reliability, and maintainability
+Utilized Groovy scripts in Jenkinsfile and generated Pipeline Script code to automate and execute Pipeline jobs
+Architected, maintained, and updated CI/CD pipelines and customized maven and Jenkins configurations to meet specific project requirements
+Integrated Jenkins with Git, Maven, SonarQube, and Nexus to automate Continuous Integration (CI) jobs to build and release artifacts
+Created Maven Snapshot and Releases repositories in Nexus Repository Manager to backup development and stable versions of artifacts during builds
+Created highly secured, resource-efficient Docker images using lightweight Alpine Linux as a base image for containerized microservices and push images to GitHub repositories
+Integrated Jenkins with Ansible, Docker, and Kubernetes to automate Continuous Deployment (CD) jobs with rapid and frequent releases to production
+Leveraged multi-stage Dockerfiles for complex processes involving many build dependencies to optimize image size and enhance security
+Monitored deployments using Jenkins console output for errors and failed builds during pipeline execution and locate and resolve issues
+Utilized Jenkins Ansible plugin and Kubernetes Continuous Deploy plugin to invoke Ansible playbooks, build images, and deploy applications
+Integrated Jenkins with Docker by utilizing the Docker Pipeline plugin and a Pipeline script to build and push Docker images to Docker Hub
+Architected a secured environment for Maven to download dependencies and plugins from the internet using a proxy repository in Nexus
+Installed web/application servers including Nginx, Apache HTTP, and Tomcat to serve static/dynamic content
+Configured Terraform scripts and used to provision a fully managed Amazon EKS cluster with all related infrastructures
+Configured advanced and secured layered EKS workload and network with VPC, private/public subnets, ALB, private node group, RDS database, service discovery, SSL and R53/DNS routing
+Configured and deployed EKS cluster in a mixed mode with public/private managed node group involving EC2 instances and Fargate profile for serverless computing
+Deployed X-Ray in EKS using DaemondSet for distributed tracing to analyze and debug microservice applications and identify performance bottlenecks.
+Leveraged KOps software to automate and provision production-grade, secured, scalable, and self-healing Kubernetes cluster infrastructures in AWS, including VPC, EC2 instances, S3 bucket, ALB, ASG, security groups, IAM roles, etc.
+Created complete Kubernetes manifests defining Deployments, HPAs, ingress, services, and service accounts for application deployments
+Created and pushed helm charts into helm repositories in GitHub pages for easy deployment within the team
+Configured LaodBalancer, NodePort, and ClusterIP services for internal/external networking and load balancing in Kubernetes clusters
+Deployed Nginx Ingress and the Ingress resource defining rules for path/host-based routing of HTTPS traffic to multiple backend applications/microservices
+Enabled HTTPS traffic to enhance security between client and web server by configuring TLS certificate for encryption
+Optimized cost by provisioning Cluster Autoscaler to dynamically adjust the number of nodes based on actual demand and handle burst workload, avoiding overprovisioning of resources
+Configured Liveness/Readiness probes to detect and recover from application deadlocks, enhanced reliability, robustness, and availability of deployed applications
+Leveraged the Kubeadm CLI utility to provision a full self-managed Kubernetes cluster and performed cluster update
+Utilized Rancher to facilitate and simplify the process of multi-cluster management, including EKS and AKS, from a centralized dashboard
+Organized nodes into node groups for scaling and ensuring optimal performance and efficient resource utilization for different applications within the Kubernetes cluster
+Managed deployment of stateless applications in Kubernetes using Deployments to roll out a replica set and create container pods
+Administered Kubernetes applications by creating and updating Kubernetes objects using files and troubleshooting the Control Plain/nodes, pods failure, network, etc. using Kubernetes tools such as kubectl, and eksctl
+Leveraged Kubernetes Deployment resource to scale, update, rollback and rollout new application versions with zero downtime
+Utilized Helm to deploy Prometheus and Grafana as a toolset in a Kubernetes cluster to monitor the overall health of applications and infrastructure in real time by generating critical metrics and logging data
+Created Grafana dashboards to analyze, explore, and visualize data from Prometheus, enabling troubleshooting and 24/7 availability and making informed decisions about resource allocation and optimization
+Set up alerts in Grafana based on defined thresholds and KPIs to send notifications while identifying and addressing issues promptly
+Utilized Helm to Deploy Elasticsearch, Filebeat, and Kibana as a toolset to monitor cluster activities, aggregate, analyze, and visualize log and event data for business intelligence and debugging
+Enforced Kubernetes security through RBAC by creating roles and rules with permission policies for users and groups, leveraged Secret to pass sensitive data, and configured AWS IAM for authentication and authorization in EKS
+Deployed multi-tier web application comprising a stateless web application along with a Stateful MongoDB database application
+Assigned service accounts to pods/applications and defined RBAC rules to grant application access permission to Kubernetes resources
+Created Persistent volumes for database storage using Persistent volume claims and claim policy by making use of a dynamic storage class in Kubernetes
+Implemented deployment strategies, including rolling update, Canary, and Blue/Green deployment with zero downtime
+Utilized Python scripts for task automation including system configurations, maintenance, and file operations
+Implemented AWS SSO, creating users, groups, and centralized permission management and access to multiple AWS accounts from a single account in the AWS Organization
+
+DevOps Cloud Engineer – Wells Fargo, San Francisco, 420 Montgomery St, CA, USA Jan 2017 – Dec 2018
+Built a complex application delivery toolchain integrating Jenkins with build and deployment tools using plugins, configuration files, and build triggers to enable automation
+Configured Jenkins jobs using Freestyle Project, Pipeline, and Multibranch Pipeline to build/release and deploy software based on the simplicity, flexibility, and complexity of workflow
+Created and updated Jenkinsfile to execute projects and automate build and release jobs
+Drove DevOps best practices with respect to Git workflow, branching strategy, and source code management with significant improvement in DevOps KPIs
+Built Docker images from Dockerfiles for containerized microservices applications and push images to Docker Hub repositories
+Used Docker Compose file to configure and simplify the deployment of multi-Docker container application defining services, network, volumes, and environment variables
+Leveraged Amazon ECS to deploy, scale, and manage containers and clusters with Fargate serverless and EC2 instances, defining tasks and services
+Configured and initialized docker swarm architecture, creating master and worker nodes and running workloads
+Leveraged Terraform as IaC to provision and manage scalable infrastructure solutions, including CI/CD pipeline, VPC, EC2 instances, S3 buckets, auto-scaling groups, and ALB
+Leveraged Ansible for system-wide configuration, wrote and maintained Ansible playbooks for user, file, and software package management
+Used Ansible roles to deploy Apache HTTP, Apache Tomcat, and MySQL database on Linux servers
+Provisioned storage solutions, including EBS volumes, S3 buckets, and EFS to store files, logs, images, and multi-media content and automated backup of critical files
+Configured and scaled RDS databases including MySQL and PostgreSQL, for high availability and Disaster Recovery using read replicas for asynchronous data replication
+Ensured security in Ansible with the use of Ansible Vault to secure authentication credentials by encryption
+Created runbooks for routine troubleshooting and maintenance operations that led to improvement in MTTD and MTTR by at least 24%
+Led a project automating the migration of on-prem data center to the AWS cloud with minimal service disruption using AWS MGN, MGH, and Replication Agent
+Configured CloudWatch to monitor and collect metrics, events, and logs from EC2 instances, containers, and applications for debugging and maintenance
+Implemented advanced networking in AWS by configuring VPC, IGW, NAT, VPN, CloudFront, Route 53, AWS Direct Connect, and Transit Gateway and linked on-prem datacenter to AWS cloud environment
+Set up Apache/Nginx webservers with AWS ELB and installed SSL Certificates using ACM to enable HTTPS and prevent “Man-in-the-Middle cyberattack”
+Integrated ALB with AWS WAF and Shield to protect applications against common web vulnerabilities such as XSS, SQL injections, and DDoS attacks
+Configured security groups and NACL as virtual firewalls to protect EC2 instances/applications by controlling inbound and outbound traffic
+Leveraged the TCP/IP suite to configure various network protocols such as HTTP(S), FTP, SMTP, UDP, SSH, and RDP
+Launched virtual machines in AWS with different capabilities based on workload to handle CPU and memory-intensive applications
+Configured authentication and authorization in AWS IAM defining access policies and ensuring best practices such as MFA, Key rotation, least privilege principle, etc.
+Consolidated and simplified management of multi-AWS accounts with consolidated billing and centralized policy management by applying SCP using AWS Organization
+Commissioned servers by installing and configuring the required hardware, software applications, services, packages, network settings, and security features using Ansible and Bash scripts
+Drove disaster recovery strategy through automated snapshots of RDS databases and EBS volumes, RDS read replicas, golden AMI, S3 CRR, and Route 53 fail-over
+Configured CloudTrail to log all account API calls and deliver logs from multiple accounts to a central S3 bucket location for auditing and management
+Set up AWS Config rules to track and evaluate resource configuration compliance status and remediated non-compliance resources such as unrestricted SSH traffic, unencrypted HTTP traffic, and enabled access key rotation,
+Configured SSM Patch Manager and implemented custom patch baseline to a target group of managed EC2 instances
+Leveraged Amazon Route 53 latency routing policies to enable low latency networking and self-healing systems
+Configured CloudFront distribution to speed up delivery of static content globally with low latency from an S3 bucket configured as a website
+Leveraged AWS KMS to encrypt data at rest in S3 bucket and EBS volumes for data integrity and confidentiality
+Configured DNS records with hostnames in Route 53 to route traffic and connect users to backend applications
+Built automation workflows using EventBridge, SNS, and Lambda to respond to priority events, security issues, and non-compliant resources with automated remediation actions and notifications
+Configured Amazon EBS snapshot lifecycle policy to regularly backup critical application data to S3 bucket
+Configured ELB and Auto Scaling groups with scaling policies to dynamically adjust the capacity of compute resources based on traffic load
+
+EDUCATION & CERTIFICATION
+
+Bachelors of Science University of Buea, Cameroon 2009 - 2013
+Master in DevOps Landmark Metropolitan University 2014 - 2015
+AWS Certified Solutions Architect AWS - Pearson VUE
+Contact this candidate

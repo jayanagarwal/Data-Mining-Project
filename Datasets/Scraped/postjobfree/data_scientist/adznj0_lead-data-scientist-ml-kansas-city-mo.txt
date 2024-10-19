@@ -1,0 +1,137 @@
+Sujatha.P
+Senior Data Scientist
+
+Email: adznj0@r.postjobfree.com Phone: 470-***-****
+
+Summary: 8+ Years in Data Science and Machine Learning
+Highly experienced Data Scientist with experience in Data Extraction, Data Modeling, Data Wrangling, Statistical Modeling, Data Mining, Machine Learning, and Data Visualization, Competent in machine learning algorithms and predictive modeling including Regression Models, Decision Trees, Random Forest, Sentiment Analysis, Naïve Bayes Classifier, SVM, Ensemble Models. Team builder with excellent communication, time & resource management & continuous client relationship development skills.
+
+Professional Profile
+Proficient in managing all phases of data science project life cycle including data acquisition, data cleaning, data engineering, features scaling, features engineering, statistical modeling, testing and validation, and data visualization.
+Skilled in statistical methodologies including Hypothetical Testing, ANOVA, Time Series, Principal Component Analysis, Factor & Cluster Analysis, and Discriminant Analysis.
+Experience in Time Series Analysis including AR, MA, ARIMA, GARCH, and ARCH models.
+Knowledge of Natural Language Processing (NLP) Algorithms and Text Mining.
+Worked in large-scale database environments like Hadoop and MapReduce, with the working mech- anism of Hadoop Clusters, nodes, and Hadoop Distributed File System (HDFS).
+Successfully built models with deep learning frameworks such as TensorFlow, PyTorch, and Keras.
+Strong experience with Python to develop analytical models and solutions.
+Proficient in Python with SciPy Stack packages including NumPy, Pandas, SciPy, Matplotlib, and IPy- thon.
+Working experience in Hadoop Ecosystem and Apache Spark Framework such as HDFS, MapReduce, HiveQL, Spark SQL, and PySpark.
+Very good experience and knowledge in provisioning virtual clusters under AWS Cloud which in- cludes services like EC2, S3, and EMR.
+Proficient in Data Visualization tools such as Tableau, Python Matplotlib, and R Shiny to create visual- ly powerful and interactive reports and dashboards.
+Experience in Agile Methodology and Scrum Process.
+Strong business sense and ability to communicate data insights to both technical as well as non- technical.
+
+Technical Skills
+Libraries: NumPy, SciPy, Pandas, Theano, Caffe, SciKit-learn, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, NLTK, PyTorch, Gensim, Urllib, BeautifulSoup4, PySpark, PyMySQL, SQAlchemy, MongoDB, sqlite3, Flask, Deeplearning4j, EJML, dplyr, ggplot2, reshape2, tidyr, purrr, readr, Apache, Spark.
+Machine Learning Techniques: Supervised Machine Learning Algorithms (Linear Regression, Logistic Regression, Support Vector Machines, Decision Trees and Random Forests, Naïve Bayes Classifiers, K Nearest Neighbors), Unsupervised Machine Learning Algorithms (K Means Clustering, Gaussian Mixtures, Hidden Markov Models, Auto Encoders), Imbalanced Learning (SMOTE, AdaSyn, NearMiss), Deep Learning Artificial Neural Networks, Machine Perception
+Analytics: Data Analysis, Data Mining, Data Visualization, Statistical Analysis, Multivariate Analysis, Stochastic Optimization, Linear Regression, ANOVA, Hypothesis Testing, Forecasting, ARIMA, Sentiment Analysis, Predictive Analysis, Pattern Recognition, Classification, Behavioral Modeling
+Natural Language: Processing: Processing Document Tokenization, Token Embedding, Word Models, Word2Vec, FastText, BagOfWords, TF/IDF, Bert, Elmo, LDA
+Programming: Languages: Python, R, SQL, Java, MATLAB, and Mathematica
+Applications: Machine Language Comprehension, Sentiment Analysis, Predictive Maintenance, Demand Forecasting, Fraud Detection, Client Segmentation, Marketing Analysis, Cloud Analytics in cloud-based platforms (AWS, MS Azure, Google Cloud Platform)
+Deployment: Continuous improvement in project processes, workflows, automation, and ongoing learning and achievement
+Development: Git, GitHub, GitLab, Bitbucket, SVN, Mercurial, Trello, PyCharm, IntelliJ, Visual Studio, Sublime, JIRA, TFS, Linux
+Big Data and Cloud Tools: HDFS, SPARK, Google Cloud Platform, MS Azure Cloud, SQL, NoSQL, Data Warehouse, Data Lake, SWL, HiveQL, AWS (RedShift, Kinesis, EMR, EC2, Lambda
+
+Professional Experience
+Lead Data Scientist/ ML Engineer since August 2022 KROGER, CINCINNATI, OHIO
+As a Senior Data Scientist at Kroger, I heavily contributed to driving business growth and enhancing customer engagement through data-driven insights and predictive modeling. I successfully applied a wide range of advanced analytics techniques for various MMM business use cases. I developed and deployed Machine learning and Deep Learning Models to analyze market segmentation and customer behavior, forecast sales, and predict customer conversion, ultimately contributing to improved decision-making and customer-centric marketing strategies.
+Conducted Market Segmentation using cluster analysis (Hierarchical Clustering and K-Means) and dimensionality reduction techniques (PCA) to effectively segment the market.
+
+Developed customer personas based on various attributes, which allowed us to implement targeted marketing strategies and personalized customer experiences.
+Built customer churn predictive models using Logistic Regression, Random Forest, and XGBoost to identify potential customer churn.
+Analyzed historical customer data and developed a robust model that accurately predicted churn, enabling us to implement proactive retention strategies.
+Collaborated with cross-functional teams to create accurate sales forecasts and market mix models.
+Utilized historical sales data and external factors to gain insights into market trends and optimize resource allocation.
+Developed a SARIMAX model to forecast sales of multiple stores and shared a dashboard of the forecasts with store managers to aid in appropriate inventory restocking.
+Utilized advanced statistical techniques to model price elasticity for demand.
+Analyzed purchase quantity, purchase probability, and brand choice based on pricing variations, assisting in pricing strategy decisions.
+Employed Deep Learning techniques using TensorFlow and Keras to predict the probability of customer conversion, optimizing our marketing spend.
+Extracted valuable insights from big data using data mining techniques using Spark’s Python API (PySpark) and ETL pipelines.
+Applied Feature Engineering for dimensionality reduction and to improve the models’
+performance.
+Exposed the models as API endpoints using Flask.
+Containerized the developed models in Docker containers and deployed them on a Kubernetes cluster.
+Created visually engaging data visualizations and live interactive dashboards using Tableau to aid stakeholders in understanding market trends and support data-driven decision-making.
+
+Data Scientist/ ML Engineer Jan 2021 – Jul 2022 ALBERTSONS/ SAFEWAY, PLEASANTON, CA
+Worked on the digital fulfillment team as a Senior Machine Learning Engineer to assist the business with e-commerce order tracking. Built a component model to allow for 30-minute delivery of e-commerce orders to allow the business to compete on equal footing as their main competitors.
+Used spark to configure cluster and notebook settings for Databricks scripts.
+Wrote all code using Databricks. ipynb notebook format.
+Monitored jobs running in the production, QA, and development environments of Databricks.
+Trained in a logistic regression model to track re-shops on e-commerce orders.
+Trained an XG Boost model to predict pick times to replace the deterministic pick time model.
+Recommended several changes to scripts and processes to dramatically speed up runtimes on jobs running in all environments.
+Used historical performance metrics to recommend improvements.
+Scheduled jobs for scripts to run on custom cadences ranging from every 5 minutes to 15 minutes, twice a day, and once a day.
+Implemented try/except blocks for one-off errors.
+
+Replicated errors in isolation for root cause analysis.
+Tracked, resolved, and documented errors in real time.
+Configured Jenkins pipelines using JSON.
+Established GitHub presence for the Fulfillment team and created repositories and ground truths for models and scripts to allow for the complete CI/CD process moving forward.
+Utilized Jenkins for triggering jobs directly from GitHub repos.
+Presented findings and provided updates weekly for business partners.
+Pivoted between the role of Data Engineer, Machine Learning Engineer, and MLOps Engineer as tasks required.
+
+Lead Data Scientist – AI/ ML Engineering Sept 2017 – Dec 2020 SOUTHWEST AIRLINES, DALLAS, TX
+As a leading entity in the Air Travel industry, Southwest Airlines prides itself on its unwavering commitment to operational efficiency and safety. To mitigate system failures related to air pressure, I was instrumental in the analysis of data obtained from IoT devices, which were subsequently stored in an AWS RDS SQL database. I devised predictive maintenance models and performed survival analysis by leveraging classification and regression techniques. The primary objective was to accurately predict the likelihood of failure within air-powered machinery. Upon successful deployment, these predictive algorithms significantly reduced system failures and drastically curtailed superfluous maintenance costs.
+A key player in mitigating air pressure system failures at Southwest Airlines via streamlined data analysis from IoT devices and storage in AWS RDS SQL database.
+Engineered predictive maintenance models and performed survival analysis utilizing classification and regression methodologies, significantly reducing machinery failure rates and maintenance costs.
+Conducted work within an Ubuntu environment leveraging Python, SQL, NoSQL, and AWS.
+Utilized Scrapy for data extraction, applied Python libraries NumPy, Pandas, SciPy, Matplotlib, Plotly, and Feature Tools for data analytics and feature engineering.
+Employed Hadoop HDFS for data retrieval from NoSQL databases.
+Harnessed Pandas, SQLite, and MySQL for AWS database management, used SQLite (sqlite3) modules for SQL data extraction.
+Utilized NLTK and Genism for document tokenization and Word Model creation, Fast Text provided optimal results.
+Constructed Neural Network models using PyTorch, focusing on Convolutional and Recurrent Neural Networks, LSTM, and Transformers.
+Collaborated effectively with two Data Engineers and the Consumer Relations team.
+Provided comprehensive documentation for all software packages.
+Configured AWS for cloud-based data analysis tools.
+Modified Python scripts for data alignment in AWS Cloud Search to streamline response label assignment for document classification.
+Created a tree-based model i.e. Light Gradient boosting Machine learning algorithm which is an upgrade of the existing linear regression model.
+Created data ingestion pipeline for the year 2021 and onwards for training the model to tackle the drift problem.
+Performed hyper-parameter tuning for the LGBM model. Used different libraries (e.g., Optuna) for
+
+finding the most optimal parameters of the model.
+Created the code pipeline for scheduling the batch job for finding the optimal revenue.
+Performed A/B tests for analyzing the performance of new and old versions of the algorithm.
+Conducted bi-weekly meetings with the stakeholders to communicate the current developments going on in the project and take advice on different aspects during the project tenure.
+Performed stress tests for testing models' capability to handle adverse situations wisely.
+Worked as both a technical lead and Scrum master on the project.
+Conducted all the agile ceremonies during the project like daily stand-ups, bi-weekly retrospectives, and weekly catchups on the project developments.
+Give the project update to the higher management bi-weekly to keep them up to date on the project's progress as well.
+Documented all the things related to the project on confluence.
+
+Data Scientist Jul 2015 – Sept 2017
+SANTANDER, BOSTON
+At Santander, I worked as a Natural Language Processing expert and Model Architect where I built, trained, and tested multiple NLP models which classified user descriptions based on user questions. The goal of the project was to centralize and search for different text databases within the Santander network to create an AI assistant. Part of the project objective was to automate the Customer Service Agents' efforts to support customer interactions efficiently. I also worked on other classification and regression problems according to business needs.
+
+Used Python and SQL to collect, explore, and analyze structured/unstructured data.
+Used Python, NLTK, and TensorFlow to tokenize and pad comments/tweets.
+Vectorized the documents using Bag of Words, TF-IDF, Word2Vec, and GloVe to test the performance it had on each model.
+Created and trained an Artificial Neural Network with TensorFlow on the tokenized
+documents/articles/SQL/user inputs.
+Performed Nearest Entity Recognition (NER) by utilizing ANNs, RNNs, LSTMs, and Transformers.
+Involved in model deployment using Flask with a REST API deployed on internal Santander
+systems.
+Wrote extensive SQL queries to extract data from the MySQL database hosted on the bank’s internal servers.
+Built a deep-learning model for text classification and analysis.
+Performed classification of text data using NLP fundamental concepts, including tokenization,
+stemming, lemmatization, and padding.
+Performed EDA using Panda’s library in Python to inspect and clean the data.
+Visualized the data using Matplotlib and Seaborn.
+Explored using word embedding techniques such as Word2Vec, GloVe, and Bert.
+Used Data model R package to document relational data.
+
+Academic Credentials
+MS, Computer Science and Engineering (Specialization in Data Engineering)
+
+BS, Computer Science & Engineering
+Selected Publications & Affiliations
+1.Mathematical Analysis of PCA, MDS and ISOMAP Techniques in Dimension Reduction, Interna- tional Journal of Advance Research in Computer Science and Management Studies, Volume 3, Is- sue 5 · May 26, 2015.
+http://www.ijarcsms.com/docs/paper/volume3/issue5/
+2.A Proposed Hybrid Spatial Indexing: QX Tree, International Journal of Computer Science and In- formation Technologies · Mar 20, 2015. http://ijcsit.com/docs/Volume%206/vol6issue02/ijcsit20150602180.pdf
+3.Using ETL for Optimizing Business Intelligence Success in Multiple Investment Combinations, In- ternational Journal of Applied Engineering Research, 2016 https://www.ripublication.com/ijaer_spl/ijaerv10n6spl_20.pdf
+Awards & Honors
+1.Prakriti Bandhu (Nature’s friend) Award from Govt. Of Odisha State, India -2018 2. State level
+2.Rajeev Gandhi Pratibha Award, Rajeev Gandhi Forum, Odisha Branch- 2015
+Contact this candidate

@@ -1,0 +1,128 @@
+Name: Amani
+Email: ad4ymf@r.postjobfree.com
+Address: Grand Rapids Michigan
+AWS DevOps Engineer
+
+SUMMARY:
+Around 5+ years of IT Industry experience with Configuration Management, Build, Release Management, Pipeline Automation for Continuous Integration and Continuous deployment.
+Developed and implemented Software Release Management strategies for various applications according to the agile process.
+Heavily involved in implementing continuous deployment by creating pipeline apps in docker containers.
+Worked on Build and Release management methodologies and Software procedures in all aspects of SDLC.
+Knowledge and experience in Release/Change Management, Project Management, Business Process Modeling, Business Requirements, writing technical specifications, Complete Software development life cycle (SDLC).
+Hands on working expertise in build, secure and manage array of applications from development to production both on premises and in the cloud using Docker containers, used Docker container snapshots, attaching to a running container, removing images, managing directory structures and managing containers. Performed automation tasks on various Docker components like Docker Hub, Docker Engine, Docker Machine, Compose and Docker Registry.
+Dockerized applications by creating Docker images from Docker file. Setup Docker on Linux and configured Jenkins to run under Docker host. Used Kubernetes for running/managing containers, container snapshots and managing images.
+Experience in working on version control system GIT and used Source code management client tool GitHub.
+Bug
+Hands on experience in AWS cloud computing platform and many dimensions of scalability including EC2, S3, EBS, VPC, ELB, AMI, SNS, RDS, IAM, Route 53, Auto scaling, CloudFront, Cloud Watch, Cloud Trail, Cloud Formation, OPS Work, Security Groups.
+Experience in both framework and CloudFormation to automate AWS environment creation along with the ability to deploy on AWS, using build scripts (AWS CLI) and automate solutions using Shell and Python.
+Design and Implemented Cloud Orchestration solution using AWS EC2, Docker and Kubernetes.
+Extensively experienced in using Build Automation tools like Ant, and Maven.
+Develop and manage the roll out schedules, implementation plans and activities/tasks for and across all functional groups involved in the release and work across functional groups involved in the release. Experience in using Jira for Custom development of workflows.
+Experience in using CI tool Jenkins for automated builds.
+
+Technical Skills:
+
+Cloud Platforms
+AWS
+Configuration Management Tools
+Ansible, Puppet
+CI /CD Tools
+Jenkins
+Build Tools
+Maven
+Containerization Tools
+Docker, Docker Swarm, Kubernetes, Aws ECS.
+Version Control Tools
+GIT, GITHUB, Bitbucket
+Logging & Monitoring Tools
+ELK, CloudWatch
+Scripting Programming Languages
+
+Shell Scripting, Python, SQL, Spark
+Web Servers
+Apache Tomcat, Nginx
+Operating Systems
+Linux, Windows, UBUNTU
+Bug Tracking Tools
+JIRA, Service Now
+Certification
+AWS DevOps certification
+
+Professional Experience:
+
+Volio Technologies Limited, Hyderabad Nov 2019 – Nov 2022
+AWS DevOps Engineer
+Responsibilities:
+As the part of DevOps team, my role includes release management, Environment Management, deployments, Continuous integration, continuous deployment, Incident management, version management.
+Responsible for Continuous Integration (CI) and Continuous Delivery (CD) process implementation fusing Jenkins with Python to automate routine job.
+Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/ Ubuntu) and configuring launched instances with respect to specific applications.
+Defined AWS Security Groups which acted as virtual firewalls that controlled the traffic allowed to reach one or more AWS EC2 instances.
+Working on Multiple AWS instances, Elastic Load Balancer and AMIs, Auto scaling to design cost effective.
+Implemented AWS solutions using EC2, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups. Responsible for monitoring and working problem tickets. Following it up with business and technical team, and ensuring the problem successfully resolved.
+Provided access to EC2 resources, code repositories, and other AWS resources through IAM, administration.
+Design, build and automate the AWS infrastructure (VPC, EC2, Networking, EMR, RDS, S3, etc) using CFT (Cloud Formation Template).
+Written cloud formation templates in JSON to create custom VPC, subnets, NAT to ensure successful deployment of web application.
+Implemented domain name service (DNS) through route 53 to have high available and scalable applications.
+Dockerized applications by creating Docker images from Docker file. Setting up Docker on Linux and configured Jenkins to run under Docker host.
+Worked on creation of custom Docker container images, tagging and pushing the images.
+Hands on experience in using Kubernetes rolling updates, role binding and also worked on cluster related issues.
+Experience in writing Ansible playbooks for installing WebLogic/tomcat application, deployment of WAR, JAR, and EAR files across all the environments.
+Experience in writing Ansible playbooks by using YAML script to launch AWS instances and used to manage web applications, configuration files.
+Monitor the health and performance of production systems and applications using cloud watch.
+Experience in using Nexus, Artifactory Repository Manager for Maven builds.
+Working with GIT and maven including branching and merging strategies.
+Experience in Administration/Maintenance of source control management systems, such as GIT.
+Used Ticketing tool JIRA to track defects and changes for change management, monitoring tool Cloud Watch in different work environments in real and container workspace.
+Created SNS (Simple Notification Services) and triggering it by Cloud Watch monitoring to send SMS or Email to desired recipients.
+
+Environment: GIT, Maven, Amazon Web Services (EC2, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups, VPC etc.), CFT, Jenkins, Ansible, Docker, Kubernetes, Python, JIRA, SNS, Cloud Watch.
+
+Project: 2
+Volio Technologies Limited, Hyderabad Sep 2018- Oct 2019
+DevOps Engineer
+Responsibilities:
+Automated AWS (VPC, EC2, S3, ELB, IAM) deployments using Ansible.
+Worked on Auto scaling, Cloud watch (monitoring), SNS, AWS Elastic Beanstalk (app deployments), Amazon S3 (storage)and Amazon EBS (persistent disk storage).
+Experience in AWS Ansible Python Script to generate inventory and push the deployment to Managed configurations of multiple servers using Ansible.
+Experience with AWS S3 services creating buckets, configuring buckets with permissions, logging, versioning and tagging.
+Performed SVN to GIT/Bitbucket migration and managed branching strategies using GIT flow workflow. Managed User access control, Triggers, workflows, hooks, security, and repository control in Bitbucket.
+Used CloudFront to deliver content from AWS edge locations to users, allowing for further reduction of load on front-end Servers.
+Created AWS Route53 to route traffic between different regions.
+developed Ansible Playbooks to simplify and automate day-to-day server administration tasks.
+Implemented and maintained monitoring and alerting of production and corporate servers such as EC2 and storage such as S3 buckets using AWS Cloud Watch.
+Implemented and configured Zabbix monitoring solutions for real-time visibility into system and application performance.
+Configured and managed High Availability (HA) clusters using Veritas Cluster Server (VCS)
+Set up cluster resources, services, and failover mechanisms to ensure system availability and minimal downtime.
+Designed and implemented cluster monitoring and automated recovery procedures for critical applications.
+Conducted regular cluster testing and failover simulations to guarantee system reliability.
+Conducted Elasticsearch cluster health monitoring and implemented automated alerting for proactive issue resolution.
+Created custom Elasticsearch index templates to maintain data consistency and mapping standards.
+Implemented end-to-end data pipelines using Spark, including data extraction, transformation, and loading (ETL) processes.
+Developed Spark applications in both Scala and Python, adapting to project requirements and language preferences.
+Collaborated with data engineers to design and implement resilient and fault-tolerant Spark applications.
+Implemented broadcast variables and accumulators to optimize data sharing and aggregation in Spark jobs.
+Implemented Spark jobs to process unstructured data, including text and log files, for valuable insights.
+Troubleshooted and resolved issues related to Spark application failures, ensuring high availability and reliability.
+Designed and implemented custom Spark connectors to interact with various data sources and sinks.
+Customized RTC process templates to align with project-specific workflows and methodologies, improving team efficiency.
+Applied Agile methodologies in the development process, participating in sprints, stand-up meetings, and contributing to the overall efficiency of the development lifecycle.
+Involved in installing Kubernetes and docker in AWS environment.
+
+Environment: AWS, Ansible, Jenkins, Packer, GIT, AWS EC2, Route53, S3, VPC, EBS, Auto scaling, Nagios, Unix/ Linux environment, bash scripting, IAM, Cloud Watch, Cloud Formation, Puppet, Docker, Chef, GitHub, Maven, Jenkins., Nexus, Kubernetes.
+
+Project: 1
+Volio Technologies Limited, Hyderabad April 2017 -Aug 2018
+Associate Software Engineer:
+Environment: AWS EC2, S3, Cloud Formation, Dynamo DB, VPC, IAM, Tomcat Apache, Cloud Watch, Git, Linux, Jenkins, Maven, Chef.
+Roles & Responsibilities:
+Involved in automating the entire ow by using CI/CD process once developer checks in code to dev branch to merge into Staging and Production with proper QA certs.
+Involved in developing auto-scaling architecture which works both in EC2 and on-premises data centers.
+Used Jenkins, Chef and Shell scripts to automate the code deployment and continuous integration.
+Involved in Linux system administration and performance tuning.
+Wrote Shell and Python scripts to automate package installation and web server configuration.
+By using AWS created core services like EC2.
+Installed applications on AWS EC2 instances and configured storage on S3 buckets.
+Created AWS VPC to create public-facing subnet for webservers with internet access, backend databases and application servers in private-facing subnet with no internet access.
+Created and configured S3 so that developing team can perform CRUD operations by using AWS SDKs.
+Used CLOUDWATCH to actively monitor stats from all services in AWS solutions.
+Contact this candidate

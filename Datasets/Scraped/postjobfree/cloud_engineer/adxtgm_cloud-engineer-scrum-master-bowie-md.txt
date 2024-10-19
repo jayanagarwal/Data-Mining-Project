@@ -1,0 +1,125 @@
+ALEMKIA
+TANGOALEM
+adxtgm@r.postjobfree.com /240-***-****
+Upper Marlboro, MD 20774
+SUMMARY
+Experienced AWS Architect with over 6 + years of experience with technology consulting, IT management, business development, technical writing, and collaborating with technical teams. Strong analytical skills in assessing business requirements at the enterprise level and designing efficient and effective technology solutions for clients. Current interest is in cloud strategy, cloud migration, and data analytics.
+SKILLS
+• AWS: VPC Designing including VPN,VPC Peering, Endpoints, EC2/Auto Scaling, S3 Life Cycle, RDS with Multi AZ, Dynamo DB, Aurora, Lambda, API Gateway, SQS, Elastic Cache, (Redis & Memcached) Route 53 DNS Designing, IAM policies, JSON, AWS Migration, SNS with CloudWatch alarms, CloudFront, Kinesis, Service catalog, Direct Connect, AWS Code Commit, AWS Systems Manager, EC2 Lifecycle Manager, Python, AWS Organization, AWS Config, Service, CloudFormation and Terraform
+• Platforms: AWS, Linux: RHEL, Programming Languages: Bash, JSON. Python. Java. HTML. XML. Node.js
+• Configuration Management & DevOps Tools: Code Commit, Ansible, Jenkins, & GitHub.
+EXPERIENCE
+AWS Cloud Engineer/ N2N Teknology Services – Westminster, 21157 11/2022 - Present
+• Designed and implemented Cloud solutions with AWS Virtual private cloud
+(VPC), Elastic Compute Cloud (EC2), Elastic Load Balancer (ELB), S3, Auto scaling, RDS, CloudWatch, VPC Endpoints (gives a local route not over the internet), Peering, Transit Gateway, and other AWS services.
+• Enabled Logging on S3 bucket access, VPC flow, Cloud trail, AWS config, IAM, AWS inspector, Lambda, RDS, Dynamo DB, Cloud Front, liquid base, AWS API gateway, EC2 Application servers.
+• Setup and configured Security Groups, NACL for VPC specific to environment.
+• Created AMI images of critical EC2 instances as backup using AWS CLI and Console.
+• Created and managed DNS records in AWS Route53, SNS.
+• Used AWS Code Deploy for migrating and automating application deployments to Amazon EC2 instances, on-premises instances, serverless Lambda functions, or Amazon ECS services.
+• Created SSL/TLS certificate using ACM and implemented the same using ELB and Route53.
+• Understand security best practices, policies, and standards to design highly secure cloud architectures for internal and external cloud solutions.
+• Designed templates for AWS Infrastructure as a Code using Cloud Formation and terraform to build staging and production environments.
+• Managed tools like Git, GitHub, Jenkins, and their usage / process ensuring traceability, repeatability, and quality for Pipeline build.
+• Experienced on AWS compute services (EC2, Lambda, Elastic Beanstalk, autoscaling).
+• Expertise in scripting for automation, and monitoring using Shell, Python scripts.
+• Created IAM users, roles, and granting required access permissions and privileges to the users.
+• Implemented AWS Kinesis Firehose to capture and load streaming data into AWS S3 and Redshift and used Elastic Search to Analyze the data.
+• Configured CloudWatch alarm rules for monitoring, operational and performance metrics for our AWS resources and applications.
+• Leveraged EC2 Lifecycle Manager to create snapshots of EBS Volumes on scheduled intervals for backup and define a retention period as a cost saving. measure.
+• Used Amazon Glue to generate Python scripts for ETL jobs.
+• Create an Elastic File system (EFS), to permit servers to be able to access applications. AWS Cloud Engineer/ Pyramid Systems - Fairfax, VA 22031 07/2022 – 11/2022
+• Implemented Machine Image Pipeline and integrated Patch Management
+• Implemented Machine Image Pipeline and integrated Patch Management
+• Implemented IAM best practices and role-based access control
+• Used AWS system manager documents and run commands to automate operational tasks across AWS resources.
+• Developed and leveraged baseline and custom guardrails, policies, centralized policy enforcement, tagging policies and a well architected multi account environment. Managed AWS infrastructure provisioning using CloudFormation or Terraform for Automation.
+• Worked in container-based technologies like Docker and Kubernetes
+• Provision/modify resources within AWS using Terraform
+• Hands-on experience with AWS CLI including deploying CFTs, managing S3, EC2, IAM
+• Troubleshooting EC2 instances, provide support for SNS, SES services.
+• Manage user access to AWS resources using IAM
+• Leveraged CloudWatch alarms baseline and centralized logging with AWS landing zone
+• Built serverless architecture with Lambda integrated with SNS, CloudWatch logs
+• Implemented IAM best practices and role-based access control
+• Experience with API/Microservices
+• Integrate Security tools in various Environments.
+• Installed python on different operating systems – Linux, Ubuntu, RHEL8.
+• Automated EBS volume snapshots for AWS infrastructure using lambda and cloud watch.
+• Edited and deployed lambda functions for serverless architecture deployment written in python.
+• Used PyMongo for writing and testing python code in MongoDB.
+• Designed Architectural solutions with the framework consisting of the five pillars of architectural excellence (Reliability, Security, Cost Optimization, Operational Excellence, Performance efficiency).
+• Used Ansible as an open-source IT configuration management, deployment, & orchestration tool.
+• Used API Gateway to build Restful API’s for serverless workloads and HTTP backend using HTTP API’s and Websocket API.
+• Monitored AWS resources & applications, and logs in real time using Cloud watch. Data Platform Engineer/ Axelon Services Corporation New York, NY 10005 06/2021 – 05/2022
+• Qlik Installation (Enterprise Manager and Replicate Web Console setup) and Deployment.
+• Managed AWS infrastructure provisioning using CloudFormation & Terraform.
+• Configured and updated Linux servers with latest releases and patches.
+• Hands-on experience with AWS CLI including deploying CFTs, managing S3, EC2, IAM.
+• Implemented IAM best practices and role-based access control.
+• Factory, integrated with Lambda for new AWS account creation With AWS Service Catalog.
+• Create and Validate deployment of platform architecture.
+• Ensures solutions meet existing governance and compliance requirements.
+• Continuously Improve the platform.
+• Manually installed Qlik Enterprise Manager as well as bash scripting to configure replicate instances and ODBC Drivers.
+• Configure mail server and set up alerts on application level.
+• Cloud security - create and use existing security groups in AWS environments.
+• Built serverless architecture with Lambda integrated with SNS, CloudWatch logs and other AWS services.
+• Provision/modify resources within AWS using Terraform. AWS Cloud Engineer/ JVNKK Consulting Greenbelt, MD 8715 04/2020 – 05/2021
+• Developed and leveraged baseline and custom guardrails, policies, centralized policy enforcement, tagging policies and a well architected multi account environment. Managed AWS infrastructure provisioning using CloudFormation or Terraform for Automation.
+• worked in container-based technologies like Docker and Kubernetes
+• Provision/modify resources within AWS using Terraform.
+• Designed and deployed scalable, highly available, fault tolerant and reliable applications in AWS.
+• Hands-on experience with AWS CLI including deploying CFTs, managing S3, EC2, IAM
+• Troubleshooting EC2 instances, provide support for SNS, SES services.
+• Manage user access to AWS resources using IAM
+• Implemented Machine Image Pipeline and integrated Patch Management
+• Migrated legacy applications to AWS cloud environment
+• Provision a Docker file and Make file to create a docker image.
+• Leveraged Docker to build, test and deploy applications in different environments.
+• Developed LLDs for migrating various applications including network sizing, Instance types, names, tags etc.
+• Developed required and optional tagging reference documents for automation, compliance and consolidated billing.
+• Developed baseline VPC and Network design including leveraging VPN connectivity and Direct Connect
+• Leveraged CloudWatch alarms baseline and centralized logging with AWS landing zone
+• Developed baseline AWS account security, implemented/integrated end-point protection, vulnerability scanning and intelligent threat detection
+• Built serverless architecture with Lambda integrated with SNS, CloudWatch logs and other AWS services like Splunk.
+• Amazon CloudWatch is used as a monitoring tool automatically integrated with AWS systems IT offers virtual operations and generates automatic AWS data records. CloudWatch provides basic metrics to keep track of your memory, CPU, and CNN functionality.
+• Leveraged automated DevOps tools deployment and Blue-green deployment patterns and strategies
+• Configured CI/CD Pipelines using Jenkins connected to GitHub and build environments (Dev, stage & Prod)
+• Implemented IAM best practices and role-based access control
+• Implemented AWS Organization to centrally manage multiple AWS accounts including consolidated billing and policy-based restrictions
+• Automated Landing Zone and Control Tower Preventive and Detective guardrails and leveraged Account Factory, integrated with Lambda for new AWS account creation With AWS Service Catalog.
+• Experience with API/Microservices
+• Maintain and support Paas & API gateway infrastructure and associated tools AWS Solutions Architect / Giga Cloud Solutions - Columbia, MD 21046 03/2017- 03/2020
+• Managed AWS infrastructure provisioning using CloudFormation & Terraform
+• Designed and deployed scalable, highly available, fault tolerant and reliable applications in AWS
+• Hands-on experience with AWS CLI including deploying CFTs, managing S3, EC2, IAM on CLI
+• Monitored infrastructure and applications using CloudWatch and Nagios
+• Implemented cost optimization strategies in the AWS infrastructure
+• Architected Amazon RDS with Multi-AZ for automatic failover at the database tier
+• Recommended and implemented DR strategies for Business Continuity and HA
+• Designed EC2 and related architecture to meet HA while incorporating security best practices
+• Provided technical perspective on infrastructure design options and configurations
+• Developed Solution Definition Documents (SDD) and Low-Level Design Documents for public cloud.
+• Recommended and implemented security best practices in AWS including MFA,
+• access key rotation, encryption using KMS, firewalls- security groups and NACLs, S3 bucket policies and ACLs, mitigating DDOS attacks etc.
+• Managed Ansible for configuration management
+• Used AWS system manager documents and run commands to automate operational tasks across AWS resources.
+• Used Jira to plan, track, support and close requests, tickets, and incidents.
+• worked in container-based technologies like Docker and Kubernetes
+• Delegated access across AWS accounts using IAM cross account roles Linux System Administrator/ Washington Tech Solutions - Greenbelt, MD 20770
+09/2015 – 02/2017
+• Configured and updated Linux servers with latest releases and patches.
+• Oversaw Linux system administration and configuration maintenance governing user access, privacy, and data integrity.
+• Performed patch, update, security scanning and configuration to meet OS performance mandates.
+• Configured, and administered multiple production RedHat 5,6,7 servers across multiple platforms.
+• Responsible for Installation, maintenance and regular upgrades of RedHat Linux Servers using kick start-based network installation.
+• Architect a secure infrastructure with a NAT Gateway to allow instances in a private subnet to access the internet for updates.
+• Used AWS Code Deploy for migrating and automating application deployments to Amazon EC2 instances, on-premises instances, serverless Lambda functions, or Amazon ECS services.
+• Managed Disk using LVM, resized disk space when required.
+• Setup NTP server and synchronized clients with NTP server EDUCATION AND TRAINING
+University of Yaounde 12/2006
+Bachelor of Science: Computer and Information Sciences CERTIFICATIONS
+• Certified AWS Solutions Architect - Associate
+• Scrum master certified
+Contact this candidate

@@ -1,0 +1,224 @@
+Kenneth V. Arias
+iOS Mobile App Developer
+(***) 204 – 2495 adxope@r.postjobfree.com
+
+PROFILE SUMMARY
+
+•iOS professional with 8 years of experience in native mobile development.
+•6 apps published to Apple Store.
+•Skilled in iOS development with the latest versions of Swift and Swift UI and upcoming changes in the open-source language, as well as the latest XCode / iOS versions, and beta builds.
+•Skilled in programming in Objective-C and migrating Objective-C to Swift.
+•Applied architectures MVC, MVP, MVVM-C, VIPER.
+•Experienced in reactive programming using frameworks such as Combine and RxSwift.
+•Worked with Git via command line and GUI tools like Tower, GitHub
+•Implement Delegation/Protocols, Observer, Singleton, Block, Closures, KVC, KVO, Factory, Builder and more
+•Knowledgeable of storing data persistently via various routes: CoreData, SQLite, Real, Firebase storage, Documents Directory, NSCoding protocol (archiving and unarchiving), User Defaults, Keychain, also worked with cloud-based storage
+•Comfortable with memory management under ARC, Retain cycles, Identifying leaks using instruments’ leak tool.
+•UI/UX design following Apple H.I.G. with CoreGraphics, CoreAnimation, UIDynamics, UIViewAnimateWithDuration.
+•Comfortable consuming all kinds of webservices, mainly REST and SOAP based. Native experience with URLSession, with 3rd-party experience with RestKit, Alamofire.
+•Works with the iOS creative team and UX designers to develop interfaces according to specification and following best practices, Used tools like Figma/Invision.
+•Good hands-on experience with Frameworks such as iPhone SDK, UIKit, MapKit, Speech, AVFoundation, CoreData, CoreLocation, Social, XCTest, Alamofire, SDWebImage, Kingfisher, QuartzCore, Crashlytics, CoreBluetooth, CoreGraphics, CoreMotion, SwiftUI, Combine, PassKit, StoreKit, AVKit, Realm.
+•Committed to ongoing learning and growth and development
+•Good at processing crash logs/reports, using the debug console, breakpoints, instruments, and similar tools
+•Good with computing problem resolution using best approaches, diagramming, acknowledgment of time complexity gains
+•In-depth knowledge and practical experience implementing OOP principles such as encapsulation, abstraction, inheritance, and polymorphism.
+•Experienced in design and development for frontend UI/UX utilizing Storyboards, XIBs, and programmatic means in conjunction with Size Classes and Auto Layout Constraints.
+•Experienced in protocol-oriented programming (POP) and used concepts like protocol composition, protocol extensions, and protocol inheritance.
+•Used Swift UI concepts like LazyStacks, Grids, Navigation Stack, Async Images, State, Binding, Observed Object, State Object, Geometric reader, view builders, and view modifiers.
+
+TECHNCIAL SKILLS
+Programming
+•Swift, Objective-C, Python, HTML
+•Map, Reduce, Filter
+App interface Design
+•SwiftUI
+•XCode
+•StoryBoard, XIB
+•Interface Builder
+•Programmatic UI
+•Size classes
+•Property, size, constraints inspectors
+•Project, issue, debug, breakpoint navigators, LLDB
+
+Networking
+•REST, SOAP API
+•URL Session
+•DataTask
+•Result type
+•Error type
+•JSON Decoder
+•Codable
+
+Source Control
+•GitHub
+•Bitbucket
+•GIT
+•SVN
+
+Testing
+•XCTests, XCUITests
+•Jenkins, Bitrise, GitHub actions.
+
+Design Patterns
+•Protocols
+•Delegation
+•Singleton
+•Extensions
+•Generics
+•MVC, MVVM, MVP, VIPER, TCA
+•GCD, Operations, Operation Queue
+•Async Await
+
+Frameworks
+•SwiftUI
+•Combine
+•RxSwift
+•Alamofire
+•User Defaults
+•CoreData
+•Firebase
+•CoreLocation
+•MapKit/GoogeMaps
+•CoreBluetooth
+•AVFoundation
+
+PROJECT EXPERIENCE
+BlackBox Equities
+Senior iOS Mobile App Developer
+Roseville, MN 03/2021 - Present
+
+App Name: BlackBoxStocksMobile
+Link: https://apps.apple.com/us/app/blackb HYPERLINK "https://apps.apple.com/us/app/blackboxstocksmobile/id1529902887"o HYPERLINK "https://apps.apple.com/us/app/blackboxstocksmobile/id1529902887"xstoc HYPERLINK "https://apps.apple.com/us/app/blackboxstocksmobile/id1529902887"k HYPERLINK "https://apps.apple.com/us/app/blackboxstocksmobile/id1529902887"smobile/id1529902887
+Synopsis: The BlackBox App scans the NASDAQ, NYSE, CBOE, Dark Pools, and all other options markets analyzing over 8,000 stocks and up to 1.3 million options contracts multiple times per second. Our Options Flow, Stock & Options Alerts, Dark Pool Scanner, News, and more are combined with an Education Program and LIVE Trade Rooms led by Top Traders.
+•Using Swift 5, with minimum target version iOS 11. 0.
+•Working in an Agile Scrum environment with daily scrums and bi-weekly sprints
+•Applied MVVM architecture using the RxSwift reactive SDK, utilizing Observables and subscribers for communication and type erasure for universal conformance.
+•Simplified login flow, Users now only have to accept terms and conditions once, no longer every login.
+•Worked on Charts, Options, Community, News, and Login module.
+•Worked on live chat rooms using web socket programming.
+•Followed Protocol oriented programming and SOLID principles.
+•Utilizing Grand Central Dispatch to facilitate multithreading and manage concurrency issues
+•Using a Git code repository with SourceTree GUI for version control and a Jenkins CI server for continuous integration
+•Worked with push notifications with APNS for alerts of stock
+•Utilizing classes such as UI Views and UI Table Views, UI Collection Views for user interface
+•Wrote a variety of unit tests, restructuring code brings code coverage up to 70+%
+•Utilized the instruments tool suite for app performance and optimizations such as Leaks and Allocations for memory, time profiler tools to find performance bottlenecks, and battery management tool for battery drain
+•Utilizing Jira for user epics and stories, task assignments, and issue tracking.
+•Applying Atlassian Confluence for documenting app development.
+•Upgraded Network layer to use Result Type and created reusable private pod project.
+
+Amazon
+Senior iOS Mobile Developer
+Staten Island, New York 11/2018 – 03/2021
+
+Duration: 08/2019 – 03/2020
+Link: https://apps.apple.com/us/app/amazon-shopping/id297606951
+Amazon Shopping offers app-only benefits to help make shopping on Amazon faster and easier. Browse, view product details, read reviews, and purchase millions of products. Amazon delivers to 100+ countries in as quickly as 3-5 days. Whether you’re buying gifts, reading reviews, tracking orders, scanning products, or just shopping, the Amazon Shopping app offers more benefits than shopping on Amazon via your desktop.
+
+Duration: 11/2018 – 08/2019
+Link: https://apps.apple.com/gb/app/amazon/id335187483
+With this app you can quickly search, get product details, read reviews and purchase millions of products available from Amazon.co.uk, Amazon.com.be and other merchants. It is very comprehensive as well as convenient.
+
+•Worked on the development team with 5 other iOS developers and 4 service developers
+•Updated architecture from MVP to MVVM-C
+•Was Lead Engineer in implementing new screens in SwiftUI for product details pages.
+•Lead Developer for development of the Product details page (PDP) and check out utilizing the Stripe SDK for payments
+•A key contributor to the voice shopping experience, Notifications, and Visual Search.
+•Implemented POC for 360-degree product view to see the product from every angle using ARKit.
+•Applied design patterns such as adapters, factory, singleton, and delegation
+•Migrated code from RxSwift to Combine for network layer and for data binding.
+•Utilized Jenkins CI server for continuous integration integrated with SwiftLint and SonarQube for code analysis, nightly builds, automation
+•Applied Grand Central Dispatch and operation queue to facilitate multithreading and manage concurrency issues, using dispatch barriers to protect against race conditions
+•Used a Git code repository with SourceTree GUI for version control
+•Managed GitHub repository creating branches doing merge, pull request, and releases
+•Customized UIElements, UIActionsheets, UIAlertViews, UITableViews, UICollection Views, and UIScrollViews to build user interface of the application
+•Implemented Dependency Injection for the database helper instance to the action objects through initializer injection
+•Conducted unit testing and scenario testing using Charles Proxy, HockeyApp, and TestFlight
+•Worked in an Agile Scrum environment with daily scrums and bi-weekly sprints
+•Applied Jira for user epics and stories, task assignments, and issue tracking
+•Used Atlassian Confluence for documenting the iOS mobile app development where I documented Code Snippets, reference applications, SDK, and API level changes
+
+Razer
+iOS Mobile App Developer
+Irvine, CA 07/2017 – 11/2018
+
+Link: https://apps.apple.com/us/app/razer-game-deals/id968583813
+
+The Razer Game Deals Mobile app is the fastest, easiest, and best way to keep track of online gaming deals and game prices on the go! Razer Game Deals is now available in app form, so you will never miss the best online gaming deals again! Take charge of your wishlist and ensure you always get your favorite game titles at the lowest possible price, anytime, anywhere.
+
+•Worked on the app with MVP architecture to apply strong separation of responsibility
+•Worked as Senior Developer in implementing Wishlist Feature
+•Had contributed in implementation of PRICE COMPARISON ENGINE
+•Had worked on a Filtering section of the app and worked on making it faster and smother experience
+•Implemented logic to connect to server to download document data using GCD.
+•Designed UI and application flow created using UIKit and Core Graphics
+•Worked with Objective-C and Swift hybrid code bases, practical experience working with bridging header files and minor issues with a dual language code base
+•AVFoundation was used to handle audio playback and video streaming
+•Wrote Unit Tests for code using XCTest library
+•Utilized Core Data to store persistent user information
+•Added custom UI elements to make it easier to service providers to access customer information and location
+•Wrote unit tests to validate logic and ensure resolved issues were not reintroduced.
+•Used GCD for concurrency and used Core Data and SQLite for data persistence
+•Asynchronously fetched server data while maintaining a responsive user experience
+•Used Storyboards and AutoLayout constraints, coded UI programmatically in Xcode to conform to UI diagrams provided by the design team
+•Backend communications parsed with NSJSONSerialization and placed into model objects
+•Utilized BitBucket Git repository for source control and followed GitFlow branching strategy
+•Collaborated with internal and external teams - Product Managers, Engineers, Designers, and Marketers to conceptualize, build, test, and deploy new features
+•Project managed using Agile/SCRUM techniques, code delivered in 3-week sprints
+
+Santander Bank
+Mobile iOS Engineer
+Staten Island, New York 12/2015 – 06/2017
+
+App Name: Santander Mobile Banking
+Link: https://apps.apple.com HYPERLINK "https://apps.apple.com/gb/app/santander-mobile-banking/id482973524"/ HYPERLINK "https://apps.apple.com/gb/app/santander-mobile-banking/id482973524"gb/app/santander-mobile-banking/id482973524
+Synopsis: With this app you can use Touch ID, Face ID or your Security Number to quickly access your accounts, including your mortgage. You can pay your bills, friends, and mobile contacts with ease.
+
+•Worked with a team of 3 developers to overhaul the entire UI/UX of the application
+•Used bridging header files to establish interoperability between Objective-C and Swift on the iOS platform
+•Refactored legacy Objective-C code to Swift
+•Lead Developer for the delivery of accessibility within the My Money Manager section
+•· Main contributor for the delivery of privacy and security on the My Cards Section feature
+•· Lead developer in charge of the development of encryption and data integrity for the Chat with us feature
+•Set up views in the dashboard in Swift to show new wearables that were being designed
+•Applied GET and POST calls to cloud database for receiving up-to-date and tailored voice audio feedback for Virtual Coach
+•Fixed bugs in the display to show the correct feedback for users
+•Implemented Unit Testing of the iOS mobile app, moved the app to production, and helped get App Store approval, then submitted the app to the App Store.
+•· Implemented advanced animation techniques to provide a user-friendly interface.
+•· Developed a responsive user interface that adapted to a wide variety of iOS devices
+•Utilized Instruments, print statements, etc. to trace down and identify memory leaks.
+•Assisted designers come up with views that facilitated optimized data use after learning about constraints from the back end and data science teams and presented them in a meaningful way
+•Utilized Carthage to maintain 3rd-party dependencies
+
+Bloomingdale’s INC
+iOS Mobile App Developer
+New York, NY 01/2015 – 12/2015
+
+Link: https://itunes.apple.com/us/a HYPERLINK "https://itunes.apple.com/us/app/bloomingdales-designer-style/id525536985"p HYPERLINK "https://itunes.apple.com/us/app/bloomingdales-designer-style/id525536985"p/bloomingdales-designer-style/id525536985
+
+•Used Swift to implement the application and worked with Objective-C in a hybrid codebase
+•Used MapKit and CoreLocation/Location Manager to implement functionalities for Store Locator and added custom map display features
+•Designed signup page and added validations for all fields
+•Had worked on implementing the Product share feature on the multiple social platforms
+•Had worked on some feature implementation on My LoyalList Section
+•Implemented custom UITabBarController & UINavigationController for easy navigation within the app
+•Built parts of the data access layer and service access layer and delegated all web communications so that they are performed in background threads to enhance performance and user experience
+•Analyzed and optimized the UI and the backend interface code for efficiency and performance
+•Added animation and custom scene transitions for better user experience
+•Sent push notifications using Apple Push Notification Service (APNS)
+•Contributed to the Implementation of Localization to attract a wider audience of customers
+•Refactored the code base with MVVM architectural pattern and various other design patterns such as Singleton and Delegation
+•Actively led and mentored team leaders and worked with QA to fix bugs and documented them in Jira
+•Attended brainstorming sessions and contributed to iOS app enhancements, features, and fixes
+•Worked both independently and with the iOS development team and cross-functional teams
+
+EDUCATION
+Bachelor of Science – Information Technology
+
+CERTIFICATIONS
+•AWS Certified Solutions Architect
+•Microsoft 365 Certified: Fundamentals
+•Meta Back-End Developer Professional
+•Google IT Support Professional Certified
+•Udacity Nano Degree: Business Analyst
+Contact this candidate

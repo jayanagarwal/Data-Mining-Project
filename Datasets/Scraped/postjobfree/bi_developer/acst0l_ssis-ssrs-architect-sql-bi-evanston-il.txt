@@ -1,0 +1,170 @@
+*** *. ****** *****, ** floor
+Chicago, IL *****
+United States
+Phone: +1-847-***-****
+Fax: +1-509-***-****
+Email: acst0l@r.postjobfree.com
+Skype: vasily2411
+
+RESUME
+Vasyl N.
+Team Lead / DWH (Data Warehouse)/ BI Architect
+MS SQL developer
+Summary
+MS SQL SERVER, T-SQL - 15 years experience (since SQL Server 2000 till SQL Server 2012)
+DATA WAREHOUSING (DWH) - 8 years experience (Microsoft and Oracle databases)
+ETL Development - 8 years experience (SSIS)
+REPORTING (SQL Server Reporting Services, Report Builder 3.0, IBM Cognos) - 10 years total experience
+(SSRS - 10 years, SSAS - 2 years, Oracle BI - 3 years, SAP BusinessObjects - 1 year, Power Pivot - 2 years, Power View - 2 years, Power Map - 1 year, Report Builder 3.0 - 2 years)
+AGILE development - 3 years experience
+SHAREPOINT 2013 - 2 years experience
+Netezza, Informatica, Hadoop.
+Achievements
+Successfully developed data warehouses (5 projects) for domestic and abroad customers
+Successfully developed and put into operation a several reporting systems based on SSRS and SharePoint 2013 for domestic and abroad customers
+Successful management of the development team (database and BI).
+
+Work History
+BI \ MS SQL developer \ DWH architect 11/2013 – 11/2015
+INTERSOG LLChttps://www.linkedin.com/company/284061?trk=prof-0-ovw-curr_pos
+https://www.linkedin.com/company/284061?trk=prof-0-ovw-curr_pos
+DWH & Business Intelligence.
+Microsoft SQL Server 2012, SSRS, SSIS, SSAS, Tabular model, Power Pivot, Power View, Power Map, SharePoint 2013, Report Builder 3.0
+
+Roles and responsibilities:
+understanding requirements
+preparing the design documents (HLD, LLD)
+designing the data model for a DWH and DM's
+preparing the column mapping sheets (source-target)
+preparing the database scripts (including stored procedures, views, functions, triggers)
+building an activities, workflows
+peer review
+database and scripts optimization
+unit testing and troubleshooting
+knowledge transfer
+defect tracking, defect fixing
+facilitate and assist end users
+support of DWH and reporting system
+
+Achievements:
+Several Data Warehouses (different customers) was successfully developed
+SharePoint portal was successfully launched and supported
+Large set of various reports and data models for Power Pivot was developed
+4 OLAP cubes
+
+Key Projects Undertaken:
+
+Project DWH and SharePoint reporting. Duration: 12 months
+Environment: SQL Server 2012, Microsoft Visual Studio, Power BI, SharePoint 2013, SQL Server Management Studio 2012, MS Office 2013, TortoiseGit, Enterprise Architect, Redmine
+Detail:
+The project aimed at creating a historical data storage and dynamic, interactive reporting system for the client which allows the managers to make any decision about balancing the remainder in stock, planning production of vehicle parts, procurement planning.
+
+Project DWH and SSRS reporting. Duration: 16 months
+Environment: SQL Server 2012, SQL Server Integration Services, Microsoft Visual Studio, Power BI, SharePoint 2013, SQL Server Management Studio 2012, MS Office 2013, TortoiseGit, Enterprise Architect, Redmine
+Detail:
+This project helps the client to gather information about cargo shipments, calculation of payment amount and gathering/summarizing payments from customers. An important part of the project was to build optimized data warehouse (data marts) that can quickly handle any amount of data.
+
+Project DWH and SharePoint reporting. Duration: 10 months
+Environment: SQL Server 2012, Microsoft Visual Studio, Power BI, PowerPivot, PowerQuery, PowerMap, SharePoint 2013, SQL Server Management Studio 2012, MS Office 2013, TortoiseGit, Enterprise Architect, Redmine
+Detail:
+The project aimed at creating a data storage from various (three) data sources and reporting system for the top managers of the plant for the production of metal products. There are financial and quantitative reporting on a monthly, quarterly and annual basis. The objectives of the project included: to minimize data update time in the DWH, update the data every hour during the working day, sending reports using data-driven subscriptions and using principal data flow for change data capture.
+
+Projects summary:
+Data models was designed using Enterprise Architect (UML Design Tools) for all projects above. Was provided a full life cycle modeling for DWH's and DM's. Dependencies, relationships between objects, keys and constraints were taken into account in the data models. Physical data models was developed from these design documents.
+A lot of attention was paid to SSIS packages that were supposed to merge data from multiple heterogeneous data sources. It were PostgreSQL databases, SQL databases and flat files. Packages checked the quality of incoming data, providing data cleansing, auditing, changes in dimension members and handle these according to business rules and maintaining historical changes.
+4 Cubes for different clients were developed. Main subject areas: inventory, supply chain management, financial reporting. What been applied: data partitioning, MOLAP storage mode. All OLAP cubes have been used in offline mode and was updated once a day or by request.
+It was developed a lot of T-SQL scripts, user functions, stored procedures, triggers, views (standard, indexed, partitioned). Dimensional modeling was chosen as modeling technique in data warehouses and data marts with complex snowflake model.
+
+DB Team Leader / DWH (Data Warehouse) architect 06/2011 – 11/2013
+VostokFinance Grouphttp://www.linkedin.com/company/2816190?trk=prof-exp-company-name
+http://www.linkedin.com/company/2816190?trk=prof-exp-company-name
+Database Architect
+Database development section leader (MSSQL DB's + BI architecture, development and maintenance of corporate reporting .) Services: SSIS, SSRS, SSAS. QlikView product integration as a data model design and gathering of requirements for reporting.
+Scripts development, data visualization in QlikView.
+Planning and managing resources of database development and BI development team
+Agile approach
+Database Architect
+MS SQL Services (SSIS, SSRS, SSAS), T-SQL
+Data Warehousing
+Relational Database
+ETL Development
+MIS Reporting
+
+Successfully completed corporate DWH project, as well as a number of projects aimed at improving the company's operating activities and new products integration, like decision making or reporting systems.
+
+Responsibilities:
+Team Leader of 10 developers (database and BI)
+Interacting with the internal departments to understand the business goals and finalize its scope.
+Estimation, design and development of various parts of the project.
+Bug fixing and maintenance of the product
+Mentoring all members in the team
+Coordinating with analitycal teams working on the same project
+Co-ordinating with the testing team for fixing bugs.
+Ensuring smooth delivery of the project.
+
+Project OLTP, OLAP and EDW. Duration: 18 months
+Environment: SQL Server 2012, SQL Server Integration Services, SQL Server Reporting Services, SQL Server Analysis Services, SQL Server Management Studio 2012, MS Office 2010, Redmine
+Detail:
+The project aimed at creation of an optimized highly loaded transactional database and historical data storage.
+Implementation of all business processes for the correct operation of call center of 500 people.
+
+More than 15 OLAP cubes were created for dynamical reporting. It was a lot of end-users (about 70) from different departments. Particular attention was paid to creating OLAP cubes for accounting department, analytics and finance department. Basically it was MOLAP storage mode. The main objective was to achieve maximize query performance. For this purposes Proactive Caching (Partitions) was used. As data source for data warehouse cubes were DWH and datamarts and it was incremental data updates of objects in MOLAP storage without taking the partitions and cube.
+
+Online call center processes monitoring, online data replication, data calculation for the next call/case, decision making system based on customer segmentation. DWH holds all the business information an organization, was accessible all across the company and have a single version of truth.
+
+Summary: experience in asset management. Understanding of OLAP vs. OLTP database design principles. OLTP database stores information only for current case which is should be processed in call center. All business rules, complex calculations and historical information are stored in the data warehouse. A lot of attention was focused on the data locks. Meanwhile balance between performance and data quality has been kept. SQL Server Profiler was a primary tool for this purposes.
+
+MS SQL developer – Team leader - Deputy of BI manager 09/2007 - 05/2011
+Home Credit Bankhttp://www.linkedin.com/company/402901?trk=prof-exp-company-name
+http://www.linkedin.com/company/402901?trk=prof-exp-company-name
+Project: Enterprise Data Warehouse and reporting. Duration: 12 months
+Environment: Oracle 10g, Oracle BI, PL/SQL developer, MS Office XP.
+Detail:
+The project aimed at creation of DWH based on Oracle 10g platform, storing all bank information for 7 years, financial and accounting reporting based on Oracle BI.
+The attributes of EDW: single version of truth and entire goal of the warehouse design is to come up with a definitive representation of the organization’s business data as well as multiple subject areas for ability to classify data according to subject and give access according to those divisions (sales, finance, accounting, back-office managers).
+Oracle BI Interactive Dashboards: Personalized, highly intuitive, guided and fully interactive access to cockpits of live analyses
+Oracle BI Answers: Self-service ad hoc capabilities allowing end users to easily create charts, pivot tables, reports, and visually appealing dashboards, all of which are fully interactive and drillable
+Oracle BI Publisher: High-fidelity reports that are created and published via common personal productivity applications delivered directly or through Interactive Dashboards to end users.
+
+Development and support reporting environment (financial, statistical, management). Microsoft Reporting Services and Oracle BI products.
+It was database migration from MS SQL 2005 to Oracle 10g. SSIS, t-sql and pl/sql scripting were used for that purposes.
+User roles were provided with the different access levels to data in according to their positions and duties.
+
+Project: Motivation (bonus) system. Duration: 8 months
+Environment: SQL Server 2005-2008, SQL Server Integration Services, SQL Server Reporting Services, SQL Server Management Studio 2005-2008, MS Office XP.
+Detail:
+Motivation (bonus) system for all sellers and external dealers. The project is based on the idea of awarding front-office employees based on their productivity. Cooperation and coordination with all branch managers and accounting department for development of an optimal strategy of calculating bonuses. Auto calculation and sending statements to authorized employee, protection of important data.
+Summary: experience in investment banking.
+Responsibilities:
+Database Architect
+Database development section leader (MSSQL & Oracle DB's + BI architecture, development and maintenance of corporate reporting .) Services: SSIS, SSRS, SSAS, BI Publisher, BI Answers
+Planning and control resource utilization of database development team
+Involvement in projects (Agile approach)
+
+Training courses:
+1) Effective project management
+2) Effective conflict resolution
+3) Time management
+4) NFA Oracle 11g
+5) Oracle day
+
+Network/ database administrator
+02.2001 - 08.2007
+Subsidiary of Askaniya Distribution Dnepr. Dnepropetrovsk (Wholesale Trade / Import- Export )
+
+Design, maintenance of the network. Customers (Windows XP SP2), 5 servers (Win 2000 Server SP4) ( domain controller, mail server, database server, Citrix server, video server)
+Support, database administration (Microsoft SQL Server),
+SQL Query Analyser, SQL Interprise Manager.
+IT infrastructure organization, T-SQL programming.
+Installation and maintenance of the PBX .
+Software updates, IT equipment procurement, office equipment maintenance.
+Accompanying inventory control software. .
+Cisco Pix Firewall.
+VPN channel. Configuring Citrix server.
+
+Education
+Master Degree “Computer Systems and Networks”
+2001 Dnipropetrovsk State National University
+Languages:
+English – fluent, Russian, Ukranian – fluent/native
+Contact this candidate

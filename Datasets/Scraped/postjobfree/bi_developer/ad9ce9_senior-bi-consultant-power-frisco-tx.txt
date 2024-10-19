@@ -1,0 +1,172 @@
+KANNAN
+Senior BI Consultant/Power BI Developer
+
+Professional Summary:
+
+Seasoned BI Consultant with around 10 years of expertise in architecting, developing, and leading BI solutions using Power BI & Power Automate, driving data-driven decision-making and process automation.
+Proven expertise in designing, implementing and optimizing comprehensive BI solutions using Power BI, with a strong focus on extracting and integrating data from diverse sources such as SAP HANA, SAP BW, Azure SQL Database, Snowflake, SQL Server, Oracle, S4Hana, Cloud services (Azure, GCP and AWS), Excel, NoSQL, MongoDB and MySQL.
+Demonstrates extensive knowledge in SQL, highly skilled in data warehousing solutions such as Native HANA, SAP BW on HANA, Snowflake, and BigQuery.
+Hands-on experience with different domains like Oil & Petroleum, Medicare, Medicaid, Finance, Health Care, Pharma, US Banking Services, Insurance.
+Extensive experience with ETL tools such as BODS, Azure Data Factory, SSIS, and Informatica. Strong proficiency in Tableau, SAP BusinessObjects (SAP BO), and Analysis for Office (AFO).
+Developed and maintained complex data models, ETL processes and transformations using Power Query and DAX, combining data from multiple sources for enriched reporting in Power BI.
+Developed different Visualization in the reports using custom visuals like Bar Charts, Heat Maps, Geocoding, Symbol Maps, Gantts, Scatter Plots, Bullet Graphs, Slicers etc. in Power BI Desktop and Tableau.
+Excellent Knowledge of Power Automate (Flow) for setting up Real time refresh for a Dataset in Power BI, automatic refresh schedules, creating and exporting Paginated reports to Excel or CSV formats in Power BI Premium and sending email broadcasts to specific users and configuring email alerts for report failures.
+Explored Analysis Formulae Function in SAP AFO and crafted custom reports using SAPGETDATA and other formulas via Formula Optimized Data Source to meet user requirements.
+Experienced in "Big data" work on Cloud databases like Snowflake, Azure, AWS, SQL and NoSQL platforms.
+Experienced in SQL with expertise in creating complex Stored Procedures, Views, Tables, Indexes, Functions, Triggers, Sequences and other database objects, optimizing performance, ensuring data integrity, and automating processes to enhance database efficiency and functionality.
+Worked through all phases of Software Development Life cycle (SDLC). Good experience in implementing Agile/Scrum software development methodologies.
+Assist end users with problems installing the Power BI desktop, configuring the Personal and On-Premises gateway, connecting to data sources, and adding the different users. Guided users on usage of Power BI reports maintaining detailed explanation of functionality & various other features present in report.
+Experienced in database development and release management concepts, practices, and procedures along with performance tuning database code in OLTP and OLAP environments.
+
+Education Qualification:
+Bachelor’s degree in Information Technology from Vel Tech Multi Tech Engineering College, India (2015).
+
+Technical Skills
+
+BI Tools:
+Power BI, Tableau, Analysis for Office (AFO), SAP Business Object (Sap BO), Spotfire
+ETL Tools:
+SAP BODS, Azure Data Factory, SSIS, Informatica, SLT
+Databases:
+SAP HANA, SAP BW, Azure SQL Database, S4Hana, Snowflake, SQL Server, MySQL, BigQuery, Oracle, Sharepoint, ServiceNow, Excel, NoSQL, MongoDB, MS Access
+Data Warehousing:
+Native Hana, SAP BW on Hana, Snowflake, BigQuery, Azure Synapse Analytics
+Programming:
+SQL, DAX, M code(Power Query), Python
+Cloud Platforms:
+Azure, AWS, GCP
+Other Tools:
+Microsoft Power Automate, Microsoft Office, Power Platform, Azure DevOps Server, SharePoint, MS Excel, Jira, Snow, Confluence
+
+Professional Experience:
+
+Client: British Petroleum, US Feb 2024 – Present
+Role: Lead Consultant/Power BI Developer
+Responsibilities:
+●Leading a team of skilled professionals in delivering Power BI projects, ensuring on-time and within-budget completion while maintaining quality standards.
+●Collaborated with business analysts and stakeholders to understand business requirements and translated them into technical specifications. Designed and documented TDD-Technical Design Document.
+●Established seamless data integration between Power BI and SAP Native HANA, enabling real-time data retrieval and reporting. Evaluated Spot Fire reports built on top of SAP Hana Calculation views and migrated them to Power BI by modifying and optimizing the calculation views as per the requirements.
+●Developed complex data models and transformations using Power Query (M-Code) and DAX, leveraging SAP Native HANA views and Tables. Used both Import method & Direct Query based on report necessity.
+●Created Calculated column on fly writing SQL statement in Advanced options to eliminate duplicate rows. Written and evaluated Stored Procedures and SQL scripts for DDL, DML operations in Hana Studio.
+●Written complex logic in DAX to dynamically changing values in Graph/table based on the user selection using HASONEVALUE, SWITCH, USERELATIONSHIP functions etc.
+●Rebuild Spotfire visualizations in Power BI, ensuring they match the look and functionality of the originals as closely as possible. Implemented DAX formulas to replicate Spotfire's calculated fields & custom expressions.
+●Implemented Power BI integration with Power Apps, Power Automate. Created Power Automate flow for real time refresh of report when ever user clicks button in report giving run access to specific users.
+●Optimized Power BI reports for performance by leveraging SAP HANA’s in-memory computing and efficient query processing. Optimized and code tuned in BODS jobs and SAP HANA to enhance ETL performance. This can involve indexing, partitioning, and parallel processing in SAP HANA, as well as tuning BODS data flows.
+●Created a highly formatted and print-ready reports with the help of Paginated reports.
+●Developed and update data models as per business requirements. Expertise in workspace administration
+●Administered Power BI Service and Power BI Report Server, ensuring smooth operation and adherence to best practices as a Power BI Admin.
+●Administration of Premium workspaces and allocating pool spaces as per the capacity.
+●Maintained different levels of Data Security in Power BI while granting access to data and assigning Row Level Security (RLS), Object-Level Security, Column-Level Security when needed.
+
+Environment & Tools: Power BI Desktop, Power BI Services, Power BI Report Builder, Tabular Editor, Power Automate, Power Query, Spotfire, SAP BW, Native Hana, MS Office Suite, SQL, SQL Server, Flat file, BODS, DAX.
+
+Client: Southern California Edison, US Sep 2023 – Jan 2024
+Role: Senior Consultant/Power BI Developer
+Responsibilities:
+Lead a BI team and coordinated with Onsite and Offshore teams to gather requirements, translating them into effective BI solutions using Power BI and Power Automate.
+Proficiency in carrying out administrator activities such as creating and managing groups, assigning user permissions and monitoring usage metrics for dashboards.
+Highly skilled in integrating Snowflake with AWS platform by leveraging AWS services like S3 for data storage enabling scalable, cloud-based data warehousing and analytics.
+Configured data pipelines to connect Power BI with Snowflake, Excel and other databases, ensuring efficient data extraction and transformation for comprehensive analysis.
+Designed and developed Power BI graphical and visualization solutions with business requirement documents and plans for creating interactive dashboards. Set up Microsoft Flow (Power Automate) to provide Real-Time refresh and auto update status of refresh for Real-time reports.
+Experienced in dbt (Data Build Tools) on data analysis and transformation, ETL process to snowflake.
+Created a complex dashboard incorporating data from Snowflake using parameters, sets, groups and calculations and drill down and drill up in worksheets and customization using filters and actions.
+Highly skilled in performance tuning and improved the overall performance with the help of aggregated tables with the help of DAX measures and Group By function in SQL.
+Highly skilled in Python for running queries like executing SQL queries, inserting data into snowflake, Loading data into Snowflake and exporting from snowflake to CSV, handling data in Snowflake etc.
+Monitored and maintained data refresh schedules and integration points between Power BI and Snowflake, addressing performance and accuracy issues promptly.
+Created Paginated reports using Power BI Report Builder for both on-premises and cloud data sources.
+Migrated Reports from the Dev environment to Production by using Deployment Pipelines.
+
+Environment & Tools: Power BI Desktop, Power BI Services, Power BI Report Builder, Power Automate, MS Office Suite, ServiceNow, AWS, Snowflake, SQL Server, SQL, MS Excel, Python, dbt, Power Query, Tabular Editor and DAX.
+
+Client : IBM/HealthEC, US Nov 2021 – Aug 2023
+Role : Senior Consultant/Power BI Developer
+Responsibilities:
+●Lead team and migrated reports to Power BI based on requirement by designing complete migration plan.
+●Integrated Power BI with Azure Data sources, including Azure SQL Database, Azure Data Lake, Azure Data Bricks and Azure Synapse Analytics, to enable real-time data access and reporting.
+●Conducted meetings with business stakeholders, clients, and director level members for requirement.
+●Utilized Power BI’s native connectors and Azure Data Factory pipelines to establish efficient data flows from various Azure services into Power BI. Designed and implemented ETL processes with Azure Data Factory to clean, aggregate, and transform data before importing it into Power BI for analysis.
+●Created and maintained data sources, data connections, and datasets using SQL Server and Azure SQL.
+●Created Power BI Reports for the KPIs like Sales, Stock, Waste, Profit, Margin etc utilizing DAX, Power Query, and M language to transform and manipulate data.
+●Used and created various visualizations in reports like Stacked Column chart, bar graphs, trend lines, heat maps, geo-maps, etc. allowing end users to utilize full functionality of the dashboard.
+●Carry out various Power BI service administrator activities such as configuring governance policies, creating and managing security groups, monitoring usage metrics for dashboards/reports, auditing Power BI logs.
+●Imported data using Azure Data Link (ADL) to SQL Server in Power BI Desktop to generate reports.
+●Strong experience in developing Web Services like SOAP, REST, Restful with Python programming language.
+●Worked on various types of DAX functions like Date and time functions, Time-intelligence functions like DATESYTD, DATEADD, DATESINPERIOD, Filter functions, Logical functions, Math and text functions.
+●Configured Capacity settings to assign users as Capacity Admins per capacity during initial setup of the capacity and later via User Permissions within the Premium settings. Experience in configuring security, Organizational Content Packs, data Gateways, refresh schedules for Power BI service
+●Optimized Power BI reports by leveraging Azure’s scalable cloud services, including Azure Data Bricks and Azure Synapse Analytics, to ensure high performance and quick data retrieval.
+●Trained end-users on how to use the reports and dashboards and provided technical support as needed.
+●Maintained documentation of technical specifications, data models, and data dictionary for future reference.
+●Experience building Power Automate (Flows), supporting multiple users on Power BI and Power Apps.
+
+Environment & Tools: Microsoft Power BI Desktop, Power BI Services, Tabular Editor, SQL Server, Azure, Power Automate, SQL Azure, Python, Azure storage, Azure Databricks, Azure Synapse and Azure Data Factory
+
+Client : IBM/United Health Group, US Oct 2019 – Oct 2021
+Role : Senior Consultant/Power BI Developer
+Responsibilities:
+●Designed, developed, and deployed business intelligence presentation layer solutions in the provider healthcare market focused on analytics and reporting components such as dashboards, scorecards, reports, and other Visualizations with Microsoft Power BI and Power Automate solutions.
+●Developed complex data models integrating Power BI with MySQL database and Snowflake using ODBC and native connectors, enabling seamless data extraction and real-time reporting.
+●Conducted meetings with business stakeholders, clients and director level members for requirement gatherings and presented insights and findings from Power BI reports to stakeholders, providing actionable recommendations based on MySQL data. Generated reports in BI programs for technology architecture.
+●Created Power BI reports for HR Metrics Open Positions, Retention, Separations, Actual Headcounts, etc.
+●Applied Power Query transformations to clean, aggregate, and prepare MySQL and Snowflake data for effective analysis and visualization in Power BI.
+●Knowledgeable in implementing robust data security measures in Power BI, including Row-Level Security (RLS) and object-level security, to ensure data privacy and compliance.
+●Created interactive dashboards and reports by utilizing Power Query, M-Code and DAX functions like Time Intelligence, String manipulation, Iterators, etc
+●Proficient in running complex SQL scripts in MySQL and Snowflake for analysis, performance tuning etc.
+●Created Power Automate Flow solution to setup cloud automated solution to minimize the manual efforts.
+●As a part of Power BI Administration, configured Usage metrics, Users, Audit logs, Tenant settings, Dashboard settings, Power BI Apps settings, Power BI premium and Premium Capacity settings.
+●Generated invoices, detailed financial statements, operational reports or any report that needs to be formatted across multiple pages with the help of Paginated Reports.
+●Highly knowledgeable in integrating Medicare databases with MySQL and Snowflake database for seamless data flow with the help of Informatica.
+●Experienced in Agile Methodologies, Scrum stories, and sprint planning experience in a Python-based environment, along with data analytics and Excel data extracts.
+
+Environment & Tools: Power BI Desktop, Power BI Services, Power Automate, MySQL, Snowflake, Power Query, MS Office, SQL, Python, Tabular Editor, Informatica and DAX.
+
+Client : IBM/Johnson & Johnson, US Nov 2018 – Sep 2019
+Role : Consultant/Power BI Developer
+Responsibilities:
+●As Dashboard Developer the Primary activities included designing technology roadmap for Power BI product installation and implementation development of insightful dashboards serving as SME point of contact for Power BI and delivery of solutions adhering to BI industry best practices.
+●Architecting solutions in Power BI by loading data from Azure SQL Database, SQL Server, etc. (Composite/multi-dimensional models).
+●Coordinating with Client SMEs to innovate ideas in reporting models. Involved in all phases of SDLC which includes gathering, analyzing business requirements, functional/technical specifications, designing, developing, testing, deploying the applications and providing production support.
+●Highly knowledgeable in SSIS integration of SQL server and Azure SQL database by leveraging the Azure-SSIS Integration Runtime for seamless ETL process, allowing data migration, transformation, and loading, ensuring secure, scalable, and efficient data management across hybrid cloud environments.
+●Utilized the full functionalities of Power Query (M-Code) for transformation and cleaning and used advanced DAX formulas for creating measures, columns for the creation of complex dashboards in Power BI.
+●Experience in data extraction, transformation, loading of data from multiple data sources into target databases using Azure Databricks, Azure SQL, Azure SQl Database etc.
+●Highly skilled in SQL and Python programming for analysis, performance tuning and manipulation of data
+●Strong experience in performance tuning of Power BI by pushing the complex calculations in source level, usage of Filters & Slicers, etc. Participated in code reviews and prepared ETL designs.
+●Designed Dashboards to see overall usage metrics of reports across different platforms.
+●Implemented security via Row-Level Security (RLS) and object-level security to ensure data privacy & compliance with the help of Tabular editor.
+●Designed finance dashboards and displayed metrics like Orders booked, Net Sales, Cost and Margin etc.
+●Developed Reports using Power BI desktop and hosted in Power BI Report Server with Schedule Refresh.
+●Generated ad-hoc reports in Excel Power Pivot and shared them using Power BI to the decision makers for strategic planning. Architecting automation solutions using Power Automate.
+●Prepared technical documentation of existing and new reports.
+
+Environment & Tools: Power BI Desktop, Power BI Server, Azure SQL Database, Databricks, SSIS, MS Office Suite, SQL Server, PL/SQL, MS Excel, Tabular editor and DAX.
+
+Client : IBM/Neste Oil, Finland Jul 2017 – Oct 2018
+Role : Consultant/Power BI Developer
+Responsibilities:
+●Responsible for interaction with business stakeholders, gathering requirements and managing the delivery.
+●Generated dashboards in Power BI Desktop and Power BI Service using latest data visualization features.
+●Strong experience in Native Hana modeling in creation of Virtual tables, column tables, Table Functions, Stored Procedures and Calculation views and replicated data into SAP HANA using SLT, Virtual access using SDA of ECC, SAP and non-SAP source systems. Skilled in SQL scripts on ETL and data manipulation.
+●Highly skilled in BW on Hana modeling like enhancing Data sources, created DASO’s, Process Chains, Info Objects and created BW queries on top of Composite providers by doing appropriate Join/Union on Calculation View’s & ADSO’s and built Power BI dashboards for valuable insights.
+●Created Paginated reports using Power BI report builder. Refreshed the Power BI reports and sending mails along with updated reports results with the help of Power Automate.
+●Implemented data security and access controls using Row-Level Security (RLS) and other security measures.
+●Created, explored and successfully handled complex workbooks in AFO projects, delivering them within the stipulated time frame. Explored Analysis Formulae Function in AFO and crafted custom reports using SAPGETDATA and Other formulas via Formula Optimized Data Source to meet user requirements.
+●Creating calculations including string manipulation, arithmetic calculations, custom Aggregations and Ratios with the help of DAX formulas. Created Rich dashboards using Power BI and prepared user stories to create compelling dashboards to deliver actionable insights.
+●Scheduled data refresh on Power BI Services for weekly and monthly increments based on business change to ensure that the views and dashboards were displaying the changed data accurately.
+
+Environment & Tools: Power BI Desktop, Power BI Services, Power Automate, Report Builder, AFO, Native Hana, BW on Hana, ECC, SLT, SDA, SAP BO, Power Query, MS Office Suite, SQL, MS Excel, DAX
+
+Client : Goldstone Infosystems/Shell Oil, US May 2015 – Jun 2017
+Role : Consultant/Power BI Developer
+Responsibilities:
+Conducted impactful client demonstrations, showcasing the capabilities of Power BI & Power Automate to gather requirements and foster client engagement.
+Created SQL queries, stored procedures, Calculation Views, tables & Table Functions in Native Hana.
+Highly skilled in creation of reports and dashboards in Power BI on BW queries and experienced in BW on Hana data modeling like creating and enhancing DS’s, info objects, ADSO’s Composite providers and BW Queries, etc. Validated the results in Power BI by running SQL queries in Native Hana.
+Developed Microsoft Power BI Dashboards to showcase the result of data analysis for MM, SD, FI Modules.
+Implemented and optimized report performance, including tuning SQL queries and optimizing report rendering times for large datasets. Possess strong knowledge of database management in writing complex SQL queries, Joins, query optimization and resolving key performance issues.
+Developed and maintained a suite of paginated reports for various business units, ensuring accurate and timely delivery of critical performance metrics
+Created SAP AFO and SAP BO reports on Bex queries as per the requirements and FSD.
+Extensive knowledge in different reporting objects like Facts, Attributes, Hierarchies, Calculated fields, transformations, filters, Sets, Groups, prompts, Parameters etc. in Power BI.
+Created custom Function's, Date range, Time functions, array functions, and Conditional formatting functions in the reports with the help of DAX functions in Power BI.
+Given walk trough of each report to users on usage and functionality. Investigated and clarified any issues faced by user taking on priority.
+
+Environment & Tools: Power BI Desktop, Power BI Services, Power Automate, Report Builder, AFO, Native Hana, BW on Hana, ECC, SLT, SDA, SAP BO, MS Office Suite, Power Query, SQL, MS Excel, DAX.
+Contact this candidate

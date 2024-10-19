@@ -1,0 +1,127 @@
+SRIKANTH SOMA
+405-***-****
+adwrgx@r.postjobfree.com
+
+SUMMARY
+Highly skilled Cloud DevOps Engineer with 7 years of experience designing and implementing scalable, secure, and cost-optimized cloud infrastructures for large-scale web applications. Strong background in cloud technologies, automation, and containerization, with expertise in Terraform, Serverless, Microservices, Kubernetes, High Availability, Scalability, Multi-cloud Deployments, Cloud Cost Optimization, Cloud Security Analysis, Cloud Architectures, Disaster Recovery and Python. Proven ability to improve system uptime, implement continuous integration and delivery, and reduce costs through automation. Experience with monitoring tools like New Relic, SignalFx, CloudWatch, DataDog and GCP native monitoring service.
+
+SKILLS
+Cloud Computing: AWS, Azure, Google Cloud
+Containerization: Kubernetes, Docker
+Automation: Terraform, Ansible, Chef, Puppet
+CI/CD: Jenkins, Git, GitHub Actions
+Monitoring and Logging: New Relic, SignalFx, CloudWatch, DataDog, ELK stack, Nagios, syslog-ng, GCP native monitoring service
+Microservices: Kubernetes, Istio, Envoy
+Serverless: AWS Lambda, Azure Functions, Google Cloud Functions
+Cloud Cost Optimization: AWS Cost Explorer, Azure Cost Management, Google Cloud Cost Management
+Cloud Security Analysis: AWS Security Hub, Azure Security Center, Google Cloud Security Command Center
+Cloud Architectures: High Availability, Scalability, Multi-cloud Deployments, Disaster Recovery
+Programming Languages: Python
+EXPERIENCE
+BANK OF AMERICA
+Sr. Azure Cloud DevOps Engineer 11/2022 to Current
+Extensive experience in implementing Infrastructure as Code using Terraform to provision, manage, maintain azure cloud infrastructure.
+Proficient in writing and maintaining terraform modules to automate and standardize the deployment of azure resources such as virtual machines, storage accounts, networking components.
+Successfully designed and implemented a multi-environment azure infrastructure using terraform workspaces for better resource separation and environment management.
+Skilled in integrating terraform with CI/CD pipelines using tools like Jenkins, Gitlab, CI/CD and Azure DevOps, enabling seamless infrastructure deployment and management.
+Collaborated with cross-functional teams to establish cloud governance policies and implement best practices for azure resource management using Terraform.
+Experience in monitoring and optimize Azure infrastructure performance and cost leveraging Azure monitor, Azure Advisor, and other third-party tools.
+Developed and maintained security automation scripts and tools to streamline security testing and vulnerability remediation.
+Demonstrated ability to troubleshoot and resolve infrastructure issues related to terraform and azure by leveraging logs, diagnostic tools, and support resources.
+Conducted security audits and compliance assessments to ensure adherence to regulatory and industry security standards (e.g., PCI-DSS, HIPAA, ISO 27001).
+Proficient in conducting various security testing methodologies such as penetration testing, vulnerability assessments, and security code reviews to identify security risks and vulnerabilities in applications and infrastructure.
+Maintained up-to-date knowledge of security threats, vulnerabilities, and industry best practices, and recommended appropriate security controls and countermeasures.
+Designed and implemented security best practices for Azure and Terraform including secure storage.
+Experience in designing and implementing applications following the 12-factor methodology including the use of code base management, dependency declaration and configuration management best practices.
+
+WAYFAIR
+Sr. GCP Cloud DevOps Engineer
+04/2021 to 10/2022
+Designed and implemented high availability, fault tolerant Threatx web application firewall (WAF)architecture on GCP Virtual Machines using terraform modules.
+Conducted GCP Cloud Security analysis using GCP network intelligence center and implemented security best practices using Terraform modules.
+Wrote terraform modules to deploy shared VPC, subnets, firewall rules to host multiple projects for efficient network management and security.
+Experience in implementing security best practices on GCP such as identity and access management (IAM), Cloud Security Command Center.
+Experience in monitoring and troubleshooting network-related issues within Shared VPC environments using GCP tools like VPC Flow Logs, Network Intelligence Center, and Stack driver Logging, alongside Terraform.
+Skilled in managing Kubernetes clusters on GCP using Google Kubernetes Engine (GKE) for container orchestration and workload distribution, while leveraging Terraform for infrastructure provisioning.
+Designed and implemented end-to-end architecture for a customer facing application on GCP.
+Created CI/CD pipeline for automated infrastructure deployment and application deployment.
+Proficient in configuring and maintaining Akamai’s Bot Manager and Edge DNS solutions and ability to integrate them with web applications to provide advanced security and performance capabilities.
+Designed and implemented Cost Optimization solutions and Security Analysis on GCP in an automated fashion.
+Evaluated different technological solutions by performing POC on GCP and implemented right choice of service based on outcome of the POC and which aligns with organization goals.
+Implemented blue-green deployments on cloud for a customer facing application on GCP.
+Maintained knowledge of emerging cybersecurity threats and best practices, ensuring the organization’s Crowd strike Deployment remained effective and up to date on GCP.
+Expertise in configuring and managing Cloud Armor to protect web applications and API’s from various attacks such as DDoS, SQL injection and cross-site scripting(XSS).
+
+7-ELEVEN
+Sr. AWS Cloud DevOps Engineer 03/2019 to 04/2021
+Wrote terraform modules for Infrastructure as code for various AWS Services such as EC2, Lambda, VPC's, S3, Elastic Beanstalk, API Gateway, Route53, AWS Config, SNS, SQS, Elastic Search, Kinesis, ELB, ALB, Security Groups, DynamoDB, ECS, EKS, WAF, IoT, Athena, EMR, Glue, CloudFront, Macie and so many other services.
+Designed and implemented blue-green deployments for customer facing serverless architectures for high availability and disaster recovery.
+Expertise in creating and managing AWS WAF rules to protect customer facing APIs at the API Gateway.
+Integrated AWS WAF with other AWS services such as Amazon CloudFront, Elastic Load Balancing, AWS Lambda to provide advance security and performance capabilities.
+Designed and implemented secure AWS architectures and infrastructure that aligned with the NIST Cybersecurity Framework and industry best practices.
+Wrote serverless framework for micro service deployments.
+Wrote Azure DevOps pipelines for AWS Infrastructure and serverless application deployments.
+Expertise in configuring Jenkins plugins and tools like Junit and SonarQube for code quality analysis, test coverage reports and performance metrics tracking during CI/CD process.
+Implemented best practices for SonarQube configuration including customizing rules and quality gates and managing exclusions and false positives.
+Wrote Jenkins pipeline as code concepts and the use of groovy based DSL scripts to create and manage complex multiple branch pipelines for Java projects.
+Expertise in using CyberArk’s Conjur to protect and manage secrets, keys and tokens for applications running on AWS leveraging native integrations with AWS services like EC2, Lambda and ECS.
+Skilled in deploying application artifacts on Azure and AWS services.
+Experience in integrating Jenkins with various source code management tools like Git as well as build tools such as Maven, Gradle to support end-to-end CI/CD workflows.
+Wrote Apigee proxy rules for AWS multi region failover.
+Wrote serverless functions to enforce AWS best security practices.
+Worked with several application and infrastructure monitoring tools such as new relic, Event bridge, SignalFx.
+Took responsibility to be protect PCI and PII data on AWS
+Designed and implemented high availability and scalability Amazon RDS in a multi-region using terraform.
+Implemented best practices for Amazon RDS for faster performance and efficiency.
+Developed Python scripts for automation and monitoring.
+Successfully implemented Amazon Macie to discover, classify and protect sensitive data across the organization’s AWS S3 Storage, significantly reducing the risk of data breaches and non-compliance.
+Integrated Amazon Macie with existing security information and event management (SIEM) systems, enabling automated incident response and enhancing the organization’s overall security posture.
+Managed and optimized the Amazon Macie deployment to minimize costs while maintaining comprehensive data protection coverage achieving 20% reduction in monthly expenses.
+Experience in configuring and managing ApigeeX to provide advanced security and performance capabilities including OAuth2.0 authentication, rate limiting and caching.
+Expertise in integrating ApigeeX with other systems and services such as API gateways and wrote apigee rules to redirect traffic across multiple cloud providers.
+
+NIKE
+Sr. AWS Cloud Platform Engineer 10/2017 to 03/2019
+Created self-healing architecture using terraform and cloud formation and deployed using Jenkins on AWS in a continuous integration and delivery fashion (CI/CD).
+Wrote systems manager (SSM) documents for apply security patch baselines across our production AWS Environment.
+Wrote CloudFormation scripts to create custom VPC's.
+Deployed 3-Tier application architecture which is highly scalable and fault tolerant using Terraform and Ansible.
+Experience in creating, modifying and managing JSON templates for infrastructure as code solutions, streamlining the provisioning and configuration of cloud resources for DevOps workflows.
+Wrote lambda function to delete unused resources and underutilized resources for cost optimization.
+Integrated different tools to Apache-Airflow for various use-cases like S3, Athena, Snowflake, Box, Insights, Tableau.
+Conducted security assessments of AWS environments using the NIST Cybersecurity Framework and tools such as AWS Inspector and third-party tools.
+Implemented security controls and procedures based on the NIST Cybersecurity Framework to protect AWS environments against cyber threats and attacks.
+Automated the process of orchestrating the applications like Apache-airflow, Hadoop, Airflow, Jupiter Hub and Databricks.
+Configuring and managing sysdig to provide comprehensive container security and monitoring, including container scanning, network security and runtime protection.
+
+Lexis Nexis
+Sr. AWS Cloud Engineer 03/2017 to 08/2017
+Wrote event driven rules for security analysis using python boto3 leveraging AWS Config, AWS Security Hub and AWS Inspector
+Experience in implementing Netskope’s Data Loss Prevention (DLP) and Digital Guardian solutions to protect sensitive information stored within AWS services such as S3, RDS and DynamoDB while ensuring compliance requirements with industry regulations.
+Wrote cloud custodian rules to identify and remediate non-compliant resources.
+Wrote Python boto3 scripts to identify unused and underutilized resources for cost optimization.
+Worked with container services such as ECS, Docker, EKS
+Configured and maintained AWS security services, such as AWS Identity and Access Management (IAM), AWS Config, AWS CloudTrail, and AWS Security Hub, to align with the NIST Cybersecurity Framework.
+Wrote server side to handle http post requests using python flask application.
+Created continuous delivery workflow using docker and ansible configuration management to accelerate application delivery and build scalable architecture platforms.
+Created and managed Jupiter Hub notebook on EMR clusters using cloud formation.
+Created CI/CD pipelines using Circle CI for application deployments.
+Implemented security best practices within Ansible playbooks for AWS ensuring secure configurations and compliance with organizational and regulatory standards.
+Wrote custom docker files to containerize applications and deployed on AWS.
+
+JOHN DEERE
+AWS Cloud Engineer 03/2016 to 02/2017
+Our team wrote custom AWS pipeline library using python which builds and deploys infrastructure on AWS. This custom library is integrated with our application code.
+Automated installation and configuration of Nagios on AWS for monitoring.
+Wrote Infrastructure as code using terraform to install and configure SonarQube for code coverage.
+Built a highly available and fault tolerance architecture on AWS using terraform.
+Installed and configured JFrog Artifactory using docker to store our application dependencies.
+Migrating physical servers to AWS.
+
+EDUCATION AND TRAINING
+MASTER OF SCIENCE: COMPUTER SCIENCE 2015
+Oklahoma Christian University, Edmond, OK
+
+BACHELOR OF SCIENCE: COMPUTER SCIENCE 2012
+Jawaharlal Nehru Technological University, India
+Contact this candidate

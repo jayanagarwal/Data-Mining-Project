@@ -1,0 +1,127 @@
+Sai Revanth
+Senior DevOps Engineer
+E-mail: ad8xuf@r.postjobfree.com
+Contact: +1-573-***-****
+LinkedIn: https://www.linkedin.com/in/revanthsriram/ Professional Summary
+Senior DevOps Engineer, DevSecOps, and Site Reliability Engineer (SRE) with over 11 years of experience working across multiple domains and expertise in building, automating, and optimizing infrastructure, CI/CD pipelines, security frameworks, and monitoring solutions. Proficient in handling cloud platforms like AWS, Azure, and Google Cloud (GCP) and implementing cutting-edge tools for Infrastructure such as Code (IaC), automation, container orchestration, and observability.
+● Led the design and implementation of scalable, highly available infrastructure on AWS, Azure, and GCP, ensuring optimal resource utilization, redundancy, and fault tolerance.
+● Expertise in Infrastructure as Code (IaC) using tools like Terraform, Pulumi, AWS CloudFormation, and Azure Resource Manager (ARM) for automated, reproducible deployments across environments.
+● Proficient in managing hybrid and multi-cloud infrastructures, enabling seamless integration of on-premises systems with public cloud environments.
+● Extensive experience with container orchestration platforms, including Kubernetes, AWS EKS, Azure Kubernetes Service (AKS), and Google Kubernetes Engine (GKE), optimizing containerized workloads for scalability and reliability.
+● Developed and managed robust CI/CD pipelines using Jenkins, GitLab CI, Azure DevOps, and CircleCI, automating build, test, and deployment processes for seamless software delivery.
+● Integrated security checks into CI/CD pipelines using tools like SonarQube, OWASP ZAP, and Checkmarx, ensuring secure code delivery and vulnerability detection during the software development lifecycle.
+● Proficient in GitOps workflows using ArgoCD and Flux for declarative infrastructure management, ensuring automated, version-controlled deployment processes.
+● Designed and implemented security frameworks across cloud environments using tools like AWS IAM, Azure AD, HashiCorp Vault, and Prisma Cloud, ensuring secure access control, secrets management, and compliance monitoring.
+● Expertise in vulnerability scanning, code analysis, and continuous security enforcement using tools like Aqua Security, Twistlock, and Fortify, ensuring the highest standards of security.
+● Deployed Web Application Firewalls (WAF) using AWS WAF and Azure Firewall, alongside IDS/IPS systems for intrusion detection and prevention.
+● Implemented comprehensive monitoring and observability solutions using Prometheus, Grafana, Datadog, and ELK Stack (Elasticsearch, Logstash, Kibana), ensuring proactive system health monitoring and quick incident resolution.
+● Integrated monitoring with cloud-native tools like AWS CloudWatch, Azure Monitor, and Google Cloud Operations Suite, providing real-time insights and alerts for production environments.
+● Proficient in implementing real-time monitoring and observability solutions using cutting-edge tools like Prometheus, Grafana, Fluentd, Datadog, New Relic, and Splunk, enabling proactive detection of performance bottlenecks and system health issues.
+● Integrated monitoring with cloud-native solutions such as AWS CloudWatch, Azure Monitor, and Google Cloud Operations Suite, providing seamless visibility into multi-cloud environments.
+● Extensive experience with the ELK Stack (Elasticsearch, Logstash, Kibana), using it for centralized logging and search capabilities across distributed systems.
+● Set up alerting systems using PagerDuty, Opsgenie, and VictorOps, ensuring rapid incident response and minimal downtime for critical applications.
+● Configured and managed network architectures using Amazon VPC, Azure Virtual Networks, and GCP VPC for secure, isolated, and scalable network environments.
+● Expertise in load balancing with NGINX, HAProxy, and AWS Elastic Load Balancers (ELB), ensuring traffic distribution and high availability for critical applications.
+● Experienced with configuration management tools like Ansible, Chef, and Puppet to ensure consistency and automation in system configurations.
+● Proficient in scripting and automation using Python, Bash, and PowerShell for streamlining operational tasks and reducing manual intervention.
+1
+● Skilled in database management across SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Cassandra) environments, ensuring data availability and performance.
+● Hands-on experience with Agile and Scrum methodologies, collaborating with development, QA, and operations teams for faster project delivery and continuous feedback loops. Technical Expertise
+Programming Languages Bash, Python, Golang, PowerShell Collaboration Tools Jira, Confluence, Trello, Slack Source Code Management Git, GitHub, GitLab, Bitbucket Infrastructure as Code (IaC) Terraform, CloudFormation, Configuration Management Ansible, Chef, Puppet, SaltStack Cloud Services AWS (EC2, S3, RDS), Azure (VMs, Functions) CI/CD Jenkins, GitLab CI/CD, Azure DevOps, GitHub Actions, ArgoCD, Flux CD Containerization & Orchestration Docker, Kubernetes, OpenShift, AKS, AWS Fargate Network Architecture Amazon VPC, HashiCorp Vault, VNet, Azure Express Route Access and Identity Management AWS IAM, Nginx, HAProxy Database Management MySQL, MongoDB, Azure Cosmos DB, Amazon DynamoDB Artifact Management Artifactory, Nexus
+Monitoring and Performance Prometheus, Grafana, Nagios, Datadog Logging and Analytics ELK Stack (Elasticsearch, Logstash, Kibana), Splunk Build Automation Maven, Gradle, Ant
+Code Quality and Security SonarQube, Checkstyle, CodeClimate Protocols HTTP/HTTPS, FTP/SFTP, SSH
+Documentation and Reviews Confluence, Slack
+Secret Management HashiCorp Vault, AWS Secrets Manager, Azure Key Vault Operating Systems Linux, Windows
+Employment History:
+Client: World Bank, Washington, DC August 2021 to Present Senior DevOps Engineer
+Responsibilities:
+● Led the migration of services from AWS to GCP for a major banking client, ensuring a seamless transition, improved scalability, and cost-efficiency across the cloud platforms. Collaborated closely with DevSecOps and SRE teams to ensure security, reliability, and high availability during the migration.
+● Utilized Terraform for infrastructure as code (IaC), enabling consistent, automated provisioning of cloud resources in both AWS and GCP, ensuring seamless infrastructure replication across environments.
+● Managed containerized workloads using AWS EKS and GCP GKE, orchestrating Kubernetes clusters for optimal performance and scalability across both cloud platforms.
+● Deployed and managed banking applications on Google Kubernetes Engine (GKE), using Anthos to enable a hybrid and multi-cloud environment, facilitating unified management of services across both AWS and GCP.
+● Optimized GKE clusters by implementing Horizontal Pod Autoscaling (HPA) and Cluster Autoscaler, ensuring automatic scaling based on resource utilization, improving application performance, and optimizing costs during peak loads.
+● Implemented CI/CD pipelines with Jenkins, GitLab CI/CD, and Google Cloud Build to automate the deployment of banking applications, improving deployment frequency and reducing downtime.
+● Configured Google Cloud Storage and Amazon S3 for data storage and backup solutions, ensuring secure, scalable, and cost-effective data management across multi-cloud environments.
+● Integrated Google Cloud Operations Suite (formerly Stackdriver) and AWS CloudWatch for centralized monitoring and logging, ensuring seamless observability across both platforms and improving incident detection and resolution times.
+● Managed hybrid cloud networking by configuring AWS VPC and Google VPC, enabling secure and efficient traffic flow between AWS and GCP environments with VPN and interconnect solutions. 2
+● Deployed and managed microservices architectures using Google Kubernetes Engine (GKE), leveraging Helm for packaging and deploying containerized applications, simplifying application management and scaling.
+● Automated configuration management using Ansible and Puppet, ensuring consistent and secure system configurations during the migration of services from AWS to GCP.
+● Leveraged Google Cloud IAM and AWS IAM for secure identity and access management, ensuring proper access control policies and compliance during the migration.
+● Used HashiCorp Vault for secret management, ensuring secure handling of sensitive credentials and API keys across AWS and GCP environments.
+● Optimized database management by migrating relational and NoSQL databases such as Amazon RDS and DynamoDB to Google Cloud SQL and Firestore, ensuring high availability, performance, and security.
+● Implemented Prometheus and Grafana for monitoring Kubernetes clusters and application performance, providing real-time insights into system health and ensuring proactive resolution of issues.
+● Utilized Fluentd and the ELK Stack (Elasticsearch, Logstash, Kibana) for centralized logging and log aggregation, improving debugging and issue tracking during the migration process.
+● Collaborated closely with DevSecOps teams to integrate OWASP ZAP, SonarQube, and Checkmarx into CI/CD pipelines, ensuring continuous security checks and vulnerability scanning during the migration to GCP.
+● Integrated Google Cloud Operations Suite (formerly Stackdriver) and Prometheus for end-to-end monitoring of cloud infrastructure, enabling real-time insights into system performance and ensuring high availability of critical banking services.
+● Set up custom dashboards in Grafana to visualize performance metrics across both AWS and GCP environments. This will provide the SRE and DevSecOps teams with actionable insights to monitor application health, system utilization, and incident response times.
+● Configured alerting mechanisms with Datadog and Google Cloud Monitoring, ensuring proactive issue detection and automated notifications for key metrics like CPU, memory, and network performance, leading to reduced downtime and quicker incident resolution.
+Client: AssetMark Financial Holdings, Concord, CA September 2018 to Jul 2021 Senior DevOps Engineer
+Responsibilities:
+● Automated cloud operations and resource management on Azure using PowerShell and Azure CLI, scripting deployment tasks to enhance system reliability, operational control, and efficiency.
+● Developed and operated within Windows environments, leveraging Windows Server, WSL (Windows Subsystem for Linux), and Azure Virtual Machines to optimize performance, integration, and user experience.
+● Utilized GitLab for source code management and integrated its built-in CI/CD pipelines to automate builds, tests, and deployments, improving development workflows and reducing manual errors for enhanced reliability.
+● Automated infrastructure provisioning and deployment using Terraform and Azure Resource Manager (ARM) templates, ensuring consistency, compliance, and standardized infrastructure management across Azure environments.
+● Orchestrated and managed containers with Docker Swarm, Azure Kubernetes Service (AKS), and Helm charts, optimizing resource allocation and enabling efficient deployment and scaling of microservices across distributed environments.
+● Integrated MongoDB and Cosmos DB for flexible, scalable, and high-performance data storage solutions, enabling dynamic schema configurations to handle complex data models efficiently.
+● Deployed and managed APIs using Azure API Management and Azure Front Door, securing traffic and optimizing routing for scalable and reliable service delivery across global networks.
+● Leveraged Puppet and Ansible for configuration management, ensuring precise and consistent deployments across environments, alongside Terraform for defining and automating infrastructure as code.
+● Monitored services with Datadog, Azure Monitor, Prometheus, and Grafana, gaining actionable insights into system performance, application health, and infrastructure utilization, leading to proactive incident detection and optimization.
+● Utilized Splunk for advanced data analytics, improving operational visibility and enabling strategic decision-making, while securing user authentication and access management with Azure Active Directory.
+● Performed security assessments using Fortify, Aqua Security, and Checkmarx for vulnerability scanning, ensuring system integrity and compliance, while leveraging Graylog for centralized log management to improve monitoring and troubleshooting.
+3
+● Improved team collaboration through Microsoft Teams, Jira, and Confluence, while automating deployments using Octopus Deploy and Azure Pipelines, significantly reducing downtime and improving deployment precision.
+● Implemented GitOps workflows using ArgoCD for declarative infrastructure and application management, ensuring automated, version-controlled deployments and reducing manual intervention.
+● Migrated legacy applications to containerized environments using Docker and Kubernetes, enabling enhanced scalability, portability, and management of workloads across both cloud and on-premises infrastructure.
+● Streamlined application lifecycle management with Helm for Kubernetes deployments, allowing version-controlled and reproducible application packaging, while simplifying rollbacks and updates across environments.
+● Optimized application performance by integrating New Relic and Datadog APM (Application Performance Monitoring), providing real-time insights into application health, reducing latency, and improving user experience through proactive monitoring and optimization.
+Client: Geico, Dallas, TX Jul 2016 to Aug 2018
+DevOps Engineer
+Responsibilities:
+● Wrote and maintained automation scripts in Ruby, handling complex automation and infrastructure tasks to enhance system efficiency and reliability.
+● Managed multi-cloud environments using CloudFormation, automating and replicating infrastructure setups efficiently across various cloud platforms.
+● Utilized Subversion for version control, managing changes and history in environments where detailed history tracking was crucial.
+● Implemented Chef for robust configuration management, automating system settings and software installations across enterprises to ensure consistency and compliance.
+● Established Bamboo for CI/CD, integrating with major development tools to streamline code deployment and reduce manual intervention.
+● Deployed applications and services on the Google Cloud Platform, taking advantage of its global scalability and advanced services to enhance application performance.
+● Orchestrated container deployments using Google Kubernetes Engine, managing large-scale container setups efficiently and ensuring optimal resource utilization.
+● Monitored enterprise operations using Zabbix, providing comprehensive monitoring with custom alerting capabilities to maintain system health and performance.
+● Managed logs across distributed systems with Fluentd, aggregating and forwarding logs to central analysis points to facilitate deeper operational insights.
+● Leveraged Cassandra for managed NoSQL database services, ensuring seamless scalability and performance for high-traffic applications.
+● Secured and managed APIs effectively using Google Cloud Endpoints, simplifying API development and management while ensuring secure and scalable endpoint integration.
+● Implemented Google IAM for comprehensive identity and access management, securing access to cloud resources effectively and enforcing robust security protocols.
+● Configured Google VPC for enhanced network security and isolation, ensuring robust cloud network environments and safeguarding sensitive data transfers.
+● Ensured secure application deployment by using Veracode for continuous security testing and maintained technical documentation and system overview in Wiki systems, promoting information sharing and collaboration.
+● Deployed on CentOS for optimized performance and security, managed projects using Confluence and Trello, and handled artifact storage and versioning with Nexus, supporting efficient and reliable software development cycles. Client: Verizon, New York, NY Nov 2013 to Jun 2016 DevOps Engineer
+Responsibilities:
+● Employed JavaScript for scripting and automation tasks, enhancing interaction and functionality within applications, and improving user interfaces and backend processes.
+● Optimized for Red Hat Enterprise Linux, providing a secure and stable platform for critical business applications, ensuring system reliability and performance.
+4
+● Used Pulumi for infrastructure as code across multiple clouds, streamlining deployment and management, ensuring consistent and efficient multi-cloud integration.
+● Managed version control with Mercurial, optimizing for distributed teams and projects requiring high-performance source management, facilitating better code synchronization.
+● Automated configuration settings using SaltStack, deploying and managing configurations quickly across numerous environments, enhancing system uniformity and compliance.
+● Configured CircleCI for continuous integration, speeding up development cycles and ensuring code quality, significantly reducing integration issues.
+● Hosted applications and data on AWS, leveraging its data and AI capabilities for advanced application scenarios, enhancing data-driven decision-making.
+● Used OpenShift for comprehensive container management, integrating tightly with enterprise environments for seamless operations, and improving deployment efficiency.
+● Implemented New Relic for real-time application performance monitoring, optimizing user experiences and system responsiveness, ensuring high service quality.
+● Centralized and streamlined log management using Loggly, enhancing system monitoring and operational intelligence, and providing deeper insights into system performance.
+● Integrated SQL Server for robust database management and secured APIs with Kong and Cisco ASA, ensuring high availability, data integrity, and reliable network protection.
+● Maintained code quality with Coverity for static analysis and streamlined team collaboration and documentation with Slack and SharePoint.
+● Managed projects with Basecamp and optimized deployments using DeployBot, ensuring efficient project coordination and rapid, error-free deployments.
+Client: ADP, India Feb 2011 to Oct 2013
+Linux System Engineer
+Responsibilities:
+● Managed, configured, and fine-tuned Linux servers and workstations to ensure optimum performance and reliability across the organization’s infrastructure.
+● Developed and implemented automation scripts using tools like Bash and Python to streamline the setup, deployment, and maintenance of Linux-based systems and applications.
+● Implemented and maintained robust security measures, including regular system updates, patch management, and configuration of firewalls and other security protocols to protect data and infrastructure.
+● Configured and installed RedHat and CentOS Linux Servers on both virtual machines and bare metal installations.
+● Worked in the infrastructure team on the installation, configuration, and administration of CentOS, RHEL, UNIX, Red Hat Linux ES3.0, Linux Desktop, and Ubuntu.
+● As a member of the Release Engineering group, redefined processes and implemented tools for software builds, patch creation, source control, and release tracking and reporting on the UNIX platform.
+● Worked in Agile project management processes using JIRA for issue tracking and monitoring, collaborating with architects on the SDLC process and managing post-development environments.
+● Installed and configured Red Hat Cluster, Veritas Cluster Server, Veritas NetBackup, and Apache 1.3.x, Tomcat, and JBoss.
+● Solid network and systems troubleshooting experience with HTTP/HTTPS, SFTP, FTP, NFS, SMB, SMTP, SSH, NTP, and TCP/IP, as well as internet security and encryption. Academic Qualifications
+● Bachelor of Computer Science.
+Certified Achievements
+● AWS Certified Solutions Architect - Associate.
+● Google Certified Cloud DevOps Engineer - Professional
+● Microsoft Certified Azure Administrator - Associate.
+Contact this candidate

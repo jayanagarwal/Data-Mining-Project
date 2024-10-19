@@ -1,0 +1,89 @@
+KRISHNAVENI K DATA SCIENCE/DATA ENGINEER
+adyhs7@r.postjobfree.com 978-***-**** linkedin.com/in/krishnaveni-kanagaraju github.com/KRISHNAVENI2802 SUMMARY
+IT-professional with 3 years of experience in Data science,Machine Learning,Data Analysis. Key items of experience include:
+Expertise in programming languages like: Python,R Programming and web application frameworks like: Flask.
+Expertise in predictive modeling,data mining,data catalogue,data profiling,data validation.
+Expertise in building pipeline for analyzing and building model according to dataset with suitable algorithms.
+Leveraging analytical skills and strong attention to detail in order to deliver proper solution.
+Worked on solutions involving data stores MySQL,PostgreSql,Big Query,snowflake.
+Strong in solving problems of data structures and algorithms. EDUCATIONAL QUALIFICATION
+Qualification : M.E in Computer Science Specialization in Big Data Analytics (2017-2019) College : College Of Engineering,Anna University,Guindy,Chennai Qualification : B.E Electronics and Communication Engineering (2013-2017) College : Jeppiaar Maamallan Engineering College,Sriperumbudhur WORK EXPERIENCE/INTERNSHIP
+Organization : Pipecandy Junior Data Scientist/Data Engineer Oct 2021-Present Organization : Optisol business Solution Machine Learning Engineer/Data Analyst Feb2020-Sep2021 Organization : Idodeli Junior Data Architect Sep2019-Jan2020 PROJECTS
+Developed Interactive Dashboards using Tableau to provide real-time insights to stakeholders.Built visualizations with drill down capabilities to allow users to interact with data in more depth.
+Experiencing in using snowflake for managing data warehousing and data lake solutions.Improved query performance by optimizing snowflake virtual warehouses and dbt models.
+WebSales Estimation - Analysis of web sales data to identify trends,patterns and opportunities.Developed sales forecasting models using regression analysis, timeseries analysis and machine learning algorithm. Conducted data cleaning,preprocessing,feature engineering to improve model accuracy.
+ABSA - Implemented aspect-based sentiment analysis algorithms to identify sentiment towards specific product features using NLP-architect and pyabsa in Amazon review data.Conducted data profiling and cleansing,annotation to ensure accuracy and completeness of sentiment data.
+Entity ID Generation - Developed domain validation rules using regular expressions,Fuzzy logics and lookup tables and tried poc using rule based algorithm on ecommerce data.
+Shopify Data Analysis - Implemented Data Analytics solution to support business decisions,product analysis,product assortment,pricing and promotion.Conducted Market and competitive analysis to identify trends and opportunities. Project Name :Clinical Trials Document Analysis /Named Entity Recognition Technology : Python, Spacy, Gensim, NLTK, BERT, Pytorch, TensorFlow Description :Getting an approval for clinical trial involves preparation of protocol document and varied supporting documents for review board, Currently,reviewing documents for accuracy and completeness is manual, time consuming and potentially error prone process due to medical terminologies mismatch and conceptual variance. The intent of this project is to automate the document analysis to improve efficiency and reduce errors.
+Built a custom NLP pipeline to parse different documents involved in a clinical trial like protocol documents, consent forms etc.
+Extracted relevant sections of the different documents.Example :Adverse symptoms section of protocol document and that of consent forms.
+Developed a model to tag medicine name and diseases name in the medical document which had to get approval from FDA data obtained from trial and error methods of medical reports.
+SKILLS
+Predictive Analytics
+-- Recommendation
+-- NLP
+-- Clustering
+-- Classification
+-- Time Series Forecasting
+Data Annotation
+Data Visualization
+Problem Solving
+Analytical Thinker
+Individual Contributor
+TOOLS & PLATFORM
+Database : Microsoft SQL server, PostgreSql,
+MongoDB
+AWS services : Lambda, GLUE, SNS,
+SSM,EC2, Crawler, Athena
+Reporting Tools : Tableau Desktop, Tableau
+Server.
+Scheduling : Airflow, Cloudera Oozie, AWS
+Cloud Watch.
+Big Data Technologies : Apache Spark,
+Map Reduce,HIve,Hadoop
+Streaming Platform : Kafka
+CERTIFICATION
+Coursera
+Machine Learning
+Introduction to statistics
+Udemy
+Data Augmentation in NLP
+NLP with Transformers
+Data Science and machine learning
+Learn DBT from Scratch
+Snowflake - The complete masterclass
+Tableau server and Tableau online for
+Data Analysts
+edx
+Introduction to Artificial intelligence with
+python
+Project Name : Idodeli -Time Series Forecasting
+Technology : Python,Big Query,data studio,MLkit,Arima,Prophet,LSTM Description : Forcasting the number of delivery persons,cost per order.
+Used Big Query to store data and fetch data for analyzing.
+Forecasting the delivery count and person required for the next week.
+Analysis the data to improve the pay for the delivery person which also helps to improve company revenue depends on the delivery count and distance covered by delivery person.
+PROGRAMMING
+Python Libraries : Pandas,Numpy,Scikit
+Learn,basics of TensorFlow,Keras,NLTK,Bert
+R Programming Packages: dplry,tidyr
+Pyspark
+Project Name : TC Global Recommendation Engine
+Technology :Flask,RecommendationAlgorithm(KNN),AWS,PostgreSql,Fliar,Fuzzy,Git,Lamda,EC2 Description :TC Global is a leading global ed, learning and investment services platform with a substantial and diversified base of consumers that include students,professionals,universities.
+Analysis 30 years students legacy data and came up with useful insights that helps business.
+want to build Recommendation engine with 30 years data and 2 lakh university details data.
+Delivering the Flask APIs to do NLP task and Recommendation engine .
+Created Web Services using python-flask and used Postgresql to store and process.
+Created recommenders based on Content-based Filtering and Knowledge based filtering. Project Name :Data Migration and ETL process in Databricks Technology : Python, SQL, PostgreSQL, Pandas, Databricks Delta lake. Description : The project scope is to migrate data from PostgreSQL to Databricks Delta lake house to PostgreSQL. Population of data is done for analyzing the financial check of the sales and improving with the legacy data.
+Created Schema for the tables in Databricks Delta table.
+Using Databricks Notebook and python, connection is established between PostgreSQL and Databricks.
+Data migration is done by querying the DB in PostgreSQL and populated in Databricks Delta lake house platform.
+Transformation process is done with the Notebook and loaded to the destination PostgreSQL DB. Project Name : Review Analysis
+Technology : Naive Bayes, Scrapy, MongoDB
+Description : Physicians reviews are scrapped from online directory listing services like google, yelp, facebook, RateMDSetc., AnNLP Machine Learning Classifier is trained to analyze and score the reviews.The output of this analysis is stored in SQL and exposed as APIs for the UI team to build dashboards for the stakeholders.
+Built a web scrapping pipelines using Selenium and Scrapy to extract the reviews from the online directories.
+Trained an NLP classifier based on Naive Bayes algorithm to generate sentiment scores on the reviews.
+Created a custom NLP pipeline extract entities (Doctors, Nurses, Assistants) and their attributes(Positive and Negative) from the review text. Machine Learning Projects
+Developed an email classification model using machine learning techniques to categorize emails based on their content or purpose.
+Detection of motorcyclists with or without helmet in traffic surveillance video.
+Developed an analytical model using R and R shiny dashboard,used fuzzy logic to aggregate names of similar products.
+Contact this candidate

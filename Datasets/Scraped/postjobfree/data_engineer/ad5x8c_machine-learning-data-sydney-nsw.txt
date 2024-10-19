@@ -1,0 +1,222 @@
+Anand Rathi: [Australian Citizen] Contact: ad5x8c@r.postjobfree.com Mobile: +614********
+
+Overview:
+
+Technology used: Extensive C++11 on Linux & Unix up to C++14, also VC++ up to 2019.
+Learning OpenGL, VULKAN & QT
+Learning Unreal 4 Gaming Engine.
+CUDA / Opencl GPU programming.
+Image processing on Tensorflow / pytorch
+Developed and worked on Distributed networked architecture.
+Extensive Big Data Engineer, Machine Learning Experience tools like Apache Spark on hadoop
+
+Detail Experience:
+
+Gaming Studio, Sydney, Australia. Nov 2020 - Current
+Role: Software Engineer C++
+
+Modern C++11/14, VS2019, OpenGL, QT
+
+Responsible to work on Gaming Server Engine & Tools which are used to develop multiplayer online games (MMO) and virtual worlds.
+Work with bit of OpenGL & QT which Develops in house UI tools for game Developers.
+Also NVIDIA Video encoder, Basic level of DirectX 11 and CUDA coding and debugging. Add shader HLSL to Augment render buffer with segmentation id and then capture frames for further processing.
+Develop features on Game Engine Server like segmented pixel, path of vehicles.
+Extract Data for features for prospect Reinforcement learning.
+Participated in porting direct python wrapper API to modern C++ pybind11
+Machine learning using Reinforcement Learning for vehicle travel.
+I also have basic working knowledge with UNREAL Engine.
+
+Client Ingenico, Sydney, Australia . May 2020-Nov2020 ( FTC Contract)
+Role: Solution Engineer C++
+
+Mordern C++14, ARM processor. CDT Eclipse IDE, ISO8583, AS2805.
+
+Porting Ingenico applications from Telium 2 OS to Telium Tetra OS (Linux ARM)
+for client like 7Eleven, ANZ etc.
+Developing Fuel application, Aquirer module for 7Eleven and shell
+Debugging ISO8583, AS2805, protocol on terminal
+Migrate using Oracle PLSQL, VBA
+
+BHP, Perth, Australia . March 2019-May2020( Contract)
+Role: Big Data Engineer, Machine Learning Engineer
+
+IOT, C++11 to C++14, Python, Opencv, Apache spark, Java, PySpark, Opentsdb time series db, grafana, Machine Learning, tensor flow.
+Pandas, Numpy, Sklearn, Keras, Tensorflow
+
+Monitoring of the IOT device, deployment for IoT Harvesters, SQL databases RFS devices, LTE devices.
+Manipulating and ingesting large scale sensor JSON data.
+Object detection [Yolo] on cameras monitoring mines.
+Stream processing on Apache nifi, json to relevant metrics and pushing it down to opentsdb.
+Collection of time series data from GPS, LTE, IP devices using python, snmp, ssh etc
+MQTT kafka integration, Web api kafka integration.
+Write idempotent kafka consumer sink in java.
+Descriptive Analytics, Dashboard using Grafana. Create reports using Apache spark.
+Time series ARIMA + Kalman filter + RNN, LSTM GRU for prediction of battery on trailers.
+Analyzing data using pyspark for ad hoc reporting.
+Image analysis for segmenting drivable are in mines using GPS data + images to label data [Work in progress]
+using UNET for semantic segmentation a type of deep CNN to get pixel level probs.
+POC in AWS Kinesis MQTT integration.
+
+Sodexo, Perth Australia Jan 2018- April 2018
+Role: Data scientist & Data Engineer:
+Python sklearn, sqlite3, textblob, sql & PySpark, Tensorflow
+Applied Classification model to predict package scheme to improve profitability and plug losses on work done. Used NLP techniques like N gram, TF-ID feature engineering to improve model performance [both recall & accuracy] from 76% to 96% on k - fold cross validation.
+Sentimental analysis to prove that Sodexo is doing great service
+Applied Regression model to predict completion of work order and identify Important feature to improve efficiency.
+Developed Optimization Algorithm Replacement & Maintenance Modeling to save half million dollar in Replacement fund.
+Work with SQL & PowerBI from time to time to do Inferential analysis and provide insights to business.
+
+Ramyam Intelligence labs, part of ARVATO April 2016- Dec 2017
+Role: Data scientist & Architect: Technology Architecture from Solution, Systems as well as non-functional requirements. Design & develop [hands on coding] for products of Ramyam’s Big & fast Data products and services specifically three technologies. Spark, Scala, PySpark.
+
+Data science Projects:
+Predict reachablity for AXA Insurance, France:
+Impute missing values using mssForest.
+
+Develop analytical engine: for model development in PySpark.
+Movie & Event recommendation engine: Recommendation without rating, I found a unique way for movie & event recommendation for BookMyShow.com customers based on language, genre, location like theaters/ malls. Using simple similarity index calculation using cosine distance, This increased the recall rate by about 60% accuracy from 35%– Apache Spark & Python.
+Association rules recommendation using Big data stack: Developed a product that reads labeled data to develop model, like association rules, logistic regression, collaborative filtering and develop scores for customers etc, It stores the model in sql & caches on redis and is integrated with ETL.
+Sentiment Analysis for Pegasus Air, Turkey: Bag of words based sentiment analysis.
+
+Spark & ETL products:
+
+Quick query analytic engine: Design a back-end to do advanced query for offerings, campaign using for huge data, daily 11 million incremental updates using Apache Spark, python pandas, MySQL & Mondodb, HDFS.
+It can capture customers favorite transactions based on various aspects like location.
+ETL Streaming & batch analytics on fast & big data: Branded as EnlivenCEM STP This products ingests data from large transaction files, near real time streams like click-stream, IOT etc. & runs a configurable logic to gather insight, respond with alerts, recommendations, Market Basket Analysis. – Spark & Scala
+Technology stack used :
+For Streaming for real time recommendation: Python, Apache Spark, Kafka, redis, Cassandra & sqlite3 for local cache
+For Quick query engine: Python, Apache Spark, HDFS, Rabbit MQ, CGI & MySQL
+
+Employer: RamyamLabs
+2016-2018:
+Machine Learning Developer
+Python, Pyspark, ETL, bigdata, Machine Learning
+
+Employer: IBM Security Division Development Labs, Australia
+2010-2016 :
+Design & implement Automated Test infrastructure with QEMU virtualization and Android & iOS emulator and related networking, Used Appium, selenium webdriver, REST API.
+Using Java and Python via eclipse platforms including Rational Team Concert and Rational Functional Tester.
+2012-2015 :
+Implement C++ encoder / decoder for IPFIX protocol [UDP based] Integrating with SEIM [Qradar], shared memory based flow capture at real time.
+Implement C++ packet capture for Next Generation Intrusion protection server appliance IBM XGS
+and CLI for the same, IBM proventia server “Host Intrusion prevention” earlier known as PSU
+2011-2012 :
+Implement C++ sensors like OS audit & licensing module for IBM proventia server “Host Intrution prevention” earlier known as PSU
+2010-2011 :
+Porting of C++ software of VMware ESX on IBM AIX power Virtual Machine .
+
+Employer: Xalted [telecom billing company]
+2008-2010 :
+Working on Mediation & Billing products. [Pro * C/ C++, ACE 5.8, boost c++ 1.35, Oracle TUXEDO 8.1-9.0] Enhancing Products like Intertrace & Fraud trace by adding new features.
+Responsible for enhancing C++ framework called Modula. Modula used almost all IPCs shared memory, memory maps, message queues .
+My notable work include, replacing TUXEDO as middleware with C++ framework ACE, boost & CORBA, Which has significantly brought down the cost of product. Also replacing PRO*C/C++ with OTL .
+Also worked closely with Xalted partners like IBM, SUN, HP with their latest hardware & software to benchmark Xalted products. Interacted with various teams from sun labs, IBM labs & HP labs. Environment include latest technology related to clustering, OS containers, compiler features etc.
+
+Employer: Convergys, Hyderabad
+2007-2007 :
+Maintain billing system one of the largest telecom company of USA which was in C++ on solaris & AIX
+Resolving issues in code, backward engineering source code for next level architecture.Supporting run time issues from code level, to unix script level, to database level [sybase]
+Platform : C++, Java, Linux Solaris, AIX, perl, awk, sed, shell script, RH Linux cluster
+
+Employer: eMind Technology, Bangalore
+2006 – 2007:
+Leading a team of 5 engineers. Training engineering staff .
+Architecting & detail design of CC CTI based ACD [Automatic Call Distribution system ] systems product as Stand alone CORBA Services
+
+Employer: eMind Technology, Bangalore
+2006 – 2007:
+MQI programming, IBM Websphere MQ series Integration using two separate libraries one with plain C++ [mqsc.lib] & ActiveX MQAX. Also integration with MSMQ and XML for the edisphere flagship product.
+Platform : C++, Linux, Java, gcc 3xx win32 VC 8.0 [multi platform ] ACE C++ framework, TAO CORBA, IBM Websphere MQ 6.0, boost c++ library
+
+Employer: Webodrome AriseTech. Technologies[Contract]
+June 2005 – Dec 2005:
+Architecting streaming server as well protocol.
+Implementing network TCP/IP Async IO (AIO ) emulator on for Linux in ACE C++ framework so that streaming server can serve 10K clients simultaneously .
+Platform : C++, Linux, Java, gcc 3xx win32 VC 8.0 [multi platform ] ACE C++ framework, boost c++ library
+
+Employer: eMind Technology, Bangalore
+Dec 2004 – 2005:
+Enhancement of a middleware connecting legacy system to CRM application Converting DCOM calls
+Platform : C++, win32 VC 8.0, DCOMN, SOAP & XML
+
+Employer: eMind Technology with Infosys Pune
+for UBS Investment banking
+July 2004 – June 2005:
+Developed work assignment component in Service Layer . client orders which contains information such as Market Type, Fund Segment etc, And are classified based on these information.
+My responsibility was to study use cases, write system design and component design which involved Component communication architecture, and detail design of each component.
+Platform : C++, Java, XML, Red Hat Linux EE 3.0 Adaptive Communication Environment Cross Platform Library, Oracle, MQ series, ANT, Maven, Eclipse.
+
+Employer: eMind Technology, Bangalore
+2004 – 2004:
+Senior Analyst Programmer, in Investment Banking, securities Trading
+worked with Channel Manager [ FIX Engine gateway ]
+Various communication channel like FIX, SWIFT and other ways of communication. flow of client order-related messages between CaTS and all implemented channels controls message routing, supporting multi-channel order monitoring protocol independent validation and enrichment applies channel-independent client options
+Communicates with each channel using a MQ series Communicates with CaTS NG using OEM (& QEM)
+Platform : Solaris, JAVA, Oracle, MQ series,
+
+Employer: Transworld ICT Solutions Pvt ltd, [This company is acquired by Fidelity Information Services and now mergedwith Fidelity Information Services], Bangalore.
+July 2003 – June 2004:
+Senior Analyst Programmer, In Domain Banking Credit Card
+Credit Card Backend Processing called as ExactPay[tm] .Exact Pay Interfaces with web which allows user to apply for credit card online, allows banking staff to approve applications customers to online fund credit card, all the credit card banking operations.
+Interfaceing with OASIS Credit card IST switch and card processing application, and Bank Master banking ledger applications.
+Platform : C++, VC++, Adaptive Communication Environment Cross Platform Library, ATL DCOM win 32 services, sockets, CORBA, Oracle, MQSQL Server, libODBC++, TCL interfaces.XML messages socket they are distributed nature, and supporting propriety Distributed Transaction.
+
+Employer: Kompas Infotech, Bangalore
+Jan 2002 – June 2003:
+Telecom, GPRS, 3G, GTP, GRE, SCTP
+3GPP Developed Confidentiality and Integrity Algorithms . authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5* using Rijndael algorithm.
+Developing Packet Generator Server DHCP, GTP, UDP, TCP, between GGSN & SGSN. To be integrated with EAST EAST (Environment for Automated System Testing)
+
+Bigates, Mumbai
+Aug 2002 – Jan 2003:
+Platform : Solaris 2.x, Java, NT 4, gcc C++, stl, JTAPI, TSAPI, CTI, Interfacing with Avaya Definity Call center switches pbx
+Avaya Message Care, email solution for call centers, done some enhancement to pop3, Mime Library and recived training on CTI, JTAPI Programming, hands on definity switches and CSTA protocol. Reason for leaving [End of product life cycle announced]
+
+Employer: Kompas Infotech, Bangalore
+Aug-2001 – Aug-2002:
+Platform : Solaris 2.x, Sun C++ compiler, Python, OSP(Object Service Package), CATALANT 3.0,2.2,2.1.1, CSP( CORBA Service Package), ORBACUS & Orbix, Java, Oracle & Postgresql to make Application Objects Persistent.
+As a Software Engg, NMS [network management system] called Catalant, framework development of component-based Network Management System. Catalant provides a scalable, distributed, framework architecture of independent reusable components (Workflow management, Graphical maps, Trouble-ticket,Performance data, User permissions, Alarm Management, Log Management, Trouble Ticket, Configuration, Map Manager, Profile Pre-built popular network interfaces, Gateways to other OSS products ) for Network Management Service.
+Built upon services provided by O.S.P /Solution Core and CORBA. Components.
+interact via a distributed asynchronous event distribution 'bus'.
+My responsibilities include solving the bugs assigned by TCSI and enhancement in the product involving changes in C++/Python/tcl tk/java /shell scripts/ Makefiles
+
+Employer: Kompas Infotech, Bangalore
+July 1999 - Jul-2002:
+Platform : RH LINUX 6.2, GCC C++ 2.95.2, STL, Mysql 6.0/Oracle8.1.6, ACE framework library, UnixODBC ( Oracle, MySQL)
+Developed a Naive Bayes classifier, Machine Learning, AutoClass is a classification solution for e-Catalogs with comprehensive built-in support for the industry standard UNSPSC schema It is a software which has to be trained to classify documents to certain predefined categories (classes) .
+The Data is stored in various C++ data structures which are are made persistence into an XML format by using a library SXP.
+API written in C++/Java to provide access to the Classifier Engine to allow the user to integrate the classifier with any third party tools The.
+Classifier API in C++
+Responsibilities include capturing requirements and Analysis of algorithms & capturing them in UML and coding
+Platform : RH Linux 6.2, GCC C++ 2.95.2, CORBA ORBacus4.02 ORB, JThreads 4.02, PCRE (perl compatible Regular Expression) Library
+Developed Rule Engine (Purifier) to be applied on the data which are extracted from various web sites (url's) by the Crawler /Extractors. The coupling between the components like Extractors Purifier is done by Mysql database .Previously these Rules were Implemented In C++ as a shared object which was dynamically loaded using dlopen, dlsym & dlclose. We implemented various rules like RemoveHTMLTags,RemoveAllTags, etc.
+
+Employer: Thyron Informatics (P) Ltd, Indore.
+Sept 1995 – Nov 1998:
+Platform:UNIX,ESQL/Informix pro*C++SQL, Unix IPC Shared memory
+1. Object Oriented C++ ISO8583 Library Framework.ISO8583 Financial Transaction Protocol for Smart Card based applications object oriented C++ API. libraries in UNIX environment
+Responsible for: · Coding · Maintenance of the library
+2. FTP(FRONT END TRANSACTION PROCESSING ) in UNIX & c
+Platform : ANSI c++ and oracle pro*c++/c 8.0, ESQL Informix under SCO UNIX/AIX
+UNIX daemon process which will handle Authorization Request of smarts cards from Point of sale systems (Terminals ) for ISO 8583 protocol, Checking that the card holder has sufficiently credit to complete the transaction and that the method of payment is valid e.g. credit card has not expired and is not a hot card. Various UNIX IPC are used in this project.
+Informix was used to store related data and 'C' ESQL was used. Responsible for: · Coding · Modifications of the project
+3. Embedded 'C' ISO8583 Libraries For Handheld Thyron Paycell (Hitachi Terminal ) for applications of SMART CARDS, MAGNETIC CARDS .
+Platform : Hitachi Cygnus 'c' compiler, 'C' Library for Creating Receiving, Parsing,Validating CRC calculations for iso8583 protocol messages
+Developed Several Applications in Embedded 'C' using HITACHI 'C' compiler and Thyron's propriety operating system for the hand held terminal.
+Responsible for: · System designing (Data structures/Algorithms) · Coding
+
+Education :
+Bachelor's in B.E Industrial with Computers R.K.N.E.C Engineering college, India 1995
+Subjects Include: C, Pascal, Cobol, MIS, Industrial Automation 64%
+Diploma in Advance Computing & Software Engg C-DAC 1999 81%
+
+Workshops :
+CORBA C++/java 4 days from 4 Dec 2000 - 7 Dec 2000 (Company Sponsored)
+At iCMG, India centre Bangalore Delivered by Thomas Bitfield (Software Scientist) from Germany
+UML from 2 days At CSI, Mumbai Chapter, Delivered by (Consultant) from Australia
+OSP certified Developer CATALANT Certified Developer
+BEA Tuxedo Training in bangalore in 2008 5 days
+PyCon Brisbane Australia, 2015
+
+References: On Request
+Contact this candidate

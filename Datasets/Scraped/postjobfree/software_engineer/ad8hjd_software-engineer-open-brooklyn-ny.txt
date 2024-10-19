@@ -1,0 +1,22 @@
+Richard Araujo Software Engineer 347-***-**** - ad8hjd@r.postjobfree.com
+Linkedin-Github
+New York
+TECHNICAL SKILLS
+TypeScript, Node.js, Express, Jest, React, React Router, Redux, JavaScript, HTML5, Sass + CSS, Material UI, SQL-PostgreSQL, NoSQL-MongoDB, Git/Github, Webpack, Vite, Docker, AWS (DynamoDB, IAM, ECR, Amplify, Route 53) EXPERIENCE
+FennECR (Open Source Product) — Software Engineer APRIL 2024 - PRESENT Open Source AWS ECR Vulnerability Scanning Application
+● Created dashboard components such as detail cards and a nav bar using React’s well-defined modular architecture to take advantage of its predictable unidirectional data flow and reusability of components.
+● Using React Router to set up client-side routing enabled the app to be a single-page application. This enabled the app to display different metrics pages without redirecting the user to another page.
+● Designed the app using Material UI’s pre-designed components such as App bar, Card, Table, and Grid. These components were used to build a vulnerability details component displaying the severity of AWS ECR images.
+● Set up the backend portion of the app using Node.js and Express.js. This allowed the ability to efficiently make HTTP/API requests to AWS ECR and retrieve each image's repository data needed for the dashboard.
+● DynamoDB was the choice of NoSQL data storage and management because of its faster reads and writes over SQL. It was used to store aggregated image data and scan results to provide trends and history tracking.
+● Replaced JavaScript with TypeScript during development for better product maintenance and error handling. This allowed for runtime type error catching, which improved the code's reliability. This change will facilitate easier refactoring and help with any developers looking to contribute.
+● Vite was a key part of the app, enabling efficient and accelerated development by serving as the build tool and development server. Vite also enabled the benefit of code splitting, which facilitated the user with faster load times. Tree shaking also greatly reduced the size of the final output.
+● Configured Jest as the testing suite for all frontend and backend testing. Jest’s simple config setup made it easy to get started with testing. Mock testing and Asynchronous testing were integrated to ensure the app’s reliability.
+Open Source
+Software Engineer RTAR - Receipt Bill Spitter (Open Source Product) MARCH 2024 Bill Splitter Application
+● Integrated Tesseract OCR engine to handle image recognition and to help process the text conversion. This enabled the use of the extracted data to perform calculations based on the party size.
+● Implemented state management using Redux Toolkit, ensuring efficient data flow and consistent application state across the web app.
+Professional Development
+York College Web Development Certification OCTOBER 2017 Codesmith Advanced Residency for Software Engineering March - June 2024 HOBBIES AND INTEREST
+Saltwater & Freshwater Fishing (Kayak Fishing), I love baking homemade bread. I have a passion for traveling to various cities and countries immersing myself in different cultures and experiences. I am also very fluent in Spanish.
+Contact this candidate

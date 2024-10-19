@@ -1,0 +1,71 @@
+Shilpa Paduchuri
+Software Engineer Contact: 425-***-**** Email: ad8tp4@r.postjobfree.com
+
+EDUCATION:
+
+Bachelors in Electronics and communication Engineering
+
+Professional Experience – CENTIFIC Technologies
+
+Client: Microsoft-Redmond August 2019 - July 2023
+Role: Software Engineer
+
+Project Name:
+M365 Security – Onboard Antispam features to Air-Gap environment
+
+Scope
+oEnhanced/Added support to run scope scripts in Air-Gap and existing environments.
+oUpdated and validated Azure Data Factory jobs in PROD and Air-Gap environment.
+oWorked closely with PM, Dev, Test, Customer Support to ensure service availability and smooth deployment.
+oCoordinated with partners and SREs to ensure all the changes required for Air-Gap are implemented in the Euclid repo.
+Azure Data Factory
+oMigrated all pipeline and dependent components along with scenario artifacts to a CVS repository from a file share.
+IP Blocklist
+oInvestigated and updated spam rules to enforce Blocklists appropriately.
+Misc
+oMigrated all TestReleaseDocuments and TroubleShootingGuides to a common CVS repository Engineering Hub, which helped increase SRE teams’ productivity by 3 times in responding to incident mitigation and resolution.
+oFixed code bugs and improved maintainability by re-structuring.
+oHelped SREs prioritize important incidents from all alerts for improved customer experience.
+
+Project Name:
+
+M365 Security - Stabilize IDEAs TenantInfo pipeline.
+Streamlined pipeline execution to improve maintainability and debuggability.
+Made pipeline more resilient to failures caused due to unexpected/accidental data corruption by implementing every possible fail-safe gate on the delta variations against current data and previous snapshot.
+Created trouble shooting guides to help the SREs handle any potential incidents.
+Setup Alerts/Monitors/Triggers to notify on pipeline failures and delays for timely action which alleviated customers’ pain by 100x by avoiding potential incidents caused by loss of critical data.
+This work helped at least 3 other teams using the output data of pipeline.
+Tested end to end with some mock data to simulate data loss scenario to ensure the pipeline is resilient.
+
+Project Name:
+M365 Security - Spam Analysis, Daily activities
+Create PowerShell scripts to automate execution and remediation of the training system services.
+Add cmdlets to automate some part of spam analysis.
+Create troubleshooting guides to resolve incidents.
+Identify and create monitors/alerts for mission critical scenarios which have a potential to affect customer experience.s
+Fix code bugs and improved maintainability by re-structuring.
+Stabilize flaky pipelines and make them resilient to ensure they run with zero to less maintenance.
+Address technical debt by re-architecting solution.
+Develop dashboards for the team to visualize threats by organization.
+Execute Test Release documents on a regular basis to identify potential regressions that aren’t possibly covered by unit and functional tests.
+Provide strategic guidance to the Antispam engineering team to build the right engineering defenses for various classes of attack identified through analysis of ongoing threats.
+Develop IP reputation systems to block and delist with ownership and accuracy.
+Worked with Support on definition and enforcement for policies around sender support and deliverability, serving as final tier of escalation for support on delisting requests, email hygiene, deliverability.
+
+TECHNICAL SKILLS:
+
+Languages
+C#, Java
+Web Technologies
+HTML
+Web Services
+XML
+Mark-up/Scripting Lang.
+Scope, Powershell, HTML, Markup language
+Databases
+Cosmos + Azure Data Factory, SQL Server, MySQL
+Application/Web Servers
+Microsoft IIS 7.0/6.0/5.0
+IDE
+Visual Studio
+Contact this candidate

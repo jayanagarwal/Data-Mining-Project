@@ -1,0 +1,202 @@
+Sai Kumar
+Senior FullStack Developer - Java, Angular, Kafka, AWS
+
+Mobile: +1-609-***-**** Email: adydnu@r.postjobfree.com
+PROFESSIONAL SUMMARY:
+About 10+ years of experience as a Java Full Stack Developer with expertise in java/J2EE, Angular and Kafka with full Software Development Life Cycle (Software analysis, design, development, architecture, deployment, testing, and maintenance).
+Core Competence: -
+Strong knowledge In Java and Java frameworks like Spring, Spring boot.
+Expertise in developing Kafka based applications, using k-streams and Kafka connect using AWS MSK Kafka
+Implemented Data pipelines from IBMMQ to snowflake using confluent Kafka connectors.
+Create Custom Kafka connect sink connector for AWS Key spaces.
+Proficient in using design patterns like Singleton, Data Access objects (DAO), Factory pattern and Strategy pattern.
+Good understanding on SOLID Principles
+Worked on front-end/presentation tier development using Angular.
+Good understanding on React based single Page application development.
+Expertise on No SQL Database Cassandra.
+Proficient in developing and implementing Web applications using Java/J2EE Technologies including Core Java, JDBC 2.0, Hibernate, Spring, Spring Boot, JSP 2.0, Servlets.
+Experience and knowledge in RDBMS concepts and worked with Oracle, MySQL.
+Strong front-end UI development skills using scripting languages HTML5, CSS3, JSP, JavaScript, Angular And jQuery.
+Worked on Hibernate, object/relational-mapping (ORM) solution, technique of mapping data representation from MVC model to Oracle Relational data model with an Oracle schema.
+Good experience with unit testing using JUnit and Log4j for effective logging.
+Expertise in using CI/CD tool Jenkins, and Monitoring with Prometheus and Grafana.
+Implemented production ready micro services using docker and Kubernetes.
+Experience Knowledge in Cloude platform AWS.
+Good understanding of Version control tools like Git, SVN, Bitbucket.
+Extensive knowledge in Agile and Waterfall Methodologies.
+Implemented Logstash and Kibana for Log monitoring.
+
+Technical Achievements
+Developed a Kafka connect plugin which can be used to sink data to Amazon key spaces.
+Awarded Sapphire Award in the Month of May-2021 from Optum.
+Organized a Dev-Days event at Optum Hyderabad in the Month of 2020-04.
+Received a Team Excellence Award in the Month of Nov-2021 from Optum.
+Awarded EAIP Q3 Star Award in the month of Sept-2020 from Optum.
+Automated the process of topic management using git and Jenkins.
+Created Grafana dashboards for Kafka message inflow and cluster usage metrics.
+Awarded star of the month award for the month Dec-2017 from TCS.
+TECHNICAL SKILLS
+Operating Systems
+Windows 10/8/7/ Unix, Linux
+Programming Languages
+Java 1.5/1.6/1.7/1.8, J2EE, JSP, MVC, JPA, log4j
+Java Frameworks
+Spring, Spring MVC, Spring boot, Hibernates.
+Web Languages
+HTML5/HTML, AJAX, XML, CSS3 JavaScript, Angular jQuery, React basics
+Database Languages
+Oracle, MySQL
+Methodologies
+Agile, SDLC, Scrum
+Java/J2EE Technologies
+JSP 2.2/2.1, Servlets, JDBC 3.0/2.0, Web Service
+Web Services Technology
+REST, SOAP basics
+Application/Web Servers
+Apache Tomcat, JBOSS.
+IDE
+IntelliJ Idea, Eclipse, Webstrom, VS Code.
+Cloud
+AWS (S3, MSK, EKS, ECR, EMR),
+Monitoring tools
+Prometheus, Grafana, Kibana.
+Version control system
+Git, SVN, Bitbucket.
+CICD
+Jenkins, SonarQube
+Containerization
+Docker, Kubernetes, OpenShift
+Build tools
+Maven, Gradle
+Event Processor
+Kafka
+NoSQL DB
+Cassandra
+
+Education:
+Bachelor of Engineering in Computer Sciences & Engineering
+PROFESSIONAL EXPERIENCE:
+Client: - Cambia (December-2022 to June 2023)
+Locations: - Portland, OR
+Role: Senior Kafka developer
+
+Project Description: - regence.com is a web-based application developed using spring boot as Backend and react as front end, which handles insurance lifecycle of members from enrolment to claim settlement. It interacts with multiple microservices to get data and process member's request.
+
+Technologies used: -
+Java, Spring boot, React, Kafka, Oracle database,
+Kubernetes and Docker, Jenkins, Aws EKS
+Responsibilities: -
+Involved in Analysis, Design and Implementation translation of Business User requirements.
+Extensively worked on Spring REST for creating REST API’s services with spring boot to modularize code and used spring data to access data from ORACLE database and implemented Swagger for dynamic REST API documentation.
+Actively Involved in code Reviews and make sure to follow all coding standards and Solid principles.
+Implemented Java Design patterns like builder, factory and strategy.
+Used Kubernetes to manage containerized applications using its nodes, Config Maps, selector, Services, deployed application containers as Pods.
+Developed various JUnit test cases for Unit Testing.
+Involved in front end development using React Framework.
+Created CI/CD for deploying in Jenkins and Used Jenkins to integrate with other tools.
+Performed functional testing using Postman and created mock services for testing on developer sandbox.
+Integrated log4j with Kafka Appender and Logstash and Kibana for Log Monitoring.
+Implemented Prometheus and Grafana monitoring for metrics.
+Developed Kubernetes jobs for scheduled jobs.
+Client: - Optum-UHC (November-2021 to December2022)
+Location: - Minneapolis, MN
+Role: - Senior Developer Kafka
+Project Description: -
+Claims is a subject area where multiple microservices will consume data from claim raw dataset, enhance it by joining it with multiple sources systems and generates metrics based on date of service and date of process. Further these metrics will be written into a Cassandra database to get exposed via spring boot web api.
+
+Technologies used: -
+Java-Spring boot, Kafka streams, Spring web, for Rest endpoint, Confluent Kafka for source and sink connectors, Aws key spaces for storing generated metrics, Jenkins, Kubernetes, Docker (ECR) for CI/CD and deployments, Prometheus and Grafana for monitoring, Aws MSK for Kafka Cluster, Aws EKS for Kubernetes
+Roles and Responsibilities: -
+Involved in Analysis, Design Develop Client Requirements into Business solutions.
+Designed and developed Complex business logic to generate metrics out of claims data using Kafka streams.
+Extensively developed Kafka connect plugins which can be reused across the Modules.
+Developed API endpoints that are compatible with FHIR compliance.
+Provided solutions for business use cases with the available dataset for claims adjudication process.
+Leading a group of three team members, extensively involved in code review, ensured SonarQube gate of 9 for quality code deliverables.
+Involved in On-Premises to Aws Migration.
+Extensively worked on Spring REST for creating REST API’s services with spring boot to modularize code and used spring data to access data from ORACLE database and implemented Swagger for dynamic REST API documentation.
+Developed docker file and Kubernetes components Stateful sets, configmaps, secrets for microservice deployment.
+
+Client: - OPTUM-UHC (March-2021 to November-2021)
+Location: - Minneapolis, MN
+Role: - Sr Developer Kafka
+Project Description: -
+Appeals is a subject area where multiple microservices manage ingestion of data from traditional database management systems to NOSQL Databases like Cassandra using Kafka connect plugins and spring boot microservices.
+Technologies used: -
+Kafka-Connect for source data extraction from traditional RDBMS.
+Spring Kafka for streams processing and cleaning and perform required joins on the input data.
+Kafka Connect-Sink to load data into Cassandra database and Amazon S3-location.
+Cassandra to store Cleaned and joined data.
+Amazon S3 to store data for Athena tables.
+Jenkins, Kubernetes, docker for CICD and deployment process.
+Aws MSK for Kafka Cluster, AWS EKS for Kubernetes
+Grafana for monitoring, Prometheus for metrics
+
+Roles and Responsibilities: -
+Designed and developed Complex business logic to perform Kafka KTable-KStream, Global KTabel-KStream joins.
+Extensively developed required Kafka connect plugins which can be re-used across the Modules.
+Extensively worked on Spring REST for creating REST API’s services with spring boot to modularize code and used spring data to access data from ORACLE database and implemented Swagger for dynamic REST API documentation.
+Solved business problems with suitable solutions which can be achieved by using the dataset available with the project.
+Involved in On-Premise to AWS Migration.
+Implemented Data Pipelines using Kafka-connect connector across multiple systems using source and sink connectors.
+Created data pipelines using confluent Kafka connectors between different systems.
+Developed a Blackbox system which will monitor the Api and triggers the alert if any of the api or Kafka connect Api is continuously giving invalid response.
+
+Client: - OPTUM-UHC ( April-2019 to March –2021 )
+Location: - Minneapolis, MN
+Role: - Sr. Developer Kafka
+
+Project Description: - POCA is a subject Area where multiple Kafka base micro services will process data from different source systems of POCA and generate data for Athena for analytic platform to generate multiple metrics out of data.
+Technologies Used :
+Kafka-connect Spring Kafka for streams processing, Cassandra, Amazon S3, Jenkins, Kubernetes, docker for CICD and deployment process.
+Roles and Responsibilities: -
+Involved in requirement gathering and worked closely with data modeler to understand the velocity of data.
+Designed and developed Complex business logic to perform Kafka KTable-KStream, Global KTabel-KStream joins.
+Extensively developed required Kafka connect plugins which can be re-used across the Modules.
+Implemented a Testing framework which will take samples from input system and generates expected results and compares with system generated record.
+
+CRPR Tracking system (CPT): - Client- Internal to TCS (October-2018 to April-2019)
+Location: - Hyderabad India.
+Role: - Full stack Developer
+Project Description: -
+Change Request and Problem Request tracking system is a web-based application to manage Clints Change Requests and problem Requests, this system helps project manager to allocate work to team members. And tracks the progress of work done by different reports exposed by the system.
+Technologies used: -
+Spring boot for managing web API’s, Hibernate for ORM, Angular for frontend, Bootstrap, Oracle Database.
+Roles and Responsibilities: -
+Develop Robust solution to manage CPT system.
+Involved in Analysis of the requirement and find pain points in the systems.
+created basic reusable framework which can be reused across multiple Projects.
+Developed various JUnit test cases for Unit Testing.
+Involved in front end development using Angular.
+
+RD-HRMS: - Client- Govt of TS India. (July-2016 to October –2018)
+Location: - Hyderabad, India.
+Role: - Full stack Developer
+
+Project Description: -
+RD-HRMS is a web application which manages employees human resource activity of a government department (Rural development). It manages the complete employee employment lifecycle from recruitment to termination including payrolls increments promotions etc.
+Technologies Used: -
+Java –servlet based internal framework for Backend, JSP for front end web pages, Java script, CSS, Oracle Database, Spring MVC and JSTL
+Roles and Responsibilities: -
+Involved in the design discussions and development of new Change Requests
+Actively Involved in resolving various Problem tickets and client issues.
+Involved in the maintenance phase activities and running payroll every month.
+Involved in the migration of legacy system to new spring MVC based solution.
+Taken ownership of recruitment module and developed new change requests proposed by client.
+Developed various JUnit test cases for Unit Testing.
+Involved in front end development using JSP and JSTL.
+Extensively worked on Spring REST for creating REST API’s services with spring boot to modularize code and used spring data to access data from ORACLE database and implemented Swagger for dynamic REST API documentation.
+
+FGPS:- Client- Govt. Of AP-India (Sep-2013 to July–2016)
+Location: - Hyderabad India.
+Role: - Full stack Developer
+Project Description: -
+Food grain procurement system is a web-based application which is used by government of Andhra Pradesh, India to purchase food grains from farmers. This system Handles end to end lifecycle of procurement system from registration to payments. It also performs validation of farmers and identifies any fraud or in eligible seller in the system and reports it to the client.
+Technologies Used: -
+Java –servlet based internal framework, JSP, Java script, CSS, JSP Oracle Database
+Roles and Responsibilities: -
+Involved in the design discussions and development of new Change Requests
+Actively Involved in the resolving various Problem tickets and client issues
+Developed various JUnit test cases for Unit Testing.
+Involved in development of procurement Module, and created Rest API’s for Mobile app.
+Contact this candidate

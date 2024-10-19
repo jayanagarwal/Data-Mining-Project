@@ -1,0 +1,106 @@
+Aklilu Kahsai
+Data Scientist/ ML Engineer
+Contact: 470-***-**** Email: ad4idn@r.postjobfree.com
+
+Professional Summary-
+
+A highly accomplished Sr. Data Scientist with over 18 years of IT experience and 13 years of expertise in Data Science, AI, data mining, deep learning, predictive analysis, and machine learning. Proven ability to manage the entire data science project life cycle, extract insights from massive datasets, and develop innovative solutions.
+
+Technical Skills:
+
+Deployment: CI/CD, workflows, automation, Model Lifetime Management. Model registry.
+Python Libraries and Tools: Flask, Django, Neo4j, MongoDB, Boto 3, NumPy, Pandas, SciPy, SciKit-learn, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, NLTK, PyTorch, BeautifulSoup4, PySpark, SQLAlchemy, dplyr, ggplot2, reshape2, tidyr, pinecone.
+Machine Learning Techniques: Auto Encoders, Generative Ai, Naïve Bayes Classifiers, Gaussian Mixtures, Imbalanced Learning (SMOTE), K Means Clustering, Unsupervised Machine Learning Algorithms (K Nearest Neighbors), Deep Learning Artificial Neural Networks, Support Vector Machines, Supervised Machine Learning Algorithms (Logistic Regression, Hidden Markov Models), Decision Trees and Random Forests, Linear Regression.
+Time Series Analysis : ARIMA, Sentiment Analysis, Data Visualization, Hypothesis Testing, Multivariate Analysis, Behavioral Modeling, Statistical Analysis, Pattern Recognition, Predictive Analysis, Linear Regression, Stochastic Optimization, Data Mining, Classification, Forecasting, ANOVA.
+NLP (Natural Language Processing): Bag of Words, Word2Vec, Processing Document Tokenization, LDA, Token Embedding, Fast Text, TF/IDF, Bert, RoBerta.
+Programming Languages: Python 2, Python 3, R, SQL, Matlab, C++.
+.
+
+Professional Experience
+
+Lead Gen Ai Scientist at General Mills
+Saint-Paul Minnesota January 2023 – Present
+
+General Mills has several brands including Pillsbury, Post and several others. As a Lead AI Scientist I created a Knowledge management system that responds to nutrition related questions in a conversational way. This was done using RAG on Open AI and Pinecone.
+
+Some tasks include:
+•Designed and Implemented Gen Ai strategy for General Mills Involving Interactive Chat Agents, Retrieval Augmented Generation of Product data and Image Generation.
+•Utilized Universal Sentence Encoder and Bert Uncased 768 embeddings for clustering and encoding.
+•Employed K-Means and DB Scan algorithms to cluster embeddings and identify topics by locating centroids in the clustered text.
+•Utilized Open Ai API and ADA-002 Embeddings to vectorize text into 1536 element tensors.
+•Leveraged Pytest, Unittest, Django Frameworks, and Python Virtual Environments for testing purposes.
+•Employed NLP techniques such as Tokenization, Lemmatization and Removal of Stop Words for corpus management.
+•Created a document processing pipeline and utilized Langchain for chunking and document preparation.
+•Applied Syntactic NLP techniques such as Synonyms, Entities, and Phrase Syntax/Semantics analysis.
+•Conducted Linguistic Paraphrase testing simulations.
+•Developed Test Plan Designs/Test Cases for Phrase-Service Matching.
+•Automated NLP Features API and implemented Customer Query Service Department Classifications and Text Request Multi-Class Service Department Classifications.
+•Utilized NLP Manual (Annotation/Correction Language Synonyms/Entities Relations) for API Integrations.
+•Innovated with Large Language Models (LLMs), specifically GPT-3.5 and LLAMA 2, exploring in-context learning capabilities for topic identification, specifically using the Retrieval-Augmented Generation (RAG) approach.
+•Upload and inserted embedded information into Pinecone Vector DB.
+•Used Postman for API testing, ensuring seamless integration and functionality.
+
+Sr. Data Scientist/ ML-Ops Engineer at Southwest Air Lines
+Austin, Texas Apr 2020 – Dec 2022
+
+Southwest Air Lines is a major global airline offering scheduled air transportation for both passengers and cargo. In my role as a Senior ML Engineer, I spearheaded a pivotal AI/ML initiative. The purpose of the project was to predict and forecast cargo routing based on airport and regional traffic and weather information. I was also responsible for the Model lifetime Management and ML-Ops pipelines of our organization.
+
+Some of the tasks included:
+•Implemented Time Series Analysis Modeling utilizing Sarimax and FB Prophet as well as RNN models.
+•Leveraged Relational Database Management Systems (RDBMS) for structured data storage and retrieval.
+•Specifically, utilized TensorFlow for designing intricate deep learning models and employed Python packages (NumPy, Pandas, and Tensorflow) to address computer vision and NLP-based OCR challenges.
+•Optimized and automated the data pipeline with Directed Acyclic Graphs (DAGs) on Apache Airflow for efficient workflow orchestration and scheduling.
+•Managed CI/CD deployment through Jenkins and designed a robust data quality framework using the AWS Data Quality Rules Engine, ensuring accuracy and consistency across diverse data sources.
+•Acted as a mentor to junior data engineers, offering guidance on best practices in data engineering.
+
+Senior Data Scientist at Salesforce
+Atlanta, GA Sep 2017 – Mar 2020
+
+As a Senior Data Scientist at Salesforce, I lead a cross-functional team comprising data engineers, modelers, and ML-ops experts. Our focus is on deploying forecasting and Natural Language Processing (NLP) models to elevate the Customer Experience Department. I authored and tested Transformer-based and Statistical Models to assess client reactions to upgrades and support sessions. Additionally, I integrated forecasting models to predict peak demand points.
+
+•Processed and prepared text data through normalization, tokenization, stemming, and lemmatization using NLTK in Python.
+•Customized solutions coded in Python, utilizing TensorFlow, Keras, and NumPy libraries, and tested various embedders, including BERT, Word2Vec, GloVe, and others.
+•Employed statistical classifiers, random forests, and logistic regressions for sentiment analysis, constructing an Artificial Neural Networking solution for natural language processing.
+•Implemented a model using BERT for embedding and classification, fine-tuned for specific data.
+•Developed processes and tools for monitoring and analyzing performance and data accuracy, enhancing data collection procedures for analytics system optimization.
+•Collaborated with IT to continuously improve business performance and processed, cleansed, and verified data integrity from various sources.
+•Advised the leadership team and stakeholders with data-driven solutions, recommending strategies to address business challenges.
+•Prototyped foundational data pipelines and collaborated with the data engineering team to establish canonical sources of truth for Customer Experience metrics.
+•Wrote test classes to ensure code coverage for Apex classes and triggers, developed reports, and utilized them in dashboards.
+•Supported the design of data models, user interfaces, business logic, and security for custom applications.
+•Designed REST-based APIs for effective deployment and integration of NLP models into existing front ends.
+
+Data Scientist and Data Analyst at Enphase Energy
+Petaluma California May 2016 – Aug 2017
+
+As a Data Scientist and Data Analyst at Enphase, I contributed to a project involving sensitivity analysis on a numerical model simulating a solar generation plant. I designed and implemented a neural network to replicate the physics of the process model, optimizing computational efficiency for the sensitivity analysis. Created complex forecasting models to predict power generation in different locations. Used Time Series Analysis to predict electrical demand.
+
+•Devised specialized algorithms for the storage and comparison of vectorized features and verifications, demonstrating a tailored approach to data analysis.
+•Implemented Convolutional Neural Networks (CNNs) using PyTorch and Python, showcasing proficiency in cutting-edge deep learning technologies.
+•Conducted meticulous data cleaning on both images and tabular data, ensuring the quality and reliability of the dataset.
+•Designed and implemented statistical evaluation techniques to assess the performance of the model, emphasizing a rigorous validation process.
+•Deployed the developed model using Flask and pickle, showcasing practical implementation skills.
+•Quantified uncertainties associated with the ANN predictions, providing a nuanced perspective on predictive reliability.
+•Published the research work in the Journal of Neural Networks, highlighting the academic and practical contributions to the field.
+
+Data Scientist Risk Analysis at State Street Bank
+Thousand Oaks, CA Jan 2015 –May 2016
+
+•Worked on Risk Evaluation for financial products costumer as well as developing a risk score based on 37 features and transactional data..
+
+Data Scientist at IQVIA
+Durham, North Carolina Jan 2010 – April 2012
+
+•Implemented diverse classification models such as logistic regression, SVM, random forest, and Naïve Bayes to address specific data analysis requirements.
+
+Data Analyst at PRA Health Sciences.
+Durham, North Carolina Feb 2006 – Dec 2009
+
+•Addressed complex business queries by identifying relevant data, structuring it for analysis and database integration, visualizing insights, and presenting new opportunities and potential ROI to leadership.
+
+Education
+
+Master of Science in Data Science
+
+Bachelor of Science in Statistics
+Contact this candidate

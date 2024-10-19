@@ -1,0 +1,93 @@
+ALMAS HAIDER
+Sr. Linux Systems Administrator/Engineer
+
+732-***-****
+adxvf6@r.postjobfree.com
+
+CAREER SUMMARY
+A well conversant Sr. Linux Systems Admin with 6+ years of experience. Proficient with RHEL and CentOS OS hosted on various platforms (Physical, VMware and public cloud - AWS) with strong troubleshooting knowledge. Expertise in installation, configuration, maintenance of Linux distribution servers. Strong experience in integration, Tuning, Backup, Upgradation, Patching, Monitoring System Performance, System and Network Security, and Troubleshooting of Linux Servers. Proficient in Configuration management, orchestration, patching and software deployment through Ansible playbooks. Experience of AWS cloud-specific services, exposed to Docker containers for abstraction of OS and Kubernetes for orchestration of containers.
+
+CORE COMPETENCIES
+•Operating Systems: RedHat Enterprise Linux 6, 7, and 8 CentOS 6, 7 and 8, Ubuntu Windows OS.
+•Virtualization Tools: VMware, vCenter, ESXI, vSphere, Vmotion, Clone, template, snapshot.
+•Configuration and Management: NFS, DNS, DHCP, FTP, VSFTPD, HTTP, Apache, PXE-Boot, Kickstart and MySQL, TCP/IP, UDP, NTP, SSH, and Telnet, Veritas NetBackup.
+•Hardware Troubleshooting: Rack & Stack Servers, Configured iLO, iDRAC, and RAID.
+•Disk Storage Management: RAID, LVM, NFS, SAN, NAS, EXT3, EXT4 and XFS.
+•Automation Tools: Ansible, Ansible-Playbook, Ansible Tower, Bash-Scripting, Git, Gitlab.
+•Work Tracking Tools: Jira, BMC Remedy, ServiceNow.
+•Monitoring Tools: Nagios Core, Nagios XI.
+•Documentation Tools: Confluence, Microsoft Excel, and Microsoft Word and Notepad.
+•Languages: YAML and SHELL
+•DevOps Tools: AWS (EC2, ELB, EBS, IAM, VPC, RDS, S3, Glacier, Cloud Watch), Docker, Kubernetes
+
+PROFESSIONAL EXPERIENCE
+
+Aug 2020 – Present M&T Bank Buffalo, NY
+Sr. Linux Systems Administrator/Engineer
+
+Installing, configuring, and managing of RHEL 6x/7x/8x, CentOS and Ubuntu.
+Supporting VMware, specifically ESXI vSphere to monitor cluster performance, optimizing the server environment, diagnose and resolve production issues.
+Created Change Management records for replacing faulty components/ Break-fix activities by adhering to customer’s Change Management guidelines.
+Opening change window request, patching of Linux servers through Ansible to remediate vulnerabilities, ensuring availability of the secure and updated server.
+Handling post-patch troubleshooting of Linux OS or kernel issues and bringing up all the servers after patching.
+Extensively worked with Ansible to automate provisioning, configuration management, application deployment, and intra-service orchestration.
+Tweaking existing playbooks in the environment and creating New Playbooks to manage users, services, storage, and web servers.
+Running Ad-hoc Ansible commands to gather facts about the machine.
+
+Configured a YUM Local Repository Server.
+Configuring LVM and creating, extending files systems in Linux, (EXT3, EXT4, XFS), running file system checks, and fixing corrupted file systems.
+Keeping track of trouble ticket queue by using SNOW ticket system. Closing or escalating tickets to different departments to resolve tickets efficiently as per SLA.
+Documenting all the findings, actions, and outcomes with the intention to provide a road map to troubleshoot problems, save time during future troubleshooting, capturing a history of equipment and users to get familiar with perpetual issues.
+Monitoring Systems and checked Performance from time to time by top, uptime, and sar utilities. • Using Nagios to monitor infrastructure and resolve the issues in time.
+Configuring NIC bonding to provide backup, load balance, and channel bonding to provide increased network bandwidth.
+Performing capacity planning, including storage allocation, configuring hardware, software arrays, and planning for future requirements.
+Setting up system wide cron jobs for backups and monitoring processes.
+Providing continuous 24/7 primary on-call support for the server applications.
+Deploying EC2 instances, using AMI service, managing S3 buckets, familiar with ELB, and do monitoring of A.W.S environment through CloudWatch.
+Implementing Auto-Scaling, load balancers (ELBs), Assigned roles and policies via IAM, Security groups in the defined Virtual Private Connection (VPC).
+Managing Docker repository, files/compose, images, running containers, container inspect, allocations resources to a particular container.
+Employed Kubernetes for the purpose of scaling and managing containerized applications across a multitude of host clusters.
+
+Feb 2018 - June 2020 Mindtree, Warren, NJ
+Linux Systems Administrator
+
+Managed full lifecycles of servers i.e., deployed, provisioned, troubleshoot, maintained, and decommissioned.
+Having working experience in the data centre on & off, unboxed servers and racking/stacking them.
+Performed server migration from RHEL 6 to RHEL 7.
+Configuring and deploying PXE-boot server for provisioning the server over the network and adding the Kickstart server for automation for the deployment steps.
+Conducted system BACKUPS according to company’s standards.
+Installed equipment cages, racks and stack, cabinets, patched cables, connected machines to switches following proper Company Infrastructure protocol, and changed management processes.
+Maintained and ensured maximum uptime of Dev/QA/Staging and Production VMware servers. • Built nodes on RedHat Satellite with compliance and added them to existing clusters.
+Set up the thresholds on the parameters CPU/Memory/Disk/Network and managed alerts for the users.
+Created a new backup repository on a physical and virtual machine. Expert in scheduling incremental and full back up jobs and troubleshooting.
+Performing migrations from Linux environments from old physical servers to new virtual servers.
+Implemented software and hardware RAIDs and configured various RAID levels 0,1,5,6,10.
+Troubleshoot all network-related issues using commands ifconfig, netstat, traceroute, TCPDUMP, Wireshark, nslookup, DIG.
+Filtered network packets and ensured security by capturing packets using tools such as Iptables, Firewalls, TCP wrappers.
+
+Proficient in kernel tuning to modify and improve the speed and performance of a system.
+Experience in transferring files across networks using protocols like SCP, SFTP, and FTP. Also managed TCP and UDP protocols. Experience in troubleshooting and configuring NFS, DHCP, SSH, FTP, DNS.
+Experienced in Incident Management, managed and resolved the tickets opened by clients after assessment and prioritizing, change requests, and service requests generated by a monitoring system i.e., BMC Remedy.
+Automating repetitive tasks using Bash scripting.
+
+Nov 2016 - Jan 2018 Xandr, NYC, NY
+Jr. Linux Admin
+
+Assisted in developing long-term strategies and capacity planning for meeting future hardware and organizational hardware needs.
+Expert level of users and groups Administration and setting ACL.
+Configured secure command-line service on remote systems with Open SSH and SSH Keys.
+Carry out assessments to determine the need for changes in hardware/software configurations.
+Installation of SSH and configuration of keys bases authentication.
+Provided tier 2 and 3 technical supports in person, over the phone, and remotely regarding hardware, software, and network-related issues.
+Managed hardware-related issues, including checking the physical health of hardware and fulfilling repairing requirements.
+Used Confluence JIRA to track progress on infrastructural activity and experienced in documenting issues/ solutions with Confluence.
+Keep track of system utilization to optimize system performance, proactively identifying and addressing issues before they become critical.
+Prepared tests and applications for monitoring desktop performance, then provide performance statistics and reports.
+Maintains the security and integrity of systems by monitoring security logs.
+Installed, upgraded, removed dependencies of software. Installed and upgrade packages using Yum and RPM utilities.
+Collaborated with software developers and Linux engineers to develop and implement IT support strategies.
+
+Education:
+Bachelors in computer and sciences
+Punjab University
+Contact this candidate

@@ -1,0 +1,177 @@
+y Karthik
+SR. DevOps Cloud Engineer
+Email: ad7jxy@r.postjobfree.com PH: 872-***-****
+Professional Summary:
+Over 9 + years of IT industry experience in DevOps Engineer with expertise in areas of Automation, Software Configuration, Version control, Build and Release management, Issue tracking, Change management Incident tracking.
+Designed and deployed highly available OpenShift/k8s clusters.
+Experience in using CVS, GIT on LINUX and Windows environment.
+Having work experience in support of multi platforms like Solaris, RHEL and Windows of production, test, and development servers.
+Prepared, arranged, and tested Splunk and Prometheus search strings and operational strings.
+Troubleshooting and problem solving of Linux/Windows servers, debugging OS failure.
+Expert in deploying the code through web application servers like Apache and Tomcat application servers.
+Experience of working with the release and deployment of large-scale C++, Java/J2EE Web applications.
+Experience with installing, maintain and troubleshooting hardware and software problems with RedHat Servers.
+Developed user interface using CSS, HTML, JavaScript and jQuery.
+Experience in working with Web-Development technologies like HTML, Java Script, .Net, C#, CSS, XML.
+Change/Incident management, Site Reliability (SRE) and Cloud management.
+Experienced in Chef, Puppet, Ansible and Salt stack for deployment on multiple platforms.
+Experience with version control systems like GIT, CVS, SVN (subversion).
+Experience on Virtualization technologies like VMware.
+Expertise in scripting for automation, and monitoring using Shell and Python.
+Working on Amazon web services (AWS) and Open stack cloud to provision new instances.
+Scripting in multiple languages on UNIX, LINUX, and windows – batch, shell script etc.
+Expert in deploying the code trough web application servers like web sphere/ web logic/apache tomcat/ JBOSS.
+Have good hands-on experience working on cloud platforms like Open Stack and Amazon web services.
+Experience in Microsoft azure cloud services (PAAS & IAAS), storage, web apps, active directory.
+Experience in dealing with IaaS-Virtual Networks, Virtual Machines, Cloud Services, Express Route, Traffic Manager, VPN, Load Balancing, Auto-Scaling.
+Experienced in implementing and maintaining an APACHE TOMCAT/MY SQL/PHP, LDAP, LAMP web service environment.
+Designing the entire cycle of application development by using Docker.
+Experienced with Docker orchestration tools like Kubernetes and OpenShift.
+Configuration of container logs monitoring with Graylog and fluent-d services on OpenShift/k8s clusters.
+Ability to develop technical and knowledge documentation, technical communications and project work plans.
+Configuration and management of MySQL, Mongo and PSQL databases on OpenShift/k8s clusters.
+Monitoring the processes, disk usage via Prometheus and Grafana.
+Involved in handling tickets, monitoring, troubleshooting and maintenance for Day-to-day Activities.
+Configured servers to host Team Foundation Server (TFS) instance, build controllers and build agents.
+Administered JFrog Artifactory Pro for managing binaries and artifacts across different environments.
+Automated artifact uploads and downloads using JFrog CLI and REST API, reducing manual errors and enhancing deployment efficiency.
+Conducted regular maintenance and upgrades of JFrog Artifactory to ensure optimal performance and reliability.
+Developed custom scripts and integrations to extend the functionality of JFrog Artifactory and integrate with third-party tools.
+Managed and administered JFrog Artifactory as the central artifact repository for a team of 8 developers.
+Configured and maintained repositories for Maven, npm, and Docker artifacts, ensuring efficient storage and retrieval.
+Integrated JFrog Artifactory with Jenkins pipelines to automate artifact deployment and versioning.
+Implemented security best practices, including artifact scanning and access controls, ensuring compliance with Client standards.
+Collaborated with development teams to optimize artifact workflows and improve build and deployment times by processes.
+Technical Skills:
+Operating systems
+Linux (Red Hat 4/5/6/7, CENTOS), Windows servers [2003, 2008, 2008 R2, 2012, 2012R2], Windows 2000, XP, Windows 7, Ubuntu 12/13/14.
+Cloud Platform
+Amazon Web Services, OpenStack, Microsoft Azure
+Application Servers
+Apache Tomcat 2.0.x, JBOSS 4.x/5.x, Red Hat.
+Automation Tools
+Docker, Kubernetes, OpenShift, Ansible, Jenkins.
+Virtualization
+VMware Client, Windows Hyper-V, vSphere 5.x, Datacenter Virtualization, Virtual Box.
+Cloud technologies
+AWS, Azure, GCP
+
+Monitoring tools
+Splunk, Nagios, Cloud Watch, Prometheus, Grafana.
+Scripting
+Python, Shell scripting, YAML, JSON
+Data base technologies
+SQL Server, MySQL, PSQL, MONGO.
+Version control tool
+Git, SVN, Git Hub, Git Lab, Bitbucket.
+Ticketing tools
+Jira, Service now.
+
+Professional Experience:
+Wells Fargo - San Francisco, CA Apr 2023 - Present
+Sr. DevOps/AWS System Engineer
+Description: It is a diversiﬁed, community-based ﬁnancial services company. It is engaged in the provision of banking, insurance, investments, mortgage, and consumer and commercial ﬁnance. Currently working with the migration team and responsible for maintaining a cloud infrastructure and to create a backup of customer transaction details to cloud in order to avoid data gaps and provide uninterrupted services.
+Responsibilities:
+•Successfully migrated applications and data from on-premises to AWS using services like EC2, S3, Route53, and IAM
+•Worked on Amazon EC2 setting up instances, virtual private cloud (VPCs), and security groups and created AWS Route53 to route traffic between different regions and used BOTO3 and Fabric for launching and deploying instances in AWS
+•Configured Amazon S3, Elastic Load Balancing, IAM and Security Groups in Public and Private Subnets in VPC, created storage cached and storage volume gateways to store data and other services
+•Architected and configured a virtual data center in the AWS cloud to support Enterprise Data Warehouse hosting including Virtual Private Cloud (VPC), Public and Private Subnets, Security Groups and Route Tables
+•Designed application topologies by liaising with Architects that showcase various entities like Cloud services, Network, service dependencies, and public peer service
+•Used Security Groups, Network ACLs, Internet Gateways, NAT instances and Route tables to ensure a secure zone for organizations in AWS public cloud
+•Worked on migration services like AWS Server Migration Service (SMS) to migrate on-premises workloads to AWS in easier and faster way using Rehost "lift and shift" methodology and AWS Database Migration Service (DMS), AWS Snowball to transfer large amounts of data and Amazon S3 Transfer Acceleration
+•Leveraging Terraform to manage various AWS resources, such as EC2 instances, VPCs, subnets, security groups, IAM roles, S3 buckets, RDS databases, and more
+•Managed and maintained highly available EC2 instances using Terraform and CloudFormation
+•Created reusable and modular infrastructure components using Terraform modules
+•Wrote Terraform scripts for automating AWS services provisioning, infrastructure deployment, and Lambda functions
+•Drive ongoing enhancements to release processes using XLR, analyzing metrics and collaborating across teams to optimize workflows and automation for continual efficiency gains
+•Worked on CI/CD pipelines using Jenkins to build, test, deploy microservices containers on Kubernetes clusters using Ansible on DEV, UAT, PROD environment
+•Installed and configured Jenkins for continuous integration and delivery pipelines integrating with Nexus, SonarQube, and Ansible, created Ansible playbooks for automation purposes, including file manipulation, configuration changes, and deployments
+•Seamlessly integrated Docker and AWS services within the project
+•Utilization of Docker containers to deploy applications on AWS services like Amazon ECS (Elastic Container Service) or Amazon EKS (Elastic Kubernetes Service)
+•Proficiency in writing Dockerfile instructions to define the desired state of applications and their dependencies
+•Configured and optimized Docker images specifically for AWS deployments
+•Worked with multi-stage builds, cache optimization, and reducing image size in Dockerfile configurations
+•Configuration of various Docker network types, including bridge networks, overlay networks, or custom networks tailored to specific AWS project requirements
+•Have used Trivy tool to scan container images stored in container registries or local image repositories
+•Integrated AWS services such as Amazon RDS, Amazon S3, AWS Lambda, Amazon DynamoDB, or AWS Elastic Load Balancer (ELB) with Kubernetes applications
+•Set up Kubernetes using Amazon Elastic Kubernetes Service (Amazon EKS) or self-managed Kubernetes on Amazon EC2 instances
+
+Environment: Amazon Web Services (Aws), EC2, RDS, S3, Cloud Watch, EBS, NACL, VPC, DNS, Docker Containers, Docker swarm, Kubernetes(k8s), Chef, Terraform, Jenkins, Git, GitHub, MAVEN, ELK, Nagios, Shell, Python, JIRA, Linux, Nexus, SonarQube, JFrog, Webhooks.
+
+United Health Care – Edina, MN MAR 2021 – Mar 2023
+Role: Sr Azure Cloud DevOps Engineer Responsibilities:
+•Developed and maintained microservices on Microsoft Azure, creating a private container registry using Windows Active Directory for image hosting.
+•Implemented Ansible for automated configuration management of Azure Virtual Machines, crafting playbooks and roles for system operations.
+•Utilized Terraform and Packer to automate the creation of custom machine images and software installations post-infrastructure provisioning.
+•Designed and implemented scalable DevOps infrastructure on OpenShift, seamlessly integrating Kubernetes, Docker, and Azure pipelines.
+•Managed and implemented DevOps environment on Red Hat OpenShift, enabling efficient microservice deployment and management with Active Directory integration for secure image registry authentication and Azure Pipelines for CI/CD.
+•Building and Installing servers through AZURE Resource Manager Templates (ARM).
+•Utilized OpenShift to automate infrastructure, deploying and managing containerized applications across Azure Kubernetes Service (AKS).
+•Managed Kubernetes clusters in Azure Container Service (ACS), setting up multi-node clusters and deploying containerized applications.
+•Implemented TeamCity and Octopus build tools and integrated with TFS.
+•Manage on-premise Kubernetes setup, ensuring efficient deployment and scaling of applications.
+•Develop and maintain CI/CD pipelines for applications built on Docker, Angular (or similar), .NET Core, and SQL Server 2022, integrating advanced code scripting techniques for automation.
+•Collaborate with development teams to containerize applications using Docker, while leveraging technologies such as Angular, .NET Core, and SQL Server 2022 for cloud-native development.
+•Played a key role in transitioning teams towards an infrastructure-as-code approach.
+•Creation of Prometheus- Grafana setup using Terraform /Ansible for various targets like Spark, MySQL, node exporters etc.,
+•Extensive experience in JIRA for creating bugs tickets, storyboarding, pulling reports from dashboard, creating and planning sprints.
+•Spearheaded the end-to-end migration of Team Foundation Server (TFS) to Azure DevOps, ensuring minimal disruption to ongoing development activities while maximizing the benefits of the new platform.
+•Orchestrated the migration process, including data extraction, transformation, and loading (ETL), to seamlessly transition source code repositories, work items, test cases, and build configurations from TFS to Azure DevOps.
+•Optimized Azure cloud infrastructure with a specific focus on firewall, VPN, and security implementations to ensure a secure and high-performing environment.
+•Implemented custom mappings and transformations to ensure data integrity and consistency between TFS and Azure DevOps, addressing differences in data structures, field mappings, and process templates.
+•Implemented security best practices within Azure, with a keen focus on firewall configurations, VPN setups, and continuous monitoring to ensure a robust security posture.
+•Developing scripts for build, deployment, maintenance, and related tasks using Jenkins, Docker, Maven, Python and BASH
+•Demonstrated expertise in disk encryption and VM hardening in Azure to ensure adherence to security protocols.
+Environment: Microsoft Azure, Azure Kubernetes Service (AKS), Azure Container Service (ACS),Docker, Kubernetes, OpenShift, Jenkins, Helm, Octopus Deploy, Ansible, Terraform, Packer, Python, Java/J2EE, Bash, Git, Maven, Splunk, Nagios, Datadog, Couch Database, Linux, Windows Server,, Azure Traffic Manager, Network Watcher, Azure Site Recovery, VM Hardening, Disk Encryption, YAML, CLI, Active.
+Capgemini – Hyderabad,INDIA Jun 2018 - Nov 2020
+Role: DevOps Engineer/SRE (GCP/AWS)
+Responsibilities:
+•Designed and deployed scalable, highly available, and fault-tolerant systems on Multi cloud.
+•Migrate existing on-premises applications to Multi cloud.
+•Selected the appropriate AWS service based on compute, data, or security requirements.
+•Identify appropriate use of AWS and GCP operational best practices.
+•Set up and administer multi-tier computer system environments.
+•Working closely with development teams to integrate the projects into the Multi Cloud environment.
+•Providing support and technical governance, related to cloud architectures, deployment and operations.
+•Providing technical support, addressing issues, troubleshooting, and optimizing performance.
+•Implemented and oversaw the deployment of multi-cloud applications, ensuring seamless integration and compatibility.
+•Utilized knowledge of AWS to advise on best practices and guide decision-making.
+•Manage and optimize resources to maintain optimal performance and cost-effectiveness.
+•Developed automation scripts and workflows using Infrastructure-as-Code (IaC) tools to enable consistent and efficient resource provisioning.
+•Implement orchestration strategies to streamline deployment and management processes across multiple clouds.
+•Enforce security measures and compliance standards across various cloud platforms, monitoring for vulnerabilities and ensuring data protection.
+•Collaborated with security teams to implement consistent security practices across multi-cloud environments.
+Environment: AWS, GCP, Jenkins, Maven, GitHub, Docker, Terraform, SonarQube, Bash scripting, Nagios.
+IBM - Hyderabad, India Sep 2016 – May 2018
+Role: DevOps Engineer
+Worked with JIRA to create projects, assign permissions to users and groups for the projects, and create mail handlers and notification schemes.
+Created alarms, monitored & collected log files on AWS resources using CloudWatch on an EC2 instance, which generates Simple Notification Service (SNS).
+Implemented and managed Ansible configuration management in several AWS and VMware environments.
+Designed and implemented Ansible roles to ensure deployment of web applications on AWS virtual servers.
+Developed clusters with Kubernetes and created many pods, replica controllers, replica sets, services, deployments, labels, health checks, and ingresses using YAML.
+Provided a Continuous Delivery pipeline to all application teams who have migrated to Jenkins.
+Administration and installation of Virtual Box virtual machines on Ubuntu Linux servers.
+Utilized Boto3 Python libraries to manage EBS volumes and schedule Lambda functions for AWS tasks using Ansible and Terraform.
+Installed Jenkins and Plugins for GIT repository, configured SCM polling for immediate builds with Maven and Maven repository (Nexus Artifactory), and deployed apps using custom ruby modules.
+Utilized open source technologies such as Docker, Kubernetes, and Terraform, as well as multiple cloud platforms both public and private, to deliver a ubiquitous and consistent global platform.
+Created pom.xml files for publishing artifacts into Nexus repository for continuous integration (CI).
+Provided support to the application teams if they have any issues or would like to add features to the pipeline template.
+Implemented docker container creation process for each GitHub branch gets started on Jenkins as Continuous Integration (CI) server.
+Maintained and administered the GIT source code tool, created branches, labels, and merge files.
+Managed and analyzed cloud infrastructure security incidents and vulnerabilities using AWS Config, Control Tower, which provides audits, logs, and reports. Defended against computer-based attacks, unauthorized access, and policy violations.
+Environment: Docker, Puppet, Jenkins, Nexus, Kubernetes, Terraform, GITHUB, Maven, VMware, AWS, Jira, Ansible, GITHUB, Nagios, Windows.
+
+Wipro Technologies - Hyderabad, INDIA May 2014 – Aug 2016
+Role: Build & Release/DevOps Engineer
+Implemented and maintained branching, build/release strategies using GIT and STASH/Bitbucket.
+Designed and maintained the GIT repositories, views, and access control strategies.
+Developed a number of Chef enterprise modules to automate infrastructure provisioning and configuration automation across environments using chef cookbooks.
+Provisioned and re-provisioned virtual domains dynamically using LDAP data and local templates.
+Implemented and administered Jenkins for automated builds.
+Used Chef to manage and maintain the existing infrastructure. Created lots of recipes in cookbooks and bootstrapped the nodes with Chef enterprise servers to store data.
+Integrated Docker container-based test infrastructure into Jenkins CI test flow and set up build environment to trigger builds using Web Hooks and slave machines based on GIT and JIRA.
+Incorporated scripts into build artifacts (war, ear) allows them to be deployed into a Tomcat, WebLogic application server.
+Worked closely with developers to pinpoint and provide early warnings of common build failures.
+Created and implemented tools for software builds, patch creation, source control, and release tracking and reporting on the LINUX platform as a member of the Release Engineering group.
+Environment: Java, Docker, Chef, Jenkins, GIT, Hudson, Jira, Apache Tomcat Server, Jira, Bitbucket, Linux.
+Contact this candidate

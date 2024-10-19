@@ -1,0 +1,65 @@
+Jonathan Foster
+**** ** *** **
+Fort Lauderdale, FL 33301
+202-***-****
+dfotil@r.postjobfree.com
+
+Professional Summary
+Solutions architect with 8 years’ experience developing solutions in the financial services and federal government sectors. Highly skilled in software development, technical documentation, leading technical teams, mentoring junior staff, and managing client relationships.
+
+Highlights
+• 8 years’ experience developing solutions using the Microsoft technologies
+• Proven ability to work with customers to bridge the gap between business and technology
+• Experience designing application architecture and applying software development best practices and patterns
+• Created a technical proposal which resulted in the award of a $3 million federal contract
+• Developed award-winning solutions for the Federal Government
+• Engineered solutions used to process over $100 million in transactions for Fortune 500 financial firms
+Technical Skills
+• Programming Languages: Visual Basic 6.0, Visual Basic .NET, C#, ASP.NET, HTML, JavaScript, CSS, T-SQL, PL/SQL
+• Frameworks: .NET 1.1, 2.0, 3.5, 4.0, WCF, ASP.NET MVC, Entity Framework, NHibernate, Microsoft AJAX, jQuery, ADO.NET, NUnit, Moq, NInject, Enterprise Library
+• Concepts: Object Oriented Programming (OOP), Inversion of Control (IoC), Unit Testing, Test Driven Development (TDD), Domain Driven Development (DDD), SOLID Principles
+• Database Management Systems: Oracle, MySQL, Microsoft Access, Microsoft SQL Server
+• Operating Systems: Microsoft Windows 2000, XP, 7, Microsoft Windows Server 2000, 2003, 2008, Ubuntu Linux
+• Applications: Microsoft Access, Excel, PowerPoint , Word, Visio, Project
+Professional Experience
+Program Manager/Technical Lead NCI Information Systems Oct. 2010 – Nov. 2011
+• Provided overall management for the Financial Management Information System (FMIS) maintenance and support project and the Legislative Information System (LIS) maintenance and support project. This includes ensuring the projects are compliant with the contract schedule, technical requirements, and SLAs as well as ensuring the staff is properly skilled and trained. Ensured the program is performing well financially by maximizing revenue, controlling direct labor costs, and minimizing other direct costs. And finally, ensured the customer’s overall satisfaction with NCI’s performance.
+• Developed a technical proposal to communicate NCI’s software development solution to the US Senate Sergeant at Arms (SAA) FMIS and LIS Request for Proposal (RFP). The proposal presented the benefits to NCI’s approach and translated our technical proposal in a clear, concise, and easily understandable manner. The proposal resulted in the award of a $3 million federal contract.
+• Provided technical guidance, architectural design, and implementation to the US Senate Sergeant at Arms (SAA) during the legacy migration and modernization effort of the Legislative Information System (LIS). LIS is used to document and communicate to citizens the legislation and records of the US Senate. This system represents a mission critical component of the US Government’s legislative process.
+• Led the development effort to modernize a legacy report management system (RMS) used to report the US Senate’s legislative record. The new system was developed using Visual Basic .NET, ASP.NET, the .NET 3.5 Framework, jQuery, and the AJAX Control Toolkit. Reports were implemented using Crystal Reports 2008. The application was designed using Domain Driven Design concepts and SOLID principles. Test Driven Development was used to provide adequate unit and integration test coverage.
+• Provided training, guidance, and support to junior developers in the areas of Domain Driven Development, SOLID principles, ASP.NET, and Agile development methodologies to ensure the LIS development team followed a disciplined and repeatable development process.
+
+Principal Systems Programmer NCI Information Systems Jul. 2009 – Oct. 2010
+• Developed work flow solutions for the Housing and Urban Development Office of the Inspector General (HUD OIG). Participated in the full software development lifecycle including partnering with stake holders to develop business requirements, working with documentation and requirements analyst to translate business requirements into functional requirements, and supporting quality assurance analysts by fielding questions regarding features and resolving any defects discovered during testing.
+• Led the development effort to re-engineer a complaint management system which was used to field calls from the general public regarding HUD programs. The system also provided reporting functionality to program directors and the inspector general. The application was written using C#, ASP.NET, the .NET 3.5 Framework, Microsoft’s AJAX framework, and the AJAX Control Toolkit. Re-designed the database to the 3rd normal form and increased query performance by adding appropriate indexes and simplifying joins by using surrogate keys. The database was implemented using SQL Server 2005 and reports were implemented using SQL Server Reporting Services. Provided the ability to track complaints throughout related enterprise applications using a WCF web service.
+• Developed a human resource management system to manage employee records, office locations and other critical organizational data. The application provided an interface for HUD OIG employees to maintain their personnel records and this data was then exposed to other enterprise applications using a WCF web service. The application was written using C#, ASP.NET, the .NET 3.5 Framework, Microsoft’s AJAX framework, and the AJAX Control Toolkit. The back-end database was implemented using SQL Server 2005.
+• Developed a case management system to manage federal investigations into fraud, waste, and abuse in HUD programs. The application was written using C#, ASP.NET, the .NET 3.5 Framework, Microsoft’s AJAX framework, and the AJAX Control Toolkit and the back-end database was implemented using SQL Server 2005. The development team’s success was recognized with a 2011 HUD OIG Special Team Award.
+
+Software Developer Trade Call Service Jan. 2009 – May. 2009
+• Created a data warehouse for use in customer data mining using SQL Server 2005. Developed an ETL process using SSIS to extract data from data sources that included flat files of varying formats and FoxPro databases. The database housed millions of records which made it critical to optimize the ETL process by using a star schema, de-normalizing to second normal form, partitioning tables and disabling indexes and constraints during the load process.
+• Developed a Windows application used to query the data warehouse using Visual Basic 6.0. The application was used to provide market analysis and potential customer lists to clients based on key indicators that were represented as dimensions in the data warehouse.
+
+Associate Software Engineer Computer Resource Company Dec. 2003 - Jul. 2008
+• Designed, developed, and implemented business process automation and work flow solutions for numerous Fortune 100 and 500 companies in the financial services industry. Created sales presentations and demonstrated applications to vice presidents and C-level executives. Managed product rollouts which included coordinating activities between the client’s business units and internal IT staff.
+• Engineered a billing system for fully disclosed clearing (FDC) firms using C#, ASP.NET, the .NET 2.0 Framework and Microsoft’s AJAX framework. The billing system imported FDC client transactions and created invoices based on individual client contracts. Designed the back-end database including table structure, primary and foreign keys and indexes using SQL Server 2005 and developed stored procedures to expose create, read, update, and delete functionality.
+• Developed a fail management system used to manage security transaction failures and communicate fail status updates to middle and back office personnel. The application was written using C#, ASP.NET, the .NET 2.0 Framework and Microsoft’s AJAX framework. Implemented the back-end database including table structure, primary and foreign keys and indexes using SQL Server 2005 and developed stored procedures to expose CRUD functionality. Developed a SSIS package to import Fail data from a legacy system on a daily basis.
+• Re-engineered a web-based unit investment trust (UIT) trading application using Visual Basic .NET, ASP.NET and the .NET 1.1 Framework creating an application that is able to interface multiple back office systems using interfaces and polymorphism. Re-designed the back-end database including table structure, primary and foreign keys and indexes using SQL Server 2000 and later SQL Server 2005 and developed stored procedures to expose CRUD functionality. Developed database triggers to log all changes to critical tables. Designed DTS and SSIS packages to import pricing information from UIT sponsors from flat files with varying file formats. The UIT trading application was recently used to execute over $100 million in UIT securities in a single day
+• Developed and supported a tri-party collateral management system used to manage government securities for repurchase agreements (repos). The tri-party management system interfaced the client’s back office and the Bank of New York for transaction processing. Designed the system as a thick client application written using Visual Basic .NET and the .NET 1.1 Framework. Engineered the back-end database including table structure, primary and foreign keys and indexes using SQL Server 2000 and developed stored procedures to expose create, read, update, and delete functionality.
+Education
+Master of Business Administration Virginia Commonwealth University Dec. 2008
+• Focus of study: international business, financial analysis, market analysis, and strategic planning (4.0 GPA)
+
+Bachelor of Science Virginia Commonwealth University Aug. 2003
+• Major: Information Systems
+Certifications
+Microsoft Certified Professional Developer (MCPD) Microsoft Oct. 2010
+• ASP.NET Developer 3.5
+
+Microsoft Certified Technology Specialist (MCTS) Microsoft Oct. 2010
+• .NET Framework 3.5, ASP.NET Applications
+Activities
+• Member, Phi Kappa Phi Honor Society
+• Member, Golden Key International Honor Society
+• Volunteer, Street Soccer USA
+• Volunteer, Neighbors Consejo
+Contact this candidate

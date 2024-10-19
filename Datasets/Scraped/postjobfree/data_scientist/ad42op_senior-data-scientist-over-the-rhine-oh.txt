@@ -1,0 +1,178 @@
+Dipa Patra
+Senior Data Scientist
+Email: ad42op@r.postjobfree.com Phone: 571-***-****
+
+Summary: 10+ Years in Data Science and Machine Learning
+
+Data Scientist and AI Engineer experienced in the entire end-to-end machine learning process, from data preparation to production, deploying and monitoring models for real-time and batch inference. Proficient in using analytical and statistical techniques, including machine learning, deep learning, generative AI, and large language models. Skilled in utilizing cloud services like AWS, GCP, and Azure. Known for creative problem-solving, such as developing chatbots using generative AI based on RAG architecture for gift suggestion and automating incident reporting with NLP. Passionate about pushing data's limits to drive innovation in every data-related challenge.
+
+Professional Profile
+
+•Generative AI: Using the power of Large Language Models (LLMs), I push the boundaries of innovation in projects spanning Generative AI, RAG architecture, Vector databases, MLOps, and AWS cloud services.
+•Machine Learning: Proficient in machine learning techniques, I meticulously orchestrate data pipelines and enrich projects with advanced insights.
+•MLOps: Orchestrated data pipelines and leveraged MLOps practices to optimize performance, ensuring seamless model deployment and monitoring.
+•Cloud: Extensive experience in 3rd-party cloud resources: AWS, Google Cloud, and Azure. Proficient in a multitude of AWS cloud services, including EC2 for scalable compute, ECR for container management, ECS for orchestration, Lambda for serverless computing, Sage maker for machine learning, API Gateway for secure API management, and Glue for ETL workflows.
+•Data Analysis: Adept in Python, SQL, Pandas, Matplotlib, Seaborn, and advanced data analysis tools, transforming raw data into valuable insights.
+•NLP: Applied Natural Language Processing techniques, including tokenization, stemming, lemmatization, Word2Vec, Transformers, sentiment analysis, Name Entity Recognition, and Topic Modelling to extract actionable intelligence from text data.
+•Deep Learning: Developed and trained state-of-the-art Artificial Neural Networks (ANNs), RNNs, LSTMs, Transformers and deep-learning models using Keras, TensorFlow and PyTorch.
+•CI/CD Orchestrator: Established and maintained robust CI/CD workflows using Jenkins and GitHub Actions, enabling agile software development and deployment.
+•Collaborative Leader: Led cross-functional teams with agility, conducted agile ceremonies, and meticulously documented project progress for transparent and efficient project delivery.
+•Big Data: Working with and querying large data sets from big data stores using Hadoop Data Lakes, Data Warehouse, Amazon AWS, Snowflake, Redshift, Aurora and NoSQL
+
+•Innovation Catalyst: Continuously exploring emerging technologies and methodologies to drive innovation and stay at the forefront of data-driven solutions.
+
+Technical Skills
+
+Generative AI: Langchain, Pinecone vector db., Prompt engineering, GPT 3, 3.5 Turbo, Open AI Davinci, Palm, LLMs, Stable Diffusion, Chatbot and GANs
+Machine Learning : Supervised Machine Learning Algorithms (Linear Regression, Logistic Regression, Support Vector Machines, Decision Trees, Ensemble algorithm techniques(including Bagging, Boosting, and Stacking), Random Forest, XGBoost, Naïve Bayes Classifiers, K Nearest Neighbors), Unsupervised Machine Learning Algorithms (PCA, K Means Clustering, Gaussian Mixtures, Hidden Markov Models, Auto Encoders), Imbalanced Learning (SMOTE, AdaSyn, NearMiss), Deep Learning, Artificial Neural Networks, Predictive analysis, Transfer Learning
+Analytics: Data Analysis, Data Mining, Data Visualization, Statistical Analysis, Multivariate Analysis, Stochastic Optimization, Linear Regression, ANOVA, Hypothesis Testing, Chi-Square test, Forecasting, ARIMA, SARIMAX, Prophet, Sentiment Analysis, Predictive Analysis, Pattern Recognition, Classification, Behavioral Modeling
+Natural Language: Processing: Processing Document Tokenization, Token Embedding, Word Models, Word2Vec, FastText, BagOfWords, TF/IDF, Bert, GPT, Elmo, LDA, Transformers
+Programming Languages: Python, R, SQL, JavaScript, CSS, Bootstrap, MATLAB, .Net, HTML, Mathematica, Flask
+Applications: Machine Language Comprehension, Sentiment Analysis, Predictive Maintenance, Demand Forecasting, Fraud Detection, Client Segmentation, Marketing Analysis, Cloud Analytics in cloud-based platforms (AWS, MS Azure, Google Cloud Platform)
+Development: Version control tools like Jira, Git, GitHub, GitLab, Bitbucket, SVN, Mercurial, Trello, PyCharm, Visual Studio, Sublime, JIRA, TFS, Linux, Ubuntu, Tableau, Interactive Dashboard
+Big Data and Cloud Tools: HDFS, SPARK, Google Cloud Platform (GCP), MS Azure Cloud, SQL, NoSQL, Data Warehouse, Data Lake, SWL, HiveQL, AWS (RedShift, Kinesis, EMR, EC2, Lambda, Code Build, Code deploy), Snowflake
+Deployment: Continuous improvement in project processes, workflows, automation, and ongoing learning achievement
+
+Professional Experience
+
+Lead Data Scientist/ ML Engineer Since August 2022
+KROGER, CINCINNATI, OHIO
+
+As a Senior Data Scientist at Kroger, I heavily contributed to driving business growth and enhancing customer engagement through data-driven insights and predictive modeling. Our team was dedicated to developing marketing strategies to retain loyal customers and maximize profit. I successfully applied a wide range of advanced analytics techniques for various MMM business use cases. I developed and deployed Machine learning and Deep Learning Models to analyze market segmentation and customer behavior, forecast sales, and predict customer conversion, ultimately contributing to better decision- making and customer-centric marketing strategies.
+In addition, I developed a gift-suggestion prototype using generative AI. I was tasked with to architect and implement a knowledge query system based on Retrieval Augmented Generation (RAG) and LLM completions. The goal of the system is to provide information to customers through a natural language interface. I built a system that can provide text response and product information by using a RAG model. The data was extracted from CSV documents and was upserted into the Pinecone vector database. I have created system prompts to define the level of the answer. I have used text-embedding-ada-002 for text embedding and gpt-3.5-turbo as a pretrained model.
+•Extracted valuable insights from big data using data mining techniques using Spark’s Python API (PySpark) and ETL pipelines.
+•Conducted Market Segmentation using cluster analysis (Hierarchical Clustering and K-Means) and dimensionality reduction techniques to effectively segment the market by leveraging demographic and geographic data.
+•Developed customer personas based on various attributes, which allowed us to implement targeted marketing strategies and personalized customer experiences.
+•Built customer churn predictive models using Logistic Regression, Random Forest, and XGBoost to identify potential customer churn.
+•Analyzed historical customer data and developed a robust model that accurately predicted churn, enabling us to implement proactive retention strategies.
+•Collaborated with cross-functional teams to perform Customer Analytics and create accurate sales forecasts and market mix models (MMM).
+•Utilized GPT 3.5 turbo, embedding models, Pinecone vector database, prompt engineering to generate gift ideas based on a person’s interests.
+•Generated a high-definition image of the gift idea using stable diffusion along with product links.
+•Developed a SARIMAX and Linear regressor model to forecast sales of multiple stores and shared a dashboard of the forecasts with store managers to aid in appropriate inventory restocking.
+•Built different models to predict purchase quantity, purchase probability, and brand choice probability based on customer segments and pricing variations, assisting in pricing strategy decisions.
+•Employed Deep Learning techniques using TensorFlow and Keras to predict the probability of customer conversion, optimizing our marketing spend.
+
+•Created visually engaging data visualizations and live interactive dashboards using Tableau to aid stakeholders in understanding market trends and support data-driven decision-making.
+•Exposed the models as API endpoints using Flask.
+•Containerized the developed models in Docker containers and deployed them on a Kubernetes cluster.
+•Spearheaded the design and deployment of sophisticated machine learning algorithms to optimize customer retention strategies. Utilized predictive modeling and data analysis to identify key factors influencing customer churn, resulting in a significant reduction in attrition rates.
+•Leveraged statistical techniques to analyze vast datasets and extract actionable insights. Identified patterns, trends, and customer behavior, providing valuable recommendations to enhance retention initiatives.
+•Utilized a collaborative approach to align business goals with analytical findings, ensuring the development of comprehensive and effective retention programs tailored to the unique needs of the business and its customer base.
+
+Generative AI Engineer Aug 2020 – Aug 2022
+TWITTER, CINCINNATI, OHIO
+
+As a Genai / NLP engineer worked on detecting Malicious languages by developing neural network models with TensorFlow for detecting malicious language and tweets on Twitter, integrating Google embeddings for enhanced semantic understanding. Automated Incident Report Narratives using Generative AI: The project aimed to enhance incident reporting within the technology company by leveraging Generative AI to automatically generate detailed and coherent narratives for internal incident reports. By utilizing Large Language Models, the tool enabled IT and operations teams to efficiently document and communicate technical issues to stakeholders.
+
+•Developed and implemented a neural network model for detecting malicious language and tweets on Twitter, utilizing hand-labeled datasets for training.
+•Integrated embeddings to enhance the semantic understanding and effectiveness of the model in identifying potentially harmful content.
+•Achieved notable accuracy rates in identifying malicious language, contributing to the enhancement of Twitter's content moderation and safety measures.
+•Collaborated with cross-functional teams to refine the model's performance and adapt it to evolving trends in online abuse detection.
+•Collaborated with IT and operations teams to understand the challenges they faced in generating comprehensive incident reports.
+•Identified the need for a tool that could quickly transform technical data and log files into human-readable narratives.
+•Curated a dataset of historical incident reports, including log files, timestamps, error codes, and resolutions.
+•Preprocessed the data to extract relevant information and create training examples for the Large Language Model.
+•Selected a Large Language Model suitable for generating coherent narratives from technical data.
+•Fine-tuned the model on the curated dataset, optimizing it to produce accurate and informative incident reports.
+•Designed a user-friendly web interface that allowed IT and operations teams to input technical data, log files, and key incident details.
+•Integrated the Generative AI model to generate incident narratives based on the provided information.
+•Conducted thorough testing to ensure that the generated narratives accurately represented the technical issues and resolutions.
+•Collaborated with IT experts to validate the quality and accuracy of the generated incident reports.
+•Successfully developed and deployed an automated incident reporting tool that transformed technical data into human-readable narratives.
+•Improved the efficiency of incident reporting by reducing the time and effort required to document and communicate technical issues.
+•Enhanced communication between IT teams and other stakeholders by providing clear and understandable incident narratives.
+•Received positive feedback from IT and operations teams, who reported that the tool streamlined their reporting processes.
+•Large Language Models: GPT-3, Hugging Face Transformers
+•Natural Language Processing: Text generation, Data extraction
+•Web Development: HTML, CSS, JavaScript
+•Backend Development: Python, Flask
+•API Integration: RESTful APIs
+•Cloud Platforms: AWS, Azure
+•Data Sources: Log files, Technical data
+
+MLOps Engineer Jan 2018 – Jul 2020
+ALBERTSONS/ SAFEWAY, PLEASANTON, CA
+
+As a Senior Machine Learning Engineer on the digital fulfillment team at Albertsons/Safeway, I focused on MLOps in Azure to enhance e-commerce order tracking and streamline operations, aiding the Data Science team in deploying, monitoring, and maintaining their models.
+
+•Architected Databricks scripts in Spark, configuring cluster settings for optimal performance across production, QA, and development environments.
+•Monitored and managed Databricks jobs, ensuring seamless execution and reliability throughout different stages.
+•Identified bottlenecks and optimized script runtimes, leveraging historical metrics to drive significant performance enhancements.
+•Scheduled scripts for dynamic execution intervals depending on the use cases and the model
+•Enhanced error handling through try/except blocks, swiftly replicating and isolating errors for efficient root cause analysis.
+•Tracked, resolved, and documented real-time errors, maintaining a high level of system robustness.
+•Orchestrated Jenkins pipelines using JSON, facilitating seamless integration and deployment.
+•Established a robust GitHub presence for the Fulfillment team, creating repositories and ground truths for effective CI/CD workflows.
+•Leveraged Jenkins and GitHub Actions to trigger jobs directly from GitHub repositories, ensuring a smooth and automated deployment process.
+•Worked closely with business stakeholders and data scientists from various teams to gather requirements and share weekly updates and findings.
+•Adapted seamlessly between roles of Data Engineer, Machine Learning Engineer, and MLOps Engineer to address evolving project needs.
+•Developed and deployed end-to-end machine learning pipelines for retail analytics, automating the deployment of predictive models into production environments. This ensured timely and seamless integration of data science solutions into retail systems.
+•Established robust monitoring systems to track model performance in real-time, detecting anomalies and ensuring the continuous reliability of predictive models. Conducted regular model maintenance activities, optimizing algorithms and updating features to adapt to evolving retail trends.
+•Worked closely with cross-functional teams, including data scientists, software engineers, and business analysts, to understand retail domain requirements and align machine learning solutions with business goals. Facilitated effective communication between technical and non-technical stakeholders to drive successful implementation of ML models in retail operations.
+
+Senior Data Scientist – AI/ ML Engineer Sept 2015 – Dec 2017
+SOUTHWEST AIRLINES, DALLAS, TX
+
+As a leading entity in the Air Travel industry, Southwest Airlines prides itself on its unwavering commitment to operational efficiency and safety. To mitigate system failures related to air pressure, I was instrumental in the analysis of data obtained from IoT devices, which were subsequently stored in an AWS RDS SQL database. I devised predictive maintenance models and performed survival analysis by leveraging classification and regression techniques. The primary objective was to accurately predict the likelihood of failure within air-powered machinery. Upon successful deployment, these predictive algorithms significantly reduced system failures and drastically curtailed superfluous maintenance costs.
+
+•A key player in mitigating air pressure system failures at Southwest Airlines via streamlined data analysis from IoT devices and storage in AWS RDS SQL database.
+•Engineered predictive maintenance models and performed survival analysis utilizing classification and regression methodologies, significantly reducing machinery failure rates and maintenance costs.
+•Conducted work within an Ubuntu environment leveraging Python, SQL, NoSQL, and AWS.
+•Utilized Scrapy for data extraction, applied Python libraries NumPy, Pandas, SciPy, Matplotlib, Plotly, and Feature Tools for data analytics and feature engineering.
+•Employed Hadoop HDFS for data retrieval from NoSQL databases.
+•Harnessed Pandas, SQLite, and MySQL for AWS database management, used SQLite (sqlite3) modules for SQL data extraction.
+•Utilized NLTK and Genism for document tokenization and Word Model creation, Fast Text provided optimal results.
+•Constructed Neural Network models using PyTorch, focusing on Convolutional and Recurrent Neural Networks, LSTM, and Transformers.
+•Collaborated effectively with two Data Engineers and the Consumer Relations team.
+•Provided comprehensive documentation for all software packages.
+•Configured AWS for cloud-based data analysis tools.
+•Modified Python scripts for data alignment in AWS Cloud Search to streamline response label assignment for document classification.
+•Created a tree-based model i.e. Light Gradient boosting Machine learning algorithm, which is an upgrade of the existing linear regression model.
+•Created data ingestion pipeline for the year 2017 and onwards for training the model to tackle the drift problem.
+•Performed hyper-parameter tuning for the LGBM model. Used different libraries (e.g., Optuna) for finding the most optimal parameters of the model.
+•Created the code pipeline for scheduling the batch job to find the optimal revenue.
+•Performed A/B tests for analyzing the performance of new and old versions of the algorithm.
+•Conducted bi-weekly meetings with the stakeholders to communicate the current developments in the project and take advice on different aspects during the project tenure.
+•Performed stress tests for testing models' capability to handle adverse situations wisely.
+•Worked as both a technical lead and Scrum master on the project.
+•Conducted all the agile ceremonies during the project, such as daily stand-ups, bi-weekly retrospectives, and weekly catchups on the project developments.
+•Give the project update to the higher management bi-weekly to keep them up to date on the project's progress as well.
+•Documented all the things related to the project on confluence.
+
+Data Scientist July 2013 – Sept 2015
+SANTANDER, BOSTON, MA
+
+At Santander, I worked as a Natural Language Processing expert and Model Architect where I built, trained, and tested multiple NLP models that classified user descriptions based on user questions. The project aimed to centralize and search for different text databases within the Santander network to create an AI assistant. Part of the project objective was to automate the Customer Service Agents' efforts to support customer interactions efficiently. I also worked on other classification and regression problems according to business needs.
+
+•Used Python and SQL to collect, explore, and analyze structured/unstructured data.
+•Wrote extensive SQL queries to extract data from the MySQL database hosted on the bank’s
+internal servers.
+•Performed EDA using Panda’s library in Python to inspect and clean the data.
+•Visualized the data using Matplotlib and Seaborn.
+•Used Python, NLTK, and TensorFlow to tokenize and pad comments/tweets.
+•Performed classification of text data using NLP fundamental concepts, including tokenization, stemming, lemmatization, and padding.
+•Vectorized the documents using Bag of Words, TF-IDF, Word2Vec, and GloVe to test the performance it had on each model.
+•Explored using word embedding techniques such as Word2Vec, and GloVe.
+•Created and trained an Artificial Neural Network with TensorFlow on the tokenized documents/articles/SQL/user inputs.
+•Performed Named Entity Recognition (NER) by utilizing ANNs, RNNs, LSTMs.
+•Built a deep-learning model for text classification and analysis.
+•Used Data model R package to document relational data.
+•Involved in model deployment using Flask with a REST API deployed on internal Santander systems.
+
+Academic Credentials
+
+MS, Computer Science and Engineering (Specialization in Data Engineering) KIIT University
+
+BS, Computer Science & Engineering
+Gandhi Institute for Technological Advancement, BP University of Technology Selected Publications & Affiliations
+•Mathematical Analysis of PCA, MDS and ISOMAP Techniques in Dimension Reduction, Interna- tional Journal of Advance Research in Computer Science and Management Studies, Volume 3, Issue 5 · May 26, 2015.
+http://www.ijarcsms.com/docs/paper/volume3/issue5/
+•A Proposed Hybrid Spatial Indexing: QX Tree, International Journal of Computer Science and Information Technologies · Mar 20, 2015. http://ijcsit.com/docs/Volume%206/vol6issue02/ijcsit20150602180.pdf
+•Using ETL for Optimizing Business Intelligence Success in Multiple Investment Combinations, International Journal of Applied Engineering Research, 2016 https://www.ripublication.com/ijaer_spl/ijaerv10n6spl_20.pdf
+
+Awards & Honors
+
+•Achieved top position in my master's program.
+•Nature’s friend Award from Govt. Of Odisha State, India
+•State level Rajeev Gandhi Pratibha Award, Rajeev Gandhi Forum
+Contact this candidate

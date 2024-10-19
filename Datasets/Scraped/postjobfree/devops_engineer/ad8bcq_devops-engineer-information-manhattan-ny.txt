@@ -1,0 +1,152 @@
+PROFESSIONAL SUMMARY:
+Overall *+ years of experience in the information technology industry. Expertise in evaluation, design, development, testing, project management and maintenance, production support using SDLC process. A focused and detail-oriented DevOps professional, passionate about creating great systems in highly agile, fast-paced environment. Committed to building automated infrastructure with collaborative, team player attitude, great problem-solving skills and programing ability.
+Worked as senior DevOps Engineer – Automated creation and deletion of infrastructure using Terraform in AWS.
+Worked with large teams and involved in architecture of highly scalable, secure, distributed applications, aligned with company standards, process, methodologies, and best practices.
+Integrated Jenkins with other tools for continuous integration and deployment
+Worked on GitHub actions for CI/CD pipeline to build, test, and deploy code automatically based on events triggered within repository
+Administered GITHUB repositories & Automating tasks and process through CI/CD pipelines with the help of shell and descriptive scripting on Jenkins
+Developed GIT hooks for local and remote repo, code commit and push functionality on GitHub.
+Integrated ansible with Jenkins for configuration management and wrote ansible playbooks to automate ansible servers using YAML scripting
+Experience with creating Docker images and managing Docker registry & worked on Kubernetes for micro service architectures and troubleshooting pod level issues.
+Worked on shell and python scripting server and application monitoring, maintenance and day to day system administration tasks.
+Experience on AWS services like EC2, IAM roles, S3, EKS, ECR, ECS, Lambda, SNS, CloudWatch, maintaining RDS Aurora, Route 53, VPC.
+Experience in working with Bug Tracking Tools like JIRA. Handling Tickets, Monitoring, Troubleshooting and maintenance in daily day to day job
+Experience in Efficient in working closely with Dev, QA, Prod and Business owner teams to ensure high quality and timely delivery of builds and releases across multiple platforms and environments.
+Provided 24x7 support to development & production environments. Ability to communicate effectively and capable of providing advocacy and guidance to appropriate people. Self-motivated team player with excellent interpersonal and technical documentation skills and handling multiple projects simultaneously.
+Strong consulting, documentation and presentation skills in producing high quality deliverables
+
+Technical Skills
+
+Languages / Scripting:
+Python, Bash, YAML, JSON, Java, Mysql
+Version Control Tools
+Bit Bucket, GitHub, AWS Commit
+Build Tools:
+Ant, Maven, Pip, Gradle
+Cloud / Online Services:
+AWS (EC2, ELB, EKS, Cloudwatch, ECS, ECR, EKS, RDS Aurora, Lambda, S3 bucket, SQS, SNS, Route 53)
+Web/Application Servers
+Apache Tomcat, JBoss, HTTP, Nginx, WebSphere, Web Logic
+Artifact Repositories:
+Nexus, Jfrog
+CICD Tools:
+Jenkins, Github Actions, ArgoCD, GitLab
+Database Methodologies:
+My SQL, PostgreSQL, and MongoDB
+Monitoring Tools:
+Nagios, Prometheus, Grafana ELK, CloudWatch
+Operating Systems
+RHEL/CentOS 6.x/7,Ubuntu/Debian/Fedora,Sun Solaris 9/10/11, Windows Server 2008/2012
+Bug Tracking/ Ticketing Tools:
+JIRA, Service Now, Confluence
+Containers & orchestration
+Docker, Kubernetes
+InfrastructureAsCode & Confirguration Mgmt
+Terraform, Ansible
+
+PROFESSIONAL EXPERIENCE
+
+Sr. DevOps Engineer May’22 – Feb’24
+Verizon, Tampa, FL
+
+Responsibilities:
+Integrate and support code repositories such as git to help with continuous integration and continuous deployment
+Performed installation, configuration, and maintenance of UNIX/Linux systems to ensure optimal performance and reliability.
+Developed automated scripts for patch deployment, minimizing downtime and ensuring consistency across environments.
+integrated Jenkins with other tools to achieve Continuous Integration and Deployment
+Configured Jenkins using Jenkins-Cli and REST APIs to automate the build process through command line.
+Provisioning new infrastructure with the help of Ansible and Terraform. Deploy Software and Configurations to all environments
+Develop or convert applications into Docker containers and maintain a ECR repository on AWS to store and manage docker images
+Work with various third-party vendors in escalating and resolving issues related to Servers and infrastructure
+Wrote shell scripts to monitor applications and crontab for generating health reports and deleting temp files on daily basis.
+Created Kubernetes manifest files (usually written in YAML). This includes defining deployments, services, ingress rules and any other necessary Kubernetes resources.
+Setting up a CI/CD pipeline to automate the build, test, and deployment process and integrated with GITHUB and automatically trigger deployments to the EKS cluster when changes are pushed to the repository.
+Troubleshooting issues that arise during deployment and operation of application on the EKS cluster.
+Develop scripts for server and application monitoring, maintenance and day to day system administration tasks using shell and python scripting Work on various security issues
+Perform patching on production servers to keep the Operating System and Applications up to date
+Write IAAS code using Terraform and maintain databases like RDS Aurora, MYSQL and NoSQL Databases like PostgreSQL and Document dB
+Skilfully managed AWS infrastructure, ensuring the latest Amazon Machine Images (AMIs) were deployed across EC2 instances, utilizing automated processes and scripts for consistent updates and security compliance.
+Created Python scripts to automate AWS S3 data upload/download and control instance operations with AWS API and created AWS Route53 to route traffic between different regions.
+Utilized AWS Lambda for executing serverless functions, enabling event-driven architectures and reducing the need for traditional server provisioning and management.
+Developed sophisticated monitoring solutions combining AWS CloudWatch for metrics collection and logging, integrated with AWS Lambda for real-time alerting and automated issue resolution, leading to a proactive operational model that minimizes downtime.
+Implemented multi-region EKS deployment with automated failover mechanisms, reducing potential downtime and ensuring business continuity during critical incidents.
+Manage users/service activity and permissions with the help of Active Directory
+Work closely with developers/QA on resolutions for the issues observed in the production environment
+Train and assist junior associates/team members
+Environment: Terraform, AWS, Jenkins, Docker, SQL, EKS AWS, Jenkins, Maven, Bitbucket, Nginx, Java, python
+
+Devops Engineer April’19 – May’22
+IMS Health, Danbury, CT
+
+. Responsibilities:
+Administered GITHUB repositories & Automating tasks and process through CI/CD pipelines with the help of shell scripting, implementing branching models and Build/Release solutions using Jenkins and integrated SonarQube for code quality check. Developed GIT hooks for local and remote repo, code commit and push functionality on GitHub.
+Used Maven as build tool on Java projects for build artifacts on the source code and Nexus for repository management. Troubleshooting issues related to CI/CD pipelines.
+Integrated Artifactory with Jenkins to automatically retrieve and manage dependencies for Maven and Gradle projects.
+Integrated ansible with Jenkins for configuration management and wrote ansible playbooks to automate ansible servers using YAML scripting for monolithic applications.
+Experience with creating Docker images and managing Docker registry & worked on Kubernetes for micro service architectures and troubleshooting pod level issues.
+Monitoring teams to identify and troubleshoot issues on servers using tools like Nagios, CloudWatch.
+used JIRA for ticketing and defect tracking system and configure various workflows, customizations and plug-ins for JIRA bug/issue tracker
+Build Ec2 instances and configure them as per requirements. Built S3 buckets and managed policies for S3 buckets and used S3 bucket and glacier for storage and backup on AWS. Worked on Terraform templates for provisioning.
+Implemented a comprehensive security posture by utilizing AWS IAM for fine-grained access control, AWS KMS for encryption key management, and AWS Config for continuous monitoring of AWS resource configurations, ensuring adherence to security and compliance standards.
+Utilized CloudWatch to monitor resources such as EC2, Amazon RDS DB services, DynamoDB tables, EBS volumes, to set alarms for automated actions, and to monitor logs for a better understanding and operation of the system.
+Experience with Kubernetes networking concepts and tools, such as Services, Ingress, and Network Policies and involved in securing Kubernetes services
+Deployed and managed Java applications on Kubernetes clusters, leveraging features like deployments, services, and ingress controllers to ensure high availability, scalability, and resilience.
+Orchestrated the deployment and management of microservices architecture on Kubernetes, facilitating efficient communication and scaling of individual services.
+Implemented Kubernetes Cluster Federation to manage multiple Kubernetes clusters across different regions, improving scalability and availability.
+Experience in Agile development practices such as sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+Used the JIRA tool to track all the defects and changes related to the Build and release team. with the help of JIRA Agile, as a team tracked the unit of work through a predefined workflow.
+
+Environment: Linux, Git, GitHub, Maven, Tomcat, Docker, Ansible, Jenkins, AWS
+
+Build & release engineer Oct’17 - April’19
+Cisco Systems Inc, Los Angeles, CA
+
+Responsibilities:
+Worked with multiple features of the Intersight product like Intersight Virtual Services, Intersight Service for Terraform, Intersight Kubernetes services.
+For all this features we Identify end-to-end tests which cover the base functionality of the service.
+Specialized in automating tasks and process through CI/CD scripts, implementing branching models, implementing Build/Release solutions.
+Worked closely with developers and QA managers to resolve the issues that rise during the deployments to different environments.
+Integrated automated testing frameworks into CI/CD pipelines to ensure high code quality and reliability of software releases.
+Build end to end CI/CD Pipelines in Jenkins to build CI/CD Pipeline and code deployment guide for Developers, Testers, and Production management.
+Manages to use ANT and Maven as a build tool on Linux projects for the development of build artifacts on GitHub and SVN. Ability to automate routine Confluence tasks using scripts and Confluence REST APIs.
+Experienced in Branching, Merging, Tagging, and maintaining the version across the environments using SCM tools like GIT on Linux platforms and used GIT to keep track of all changes in source code.
+Created Docker images using a Docker file, worked on Docker container snapshots, removing Images and managing Docker volumes. Containerization of Web application using Docker and Kubernetes and Database maintenance.
+Experience in creating Docker Hub, Docker Images and handling multiple images primarily for middleware installations and domain configurations.
+Worked on Jenkins, GitHub, Artifactory and all internal build systems for the core development team on an enterprise-level cloud orchestration/automation tool.
+Orchestrated and automated infrastructure deployments using Ansible, reducing manual efforts and ensuring consistency across environments.
+Designed and implemented Ansible playbooks for provisioning, configuration management, and application deployment in both on-premises and cloud environments.
+Experience in JIRA for ticketing and defect tracking system and configure various workflows, customizations and plug-ins for JIRA bug/issue tracker
+Creating Lockable resources.
+Avoid cases that involve reboot, reconfiguring management IPs, enable/disable SSH of the hardware, etc...
+Plan tests chosen should cover 80-90% of the base functionality of the service. No impact to other services when deployed in higher clouds
+Environment: Jenkins, Ansible, Git, Bitbucket (Stash), Docker, Python, Jira, Java
+
+Linux Admin June’15 - Sep’17
+Cigna Healthcare, Dallas, TX
+
+Responsibilities:
+Responsible for server administration, patch management, operational task and maintenance of servers and Applying patches in Linux servers using yum and rpm
+Managed user administration by creating users, groups, modifying them and managing permissions
+Analysed reports generated by monitoring performance related components such as memory, disk, network and processor activities to identify and fix issues as part of server health checks
+Monitored logs, processes and analysed SAR reports for Linux servers
+Used VCenter to manage Virtual Servers. Performed CPU, memory and disk additions on virtual servers
+Installed, configured and maintained RedHat Linux, CentOS
+Installed, Configured, maintained and provided support of RedHat Linux 4.0, 5.0
+Used yum and rpm to install packages, update periodically and perform maintenance of Linux
+Performed disk management, health checks, load balancing and other system administration tasks on servers
+Implemented file sharing on network by configuring NFS on the system to share essential resources
+Installed Oracle Patches, created, modified and troubleshot application related objects
+Created profiles, users, roles and maintained system security
+Identified and resolved issues during management of services, maintenance and management of log files, monitoring of event logs and troubleshooting system problems using Nagios
+Installed and configured Apache Web-servers like Http and Nginx and troubleshoot problems arising from Apache functionality.
+
+Used shell scripts to track disk space on servers and automated tasks using Bash and Python Scripts
+Environment: Linux (RHEL, CentOS), Bash, Python, Nagios
+
+EDUCATION & CERTIFICATIONS
+Graduated MBA (Marketing & Finance) from Amity Global Business School, Amity University, Noida, India
+Completed BTech (C.S.E) from SRKIT affiliated to JNTU Kakinada University (2008-2012)
+AWS Certified Solutions Architect, Associate by Amazon Web Services
+Certified Kubernetes Administrator, issued by The Linux Foundation
+Certified Hashicorp Terraform Associate, issued by HashiCorp
+Contact this candidate

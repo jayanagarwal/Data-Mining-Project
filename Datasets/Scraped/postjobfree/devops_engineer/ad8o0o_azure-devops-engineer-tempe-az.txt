@@ -1,0 +1,128 @@
+PROFESSIONAL EXPERIENCE
+Client: Western Alliance Bancorporation, Phoenix, Arizona, USA May 2023 - Present
+Role: Azure DevOps Engineer
+Description: Western Alliance Bancorporation is a regional bank holding company. It provides a full range of banking and related services to businesses and consumers. I am developing and maintaining monitoring and alerting systems to proactively identify and address issues in production environments, ensuring high availability and performance of critical applications.
+Responsibilities:
+Worked on Agile projects like Creating Kanban boards, configured columns, Filters and Reports.
+Deployed and optimized two tier .NET web application to Azure DevOps to focus on development by using services such as Azure Repos to commit codes, Azure Test Plans to trigger unit tests on the application.
+Provided high availability for IaaS VMs and PaaS role instances for access from other services in the VNets with Azure Internal Load Balancer. Involved in software debugging and application monitoring and implemented multi-Dimensional numeric time series monitoring using Prometheus.
+Configured Azure cloud services, Azure storage, Azure active directory, Azure Service Bus.
+Worked on creation of custom Docker container images, tagging, and pushing the images to private Docker Hub.
+Created end to end CI/CD pipelines with Jenkins by integrating the code from Git Repository, performed builds from Maven, performed code analysis with SonarQube and stored the necessary files in Nexus.
+Administered IIS servers and configured Microsoft OMS and implemented Backup and Restore for the application data using azure. Created and managed Azure AD tenants and configured application integration with Azure AD.
+Deployed and managed applications in Data Center, Virtual environment, and Azure platform as well.
+Worked with Ansible to manage Web Applications, Config Files, Data Base, Commands, Users Mount Points, and Packages. Ansible to assist in building automation policies.
+Configured Power Shell scripts to automate the Azure cloud system creation including end-to-end infrastructure, VMs, storage, firewall rules. Worked with PowerShell to automate SQL tasks, environment management related tasks and procedures on Windows machines.
+Created the automated build and deployment process for application, re-engineering setup for better user experience, and leading up to building a continuous integration system.
+Building and Installing servers through azure Resource Manager Templates or Azure Portal Migrating an On-premises virtual machine to Azure Resource Manager Subscription with Azure Site Recovery.
+Involved in setting up JIRA as a defect tracking system and configured various workflows, customizations, and plugins for the JIRA bug/issue tracker. Written automation scripts like Bash, JSON, Groovy, Python and MAVEN for build automation.
+Automated the Word Press and MySQL container deployment in Docker using Python. Worked with Configuration Management automation tool Ansible and has worked on integrating Ansible YAML Scripts.
+Developed Build & Deployment Scripts using build tools MS Build in Azure Pipelines to migrate from one environment to another environment and utilized Nexus, SonarQube.
+Written various Power Shell scripts to do Patching, Imaging and Deployments in Azure and integrated Power Shell to automate Azure DevOps Services set up using the Azure DevOps Rest API.
+Integrated Prometheus and Configured the Agent by exposing the endpoints through pods to collect Prometheus data, querying, and using the data on Azure Monitor for containers.
+Integrated on premise active directory with azure active directory and established SSO connections using SAML2.0 and OAuth2.0 protocols in AD.
+Environment: Microsoft Azure, Azure Data Factory, Azure Databricks, Azure Kubernetes Service (AKS), Azure Site Recovery, Azure Log Analytics, Azure VMs, Azure Container Registry, AzureSQL, Azure DevOps, Terraform, Docker, Kubernetes, Ansible, Apache, SonarQube, Maven, GIT, Jenkins, Nexus, Bash Shell Scripting, Python, Linux
+Client: Benchmark Electronics Inc, Tempe, Arizona, USA Mar 2022 - Apr 2023
+Role: DevOps Engineer
+Description: Benchmark Electronics, Inc. is a leading provider of electronics manufacturing services (EMS), offering design, engineering, and manufacturing solutions for various industries. I involved in working on both the client-side and server-side of applications. It includes working with frameworks like Spring Boot for back-end development and JavaScript frameworks like Angular or React for front-end development.
+Responsibilities:
+Created Azure DevOps pipelines for build automation and deployment as part of CI/CD.
+Developed/deployed data pipelines as part of production DW/DB implementation using Azure Data Factory.
+Designed and configured Azure Virtual Networks (VNets), Subnets, Azure Network Settings, DHCP Address Blocks, DNS Settings, Security Policies and Routing.
+Created and managed Virtual Machines in Windows Azure and set up communication with the help of Endpoints and VM. Deployed applications to multiple destination servers and VMs using deployment groups.
+Managed Azure Active Directory and created new groups for users.
+Deployed instances on Azure environments and in Data Centers and migrated to Azure using Azure Site Recovery.
+Implemented containerized based applications by using Azure Kubernetes Service (AKS).
+Written Templates for Azure Infrastructure as a Code using Terraform to build staging and production environments.
+Integrated Azure Log Analytics with Azure VMs for monitoring the log files store them and track metrics.
+Provisioned containerized solutions centered on tool such as Docker and Kubernetes.
+Managed Kubernetes charts using Helm, created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed releases of Helm packages Designed, installed and implemented Ansible configuration management system and in writing playbooks for Ansible and deploying applications.
+Working as a DevOps for multiple development teams, system analysis team to establish a build schedule, provide a guideline for deployment in higher environments and with troubleshooting build system failures.
+Monitoring of Application and Servers through Nagios. Web Servers Administration on Apache and Nginx.
+Built Scripts using MAVEN build tools in Jenkins to move from one environment to another environment.
+Understand the latest features like (Azure DevOps, OMS, NSG Rules, etc..,) introduced by Microsoft Azure and utilized it for existing business applications. Provisioned Azure Kubernetes Cluster as well as Azure Container Registry.
+Lead an active integration effort for building out PaaS with Red Hat Open Shift, Docker and working with developers on application containerization effort. Creating, validating, and reviewing solutions and effort estimate of converting existing workloads from classic to ARM based Azure Cloud Environment
+Monitoring infrastructure and service monitoring using Prometheus to pull metrics and Grafana dashboard to display.
+Designed and implemented Database Schema import data and build stored procedures on AzureSQL.
+Configured Apache servers to deploy the code. Configured Jenkins to build and deploy by setting up SonarQube, Maven, Nexus to build CI/CD pipeline. Integrated GIT into Jenkins to automate the code check-out process.
+Designed disaster recovery strategies, backup, and retention architectures on Azure.
+Environment: Azure, MAVEN, Chef, Python, Bash, JSON, Groovy, WebSphere, DNS, LDAP, NFS, NIS, PostgreSQL, JIRA, Git, Yaml, Puppet, Ansible, Jenkins, Kubernetes, Docker, PowerShell, SonarQube, VM Ware, Windows Server, MS Office Suite.
+Client: GlaxoSmithKline Pharmaceuticals, Mumbai, India Dec 2020 - Nov 2021
+Role: DevOps Engineer
+Description: GlaxoSmithKline Pharmaceuticals (GSK Pharmaceuticals) is a leading global healthcare company focused on the development, manufacturing, and marketing of pharmaceutical products, my role is to building and consuming APIs (Application Programming Interfaces) is a crucial aspect of full stack development.
+Responsibilities:
+Developed a third-party service for instagram followers and engagement to automate their growth using Python, Tensor Flow, MongoDB and REST APIs, improved consumer service rates by 15%.
+Rebuilt a new reporting system for Instagram users to gain a better understanding of the followers' posts with their engagement score using Python, Django, PostgreSQL, Type Script, React.js, and improve duser retention rates by 18%.
+Updated the existing infrastructure architecture for each Kick start service to scale up or down as needed and to handle sudden increases or decreases in demand using CI/CD pipeline, Kubernetes, Docker and AWS microservices, saving ~10% of cost and work hours.
+Created and enforced Configuration Management policies and procedures, project configuration management, adhere to the Company policy and was successful in implementing it.
+Developed automated solutions to monitor and support software development and release processes.
+Implemented Continuous Delivery using Jenkins, Chef, SVN and Maven in Windows/Linux environment.
+Installed the application on AWS EC2 instances and configured the storage on S3 buckets.
+Migrated an existing legacy infrastructure and recreated the entire environment within AWS.
+Supported/enhanced Lambda functions in AWS that queries elastic search cluster for producing servers.
+Developed Terraform modules to provision cloud infrastructure in different environments.
+Used Chef to aid with our deployment process and migrating in house systems to Amazon Cloud Services (AWS). Developed Chef Cookbooks, Recipes, Roles, Attributes to maintain, update configurations and deploy.
+Installed and configured the applications like Docker and Kubernetes for the Orchestration purpose. Installed and managed lifecycle of applications on Kubernetes Cluster. Created pods and clusters using templates in Kubernetes and deploy.
+Automated environment for the DevOps services using Python and Shell scripts.
+Managed Maven project dependencies by creating parent-child relationships between projects.
+Created new build jobs, integration testing jobs and deploy jobs in Jenkins to automate the process.
+Used Apache Tomcat as application server for deploying the Artifacts and using configurations of Chef.
+Monitored AWS cloud resources and the applications that deployed on AWS by creating new alarm, enable notification service using Cloud Watch. Built and administered the Jenkins Continuous Integration servers.
+Involved in periodic archiving and storage of the source code for disaster recovery.
+Environment: GIT, Jenkins, Chef, AWS EC2, S3, Route 53, Ops works, VPC, Elastic Block Storage RDS, Python, Cloud watch, Docker, Linux AMI, AWS Elastic Load Balancer, Vagrant, Nagios, Auto scaling groups, Nginx, Apache Tomcat, JIRA, Ubuntu, Windows server NT, Oracle server.
+Client: Kotak Life Insurance Co. Ltd. Mumbai, India Mar 2019 - Nov 2020
+Role: Cloud Engineer
+Description: Kotak Life Insurance Company Ltd. is a prominent life insurance company offering a wide range of insurance products & services. Involved in configuring and maintaining enterprise-level infrastructure, implementing data backup solutions, and automating processes to ensure high availability and performance across various environments.
+Responsibilities:
+Installed and configured SSH server on Red hat/CentOS Linux environments. Managed VMs for Solaris x86 and Linux on VMware ESX 3.5 and administering them with VI Client.
+Involved in implementing and Administrating enterprise level data backups and Data Recovery.
+Maintained maximum uptime and maximum performance capacity for Enterprise Production, QA, and UAT/Staging.
+Installation and configuration of engine to maintain standard configuration and security policies in the server farm.
+Developed and supported the Red Hat Enterprise Linux based infrastructure in the cloud environment.
+Configuring network services such as DNS/NFS/NIS/NTP for UNIX/Linux Servers. Accomplished User administration of UNIX / Linux account using SeOS Experience with NoSQL, MongoDB. Automated tasks using Korn, Bash Shell scripts. Installation Linux system. Scaling complex SaaS for web services.
+Used JIRA tool to track all the defects and changes related to build and Release Team.
+Deployed code on Web Sphere application servers for Production, QA, and Development environments.
+Worked on creating the Docker containers and Docker consoles for managing the application life cycle
+Deployed web applications using Chef by developing the cookbook. Also responsible for creating and importing all the environments required running the project.
+Focused on automation and continuous integration. Automated local development environment using Chef.
+Designed roles and groups for users and resources using AWS Identity Access Management (IAM).
+Created Development Environments in Amazon Web Services using services like VPC, ELB, EC2 and RDS instances.
+Environment: Docker, Kubernetes, Chef, Jenkins, SVN, Maven, Amazon Web Services (AWS)–EC2, S3, Lambda, Cloud Formation, Cloud Watch, Terraform, Python, Shell Scripts, Apache Tomcat, Jira, Windows, Linux.
+
+Manish Kumar Manjunathan
+DevOps/Cloud Engineer
+CAREER OBJECTIVE
++1-321-***-****
+ad8o0o@r.postjobfree.com
+Results-driven DevOps engineer with 5+ years of hands-on experience in designing, implementing, and maintaining robust CI/CD pipelines, infrastructure as code, and automation solutions. Proven track record of optimizing software development processes, reducing deployment times, and enhancing system reliability.
+EDUCATION
+PROFILE SUMMARY
+A technocrat with 5+ years of Insightful IT experience DevOps Engineer, worked on server - based operating system with a major focus on AWS, Azure, Data center migration, CI/CD pipeline, Build/release management and Virtualization technologies which also includes Troubleshooting and performance issues.
+Worked on several DevOps tools Subversion (SVN), GIT, Ant, MAVEN, Puppet, Chef, Ansible and Docker for Build, deploy, continuous integration to help developers work in an Agile environment.
+In-depth understanding of Software Configuration Management (SCM) processes which include compiling, packaging, and deploying of various applications.
+Expertise in Azure infrastructure management (Azure Web Roles, Worker Roles, SQL Azure, Azure Storage, Azure AD Licenses, Office365). Virtual Machine Backup and Recover from a Services Vault using Azure PowerShell and Portal.
+Experience in working with different build automation tools like Jenkins and Maven to achieve End-to-End Automation. Experience in using Configuration management software's like Chef, Ansible and Puppet for Automation.
+Experience in dealing with Windows Azure IaaS - Virtual Networks, Virtual Machines, Cloud Services, Resource Groups, Express Route, VPN, Load Balancing, Application Gateways, Auto-Scaling, and Traffic Manager.
+Experienced in AWS Elastic Beanstalk for app deployments and worked on AWS Lambda with Amazon kinesis. Experienced in using advanced Postgres SQL/MYSQL features like table partitioning and different types of oracle indexing.
+Expertise in migrations and automation of Linux based servers (CentOS, RHEL, Ubuntu) and windows-based servers (2008R2, 2012R2) from on-premises to cloud platforms such as AWS and AZURE. Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+Experience in using the Eclipse as an IDE to develop the application. Experience in designing end to end automation of infrastructure and continuous delivery of the applications by integrating cloud formation scripts, Jenkins, and Chef Recipes.
+Administering and maintaining our Cloud Accounts using Terraform.
+Experience in using Prometheus and Grafana monitoring systems and experience in Splunk solution design, architect, deployment, and configuration of Splunk components like forwarders, Indexers, Search heads etc.
+Designed, deployed, and coordinated with different teams to enhance ELK platform and took ownership of modern technologies.
+Masters in Information Technology from Arizona State University, USA
+Operating systems: Windows, Linux, Unix, Ubuntu, Red hat, CentOS, AWS CLI
+Build Tools: Ant, Maven, Gradle
+Source Code Management: SVN, GIT, Bitbucket, IBM Rational Clear Case, perforce.
+Bug Tracker and Testing: JIRA, Test Flight, Confluence
+CI/CD Tools: Jenkins, Bamboo, Team City, Nexus
+Configuration Tools: Ansible, Chef, Puppet, Vagrant, Docker, Kubernetes, Terraform, Helm
+Networking: VPC, Route53, LDAP, DNS, FTP, DHCP, SSH, TCP/IP, FTP, SFTP
+Databases: Oracle, MySQL, MongoDB, Cassandra, PostgreSQL, SQL Server
+Monitoring Tools: Splunk, Data dog, Nagios, CloudWatch
+Languages: Python, Shell scripting, Bash, Groovy, XML, and JavaScript.
+Cloud Services: Amazon Web services, Microsoft Azure.
+Web/App Servers: Nginx, JBoss, Apache HTTP, Tomcat, Web Logic, WebSphere.
+SDLC: Waterfall model, Agile, Scrum
+Bug Tracking Tools: JIRA, Remedy, Bugzilla, ServiceNow
+TECHNICAL SKILLS
+Contact this candidate

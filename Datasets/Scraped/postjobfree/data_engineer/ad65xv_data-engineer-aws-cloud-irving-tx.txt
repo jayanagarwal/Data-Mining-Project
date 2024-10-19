@@ -1,0 +1,141 @@
+Sr. Data Engineer
+Name:
+Email:
+Phone:
+Professional Summary:
+Over 9 years of experience in data engineering, specializing in building and optimizing data solutions and pipelines in high-availability environments.
+Expertise in AWS cloud services, including AWS Redshift, S3, Data Pipelines, Glue, RDS, Cloud Watch, and ELB, to design scalable and efficient data storage and processing architectures.
+Proficient with AWS Cloud Formation Templates for automating the deployment of AWS services, enhancing operational efficiency and system reliability.
+Developed robust data pipelines using AWS Glue and AWS Data Pipelines, facilitating seamless data integration and real-time analytics.
+Experienced in configuring and managing cloud-native solutions with GCP, including Big Query, Cloud SQL, and Data Studio for enhanced data analytics and storage solutions.
+Utilized Matillion to transform large-scale data and integrate with Snowflake, achieving optimized data warehousing capabilities.
+Skilled in DevOps practices, leveraging tools like Jenkins, Maven, Chef, and Azure DevOps to automate and streamline deployment processes, enhancing delivery speed and system reliability.
+Implemented comprehensive data security measures using IAM Security, ensuring robust access controls and compliance with data governance standards.
+Advanced programming skills in Python, Ruby, and PowerShell, developing custom scripts and applications to automate data processing and workflow orchestration.
+Deep understanding of database technologies, including MySQL, MS-SQL, Oracle, and Snowflake, with proficiency in complex SQL and T-SQL scripting.
+Leveraged business intelligence and reporting tools such as Microsoft BI Studio, Tableau, and Power BI to deliver actionable insights and support data-driven decision-making.
+Experienced with version control and team collaboration tools like GIT Hub, Jira, and Confluence, ensuring efficient project tracking and resource management.
+Expert in using Jenkins for CI/CD pipelines, enhancing software development and release processes through automation and integration with AWS and Azure environments.
+Deployed and managed virtual environments using Ubuntu, CentOS, and Linux, ensuring optimal configuration and performance for data operations.
+
+Technical Skills:
+
+Category
+Skills
+Cloud Platforms
+AWS, GCP, Azure Function App, Azure WebApp, Azure SQL, Azure SQL MI
+Cloud Services
+AWS Redshift, AWS S3, AWS Data Pipelines, AWS Glue, AWS ELB, AWS SQS, AWS Cloud Formation Templates, AWS RDS, AWS Cloud Watch, Cloud SQL, Cloud Storage, IAM Security, Service Data Transfer, VPN Google-Client
+Databases
+MySQL, MS-SQL, ORACLE, DB2, Snowflake, SQL Server 2017, Azure SQL
+Development & Scripting
+Python, Ruby, PowerShell, shell scripts, YAML, SQL, T-SQL, Hive
+DevOps & CI/CD
+Jenkins, Chef, Maven, Artifactory, GIT Hub, Azure DevOps, Git
+Project Management & Tools
+JIRA, Confluence, SharePoint, Tidal, ACR
+Data Tools
+Matillion, DataStudio, Informatica Power Center 6.1, SQLdeveloper, Erwin Data Modeler, Excel
+Business Intelligence
+Tableau, Power BI, Microsoft Business Intelligence Studio, Microsoft Visual Studio Data Tools, SQL Profiler, Database Engine Tuning Advisor, Hue
+Security & Networking
+SSH, VPC Configuration, Data Catalog
+Operating Systems
+Ubuntu, CentOS, Linux, Windows 10
+Server Management
+Tomcat, Apache, WebLogic
+Data Integration
+SSIS, SSAS, SSRS, DATASTAGE, QUALITYSTAGE, Federated Queries, Pub Sub
+Development Frameworks
+jQuery
+IT Service Management
+Remedy
+
+Professional Experience
+
+Truist Bank, Charlotte, NC
+AWS data Engineer July 2021 to Present
+Responsibilities:
+Designed and maintained data warehousing solutions using AWS Redshift, optimizing storage and query performance for financial analytics.
+Configured and managed AWS S3 buckets for secure data storage and retrieval, ensuring robust data backup and disaster recovery practices.
+Developed and automated ETL pipelines using AWS Data Pipelines and AWS Glue, facilitating efficient data integration and transformation.
+Implemented continuous integration and deployment pipelines using Jenkins 1.0.5 and Maven 3.0.2, enhancing development workflows and system reliability.
+Managed server configurations and deployments using Chef 12.7.2 and AWS CloudFormation Templates, standardizing environments and reducing setup times.
+Programmed scripts and automation tools using Python3.6.0 and PowerShell 4.2.6, streamlining operations and reducing manual tasks.
+Monitored system performance and logs using AWS CloudWatch, ensuring system health and proactive troubleshooting.
+Administered relational database systems using AWS RDS, optimizing performance and ensuring high availability for transactional data.
+Utilized AWS SQS and AWS S3 to implement robust message queuing and event-driven architectures, enhancing application scalability and responsiveness.
+Configured and maintained web servers and applications using Apache and Tomcat, supporting web-based financial services platforms.
+Oversaw version control and source code management using GITHUB 2.0., ensuring code integrity and supporting collaborative development.
+Managed project tracking and documentation using JIRA 7.2.x and Confluence 6.2, facilitating effective team collaboration and project management.
+Ensured data security and compliance with financial regulatory standards by implementing appropriate AWS security measures and practices.
+Conducted data migrations to Snowflake, enabling scalable cloud data warehousing solutions and improving data analysis capabilities.
+Automated deployment and management tasks using AWS ELB to balance load and ensure uninterrupted service availability.
+Developed and maintained system scripts on Linux platforms including Ubuntu and CentOS, optimizing system operations.
+Utilized AWS Cloud Formation templates for rapid provisioning of cloud resources, aligning with the bank’s operational and security requirements.
+Integrated AWS Glue with existing data repositories to enhance metadata management and simplify data access and analysis.
+Performed root cause analysis and remediation for data-related issues using Remedy 9.1, improving system reliability and user satisfaction.
+Facilitated the secure transfer and management of data across different geographic locations, ensuring compliance with local and international data protection laws.
+Environment: AWS, AWS Redshift, AWS S3, AWS Data Pipe Lines, AWS Glue, DevOps, jQuery, Tomcat, Apache, Jenkins 1.0.5, Python3.6.0, Ruby2.3, Chef12.7.2, JIRA 7.2.x, Confluence6.2, Remedy9.1, Maven 3.0.2, Artifactory 5.4.5, GITHUB 2.0., Ubuntu, CentOS, Linux, AWS ELB, AWS SQS, AWS S3, AWS Cloud Formation Templates, Snowflake, AWS RDS, AWS Cloud Watch, PowerShell 4.2.6.
+Abbvie Vernon Hills, IL
+GCP Data Engineer April 2019 to June 2021
+Responsibilities:
+Developed scalable and efficient data warehouses using Big Query, optimizing data storage and analysis for biopharmaceutical research.
+Managed and optimized Cloud SQL and MySQL databases, ensuring high availability and performance for critical applications.
+Configured Cloud Storage solutions to securely store and manage large datasets, facilitating easy access and data protection.
+Implemented ETL processes using Matillion, automating data transformation and loading to enhance data integration and workflow efficiency.
+Created dynamic reports and dashboards using DataStudio and MS-SQL, providing actionable insights for research and development teams.
+Administered database systems including ORACLE and DB2, maintaining system health and data integrity.
+Utilized Federated Queries to integrate and query data from disparate sources, enhancing data accessibility and decision-making.
+Managed IAM Security protocols to ensure data security and compliance with regulatory requirements in the biopharmaceutical industry.
+Conducted secure data transfers using Service Data Transfer and VPN Google-Client, protecting sensitive data during transit.
+Programmed automation scripts in Python and shell scripts, streamlining data operations and reducing manual efforts.
+Configured VPC settings to isolate and secure network environments, enhancing data security and system performance.
+Utilized Data Catalog to create a metadata repository, improving data discoverability and governance.
+Implemented Pub Sub for real-time data messaging, enabling efficient data flow and event-driven processing.
+Managed and developed solutions using Snowflake, enhancing cloud data warehousing capabilities and supporting scalable analytics.
+Conducted data integration tasks using SSIS, and prepared analytical reports with SSAS and SSRS, supporting business intelligence initiatives.
+Developed and maintained data pipelines in DATASTAGE, and ensured data quality using QUALITYSTAGE, optimizing data accuracy and usability.
+Enhanced data extraction and manipulation capabilities using advanced SQL techniques and database programming.
+Provided technical leadership in migrating legacy systems to cloud-based platforms, ensuring seamless data integration and minimal downtime.
+Documented data architectures and processes, ensuring clarity and continuity in data operations and facilitating future enhancements.
+Environment: GCP, Big Query, Cloud SQL, Cloud Storage, Matillion, DataStudio, MySQL, MS-SQL, ORACLE, DB2, Federated Queries, IAM Security, Snowflake, Service Data Transfer, python, shell scriptsVPC Configuration, Data Catalog. VPN Google-Client, Pub Sub, SSIS, SSAS, SSRS, DATASTAGE, QUALITYSTAGE.
+Empower Retirement, Greenwood Village, CO
+Azure data engineer April 2017 to March 2019
+Responsibilities:
+Implemented ETL processes using Azure Data Factory, automating data integration and transformation to enhance data workflow efficiency.
+Configured and managed Azure SQL Managed Instance (Azure SQL MI), ensuring high availability and scalability of database services.
+Developed and maintained Azure SQL databases, optimizing performance for large-scale retirement fund management applications.
+Created dynamic and interactive dashboards using Power BI and Tableau, providing insightful analytics to support investment decisions.
+Administered SQL Server 2017, performing upgrades and maintenance to ensure database integrity and security.
+Utilized Microsoft Business Intelligence Studio and Microsoft Visual Studio Data Tools for developing complex SQL queries and data models.
+Managed source control and versioning using Git and GitHub, enhancing team collaboration and code quality.
+Automated deployment and management tasks using Azure DevOps and Maven, streamlining continuous integration and delivery processes.
+Programmed database solutions using SQL and T-SQL, optimizing data retrieval and manipulation for business applications.
+Configured Azure Function App and Azure WebApp for building and hosting application services, improving operational efficiency.
+Monitored database performance using SQL Profiler and Database Engine Tuning Advisor, identifying and resolving performance bottlenecks.
+Managed project tracking and documentation using Jira, ensuring timely delivery of data projects and effective team communication.
+Administered content management and collaboration using SharePoint, facilitating document sharing and team collaboration.
+Maintained and secured web application environments using WebLogic, ensuring robust application performance and security.
+Developed scripts and automation tools using Python, enhancing data processing capabilities and automation efficiency.
+Configured and managed job scheduling and execution using Tidal, ensuring precise control over batch processes and data workflows.
+Utilized Hive and Hue for handling and querying large datasets, particularly for complex data analysis tasks.
+Implemented secure access and data transfer protocols using SSH and YAML configurations, safeguarding data transmissions.
+Managed application containers and services using Azure Container Registry (ACR), streamlining container management and deployment.
+Ensured compliance with industry standards and security protocols, maintaining the integrity and confidentiality of sensitive retirement plan data.
+Environment: SQL Server 2017, Tableau, Power BI, SFDC, SQL, T-SQL, Hive, Microsoft Business Intelligence Studio, Microsoft Visual Studio Data Tools, Hue, Power BI, Tableau, SQL Profiler, Database Engine Tuning Advisor, Jira, GIT Hub, SharePoint, Windows 10, Tidal, ACR, Azure Function App, Azure WebApp, Azure SQL, and Azure SQL MI, SSH, YAML, WebLogic, Python, Azure DevOps, Git, Maven, Jira.
+OJAS Innovative Technologies
+Data Analyst September 2014 to January 2017
+Responsibilities:
+Developed and optimized ETL processes using Informatica Power Center 6.1 to ensure efficient data extraction, transformation, and loading from diverse data sources into a centralized Oracle 11g database, enhancing data accessibility and reliability.
+Utilized Toad for Oracle and SQLDeveloper for complex database management tasks including writing, debugging, and optimizing SQL queries, which improved database performance and supported critical decision-making processes.
+Conducted thorough data analysis using advanced SQL techniques to extract actionable insights from large datasets, aiding in the development of strategic initiatives for business growth and operational efficiency.
+Created robust data models with Erwin Data Modeler to represent business processes and data architecture, which facilitated effective scaling and integration of new data sources.
+Automated repetitive data processing tasks by developing and maintaining UNIX Shell scripts, significantly reducing manual effort and minimizing human error in data handling.
+Managed and enhanced data warehouse schema design and maintenance, ensuring optimal structure and accessibility of stored data using Oracle 11g.
+Performed data validation and cleansing using sophisticated SQL scripts, ensuring high data quality and consistency across multiple platforms and systems.
+Generated comprehensive reports and dashboards using Excel, incorporating complex macros and functions to provide intuitive data visualizations that drove business decisions.
+Provided technical support and training to team members on the use of data analytics tools including Informatica Power Center, Erwin Data Modeler, and SQL, enhancing team capabilities and productivity.
+
+Environment: Informatica Power Center 6.1, Oracle 11g, Toad for Oracle, SQL, UNIX, Shell scripting, SQLdeveloper, Erwin Data Modeler, Excel.
+Contact this candidate

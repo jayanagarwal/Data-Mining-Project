@@ -1,0 +1,106 @@
+Operating Systems:
+
+Red Hat *, *, * & Centos *, 6 and 7,
+Virtualization:
+VMware, ESXi, VSphere, VCenter, Vmotion, vConverter
+Patching:
+YUM and RPM, Yum repo server
+Storage:
+SAN, NAS, NFS, LVM, gdisk, fdisk, parted
+DevOps Tools:
+Ansible, Bash scripting, Git, Docker
+Applications/ Servers:
+TCP/IP, DNS, HTTPD, Apache, SSH, RAID, Pxeboot
+Backup & Troubleshooting
+Monitoring
+DevOps Tools
+Cloud
+Netbackup, ILO, IDRAC
+Nagios, Prometheus
+Ansible, Ansible Tower, GIT, Gitlab, GitHub, Dockers, Kubernetes
+AWS (EC2, IAM, S3, Glacier, EBS, EFS, ELB, Autoscaling, CloudTrail, CloudWatch)
+
+Sr. Linux Admin • Bank of China, NYC, NY
+November 2020 – Present
+●Responsible for installation, configuration, and management of Red Hat RHEL 6.x, 7.x, 8.x, and CentOS.
+●Maintaining and support for the Corporate Linux servers (Red Hat RHEL 6.x, 7.x, 8.x and CentOS).
+●Creating users, managing user permissions, and file systems on Red hat Linux.
+●Installing, removing, and upgrading packages using RPM and YUM.
+●Implementing PXE-boot with kickstart over the network for automating Linux installations.
+●Patching through Ansible and getting updates from Red Hat Satellite.
+●Experience in creating, tweaking, and managing Ansible playbooks.
+●Creating Ansible playbooks for application deployments, user management, and configuration of remote servers.
+●Creating inventory in Ansible for automating the continuous deployment.
+●Building and maintaining ESXi (5.5, 6.0, 6.7) servers and VMs on vCenter via vSphere client.
+●Using Vmotion to migrate Virtual Machines.
+●Creating Virtual machines through templates on vCenter.
+●Created and configured a yum local repository Server.
+●Troubleshooting Linux OS with no heartbeat after applying patches. Resolving post-patch issues including but not limited, INITRAMFS, compatibility issues, and kernel panic.
+●Supporting other teams to troubleshoot configuration management and network issues
+●Resolving DNS issues using nslookup and dig. Creating SSH keys for users when necessary. Managed key-based authentication and ensured password less authentication.
+●Creating partitions with customized file systems (EXT3, EXT4, XFS).
+●Configuring LVM (Logical Volume Manager) to manage volume group, logical and physical partitions, and importing new physical volumes.
+●Responsible for designing, installing, configuring, and tuning upgrades of RedHat Linux. Taking care of troubleshooting NFS server issues.
+●Installed and configured lamp stack (Linux, Apache, MySQL, and PHP)
+●Configuring TCP/IP, DNS, NFS, HTTP, SAMBA, and SSH
+●Installing, configuring, managing, and troubleshooting apache web server.
+●Resolving issues related to Network using traceroute, netstat, tcpdump.
+●Working on Day-to-Day server maintenance tasks using commands ping, top, vmstat, and iostat.
+●Using the version control system GIT to manage, modify repositories, and push code to GIT lab.
+●Creating branch and arranging upload of feature branch to GIT lab, creating request to merge feature with the master branch.
+●Managing docker containers on CLI and creating and removing docker images.
+●Experience with container-based deployments using Docker, Docker Hub and Docker registries. Experience in microservices deployment using Docker.
+●Using SNOW Ticketing systems to offer support and resolve incidents.
+●Troubleshooting network security-related issues with iptables and firewall.
+●Editing linux kernel modules and parameters. Implemented performance tuning.
+●Monitored the Health of the infrastructure and mission-critical servers using nagios.
+●Experience in Password Recovery of RHEL 6 & RHEL 7.
+●Implemented CRON jobs to schedule tasks for automation.
+
+• Linux Systems Administrator • New York Presbyterian Hospital, NY
+March 2018 – September 2020
+●Managed multiple virtual machines and data stores through VMware ESXI, VSphere.
+●Participated in the decommissioning process of servers.
+●Ensured fault tolerance with user security and disk space management to optimize the server utilization up to speed.
+●Solved issues pertaining to disk management using CLI tools for LVM and static partitions using fdisk and gdisk utilities.
+●Created file systems (EXT3, EXT4, and XFS), troubleshooting and fixing file system corruption.
+●Created swap files and partitions, helped create a bash script to automate the process.
+●Resolved assigned and alert tickets using JIRA, raised, and resolved incident tickets within the SLA timeframe.
+●Monitored the health of the system and infrastructure using Nagios dashboard. Monitored OMD alerts.
+●Accessed console using iDrac (Dell servers), and iLO (HP server) for troubleshooting purposes.
+●Followed up with the application, hardware vendors for enhancements, upgrades, and technical support as required.
+●Used GitLab to collaborate with the team and add the files in the remote repository.
+●Used SAR to gather system activity reports, analyzing performance data critically to resolve issues and perform RCA.
+●Installed and configured network devices like switches, routers, modems, and wireless applications.
+●Maintained maximum network uptime by setting and managing LAN and WAN.
+●Identify, perform troubleshoot network issues related to TCP/IP, DNS, DHCP, NFS Ethernet performance, routing, and other infrastructure servers.
+●Performed network vulnerability scans using networking tools on Linux CLI (traceroute, ping, tcpdump, ip addr).
+●Managed fixed static and major dynamic IP allocation to prevent network downtime.
+●Setup user accounts and permissions on all Linux production systems.
+●Created the RAID levels and worked with both software and hardware RAIDs for getting better performance, redundancy, and parity.
+●Monitored and set up cron jobs for issues regarding backups and python, shell scripts.
+●Created remote authentication of users setting Active Directory with the LDAP protocol.
+●Created and managed SSH keys on all Linux systems to ensure secure remote access excluding root password.
+
+• Linux Analyst • Yahoo, Lockport, NY
+February 2017 – January 2018
+●Managed system resources and configured CPU, Memory, SWAP.
+●Troubleshoot Network-based issues.
+●Install and upgrade software on Linux using RPM and YUM.
+●Responsible for User Management and Permissions.
+●Implemented Sudo utility throughout the environment.
+●Experience with FDISK and parted utilities for partition of the disks.
+●Configured and upgraded system software that supports infrastructure applications.
+●Performed troubleshooting of SSH errors and key-less entry issues.
+●Implemented RAID levels on RAID-0, RAID-1, RAID-5, RAID-10.
+●Performance analysis and monitoring health using sar, iostat, vmstat, and top commands.
+●Contributed to documentation.
+●Utilized SCP & RSYNC to transfer data.
+
+Education
+• University of the Punjab • Bachelor 2004
+
+Career Summary
+Overall +6 years of experience in Linux administration with proven abilities to build, provision, deploy and configure Linux systems in an enterprise setting. Exposure to a hybrid environment with excellent capacity of troubleshooting and resolving issues related to operating systems, Kernel, and networking. Worked with DevOps tools like Ansible, GIT, and Docker. I am seeking an opportunity where I can implement experience, add value to the organization, and get the opportunity to grow with exposure to more advanced technologies.
+Technical Skills
+Contact this candidate

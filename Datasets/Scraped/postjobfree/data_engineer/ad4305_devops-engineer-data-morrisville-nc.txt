@@ -1,0 +1,132 @@
+RESHMA PUSULURI
+DevOps Engineer
+ad4305@r.postjobfree.com
++1(919)-(434)-1438
+
+Professional Summary:
+·Overall, 5 years of extensive experience in Automating, configuring, and deploying instances on cloud environments and Data centers.
+·Experience in the areas of DevOps Practices, CI /CD Pipeline, Docker, Kubernetes, Build and release management, AWS/Azure and Linux/Windows Administration.
+·Experience in working on various DevOps technologies/ tools like: GIT, SVN, Maven, Gradle, ANT, Jenkins, Puppet, Chef, Ansible, Docker, Kubernetes, AWS, and Azure.
+·Experience in managing applications using AWS Cloud which includes services like: EC2, S3, EBS, VPC, ELB, AMI, SNS, SQS, RDS, IAM, Route53, Autoscaling, CloudFront, AWS Lambda, CloudWatch, Cloud Formation, OPS Work, Security Groups.
+·Created Docker images using a Docker file, worked on Docker container snapshots, removing images, and managing Docker volumes.
+·Implemented Kubernetes for Orchestration with Docker.
+·Hands on experience in creating pods and managing on the cluster environment on Kubernetes.
+·Worked on OpenShift to leverage integrated components from Kubernetes to automate Application builds, Deployments, scaling and management.
+·Used Red hat OpenShift to improve application security by putting admin consoles on different Docker containers accessible only from unusual port numbers.
+·Extensively worked on Hudson, Jenkins, and Team City for continuous integration and for End-to-End automation for all build and deployments.
+·Hands of experience on application server maintenance and J2EE application deployment in application servers like Apache, Tomcat, and IBM Web Sphere.
+·Experience in using virtualization tools like Virtual Box, VMware and provisioning virtual machines using Vagrant.
+·Operational experience with multiple OpenStack distributions like Mirante’s OpenStack, Red Hat OpenStack, and OpenStack Ansible project.
+·Experience in working for a high scalability and high availability environment running Linux and Windows.
+·Experience in using Nexus Artifactory Repository Managers for ANT, Maven and Gradle Builds.
+·Experience in designing end-to-end automation of infrastructure and continuous delivery of the applications by integrating cloud formation scripts, Jenkins, AWS, and Chef Cookbooks and recipes.
+·Configured Chef Infrastructure and Setup chef infrastructure for various environments. Used open-source chef, chef-solo and chef-zero. Also, written various cookbooks for infrastructure automation.
+·Expertise in creating Chef Cookbooks/Recipes, custom resources, libraries, etc. Implemented exception handling using chef handler.
+·Configuring and maintaining Puppet master server, creating modules, and pushing them to puppet clients around hundreds of servers.
+·Experience in working with Puppet, Chef and Ansible for configuration management and application deployments and creating puppet modules to provision Apache web servers, Tomcat servers, MySQL, and Mongo DB database servers.
+·Used PowerShell for DevOps in Windows based system.
+·Experience in Creating Snapshots and Amazon Machine Images (AMIs) of the instances for backup and creating clone instances.
+·Hands on experience on website code and website patch Deployment and deployment tools like U Deploy (IBM), U Release, GIT, Jenkins, and Artifactory.
+·Hands on experience with messaging systems like JMS using RabbitMQ.
+·Experienced in setting up Amazon EC2 instances, Virtual Private Cloud (VPCs), and security groups.
+·Performed automation engineer tasks and implemented the ELK stack (Elastic search, Kibana) for AWS EC2 hosts.
+
+Technical Skills:
+Version Control Tools: Git, GitHub, GitLab’s Atlassian Bit Bucket, SVN
+Languages: C, C++, .Net, java, PHP, Python, Shell, YAML, Ruby, Go.
+Build Tools: Apache ANT, Maven, Gradle, Microsoft Build.
+Databases: Oracle 9i/10g/11g/12c, MySQL, DB2, MongoDB, Cassandra.
+Continuous Integration Tools: Jenkins, TeamCity.
+Artifacts Repository Management Tools: Nexus, J Frog.
+Configuration Management Tools: Ansible, Puppet, Chef.
+Containerization/Orchestration: Docker, Kubernetes, Apache Mesos, Marathon, Prometheus.
+Cloud Providers: AWS, Azure, GCP, Open Stack, PCF.
+Bug Tracking Tools: JIRA, REMEDY, IBM ClearQuest.
+Monitoring Tools: NAGIOS, Splunk, and Cloud Watch.
+Operating Systems/Virtualization Tools: Linux, Windows Servers, Ubuntu, Virtual Box, VMware.
+Application Servers/ Middleware: Apache Tomcat, WebLogic, WebSphere, JBOSS.
+
+Professional Experience:
+Client: Fidelity Investments, Durham, NC Mar’23-Dec’23
+Role: DevOps Cloud Engineer
+Responsibilities:
+·Automated Build and Deployment process-setup Continuous Integration and Continuous Deployment of applications onto different environments like Dev, QA, and Production.
+·Implemented Continuous Integration and Delivery framework using GitHub, Maven, Jenkins, Nexus and Ansible.
+·Administrating, installation, configuration of SonarQube Software and scan the code analysis.
+·Virtualized the servers using the Docker for the test environments and dev-environments needs. And configuration automation using Docker containers.
+·Developed procedures to unify, streamline and automate application development and deployment procedures with container technology using Docker.
+·Used Kubernetes to manage containerized applications using its nodes, Config Maps, selector, Services, and deployed application containers as Pods.
+·Developing and maintaining the source code control system, build environment, and managing build packages using TFS.
+·Setup Octopus Deploy tool to automate .Net deployments across different projects.
+·Responsible for performing both Staging and Production deployments using deployment preparation and setup deployment PowerShell scripts and via tools which includes like Octopus.
+·Design included high availability and elastic controllers managing application, MySQL and web server clusters on virtual machines running under OpenStack initialized via Chef Cookbook recipes.
+·Conceptualized a CI infrastructure using a combination of Python, Chef, Vagrant + Virtual Box, and Jenkins to perform automated installation and API level testing (i.e., Tempest, Rally) for an OpenStack platform product deployed on bare metal systems.
+·Deploy and monitor scalable infrastructure on Amazon web services (AWS) & configuration management using Ansible.
+·Installed Ansible Tower and wrote playbooks, created roles to rollout configurations to different environments.
+·Processed requests for deployments to environments in U Deploy.
+·Managing the multi-tier and multi-region architecture using AWS Cloud Formation and Automating the Cloud Formation using Terraform.
+·In-depth knowledge of AWS automation services - Cloud Formation templates, Terraform.
+·Developed Open Stack API to integrate with Amazon EC2 Cloud based architecture in AWS, including creating machine Images.
+·Created playbooks for AWS deployments and bug fixes with Ansible.
+·Experienced with installation of AWS CLI to control various AWS services through SHELL/BASH scripting.
+·Used AWS Beanstalk for deploying and scaling web applications and services developed with Java.
+·Support Experience with automation testing tools like Selenium for Java Application.
+·Expert in launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/Ubuntu) and configuring launched instances with respect to specific applications.
+·Configured tools like Elastic Search, Log stash and Kibana.
+·Monitored Application and server logs using the ELK stack.
+·Administration of the tools with this order GitHub, JIRA, Puppet, Octopus Deploy and ELK stack
+Environment: AWS, Puppet, Chef, Ansible, OpenStack, GIT, Jenkins, Gradle, Octopus, U Deploy, JIRA, Docker, Kubernetes, Linux, Apache Tomcat, MongoDB, WebSphere, Python script, Ruby script, MySQL
+
+Client: Freddie Mac, Mclean, VA May’19– Feb’23
+Role: DevOps Engineer
+Responsibilities:
+·Worked with Development and QA teams to continuously integrate software development using GIT, Maven, and Jenkins.
+·Developed build and deployment scripts using Maven as build tool in Jenkins to move from one environment to other environments and Involved in editing the existing Maven files in case of errors or changes in the project requirements.
+·Integrated Ant and Maven with TFS source control to automatically trigger Builds and publish results back to TFS.
+·Involved in release and deployment of large-scale C#, Website and Web applications using TFS repository.
+·Debug and resolve Pre-Post OpenStack deployment failures.
+·Created playbooks for OpenStack deployments and bug fixes with Ansible.
+·Used the Application Server Admin (JBOSS/ Tomcat) to manage the systems remotely using Ansible and using Linux.
+·Developed the solution from the ground up which utilizes: Spring Tool Suite, Spring Boot, Maven, Java 8, Eclipse, RESTful microservices architectures using JPA (Java Persistence API), JDBC, Hibernate, MySQL, and Ubuntu 16.
+·Communicated with groups to create REST API services to expose team data in a secure way with token-based authentication.
+·Docker the java Spring Boot micro service application by writing the Docker file as required.
+·Used RHEL Atomic host as the Docker host and did a proof of concept with a use case of 3 tier web-app-db. Java application to host with in Docker containers.
+·Used Kubernetes to deploy scale, load balance, scale and manage Docker containers with multiple namespace versions.
+·In charge of creation and modification of Instances, AMI’s, and Security Groups within EC2. Monitor and built reports through Cloud Watch.
+·Wrote AWS Lambda functions in python for AWS's Lambda which invokes python scripts to perform various transformations and analytics on large data sets in EMR clusters.
+·Used the AWS-CLI to suspend an AWS Lambda function processing an Amazon Kinesis stream, then to resume it again.
+·Implemented DNS service through Route 53 on ELBs to achieve secured connection via HTTPS.
+·Deploy and monitor scalable infrastructure on Amazon web services (AWS) & configuration management using Ansible.
+·Installed Ansible Tower and wrote playbooks, created roles to rollout configurations to different environments.
+·Configured Chef Infrastructure. Setup chef infrastructure for various environments. Used open-source chef, chef-solo and chef-zero. Also, written various cookbooks for infrastructure automation.
+·Created Chef Cookbooks/Recipes, custom resources, libraries, etc. Implemented exception handling using chef handler.
+·Creating Cloud Formation scripts for hosting software on AWS cloud and automating the installation of software through PowerShell scripts.
+·Worked with Nexus repository manager to proxy, collect, and manage the dependencies on the collection of JARs.
+·Developed Open Stack API to integrate with Amazon EC2 Cloud based architecture in AWS, including creating machine Images.
+·Employed automation, utilizing PowerShell and batch scripting best practices and Cloud Formation templates, to ensure repeatable deployments and for automating the AMI image deployment.
+·Designed and developed UNIX shell scripts to schedule jobs. Also wrote pre-session and post-session shell scripts, Wrote PL/SQL scripts for dropping, debugging, and rebuilding indexes.
+·Developed Dev/Test/Prod environments of different applications on AWS by provisioning Kubernetes clusters on EC2 instances using Docker, Bash, Chef, and Terraform.
+Environment: AWS, Maven, GIT, MySQL, TFS, LINUX, Jenkins, MongoDB, Microservices, Docker, Kubernetes, JIRA, Ansible, Apache Tomcat, Bash script, PowerShell, and Shell Script.
+
+Client: Cotiviti, INDIA Mar’ 18 to Feb’19
+Role: DevOps Engineer
+Responsibilities:
+·Experience to build CI/CD Pipeline to automate the code release process using Integration tool Jenkins. Used Shell script to perform testing on Jenkins.
+·Installing and configuring Jenkins, installing plug-in, configuring security, creating a master and slaves for implementation of multiple parallel builds.
+·Used Ant as build tool on Java projects for the development of build artifacts on the source code.
+·Expertise in deploying artifacts like WAR, JAR using Puppet on QA, PROD Environments.
+·Experience in installation, set-up, and management of build servers and management tools like Jenkins, GIT, Jira, Selenium, ANT, Maven, Python, Tomcat, etc.
+·Experience in working with Selenium IDE and Selenium Web Driver using TestNG.
+·Developed automation framework for Application Deployments to the cloud environments.
+·Worked on creating various types of indexes on different collections to get good performance in Mongo database.
+·Extensive knowledge on Docker containers, Kubernetes.
+·Used Docker, Kubernetes and OpenShift to manage micro services for development of continuous integration and continuous delivery.
+·Performed automation engineer tasks and implemented the ELK stack (Elasticsearch, Kibana) for AWS EC2 hosts.
+·Deployed and configured Elastic search, Log stash and Kibana (ELK) for log analytics, full text search, application monitoring in integration with AWS Lambda and Cloud Watch.
+·Deployed the Java applications into web application servers like JBoss.
+·Written manifests and modules for puppet to do tasks like application deployment, configuration and create file systems.
+·Experienced in installing VM in Azure - Managed Azure services and subscriptions using Azure portals and PowerShell, managed Azure resources to Azure Resource Manager Azure Virtual Networking - Implemented Virtual Networks using deployment template.
+·Involved in migration from on-premises to Azure Cloud and created customer images for VM's. Deployed clusters using JSON template and power shell in AZURE.
+·Involved in sprints and planned releases with the team using JIRA and Confluence.
+Environment: Azure, Java, Shell, PowerShell, Ruby, GIT, GitHub, MongoDB, Puppet, Jira, Jenkins, Docker, Kubernetes, Ant, WebSphere, WebLogic, JBoss, Python.
+Contact this candidate

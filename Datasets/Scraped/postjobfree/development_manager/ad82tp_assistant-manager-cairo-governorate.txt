@@ -1,0 +1,87 @@
+SUMMARY
+Results oriented applications development professional, with 27+ years of progressive experience bringing Hands-on application delivery as well as technical leadership skills in the areas of banking\payment solutions, business analysis and enterprise business systems design.
+OBJECTIVE
+Targeting a Senior\Lead Application Development role.
+EDUCATION
+B.Sc. in Computer Science - Menoufya University (Egypt), 1994
+TECHNICAL SKILLS
+Banking\Payment Solutions on different platforms such as Equation core banking, EuroNet core card system and C+ core card system.
+Enterprise Solution Design
+Object Oriented Design and Programming (Design Patterns, Scalability, Data structures)
+Modern OO frameworks including C++, C#, Java
+Oracle and SQL Server databases programming including SQL Server T-SQL, Oracle PL/SQL
+IBM DB2
+AS\400, Query/400, SQL/400, RPGLE/400, CLP/400, SEU, RLU, SDA, DFU
+Full awareness and adherence to Payment Card Industry (PCI) data security standard
+LEARDERSHIP SKILLS
+Team development and leadership
+Proficient communication and negotiation skills
+Coaching and mentoring
+Software development management (CMMI and Agile\Scrum)
+Change and release management
+Incident Management
+LANGUAGES
+Arabic – Native
+English - Fluent
+WORK EXPERIENCE
+
+NETWORK INTERNATIONAL AFRICA
+CAIRO, EGYPT 09/2008 UP TO DATE
+
+Applications Development Assistant Manager
+Network International – Africa serves over 140 banking customers in more than 40 countries to provide innovative and reliable payment solutions. These include credit, debit, pre-paid card processing, and ATM and POS acquiring.
+Reporting to the Head of Software Development and Transformations.
+Successfully delivered the below major systems which have a significant impact in building the processing capabilities of Network international:
+1.Led the development team to successfully implement EuroNet platform (Acquirer and issuer/ EOD interface files and banks customized reports / customization of fees processing / automation of cards embossing, …etc.).
+2.Designed and developed a complete End-to-End Solution for Contact (a leading installments company in Egypt) processing, included the full card issuance process, interests and monthly instalments calculator, cards management, customers and merchants accounts balance management, payments processing, as well as integration of the installment transactions authorization with EuroNet online authorization Gateway.
+3.On-boarded AIB (Arab Investment bank) in the installments system.
+4.Designed and developed a complete end-to-end solution for Diners Club merchant payments on top of EuroNet using RPGLE/400 technology.
+5.Designed and developed the reconciliation tool that helps operation team to ensure validity and balancing of transactions processed.
+6.Participated with the development team in integration with MEEZA by developing Meeza clearing files generator.
+7.Designed and developed a terminal tracking system, and fully integrate it with EN IMS (Integrated merchant system). The system is a critical system aimed to track POS terminals since newly received, passing by testing, deployment, repair, until they are out casting as well as having a history record for each POS terminal.
+8.Designed and developed SMS messaging solution: an integrated complete solution for handling sends of different SMS messages to customers based on banks requests.
+9.Designed and developed Merchants Payment Files Generation: A system that manages generation of merchant’s payments file.
+Participated in the Network International Grand project of migration from EuroNet to C+, migrating all the developed systems in EuroNet to C+ (using PL/SQL and C+ API technologies)
+Supporting the production systems (incidents\defects\customer and operations teams change requests), achieving a productivity rate of 50+ change requests per month, in addition to clearing all the reported defects backlogs and resolving incidents with the defined SLA with customers.
+
+INTERCOM ENTERPRISES CAIRO, EGYPT 02/2007 – 08/2008
+Senior Software Developer
+Main responsibilities include but not limited to system analysis, design, and development.
+Successfully delivered the below major systems, all of them are banking related projects:
+1.Migration project from Mysis Midas core system to Mysis Equation core banking system for El-Baraka Islamic bank.
+2.Migration project from legacy systems to Mysis Equation core banking system for two banks (Nile Bank, Islamic Bank) to the United Bank: Developing all the necessary applications to access the locally developed banking system databases and accessing the quality of the data and provide reports for required data cleansing. Migrating cleansed data into the Equation Database using Equation APIs.
+3.Internet Banking System: Maintenance of the Interface between the Internet Banking Application and Equation to provide Retail Customers with Online Access to their accounts in Equation and with the ability to perform transactions on these accounts.
+4.Enterprise Middleware Project: Maintenance of the MQ Message Broker Interface to MIDAS Applications, allowing various front-end applications to present MIDAS with online inquiries and transactions that are performed online.
+5.Notification Services: Maintenance of the MQ Event Broker based Interface to Card/400 the Card Management System and to Midas to provide online notifications to customers, once customer defined events happen in the core applications. Example of these events include: a POS Purchase on-us of the customer Credit Cards, the Collection of a Cheque or a Deposit made to a customer account. The system leverages a Publish / Subscribe model on an Event Broker to manage the publishing of events to subscribing applications.
+6.CIB Internet Banking: Maintenance of the MQ Series Interface between the Internet Banking Application and the Event Broker based Interface to Card/400 the Card Management System and to Midas to provide online notifications to customers, once customer defined events happen in the core applications. Example of these events include: a POS Purchase of the customer Credit Cards, the Collection of a Cheque or a Deposit made to a customer account. The system leverages a Publish / Subscribe model on an Event Broker to manage the publishing of events to subscribing applications.
+
+JUPITER 2000
+CAIRO, EGYPT 02/2006 – 08/2007
+Senior Software Developer
+Client\Outsourced to: CIB Egypt
+Fully outsourced to CIB Egypt participating in the analysis, design, and development of the following subsystems over Mysis Midas core banking system:
+1.Marginal lending: Developing a system for supporting marginal lending, that is a system for lending customers to trade in stokes, but under bank's trusteeship.
+2.Archiving closed customers/accounts: Developing a system for recording closed customers/accounts automatically to facilitate the retrieval of their information.
+3.Tracking user transactions on automatically generated batches: Developing a system for tracking unauthorized user transactions on automatically generated batches.
+4.Door to Door remittances management: A system has been developed for automating the handling of the Rajhi DOOR TO DOOR money transfer service.
+5.Retuned checks: A system is developed for: 1- Maintaining the returned checks from tellers 2- Allowing a system user to deal with returned checks no matter its source either being from collection, or by tellers.
+6.Securitization: Developing a system for providing CIB with a new service that increases the cash flow within the bank.
+7.Stamp duty calculation: Developing a System for calculating stamp duty for all customers based on customer type and account type and getting detailed and summery reports concerning stamp duty calculated.
+8.Debit/Prepaid cards inquiries: Maintenance of Debit/Prepaid cards inquiries.
+9.Service Charges Subsystem: Developing a system for calculation service charge and effecting accounts of customers.
+10.Tuition Fees Collection: Developing a system for CIB to assist universities in collecting tuition fees.
+GENERAL AUTHORITY FOR EDUCATIONAL BUILDINGS (GAEB)
+CAIRO, EGYPT 06/1995 – 01/2006
+Senior Software Developer
+Government Authority aimed at creating and maintaining educational buildings.
+Main responsibilities are Systems design, analysis, collection of requirements, and implementation of new systems or modify existing systems to satisfy business needs.
+Participated in the development of the following applications within the integrated information system of GAEB:
+1.Estimation of expense: A system that aimed to estimate the expense of a building based on its structure (building model), location, and using materials prices list.
+2.Contactor’s compensation system: A system for compensation of contractors in case of increase of buildings materials.
+3.System for tracking buildings construction plans: This system is aimed to tracking buildings construction plans.
+4.Localization of service: A system that is aimed to determine regions that misses educational service, and tracks solving their problems.
+5.Materials quality control labs. System: A system for registry of materials samples testing results while construction of buildings
+6.Materials pricing system: A system for estimating materials prices based on their constituting elements and workmanship wages.
+7.Building’s maintenance system: A system for tracking buildings maintenance
+8.Vacation’s system: A system that handle employee’s vacations.
+Contact this candidate

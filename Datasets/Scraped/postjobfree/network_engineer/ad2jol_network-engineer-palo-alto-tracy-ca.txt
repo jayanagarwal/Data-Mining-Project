@@ -1,0 +1,99 @@
+Navanshu Sehgal
+Email: ad2jol@r.postjobfree.com
+Phone: +1-510-***-****
+Tracy CA
+
+Summary
+
+Aviatrix Certified Engineer (Multi cloud Solution)
+AWS Certified Advanced Networking – Specialty
+AWS Certified Solutions Architect – Associate
+Palo Alto Networks Certified Cybersecurity Associate
+CCNP R&S
+Implementing Cisco SD-WAN Solutions Certification
+CCNA – Data Center
+Bachelor of Engineering (Electronics and Communications)
+Network engineer with 12+ years of experience in Cisco Routing and Switching technologies
+
+Networking Skills
+
+Cloud:
+AWS: Transit Gateway, Direct connect, Routing tables, AWS firewall, Security groups, NACL
+Azure: Virtual Hub, Express route, VNet, Azure premium firewall, Network security groups, routing, IPSEC tunnel
+
+Routing
+Routing Protocols – BGP,OSPF and EIGRP
+VXLAN, LISP, OTV, MPLS networks
+Multicast –Troubleshooting and configuration involving PIM, IGMP
+Knowledge of services like DHCP, QoS, NTP, HSRP, GLBP, VRRP, ARP, NAT, Netflow, PBR, GRE tunnelling, IP SLA/object tracking etc
+
+Switching
+Troubleshooting and configuring – Stacking, VSS, VPC, Ether-channels, STP, SPAN, inter VLAN routing
+LAN security- DHCP snooping, dynamic ARP inspection, IP source guard, private VLAN, port security
+
+Automation: Python and Terraform
+Solutions: ACI, SDWAN, SDA
+Security: Palo Alto firewall, Fortinet firewall, client VPN, IPSEC VPN
+Work Experience
+
+Primacy SI – Network Architect
+Working on Cloud, Security and Infrastructure Technologies (October 2021-Present)
+
+Design and deployment of networking in Azure and AWS clouds for SDWAN using Aviatrix connecting remote sites to Multi-cloud setup. High level design:
+oIPSEC tunnel from Aviatrix Transit Gateway to Silver peak
+oThe MPLS provider which connects all remote sites had connection to AWS direct connect which was then connected to Transit gateway
+oTransit gateway had multiple routing tables and hence route propagation had to be used for exchanging routes from routing table attached from direct connect to other routing tables
+oRoutes from Transit gateway were then advertised to Aviatrix which was the transit for all traffic from cloud resources to site connectivity
+Deployment of Express route with Virtual Hub and Azure premium firewall providing secure access to cloud services from onprem
+Implemented multi VRF VXLAN on Cisco Nexus and Catalyst Switches with Border leaf connected to Palo Alto firewall providing security for both east-west and north-south traffic
+Deployed Cisco SDA solution with Cisco Firewall as Fusion device, Catalyst 9500 as Core and 9300/9400 devices as part of SDA
+Deployed Meraki MX firewalls with SDWAN and Umbrella integration to replace the existing MPLS circuits and provide enhanced security.
+Consulting Customers on network architecture to resolve specific issues and achieve future scalability
+Worked on maintaining and migrating Redundant L3 out for enterprise ACI deployment.
+
+Cisco Systems India, Bangalore (March2021-October 2021)
+
+Technical Leader – Datacenter Networking TAC
+
+Working as an escalation point of contact for Datacenter TAC team working on all nexus platforms
+Worked on technologies like Spanning-tree, DHCP, HSRP, NAT, QOS, VSS, OSPF, BGP, OTV,HSRP,LISP, and MPLS
+Worked on Nexus 9k, Nexus 7k and Nexus 5k switches
+Building relationships with engineering escalation and development team to resolve customer issues and improving product quality
+Innovating workflows to automate or make SR resolution easier for TAC as well as customers
+Creating internal and external documentation
+Training and mentoring new hires and team members on complex technologies
+
+Cisco Systems, US - San Jose (August 2017-March 2021):
+Network engineer
+Worked on Catalyst switches and Cisco ASR/ISR routers
+Worked on technologies like Spanning-tree, DHCP, HSRP, NAT, QOS, VSS, OSPF, BGP, OTV,HSRP,LISP, and MPLS
+Working with development and Test team to resolve issues escalated from TAC and accounts team
+Represented as a release lead for releases to provide recommendations on bugs to be committed in releases
+Working with TAC to create troubleshooting documentation to prevent premature escalations
+
+CISCO SYSTEMS, US - San Jose(May 2015 – August 2017)
+Network Engineer – Datacenter and Catalyst Switching and routing
+Working as an Escalation support engineer for Ethernet switching technologies
+Worked on technologies like Spanning-tree, DHCP, HSRP, NAT, QOS, VSS, OSPF, BGP, OTV,HSRP,LISP, and MPLS
+Creating documentation for internal knowledge base
+Handling network down situations and providing technical reports for escalated cases.
+Training & mentoring new hires/team members on different technologies
+Recreating network topologies to isolate issues or filing bugs for Cisco NXOS/IOS/IOSXE
+
+CISCO SYSTEMS, India - BANGALORE (January 2013-2015)
+Network Engineer – Datacenter and Catalyst Switching and routing
+Working as an Escalation support engineer for Ethernet switching technologies
+Creating documentation for internal knowledge base
+Worked on technologies like Spanning-tree, DHCP, HSRP, NAT, QOS, VSS, OSPF, BGP, OTV,HSRP,LISP, and MPLS
+Handling network down situations and providing technical reports for escalated cases.
+Recreating network topologies to isolate issues or filing bugs for Cisco NXOS/IOS/IOSXE
+
+Aricent Technologies, India - Gurgaon (August 2010 –December 2012)
+
+Network Engineer – Catalyst Switching and routing
+
+Troubleshooting and resolve complex issues and proving root cause of incidents.
+Worked on technologies like Spanning-tree, DHCP, HSRP, NAT, QOS, VSS, OSPF, BGP, OTV,HSRP,LISP, and MPLS
+Working as a support engineer for routing and switching technologies and platforms, supporting end customers and partners
+Providing technical reports for escalated cases
+Contact this candidate

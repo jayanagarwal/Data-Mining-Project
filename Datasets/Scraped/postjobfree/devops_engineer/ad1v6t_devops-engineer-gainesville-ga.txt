@@ -1,0 +1,148 @@
+GODWILL ATEM
+DEVOPS ENGINEER / SITE RELIABILITY ENGINEER
+
+PROFESSIONAL SUMMARY:
+DevOps Engineer / Site Reliability Engineer (SRE) proudly offering over Eight (8+) years of experience fixing bugs in coding with source control tools. Polished professional successful designing, testing and implementing infrastructure and applications for various clients. Offering IT solution building expertise in fast-paced environments. Proficient in a wide range of DevOps tools and technologies, with expertise in Git and GitHub, Jenkins, Concourse, Docker, Kubernetes, ArgoCD, Terraform, Ansible, Chef, python, Bash, Shell, JavaScript. Adept at automating deployments, optimizing workflows, and ensuring high availability and performance of production systems. Strong knowledge of cloud computing platforms such as AWS, Azure, and Google Cloud. Skilled in troubleshooting complex issues and implementing solutions quickly. Strong collaboration and communication skills to work effectively in a team.
+
+TECHNICAL SKILLS:
+
+Platforms:
+Linux, Centos, Rhel, Ubuntu, Virtualization
+Scripting:
+Bash, Shell, Python, Javascript, Yaml
+Operating System:
+Linux, Microsoft Windows, Macos
+Containerization And Orchestration:
+Aws EKS, ECS, ECR, Docker, Kubernetes
+Continuous Integration And Delivery/Deployment:
+Argo CD, Jenkins, Travis CI, Concourse
+Cloud Computing Platforms:
+Amazon Web Services (AWS), Azure & Google Cloud
+Databases:
+MySQL, MongoDB, DynamoDB
+Version Control (Source Code Management):
+Git And Github, Gitlab
+Automation & Configuration:
+Chef, Puppet, Ansible
+Build/Unit Test:
+Maven, Sonarqube, Safe-Script
+Infrastructure As Code:
+Terraform, Cloudformation
+Web Server:
+Apache, Nginx
+Ticketing & Documentation:
+Jira, Confluence
+Monitoring And Visualization:
+Cloudwatch, Cloudtrail, Grafana, Prometheus, Elasticsearch
+
+EDUCATION:
+Bachelors of Science in Computer Science from University of Buea, Cameroon June 2014
+TRAINING:
+AWS Certified Solution Associate
+Docker Certificate of Completion
+Kubernetes certificate of Completion
+PROFESSIONAL EXPERIENCE:
+Pure Integration / Comcast Philadelphia, PA Aug 2022 - Present
+DevOps Engineer/Site Reliability Engineer
+
+Responsibilities:
+Designed and implemented infrastructure-as-code using Terraform to automate the creation of AWS resources for various projects.
+Architected a three-tier application using Terraform.
+Made modifications to Terraform codes and committed changes to our GitHub Terraform branch.
+Review Git pull request and merging new releases to different branches.
+Developed and maintained Ansible playbooks to manage the configuration of servers and applications.
+Created Docker containers to deploy microservices in Kubernetes clusters.
+Created AMI after deploying new codes to EC2 instances and changed launch configurations on auto- scaling group using Terraform.
+Provisioning and managing Kubernetes nodes.
+Deploying and managing applications to the Kubernetes cluster, configuring their settings, and monitoring their performance
+Scaling and optimizing the Kubernetes cluster to meet the needs of the client, as well as optimizing the cluster's performance and resource utilization.
+Ensuring security and compliance of the Kubernetes cluster, implementing security policies and controls, monitoring for security threats and vulnerabilities, and ensuring compliance with relevant regulations and standards.
+Implemented and managed ArgoCD for managing and automating application deployments across multiple environments
+Design, develop, and maintain GitOps workflows using ArgoCD for automating application deployments, configuration management, and infrastructure provisioning.
+Collaborate with development teams to integrate ArgoCD within CI/CD pipelines, ensuring automated and consistent application delivery from source code repository.
+Deploy, monitor, and manage applications across multiple Kubernetes environments using ArgoCD, ensuring reliable, scalable, and consistent deployments.
+Create and manage Helm charts to package applications, define deployment configurations, and streamline release processes within ArgoCD pipelines.
+Define and maintain infrastructure as code using Terraform enabling efficient provisioning and management of cloud resources.
+Regularly evaluate and optimize ArgoCD workflows, CI/CD pipelines, and deployment processes to enhance efficiency, reliability, and speed of application releases
+Implement and enforce version control strategies for ArgoCD applications, ensuring traceability and auditability of changes.
+Containerizing and deploying applications into the Kubernetes cluster using helm chart.
+Migrating applications running on Ec2 Instances in to EKS
+Implemented CI/CD pipelines using Jenkins and Concourse to automate the software delivery process.
+Monitored system metrics using tools such as Grafana, Kibana, and CloudWatch to detect and resolve performance issues.
+Administered and maintained Linux servers running Apache, Nginx, MySQL, and other critical services.
+Deployed and configured virtualization technologies, such as VMware to optimize resource utilization.
+Administered, maintained, and optimized Unix servers running AIX, HP-UX, and Solaris.
+Orchestrated the deployment of Kubernetes and OpenShift clusters, ensuring optimal resource allocation, high availability, and security.
+Managed the deployment and scaling of containerized applications using Kubernetes and OpenShift ensuring seamless application lifecycle management.
+
+Vision Media Valencia, CA Oct 2019 - Jul 2022
+DevOps Engineer
+
+Responsibilities:
+Worked on major Projects setting up built and maintaining production ready applications running on Kubernetes.
+Monitor and troubleshoot applications that are deployed on our Kubernetes Dev, QA and Production clusters against zero downtime, perform periodic backups, and troubleshoot failures.
+Managed, deployed and troubleshoot applications that were running on Kubernetes EKS clusters in our Dev, QA and Production environment.
+Managed the deployment and scaling of applications in AWS using tools such as CloudFormation, and ECS.
+Automated infrastructure management tasks using scripts written in Python and Bash - Developed and maintained Chef cookbooks to manage the configuration of servers and applications.
+Implemented monitoring solutions using Nagios, Prometheus, Grafana, Cloud trail and CloudWatch to detect and resolve issues proactively.
+Managed UNIX server environments, including configuration, installation, and maintenance.
+Provision AWS services using terraform, create update and make changes to our terraform codes
+Review GITS pull request and merging new releases to different branches.
+Create S3 lifecycle policies to transition objects from one storage class to another.
+Setup CICD pipeline using Jenkins which automates building of Docker images, push them to ECR registries and deploy to different environments.
+Configure Grafana dashboards to monitor CPU and memory usage of our applications and setup alerts through slack.
+Implemented production ready, load balanced, highly available, fault tolerant Kubernetes infrastructure.
+Configure Kubernetes EKS cluster on AWS and migrated application that were running on EC2 instances to EKS.
+Register domains and create route 53 records hosting various application servers.
+Customize Docker files for releases, build and push images to AWS ECR, pull images from ECR and deploy them to various environments.
+Setup Monitoring system with Prometheus and integrate with Grafana.
+Making changes to security groups to allow inbound and outbound traffic from other EC2 instances.
+Making changes to AWS services using terraform and cloud formation.
+Constantly troubleshooting failed deployments from Kubernetes pods
+Configured auto-scaling for our EKS clusters (horizontal pod auto-scaler and AWS auto-scaling)
+Built new code release using Jenkins, troubleshoot failed jobs, and escalated tickets to teams involved.
+Monitored, troubleshot and made remarks on automated builds on our Jenkins pipeline for applications running on Dev and QA environments.
+Deployed new release of code using Jenkins.
+Made modifications to Terraform codes and committed changes to our GitHub Terraform branch.
+Created Route 53 records hosting various application servers.
+Customized Dockerfiles for releases, built and pushed images to AWS ECR, pulled images from ECR and deployed them to various environments.
+Wrote configuration code to provision solutions with Ansible and Terraform in different environments, leveraging well-architected tools and best practices to building secure, high performing, resilient, and efficient infrastructures based on operational excellence, security, reliability, performance efficiency, cost-effective environments.
+
+Napco Media Philadelphia, PA Jan 2018 - Sept 2019
+Cloud DevOps Engineer
+
+Responsibilities:
+Worked on major CICD projects setting up pipelines using Jenkins.
+Move docker images from old to new ECR repositories, update configs of all deployments and push changes to GitHub.
+Update Kubernetes API version on deployment charts from version 1.19 to version 1.2.
+Making changes with code commit, branches, pushing and pulling using Git/GitHub
+Modified and created node group stacks (EKS nodes) on Terraform.
+Made changes to security groups to allow inbound and outbound traffic from other EC2 instances.
+Made changes to AWS services using Terraform.
+Constantly troubleshooting failed deployments of Kubernetes pods
+Updated configurations of pods and monitored the application against zero downtime and deployed them using ansible playbooks to production EC2 servers.
+Participated in daily scrum meetings to address various DevOps and customer related issues.
+Monitored our applications using Prometheus and Grafana
+Created AMI after deploying new codes to EC2 instances and changed launch configurations on auto- scaling group using Terraform.
+Participated in a major project that required setting up AWS EKS to run applications in production environment.
+The project involved creating two EKS clusters in different availability zones.
+Pushed docker images to AWS ECR and Pulled versions when rollback is needed.
+Optimized cost through reserved instances, selecting and changing of EC2 instance types based on resource needs, S3 storage classes and S3 life cycle policies etc.
+Created S3 buckets and managed policies using IAM for S3 buckets and used S3 Bucket and Glacier for storing historical data.
+
+Marriott International Hotels Atlanta, GA Jun 2015 - Nov 2017
+AWS Solution Architect/DevOps Engineer
+
+Responsibilities:
+Implemented projects that refactored environments' IaC templates, which eliminated hard coding, promoted re-useable templates, reduced errors, and vulnerabilities in the environments.
+Wrote configuration code to provision solutions with Ansible and Terraform in different environments, leveraging well-architected tools and best practices to building secure, high performing, resilient, and efficient infrastructures based on operational excellence, security, reliability, performance efficiency, cost-effective environments.
+Managed configuration of remote state file using Amazon S3 and DynamoDB
+Provisioned AWS Landing Zones to create a customized baseline of AWS accounts - Experience integrating with native AWS services (Code Pipeline, Code Commit, Code Build, Code Deploy, EC2, EKS, ECR, S3)
+Enabled Cloud Trail log file validation so that any changes made to the log file itself after it has been delivered to the S3 bucket is trackable to ensure log file integrity.
+Enabled access logging for Cloud Trail S3 bucket so that you can track access requests and identify potentially unauthorized or unwarranted access attempts.
+Enabled Cloud Trail across all geographical regions and AWS services to prevent activity monitoring gaps.
+Encrypted highly sensitive data such as protected identifiable information (PII)
+Developed strategies for modernization of existing systems and migration into a cloud environment using AWS Migration Hub, AWS Server Migration Service, and AWS Database Migration Service
+Orchestrated cloud governance, authorization, authentication, and identity access management of the clients' entire cloud environment using AWS IAM services (IAM users, IAM groups, IAM Roles, IAM Policies, identity federation) AWS organization, AWS Single Sign-On
+Experience in deploying and monitoring applications on various platforms using Elastic Beanstalk, setting up the life cycle policies to back the data from AWS S3 to AWS Glacier
+Contact this candidate

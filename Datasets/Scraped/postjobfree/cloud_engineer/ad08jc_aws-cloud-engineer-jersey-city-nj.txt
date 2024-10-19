@@ -1,0 +1,160 @@
+Can work W* & C*C,status GC
+Sai Kiran Daram
+ad08jc@r.postjobfree.com
+Contact: +1-551-***-****
+DevOps & AWS Cloud Engineer
+
+As an AWS Cloud Engineer with extensive experience in designing, deploying, and managing AWS infrastructure, I bring a strong technical background and a passion for innovation to any team. My skills in AWS services such as EC2, S3, Lambda, RDS, CloudFormation, and IAM, coupled with my ability to automate infrastructure using Terraform make me an asset to any organization. Additionally, my experience in DevOps methodologies and tools such as Git, Jenkins, and Docker enable me to efficiently manage continuous integration and delivery pipelines. With excellent communication and problem-solving skills, I am committed to delivering high-quality solutions that meet the needs of businesses.
+
+Wrote templates for AWS Infrastructure as code and Provisioning AWS services by using Terraform and AWS Cloud Formation templates. Automated the Cloud Deployments using Chef and Cloud Formation templates.
+Experience setting up instances behind Elastic Load Balancer in AWS for high availability
+Expertise in Terraform for building, changing, versioning infrastructure and collaborate the automation of AWS Infrastructure via Terraform and Jenkins.
+Integrated Jenkins CI tool with build automation tools like ANT, Maven & for the building of deployable artifacts (JAR, WAR & EAR, EXE) from source code.
+Experience designing and implementing container orchestration systems with Docker Swarm, Kubernetes.
+Virtualized Docker Images on Amazon EC2, created Docker files, used Nexus Repository as a Private Docker Registry for Docker Images and Clustered the Containers by using Docker Swarm and Kubernetes.
+Proficient with container systems like Docker and container orchestration like EC2 Container Service, Kubernetes, worked with Terraform.
+Extensively used Ansible and Ansible Tower as Configuration management tool in Development and testing environments, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change.
+Involved to trigger AWS Lambda when data is updated or modified in S3 and Data Validations, filtering every data and load the transformed data to AWS Redshift.
+Deep knowledge and hands-on experience of Kubernetes including setting up a Kubernetes cluster, managing clusters, and managing pods, deployments, application management, rolling updates, exposing using services & routes, persistent volumes, and persistent volume claims.
+Expert in orchestration and Migration of CI/CD processes using Cloud Formation, Terraform Templates & Containerization of Infrastructure using Docker, which was set up in Vagrant, AWS and VPC’s.
+Developed Kubernetes Pod definitions, Deployments and used Helm Charts to version control complete deployment strategies. Written Helm Charts, Kubernetes YAML files for deployment of microservices into Kubernetes clusters.
+Built Jenkins pipeline to drive all microservices builds out to the Docker registry and then deployed to Kubernetes, created pods, and managed using Kubernetes.
+Experienced with deployment automation of all the microservices to pull the image from the private Docker Registry and deploy to Docker Swarm Cluster using Ansible.
+Experience with Kubernetes cluster deployment, scaling, and monitoring.
+Experience on AWS, focusing on high-availability, fault tolerance, and auto-scaling using Terraform templates. Along with (CI/CD) with AWS Lambda.
+Experience in Configuration Management, Cloud Infrastructure, and Automation like Amazon Web Services (AWS), Ant, Maven, Jenkins, Chef, SVN, GitHub, Clear Case, Tomcat, and Linux
+Strong understanding of Linux shell scripting using bash and other scripting languages, and ability to automate repetitive tasks using scripts.
+Extensively worked on Ansible to configure the servers, deploy software, and orchestrate continuous deployments or zero downtime rolling updates.
+Experience in working with SQL database like MySQL, Oracle 10i/9i/8i, SQL Server and NoSQL databases like MongoDB, DynamoDB and Cassandra.
+Expertise in working with Terraform key features such as Infrastructure as a code, Execution plans, Resource Graphs, change automation and extensively used Auto scaling launch configuration templates for launching amazon EC2 instances while deploying microservices.
+Extensively worked on CI/CD pipeline for code deployment by engaging different tools (Git, Jenkins, Code Pipeline) in the process right from developer code check-in to Production deployment.
+Familiarity with various deployment strategies, such as blue-green deployment, canary releases, or rolling deployments. Ability to choose and implement the appropriate deployment strategy based on project requirements and best practices.
+Experience in managing Ansible Playbooks with Ansible roles, group variables, inventory files, copy and remove files on remote systems using file module.
+Experience in setting up and maintaining Jenkins servers for iOS and macOS application builds.
+Experience in using Git for version control and integration with Jenkins for automated builds.
+Strong skills in version control systems such as Git, SVN. Proficient in branching, merging, and resolving conflicts, as well as using advanced features such as Git hooks, submodules, or GitFlow workflow.
+
+Technical Skills:
+
+Operating Systems
+Windows, Linux(RHEL), CentOS, Ubuntu, Unix
+Cloud Computing
+AWS (EC2, ELB, S3, Cloud formations), OpenStack (Nova, Swift, Glance), Docker containers.
+CI Tools
+Jenkins, Bamboo ( Deep Knowledge).
+Provisioning Tools
+Ansible, Chef( Deep Knowledge)
+Version Control
+GIT, GitHub, bitbucket
+Build Tools
+Ant, Maven
+Bug Tracking Tools
+JIRA Atlassian, Bugzilla
+Application/Web Servers
+Apache Tomcat, WebLogic, IBM WebSphere, JBoss.
+Languages/Scripting
+Bash scripting, Power Shell, Python, Groovy, Linux, YAML.
+
+EDUCATION:
+Bachelor's: GITAM University 2015 ( Mechanical Engineering ).
+Master’s: Wilmington University 2020 ( Information Technology).
+
+Professional Experience:
+
+Charles Schwab, Remote 07/2021 to Present
+Role: AWS DevOps Engineer
+
+Involved in designing and deploying a multitude of applications utilizing almost all the AWS stack including EC2, Route53, S3, RDS, Dynamo DB, SNS, SQS, Lambda, RedShift, focusing on high-availability, fault tolerance and auto-scaling in AWS using Cloud Formation.
+Created automation for many AWS specific tasks such as parsing a CSV for automated read/writes into DynamoDB so that changes are source controlled and automated via Jenkins.
+Worked with Terraform key features such as Infrastructure as code, Execution plans, Resource Graphs, Change Automation and extensively used Auto scaling launch configuration templates for launching amazon EC2 instances while deploying Micro services.
+Designed and deployed a large application utilizing AWS stack resources (including EC2, S3, RDS, Dynamo DB, SNS, SQS, IAM, ECS, Lambda) focusing on high availability, and auto-scaling in AWS cloud formation
+Configured AWS Identity and Access Management (IAM) Groups and Users for improved login authentication. Provided policies to groups using policy generator and set different permissions based on the requirement along with providing Amazon Resource Name (ARN).
+Involved in designing & deploying multiple applications using the almost all the AWS cloud infrastructure by integrating with Jenkins for CI/CD. Focusing on high availability, fault tolerance & auto-scaling of the instances.
+Wrote Terraform scripts to automate AWS services which include Web servers, ELB, Cloud Front distribution, Database, EC2, database security groups and S3 bucket.
+Created a Python Script to stop all the instances with a specific tag in AWS instance using Lambda functions and made it into Cloud Watch Scheduler to schedule it every night.
+To create customized VPC, Subnets, NAT, EC2 instances, ELB and Security groups, wrote CloudFormation templates. Created alarms in CloudWatch service for monitoring server’s performance, CPU utilization and disk usage in AWS.
+Deployed and configured Elasticsearch, Logstash, and Kibana (ELK) for log analytics, full-text search, application monitoring in integration with AWS Lambda and CloudWatch.
+Performed the automation deployments using AWS by creating the IAMs and used the code pipeline plugin to integrate Jenkins with AWS and created the EC2 instances to provide the virtual servers.
+Provisioned the highly available EC2 instances using Terraform and Cloud Formation and wrote new plugins to support new functionality in Terraform.
+Implemented AWS Code Pipeline and Created Cloud formation JSON templates in Terraform for infrastructure as code.
+Configuring and maintaining cluster resources like namespaces, deployments, services, and secrets.
+Monitoring cluster health, performance, and capacity.
+Used Jenkins and pipelines to drive all microservices builds out to the Docker registry and then deployed to Kubernetes, Created Pods and managed using Kubernetes.
+Managed Kubernetes charts using Helm, created reproducible builds of the Kubernetes applications, templatize Kubernetes manifests, provide a set of configuration parameters to customize the deployment and Managed releases of Helm packages.
+Configured and maintained the AWS Lambda function to trigger when there is a Jenkins build kicked off, which internally gets stored on AWS S3 bucket for everybody to access.
+Worked on AWS cloud to provision new instances, S3 Storage Services, AWS EC2, Cloud watch services and CI/CD pipeline management through Jenkins. Support Design and implementation of the continuous delivery pipeline, using continuous integration, continuous delivery, and automated environment provisioning.
+Write Terraform scripts from scratch for building Dev, Staging, Prod and DR environments.
+Worked with containerization tools, can implement transition to Docker and develop distributed cloud system using Kubernetes and used Helm package manager for Kubernetes.
+Created Docker Images & Docker Containers using Terraform Scripts. Used these containers for branching purpose & deployed with Amazon Elastic Beanstalk.
+Developed microservice onboarding tools leveraging Python and Jenkins for easy creation and maintenance of build jobs and Kubernetes deploy and services.A
+Configured applications that run multi-container Docker applications by utilizing the Docker-Compose tool which uses a file configured in YAML format. Used Kubernetes to manage containerized applications using its nodes, Config-Maps, selector, Services, and deployed application containers as Pods.
+Configured Kubernetes Replication controllers to allow multiple pods such as Jenkins master server in multiple minions.
+Create and maintain highly scalable and fault tolerant multi-tier AWS environments spanning across multiple availability zones using Terraform and CloudFormation.
+Developed and Implemented Kubernetes manifests, helm charts for deployment of microservices into Kubernetes(k8s) clusters.
+Converted existing AWS infrastructure to server-less architecture (AWS Lambda) and deployed it via Terraform. Migrated data from Datacenters and on-premises to Cloud using AWS Import/Export Snowball service.
+Managed Kubernetes charts using Helm. Created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed releases of Helm packages. Established a local dev workflow that centered around minikube to validate deployments in Kubernetes.
+Created Terraform templates for provisioning virtual Private networks (VPCs), subnets, VM Scale sets, Load balancers and NAT rules and used Terraform graph to visualize execution plan using the graph command.
+Virtualized servers in Docker as per test environments and Dev-environments requirements and configured automation using Docker containers.
+Deployed and configured Elasticsearch, Logstash and Kibana (ELK) for log analytics, full-text search, application monitoring in integration with AWS Lambda and CloudWatch
+Created Docker images using a Docker file, worked on Docker container snapshots, removing images and managing Docker volumes.
+Used Docker to run and deploy the application in multiple containers Docker Swarm, Docker Wave for auto discovery.
+
+Environment: Jenkins, Maven, UNIX, Perl, Shell Script, Terraform, GIT, Docker, terraform, Kubernetes, Helm charts, AWS, Linux, Jira.
+
+Capital One, Remote 06/2020 to 06/2021
+Role: AWS DevOps Engineer
+
+Responsibilities:
+
+Created AWS cloud formation templates to create custom sized VPC, subnets, EC2 instances, ELB. Worked on tagging standard for proper identification and ownership of EC2 instances and other AWS Services like Cloud Front, cloud watch, RDS, S3.
+Implemented Terraform modules for deployment of applications across multiple cloud providers.
+Worked with Terraform key features such as Infrastructure as code, Execution plans, Resource Graphs, Change Automation.
+Replaced the use of CloudFormation with Terraform to not be fully locked into a single cloud provider
+Utilized MySQL, MongoDB, DynamoDB and Elasticache to perform essential database administration. Build out server automation with Continuous Integration - Continuous Deployment tools like Jenkins or Maven for deployment and build management system.
+Automated infrastructure using Infrastructure as Code (IAC) tools such as AWS CloudFormation and Terraform, enabling consistent and repeatable deployment of resources.
+Designed and deployed AWS infrastructure, including VPCs, EC2 instances, RDS databases, S3 buckets, and other AWS resources, to support application development and deployment.
+Implemented the automated Nagios in the Ops environment for alerts & email notifications using Python script & executed them through Ansible.
+Implemented and maintained the monitoring and alerting of production and corporate servers/storage.
+using AWS cloud watch.
+Worked with AWS Code Pipeline and designed AWS Cloud Formation Templates (JSON format) to create custom-sized VPC, Subnets, Route Table, and NAT Instances to ensure deployment of web applications.
+Used terraform to write Infrastructure as code and created Terraform scripts for EC2 instances, Elastic Load balancers and S3 buckets.
+Configured EC2 instances (Linux Servers) using Terraform Scripts and maintained Scalability using AWS Elastic Load Balancer (ELB) to control traffic and perform balance across the instances in multiple availability zones.
+Maintained and supported AWS infrastructure, performing regular backups, upgrades, and patching to ensure security and reliability.
+Wrote Ansible Playbooks with YAML, to manage configurations of AWS Nodes & test Playbooks on instances using Python.
+Worked on DevOps tools such as Docker, Kubernetes, or Ansible on integrating them with Jenkins to support DevOps workflows.
+Converted existing AWS infrastructure to serverless architecture (AWS-Lambda,Kinesis) deployed via Terraform & AWS Cloud formation.
+Installation and configuration of Webserver (Apache 2.2.17), MySQL 5.5 and PHP in a LAMP stack.
+Developed and implemented CI/CD pipelines: This involves using tools such as Git, Jenkins, and AWS Code Pipeline to automate the software delivery process and ensure fast, reliable releases.
+Administered Linux servers for several functions including managing Apache/Tomcat server, mail server, and MySQL databases in both development and production.
+Written Templates for AWS infrastructure as a code using Terraform to build staging and production environments and defined Terraform modules such as Compute, Network, Operations, and Users to reuse in different environments.
+Written, Planned and Created the Infrastructure as code using Terraform and used it to create infrastructure in AWS and maintained using Ansible and Implemented Terraform modules for deployment of applications across cloud providers.
+Developing build using MAVEN as build tool and using Jenkins to kick off the builds to move from
+one environment to other environments.
+
+Environment: AWS, Load Balancers, Ansible, Shell, Python, Linux, Jira, My SQL, Jenkins, Apache
+Tomcat 7.x, Docker, Virtualization, Kubernetes, Configured plug-ins for Apache HTTP server 2.4, Nginx, LDAP, JDK1.7, XML, SVN, Git
+
+Cyient Hyd TG. April 2015 to July 2018
+Role: Build and Release Engineer
+
+Responsibilities:
+Use Agile methodology throughout the project. Involved in weekly and daily bases release management.
+Designed GIT branching strategies, merging per the needs of release frequency by implementing GIT workflow, make developers to understand it.
+Build and release software baselines, code merges, branch and label creation and interfaced between development and infrastructure.
+Worked on build tools such as Maven, Gradle, or Ant to manage dependencies.
+Created and managed Xcode projects, targets, schemes, and build configurations.
+Involved in troubleshooting and resolving issues related to Jenkins build jobs, pipelines, and plugin conflicts.
+Used scripting languages such as Groovy and Bash to customize Jenkins pipelines and automate tasks.
+Setup full CI/CD pipelines so that each commit a developer makes will go through standard process of software lifecycle and gets tested well enough before it can make it to the production.
+Collaborated with Development teams and QA teams to ensure successful builds and deployments using Jenkins.
+Setting up continuous integration and formal builds using Jira with Artifactory repository and resolved update, merge, and password authentication issues in JIRA.
+Maintained Jenkins infrastructure, including backup and restore processes, plugin upgrades, and system monitoring and alerts.
+Worked in setting up and maintaining Jenkins servers for iOS and macOS application builds.
+Jenkins can be integrated with artifact repositories such as Nexus, Artifactory, and JFrog to manage and store build artifacts, dependencies, and release packages.
+Managed source code repositories, including branch and merge strategies, code reviews, and code quality checks.
+Helped individual teams to set up their repositories in bit bucket and maintain their code and help them setting up jobs which can make use of CI/CD environment.
+Configured Jenkins build pipelines for iOS and macOS application builds, including build, test, and deployment stages.
+Created backup and recovery plans to ensure that Jenkins data is backed up and can be restored in case of a system failure.
+
+Environment: SVN, GIT, Maven, Artifactory, JIRA, Bamboo, CI/CD, Shell, Bash, Selenium, Agile.
+Contact this candidate

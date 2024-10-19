@@ -1,0 +1,160 @@
+GUY E. MATZ
+**-** ****** **.
+Forest Hills, NY **375
+917-***-****
+adzsde@r.postjobfree.com
+TECHNICAL SKILLS:
+● Expertise in System administration of many Linux distributions, particularly RedHat & Ubuntu
+● Expert in Ansible & Salt configuration management, experience with Chef & Puppet
+● Administration of all common UNIX services, e.g. NFS, NIS, DNS, Postfix, LDAP, etc.
+● GCP Certified, AWS & Rackspace administration
+● Kubernetes / Docker / Helm
+● Strong Shell, Python, & Groovy scripting
+● Jenkins Administration and programming
+● Artifactory administration and programming
+● Oracle/MySQL administration & programming
+● Excellent practical & theoretical knowledge of Internet applications and security concerns
+● App Server administration & Programming of Tomcat, Rails & Flask
+● Web Server administration Apache & Nginx
+● Contribution to Open Source projects
+Ansible
+Jira module for python
+The Foreman
+apt-mirror
+EXPERIENCE:
+Aug 2020 - Present JetBlue, New York, NY
+DevOps Engineer (Consulting)
+● Lead SRE for Java & NodeJS public-facing website
+● Administration of Kubernetes in GCP
+● GCP administration via Terraform
+● Migration to k8s RBAC from “sudo kubectl”
+● Migration to GCP OSLogin
+● Development & maintenance of Salt code for RHEL 8 & Ubuntu 20 Nov 2017 - Aug 2020 Schrodinger, New York, NY
+DevOps Engineer
+● Development & maintenance of Ansible & Salt code for RHEL 7
+● GCP & AWS administration via Terraform
+● Automation of business workflows using StackStorm / Python
+● Automation of Swarm Cluster on vmWare using Terraform, as well as container deployment via ansible
+● Automation of Docker Container builds for specific internal applications via Jenkins
+● Docker Image builds with ansible-container
+June 2015 - Nov 2017 J. Crew, New York, NY
+DevOps Engineer (Consulting)
+● Automation of many business processes using custom workflow engine
+● Development & maintenance of Ansible code in an absurdly complex environment
+● Design/Implementation of complex CI/CD
+Workflow including integrations with several APIs
+● Jenkins administration & automation with Groovy
+● Artifactory administration, including custom User Plugins written in Groovy
+● “Best Overall Hack” for Jira-based Business-Process automation written in Python
+June 2017 - August 2017 Moxe Health, Madison, WI
+DevOps Engineer (Consulting)
+● AWS infrastructure management using Terraform
+● Configuration management using Ansible
+● Jenkins administration
+Nov. 2014 - June 2015 Rent The Runway, New York, NY DevOps Engineer
+● Development & maintenance of Puppet code in a complex SOA environment of ~500 CentOS servers in Rackspace
+● Support of general development efforts and general Systems Administration functions
+● Puppet, employing Roles/Profiles pattern. Development/deployment lifecycle includes git, librarian-puppet, Vagrant, Jenkins and rigorous testing
+● Projects included “Towers of Hanoi” style datacenter migrations within Rackspace Public CLoud, Private Cloud and Dedicated vCenter
+● Installation & maintenance of Katello for package management and strict lifecycle management of system packages
+● Member of on-call rotation
+May 2014 - Oct 2014 WeightWatchers, New York, NY
+DevOps/Systems Administrator (Consulting)
+● Configuration Management of new virtualized Rackspace Infrastructure using Ansible
+June 2013 – May 2014 iHeart Radio, New York, NY
+DevOps/Systems Administrator
+● Administration of 200+ servers using Chef
+Mixed environment of Metal, AWS & VMware
+● SRE for Ingestion & Encoding team of developers
+● Development and maintenance of Chef cookbooks
+● Established process for Chef development using Chef Zero, test-kitchen and Vagrant
+● Python coding of administrative web-app using Flask
+● Development of automated DNS push derived from internal asset management database
+Jan. 2013 – June 2013 Collective Media, New York, NY DevOps/Systems Administrator
+● Hadoop administration of a 60-node Ubuntu cluster
+● Development of proposal for Policies & Procedures
+● Foreman integration into existing puppet environment
+Development of Foreman/FreeIPA Proxy
+● Katello installation for OS SDLC
+● Creation of local repositories for code/package standardization
+● Installation of FreeIPA for Kerberos authentication May 2010 – Jan. 2013 MarkitServ, New York, NY
+DevOps/Systems Administrator
+● On rotation for all levels of support
+● Assisting in datacenter migration, including over 200 Linux servers, a number of NetApp appliances, and a large-scale VMware deployment
+● Hardware consists of a number of HP BladeSystem c7000s and DL360s
+● Puppet used for all server configuration
+● Hadoop administration of a 30-node cluster
+● Engineering and Implementation of a Continuous Integration test environment for Puppet deployment, using Hudson
+● LDAP deployment for authentication and sudo authorization
+● DNS management using InfoBlox
+Mar. 2004 – May 2010 Open Finance, New York, NY
+Team Lead, Production Systems
+● Heavy development of Financial Services Back-End System dataflow and utilities using bash, Perl, Python, Java, XML, SQL & PL/SQL
+● Development of web application for monitoring internal applications using JSP, WebSphere & Oracle
+● Development of client-facing Rails application
+● Puppet used for configuration management
+● Systems & network administration at co-location facility for Production, UAT & Development systems in US and European Facilities. Managed Systems Administrators both domestically and abroad (Switzerland & Singapore) using Puppet for centralized administration.. RedHat/CentOS/Fedora/OracleEnterprise Linux systems are used for Oracle databases, application servers and infrastructure servers, including firewalls, mail servers and naming services servers
+● Manager of team to implement planning, installation of Disaster Recovery site, including fail-over procedures and recovery
+● Installation and configuration of systems and network monitoring agents
+● Installation & Management of a variety of hardware, including VPN & iSCSI appliances, various RAID storage and various Intel-based servers.
+● Email server administration – Postfix & Dovecot
+● Installation of LDAP infrastructure
+Oct. 2001 – Feb. 2004 Max Power Consulting, New York, NY Computer Systems Consulting
+● Systems & network administration at co-location facility for medium-sized web development group. Systems range from Sun V120s to 4500 to Sun E6900
+● Development of heavily customized mailing-list application using PHP, Perl & MySQL
+● Teaching of “Windows 2000 Professional” & “Windows 2000 Infrastructure” courses at a small technical college.
+● Development and maintenance of complex printing quota management system at Columbia University
+● Windows 2000 administration for a cooperative medical facility
+● Linux and Oracle administration at a co-location facility for a financial start-up
+● Database design and front-end coding for a Marketing firm
+● Microsoft VPN access solution for a Law firm at “Ground Zero” Jan. 2001 – Oct. 2001 Kinexus Corporation, New York NY Consulting - Back-End Systems Developer
+● Development of Financial Services Back-End System dataflow using Shell, Perl, Python, Java, SQL & PL/SQL
+● Heavy use of Oracle and DataJunction
+● IBM MQSeries administration
+Dec 1999 - Jan 2001 Opus360, New York NY
+Senior UNIX Web Services Administrator
+● Installation and configuration of Sparc Netra T1 105s & Enterprise 250s
+& 450s
+● Netscape Web-Server administration and tuning
+● Responsible for securing external web-farms including setting firewall rules, installing SSH, configuring tripwire, as well as deploying VNC as a means to remotely administer NT Servers
+● WebLogic administration, including architecture of development and production environments
+● Installation & configuration of Resonate, a software-based network load-balancer
+● Installation & configuration of WebMethods, a java-based application server
+● Installation & configuration of Network Services, e.g. Sendmail, DNS, LDAP, etc.
+● Oracle administration in a development environment
+● Configuration of Jumpstart Server
+● CGI scripting using Perl
+● LDAP administration
+Mar. 1998 – Jan 2000 Credit Suisse/First Boston, New York NY Consultant – Systems Administrator - Trading Floor Support
+● General trading floor support in mixed Solaris/NT environment
+● Engineering and installation of Solaris on servers and workstations ranging from Sparc IPX to E4500s
+● Engineering and implementation of experimental NIS-to-LDAP conversion
+● Autosys management
+● NIS/NFS administration
+Feb. 1997-Mar. 1998 Deutsche Bank, New York, NY
+Systems Administrator
+● Production support in Trading Floor environment. Production platform consisted almost entirely of RISC boxes running AIX versions 3.2.5 & 4.x.
+● Environment made heavy use of NIS & NFS, including HA/NFS server pairs for most non-workstation class machines and HA/CMP for specific mission-critical application servers.
+● Configured HTTP proxy servers to better serve LAN segments
+● Developed web-based documentation management system
+● Other duties included application roll-outs and filesystem maintenance. May 1996-Feb. 1997 PFM Communications, New York, NY Systems/Network Administrator
+● Network consisted of various Sparc, NT & BSDI servers, T1 connections to Sprint, MCI & UUNet for Internet connectivity and Cisco routers
+● Primary responsibility was technical contact for Internet Wired, a project to Internet-ready commercial properties
+● Managed WWW, News, Mail and other Internet services
+● Configuration of client-end routers and management of Internet services on both Solaris & NT
+● Projects included design & installation of Internet solutions, i.e. routers, CSU/DSU, Terminal Servers, etc., at client sites and the design and implementation of company’s internal Firewall with Checkpoint’s Firewall-1.
+Apr. 1995-May 1996 Dillon, Read & Co., New York, NY Systems Administrator/Intranet Developer/E-mail Administrator
+● Network consisted of SPARC servers running both Solaris 2.4 & SunOS, Prime mainframes, X-terminals, PCs and Macs
+● Headed project team to install firm-wide E-mail at home office and others around the country
+● Developed prototypical Intranet in a mixed Solaris/NT environment.
+● Site included a variety of content such as a document management system, an expense report filer, a personnel database, as well as department specific applications. Site made use of JavaScript on the front-end and Perl and Oracle as back-end tools.
+● Member of project team responsible for Internet connectivity. Project included hardware configuration of Firewall with routers on the internal & external nets and a bastion host in between, and implementation of security software
+● Responsible for naming services conversion from NIS to DNS Jan. 1993-Apr. 1995 Horizon Data Corporation, New York, NY Systems Administrator
+● Responsible for Systems Administration of RS/6000 TCP/IP LAN/WAN, including integration with Netware 3.12 LAN/WAN for a U.S. Government agency
+● WAN included T-1 & 56Kb bridges to satellite offices in metropolitan area, and a dial-up SLIP connection for a sister office in San Diego
+● Member of project team responsible for installation, implementation and administration of Excalibur, a client/server document imaging system, and Oracle 7.
+● Responsible for document management architecture and implementation using near-line (CD Jukebox) storage
+● Member of team to integrate cc:Mail & Router throughout WAN, which included 5 offices with a total of approximately 200 nodes. Each node ran IP on top of IPX in order to use Windows client software for the applications running on the RS/6000
+EDUCATION: 2010 - Present Brooklyn College, New York - Biology 1987 - 1992 University of Wisconsin, Madison, WI – Mathematics 1983 - 1987 Bronx H.S. of Science
+LANGUAGE SKILLS: Knowledge of Dutch and French
+Contact this candidate

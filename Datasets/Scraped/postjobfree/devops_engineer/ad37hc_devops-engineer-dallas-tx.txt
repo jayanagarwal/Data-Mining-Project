@@ -1,0 +1,160 @@
+Pratyush J
+Sr Azure DevOps Engineer/ Cloud Engineer.
+CONTACT: 469-***-****
+EMAIL: ad37hc@r.postjobfree.com
+
+PROFESSIONAL SUMMARY:
+
+•Accomplished DevOps and Platform Engineer with 9+ years of driving innovation through Infrastructure as code(IAC), automation, monitoring, and seamless integration. Renowned for developing and deploying services/policies across diverse API management tools using cutting-edge CI/CD and DevOps processes.
+•Azure Cloud Specialist with deep expertise in leveraging the full suite of Azure services, including Virtual Machines, Networking, Active Directory, Storage, Function Apps, AKS, Key Vaults, Managed Identities, and Load Balancers. Developed high-performance Azure Function Apps in Python.
+AWS Cloud Architect with a proven track record in managing and optimizing AWS infrastructure, such as EC2, S3, RDS, EBS, ELB, Auto-Scaling, AMI, and IAM. Instrumental in creating multi-region, multi-zone AWS cloud infrastructure and certified as an AWS Solutions Architect.
+Kubernetes Maestro, skilled in deploying and configuring applications in Kubernetes clusters, performing end-to-end testing, and ensuring seamless integration.
+Infrastructure Automation Specialist, adept at authoring Terraform modules and designing robust disaster recovery plans, ensuring business continuity and resilience.
+Performance Monitoring Expert, implementing comprehensive end-to-end monitoring for application performance in Kubernetes clusters, developing dashboards, and creating proactive alerting mechanisms.
+API Integration Guru, skilled in creating and managing APIs in IBM APIC and Azure APIM, ensuring seamless integration and efficient data flow.
+Automation Architect, proficient in creating and maintaining automated pipelines in Jenkins using Groovy and JobDSL, and managing Linux servers and applications using Ansible and Icinga/Nagios.
+Scripting Powerhouse, developing scripts for configuration management, deployments, and maintenance tasks using Ansible, Bash, PowerShell, and Python.
+Middleware Maverick, experienced in designing, developing, and implementing Middleware-Oriented Systems in on-premises environments, optimizing IT infrastructure, security policies, and SDLC standards.
+DevOps Champion, configuring build and release pipelines in Azure, incorporating approval and review steps within CICD pipelines, and following rigorous release management processes.
+Continuous Delivery Evangelist, creating custom Jenkins Docker images for CICD, automating builds and deployments using Jenkins, Gradle, and Groovy, driving agility and time-to-market.
+Zero-Downtime Deployment Expert, implementing zero-downtime deployments and upgrades using strategies like failover and blue/green deployments, ensuring uninterrupted business continuity.
+Quality Assurance Integrator, integrating Jenkins, Azure DevOps, and AWS DevOps pipelines with SonarQube, utilizing Artifactory for secure storage, and performing Xray scans for vulnerability mitigation.
+Agile Practitioner, participating in sprint planning using Jira and Miro, following agile methodologies for continuous collaboration, improvement, and delivering value incrementally.
+Protocol Polymath, experienced in working with various protocols, including FTP, SFTP, HTTP, HTTPS, Java API, and JDBC, ensuring seamless connectivity and data exchange.
+Collaborative Leader, collaborating effectively with cross-functional teams to deliver high-quality solutions, providing exceptional production support, and demonstrating outstanding communication skills, fostering transparency and teamwork.
+Used services like Cloud Monitoring, Splunk, and Nagios to do the monitoring of the application servers deployed.
+
+TECHNICAL SKILLS:
+
+Cloud
+AWS, Azure, Digital Ocean, GCP
+Scripting Languages
+Ansible, Shell, Terraform, Bash, PowerShell, Gradle, Python, JobDSL
+DevOps Tools
+Jenkins, ArgoCD, Github Actions, Kubernetes, Docker, Pod man, Artifactory, SonarQube, Bit bucket, Virtual Box, ICINGA, ELK, Splunk, Grafana, Prometheus, Vault, DataDog
+API Management
+IBM APIC, CA API GATEWAY (Layer 7), Kong
+Programming Languages
+Core Java, Groovy,
+Database
+MYSQL, SQL Server, Postgres SQL
+Other/Support Tools
+Jira, Confluence, OpenAPI specification, Kafka, Checkmarx, Helm charts, Lens, Jscape, Jmeter, TFS, PasswordState, TIBCO BW, EMS
+Networking
+WAF, NLB, DNS, Subnets, Firewalls, SSL,TCP, Certificates
+Build Tools
+MAVEN, Gradle
+CI/ CD
+Jenkins, CircleCI, Puppet, Chef, Ansible, JFrog Artifactory, SonarQube
+Container Technologies
+Docker and Kubernetes
+
+Education:
+Bachelor’s in Computer Science (KL University, Private university in AP, INDIA - JUNE 2012)
+
+WORK EXPERIENCE:
+
+Client: StateFarm, Bloomington, IL JAN 2022 – PRESENT
+Role: Senior Platform/Azure DevOps Engineer
+Responsibilities:
+Overseeing and maintaining the company's Azure Kubernetes infrastructure, ensuring its security, resilience, and optimal performance. Spearheading comprehensive DevOps activities and collaborating closely with the development team.
+Establishing the complete Kubernetes Dev Environment from the ground up, deploying the latest tools using Helm charts for different teams.
+Configuring alert notifications to monitor CPU metrics, VM health, and event logs, ensuring proactive issue identification and resolution.
+Successfully implementing a streamlined deployment operations pipeline, with code written in Groovy and Python, stored in Azure DevOps (ADO) for staging and testing purposes. Authoring Terraform scripts to create required resources and objects.
+Leveraging Azure's capabilities to create multi-level hybrid pipelines of CI/CD, enabling clients to achieve a robust Kubernetes platform.
+Automating various infrastructure activities, such as Continuous Deployment, Application Server setup, and stack monitoring, using Ansible Playbooks integrated with ADO.
+Implementing cluster services using Docker and Azure Kubernetes Services (AKS) to manage local deployments in Kubernetes, building a self-hosted Kubernetes cluster using ADO CI/CD pipelines.
+Maintaining and automating scripts using Bash, Groovy, and Python for automated deployments, ensuring efficiency and consistency.
+Developing Ansible playbooks to manage Web Applications, Environment configuration files, Users, Mount points, and packages. Implementing Continuous Integration using ADO and Git.
+Defining SonarQube for quality gates and code scanning, as well as Artifactory X-ray scanner for package and image scanning, ensuring code quality and security.
+Proficient in Helm charts for deployment management, utilizing charts and templates for listed file names.
+Implementing Pod Security Policies (PSP) in AKS, following best practices to control and schedule pods in the AKS cluster, preventing potential security vulnerabilities or privilege escalations.
+Adept in working with various Kubernetes objects and components, including Ingress controllers, cert-managers, CRDs, services, ConfigMaps, secrets, and deploying pods on selected nodes without downtime for Dev and Prod Kubernetes clusters.
+Implementing scanning and logging for Docker and Kubernetes containers to monitor events, runtime, vulnerabilities, compliance for containers, images, hosts, registries, and ADO pipelines.
+Establishing a peer review process with SonarQube analyze pipelines to verify developers' changes before merging into the main branch.
+Implementing HTTPS Ingress controllers and using TLS certificates on AKS to provide reverse proxy, configurable traffic routing for individual Kubernetes services.
+Integrating Kubernetes container logs, application logs, event logs, cluster logs, activity logs, and diagnostic logs into Azure Event Hubs and Prometheus for comprehensive monitoring.
+Conducting daily monitoring of production servers using Grafana and Prometheus, which are integrated with Kubernetes, reporting exceptions and issues to the team during standups.
+Managing Azure DevOps build and release pipelines, setting up new repos, and managing permissions for various Git branches. Deploying microservices, including provisioning the Azure environment.
+Extending support to existing product teams on integrating CI/CD into the development life cycle, ensuring seamless adoption and implementation.
+
+Client: AT&T Communications September 2019 – January 2022
+Role: Sr. DevOps Engineer
+
+Description: IBM API Connect (APIC) is an API management solution that enables organizations to securely expose and manage APIs, facilitating seamless information sharing with external developers, business partners, and internal teams. The DevOps team is responsible for installing, configuring, and managing APIC clusters.
+Responsibilities:
+Deployed IBM API Connect in AWS Public Cloud and on-premises virtual machines, ensuring robust and scalable API management capabilities.
+Actively contributed to solution architecture design, following agile methodologies for iterative development and continuous improvement.
+Implemented continuous integration and continuous delivery (CI/CD) pipelines for streamlined application deployment, adhering to agile principles and best practices.
+Authored Terraform modules to provision Amazon Elastic Kubernetes Service (EKS) clusters, enabling efficient and scalable container orchestration.
+Developed Terraform scripts to provision and administer various Amazon Web Services (AWS) cloud services, including EC2, Elastic Load Balancing (ELB), Elastic Block Store (EBS), Identity and Access Management (IAM), Simple Storage Service (S3), Route 53, Lambda, and Amazon Virtual Private Cloud (VPC).
+Crafted Ansible scripts to automate the deployment of IBM API Connect into AWS EKS clusters, ensuring consistent and repeatable deployments.
+Configured YAML files to deploy APIC subsystems, such as Management, Gateways, Portal, and Analytics, leveraging Kubernetes' declarative configuration approach.
+Prepared YAML definitions to configure namespaces, secrets, services, storage classes, and ingress rules, ensuring secure and organized deployment.
+Deployed application-level device gateways, communication gateways, and exposed gateways using containerization and orchestration technologies like Docker and Kubernetes, enabling scalable and efficient API delivery.
+Implemented multiple ingress controllers with different subnets and ingress classes, enabling network segregation and enhanced security.
+Automated the configuration of organizations, catalogs, mail servers, users, TLS profiles, and topology within APIC, streamlining deployment and management processes.
+Developed an automated life cycle framework to deploy products and APIs across different environments using Jenkins and Gradle, ensuring consistent and repeatable deployments.
+Integrated SonarQube and Artifactory with CI/CD pipelines, incorporating DevSecOps best practices for enhanced security and code quality.
+Exported logs to observability platforms using Filebeat, enabling comprehensive monitoring of cluster health and performance.
+Worked on regular backups for Amazon cloud instances and set up environments for application launching and release processes early in the Software Development Life Cycle (SDLC).
+Maintained and administered Git source code management tools, creating branches, labels, and performing merges as needed.
+Researched and implemented an agile workflow for the team, enabling end-to-end continuous integration and testing of applications using Jenkins.
+Conducted a proof of concept with the Splunk monitoring tool for Kubernetes cluster and application log monitoring, evaluating its suitability for the organization's needs.
+Utilized Ansible servers and workstations to manage and write Ansible Playbook roles for continuous deployment, ensuring consistent and automated deployment processes.
+Set up log collection in the ELK (Elastic Search, Logstash, Kibana) stack, installed on all cluster nodes, to centralize and analyze log data from various sources.
+
+Client: Selene Finance, Houston TX. JANUARY 2018 – AUGUST 2019
+Role: Site Reliability Engineer
+
+Responsibilities:
+
+Designed and implemented automated server build, management, monitoring, and deployment solutions using Jenkins Pipeline and Terraform for multiple platforms.
+Wrote Terraform modules for various services in Azure and AWS cloud platforms.
+Developed branching strategy for parallel development across multiple platforms during migration. Created Jenkins files to automatically trigger tasks based on GitHub events.
+Implemented and maintained branching, build, and release strategies using GitLab.
+Built CI/CD automation pipelines for deploying microservices into Kubernetes clusters.
+Implemented the Service Mesh ISTIO in the Kubernetes cluster.
+Wrote Ansible playbooks for automation tasks.
+Developed Python scripts for AWS automation using Boto3 library.
+Planned, scheduled, and documented releases during code freeze periods.
+Deployed Prometheus with Grafana to monitor Kubernetes clusters and configured alerts.
+Provided solutions for container runtime through proof of concepts on CNCF runtimes.
+Configured Kubectl to interact with Kubernetes infrastructure and used Terraform templates to launch worker node clusters.
+Implemented Azure Traffic Manager for routing user traffic during Infrastructure Migrations.
+Migrated legacy services to a fully virtualized infrastructure.
+Designed and implemented AKS Clusters using Terraform and Azure DevOps pipelines.
+Wrote Helm charts for Infrastructure and application deployments.
+Integrated Terraform with Helm charts for ISTIO, Nginx controller, Kured, and Pod Identity deployment into AKS clusters.
+Wrote Terraform modules for various Azure services.
+Implemented infrastructure as code on Azure to automate infrastructure deployment.
+Experienced with Azure Cloud Services (PaaS & IaaS), Azure Storage, SQL, Azure Active Directory, Application Insights, and Logic Apps.
+
+Igate Global Solutions, Hyderabad, India. AUGUST 2015 – JUNE 2017
+Role: Devops Engineer
+
+Responsibilities:
+
+Followed Agile methodology to meet goals and deliver quality products, showing ability to work collaboratively in teams.
+Migrated infrastructure from on-premises to Azure Cloud, building virtual machines, databases, load balancers, and auto-scaling for high availability, demonstrating Azure cloud architecture skills.
+Automated infrastructure deployment and configuration using Ansible, Terraform, Docker, and Azure Kubernetes Service (AKS), highlighting infrastructure as code and containerization expertise on Azure.
+Implemented CI/CD pipelines with Azure DevOps, Azure Artifacts, and Ansible for automated testing and delivery, proving experience in setting up DevOps practices on Azure.
+Monitored systems using Azure Monitor, Log Analytics, and custom scripts, showcasing ability to track performance and identify issues on Azure.
+Provided 24/7 support for production environments hosted on Azure and handled on-call incidents, displaying proven reliability and uptime maintenance skills on Azure.
+Used Azure DevOps Services like Azure Boards and Azure Repos for project management and source control, showing familiarity with Microsoft's development platform.
+Transitioned infrastructure and rebuilt CI/CD pipelines during Azure cloud migration, emphasizing ability to implement changes and improvements on Azure.
+
+Datamatics, India. AUGUST 2013– July 2015
+Role: Build and Release Engineer
+
+Responsibilities:
+Worked closely with the development teams to build the continuous integration and continuous Delivery Pipe-lines using GIT, Jenkins, and Maven.
+Implemented a CI/CD pipeline with Docker, Jenkins and GitHub by virtualizing the servers using Docker for the Dev and Test environments by achieving needs through configuring automation using Containerization.
+Implementing Configuration Management tools like Ansible.
+Created Ansible driven configuration of user accounts and Installed packages on Ansible only, when necessary, by managing the attributes and involved in setting up builds using Ansible as a configuration management tool.
+Implemented web applications using AWS cloud.
+Worked on in creating various playbooks and automation of various facts in Ansible, creating playbooks files and implementing Ansible to convert IaC.
+Implemented and configured Cloud watch for continuous monitoring of applications and enabled notifications via emails and text messages using Simple Notification Service.
+Built and managed a highly available monitoring infrastructure to monitor different application servers and its components using Cloud watch.
+Designed and scripting using Maven for J2EE, Web Services, Reusable JARS, Web Client and Open Source in creating Master Pom.xml build Properties and provided technical support to the development team for compilation problems.
+Contact this candidate

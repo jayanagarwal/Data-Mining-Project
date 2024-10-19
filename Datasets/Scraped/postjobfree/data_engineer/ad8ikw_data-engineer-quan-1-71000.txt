@@ -1,0 +1,29 @@
+TRINH HA GIA PHU
+Æ 087******* [ ad8ikw@r.postjobfree.com GitHub Kaggle
+ABOUT ME
+Dedicated final-year student passionate about data science with a strong foundation in data engineer and a passion for leveraging technology. I am eager to apply my skills and knowledge to contribute to innovative projects and gain practical experience. My ability to learn quickly and adapt to new environments makes me a valuable asset to any team.
+EDUCATION
+Industrial University of Ho Chi Minh City - IUH
+Bachelor of Engineering in Data Science Expected Graduation: 01/2025 Current GPA: 3.22/4
+SKILLS
+Programming Languages: Python, C++, Java
+Web Development: HTML, CSS, JavaScript, Django, Web3 Data Processing: Apache Spark, Kafka, Airflow, Soda, dbt Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+Cloud & DevOps: Google Cloud, Docker, Kubernetes
+PERSONAL PROJECTS
+English Premier League Analysis GitHub
+• Description: This project delved into English Premier League data to uncover player and team trends. By visualizing and analyzing this data, we gained valuable insights into the league’s dynamics.
+• My analyses:
+* International distribution: Explored how nationalities are represented among players.
+* Playing styles by country: Analyzed the positions players from different countries tend to occupy.
+* Squad demographics: Identified average player ages within each club.
+* League leaders: Determined the top goal scorers for the season.
+* ...
+Rental Motorbyke Web GitHub
+• Description: Developed a full-stack motorbike rental web application using Django and Web3. Leveraged Python, HTML, CSS, and JavaScript for frontend and backend development. Implemented secure cryptocurrency payments through Ethereum blockchain integration using Ganache for testing. Demonstrated proficiency in Django for user management, authentication, database management (SQLite) and API integration. RFM Customer Segment & Customer Clustering with K-Means: GitHub
+• Description: Developed a comprehensive data pipeline using Airflow, Soda, DBT, Spark, and Metabase to analyze customer behavior and drive targeted marketing campaigns. Utilized RFM Segmentation to classify customers into nine segments (Champions, Loyal Customers, ...).
+• Airflow’s DAGs orchestrate the entire data pipeline:
+* Scheduled data loading to BigQuery.
+* Triggering dbt models for data transformation using SQL queries within the DAG.
+* Initiating Soda checks after loading data into BigQuery and after dbt model execution to ensure data quality.
+* K-Means Clustering: Utilizing Databricks and Spark, the platform implements K-means clustering to segment customers based on specific features within the processed data.
+Contact this candidate

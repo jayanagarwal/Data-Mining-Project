@@ -1,0 +1,225 @@
+Venkata Panchangam
++1-512-***-**** ad3ij9@r.postjobfree.com
+https://www.linkedin.com/in/venkata-panchan/
+
+Professional Summary
+
+Experienced professional with over 10 years of experience in SDLC with a focus on quality software in Waterfall, Agile/Scrum, and CI/CD. Proficient in container technologies (Docker, Kubernetes, OpenShift) with expertise in Docker file creation and automated builds on Docker Hub. Skilled in Azure deployment, maintenance, and troubleshooting, encompassing various services.
+
+Hands-on experience with Azure PaaS and IaaS, EKS networking, and Kubernetes cluster management. Familiar with AWS services (RDS, Redshift, EMR, etc.) and adept at RDBMS projects (Oracle, SQL Server, DynamoDB, MongoDB, PostgreSQL) in AWS. Proficient in ELK stack setup for log aggregation and analysis.
+
+Extensive Agile experience, facilitating communication between teams and stakeholders. Expert in JIRA for issue tracking and Agile training sessions. Skilled in Bash Shell scripting for automation and Oracle/MS SQL Server DB tasks. Knowledgeable in routed protocols (FTP, SFTP, SSH, HTTP, HTTPS) and coordinating with offshore and onsite teams for production releases.
+
+Collaborative work with engineers and QA teams to integrate automated testing with builds. Experience with JavaScript, jQuery, HTML, CSS, and proficiency in building user interfaces using React. Strong communication and organizational skills, adaptable to new technologies, and proactive in providing solutions.
+
+Technical Skills
+
+Operating Systems
+Windows, UNIX, LINUX, CentOS, RHEL, SOLARIS, SUSE, Ubuntu.
+Build Tools
+Ant, Maven, Gradle, Scala & Build Forge
+Scripting
+Perl, Python, Bash, PowerShell, Groovy, JavaScript
+CI Tools/Release
+Jenkins, Travis, Bamboo, Hudson, Terraform, DevOps Toolchain
+Containerization/Virtualization
+Docker, Docker Swarm, Packer, VMware, vSphere.
+Orchestration Platforms
+Kubernetes, Docker Swarm, Apache Mesos
+Testing Tools
+Selenium, JUnit, Test NG, SonarQube
+Databases
+MySQL, PostgreSQL, MongoDB, CosmosDB, Oracle DB 10g,11g, 12 C, Cassandra, Redis
+Repositories
+Nexus, JFrog Artifactory, ICCR, Bitbucket
+Web Technologies
+HTML, CSS, XML, Node.js, jQuery, React JS, Angular
+Deployment tools
+Chef, Puppet, Ansible, Vagrant, Kickstart, OpenShift, Salt stack, Octopus Deploy
+Monitoring Tools
+Nagios, Splunk, Sensu, New Relic, ELK stack
+Languages
+C, C++, Java, PHP, Golang, Python, C#
+Cloud Management
+Amazon Web Services (AWS), Azure, Google Cloud Platform (GCP)
+Source control tools
+Gitlab Subversion, Clear case, GIT, GitHub and Perforce.
+
+Professional Experience
+
+Client: Precise Software Solutions Inc., Rockville, Maryland
+Role: Sr. Site Reliability Engineer
+Duration: December 2021 – current
+
+Responsibilities:
+Implemented Azure Cloud infrastructure and Azure DevOps for the deployment process of IAM Applications.
+Configured Azure pipelines for continuous integration and continuous deployment (CI/CD) of microservices as web apps.
+Managed Azure repositories, pipelines, and Azure DevOps (ADO) services.
+Developed release pipelines for deploying applications to different environments, including JBOSS Wildfly Servers and Tomcat Servers.
+Managed AKS cluster upgrades, patching, and version control to ensure the latest security patches and Kubernetes features are applied.
+Developed and maintained Jenkins pipelines using Groovy script, enabling continuous integration and continuous delivery (CI/CD) workflows for efficient software delivery.
+Developed custom dashboards in Splunk to visualize and track key performance indicators, providing stakeholders with real-time insights into system health and performance.
+Wrote Groovy scripts to automate various tasks within the continuous integration environment, such as workspace cleanup, test result parsing, and job triggering.
+Managed API versions and implemented dynamic routing rules within the API gateway, ensuring smooth transitions and backward compatibility.
+Demonstrated expertise in designing, developing, and deploying ETL (Extract, Transform, Load) packages using SSIS to integrate data from various sources into SQL Server databases.
+Enhanced database responsiveness by 30% through strategic indexing, minimizing query execution times.
+Optimized critical stored procedures, resulting in a 25% reduction in execution times.
+Integrated SSRS reports with web applications for access and distribution across the organization.
+Oversaw the deployment of APIM (Azure API Management) for application deployment.
+Automated infrastructure provisioning on AWS using Terraform and Ansible (IaC), Experience in installing and configuring the Ansible management node to deploy configuration to the end user nodes and Writing Ansible playbooks to deploy configuration to the production’s servers
+Proficient in creating customized dashboards in AppDynamics to visualize application performance data, infrastructure metrics, and user experience insights.
+Implemented Kubernetes-based automated deployment pipelines, reducing deployment time by 30%. Orchestrated rolling updates of critical applications with zero downtime using Kubernetes.
+Created and optimized complex Elasticsearch queries and aggregations to facilitate in-depth data analysis.
+Designed interactive dashboards and visualizations using Kibana to provide insights into system performance, application behavior, and security events.
+Created Python scripts to parse and analyze log data, feeding insights into centralized logging solutions like ELK (Elasticsearch, Logstash, Kibana).
+Collaborated effectively with DevOps teams to streamline troubleshooting and deployment processes using Azure Kudu.
+Utilized Maven plugins and custom goals to extend build capabilities and perform specialized tasks, such as code analysis, code generation, and deployment.
+Utilized Datadog's APM, infrastructure monitoring, and log analysis features to identify and resolve performance bottlenecks and issues.
+Integrated Terraform with monitoring tools to track infrastructure changes and assess their impact on performance. Established automated checks to validate the consistency of infrastructure defined in Terraform configurations.
+Configured advanced traffic management policies, load balancing, and routing rules within the service mesh to optimize application performance and resource utilization.
+Implemented custom Golang scripts for IaC workflows to streamline the configuration and orchestration of cloud environments.
+Leveraged IaC to provision and manage cloud resources on Azure Cloud, optimizing resource utilization, ensuring high availability, and enhancing disaster recovery capabilities.
+Utilized RedHat Ansible for automating various tasks, including configuration management, application deployment, and infrastructure provisioning to increase efficiency and reduced errors.
+Utilized Golang concurrency features to build high-performance APIs, ensuring efficient handling of concurrent requests and implemented microservices and RESTful APIs, improving application modularity and facilitating integration with other services using Golang.
+Utilized Azure Monitor and Azure Log Analytics to gain insights into AKS cluster performance, resource utilization, and application telemetry.
+Proficient in using LDIF for importing and exporting directory data, facilitating data migration and updates.
+Created documentation for Azure DevOps and Azure administration tasks, ensuring compliance with Azure best practices.
+Assisted Project Managers in utilizing Azure Boards for sprint planning and adoption of new add-on tools from Azure Marketplace. Modified Azure boards to effectively track work items.
+Administered Azure Data services with a focus on Cassandra, and PostgreSQL for over 2 years.
+Specialized in NoSQL Cloud databases, particularly CosmosDB and Cassandra, ensuring the efficient management of large-scale data and high-throughput applications and implemented best practices for NoSQL databases, resulting in a 15% improvement in data retrieval times and system responsiveness.
+
+Client: Trustmark Jackson, Mississippi
+Role: Sr. Site Reliability Engineer
+Duration: Mar 2020 - Nov 2021
+
+Responsibilities:
+Implemented Continuous Integration and Continuous Deployment frameworks using Jenkins and Bitbucket to automate release pipelines for zero-touch deployments.
+Utilized SonarQube for code inspection, identifying code smells, bugs, and vulnerabilities in code deployed as containers in the cloud.
+Developed Splunk queries and dashboards for analyzing application performance and capacity.
+Created Python scripts for orchestrating complex workflows and automating routine tasks, improving overall operational efficiency.
+Established Ansible reporting mechanisms to track changes, monitor system configurations, and generate compliance reports. Implemented Ansible logging and alerting for proactive issue resolution and performance monitoring.
+Designed and implemented custom React components within Backstage, improving user interface responsiveness by 30%. Achieved a 20% reduction in load times for specific Backstage pages through performance optimizations in custom components.
+Created a new Backstage plugin to integrate with an external CI/CD system, resulting in a 25% decrease in manual intervention in the release process. Developed a custom plugin for documentation generation, reducing onboarding time for new developers by 40%.
+Integrated Backstage with company-specific APIs, enabling data synchronization and reducing data retrieval latency by 15%. Implemented a plugin that interfaces with the entity system, improving data consistency and reducing errors by 20%.
+Set up monitoring tools like X-Pack to monitor the health and performance of Elasticsearch clusters.
+Created deployment workflows in Jenkins including pre-release, release, and post-release steps.
+Configured alerts and notifications in Splunk to proactively detect anomalies, security incidents, and operational issues to prompt responses and solutions.
+Applied filters and transformations using Logstash filter plugins to parse and structure raw log data.
+Configured and customized monitoring dashboards, alerts, and reports to track key metrics, identify bottlenecks, and proactively resolve performance issues through Datadog.
+Designed and created intuitive and interactive dashboards in Splunk to present actionable insights and real-time visualizations for key performance indicators and operational metrics.
+Managed metadata and data cataloging using AWS Glue Data Catalog to facilitate efficient data discovery and governance.
+Conducted AWS platform and IoT device testing, ensuring the highest standards of performance and security.
+Optimized Kubernetes resource allocations, resulting in a 20% reduction in infrastructure costs. Implemented resource quotas and limits to ensure efficient resource utilization across the Kubernetes cluster.
+Conducted performance analysis and tuning for Kubernetes clusters, achieving a 15% improvement in application response times.
+Capable of using Kudu's File Explorer to navigate the file system, edit configuration files, and manage application files.
+Expertise in writing CQL queries to interact with Cassandra databases, including CRUD operations, data retrieval, and secondary indexes.
+Developed and configured deployment pipelines using Octopus Deploy to enable smooth and efficient delivery of application updates across different environments such as development, testing, and production.
+Leveraged AWS Lambda functions in conjunction with React to create serverless backend APIs.
+Integrated Lambda functions with React components to enable efficient and scalable data processing, reducing server-side infrastructure management overhead.
+Created AWS Security Groups for firewall configuration and automated backup of using AWS Lambda.
+Evaluated and implemented SCM tools and drove process improvements for build, release, and deployment.
+By configuring SQL Server AlwaysOn Availability Groups, Improved database availability by 99%, ensuring minimal downtime during server failures.
+Implemented scalable database solutions, handling a 67% increase in transactional data volume over a one-year period.
+Led the strategic design and implementation of Microsoft SQL Server databases for "E-Commerce Dynamo," supporting a diverse range of products and customer interactions.
+Contributed to architectural decisions that facilitated a 60% uptime, accommodating a rapid increase in both product offerings and user engagement.
+Streamlined the build process using Maven, reducing build times by 25% and improving overall development efficiency and implemented efficient Git branching strategies, resulting in a 20% decrease in code conflicts during collaborative development.
+
+Client: Photon Dallas, Texas
+Role: Site Reliability Engineer/DevOps Engineer
+Duration: January 2019 - March 2020
+
+Responsibilities:
+Managed day-to-day builds and deployments across various environments (Dev, Test, pre-production, production), implementing AWS high availability with Elastic Load Balancing (ELB) for load balancing across multiple availability zones.
+Provisioned Amazon EC2 cloud instances using Linux/Ubuntu Amazon images and configured them according to specific applications.
+Utilized EBS for persistent storage and IAM for access management.
+Leveraged the serverless nature of AWS Glue to design and execute ETL workflows without the need for provisioning or managing infrastructure.
+Set up alarms in CloudWatch for server performance monitoring, including CPU utilization and disk usage. Managed user accounts in IAM, RDS, and Route53 services and experienced with EKS cluster monitoring and logging to actively identify and mitigate issues for high availability and performance of deployed applications.
+Developed scalable Ansible playbooks to accommodate growing infrastructure demands.
+Extended Ansible functionality through custom modules and plugins to address unique business requirements.
+Configured CloudWatch alarms to actively monitor server performance metrics, including CPU utilization and disk usage, ensuring optimal performance of AEM applications hosted on AWS.
+Created S3 buckets, implemented policies, and utilized S3, Glacier for archival storage, backup on AWS and have extensive experience with AWS services like VPC, EC2, ELB, S3, EBS, and Route53 for scalability.
+Designed AWS CloudFormation templates to create customized VPC, subnets, and NAT for successful web application and database deployments.
+Provisioned new instances on AWS cloud, utilized S3 storage services, and managed EC2 and CloudWatch services. Managed CI/CD pipeline with Jenkins.
+Utilized Terraform (IaC) and CloudFormation to write infrastructure-as-code templates for staging and production environments.
+Successfully implemented CI/CD pipelines for EKS deployments, utilizing tools like AWS CodePipeline, AWS CodeCommit, and AWS CodeBuild to automate build, test, and deployment processes, resulting in increased development efficiency and accelerated release cycles.
+Worked with Ansible and Ansible Tower for configuration management.
+Leveraged AWS Beanstalk for deploying and scaling web applications and services developed with Java, Node.js, Python, and Ruby.
+Adhered to IAM best practices, ensuring access key rotation, enforcing password policies, and monitoring IAM activity using AWS CloudTrail for enhanced security.
+Leveraged Datadog’s integrations and APIs to collect and analyze data from various sources to enable comprehensive monitoring and insightful analysis for application performance.
+Managed Maven project dependencies and implemented a GIT mirror for SVN repository.
+Handled VMware-related tasks such as creation, migration, performance monitoring, resizing, RDP, disk management, and connectivity.
+Coordinated with network teams for OSI model, VLAN, subnets, and routes. Familiar with middleware tools like WAS and Apache HTTP.
+Set up and configured GitHub Actions for continuous integration, automating build processes for Node.js applications.
+Optimized the database infrastructure of "Financial Sentinel," ensuring processing of financial transactions and enhancing data integrity. Also worked on performance optimization initiatives for "Financial Sentinel," resulting in a 25% reduction in query execution times and enhanced responsiveness.
+Implemented scalable database solutions, accommodating a 30% increase in transactional data volume over one years.
+Implemented monitoring solutions using Dynatrace, reducing incident response times by 10% through proactive issue detection. Enhanced system reliability by integrating Grafana and Prometheus, resulting in a 5% reduction in system downtime.
+Implemented Prometheus and Grafana for real-time monitoring of Kubernetes clusters, providing insights into resource usage, application health, and performance metrics.
+
+Client: BBVA Compass Bank Birmingham, Alabama
+Role: Cloud DevOps Engineer
+Duration: January 2017 – December 2018
+
+Responsibilities:
+Integrated AEM (Adobe Enterprise Manager) with WebLogic infrastructure and performed Oracle WebLogic patch installations.
+Implemented branching strategies using version control tools like Azure DevOps.
+Addressed Azure development, configuration, and performance issues, troubleshooting them effectively.
+Led the migration of a critical application to Azure, resulting in a 30% improvement in scalability and a 20% reduction in infrastructure costs and optimized Azure resources for a web application, achieving a 8% reduction in response times and enhancing overall user experience.
+Implemented end-to-end testing automation using Selenium, leading to a 10% reduction in manual testing efforts and enhanced infrastructure as code practices with Terraform scripting, reducing deployment time by 2% and minimizing configuration errors.
+Developed Python and shell scripts for server status monitoring alerts and automation builds.
+Implemented and managed Microsoft Intune for mobile device management, ensuring secure and compliant access to corporate resources.
+Configured device settings, enforced security policies, and maintained a fleet of mobile devices.
+Gained hands-on experience in Azure environment, working with Azure web applications, App services, Virtual machines, Azure AD.
+Set up new code release test environments and managed code properties configuration for monthly releases.
+Improved deployment speed by 30% through the implementation of parallelized and concurrent Terraform deployments. Ensured high reliability by incorporating error handling and rollback mechanisms in Terraform scripts.
+Implemented and customized conditional access policies in Microsoft Intune to control access to organizational resources based on compliance and security requirements.
+Developed Python scripts to automate security scans, vulnerability assessments, and compliance checks, enhancing the security posture of infrastructure.
+Collaborated with the Continuous Integration and Continuous Delivery (CICD) team to design automated deployment workflows using Jenkins and Hudson.
+Installed quarterly security patches on WebLogic, SOA/OSB/BAM, and OHS.
+Automated WebLogic application server deployments using Shell and Bash scripts.
+Troubleshot network issues related to the TCP/IP protocol, providing support to users for problem resolution.
+Possessed in-depth knowledge of BLOB (Binary Large Object) file types, ensuring efficient handling and storage of binary data in Azure storage solutions. and optimized BLOB storage configurations, resulting in a 4% reduction in storage costs and improved data retrieval efficiency.
+Demonstrated versatility in managing diverse data stacks, including optional expertise in YugaByte and Contributed to the evaluation and implementation of YugaByte, enhancing the database technology stack for specific use cases.
+
+Client: Comcast Philadelphia, Pennsylvania
+Role: DevOps Engineer
+Duration: July 2015 – January 2017
+
+Responsibilities:
+Worked in highly collaborative operations team to streamline the process of implementing security.
+Confidential Azure cloud environment and introduced best practices for remediation.
+Gathering the requirements from the clients about the existing applications to apply the security measures.
+Creating, validating, and reviewing solutions and effort estimate of converting existing workloads from classic to ARM based Azure Cloud Environment
+Developed automation system using PowerShell scripts and JSON templates to remediate the Azure services.
+Setup Azure Virtual Appliances (VMs) to meet security requirements as software-based appliance functions (firewall, WAN optimization and intrusion detections).
+Setup and maintenance of an automated environment using Chef Recipes &amp, cookbooks within AWS environment.
+Experience on CDN to deliver webpages and other content based on geographic locations of the user by using Cloud flare.
+Utilized Microsoft Azure for dynamic scaling, ensuring the adaptability of the database environment to varying workloads.
+Enhanced system reliability by proactively resolving emerging database issues, resulting in a 25% reduction in unplanned downtime.
+Developing PowerShell scripts and ARM templates to automate the provisioning and deployment process.
+Configured VMs availability sets using Azure portal to provide resiliency for IaaS based solution and scale sets using Azure Resource Manager to manage network traffic.
+Used Ansible and Ansible Tower as configuration management tool to automate repetitive tasks, quickly deploying critical applications and proactively manages change.
+Administering and Monitoring VSTS, taking backups and consolidating collections at the time of migration from one version of VSTS to another.
+Wrote Power Shell Scripts to move logs from IIS web and application servers to shared storage location as part of log redundancy policy and scheduled in task Scheduler.
+
+Client: ValueLabs Hyderabad, India
+Role: DevOps Engineer
+Duration: May 2013 - June 2015
+
+Responsibilities:
+Lead the Cloud Infrastructure maintenance effort using a combination of Jenkins, Terraform, Chef, GIT, Rundeck for automating CI/CD pipeline in AWS
+Created multiple dashboards in CloudWatch Using custom scripts for monitoring EC2 performance, CPU Utilization, Memory, and Disk Usage, and Splunk to improve application performance which helps to get the visibility and business context to meet business demands.
+Implemented index optimization strategies to enhance search performance and reduce storage costs, leveraging best practices to ensure optimal Splunk system performance.
+Expertise in migration and up gradation of WebLogic Server and updating JDK versions, applying patches and installing service packs for WebLogic server.
+Involved in the migration of applications from WebLogic 8.1 to WebLogic 9.2
+Implemented DevOps with cloud authentication and authorization for ReactJS applications using AWS Cognito.
+Implemented EC2 Auto Scaling to dynamically adjust the number of instances based on utilization metrics, maintaining application performance and cost optimization.
+Using Chef and AWS allowed me to reduce costs for the department and eliminate unwarranted resources.
+Provided 24 x 7 on call PROD support and involved in making sure all environments are up and running.
+Utilized advanced Excel features to analyze project data, resulting in improvement in project planning accuracy and enhanced team collaboration through effective use of PowerPoint, improving stakeholder communication and understanding.
+
+Education
+
+Bachelor of Technology, Anurag Group of Institutions (affiliated to JNTU-H) Hyderabad, India, 2013
+
+Certifications: Azure AZ-900, AWS Solutions Architect Associate
+Contact this candidate

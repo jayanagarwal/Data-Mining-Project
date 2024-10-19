@@ -1,0 +1,341 @@
+Kumar K
+502-***-****
+ad5jo3@r.postjobfree.com
+
+PROFESSIONAL SUMMARY:
+Results-driven Azure DevOps Engineer with 10 years of experience excelling in orchestrating complex IT infrastructures.
+Proven expertise in .NET development, DevOps, Build & Release, Software Configuration Management, and Deployment management across global markets.
+Successfully developed and implemented solutions for several market-driven international organizations.
+Proficient in all phases of software development, from analysis and design to testing, bug fixing, documentation, and implementation of Client/Server and Web Technologies for various N-Tier applications.
+Extensive experience in cloud computing, with a focus on SaaS, PaaS, and IaaS solutions.
+Skilled in deploying Azure Infrastructure using Azure DevOps pipelines, leveraging ARM / Bicep templates and Terraform for efficient project execution.
+Track record of automating infrastructure provisioning and configuration across multiple environments, enhancing scalability and reliability.
+In-depth experience with Windows Azure IaaS components, including Virtual Networks, Virtual Machines, Cloud Services, Resource Groups, Express Route, Traffic Manager, VPN, Load Balancing, Application Gateways, and Auto-Scaling.
+Proven ability to support applications in production, collaborating closely with offshore teams to ensure operational excellence.
+Experience with Azure Storage, Blob Storage, File Storage, and load balancers.
+Knowledge of testing frameworks like Selenium.
+Proficient in container-based deployments using Docker, managing Docker images, Docker Hub, Docker-registries, and Kubernetes.
+Capable of understanding client environments, administrating, and creating solutions using Azure Services.
+Proficiency with Configuration management tool Ansible & Build management tool such as Azure DevOps and creating separate build agents.
+Experience in creating build and release pipelines using Azure DevOps and orchestrating deployment of applications.
+Experience in using version control tools like GIT for effective collaboration and code management.
+Proficient in configuring and managing Ubuntu, CentOS, and Red Hat Server operating systems.
+Successfully optimized resource utilization on Azure, resulting in a remarkable cost reduction of approximately 25%.
+Accountable for the efficient resizing of Azure resources to optimize performance and cost-effectiveness.
+Hands-on experience with AWS provisioning and strong knowledge of key AWS services such as EC2, S3, VPC, Auto Scaling.
+Expertise in creating Ansible playbooks & roles for automation.
+Proficient in PowerShell scripting, used for Azure administration automation tasks.
+Extensive experience in integrating and configuring monitoring tools such as Azure Monitor, Application Insights, and Graylog.
+
+Technical Skills:
+
+Operating Systems
+RHEL/CentOS, Ubuntu/Debian/Fedora, Windows Server 2016/2012 R2
+Languages
+C# .NET, ASP.NET MVC, ASP.NET Web API
+Configuration Management
+Ansible
+CI Tools
+Azure DevOps, Terraform, Jenkins
+Databases
+SQL Server, Mongo DB, Cosmos DB
+Scripts
+Windows PowerShell, YAML, Shell, Python
+Project management
+Azure DevOps, Jira
+SDLC
+Agile, Scrum, Kanban, Waterfall Methodologies
+Artifact Management
+Azure DevOps, JFrog, GIT, Bitbucket, Jenkins
+Monitoring Tools
+Azure Monitor, Azure Application Insights, Graylog, Grafana, Pingdom
+Bug Tracking
+Azure DevOps, JIRA
+Testing Tools
+HPE UFT, Selenium
+Version Control/SCM Tools
+GIT, Bitbucket, TFS, Azure DevOps
+Web Technologies
+HTML5, CSS3, JavaScript, jQuery
+Web/App servers
+Apache Tomcat, Azure App Service, Amazon EC2 and IIS
+RDBMS
+SQL SERVER
+Resources/Services
+Azure VM, Azure Application gateway, Load balancer, Traffic manager, App service certificate, Azure monitor, Log analytics workspace, Azure policies, Azure storage, Key vault, etc.
+
+PROFESSIONAL EXPERIENCE:
+
+Costco Wholesale Corp, Issaquah, WA Dec 2022 to Present
+Role: Sr. Azure DevOps/ Automation Engineer
+
+Environment: Azure, Azure CLI, Terraform, Windows PowerShell, ADO: Boards, Repos, Pipelines, Artifacts and Dashboards, Git, Agile, Build & Release Pipelines, Docker, Kubernetes, Python, Jenkins.
+
+Project Name: Enterprise Vendor Management Portal
+
+Responsibilities:
+Automated infrastructure provisioning and configuration using reusable Terraform scripts, integrated seamlessly with ADO CI/CD pipelines.
+Build and maintain YAML-based build and release pipelines, automating builds triggered by every push.
+Conduct proof-of-concepts in Azure, delivering tailored solutions to meet specific requirements.
+Create and execute Azure CLI scripts to configure and update various Azure services.
+Automated the provisioning and configuration of Infrastructure across multiple environments using a set of reusable scripts.
+Configure Agent pools and install ADO agents to facilitate efficient pipeline job execution.
+Implemented Python scripts to automate the periodic clearing of Azure CDN content and to track Azure services, ensuring alignment with Terraform configurations.
+Designed and configured Azure Networking services, such as Virtual Network, Subnets, NSGs, and Private DNS, ensuring secure and efficient communication.
+Utilized Docker and Azure Kubernetes Services (AKS) to manage local deployments within Kubernetes.
+Build self-hosted Kubernetes clusters using Jenkins CI/CD pipelines for efficient deployment management.
+Collaborated on branching strategies for Azure Git repositories and implemented CI/CD pipelines for various project components.
+Develop and meticulously document build and deployment workflows for distinct project components (Core-infra, API, DB, UI).
+Execute Terraform scripts within pipelines, building changes once and deploying them across selected environments.
+Create and manage Variable groups in ADO, effectively segregating and governing deployments across diverse environments.
+Established associations between Route Tables and VNET subnets to optimize network traffic flow and improve routing efficiency.
+Created and configured Azure Dashboards for monitoring various Azure services, including Azure Front Door, Application Gateway, Azure App Service, and Azure Cosmos DB.
+Implemented best practices for version control, continuous integration, and continuous deployment (CI/CD) pipelines to automate the Azure Bicep deployment process.
+Collaborated with cross-functional teams to create modular and reusable Bicep templates, fostering code sharing and maintaining a standardized approach to infrastructure as code (IaC).
+
+Activision/King, Foster City, CA Mar 2021 to Nov 2022
+Role: Azure DevOps Engineer
+
+Environment: Azure, Azure CLI, Terraform, Windows PowerShell, REST API, JSON, Git, GitHub, Agile, Jenkins, Build & Release Pipelines, PagerDuty, Python.
+
+Project Name: Royalty
+
+Responsibilities:
+Create Terraform scripts to manage and maintain Azure infrastructure for multiple environments
+Work with log management tools like Graylog, Grafana, Log Analytics and Application Insights. Created events and set up alerts to monitor application performance.
+Designed and implemented CI/CD pipelines using Jenkins to build and deploy artifacts to Azure services like App Services, Functions, Virtual Machines, Azure Kubernetes Services, etc.
+Wrote scripts in Python and PowerShell to automate the repetitive tasks and as well to reduce human intervention
+Improve team workflows via Automation using GitHub, Slack, Azure CLI, Notifications and Alerts, Azure DevOps, Microsoft Team Foundation Server/Azure DevOps Server
+Optimized cost of resource utilization on Azure, reduced cost of the usage by approximately 25% and saved $10K monthly
+Scale up/down the Azure Infrastructure as per application needs
+Track and complete Certificate renewals from time to time to run Azure services without interruptions
+Setup, manage and monitor dashboards of various monitoring systems (Azure/Graylog/Grafana)
+Consolidate alerts which setup on various monitoring systems (Azure/Pingdom/Graylog) in one place
+Collect fired alerts on weekly basis and analyze corresponding service logs to determine underlying issues
+Setup, configure and Integrate PagerDuty with Internal monitoring services to collect, prevent and resolve business-impacting incidents
+Create support requests and follow up with Microsoft when facing unexpected issues on Azure services/resources
+Setup configurations to accomplish SonarQube - GitHub Integration which measures the code quality of NodeJS/Java projects
+Configure Jenkins pipelines and schedule periodic builds (daily/weekly/bi-weekly) based on application needs
+Analyze requirements and provide solutions based on the features provided by Microsoft Azure services
+Prepare demos and team presentations to share knowledge about the Azure environment and logs troubleshooting
+
+Publix Super Markets, Lakeland, FL Oct 2019 to Feb 2021
+Role: Senior Azure DevOps/ Automation Engineer
+
+Environment: Azure DevOps, Build & Release Pipeline, Windows PowerShell, C#, .NET, REST API, JSON, Git, GitHub, Agile, Azure CLI, Application Lifecycle Management (ALM), Octopus Deployment, YAML pipelines, Terraform, Docker, Kubernetes.
+
+Project Name: Azure DevOps Setup Automation (Azure DevOps CLI)
+
+Responsibilities:
+Implemented a set of PowerShell scripts to automate the Azure DevOps project creation and various other features like:
+oRepository
+oIterations
+oArea path
+oAdding Azure AD groups to Azure DevOps groups
+oTeams
+oService End points
+oBuild and Release pipeline
+oBranches
+oSetting up branch policies
+oSetting permissions for various objects like branches, repos, build, release, etc
+All these scripts were driven through configuration and very easily plugged into various Azure DevOps environments
+
+Project Name: Octopus Automation Scripts
+
+Responsibilities:
+Created a bunch of PowerShell scripts for automation of following items in Octopus Deploy:
+oCreate teams
+oAdd built-in/ custom user roles to the teams
+oAdd AD groups to the teams
+oCreate Project groups
+oCreate Environments
+oUpdate team permissions for a specified user role
+oCreate Lifecycle
+oAdd phases and environments to the lifecycle
+oAdd deployment target/ machine
+oExtract specific data based on conditions and export them to csv file for reporting to Business Area Manager/ Business Area Owner for review.
+
+Project Name: Azure DevOps CI/CD
+
+Responsibilities:
+Worked on creating Build and Release pipelines using YAML scripts for following types of projects:
+oBuilds:
+oSQL Server Database
+oASP.NET Core Web Application
+oBatch Job (Console Application)
+oAngular JS application
+oNode application
+oRelease:
+oDeploy of database solution to Azure SQL Server
+oDeploy of Asp.NET core web application to Azure App Service
+oDeploy of Batch job to Azure Functions
+oDeploy of Angular JS application to Azure App Service
+oDeploy of Node application to Azure App Service
+All the builds and releases were connected, builds were triggered based on folder path check-ins and releases had pre and post deployment approvals.
+
+Project Name: Azure DevOps Automation (C#/ REST API)
+
+Responsibilities:
+Create multiple utilities in C#, utilizing Azure DevOps Rest API to complete following tasks:
+oCreate multiple environments and add approval groups within the environment
+oCreate repo and import an existing repo to the same repo
+oBuild pipeline
+oRelease pipeline for multiple environments with pre and post deployment approvals
+oCreate web/ service hooks for different services like Azure Storage, Http Web Hooks, etc.
+
+Project Name: Azure DevOps Integration
+
+Responsibilities:
+Integrated Azure DevOps with Clarity (Internal effort tracking tool)
+Designed the architecture and led the Implementation
+Implemented Azure DevOps Extension and installed into the Azure DevOps Boards
+Developed the extension in ReactJS and utilized Asp .NET core, MVC Web API as a back end
+Added extension as a tab in Azure DevOps Work Items
+Loading timesheet table by utilizing the extension
+Hosted Web API on Azure App Service and captured all timesheet data through API.
+Used SQL Database to store the data.
+Used Azure Functions to trigger tasks on scheduled basis for the data sync up between SQL DB and Clarity Instance
+
+Other Responsibilities:
+Used Terraform scripts to automate provisioning of Azure resources, and involved in infrastructure as code, execution plans, resource graph and change automation.
+Created Azure Key Vault, setup the access policies and retrieved the authentication tokens, secrets from the Azure Key Vault through the PowerShell scripts.
+Written Terraform scripts to automate Azure resources which include Load Balancer, Azure Databases, VM’s, database security groups, DNS Zone, VNET, Subnets, Security Groups, and Storage accounts.
+Configured the autoscaling policy resource using Terraform and set the autoscaling group name parameter.
+Worked on creation of custom Docker container images, tagging and pushing the images and Docker consoles for managing the application life cycle.
+Maintained Docker container clusters managed by Kubernetes, utilized Kubernetes and Docker for the runtime environment of the CI/CD system to build, test deploy.
+Relied on Docker service rolling updates to implement zero downtime PROD deployments. Worked with Docker Trusted Registry as repository for our Docker images and worked with Docker container networks communications using Docker Weave.
+
+Humana, Louisville, KY Sep 2018 to Sep 2019
+Role: DevOps/ Azure Automation Engineer
+
+Environment: C# .NET, Visual Studio 2017, HPE UFT, Selenium, VSTS Git, ARM templates, AKS, Docker, Agile/Scrum, Windows, Azure DevOps Build and Release pipeline.
+Responsibilities:
+UFT Integration with TFS and automation of test case execution using VSTS build and release pipelines.
+Created a training plan to guide a set of team members on how to migrate the UFT scripts from network shared drive to the Azure DevOps GitHub repository.
+Creating architecture artefacts and approach for test case automation systems
+Design utilities using .NET Framework which would run through Azure DevOps release pipeline and serves the following purpose:
+oSyncing the changes between VSTS branch and folder on the Server
+oDistribution and Parallel execution of more than 2000 UFT test scripts
+Co-ordinate with multiple teams to get the required resources and permissions in place to drive the execution properly from the inception
+Create utility for sending notifications and detailed results of UFT test scripts execution
+Creating Release pipeline for triggering the test case execution of 2000 UFT test scripts.
+Direct knowledge sharing sessions and assisting team members to run and monitor the utilities
+Design and selection of Selenium based test case automation
+Perform research of various Selenium automation tool options available and driving discussion to standardize the architecture and usage of selenium solutions.
+Create multiple artefacts for design of selenium-based automation testing in the project.
+Requests for the SSL Certificate and install it in a KeyStore for enabling Https and to encrypt all the traffic on servers.
+Wrote power shell scripts to create the parameter files automatically for all the services in Azure Resource Manager
+Created build and release pipelines for automating the test case execution on a daily basis.
+The build pipeline would ensure the utility would be run which would allow the server folder contents to be in sync with the GitHub repo on Azure DevOps
+The release pipeline would execute the second utility which would distribute these cases and execute them in parallel on multiple servers.
+Worked on enterprise level hybrid cloud setup, configured security groups and networks of AWS and Azure clouds.
+Configured, monitored, and automated Azure Resources as well as involved in deploying the content Azure cloud resources using Virtual Machines, Storage Blobs, App service plan, ACR and migrated data from Datacenters and on-premises to Cloud using Azure Data Factory and Azure SQL Data warehouse service.
+Designed ARM templates to create custom sized VNET’s, Subnets, NSG rules to ensure successful deployment of Web applications, database templates.
+Implemented a server less architecture using API Gateway, Azure Functions, and Cosmos DB and deployed Azure Functions code from Blob containers and Azure files.
+Created an Azure function and configured it to receive events from Storage Blobs.
+Used Bash and Python included Boto3 to supplement automation provided by Ansible and Terraform for tasks such as encrypting VHD’s volumes backing AMIs and scheduled Azure functions for routine Azure tasks.
+Deployed various applications on Azure Kubernetes Service using Helm charts and maintained modularized Helm folder structure for reusability.
+Used Docker for setting Elastic Container Registry with Docker, Docker-compose and actively involved in deployments on Docker using Kubernetes.
+Monitored and managed microservices using tools like Prometheus, Grafana, and Azure Monitor, allowing for real-time performance analysis, error detection, and proactive maintenance.
+Develop small POC’s to identify if the approach is feasible for any automation/DevOps task in hand.
+Documentation and Client Interaction. Participate in client meetings and provide subject matter expert opinions/guidance/findings as per requirement of meeting.
+
+Universal Music Group, Los Angeles, CA Jan 2017 to Aug 2018
+Role: Cloud DevOps Engineer
+
+Environment: Git, Apache Tomcat, Agile/Scrum, SDLC, Windows, Linux, Azure, PowerShell, Jira, Jenkins, Docker, Splunk, Shell script, Power BI
+Responsibilities:
+Created and maintained continuous integration (CI) using tools Azure DevOps over different environments to facilitate an agile development process which is automated and repeatable, enabling teams to safely deploy code many times a day while ensuring operational best practices are supported.
+Design and document CI/CD tools configuration management.
+Responsible for orchestrating CI/CD processes by responding to Git triggers, human input, and dependency chains and environment setup.
+Build and Deployment CI/CD Pipelines.
+For CI/CD pipeline Jenkins is used and wrote scripts for configuring the jobs.
+Maintained JIRA for tracking and updating project defects and tasks
+Working on deployment procedures using middleware like Web sphere, creating deploy scripts and setting for the Production release.
+Worked with JIRA for creating the tickets for bugs and reporting issues.
+Automated setup of web server in different environments by triggering single Jenkins build.
+Used Jira as ticketing and workflow management tool, used Confluence and SharePoint for documentation.
+Developed and supported the Software Release Management (SRM) and procedures. Also worked on GIT, Proposed and implemented branching strategy.
+Deploying Linux VMs using templates.
+Worked on Linux with multiple installation of middleware and troubleshooting
+Managed User access control, Triggers, workflows, hooks, security and repository control in Bitbucket.
+Responsibilities include developing Docker Images and deploying using Docker Swarm.
+Implementing CI/CD using Jenkins Pipeline using Docker-Jenkins Integration.
+Created additional Docker Slave Nodes for Jenkins using custom Docker Images and pulled them to ECR. Worked on all major components of Docker like Docker Daemon, Hub, Images, Registry, and Swarm.
+Performed Configuration of Azure Web Apps, App services, Application insights, AzureDNS, Azure Network Watcher and Implementing Azure site recovery, Azure stack, Backup and Automation
+Experience in configuring ARM, VM Networking, Private Static IP Address and Public IP address in Azure
+Hands-on experience Designing, planning and implementation for existing On-Prem applications to AzureCloud (ARM), Configured and deployed Azure automation Scripts utilizing Azure stack (Compute, Web and Mobile, Blobs, ADF, Resource Groups, Azure Data Lake, HDInsight Clusters, Azure Data Factory, AzureSQL, Cloud Services and ARM), Services and Utilities focusing on Automation.
+Created Virtual Networks in Azure for hybrid connectivity with On-premises networks (Express Route, VPN Gateways)
+Created storage pool and stripping of disk for Azure virtual machines. Worked with Azure infrastructure management (AZURE web roles, worker roles, SQL AZURE, AZURE AD licenses).
+Collaborated in designing, planning and implementation for existing On-Prem applications to Azure Cloud. Configured and deployed Azure Automation Scripts utilizing Azure Stack Services (Compute, Web and Mobile, Blobs, ADF, Resource Groups, Azure Data Lake, HDInsight Clusters, Azure Data Factory, Azure SQL, Cloud Services and ARM), and Utilities focusing on Automation.
+Managed Azure Infrastructure Azure Web roles, Worker roles, SQL Azure, Azure Storage, Azure AD Licenses, Office365, Virtual Machine Backup and Recover from a recovery services vault using AzurePowerShell and Portal.
+Worked on Microsoft Azure for Development, Test and UAT environments for all customers
+regardless of final Production platform to speed up
+development/ deployment process and work within CI/CD framework (Team City, Octopus Deploy)
+Developed Azure PaaS services including WebJobs, Azure SQL, Azure BLOB storage, Azure Application Insights, Azure Data Factory, Azure functions, Azure BOT Service, Azure Active Directory, Azure Stream Analytics, Azure CDN
+Implemented Infrastructure automation through Terraform and Azure DevOps for auto provisioning, code deployments, software installation.
+Used Terraform Enterprise version and integrated that with VCS repository hosted on Git to automate deployment of infrastructure of check in for Dev, Test and UAT environments
+Designed and created multiple deployment strategies using CI/CD Pipeline and configuration management tools, with remote execution to ensure zero downtime and shortened automated deployments.
+Deployed applications using Azure DevOps and troubleshooted build and release job failures.
+Collaborated with cross-functional teams to align microservices development with business goals and requirements, enabling agile development and efficient feature delivery.
+Worked on continuous integration and continuous deployment (CI/CD) pipelines to automate the building, testing, and deployment of microservices, ensuring rapid and reliable releases.
+Build, deploy ASP.NET web application on using TFS Build Automation, Blob Storage and
+Portal.
+Experience in using Visual Studio .NET platform (C#, ASP.NET, ADO.Net), thorough knowledge of the architecture and the framework.
+Worked with scrum and development team in overseeing bug tracking, test prioritization, test automation and releases.
+Improved team performance and accelerated release cycle accelerate delivery of new
+features and increase overall product qualities.
+
+Infotech, Hyderabad July 2015 to Dec 2015
+Role: Azure DevOps Engineer
+
+Environment: Azure, Azure DevOps, .Net, PowerShell
+
+Responsibilities:
+
+• Hands on Experience working with the Microsoft Azure Cloud Services and Deployed the servers through Azure Resource Manager Templates or Azure Portal.
+• Planning and implementing Disaster Recovery solutions, capacity planning, data archiving, backup/recovery strategies, Performance Analysis and optimization.
+• Strong Experience on Administration and Troubleshooting of Azure IAAS Components (VM, Storage, VNET, OMS, NSG, Site to Site VPN, RBAC, Load Balancers, Availability Sets).
+• Experience in setting up cluster environment for load balancing and high availability of Windows and Linux servers.
+• Experience in Creating the CI/CD Azure DevOps Pipeline for the .Net, java & UI based Web Applications.
+• Good Exposure in Azure Site Recovery and Azure Backup and Configuring Azure Backup vault for protecting required VMs to take the VM level backups for Azure and On Premises Environment.
+• Working knowledge on Azure Cloud IaaS and PaaS Services. Having Experience of Creating and Managing the users and groups in Azure AD.
+• Experience in managing Microsoft Windows server infrastructure and data-center operations by effectively planning, installing, configuring and optimize the IT infrastructure to achieve high availability and performance.
+• Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs and subnets.
+• Worked on the PowerShell Script to automate the Windows patching and created the release in Azure DevOps pipelines
+• 24/7 monitoring the Azure Resources using Azure Monitor and Web Apps for Application Insights
+Tikona Digital Technologies, Bengaluru, KA May 2013 to June 2015
+Role: Cloud Engineer
+
+Responsibilities:
+
+Interacted with different development teams to provide support in deployment activities.
+Coordinate with different development, QA and IT operation teams to ensure that there are no resource conflicts.
+Worked with multiple project managers from different vendors to understand the release plans and provided support according to their requirements.
+Prepared, maintained release and deployment documents.
+Created branches and tags in GIT for new development projects.
+Involved in creation and modification for Ant scripts for the different development projects
+For new applications, worked with development teams to get the requirements of application release process.
+Consolidating the access request for Cloud, Linux, DB and client applications on daily basis and co-ordinating with the client to get it done.
+Analysed and resolved conflicts related to merge of source code for GIT
+Attended daily client meetings to make sure everything is in place in all the development projects.
+Created repositories according the structure required with branches, tags and trunks
+Worked with client to provide and revoke access to relevant environments for different teams
+
+GCM Tech, Hyderabad May 2012 to April 2013
+Role: .NET Developer
+
+Responsibilities:
+
+Worked on ASP.NET web applications and .NET WCF services with a little exposure to SQL Server 2012 database development
+Created a Windows application with VB.NET, SQL Server to assist Warehouses, Stores getting full report about their sales, purchased, and numbers using Crystal Reports.
+Involved in development life-cycle of the project from requirements gathering to transition using SCRUM Agile Methodology.
+Worked on and deployed Web Services for implement the Service-Oriented Architecture (SOA) and for implementing role-based security to authenticate the users.
+Actively used XML, XSLT for creating templates with dynamic data from XML file, that XML Data is serialized
+Initiated the development of Web Service to interact between mainframe and DB2
+Consumed several WCF services
+Maintaining existing application in terms of bug fixing, code review, enhancing the functionalities
+Used Visual Source Safe and Microsoft Team Explorer version controls for maintain versions and safe code
+
+Education: Master’s in computer & information science (MCIS) from Southern Arkansas University, Magnolia, and Arkansas.
+Contact this candidate

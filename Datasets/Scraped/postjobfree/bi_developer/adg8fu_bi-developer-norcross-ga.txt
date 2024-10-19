@@ -1,0 +1,131 @@
+Dawit Fante
+
+404-***-**** adg8fu@r.postjobfree.com
+
+Professional Summary:
+●Over 5+ years of wide-ranging experience in Database Design, Development, Implementation, Debugging and Testing of software applications to support reporting and Business Intelligence initiatives in Healthcare, Insurance Academic and Finance industries etc.
+●Proficiency in Microsoft Business Intelligence technologies like MS SQL Server Integration Services (SSIS), MS SQL Server Analysis Services (SSAS) and MS SQL Server Reporting Services (SSRS).
+●Experience in integration of various data sources like SQL Server, Salesforce, Oracle, Access DB, DB2 and Flat File, Excel File.
+●Import Data into Power BI using different ETL methods, SQL Azure, Direct Query, Restful API Generator, build relational model with in Power BI.
+●Highly proficient in packages to extract, transform and load data (ETL) using SSIS, designed packages which are utilized for tasks and transformations Data Conversion and Pivot tables.
+●Used transformations like SCD, CDC, Data Conversion, Conditional Split, Merge Join, Derived Column, Lookup, Cache Transform and Union all etc., to convert raw data into required data meeting the business requirements
+●Extensively worked on Control Flow Tasks such as For each Loop Container, For Loop Container, Data Flow Task, File System Task, Script Task, Execute SQL Task, FTP Task, Execute Process Task, and Send Mail Task.
+●Efficiently used Data Flow Tasks such as Excel Source, Flat File Source, OLE DB Source, Data Conversion, Lookup, Aggregate, Audit, Multi Cast, OLE DB Command, Sort, Union All, and Copy Column, Derived Column, Cleaning bad data, Validating data using Derived Column, Row Count, Excel Destination, Flat File Destination, OLE DB Destination, Raw File Destination, SQL Server Destination, Record Set Destination of the integration services (SSIS).
+●Experience in transforming unstructured data from various data sources using SSIS like Conditional Split, Lookup, Merge Join and Sort.
+●Experienced in writing Parameterized Queries for generating Tabular reports, Formatting report layout, Sub reports using Global Variables, Expressions, Functions, Sorting the data, defining data source and subtotals for the reports using SSRS 2008/2012/2014/2016.
+●Experience in debugging the SSIS packages using breakpoints and checkpoints.
+●Hands-on star schemas, snowflake schemas, dimensional modelling and reporting tools, operations Data Store concepts, Data Marts and OLAP technologies.
+●Designed and implemented user defined hierarchies in SSAS including parent-child hierarchy.
+●Expertise with SSRS (tabular reports, parameterized reports, drilldown, drill through, sub reports, charts etc.)
+●Conversant with all phase of Software Development Life Cycle (SDLC) involving Systems Analysis, Design, Development and Implementation.
+●Highly proficient in the use of SQL for developing complex stored procedures, triggers, tables, user profiles, user functions, relational database models and data integrity, SQL joins and query writing.
+●Extensively worked on Table Design creating Clustered Indexes, Non Clustered Indexes, Primary key Foreign Key Relationships, Highly complex joins and SQL Scripts for Views and Materialized Views.
+●Hands-on Deploying reports, creating report schedules and subscriptions. Managing and securing reports and Proficient in MS Office includes MS Excel, creating spread sheets, graphs and dashboard reports.
+●Excellent skills in designing Logical and Physical Modeling using ERWIN Tool.
+
+EDUCATION
+Georgia Piedmont Technical College – Clarkston, GA
+Associate in Applied Science Database Specialist
+GPA: 3.6 / 4.0
+Certificate in SQL Server Database
+Certificate in Business Analyst with Proficiency in DWH and BI
+
+Technical Skills:
+Server Operating System
+Windows 2003, 2008, 2012.
+Languages
+Pl/SQL, T-SQL
+Microsoft Technologies
+ASP.NET, VB.NET, ADO.NET
+Web Technologies
+HTML, XML, SharePoint 2010.
+Databases
+MS SQL Server 2005/2008/2012/2014/2016
+BI Tools
+SQL Server Integration Services (SSIS), SQL Server Reporting Services (SSRS), SQL Server Analysis Services (SSAS), Power BI Desktop.
+Development Tools
+Visual Studio.NET 2008/2012/2013/2015/2017 Community Edition
+Database Query Tools
+SQL Server Management Studio (SSMS), Business Intelligence Development Studio (BIDS), Visual Studio 2015, SQL Profiler, DQS, Toad for SQL server
+
+PROFESSIONAL EXPERIENCE:
+
+Client: Health Integrated, Tampa, FL Sep 19 – Current Role: SQL BI Developer
+
+Developed ETL’s to load data from SQL server to MS server. There were about 100 ETL’s in this project to Extract data from individual tables on a nightly basis which would support the billing queries and data analytics in MS environment.
+Legacy Data Extracts
+Was Involved in a project to extract data from legacy sources .I developed ETL’s to extract data for MCCM related tables.
+
+Responsibilities:
+●Created SSIS packages to perform filtering operations and to import the data on daily basis from the legacy data sources to SQL Server 2016.
+●Creating complex SQL scripts to transform legacy data in staging area using SSIS packages.
+●Configuring SSIS packages for run time parameters and configure files.
+●Used SSIS for Extracting and Merging of data from different source to single source.
+Scheduling Jobs to run SSIS Packages in the night feed to DSS for fresh day data.
+●Created SSIS packages to automate different FTP's files and emailing to different clients.
+●Created SSIS packages included a variety of transformations, for example, Slowly Changing Dimensions, Look up, Aggregate, Derived Column, Conditional Split, Fuzzy Lookup, Multicast, and Data Conversion.
+●Generated reports from SQL Server Database and OLAP data warehousing.
+●Deployed Reports to Report Manager and Troubleshooting for any errors during in execution.
+●Scheduled the Reports to run on the daily and weekly basis in Report Manager and email them to the directors and analyst to review in Excel sheet.
+●Created Sub-Report, Matrix Report Tablix Report Drill down Report and Charts using SSRS.
+●Deployed and subscribe Reports using SSRS to generate all daily, weekly and monthly reports.
+●Build automated ETL processes in SQL Server Integration Services (SSIS) for the system.
+●Designed a Power BI Data model with multiple Facts and Dimension Tables based on the requirement.
+●Designed and Implemented analytics solutions using Power BI Dashboard and Reports.
+●Utilized Power Query in Power BI to Pivot and Un-Pivot the data model for data cleansing.
+●Created Page Level filters, Report level Filters, Visual level filters in Power BI according to the requirements.
+●Participated in testing during the UAT (QA Testing). Mentored and monitored team development and status.
+●Drop and recreate Index on the DSS System while migration data.
+●Based on the business requirement written complex T-SQL queries to perform data and graph validation to make sure that the test results are matched.
+●Designed Data flows, Workflows and jobs to load data from source to target.
+●Created trace in SQL Profiler and used Data base engine tuning advisor for performance tuning on scripts and stores procedures.
+●In-Depth knowledge of SDLC, understanding of various phases like Requirements, Analysis, Design, Development. And Testing. Reviewed many T-SQL issues using management studio for better performance.
+
+Environment: SQL Server 2014/2016, SQL Server Integration Services, Power BI, MS Excel 2016, Management Studio, SQL Profiler and SSRS.
+
+Client: AWI, Lancaster, PA July 17- July 19
+Role: MSBI/SSIS/SSRS/ SQL Developer
+
+Responsibilities:
+
+●Prepared detailed design documents and documented it clearly while detailing the purpose of the project, source and target database structures, list of batch jobs, sub jobs and their roles, Business rules and assumptions involved in the project.
+●Imported the data from flat files and were transformed and placed in DB2, Teradata Databases as they were the target databases.
+●Assisted in production of OLAP cubes, wrote queries to produce reports using SQL Server 2008R2 Analysis Services (SSAS) and Reporting service (SSRS).
+●Developed SQL scripts for data dump in the Database in SQL server, DB2, Teradata.
+●Involved in maintaining Data consistency and Data Integrity using various constraints like Unique, Check, Primary Key and Default.
+●Implemented Performance Tuning of T-SQL Statements effectively with SQL Profiler and Database Tuning Advisor.
+●Designed SSIS packages using various control flow task like Data Flow Task, For Each Loop, Execute SQL Task. Actively involved in deploying and scheduling packages.
+●Effectively implemented Data Extraction and Loading from OLTP onto staging with SSIS Packages.
+●Worked with various Dataflow tasks like Character Map, Aggregate, ODE Command and Conditional Split while designing SSIS Packages.
+●Assisted the organization in performing data compilation, mining and analysis required to evaluate the given data.
+●Performed business data analysis and report creation in support of both ad hoc requests from the customer and to support new development and system maintenance.
+●Research and investigate key business problems through quantitative analyses of utilization, healthcare and cost data.
+●Provided and defend conclusions and recommendations to customer based on results of analysis.
+●Maintained and enhanced healthcare reporting solutions to meet a wide range of business and system requirements.
+●Exercise positive interpersonal communication skills and worked independently or with a small team on all phases of software development lifecycle.
+
+Environment: SQL Server 2008, Windows 2003/2007 server, SQL Server Configuration Manager, T-SQL, DTS, SSIS, SQL Server Reporting Services (SSRS), SQL Profiler, TFS.
+
+Ameriprise Financial, Atlanta, GA Oct 15 – Jun 17
+Role: SQL Server / BI
+
+Ameriprise Financial is a leading provider of financial advice. The company provides access to insurance, mutual funds, savings plans, personal trust services, retail brokerage, and other financial products and services.
+
+●Install, configure, and administer SQL Server 2005/2008- R2/2012/2014 on a clustered and VMware environment.
+●Implementation of SQL Logins, Roles and Authentication Modes as a part of Security Policies for various categories of users.
+●Involve in creating Schemas, Tables, Clustered and Non-Clustered Indexes, Views, functions, and Stored Procedures.
+●Creating various Jobs, scheduling & running jobs and troubleshooting the failed jobs.
+●Performance Tuning of Slow Running Queries or inefficient Queries for Optimal Performance using SQL Profiler and Managing Indexes and Statistics.
+●Involved in general Database Administration and validated some of the existing schema.
+●Scheduled jobs and monitored and troubleshooting them. Task automation using power shell script and batch scripting.
+●Used SSIS as ETL Tool to extract the data from production servers to OLAP Data warehouse.
+●Implemented high availability techniques always on, mirroring, Log shipping, Replication and involved in planning and monitoring.
+●Performance monitoring and taking steps to improve the I/O is one of the most important factors when setting up SQL server.
+●Installed and Configured Transactional and Snapshot Replication for production servers to other production servers available in remote location.
+●Successfully implemented Always on Availability group in SQL 2014 and installed SQL server in a cluster Environment.
+●Created alerts and notifications for system errors, insufficient resources, and fatal database errors.
+●Scheduled and monitored all maintenance activities including database consistency check, index defragmentation. Rebuilding the indexes at regular intervals for better performance.
+●Installing, configuring, deploying, and supporting SSIS, SSRS, and SSAS.
+●Manage and resolve trouble tickets for database related issues submitted by customers.
+Environment: SQL Server 2005/2008/2012/2014, Clustered, Power BI, SSIS, SSAS, SSRS
+Contact this candidate

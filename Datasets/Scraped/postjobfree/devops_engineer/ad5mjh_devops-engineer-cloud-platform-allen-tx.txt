@@ -1,0 +1,141 @@
+Kusum Y, ad5mjh@r.postjobfree.com, 316-***-****
+Professional Experience:
+Having around 8 years of experience in the IT Industry includes Development, Administration and DevOps practices with on- premises and public cloud platforms like AWS, Azure and GCP.
+• Expertise in AWS Cloud Platform and its services like EC2, S3, VPC, RDS, Elastic Cache, Cloud Watch, Cloud Trial, Lambda, Elastic Beanstalk, IAM, Cloud Front, ASG, Launch Configs, SQS, SNS, AWS Kinesis, AWS MLOps.
+• Experience in using Microsoft Azure Services – Azure Web Apps, Azure Data Factory & Storage, Azure Media & Content Delivery, Azure Networking, Azure Hybrid Integration and Azure Active Directory. Also, hands on experience with Azure Security like Network Security Groups in VNET’s.
+• Troubleshoot and resolve issues for customers to a great extend focused around Azure VMs, Azure App Services, Azure SQL Databases, Application Gateways, Azure Auto Scaling, VPN Gateways, Azure AD, and Azure migrations.
+• Experience in using Google Cloud Platform (GCP) services like Compute Engine, Cloud Functions, Cloud DNS, Cloud Storage and SaaS, PaaS and IaaS concepts of Cloud computing architecture and implementation using GCP.
+• Extensively worked in Agile environment, developing CI/CD pipelines with Jenkins, Maven Builds, Artifactory, JUnit testing and deployments using multiple Jenkins plugins.
+• Used Docker, Kubernetes, and Open Shift to manage Microservices for development of CI/CD.
+• Used Amazon ECS cluster for cloud suite client’s which use Auto Scaling if required and cluster creation handled by Terraform.
+• Experienced in using source controller tools like GIT, GitHub, TFS and Subversion (SVN).
+• Experience in writing Ansible playbooks, inventories created custom playbooks written in YAML language, encrypted the data using Ansible Vault and maintained role-based access control by using Ansible Tower and implemented IT orchestration using Ansible to run tasks in a sequence which will work on different servers.
+• Hands-on experience in Core Java concepts like OOPs, Garbage collector, Collections, Multithreading, Exception Handling, Enums, Lambda, Generics, Synchronization, Serialization and De-serialization.
+• Experienced in developing web-based applications using Java/J2EE, Servlets, Struts, Spring IOC, Spring MVC, Spring AOP, Spring Security, Spring Boot, JDBC, Web Services (SOAP, RESTful services) and ORM frameworks like Hibernate.
+• Enhanced and deployed Microservices based application using Spring Boot and Spring Cloud and created dynamic documentation for RESTFUL web service using Swagger.
+• Deployed Microservices as Restful Java Web Services on Amazon Elastic Beanstalk.
+• Experienced in UI using HTML, JavaScript and JSP and developed Business Logic and Interfacing components using Business Objects, XML, and JDBC.
+• Experience with relational databases – Oracle, My SQL, DB2 and PostgreSQL and with NoSQL databases- DynamoDB, MongoDB, CouchDB and DSE Cassandra.
+• Have experience in using Shell, Bash, Python, PowerShell, YAML, Ruby and Perl scripting languages for automation, monitoring.
+• Hands-on experience in deploying, testing, and maintaining applications on web servers such as IBM Web Sphere, JBoss and Apache Tomcat Server.
+• Proficient in using log monitoring tools syslog and ELK Stack (Elastic search, Logstash, Kibana), also used Cloud Watch, Nagios and Splunk for monitoring.
+• Experienced in Using Selenium, Postman for test automation execution with Jenkins.
+• Worked with Apache Kafka for High throughput for both publishing and subscribing, with disk structures that provide constant performance even with many terabytes of stored messages. Experienced in messaging architectures like RabbitMQ, Kafka.
+• Organized and managed everyday administration tasks like adding and removing users, files, share permissions, trust management, replication management, server backups and setups on LINUX. Specialized Skills:
+Methodologies Agile, Scrum and Waterfall
+Java Technologies JDK, JEE, Servlets, JSP, JDBC
+Frameworks Spring boot, Angular, Hibernate
+Programming/Web
+Technologies
+Java, C++, .Net, XML, HTML, CSS, Java Script
+Scripting Languages Shell, Bash, Python, Perl, Ruby, Groovy, PHP, JSON, YAML and Power shell Operating Systems Red Hat Linux, CentOS, Ubuntu, Fedora, HP_UX, Windows, Mac OS Web/Application Servers Apache, Tomcat, JBoss, WebLogic, WebSphere, IIS, Nginx CI/CD & Build Tools Jenkins, UCD, Hudson, Bamboo, Maven, ANT, Azure DevOps, Argo CD Version Control Tools Git, SVN, Bit Bucket, TFS
+Cloud Environment AWS, GCP, Microsoft Azure
+Virtualization Technologies VMWare ESX/ESXi, Power VM, Virtual Box, Windows Hyper-V, Citrix Xen Monitoring tools Nagios, Splunk, Cloud Watch, Cloud Trial, Elastic Search, Logstash and Kibana (ELK) Database Technologies DB2, SQL Server, RDS, MySQL, NoSQL- DynamoDB, MongoDB, Cassandra Configuration
+Management Tools
+Chef, Ansible, Puppet
+Orchestration Tools Docker, Helm, Kubernetes, OpenShift IAC Tool Terraform, AWS Cloud Formation
+Messaging Services RabbitMQ, Apache Kafka and Amazon SNS Client: CapitalOne, Richmond, VA Sep 2021 – till date Role: Sr. Cloud DevOps Engineer
+Responsibilities:
+• Worked on implementation of the iterative development process using the Agile methodology and been part of Scrum calls, Sprint plan and tracked it on JIRA.
+• Tracked all my work on JIRA and used Confluence to prepare, update and store our project documentation.
+• Responsible for using AWS console for deploying and operating AWS services specifically VPC, SG, EC2, S3, EBS, IAM, ELB, ASG, Lambda, ECS.
+• Worked on deploying EKS clusters on AWS using Terraform. Also used ingress rules, and a Network Load Balancer with NGINX Ingress controller for EKS.
+• Worked on creating build and deploy pipelines using Argo CD for the deployment of the applications on to the EKS clusters.
+• Executed manual and schedule builds on Jenkins whenever there is change in the Git feature branch code.
+• Built end to end CI/CD Pipelines in Jenkins to retrieve code, compile applications, perform tests and push build artifacts to JFrog as a Docker image.
+• Manage and maintain Datastax Enterprise Cassandra Clusters on AWS.
+• Used Python, Terraform, Cloud Formation and Ansible to develop an application that automates the provision, rehydration and destroy process of the DSE Cassandra cluster.
+• Developed applications for automation purpose using Python. These applications were used to maintain and operate the DB.
+• Developed a code in Python and wrote groovy scripts to connect to the DSE Cassandra clusters through Jenkins.
+• Wrote Ansible playbooks, inventories, created custom playbooks written in YAML language, encrypted the data using Ansible Vault and maintained role-based access control by using Ansible Tower.
+• Used New Relic, Splunk and OpsCenter for monitoring the Cassandra Clusters.
+• Used Splunk query language in searching, monitoring, analyzing and visualizing Splunk logs.
+• Maintained and operated Zeppelin server on AWS with Blue/Green deployment strategy.
+• Used HashiCorp Vault to create lockboxes and store secret that are accessed by the application. Environments: AWS, Ansible, GitHub, Jenkins, Argo CD, Selenium, Docker, JFrog, Splunk, Terraform, EKS, Python, Shell, DSE Cassandra, OpsCenter, Zeppelin, Nginx, HashiCorp Vault. Client: Genospace, Boston, MA Jan 2020 – Aug 2021
+Role: Sr. Cloud Engineer
+Responsibilities:
+• Worked on Implementation the iterative development process using the Agile methodology and been part of Scrum calls, Sprint plan and tracked it on JIRA.
+• Responsible for using AWS console for deploying and operating AWS services specifically VPC, EC2, S3, EBS, IAM, ELB, Cloud Formation and MLOps.
+• Maintained the user accounts IAM Roles, VPC, RDB, Dynamo DB, SES, SQS and SNS services in AWS cloud.
+• Provisioned pipelines on AWS for Machine Learning trained modules.
+• Used AWS code build for building, then created Docker container and stored it on AWS ECR.
+• Deployed the Docker container on to Amazon Sage Maker to create the model and endpoint.
+• Used AWS Lambda function to take the build model and connect it to API Gateway.
+• Wrote Power Shell scripts to automate the Azure cloud system creation including end-to-end infrastructure, VMs, storage, firewall rules.
+• Established deployment standards for several Azure PaaS Services by following best DevOps practices and implementing them across the platform with automated.
+• Created Build Release pipelines (CI-CD) for .NET, JAVA and NodeJS applications for different teams in the platform using Azure DevOps and deploy them in Azure App Services.
+• Deployed Azure Policies using ARM to setup guard rails and secure cloud deployments.
+• Performed monitoring on Azure resources by configuring Azure Diagnostics and Azure Monitoring.
+• Worked on documentation - Chef Basics, Initial setup of Chef, Data bags implementation, Coding standards Cookbook document, and Testing docs.
+• Executed manual and schedule builds on Jenkins whenever there is change in the Git feature branch code.
+• Built end to end CI/CD Pipelines in Jenkins to retrieve code, compile apps, perform tests and push build artifacts to JFrog.
+• Created the pods in OpenShift Environment by using Dockerfile and Created clusters from the docker containers with the help of Kubernetes on the OpenShift platform.
+• Configured Microservices using Docker containers created docker files for different environment and Virtualization by OpenShift.
+• Maintained Jenkins Continuous Integration tool using shell/Perl and Ruby scripts for automating releases to different environments.
+• Integrated code quality tool SonarQube in CI/CD pipelines. Created quality gates in SonarQube and enforced it in pipelines to fail when the conditions are not met.
+• Created different DEV environments using Terraform. Ran the Terraform script on Jenkins, once after the job was successful move the environment data to the AWS cloud DB’s.
+• Moved the data to AWS cloud DB’s using APIs.
+• Created the RESTful microservices using Java Spring boot.
+• Used the APIs to destroy or extend the destroy date of the DEV environment data in the DB.
+• Basic database experience, including aptitude writing SQL and administering Microsoft SQL Server and MySQL.
+• Enhanced monitoring of the production environment using Splunk to resolve the issues. Environments: AWS, Azure, OpenShift, Chef, Git, Jenkins, SonarQube, JFrog, Splunk, Terraform, Shell, Java Spring boot, Jira. Client: BIC Graphic, Red Wing, MN Sep 2018 – Dec 2019 Role: DevOps Engineer
+Responsibilities:
+• Worked on Azure Resource Manager for creating and deploying templates, assigning roles, and getting activity logs.
+• Creating, validating, and reviewing solutions and effort estimate of converting existing workloads from classic to ARM based Azure Cloud Environment.
+• I integrated Azure DevOps with Terraform and ran ADO CI/CD pipelines for creating the infrastructure on Azure, utilized ADO Pipelines for end-to-end CI/CD deployment.
+• Integrated Azure Log Analytics with Azure VMs for monitoring the log files, store them and track metrics and used Terraform as a tool and managed different infrastructure resources on Cloud, VMware, and Docker containers.
+• Created the Azure storage accounts, VNET’s, Subnets, assigned the public IP, altered the security groups, NIC’s and Azure VM’s for internal applications and assigned Azure Auto Scaling.
+• Experience in designing, configuring, and deploying solutions on Microsoft Azure using ARM Templates, Azure PowerShell Module and, Azure CLI focusing on high - availability and auto-scaling.
+• Wrote power shell scripts to create the parameter files automatically for all the services in Azure Resource Manager.
+• Worked with Nagios for Azure Active Directory & LDAP and Data consolidation for LDAP users.
+• Experience in working with Storage, Security and Compute services inside the Azure cloud.
+• Worked on implementation of containerization technology Docker and Kubernetes on to the Azure cloud and automate the process of deploying application container on to the Azure Kubernetes Service-cluster (AKS).
+• Wrote Ansible playbooks, inventories, created custom playbooks written in YAML language, encrypted the data using Ansible Vault and maintained role-based access control by using Ansible Tower.
+• Worked on Docker and Ansible in build automation pipeline and Continuous Deployment of code using Jenkins and wrote Playbooks to automate Ansible servers using YAML scripting and developed an Ansible role for Zabbix-agent which will be integrated into the to the CI/CD pipeline.
+• Used Azure Container Services with Kubernetes for Orchestrating the servers.
+• Experienced in Installing, setting up & Troubleshooting Ansible, created and automated platform environment setup.
+• Configure jobs and pipelines using Jenkins. Troubleshoot problems arising from Build failures and Test failures.
+• Designed CI/CD processes in the context of Jenkins, including the usage of automated Build, test/QA and deployment tools.
+• Assembled Jenkins Slave machines on various operating systems and connected to Master server.
+• Worked on setting up the backup server for Jenkins and prepared disaster recovery plans for Jenkins and Bamboo.
+• Used Microservices to build individual components of the application and built the application on Spring Framework.
+• Developed Microservices with Spring Boot to retrieve API routes for the entire cluster and by using this strategy each Microservice in a cluster can be Load balanced and exposed through one API gateway.
+• Implemented RabbitMQ for driving towards better user interactions with our applications as well as between the Microservices.
+• Worked on Nagios for monitoring tool to identify and resolve infrastructure problems before they affect critical processes and worked on Nagios Event handlers in case of an automatic restart of failed applications.
+• Worked on automating jobs using scripting in Python and Shell. Environment: Azure, Ansible, Jenkins, Bamboo, Spring Frameworks, Python, Shell, RabbitMQ, Nagios. Client: QBurst, Bangalore, India Jan 2017 – July 2018 Role: Full Stack/DevOps Engineer
+Responsibilities:
+• Used Google Cloud Platform (GCP) services compute engine, cloud load balancing, cloud storage, cloud SQL, stack driver monitoring and cloud deployment manager.
+• Worked on setting up GCP Firewall rules to allow or deny traffic to and from the VM's instances based on specified configuration and used GCP cloud CDN (content delivery network) to deliver content from GCP cache locations drastically improving user experience and latency.
+• Involved in CI/CD process using SVN, Nexus, Jenkins job creation, Maven build and create Docker image and use the Docker image to deploy in Google cloud clusters.
+• Administered and Engineered Jenkins for managing weekly Build, Test and Deploy chain, SVN with Dev/Test/Prod Branching Model for weekly releases.
+• Wrote Ansible Playbooks with Python SSH as the Wrapper to Manage Configurations of AWS Nodes and Test Playbooks on AWS instances using Python.
+• Developed and designed the REST based Microservices using the Spring Boot.
+• Implemented the various layers of the application using Spring Framework modules such as Spring IOC, Spring AOP, Spring MVC and Spring ORM, Spring JPA, Spring boot.
+• Used Spring MVC to consume Web services and JavaScript, CSS, AngularJS to display data in front end.
+• Performance tuning of WebSphere application server including JVM, Garbage collection, JDBC along with its server logs.
+• Created Server-side programs and deployed on WebSphere Application Server.
+• Worked on RESTful API to create services.
+• Worked on the development of technology roadmaps to evolve the API estate in conjunction with external and internal solution providers.
+• Used Java based frameworks for automating Application Programming Interface (API).
+• Conducted testing using Postman tool and configured Swagger for API documentation. Environment: GCP, AWS. Git, SVN, Jenkins, Postman, Ansible, Docker, Java, Spring boot, Python, Nexus. Client: Sonata, Bangalore, India Jan 2016 – Dec 2016 Role: Java Developer
+Responsibilities:
+• Developed the application using with JSP, Servlets, AJAX, JavaBeans and XML.
+• Designed components for the project using Model-View-Controller (MVC), Data Access Object (DAO).
+• Implemented Swing and JAVAFX frames in developing user interfaces.
+• Developed Java Servlet that acts as a controller and maintains the session state and handles user requests in Middle Tier.
+• Utilized Servlets to handle various requests from the client browser and send responses.
+• Used HTTP Servlet to track sessions of the users visiting the web pages.
+• Deployed this web application on WebSphere server.
+• Involved in batch processing using JDBC Batch to extract data from database and load into corresponding Application Tables.
+• Involved in the team with Senior Developers to write JVM memory management code using different Object references and Garbage collector methods.
+• Used Log4j and commons-logging frameworks for logging the application flow.
+• Used SVN for source code and project documents version control.
+• Wrote UNIX Shell scripts and used UNIX environment to deploy the EAR and read the logs.
+• Creating, cloning Linux Virtual Machines, templates using VMware Virtual Client 4/5 and migrating servers between ESX hosts.
+• Managing day-to-day user administration of adding or deleting users, password aging users/groups, NFS using the TCP/IP applications such as Telnet, FTP, and R-logins.
+Environment: JSP, Servlets, XML, Java Servlets, HTTP Servlets, JDBC, JVM, SVN, Shell Script, VMware. Certifications:
+AWS Solutions Architect – Associate Certified
+AWS Cloud Practitioner Certified
+Education:
+Master’s in Computer Networking Systems and Telecommunications Wichita State University, KS Bachelor’s in Computer Science and Engineering Jawaharlal Nehru Technological University, India
+Contact this candidate

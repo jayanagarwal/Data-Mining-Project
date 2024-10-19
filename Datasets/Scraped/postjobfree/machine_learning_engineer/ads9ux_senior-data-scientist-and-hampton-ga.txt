@@ -1,0 +1,189 @@
+PROFILE SUMMARY
+
+●* years of experience working in Data Science, Machine Learning, Artificial Intelligence, Data Mining, Information and Data Management,
+●Worked in various Analytics, AI, and Machine Learning Domains including Marketing Analytics, Time Series Forecasting, Computer Vision, and Natural Language Processing.
+●Expertise in Data Acquisition, Data Validation, Statistical Analytics, Predictive Modelling, Interactive Data Visualisations, Data Storytelling, Model Deployment, and MLOps.
+●Performed exploratory analysis on varying types of data including structured and unstructured data, allowing for a full knowledge of the subject matter, a nuanced understanding of the variables in question, and technically sound insight into the required modeling approach.
+●Adept in data story-telling to non-technical team members with design and presentation of interactive data visualizations and widgets in Python using Matplotlib, ggplot2, Plotly, Seaborn, and in R using tidyverse and R Shiny for visualization.
+●Produced Custom BI reporting dashboards in Python using Dash with Plotly for rapid dissemination of actionable, data-driven insights.
+●Expert in interacting with stakeholders/customers and gathering requirements through interviews, workshops, and existing system documentation or procedures, defining business processes, and identifying and analyzing risks using appropriate templates and analysis tools.
+●Hands-on application machine learning techniques such as Naïve Bayes, Linear, and Logistic Regression Analysis, Neural Networks, RNN, LSTM, CNN, Transfer Learning, Arima, Sarimax, Decision Trees, Random Forests, Gradient Boosting, etc.
+●Transform business requirements into analytical and statistical data models in Python and SQL, using packages including Sklearn, NumPy, Pandas, Keras, SciPy, TensorFlow, PyTorch, etc.
+●Worked on analytics problems such as ROI forecasting, customer segmentation and profiling, product recommendations, product demand estimation, customer churn, etc., Computer Vision problems like object detection, scene classification/summarization, activity detection, etc., and in the NLP domain, such as sentiment analysis, named-entity recognition, natural language understanding, and generation.
+●Experienced with a variety of NLP methods for information extraction, topic modeling, parsing, and relationship extraction in Python.
+●Applied NLP with NLTK, SpaCy, ELMo, BERT, and other modules for application development for automated customer response.
+●Wrote automation processes using Python and the AWS Lambda service.
+●Utilised Docker to handle deployment on heterogeneous platforms such as Linux, Windows, OSX, and AWS.
+●Adept at discovering patterns in data using algorithms, visual representation, and intuition.
+●Adept in advanced statistical and predictive modeling techniques to build, maintain, and improve scalable, real-time decision systems.
+●Excellent communication skills (verbal and written) to communicate with clients/stakeholders and team members.
+●Experienced working complete Software Development Life Cycles (SDLC) and supervising teams of domain-specific experts to meet product specifications and benchmarks within the deadlines given.
+●Demonstrated ability to devise and propose creative and innovative ways to look at problems by using business acumen, data models, statistical analysis, and a practical and direct understanding of the subject matter.
+
+SKILLS TABLE
+●PROGRAMMING: Python, R, SQL, SAS, Scala, Matlab
+●MACHINE LEARNING METHODS: Classiﬁcation, pattern recognition, regression, prediction, dimensionality reduction, recommendation systems, targeting systems, and ranking systems. Support Vector Machine, Decision Trees, Random Forest, Gradient Boosting Machine (GBM), KNN, GARCH, Naïve Bayes, Clustering. Text Mining for Natural Language Processing, Spark ML.
+●Integrated Development Environments (IDE): Jupyter Notebook, R Studio, SAS Studio, Spyder, Google Colab Notebook
+●DATA VISUALISATION: Tensorboard, Qlickview, R, Plotly Dash, Excel Dashboards, PowerBI
+●DATA STORES SQL and NoSQL, data warehouse, data lakes, AWS Cloud Services, Google Cloud Platform
+●Version Control: Git, GitHub, AWS CodeCommit,
+●SOFTWARE TOOLS: Excel, PowerPoint, Word, SPSS, SAP, SharePoint
+●PRESENTATIONS: Proven capabilities to present technical ﬁndings to non-technical audiences, and with top management engagements
+●LIBRARIES: NumPy, Pandas, Matplotlib, nltk, Scikit-Learn, Keras, xgboost, statsmodels, Scipy, TensorFlow, PyTorch, CNTK, Deeplearning4J, ggplot2
+●ANALYTICAL METHODS: Advanced Data Modelling, Forecasting time series Models, Regression Analysis, Sentiment Analysis, Exploratory Data Analysis, Capital/Project Justiﬁcation and Budgeting, Machine Time to Failure Analysis, Predictive Analytics, Statistical Analysis (ANOVA, correlation analysis, t-tests and z-test, descriptive statistics), Predictive Modelling with Time Series (AR, MA, and ARIMA) and Facebook Prophet. Performed Principal Component Analysis (PCA) and Linear Discriminant Analysis for features selection on cluster analysis, Bayesian Analysis, Linear/Logistic Regression, Classiﬁcation, and Regression Trees (CART)
+●RDBMS: SQL, MySQL, PostgreSQL, AWS RDS
+●NoSQL: MongoDB, DynamoDB, DocumentDB, CosmosDB
+●Cloud: AWS, GCP, Azure
+
+WORK EXPERIENCE
+
+Senior Data Scientist Southern States LLC, Hampton, GA
+02/2021 to Current
+
+Southern States is one of the largest essential products and services to electric utilities in the U.S. and Canada to support the nation’s Electric Power Infrastructure. I led a team of data scientists and data engineers where I created numerous demand forecasting models for energy consumption data hosted on AWS, to estimate short-term demand peaks for optimizing energy load dispatch. The project involved the prediction of demand and cost of electricity within the market area at frequencies of 2-hour to 2-week outlooks. Multiple algorithms were employed, explored, and implemented. Implemented most of my models into production. Additionally, I was leading the marketing analytics efforts like customer segmentation and profiling, ROI analysis, recommendation engines, customer churn, and NLP analysis on customer support chats like topic modeling, NER, sentiment analysis, and others.
+
+●Endeavoured multiple approaches for predicting day-ahead energy demand with Python, including exponential smoothing, ARIMA, Prophet, TBATS, and RNNs (LSTM & Kalman Filters).
+●Performed Data Analysis, Clustering, Time Series Analysis, and Regression Methods on Power Quality and Power Consumption metrics. Data involved different electric parameters ranging from milliseconds to daily averages, depending on the application.
+●Implemented into production models through Containers (Dockers) and Kubernetes.
+●Deployed models into production, monitored and update them (MLOps)
+●Successfully built a Generalised Autoregressive Conditional Heteroskedasticity (GARCH) using PyFlux to model the uncertainty of other time series, ensuring a ‘safety’ stock of generating units.
+●Incorporated geographical and socio-economic data scraped from outside resources to improve accuracy.
+●Implemented various machine learning algorithms like Decision Trees, Naive Bayes, Logistic Regression, and Linear Regression using Python and determined performance.
+●Developed several Natural Language Processing models for the marketing analytics department (Topic Segmentation, NER, Sentiment analysis, etc)
+●Worked on ROI analysis using media mix models, applied NLP techniques to do sentiment analysis of customer chats, customer segmentation, and profiling to understand customer churn.
+●Used NLP Python libraries Spacy, NLTK, BERT, ELMO, GPT, and more
+●Incessantly validated models using a train-validate-test split to ensure forecasting was sufficient to elevate the optimal output of the stored energy of facilities to meet system load.
+●Prevented over-fitting with the use of a validation set while training.
+●Built a meta-model to ensemble the predictions of several different models.
+●Performed feature engineering with the use of NumPy, Pandas, and Feature Tools to engineer time-series features.
+●Coordinated with facility engineers to understand the problem and ensure our predictions were beneficial.
+●Participated in daily standups working under an Agile KanBan environment.
+●Used AWS services (S3, Redshift, Athena, Sagemaker, Redshift, EKS, etc.)
+●Published paper dealing with the prediction of sources of electrical pollution. Methods included clustering, time-dependent linear regressions, PCA, and Independent Component Analysis.
+●Published paper presenting a method to estimate the summation of sources of electrical pollution knowing only their magnitudes. A method based on Monte Carlo simulations.
+
+Data Scientist and ML Engineer AT&T Mobility LLC, Brookhaven, GA
+05/2019 to 02/2021
+
+AT&T Mobility LLC, also known as AT&T Wireless is an American telecommunications company. I worked with a team to develop a recommendation engine for B2B packages consisting of phone devices, share plans, accessories, and features. Consulted on-site team and co-led fraud detection for orders placed on the B2B business domain, detecting fraudulent transactions before shipping orders. Worked with DevOps (CI CD Pipelines) on the Azure platform. Another project was to implement several computer vision algorithms to track thousands of drones at any given time near no-drone zones such as an airport in real-time.
+
+●Developed and deployed different types of recommendation engines: Content-based, Hybrid, Collaborative filtering, and Neural Collaborative filtering by using Tensorflow and Tensorflow Extended.
+●Applied Random Forest and Xgboost for Fraud Detection.
+●Programmed specialized algorithm to store and compare vectorized features and verifications.
+●Developed, evaluated, and trained a custom convolutional neural network (CNN) using frameworks such as Tensorflow and Keras in Python.
+●Used different pre-trained models and transfer learning (RESNET, ALEXNET, etc.).
+●Designed Statistical evaluation techniques to test the model performance.
+●Completed image resizing and interpolation into a standard size.
+●Generated rotational and other invariances using the Skimage library.
+●Utilised CV2 library to read and render videos from historic and live data.
+●Designed vectorizing function to embed facial features.
+●Implemented Convolutional Neural Networks using Tensorflow and Python.
+●Performed data cleaning on images and tabular data.
+●Applied image augmentation techniques to introduce rotational, motion, and scale invariance.
+●Leveraged model checkpoints and early stopping as well as optimizers such as Adam to expedite the model training process.
+●Deployed the model as a REST API for integration.
+●Designed the CICD pipeline for model building, model selection, deployment, and maintenance in Azure
+●Made recommendations for content-based and rule-based models.
+●Performed evaluation metrics on the models.
+●Worked with Oracle Database for EDA analysis.
+●Flattened densely nested JSON files to extract critical data.
+●Communicated constantly with the data engineering team to provide the data science team with required data.
+●Prepared presentations using Power BI.
+●Reported initial EDA on Jupyter Notebooks.
+●Programmed multiple functions using Python.
+●Used extensive SQL language to generate analysis and reports.
+●Utilised Spark for productionizing models.
+●Applied A/B testing for package recommendation evaluation for live models.
+●Implemented version control of code with Git and GitHub.
+
+Data Scientist and ML Engineer Huntington Bancshares Incorporated, Columbus, OH
+06/2017 to 05/2019
+
+Huntington Bancshares Incorporated is an American bank holding company. I was assigned to a team mandated to solve several marketing analytics and fraud analytics assignments for different financial products (Credit Cards, checking accounts, and multi-channel transactions. I was also responsible for deploying and updating my models.
+
+●Performed customer segmentation by using Kmeans, Hierarchical Clustering, and DBSCAN techniques.
+●Created a sequential model with Neural Networks for fraud detection, used techniques to balance the data set, and avoid overfitting.
+●Managed development of world-class, practical business solutions (B2B and B2C) using cutting-edge data mining methods, advanced statistics, custom-design models and algorithms, artificial intelligence technologies, online surveys, and state-of-the-art custom software tools and analytic techniques.
+●Handled unbalanced data issues using Synthetic Minority Over Sampling, SMOTE, and TOMEK LINK algorithms.
+●Created different fraud detection models with autoEncoders models
+●Worked with different Data Science teams and provided respective data as required on an ad-hoc request basis.
+●Developed solutions using Spark, Hadoop, Python, MLLib, and a variety of machine learning methods, including classifications, regressions, and dimensionality reduction.
+●Implemented models in SAS and interfaced with MSSQL databases and scheduled updates on a timely basis.
+●Delivered portfolio risk dashboard as a package covering all aspects of the credit life cycle for retail unsecured loans.
+●Developed machine learning models for predicting signs of fraud.
+●Worked with huge datasets from Big Data with Hadoop, HDFS, Map Reduce, and Spark.
+●Contrive information from structured and semi-structured data elements collected from both internal and external sources.
+
+Data Scientist (AI/Computer Vision) ADT Inc., Boca Raton, FL / (Remote)
+05/2016 to 06/2017
+
+ADT Inc provides residential, small, and large business electronic security, fire protection, and other related alarm monitoring services throughout the United States. I was assigned to a team responsible for
+developing a machine-vision tool to improve closed-circuit camera networks. The project consisted of a network path prediction component using linear programming and forecasting techniques, as well as a computer vision system using vectorized features. The system utilized a facial embedding algorithm that compared favorably with Convolutional Neural Networks at the time but had the advantage of not requiring retraining to identify new users.
+
+●Programmed specialized algorithm to store and compare vectorized features and verifications.
+●Developed, evaluated, and trained a CNN network with OpenCV.
+●Tracked the performance of my models with ROC and AUC.
+●Completed image resizing and interpolation into a standard size.
+●Generated rotational and other invariances using the Skimage library.
+●Utilised CV2 library to read and render videos from historic and live data.
+●Designed vectorizing function to embed facial features.
+●Implemented Convolutional Neural Networks using PyTorch and Python.
+●Performed data cleaning on images and tabular data.
+●Applied image augmentation techniques to introduce rotational, motion, and scale invariance.
+●Hands-on with Flask and Pickle.
+●Leveraged model checkpoints and early stopping as well as optimizers such as Adam to expedite the model training process.
+
+Research Assistant (Machine Learning) KAUST University, Saudi Arabia
+10/2015 to 05/2016
+
+Worked as a Research Assistant for the Electronics (GPUs) and Semiconductors area. Where I was involved with state-of-the-art research to improve Machine learning algorithms and analysis.
+
+●Analysed data using data visualization tools and reported key features using statistical tools and supervised machine learning techniques to achieve project objectives.
+●Analysed large data sets and applied machine learning, and predictive statistical models.
+●Designed a suite of Interactive dashboards that provided an opportunity to measure performance and allowed executives to adjust business strategies.
+●Produced various machine learning frameworks using Python, R, and MATLAB.
+●Built and analyzed datasets using R, MATLAB, and Python.
+●Implemented machine learning algorithms and concepts such as Gaussian mixture distribution, Decision Tree, K-means Clustering (varieties), etc.
+●Utilised machine learning algorithms such as linear regression, multivariate regression, naive Bayes, Random Forests, K-means, & K-Nearest Neighbour for data analysis.
+●Used R and Python for Exploratory Data Analysis, A/B testing, ANOVA testing, and Hypothesis testing to compare and identify the effectiveness.
+●Used Pandas, NumPy, seaborn, SciPy, Matplotlib, Scikit-learn, and NLTK in Python for developing various machine learning algorithms.
+●Dealt with millions of rows of data using SQL and performed Exploratory Data Analysis.
+●Helped define Data collection rules, Target data mappings, and data definitions.
+●Worked on outlier detection with data visualizations using box-plots, feature engineering using Gaussian Mixture Models, and K-NN distances built using Pandas, and NumPy.
+●Experience with Keras and TensorFlow in developing deep learning-based predictive algorithms.
+●Provided and created data presentations to executives to guide business decisions.
+●Successfully interpreted, analyzed and performed Predictive Modelling using Python with Numpy, Pandas packages.
+●Worked with TensorFlow, Caffe2, and Torch.
+●Defined a new data collection scheme moving forward and handed the model off to software engineers for them to incorporate into their internal programs
+
+
+EDUCATION
+
+●ITESM – Bs. Mechanical Engineering – Minor in Electronics
+Graduated with Honours
+
+CERTIFICATIONS
+
+●Machine Learning Engineering for Production (ML OPS) Specialization.
+coursera.org/specializations/machine-learning-engineering-for-production-mlops
+●Automate the Boring Stuff with Python Programming
+udemy.com/course/automate/
+●Machine Learning Specialization
+coursera.org/specializations/machine-learning-introduction
+●Applied Machine Learning in Python
+coursera.org/learn/python-machine-learning
+●Algorithmic Trading A-Z with Python, Machine Learning & AWS
+udemy.com/course/algorithmic-trading-with-python-and-machine-learning
+
+PUBLICATIONS & RESEARCH
+
+●Extension on IEC 61000-3-6’s General Summation Law to Estimate Harmonic Current at PCC Based on Probability, 2022, https://ieeexplore.ieee.org/document/9712636
+
+●Harmonic Filtering Scheme Selection Based on Diagnosis with Independent Component Analysis, 2021, https://ieeexplore.ieee.org/document/9640840
+
+LANGUAGES
+
+●English (Fluent)
+●French (Fluent)
+●Spanish (Native Speaker)
+Contact this candidate

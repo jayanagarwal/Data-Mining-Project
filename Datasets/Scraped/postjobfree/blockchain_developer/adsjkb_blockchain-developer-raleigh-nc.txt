@@ -1,0 +1,215 @@
+TUAN DANG
+FULL STACK BLOCKCHAIN DEVELOPER
+PERSONAL INFORMATION
+Personal Email: adsjkb@r.postjobfree.com
+LinkedIn: https://www.linkedin.com/in/dangtuan21
+Medium: https://medium.com/@thomasdanggo
+Location: Raleigh, North Carolina.
+Cell phone: 415-***-****
+Work authorization: Green Card
+SUMMARY OF EXPERIENCE
+My name is Tuan Dang who is a Full Stack Blockchain Developer with over 20 years of experience delivering complex software development projects. I have excellent knowledge of programming languages such as Node/Java/Golang and Solidity. I've demonstrated my ability to successfully apply the most recent development approaches to satisfy client needs. I take a collaborative approach, working with clients on project delivery and adjusting as needed, and have well- developed skills in requirements management, programming, testing, and deployment. I have strong knowledge and experience with Blockchain (Stellar, Ethereum) and Cloud Computing
+(AWS/Azure/IBM/Google Cloud). I have passed the background check to work for the US Government as a contractor: Department of Transportation (US DOT), Consumer Product Safety Commission (US CPSC). I've been working in several blockchain-related fields, including: PropTech, DeFi/DEX and especially SmartContract Security/Auditing. EDUCATION, TRAINING, AND CERTIFICATIONS
+Educational qualification:
+• Master of Science, Computer Science, Maharishi University of Management, Fairfield, Iowa, USA, 2014-2017.
+• Bachelor of Science, Computer Engineering, University of Natural Science of HCM City, Ho Chi Minh City, Vietnam, 1996- 1999
+• Bachelor of Science, Business Administration, Open University of HCM City, Ho Chi Minh City, Vietnam, 1992- 1996
+Certification’s completed :
+• Container & Kubernetes Essentials with IBM Cloud
+• IBM Agile Explorer
+• IBM Blockchain Foundation Developer and IBM Blockchain Essentials ARTICLE AND PUBLICATION
+Stellar: Pre-signed and Pre-authorized Transaction, Part 1, 2, 3, http://www.medium.com Build a simple SSL-enabled host in 10 minutes, http://www.medium.com WORK EXPERIENCE
+Brilliant Infotech Inc, Edison, NJ Aug 2020 – Now
+Client: ETS, Educational Testing Services
+Position: Senior Software Developer
+Programming Skills: Ethereum, Solidity, Hardhat, Ethers, Openzeppelin, NodeJs, Golang, Python, Angular, AWS (EC2, S3, Cloudformation, API Gateway, Lambda), DynamoDB, MongoDB, Containerization(Docker, Kubernetes, Serverless), GitLab, Jenkins.
+About the Projects:
+Project 1. Modernize the Advance Placement application - APMOD APMOD is an integrated project which migrates the whole traditional system from IBM mainframe to AWS native cloud. APMOD combines data from variety of sources to generate unified reports for later use statistic and analytics. It improves the ability to support current and future business demands, provide improved agility. Detailed description of duties:
+• Develop UI components using Angular, Mocka, Jest.
+• Fix UI layer’s accessibility issues (WCAG) using some tools (ARC Toolkit, WAVE).
+• Apply Angular UI Performances optimization techniques.
+• Support DevOps team in running and debugging CI/CD using Jenkins and analyse the report.
+• Develop Backend components using Python, NodeJs, Lambda, API Gateway, Cognito.
+• Develop decoupling messages communication using SNS/SQS,
+• Develop Database layer using DynamoDB.
+• Apply Fuse UI framework to in Front end component.
+• Use Swagger to generate API documents.
+• Deploy BackEnd API on AWS using Docker, API Gateway, Cloudformation, Jenkins.
+• Discuss requirement with BSA team and managers.
+• Attend daily scrum meeting to present work though MS Teams.
+• Implement Site Reliability tasks: monitor, fix issues, optimize the performance of running web apps.
+Project 2. Blockchain-based Ticket Trust.
+Ticket Trust is a ticketing system where Sellers can list their tickets of variety of types with the original price and ask price. The Buyers can choose to buy ticket and get reward. The Seller can be penalized if the purchase price is much over the original price. People can rate Sellers and Buyers. EventToken is crypto to be traded.
+This system has its own payment. The members pay monthly or annual premium to maintain their benefits. The reward points can be converted to crypto tokens. Detailed description of duties:
+• Develop NFT marketplace using React, Express, Node, MongoDB.
+• Develop SmartContract components using Solidity, Ethers, Hardhat.
+• Utilize/inherit Openzeppelin SmartContract to secure the SmartContract.
+• Use Gnosis Safe to apply multisig.
+• Use ERC20 for token, ERC1155 for NFT, EIP-2535 Diamonds Multi-facets for organizing and upgrading a modular smart contract system.
+• Audit SmartContract components developed by other developers using Slither, Echina, Manticore, MythX.
+• Seller can list their unique tickets as NFT. Ticket pictures were stored in IPFS.
+• A ticket identifier component written in Python to verify if the NFT is a ticket before upload into IPFS.
+IBM, Research Triangle Park, NC Sep 2018 – Jun 2020 Client: IBM
+Position: Senior Software Developer
+Programming Skills: Ethereum, Solidity, Hardhat, Ethers, Openzeppelin, Stellar, Mongo, Node, React.
+Job Overview:
+• Participate in sprint planning and design alongside Scrum Team (including the level of effort estimates)
+• Work with product managers and SMEs to understand the retail industry and customer needs.
+• Code, develop unit tests and ensure implementation of software into production goes smoothly alongside business stakeholders, QA, and other developers.
+• Research and engage in emerging technologies.
+• Do what it takes to deliver quality code to advance business goals- using best judgment to find success.
+• The applications should be compliant with AWS, IBM Cloud and other IBM technologies.
+• Employment Start date: Sep 2018.
+• Location of the Project: IBM Campus, Building 500, 4205 S Miami Blvd, Durham, NC 27703
+About the Projects:
+Project 1. Token Factory
+This is an open source Wallet-like project which enables companies and other financial institutions to convert physical assets to digital assets. This is MVP (Minimum Viable Product) Blockchain- based which uses Stellar Platform, MongoDB and NodeJs in the Backend and ReactJs in the Frontend sides. Through digital wallet, end-user executes transactions with the high secured and comfortable manners. The project would be introduced to Veridium who wants to digitalize its Carbon credit into digital credit.
+The project would be deployed on AWS and IBM Cloud using Docker and Kubernetes. Detailed description of duties:
+• Capture requirement from Customer and Offering Managers.
+• Analyze and design using UML System Design and Deployment Diagrams.
+• Present design deliverables and executable versions to stakeholders though Zoom.
+• Configure HTTPS/SSL to apply to FrontEnd components.
+• Develop FrontEnd components using ReactJs/Redux and IBM Carbon Design components:
+! Add an Account with personal information and Wallet.
+! Market Offers: Display list, History, Match an Offer
+! Payment: Display history, Make a new payment, Update current payment.
+! Transactions: Display history, View detail
+! Assets: issue an Asset, Trust an Asset
+• Investigate the use of Stellar Bridge Server, Compliance Server, Federation Server to apply to project.
+• Communicate React FrondEnd to Backend via Rest API / Graphql using Apollo library.
+• Apply Near-Realtime to display wallet balance using Apollo Subscription.
+• Make direct query to MongoDB to test the output result using Postman.
+• Use Mocha as a Test Framework
+• Use Github for the Source code and Document control.
+• Use Zenhub for Agile Kanban project management.
+• Deploy FrontEnd on IBM Cloud.
+• Deploy Backend on AWS Cloud using EC2, ECS, Elastic Beanstalk, AWS CodePipeline.
+• Deploy internal transactions to IBM Hyperledger using ChainCode, Golang.
+• Attend required and suggested IBM Training courses to improve knowledge and skill.
+• Contribute knowledge in Finance and Big Data when applicable. Project 2. Dex Lab
+• Develop a DEX (Decentralized-Exchange) product
+• Dex Lab is a multi-platform cryptocurrency and financial trading platform with a vision of simplification for all types of traders. It enables traders to trade, swap and stake.
+• Develop SmartContract components using Solidity.
+• Apply Swap, Compound and Staking protocol.
+• Audit SmartContract components developed by other developers.
+• Architect Database and Backend components using Firebase/Node. Project 3. Custody Management.
+Custody Management is a Digital Asset Custody Management system. The system provides secure storage solutions which protect institutional investors’ wallet funds or holdings from loss. It includes Hot, Warm and Cold Wallets solutions.
+Detailed description of duties:
+• Develop basic activities: deposit, withdraw, rebalance, KYT-AML.
+• Apply MPC (Multi party computation) mechanisms to secure key and wallet.
+• Apply multi-sig approvals for digital signing and transaction approval.
+• Use Java Micronaut, Golang as primary programming languages.
+• Design-first approach in building APIs.
+• OpenAPI and Swagger Code generator.
+• Code Coverage are widely used: JaCoCo, GoCov.
+• Deploy the system on GCP and ICE
+• Heavilly based on microservices architecture: Docker, Kubernetes.
+• Trace/monitor system via DataDog.
+Project 4. Truck drive-in System (side project).
+A trucking company needs to count the trucks drive-in with cargo or not. This would help manager in statistic report.
+Detailed description of duties:
+• Collect truck images with and without cargo inside.
+• Use Google Teachable Machine to train input data.
+• Use Python, Flask to user trained data to predict input data captured from camera.
+• Truck images were stored in AWS S3 bucket.
+Yoonify, San Diego, California Feb 2019 –Oct 2019
+Client: Yoonify
+Position: Freelance, Senior Developer, Architect
+Programming Skills: NodeJs, Firebase, Ethereum, Solidity, Web3js, Truffle, Openzeppelin.
+• Architect a blockchain-based PropTech product which offers fractional ownership of the real estate assets on the market.
+• Develop SmartContract components using Solidity.
+• Audit SmartContract components developed by other developers.
+• Architect Database using Firebase.
+• Develop Backend components using Python, NodeJs. About the Projects:
+The 1st phase, Yoonify acquires luxury multi-family-properties then offers fractional ownership of the assets on its blockchain real-estate marketplace. This project serves individual and institutional investors who want to diversify their investment portfolios. The assets are highly curated stabilized income-producing that generate a preferred return for investors. The 2nd phase, Yoonify would allow other house owners to list their building/houses on this platform.
+GSG, Inc., San Francisco, CA Mar 2018 – Sep 2018
+Client: IBM Blockchain, San Francisco, CA
+Position: Senior Software Developer
+Programming Skills: NodeJs, ReactJS, Carbon-Design component, AWS (EC2, S3), Golang, Mongo, Postres, Blockchain, Stellar, Docker. Project. WorldWire
+• Use Stellar API to build a cross-border transferring system. This would be introduced to WellsFargo, Bank Of America.
+• Develop Backend side’s modules using Golang.
+• Apply Reactjs/Redux to in Front end component.
+• Use Swagger to generate API documents.
+• Implement Exchange Rate component.
+• Deploy applications on AWS Microservices using Docker, EC2 and ECS. DSFederal, Inc., Rockville, MD Dec 2016 – Mar 2018 Position: Senior Developer
+Programming Skills: ReactJS, React Native, Blockchain, Ethereum, SmartContract, Solidity, Web3.js, MS Azure (Azure Hosting, Azure SearchService).
+• Research Blockchain to prepare for company project.
+• Design a Blockchain-based application and introduce the idea.
+• Develop a Blockchain application utilized SmartContract.
+• Build and deploy a Crowd Insurance Fund (CIF) application using Solidity, Web3.js, ReactJs. In CIF, members pay premium (monthly or yearly) to maintain the membership status. When accident occurs, the member submits his/her document to be claimed. This is a process of review and it would be approved if it has at least 60% “Yes” answers from 10 voters.
+• Deploy P2P Lending application on NodeJs, MongoDB, Angular and Javascript/Bootstrap.
+• Research Ethereum/ICO to do crowd funding for project.
+• Apply CA Certicicate to secure the Web server, SSH server.
+• Work onsite in Bethesda, Maryland supporting US CPSC (US Consumer Product Safety Commission) projects.
+• Design the system using NodeJs, Microservices, Azure cloud and Angular framework.
+• Implement CI/CD (Continuous Integration/Continuous Deployment) using Visual Studio, TFS.
+• Develop framework and demo version for the team.
+• Work onsite in Washington DC supporting US DOT (Department Of Transportation) project.
+• Research some Cryptography algorithms (RSA, SHA) to encrypt/decrypt the sensitive client data (SSN, ITIN).
+• Implement DevOps task to run CI/CD using Azure and TFS.
+• Research Face ID using AI and Python.
+United Solutions LLC, Rockville, Maryland Sep 2015 – Dec 2016 Position: Senior Developer, Architect
+Programming Skills: NodeJs, MongoDB, Angular, Reactjs, Bootstrap. Project 1. Bubblee Project.
+• Build a collaboration product.
+• Present the application to the company clients.
+• Restructured the company’s key product from single object processing to mass volume processing oriented to enhance performance. In most modules, performance was increased by 50% to 200%.
+• Research and integrate Google Maps and Bing Maps including search utility to enhance user experience on location-based data.
+• Migrate the module for displaying contacts/organizations on Google Map from AngularJs to ReactJs.
+Project 2. BigPool - BigData data warehouse.
+• The customer was a supermarket who wanted to store and process its huge data from daily activities.
+• The current database was stored in MySql which took hours even several days to generate reports (revenue, cost, tax, policies...) for managers. Sometimes the system was failed/shutdown because of heavy data processing.
+• We applied BigData technology to separate operational data versus data warehouse: OLTP vs OLAP.
+• Data was extracted from MySql to store in HDFS using Apche Sqoop.
+• Apache Hive tables were built on top of HDFS where complicated query (group-by,
+• sum...) happened.
+• The consolidation result was pushed to another MySql to be processed by current
+• legacy system to generate reports.
+• Apache Tomcat was used to build utility website, Apache Kafka was used to do messaging communication between legacy system and data warehouse system. ZDAAS LLC, Sparrows Point, Maryland Feb 2015- Dec 2015 Position: Senior Developer, Architect
+Programming Skills: ASP.Net, Jsp, Angular, Bootstrap, Perl, MySql.
+• Successfully enhance loading time by replacing heavy server-side ASP.NET grid and DevExpress controls with client JavaScript libraries and Angular framework.
+• Migrate school management module from Web Form to MVC and Entity framework.
+• Successfully persuade managers to move source code control from Subversion to Github to utilize the individual commit feature and enable better staging/branching.
+• Successfully investigated and implemented to port Perl script and Jsp to pure JavaScript including generating Excel output files. Utilized JQuery together with ExcelBuilder library (excelbuilderjs.com) to implement the module. The solution was highly praised by managers and client stakeholders
+MAHARISHI UNIVERSITY OF MANAGEMENT, Fairfield, Iowa • 2014 Accredited university offering degree programs in arts, business, communications, and mathematical science.
+Programmer / Teaching Assistant
+• Led development of the “populate users” function for legacy Sakai system (open source e- learning management software). Supported professor in teaching lessons, tutoring students, grading exams, and evaluating students.
+Highlights:
+• Overcame persistent obstacles to deliver successful integration of new plug-ins into current Sakai system to better support system administration, using Java, JSP, JQuery, MySQL, Spring Tool Suite, Bootstrap, and Sitemesh.
+• Research to plug OpenID authentication library to user management module. HITEKCO, Ho Chi Minh City, Vietnam • 2014
+Software development company specializing in educational software. Business Analyst, Programmer Team Lead
+• Managed project developing administrative software for top Vietnam music school Soul Academy, using PHP, MySQL, and Phalcon framework. Applied UML to design class diagram.
+• Work with company partners in building educational product to serve for universities. Highlights:
+• Delivered highly effective product that resulted in a 30% increase in response time for school, along with streamlining paperwork process using my suggestion to separate READ and WRITE operations into independent components. This product is used by more than 12,000 students. It is capable to serve up to 2000 concurrent connections to register courses and be resistant to DDOS attacks.
+• Build a script to measure the system vulnerability against external attacks using JMeter.
+• Aligned software development with customer requirements, making adjustments as needed to accommodate changing customer’s needs. Some customers asked for more than they had proposed at the signing time. I worked with them to clearify the scope and, in most cases, I proved them that what they required already exist in the deliverables. DTP ONLINE, Ho Chi Minh City, Vietnam • 2012–2013
+Educational products development company.
+Business Analyst / Programmer
+Led full SDLC management, building product ideas, developing project plans, leveraging available resources, and supporting Board of Directors in technology development. Contributed to deployment of SAP B1, analyzing business requirements (accounting, sales, and inventory) and developing reports. Analyzed CRM business requirements and contributed to deployment of SalesForce CRM.
+Highlights:
+• Ensured all projects were aligned with client requirements.
+• Conducted targeted analyses to maximize business value of new IT deployments.
+• Analyze the technology trends to give final decision in choosing development platform for LMS-Learning Management System product: handheld devices friendly, touch interactive monitors instead of PC.
+• Lead the team of 10 programmers to implement e-Learning product. STB TECH, Ho Chi Minh City, Vietnam • 2010–2012
+Subsidiary of leading Vietnamese retail bank Sacambank Group. Business Analyst/Programmer: Built unified information system to manage all activities and integrated data for Vietnam National University (VNU-IS). Wrote system outline as part of architecture team, including review, progress, financial plan, system architecture, and component descriptions. Contributed to development of draft component to demonstrate communication between IS-Platform and business module (DMS). Managed preparation and presentation of Software Development Center plan, headhunting resources and supporting internal implementation projects.
+Highlights:
+• Manage a team of 5 members to build iOffice which is a collaboration software for enterprises based-on Sharepoint.
+• Research to apply and deployment CRM: MS CRM, vTiger CRM.
+• Consult Board of Directors and compose business plan to establish Software Development Center. I was assigned to be Vice Director of that center for 4 months. LUXOFT, Ho Chi Minh City, Vietnam / Houston, Texas • 2008–2010 Software outsourcing group for European and North American markets. Programmer: Designed and deployed several software and web application development projects, including HR management system, hotel management system, and tour management system. Orchestrated technical support for products. Contributed to major on-shore project
+(Houston, Texas) to develop tool for facilitating budgeting process for new well drilling and completion for client Petris.
+Highlights:
+• Developed a user-friendly and high interactive module to create operational workflows. It enables user to drag and drop basic shapes to create a simple or multi-branches diagrams. Then the approval workflows can be generated from these diagrams. This originated from my idea to reduce the cost to create a workflow from paper design (by editor) to implementation (by software developer).
+• Successfully restructured Petris’s legacy system, evolving from old technologies to new technical offerings. This implied the use of Linq-to-entity (to utilize the sort/search and query collection to replace many iteration) and Generics (to generalize base/parent classes and operations).
+NEW MILLENNIUM (TTNK) COMPANY, Ho Chi Minh City, Vietnam • 2003–2008 Software development company specializing in products for marketing/outsourcing for U.S. market.
+Programmer, Project Manager: Managed several internal development projects, including development of sales and inventory system, design of Baccarat game, development of image processing system for American art design companies, and build-out of report generation system.
+!
+TECHNICAL SKILLS
+• Key languages: Node/Javascript/Golang and Solidity.
+• Web App: HTML5, JavaScript, CSS3, Angular, ReactJs, Bootstrap, MaterialIO, D3.
+• Mobile App: Ionic, React Native, Google Play, Apple Store.
+• Databases: SQL Server, Oracle, MySQL, Postres, MongoDB, Cassandra, Graphql, DynamoDB.
+• Blockchain: Ethererum, Solidity, Stellar, Matic/Polygon, Web3Js, Truffle, Ethers, Hardhat, Remix, Openzeppelin.
+• Tools: Github, GitLab, Zenhub, Splunk, Hadoop, Spark, Kafka, Docker, Kubernetes,, Hyperledger (Composer, Fabric), Apollo, Jenkins.
+• Platforms: Windows, Linux, MS Azure, AWS Services, IBM Cloud.
+• Software Development Life Cycle (SDLC): RUP, Agile, Scrum, Application Lifecycle Management, Jira, Confluence.
+• Design Patterns: OO (Object Oriented), DDD (Domain Driven Design), SOA (Service Oriented Architecture), Microservices.
+Contact this candidate

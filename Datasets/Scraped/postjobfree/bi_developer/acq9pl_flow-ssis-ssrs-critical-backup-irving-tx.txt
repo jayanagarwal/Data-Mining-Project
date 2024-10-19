@@ -1,0 +1,179 @@
+PROFESSIONAL SUMMARY
+*+ years of experience in SQL Server with excellent knowledge in all phases of software development cycle involving Application Analysis, Design, Development, Integration, Testing, deployment, maintenance/support, Enhancements, Documentation and Configuration Management using Agile and Waterfall methodologies.
+Excellent experiences as Senior SQL/BI Developer in IT Industry in Aviation domain, Shipping domain and Banking domain (IT transformation) using Microsoft SQL Server 2008/2005 and Business Intelligence Suite.
+Extensive experience in Performance Tuning T-SQL queries using Execution plan.
+Excellent T-SQL Developer skills including Complex Stored Procedures, Indexes, Views, User Defined Functions, Triggers, Cursors, Transactions, Constraints, SQL Server Database design, developing Transact- SQL queries, Joins, subquery, CTE using SQL Servers to facilitate efficient data manipulation and data consistency.
+Well experienced in software unit testing, functional testing, integration testing and performance testing and highly efficient at fact-finding, root cause analysis and bug-fixing.
+Experience in BI Development of SSIS Package for integrating data from heterogeneous sources (Excel, CSV, flat file, Text Format Data) and Data conversion process.
+Extensive experience in creating SSIS Packages using Control flow task, Execute SQL task, Data Flow task, Script task, Container, Precedence Constraints and Expressions, Data Flow Transforms, Data Conversion, Derived Column, Conditional split, union all, Merge Join, Sort, Aggregate, Pivot Transformation, Fuzzy Lookup, Term Lookup to cleanse data.
+Excellent experience in configuration process for dynamic connection string, Deployment of package using Deployment Utility, Job scheduling for Execution of Package using SQL Agent.
+Experience in Logging and Error Handling by using Event Handler, data viewer and Error Redirection for SSIS package.
+Worked with SSAS 2012 Tabular Model for creating dimension, fact tables, Measures, Calculated columns, Calculated Measure, DAX formula, Hierarchies, Relationships, KPIs, Roles, Partitions, Perspectives, Processing and Deployment using Star and SnowFlakes Schema.
+Worked with MS Excel 2010/2013 Power Pivot and Power View for Reporting and Upload in SharePoint.
+Excellent experience in creating different types of Tabular, Matrix, Drill-Down, Drill Through, Cascaded parameterized and Sub reports using SSRS.
+Hands on experience in deployment and execution of SSRS reports in Report Manager.
+Involved in Huge data migrations, transfers using utilities like SSIS, Bulk Copy Program (BCP) and Bulk Insert, Import/Export Data from various data sources like Excel, XML and Flat file using Openrowset and OpenQuery.
+Database Administration – Backup, restore, security, Job Scheduling and Linked server.
+Used SQL Profiler to optimize queries and enhance the performance of database servers.
+Involved in Data Modeling for Reverse engineering using Erwin.
+Experience in preparing Basic flowchart, Work Flow diagram, Cross Function flowchart, Business flowchart, Organization chart using UML tool like MS Visio.
+Involved in Installation, Configuration and Updates of SQL Server.
+Support to the Onsite team on issues in Post and Pre go live.
+Intensively involved in supporting, maintaining and troubleshooting activities for software applications.
+Co-ordination experience in working with a larger team of 50 members for the Aviation project.
+Provided Internal training on Performance tuning in Resource Pool.
+Excellent analytical, advisory and problem solving skills, team player, self-motivated, quick learner and willing to learn new concepts and technologies with strong interpersonal and communication proficiency.
+
+Education: Bachelors of Engineering
+TECHNICAL SKILLS
+Databases : SQL Server 2012/2008/2005.
+ETL Tool : SSIS.
+OLAP : SSAS.
+Reporting Tool : MS Excel Power Pivot 2013/2010, Power View, SSRS, Crystal Reports.
+IDEs : MS Visual Studio 2010/2008/2005, BIDS, SSDT.
+Operating Systems : Windows 8/7/XP/2003/2000.
+Design Patterns & Methodology : Agile methodology with Scrum, Water-fall.
+Data Modelling Tool : MS Visio, Erwin.
+Version Control : Team Foundation Server (TFS), Visual SourceSafe (VSS).
+
+PROFESSIONAL EXPERIENCE
+
+Consumer Software Reporting Team Dec 2014 – June 2015
+MICROSOFT, Texas, USA
+MS SQL Server Developer\BI Developer (SSIS, SSAS, SSRS)
+
+The purpose of this project is to maintain the Consumer Software Report data from different channels. Channels include Chat, Phone, Video Chat, Revenue, and Incidents. CSR team (CSRT) deals with extracting data from different channels and process it with business logics and load the formatted data into Production server using SSIS and provide Excel reports for all vendors in SharePoint. SQL Jobs are scheduled for daily data pull. Maintain and monitor the scheduled packages and creation of reports based on the extracted data using Excel Power Pivot and Power View. Currently, Production server is being migrated from SQL 2008 R2 to SQL 2012.
+Responsibilities
+•Coordinated in the day to day activities of the team relating to DB objects.
+•Involved in understanding the business requirements & existing data model.
+•Developed packages to pull data from heterogeneous sources, transform the data according to the business requirement and load into the destination tables.
+•Worked with heterogeneous sources such as flat files and relational sources.
+•Created SSIS Packages using Control flow task, Execute SQL task, Data Flow task, Script task, Container, Precedence Constraints and Expressions, Data Profiling task, Data Flow Transforms, Data Conversion, Derived Column, Conditional split, union all, Merge Join, Sort, Aggregate, Pivot Transformation, Fuzzy Lookup, Term Lookup according to the business requirements.
+•Worked with Parameters and Expressions in SSIS package.
+•Worked with Data viewer in Data flow task for debugging package and Logging by enabling it to record the events and error message from the package.
+•Worked with SSAS 2012 Tabular Model for creating dimension, fact tables, Measures, Calculated columns, Calculated Measure, DAX formula, Hierarchies, Relationships, KPIs, Roles, Partitions, Perspectives, Processing and Deployment using Star and SnowFlakes Schema.
+•Created Stored Procedures for HTML Database Mail.
+•Worked with MS Excel 2010/2013 Power Pivot and Power View for Reporting and Upload in SharePoint.
+•Created the automated processes for the activities such as database backup processes and SSIS Packages run sequentially using SQL Server Agent job.
+•Involved in unit testing against the developed packages and reports.
+•Took complete ownership of DB on data comparison, troubleshooting and performance.
+•Analyzing and writing Stored Procedures, Functions, Index & Triggers in SQL.
+•Used Execution plan for Performance Tuning.
+•Prepared flowcharts using MS Visio for design documents and presentation.
+•Assisted team members with code reviews.
+•Responsible for the review of all deliverables.
+•Provided critical bug fixes for high priority problems.
+
+Environment: SSIS, SSAS (Tabular) and SQL server 2008 R2/2012, MS Excel Power Pivot, Power View, Job Scheduling.
+
+BNYM IT Transformation Aug 2012 – Nov 2014
+The Bank of New York Mellon, New York, USA
+MS SQL Server Developer\BI Developer (SSIS, SSRS)
+
+As a part of BNYM IT transformation project, the Desktop Product Management (DPM) team is developing a tool which helps in Desktop PC’s OS migration from Windows XP to Windows 7 and also MS Office and Outlook migration from 2007 to 2010 respectively. DPM deals with extracting large data from Altiris server and process it with logics based on the requirement and load the formatted data into development and production server using SSIS. The Package is scheduled for every weekend using SQL Job. Maintaining and monitoring the scheduled package and Creation of reports based on the extracted data using SSRS.
+Responsibilities
+•Coordinated in the day to day activities of the team relating to DB objects.
+•Involved in understanding the business requirements & existing data model.
+•Developed packages to pull data from heterogeneous sources, transform the data according to the business requirement and load into the destination tables.
+•Worked with heterogeneous sources such as flat files and relational sources.
+•Created SSIS Packages using Control flow task, Execute SQL task, Data Flow task, Container, Precedence Constraints and Expressions, Data Flow Transforms, Data Conversion, Derived Column, Conditional split, union all, Merge Join, Sort, Aggregate, Pivot Transformation, Fuzzy Lookup, Term Lookup according to the business requirements.
+•Worked with Parameters and Expressions in SSIS package.
+•Worked with Data viewer in Data flow task for debugging package and Logging by enabling it to record the events and error message from the package.
+•Worked with configuration process for dynamic connection string.
+•Worked with Deployment of package using Deployment Utility.
+•Worked with Job scheduling for Execution of Package in development and Production Environment.
+•Created different types of Tabular, Matrix, Drill-Down, Cascaded parameterized, Chart report and Sub reports in multiple formats using SSRS.
+•Used Parameter, Expression, Grouping, Total and Formatting in SSRS reports.
+•Created report in BIDS, and deployed & executed in Report Manager.
+•Worked with Excel 2010 Power Pivot for providing Ad-Hoc reporting.
+•Involved in unit testing against the developed packages and reports.
+•Took complete ownership of DB on data comparison, troubleshooting and performance.
+•Analyzing and writing Stored Procedures, Functions, Index & Triggers in SQL.
+•Used Execution plan for Performance Tuning.
+•Database backup and restoring it.
+•Prepared flowcharts using MS Visio for design documents and presentation.
+•Assisted team members with code reviews.
+•Responsible for the review of all deliverables.
+•Provided critical bug fixes for high priority problems.
+
+Environment: SSIS, SSRS and SQL server 2008, Excel Power Pivot, DB Backup, Restore, Security, Job Scheduling, MS Visio.
+
+FRR (Federal Regulatory Report) Sep 2011 – July 2012
+The Bank of New York Mellon, Chennai, India
+MS SQL Server Developer\BI Developer (SSIS, SSRS)
+
+The purpose of this project is to ensure that a Comprehensive Regulatory Reporting Solution is integrated into the new BNYM organizational structure post 7/1/2008 Bank Charter consolidation. Basel II is an international standard that banking regulators can use when creating regulations about how much capital banks need to put aside to guard against the types of financial and operational risks banks face while maintaining sufficient consistency so that this does not become a source of competitive inequality amongst internationally active banks.
+Responsibilities
+•Coordinated in the day to day activities of the team relating to DB objects.
+•Involved in understanding the business requirements, existing Packages and Reports.
+•Developed and modified packages to pull data from heterogeneous sources, transform the data according to the business requirement and load into the destination tables.
+•Created SSIS Packages using Control flow task, Execute SQL task, Data Flow task, Container, Precedence Constraints and Expressions, Data Flow Transforms, Data Conversion, Derived Column, Conditional split, union all, Merge Join, Sort, Aggregate, Pivot Transformation, Fuzzy Lookup, Term Lookup according to the business requirements
+•Worked with Data viewer in Data flow task for debugging package and Logging by enabling it to record the events and error message from the package.
+•Worked with configuration process for dynamic connection string.
+•Created different types of Tabular, Matrix, Drill-Down, Cascaded parameterized, Chart report and Sub reports in multiple formats using SSRS.
+•Used Parameter, Expression, Grouping, Total and Formatting in SSRS reports.
+•Created report in BIDS, and deployed & executed in Report Manager.
+•Involved in unit testing against the developed packages and reports.
+•Took complete ownership of DB on data comparison, synchronization, troubleshooting and performance.
+•Analyzing and writing Stored Procedures, Functions, Index & Triggers in SQL.
+•Used Execution plan for Performance Tuning.
+•Involved in preparing MS Visio design documents.
+•Experience in Unit testing and Integration testing.
+•Provided Internal training on Performance Tuning in Resource Pool.
+•Assisted team members with code reviews.
+•Responsible for the review of all deliverables.
+•Provided critical bug fixes for high priority problems.
+
+Environment: SSIS, SSRS and SQL server 2008, MS Visio.
+Inchcape Shipping Services May 2010 – Aug 2011
+Chennai, India
+MS SQL Server Developer
+
+Shipnet software Solution is a shipping domain based ERP solution which is developed in Centura application from 1991. Our Project deals with Migrating the complete ERP solution in .Net application. Worked with Development and Maintenances of the Procurement module which involves processing of Requisition through to Invoice. And maintenances of Modules like Line Management, Port Terminal Berth and ISS world of ports.
+Responsibilities
+•Involved and coordinated in the day to day activities of the team relating to DB objects.
+•Took complete ownership of DB on data comparison, synchronization, troubleshooting and performance.
+•Analyzed and Developed Complex Stored Procedures, Functions, Index, Triggers, Cursor, Table, Constraints, Joins, Subquery and CTE in SQL to facilitate efficient data manipulation and data consistency.
+•Used Execution plan for Performance Tuning.
+•Worked with Import & Export like BCP, Openrowset, OpenQuery and Linked server
+•Worked with XML, Job Scheduling and Database Mail.
+•Used Try and Catch to Handle error
+•Database backup and restoring it.
+•Prepared ERWIN design documents.
+•Prepared Unit and Integration test cases.
+•Experience in Unit testing and Integration testing.
+•Maintain proper documentation of DB release and circulation of documents to all stake holders.
+•Assisted team members with code reviews.
+•Responsible for the review of all deliverables.
+•Provided critical bug fixes for high priority problems.
+
+Environment: SQL server 2005, XML, Import and Export, Database Administration – Backup, Restore, Security, Job Scheduling, linked server and SQL Profiler.
+
+Ramco Systems Feb 2008 – April 2010
+Chennai, India
+MS SQL Server Developer
+Clients: Safe Air LTZ New Zealand, Republic Airways USA, Pinnacle Airlines USA, Caribbean Airlines USA
+
+Ramco Aviation is a kind of ERP specific to Aviation Industries. This has a Base Model and on the top Customer specific features will be Enhanced and Delivered. This System is developed with Ramco Virtual Works (RVW) and MS SQL Server 2005. RVW is a tool which has the Intelligence to build ASP pages with specific inputs. Business Logic will be implemented in Stored Procedures. Stored Procedures will be fired by RVW in the specific order given during design. Worked with Customer specific Enhancements and Product support of critical area of Asset maintenance.
+Responsibilities
+•Involved in preparing Design analysis documents.
+•Involved in Low/High level design.
+•Analyzed and Developed Complex Stored Procedures, Functions, Index, Triggers, Cursor, Table, Constraints, Joins, Subquery and CTE in SQL to facilitate efficient data manipulation and data consistency.
+•Worked with Nested Stored Procedures and User defined data types
+•Used SQL Profiler to optimize queries and enhance the performance of database servers.
+•Involved in preparing ERWIN design documents.
+•Involved in fixing issues in Crystal reports.
+•Prepared Unit and Integration test cases.
+•Experience in Unit testing and Integration testing.
+•Assisted team members with code reviews.
+•Provided critical bug fixes for high priority problems.
+
+Environment: SQL Server 2005, RVW, SQL Profiler, Crystal reports 11, ERWIN diagram.
+
+Accolades
+•Received excellent feedback from the BNYM IT transformation team for the successful implementation of SSIS Packages.
+•Was awarded the “Best Pair Programming award” for excellent delivery of a critical module which was aided by my testing in July 2009.
+•Was awarded the “Star of the Team” award for 3 times.
+
+References will be provided on Request
+Contact this candidate

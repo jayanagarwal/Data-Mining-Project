@@ -1,0 +1,167 @@
+cell 1-860-***-**** adcg34@r.postjobfree.com
+
+Insightful, results-driven IT professional with notable success directing a broad range of corporate software initiatives while participating in planning, analysis, and implementation of solutions in support of business objectives. Excel at providing comprehensive solution architecture, business analysis, and full lifecycle project management. Hand-on experience leading all stages of development efforts, including requirements definition, design, architecture, testing, and support. Outstanding project and development leader, able to coordinate and direct all phases of project-base efforts while managing, motivating, and guiding teams.
+Summary
+20+ years of experience in Database/System Design/Architecture.
+20+ years of backend and frontend Database Development.
+15+ Java/J2EE
+7+ Big Data (Spark, Hadoop, Hive)
+5+ AWS (Glue ETL, Athena, QuickSight, EMR, S3, Kinesis, Firehose, API Gateway, Lambda, Redshift, RDS)
+15+ years of Data warehouse and pipeline architect, Decision Support Systems and Business Intelligent.
+20+ years of team lead, senior architect, consulting and mentoring.
+Full life cycle development methodology – Agile, Waterfall, RUP, XP, Oracle AIM.
+Business-process analysis, re-engineering, migration, database structure design of the information systems like OLTP, DSS, OLAP, ETL, DW, BI, E-Business.
+Business expertise areas include Media, Advertisement, Telecommunications, Finances, Banking, Education, E-Business, Security, Healthcare, and Service Providers.
+Technical Proficiencies
+Languages:
+Scala, Python, SQL, R, Java, Shell Scripting and etc.
+Technologies:
+Big Data, Hadoop, Spark, AWS (EMR, S3, Kinesis, Firehose, Redshift, RDS), OLTP, OLAP, DSS, ETL, SOA, ERM, ERD, Spring, GWT, OA Framework
+Tools:
+Embarcadero ER/Studio, CA ERWin Data Modeler, Oracle Designer, QlikView Desktop/Server, RStudio, Oracle Discoverer, Oracle Warehouse Builder, Analytic Workspace Manager, Oracle Data Integrator, Oracle SQL*Loader, Oracle SQL Plus, Oracle Enterprise Manager, PL/SQL Developer, TOAD, Oracle SOA Suite, Oracle JDeveloper, Eclipse, IntelliJ Idea, Oracle Forms, Oracle Reports, Oracle APEX, EA Enterprise Architect, MS Project
+Databases:
+ORACLE v 11g/10g/9i/8i/8/7, Hadoop, Redshift, MySQL, MS SQL 2003, MS Access
+Operating Systems:
+Unix/Linux, MacOS, Windows
+Professional Experience
+Decibel Therapeutics
+Sr. Lead Data Engineer
+7/2019-Current
+Building data solution architectures and its assessment from performance, cost and maintenance standpoints.
+Key Achivements:
+Designed and implemented data lake architecture for single RNA raw data
+Created data pipeline for storing R Seurat and Python AnnData objects in flexible data structure (PySpark, EMR, Glue Data Catalog, S3, Luigi)
+Made DB and BI engines assessment for single RNA DataMart (Snowflake, Redshift/Spectrum, Athena, Aurora PostgreSQL serverless, QuickSight, QlikSense, QlikView, SageMaker/EMR Notebook)
+
+SessionM
+Lead Data Engineer
+10/2015-7/2019
+R&D for a data pipeline/warehouse that supports a core system with feedback analytics and machine learning reports.
+Key Achievements:
+Designed an architecture, developed a framework and migrated Hadoop based system to AWS (EMR Spark/Streaming/Hive/Zeppelin, S3, Kinesis/Firehose, Lambda, Redshift/RDS, ElasticSearch) with support of tenant data segregation which provides Customer Data Platform with real time update for Customer Single View of individual profile
+Doing R&D for POC to move above architecture to serverless AWS services (Glue ETL, Athena, QuickSight)
+Migrated Oozie based data workflow to Luigi
+Migrated Crontab based build/deployment/pipeline jobs to Jenkins
+Created POC for existing data pipeline/warehouse on Snowflake
+Deployed a multitenant Hadoop environment (CDH 5 HDFS/Hive/Oozie/YARN/Hue)
+Deployed QlikView BI cloud.
+Developed and handed over a bunch of BI QlikView dashboards for external/internal customers
+Technology stack mentoring for co-workers
+
+TritonDigital
+Director of Data, Research and Analytics
+4/2012-10/2015
+Constant research and products prototyping with technologies like SQL, NoSQL, in-memory and columnar databases (QlikView, Hadoop, Hive, R, RDBMSs). Data research for better targeting audience by categories and different combinations of the categories like age groups, gender, geo location, genre and etc., as well as prediction, finding patterns, trending. Finding third party data to apply in a business model to move company on higher level and to attract new customers
+Key Achievements:
+Integrated QlikView with Hadoop by migrating pre-aggregation ETL processes from QlikView to Hadoop cluster.
+Developed a prototype system for Pandora to better target their listeners in US. The system has been rolled out and adopted for other clients like Spotify, Apple iTunes and iHeartRadio.
+Has made a proof of concept to provide metrics for international markets and developed a flexible prototype system to adopt requirements for the international standards.
+Added an ETL process to audience targeting systems for delivery statistical data to advertisement agencies like MediaOcean and Strata.
+Developed a programmatic data feeder for Strata internal system.
+Adopted third party statistics to enrich our client’s data which gives them an opportunity to participate in radio advertisement.
+
+TritonDigital
+Principal Database Architect
+2/2010-4/2012
+Involved into many projects to re-design and optimize most of database structures that the company used to use for internal products. Another part of the responsibilities is to provide BI solutions for customers on QlikView platform.
+Key Achievements:
+Reverse re-engineered all data base structures for 6 sub-systems (> 100 tables). During one month, provided new solution for database structure with optimization for data consistency with performance growth about 30%. (Embarcadero ERStudio)
+Installed QlikView platform for all environments: dev, test, uat and production. (versions 9 and 10)
+Designed Andolytics BI dashboard on QlikView platform, which duplicates all existing functionality for main metrics web application (~16-18 million records daily). And on top this, it provides much more flexibility and gives interactive analysis for end user. Now it’s one point of truth for all existing sub-systems.
+Created internal dashboard for managers and financial department with KPI, Budgeting, Planning and YTD Execution information.
+Full automated a process for Monthly Ranker (~2 billion records monthly).
+Keep working on database design and optimization for rest of the sub-systems, as well as for brand new projects for internal and external clients.
+Ad-hoc reporting in Hadoop.
+
+Google, Mountain View, CA
+Database Consultant
+11/2009-01/2010
+Hired on contract basis to help with OLAP, DataWarehouse structure re-architecture for internal HR goals and ETL process optimization for whole global company resources.
+Key Achievements:
+Designed DW structure for Google worldwide branches accessibility with the same point of view while supporting local standards for each particular country (Oracle RDBM, OWB, SQL, PL/SQL),
+Totally re-developed a dashboard for payroll information which used to be used for years. Now it supports a global company information and works with 'like a flash' performance (QlikView),
+Keep working on other future extensions.
+
+Pitney Bowes, Waltham, MA
+Sr. Oracle Architect/Developer
+10/2007 – 11/2009
+Recruited to translate business requirements into database architecture to combine independent subsystems into flexible, easy maintainable and scalable architecture. Made the subsystems database logical and physical database design (Oracle Designer) and background (PL/SQL, SQL) development, to implement changes requests and support current UI (Oracle Forms 10g/9i, Reports 10g/9i), to develop Datawarehouse design (OWB 11g and AWM) and analytical ad-hoc report preparation (QlikView 8.5, Oracle Discoverer and SQL), improve ETL process design.
+Key Achievements:
+Re-design of database for application for USPS to collect information about movers across the whole country and prepare advertisements’ orders for the new/old addresses (by Oracle Designer and ERWin).
+Developed architecture of framework to provide access to database business data for different independent end user interface technologies (current UI based on Java Spring MVC framework).
+Designed database architecture and end user frontend for AARP mail and e-mail system.
+Developed internal ad management user interface to maintain actual and historical data for the movers guide application in USPS (Oracle Forms 10g, Reports 10g).
+Subsystems database logical and physical design (Oracle Designer) and background (PL/SQL, SQL) development of the DMV module throughout 6 states.
+Datawarehouse design (OWB 11g and AWM) and analytical ad-hoc report preparation
+Migrated reports from Oracle Discoverer into QlikView 8.5 and latter to QlikView 9.0. Developed a bunch of new ad-hoc reports and dashboards for QlikView 8.5 and 9 versions
+ETL process design and maintenance between in-house developed subsystems and companies partners such as USPS, Epsilon, AMS and etc.
+System requirements analysis and database structure design by using Oracle iDS (Designer), background PL/SQL development by using TOAD, version control (CVS + WinCVS).
+INPS, London, United Kingdom
+Oracle Designer/Developer
+09/2006 - 08/2007
+Promoted to analyze system requirements and database structure design by using Oracle iDS (Designer), background PL/SQL development by using PL/SQL Developer, version control (CVS + Eclipse), the projects processes tracing by using VersionOne.
+Key Achievements:
+Subsystems database design and background PL/SQL development for the National Health Service in the UK.
+Developed analytical user interface (Oracle APEX) with background development (PL/SQL, SQL and Oracle Text) of Quality and Outcomes Framework for NHS.
+Studied by myself Oracle SOA Suite (standalone) for potential implementation in on-going project, to transfer some integration and workflow functionality from the end user interface and middle tiers to BAM and BPEL.
+Datawarehause design (OWB 10g) and analytical ad-hoc report preparation (Oracle Discoverer and SQL).
+Oracle Corporation, Almaty, Kazakhstan
+Technical Consultant for Oracle Applications eBS 11i/R12
+05/2005 - 05/2006
+Invited to provide technical consultancy and support for Oracle Application eBS 11i. Prepare presentations and demonstrations of functionality. Develop customizations of application by using Oracle Tools (Forms, Reports, JDeveloper).
+Key Achievements:
+Gathered/Analyzed the clients’ requirements.
+Prepared the proposals, presentations and eBS functionality demonstrations.
+Experienced in EBS 11i for modules: Financials (GL, AP, AR, CM, FA), Treasury, Credit Management, Loans, Projects (Accounting, Costing, Billing).
+RealSoft, Almaty, Kazakhstan
+Team Leader of Applications Development Department
+08/2003 - 05/2005
+Key Achievements:
+Analyzed/Designed/Developed of the Mediation Device for billing system of estate telecommunication company Kazakhtelecom: Data source scanners, Data source universal parsing agent, Universal data format converter (ETL, OWB, OLAP), Data transfer dispatcher.
+Datawarehause design (OWB 10g) and analytical ad-hoc report preparation (Oracle Discoverer and SQL).
+Designed/Developed of the interface for data access through WEB to a billing system for ground operators.
+Oracle EBS 11i implementation (CRM, Sales) – Customer reports design and implementation (Oracle Report and AIM).
+Guard-Info, Taipei, Taiwan
+Project Manager/System Analyst
+12/2003 - 06/2004
+Key Achievements:
+Analyzed requirements, designed and developed a Security Operation Center System for local security company (Oracle Designer).
+Developed structure, concepts of an intrusions knowledge base and the following database modules: decision making, alarming response, IDS for internet/intranet security, Alarm & Ticket system, Vulnerability detection, Alert correlation analyze system, Intrusions and decisions making knowledge base.
+Developed a database structure under requirements IDMEF, IODEF, CAP. Involved into group on framing requirements to these standards.
+ALSI, Almaty, Kazakhstan
+Project manager/Lead Data Architect
+01/2002 - 08/2003
+Invited to analyze business needs, re-engineer non optimal business processes, developed and created database for the application, manage project, design ER model of database, designed business logic model of application.
+Key Achievements:
+Designed and developed analytical Document Flow for Ministry of Education and Science of Kazakhstan for statistic by using WEB technology.
+Designed and developed center of day-to-day management of police resources for Emergency Response in crime incidents (like 911) by using WEB technology.
+Analyzed business needs for the trade system.
+National Bank of Kyrgyzstan, Bishkek, Kyrgyzstan
+Team Leader, Analyst
+09/1999 - 01/2002
+Invited to analyze business needs for the subsystems, design ER model of databases, design business logic model of applications, re-engineer non optimal business processes, develop and create database for the application, develop comprehensive End-User Layer (Forms and Reports), gather requirements and create technical specifications.
+Key Achievements:
+Designed and developed a E-Trade securities system.
+Analyzed and designed central bank sub-systems: Loans, Deposits, External Debt, General Ledger, Real Time Gross Settlement.
+System Analyst/Database Designer of Internet portal for National Bank of Kyrgyzstan - www.nbkr.kg
+Provided training to end-users, including top-managers.
+Designed business logic model of application for administration.
+Developed Web portal and administration tools.
+KyrgyzTelecom, Bishkek, Kyrgyzstan
+System Analyst/Sr. Data/Process Architect
+11/1995 - 09/1999
+Key Achievements:
+Developed the Billing System.
+Developed an ER diagrams, FH models of Billing System, using Designer2000.
+Revised and adapted Data Model.
+Generated, tested and debugged forms and reports in Designer and Developer.
+Professional Affiliations
+Claudera Hadoop developer
+Certified QlikView Developer for UI/Scripting and server administration
+Oracle Designer: Data Model and Relational Database Design, Repository Management, Enterprise Modeling and Tools, System Modeling and Tools, Server Design and Generation, Reverse Engineering Database and Applications, Design and Generation of Web Server Applications
+SQL, SQL*Plus and PL/SQL using Procedure Builder
+Oracle Application Server: Develop Web-Based Applications with PL/SQL
+Education & Credentials
+Master’s Degree in Computer Science, 1990-1995
+Kyrgyz Technical University, Bishkek, Kyrgyzstan
+Contact this candidate

@@ -1,0 +1,161 @@
+Haswanth Motepalli
+ad53by@r.postjobfree.com
++1-512-***-****
+Sr. Azure Data Engineer
+
+PROFESSIONAL SUMMARY:
+10+ years of experienceas a skilled data professional proficient in Data Engineering, excelling in managing end-to-end ETL data pipelines and addressing intricate architectural and scalability challenges.
+Proficient in developing and implementing solutions utilizing Azure cloud services such as Azure Data Factory, Azure Data Lake storage, Azure Data Bricks, Azure Synapse, and Integration solutions.
+Skilled in seamlessly integrating on-premises and cloud-based data sources through Azure Data Factory, applying transformations, and efficiently loading data into Snowflake
+Extensive proficiency in utilizing various Azure cloud services both Iaasand Paas,including Blob storage account, Key Vault, Logic Apps, Function Apps, and more for building pipelines, analytics, storage, networking, security, grouping, resource management and other purposes.
+Experienced in Azure Kubernetes service to produce production-grade Kubernetes that allow enterprises to reliably deploy and run containerized workloads across private and public clouds.
+Extensive proficiency in developing Spark applications using PySpark and Python as programming languages.
+Good Knowledge on libraries like NumPy, Pandas, Matplotlib in Python.
+Firm experience in Hadoop architecture and various tools including HDFS, Yarn, MapReduce, Apache spark, Sqoop, Flume, Zookeeper, Hive, Pig, HBase, Kafka, Oozie, etc.,
+Proficient in ingesting and aggregating real-time streaming logs to HDFS by utilizing Kafka.
+Expertise in data warehousing techniques, encompassing data cleansing, handling Slowly Changing Dimensions, assigning surrogate keys, and implementing changing data capture (CDC) for Snowflake modeling.
+Good Knowledge in Spark Architecture including Spark Core, Spark SQL, Data Frames, Spark Streaming, Driver Node, Worker Node, Stages, Executors, and Tasks.
+Proficient in leveraging Spark Core and Spark SQL scripts using Scala to enhance data processing capabilities.
+Experience working on NoSQL Databases like HBase, Cassandra, and MongoDB.
+Experience in Data Modeling, Database Design, SQL Scripting, Development, and Implementation of Client-Server & Business Intelligence (SSIS, SSAS, SSRS) applications.
+Extensive experience with T-SQL in constructing Triggers, Tables, implementing stored Procedures, Functions, Views, User Profiles, Data Dictionaries and Data Integrity.
+Very good Experience in building Analytical dashboards using Excel, SSRS, Power BI, and Tableau.
+Good Experience in embedding Azure reports, dashboards, and visuals into an application and applying row-level security to datasets.
+Highly capable of establishing CI/CD frameworks for data pipelines with tools such as Jenkins, ensuring streamlined automation and deployment.
+Competent in utilizing Hive on Spark and Spark SQL to fulfill diverse data processing needs through the execution of Hive scripts.
+Collaborated with cross-functional teams to gather requirements, design data integration workflows, and implement scalable data solutions.
+Proficient in Agile and Waterfall methodologies, applying a flexible and adaptive approach to project management based on project needs.
+Experienced in utilizing JIRA for project reporting, task management, and ensuring efficient project execution within Agile methodologies.
+
+TECHNICAL SKILLS
+Big Data Technologies : MapReduce, Hive, Python, PySpark, Scala, Kafka, Spark streaming, Oozie,
+Sqoop, Zookeeper, Pig, Flume.
+Hadoop Distribution : Cloudera, Horton Works.
+Azure Services : Azure Data Factory, Azure Data Bricks, Logic Apps, Functional App,
+Azure DevOps, Azure Stream analytics.
+Languages : Java, SQL, PL/SQL, Python, HiveQL, Scala, T-SQL.
+Operating Systems : Windows (XP/7/8/10), UNIX, LINUX, UBUNTU, CENTOS.
+Build Automation tools : Ant, Maven.
+Version Control : GIT, GitHub.
+Visualization Tools : Power BI, Tableau, SSRS.
+IDE & Build Tools, Design : Eclipse, Visual Studio.
+Databases : MS SQL Server 2016/2014/2012, Azure SQL DB, Azure Synapse. MS Excel,
+MS Access, Oracle 11g/12c, Cosmos DB.
+WORK EXPERIENCE
+Client: Capital One, McLean, Virginia Jan 2023 - Present
+Role: Azure Data Engineer
+Created data pipelines in Azure Data Factory (ADF) using Linked Services, Datasets, and Pipelines to efficiently extract, transform, and load data from various sources including Azure SQL, Blob storage, Azure SQL Data Warehouse.
+Utilized Azure Data Factory's self-hosted integration runtime to migrate customer transaction data from on-premises to Azure cloud while ensuring security.
+Orchestrated end-to-end data pipelines using Azure Data Factory (ADF) to ingest raw data from various sources into the bronze layer of an Azure Data Lake Storage Gen2 (ADLS Gen2) Medallion Architecture.
+Utilized Azure Databricks for scalable, distributed data transformation logic, processing bronze layer raw data and generating cleaned silver layer datasets in Azure Data Lake Storage Gen2, handling null values, duplicates, and outliers.
+Developed PySpark ETL jobs to conform silver layer data to business requirements through joins, column combinations, and other transformations for banking analytics.
+Optimized PySpark job performance using caching, broadcast joins, partition tuning, and vectorization for efficient large-scale data processing within the Azure Data Lake Storage Gen2 Medallion Architecture.
+Constructed Gold layer of Medallion Architecture on Azure Synapse Analytics, comprising analytical data marts and cubes created by transforming and shaping silver layer data as per business rules for advanced analytics and reporting.
+Leveraged Azure data lake storage Gen2 for processing massive volumes of data.
+Utilized Delta Live Tables to process and analyze real-time banking transaction data streams, enabling instant insights for fraud detection and risk management.
+Skilled in utilizing Databricks Notebooks to develop and execute complex data transformation, and advanced analytics tasks.
+Developed PySpark ETL pipelines to extract, transform and load large volumes of customer transaction data into Azure Data Lake for business analytics.
+Contributed performance optimizations in PySpark jobs through caching, broadcast joins, partition tuning and vectorization.
+Followed PySpark coding best practices like separating business logic from Spark code and modularizing spark contexts.
+Integrated Azure Synapse Analytics with Power BI to build end-to-end advanced analytics solutions.
+Built reusable data transformation libraries implementing business logic like parsing, validating, masking and normalization patterns using both SQL and PySpark.
+Developed end-to-end data pipelines leveraging Azure Databricks for distributed data processing.
+Involved in developing the Logic Apps for email notifications and developing custom business transformations.
+Successfully integrated on-premises data from MySQL and Cassandra, along with cloud-based data from Blob storage and Azure SQL DB, utilizing Azure Data Factory.
+Established highly secure and compliant data lake on Azure using encryption, access controls and auditing to store sensitive banking transaction information.
+Provisioned scalable Azure Synapse analytics clusters for complex risk management and financial reporting workloads involving billions of transactions.
+Knowledge of data cataloging and metadata management using Azure Purview for efficient data discovery and documentation.
+Implemented and managed Azure Key Vault, ensuring secure storage and management of sensitive data such as encryption keys, certificates, and secrets, providing robust access control, auditing, and encryption capabilities.
+Efficiently managed data movement into SQL databases by orchestrating data pipelines in Data Factory.
+Enhanced Azure Functions code to efficiently extract, transform, and load data from various sources such as databases, APIs, and file systems.
+Employed data quality checks and cleansing techniques to guarantee data accuracy and integrity across the pipeline.
+Responsible for estimating the cluster size, monitoring, and troubleshooting the Spark data bricks cluster.
+In-depth, understanding of Apache spark job execution components like DAG, lineage graph, DAG Scheduler, Task scheduler, and Stagesand worked on relational, NoSQL databases including Postgre SQL, Cassandra and Mongo DB.
+Involved in creating the dashboards using Power BI and DAX functions.
+Utilized Azure DevOps for source control management, continuous integration, and deployment of data pipelines, ensuring efficient collaboration, version tracking, and automated deployment processes.
+Made use of JIRA for project reporting, creating subtasks for development, QA, and partner validation.
+Engaged in Agile scrum meetings, including daily stand-ups and globally coordinated PI Planning, to ensure effective project management and execution.
+Environment: Azure Databricks, Azure DataFactory, Azure Synapse Analytics, NoSQL, Spark, SQL, Python, My SQL, PySpark, DAX, data modeling, JIRA, Power BI, Azure data lake storage Gen2 (ADLS Gen 2), Azure DevOps, Logic Apps.
+
+Client: TJX Companies, Framingham, MA Oct 2020 – Dec 2022
+Role: Azure Data Engineer
+Worked on migrating SQL database to Azure data lake, Azure SQL Database, Data Bricks, and Azure SQL Data warehouse.
+Integrated diverse retail data sources, including SQL Server, Oracle, Azure Blob Storage, AWS S3, Kafka, and REST APIs, ensuring seamless data ingestion and transformation.
+Orchestrated data integration pipelines in ADF using various activities like Get Metadata, Lookup, For Each, Wait, Execute Pipeline, Set Variable, Filter, until, etc.
+Constructed and enhanced data models and schemas utilizing Snowflake technologies to facilitate efficient storage and retrieval of data for analytics and reporting objectives.
+Created ELT/ETL pipelines using Python and Snowflake to streamline data movement to and from the Snowflake data warehouse.
+Designed and optimized data models and schemas using Snowflake technologies to enhance data storage and retrieval for retail analytics and reporting.
+Established role-based access controls (RBAC) on sensitive retail data using Azure Active Directory, ensuring compliance with data privacy regulations.
+Implemented changing data capture (CDC) and slowly changing dimensions (SCD) within Snowflake to maintain historical data integrity and track retail transaction changes.
+Optimized Snowflake data warehousing performance through clustering keys, materialized views, stream/task automation, and query optimization best practices.
+Ensured data security and governance within Snowflake by implementing role-based access controls, row/column-level security policies, and dynamic data masking.
+Developed reusable SQL functions, procedures, and views in Snowflake to encapsulate common data transformation logic for retail data processing.
+Leveraged Snowflake's integration with Azure Data Factory to orchestrate ELT/ETL workflows for integrating retail sales, inventory, and customer data.
+Used PySpark Data Frames extensively for data ingestion, complex transformations, data quality checks and load into destination.
+Utilized Delta Lake's transactional capabilities to maintain data integrity and consistency in complex data pipelines for real-time retail data analysis.
+Applied Apache Spark, including Spark SQL and Streaming components, to facilitate real-time and batch processing of retail data.
+Developed PySpark ETL jobs on Azure Databricks to ingest, transform, and load large volumes of retail sales data into Azure Data Lake for analytics.
+Used Function App for grouping functions as a logical unit for better and easy management, deployment, scaling, and sharing of resources.
+Delivered production support and issue resolution for data pipelines, effectively identifying, and resolving performance bottlenecks, data quality concerns, and system failures.
+Leveraged Scala and Spark to process both schema-oriented and non-schema-oriented data.
+Experience in extracting, loading, and transforming large sets of structured, semi-structured, and unstructured data.
+Employed Spark streaming to partition streaming data into batches for input to the Spark engine, facilitating efficient batch processing.
+Employed Azure DevOps for comprehensive project management, including task tracking, sprint planning, and release management, enabling seamless coordination among cross-functional teams involved in developing data engineering solutions.
+Used Git as a version control tool to maintain the code repository.
+Environment: Azure Databricks, Azure Data Factory, Azure SQL, Batch Processing, Snowflake, Azure DevOps, Function App, Parquet, Kafka, Git, Python, PySpark, Power BI.
+
+Client: Blue Cross Blue Shield of Texas, Richardson, Texas Jun 2018 – Sep 2020
+Role: Data Engineer / Big Data Engineer
+Designed and set up an enterprise Data Lake to provide support for diverse use cases including analytics, processing, storage, and reporting of large, rapidly changing data.
+Created Python, PySpark, and Bash script logs for seamless data transformation and loading across on-premises and cloud platforms.
+In-depth knowledge of Hadoop architecture and various components such as HDFS, application manager, node master, resource manager name node, data node and map reduce concepts to handle large health insurance datasets.
+Developed Map Reduce framework that focused on filtering out erroneous and redundant records.
+Created a data pipeline utilizing Flume, Sqoop, Pig, and MapReduce to ingest and analyze customer behavioral data and purchase histories in HDFS.
+Developed Azure Data Factory pipelines to ingest large volumes of healthcare claims data from providers into Azure Data Lake Storage for analytics.
+Built healthcare analytics solutions on Azure Synapse Analytics to gain insights into cost drivers, utilization trends and identify high risk members.
+Established secure analytics environment on Azure compliant with HIPAA regulations by implementing role-based access controls, encryption, and data masking.
+Leveraged Spark SQL to load JSON data, generate schema RDDs, and load them into Hive tables for structured data processing.
+Written Map Reduce code that will take input as log files, parse them and structure them in tabular format to facilitate effective querying on the log data.
+Generated detailed Power BI reports and dashboards, incorporating drill-through and drill-down capabilities, to visualize health insurance metrics.
+Deployed schedulers on the Job Tracker to efficiently allocate cluster resources for user-defined MapReduce jobs.
+Utilized Hive to do transformations, event joins and some pre-aggregations before storing the data onto HDFS.
+Established Hive tables, incorporating static and dynamic partitions in both internal and external tables, to meet specific requirements and optimize efficiency.
+Designed Informatica PowerCenter workflows and mappings to ingest and transform data from multiple source systems into the enterprise data warehouse.
+Implemented data quality checks and cleansing techniques to ensure accuracy and integrity across the data pipeline.
+Implemented workflows using Apache Oozie framework to automate complex data processing tasks.
+Engaged in Agile scrum meetings, including daily stand-ups and globally coordinated PI Planning, to ensure effective project management and execution.
+Employed Spark streaming to partition streaming data into batches for input to the Spark engine, facilitating real-time batch processing.
+Environment: Sqoop, flume, JSON, Power BI, RDD, DTS, Hadoop, HDFS, Job Tracker, MapReduce, Hive, Oozie, Zookeeper, Pig, Shell Scripting, MySQL.
+
+Client: Berkshire Hathaway, Irving, Texas Aug 2016 – May 2018
+Role: Data warehouse Developer
+Proficient in developing ETL packages using SSIS to extract data from heterogeneous databases, then performing transformations and loading them into the data mart.
+Great experience in deploying SSIS packages to production and utilizing various package configurations to export properties, ensuring environment independence.
+Strong command of SQL Server Management Studio (SSMS) for efficient database management, query execution, performance optimization, and troubleshooting.
+Experience in developing SSAS cubes, aggregations, KPIs, measures, partitioning cubes, designing data mining models and deploying and processing SSAS objects.
+Developed detailed SSRS reports, including parameterized, drill-down, and drill-through reports, to provide actionable insights into insurance data.
+Implemented data quality checks and validation rules to ensure the accuracy and reliability of insurance data in the warehouse.
+Wrote SQL queries by using various stored procedures, merges, view, and various window functions like rank, dense_rank etc., for better performance.
+Integrated data from various sources, including SQL Server, Oracle, and flat files, to create a unified data warehouse for insurance analytics.
+Implemented Python-based scheduling and monitoring mechanisms for ETL job orchestration, enabling seamless automation of the data pipelines.
+Implemented slowly changing dimension (SCD) logic within Informatica to maintain Type 1 and Type 2 history of master data changes like customer profiles.
+Used Data warehouse for developing Data Mart for feeding downstream reports, and developed of User Access Tool using which users can create ad-hoc reports and run queries to analyze data in the proposed cube.
+Created stored procedures and triggers to ensure standardized data entry in the database.
+Managed data warehouse projects using Agile methodologies, ensuring timely delivery and alignment with business requirements.
+Knowledgeable in implementing advanced analytics using statistical functions and forecasting tools in Tableau.
+Proficient in developing geographic visualizations and mapping features for spatial analysis using Tableau.
+Environment: MS SQL Server 2014, SSIS, SSMS, SSAS, SSRS, Window functions, Data Marts, stored procedures, triggers, Tableau, ETL packages, Visual studio 2010.
+
+Client: Higate Info Systems Pvt Ltd, Hyderabad, India Nov 2013 – Jun 2016
+Data Warehouse Developer
+Wrote SQL queries, including DDL, DML, and diverse database objects (indexes, triggers, CTEs, views, stored procedures, functions, and packages) for data manipulation and retrieval.
+Proficient in monitoring and optimizing SQL Server performance tuning.
+Skilled in developing Dimensional Data Modeling to design Data Marts, identify Facts and Dimensions, and develop fact tables, dimension tables, incorporating Slowly Changing Dimensions (SCD).
+Designed InformaticaPowerCenter workflows and mappings to ingest and transform data from multiple source systems into enterprise data warehouse.
+Developed reusable Informatica workflows, mapplets, transformations and custom SQL functions to standardize ETL across different business units.
+Proficient in handling errors and events, employing techniques such as precedence constraints, breakpoints,checkpoints, and logging.
+Good understanding of Data Mart features, structure, attributes, hierarchies, as well as Star and Snowflake schemas.
+Proficient in generating Ad hoc reports and reports with complex formulas, utilizing database queries for Business Intelligence purposes.
+Implemented logical and physical modeling using ERWIN data modeler.
+Environment: MS SQL Server 2012, KPIs, Slowly Changing Dimensions (SCD), triggers, indexes, Facts, Dimensions, Star, Snowflake, Share point, MS Access, Business Intelligence (BI), Git, Informatica.
+Contact this candidate

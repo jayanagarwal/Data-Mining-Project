@@ -1,0 +1,78 @@
+Trevor Lorimer
+*** ********* **, *********, ** **688
+925-***-****
+adsdr6@r.postjobfree.com
+
+EMPLOYMENT HISTORY
+WANdisco, San Ramon
+Engineering Manager Mar 2020 – Nov 2021
+Responsible for driving the integration of the LiveData Migrator as a first-party application within the Azure marketplace. This involved managing a team of 6 engineers and close collaboration with Microsoft stakeholders to allow an extension of the RPaaS (Resource Provider as a Service) within their ARM (Azure Resource Management) framework.
+
+Mentoring/growth of our SCRUM team using Agile methodology and planning the execution of features involving WANdisco suite of products. These solutions solve single point-of-failure problems across a distributed environment, achieved by leveraging our patented Distributed Consensus Engine (DConE). My additional role as ScrumMaster required distilling stories into recognized work items within JIRA and driving the ceremonies with a goal of continuous improvement.
+
+Sr. Software Engineer Jan 2015 – Feb 2020
+Fusion Resource Provider - Required working partnership with Microsoft to integrate the WANdisco products Fusion and Live-Data Migrator into their Azure marketplace. We build on the Microsoft RPaaS platform which allows our WANdisco products to present and behave as an Azure resource.
+Technologies Used: Java, Python, Spring Boot, REST, Azure, Docker, Jenkins, JIRA, Agile
+
+Fusion Core - Worked on the core product implemented using the DConE co-ordination engine based on the PAXOS algorithm, we use this to solve consensus issues particularly within a distributed HDFS system. Fusion enables data to be replicated between distributed Hadoop file systems, which can reside on-prem or in the cloud. Notable features I worked on included a Consistency Check which scans the source and destination file systems and detects the inconsistent files, and the multi-threaded Repair Functionality that resolves the inconsistencies. Code was built and made available using Jenkins from Git repos.
+Technologies Used: Java, Hadoop, Jenkins, JIRA, Jenkins, Kafka/Storm
+
+Fusion Backup - Implemented a plugin to Fusion Core which backs up data continuously when update events are received. The solution is filesystem agnostic and was designed to backup data on HDFS and AWS, the solution also enabled periodic snapshot backups for data on HDFS using CRON libraries.
+Technologies Used: Java, AWS, HDFS, Jenkins, JIRA, Jenkins
+
+WANdisco, Belfast Jan 2013 – Dec 2014
+Sr. Software Engineer
+NsNN integration - Integrated WANdisco data replication technology within Hadoop management systems by creating an installer that deployed the NsNN software to an active Hadoop cluster. I contributing code to the Hadoop open-source community, and helped refine the SPARK and SHARK open-source technologies.
+Technologies Used: Java, Groovy, Jenkins
+
+Hippo - Created a front-end representation of the current Hadoop administration screens and required updating open-source REST and JMX calls, using a Tomcat web server.
+Technologies Used: Grails, JQuery, Java, Jenkins, Tomcat
+
+IBM, Belfast Feb 2010 – Dec 2012
+Sr. Software Engineer
+Worked within the Tivoli family of products and incorporated TDD within the process:
+
+Early Program Management - Managed the beta testing of new software releases of IBM Tivoli Composite Application Manager (ITCAM) which provided stakeholders early access to development plans, designs, and code.
+
+IBM Integration - Worked with the team to integrate DB2 and WebSphere into ITNCM, this was performed in JAVA with heavy reliance on JUnit testing.
+
+Service Management Interface - POC for IBM's Cloud concept to facilitate dynamic network reconfiguration, implemented through RESTful web services with JAVA and Spring MVC.
+
+SNMP Enablement - Implemented a new genre of driver for a single ITNCM customer. Required SNMP protocol and MIB knowledge, implemented in JAVA.
+
+Intelliden, Belfast May 2006 – Jan 2010
+Software Engineer
+Joined when the company was a recent start-up and helped shape the product into market leading software, which was acquired by IBM. Worked on the core Java based R-Series product which managed network devices by keeping them in compliance through policy based management.
+
+R-Series Upgrade - Responsible for facilitating the method of transforming customer data from LDAP to Oracle, implemented as command-line Java on Linux. Also implemented a new role based security feature with AD authentication with a front-end using JavaScript and JSP.
+
+Resource Manager - Enabled the user to specify a sub-set of network resource information to be delivered using outbound XML events via JMS. Events where XML representations of the SID UML model, also added network QoS into the product using Java and Castor.
+
+Allstate NI, Belfast July 2001 – April 2006
+Software Developer
+CTS .Net Projects – Developed and supported applications within the CTS department written in C#/ASP.net with SQL server or DB2 backend. All applications were developed using a CTS architecture designed by Microsoft.
+
+Comparative Negligence – 3-tier web application tool that helps to resolve claim settlements developed using ASP, XML, Java, COMTI and COBOL with DB2 databases. I had expertise in the business rules and data access sections.
+
+Microsoft, Dublin July 99 – Aug 2000
+Software Test Engineer
+As an intern I worked in the Visual Basic test team and developed automated test cases using VB6.
+Perform the investigation of new technologies/techniques (at the time VB.NET).
+
+EDUCATION
+University of Ulster, Jordanstown Sept 2009 – June 2012
+MSc Computing (Communications) - Distinction
+·Thesis - Autonomic Management of Cloud Neighborhoods through Pulse Monitoring.
+·Autonomic Computing, OO Databases, Semantic Web, Investigation into Agile Software Development (SCRUM, XP).
+
+University of Ulster, Coleraine Oct 1996 – June 2001
+BSc (Hons) Computing Science with Diploma in Industrial Studies - 1st Class
+
+HND Computing June 1998
+
+CERTIFICATIONS
+SCRUM Alliance - Certified ScrumMaster® - Mar 2020
+
+PUBLICATIONS
+Lorimer, T., Sterritt, R., "Autonomic Management of Cloud Neighborhoods through Pulse Monitoring," Utility and Cloud Computing (UCC), 2012 IEEE Fifth International Conference on, vol., no., pp.295,302, 5-8 Nov. 2012
+Contact this candidate

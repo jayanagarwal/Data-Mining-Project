@@ -1,0 +1,164 @@
+Gopala Krishna Dhadi
+Sr. Cloud DevOps Engineer
+ad744r@r.postjobfree.com +1-551-***-**** www.linkedin.com/in/gopalakrishna-d/
+PROFILE SUMMARY
+
+Experienced in Multi-Cloud Architect with 9 years in designing and implementing scalable cloud solutions across Azure, AWS, and GCP. Specializes in DevOps, Python, Docker/Kubernetes containerization, Helm charts and CI/CD pipeline orchestration. Strong focus on optimizing infrastructure, leading cloud migration projects, and expertise in security, identity management, and database optimization. Skilled in automating infrastructure with Terraform, ARM templates, and CloudFormation. Holds relevant certifications and excels in AWS, Azure, GCP, DevOps, Python, Data Engineering, collaboration, Helm charts and CI/CD tools management, including Ansible Playbooks.
+
+PROFESSIONAL EXPERIENCE
+
+Senior Cloud DevOps Engineer 06/2023-01/2024 (INDIA), 02/2024–Present (USA) ITON.inc (Cisco)
+Assisted developers with branching, labeling/naming conventions in Git, and actively participated in the configuration of central and distributed repositories.
+Spearheaded the deployment of private AKS clusters using AKS CLI, ensuring the secure and efficient hosting environment for applications.
+Implemented Azure Search Service and seamlessly connected Cosmos DB collections, optimizing search functionalities within the application.
+Developed and maintained automated build and release pipelines for .NET applications using Azure DevOps.
+Configured and managed Azure Boards for project planning, tracking, and collaboration on .NET projects.
+Implemented comprehensive automated testing frameworks using C# and .NET, improving code quality and reducing bugs in production by 25%.
+Worked on creating various python scripts from scratch for automation and added multiple features into the pipeline using the same.
+Established robust security measures by configuring Ingress and Ingress Load Balancers, restricting network access exclusively to the designated VPN IP CIDR range.
+Evaluated spectrum virtualize for public cloud (SVPC) Host migration, kernel module installation, and Python code conversion, including the development of shell scripts for network management.
+Designed and developed custom Helm charts for deploying and managing Kubernetes applications.
+Created reusable Helm templates to standardize Kubernetes deployments across multiple environments (e.g., dev, test, production).
+Collaborated on data architecture solutions using Azure Synapse, analyzing business requirements, and selecting appropriate components for data pipelines, flows, and storage structures.
+Orchestrated the migration of on-premises cloud storage to Windows Azure using Azure Site Recovery and Azure backups, ensuring a seamless transition.
+Integrated CICD pipeline on Azure with Ansible, retrieving builds from Jenkins’s repository, and automating the build and deployment process.
+Developed and maintained Infrastructure as Code templates using Terraform, ensuring consistent and automated provisioning of resources.
+Led the development and maintenance of Continuous Integration (CI) using Azure DevOps (VSTS) across multiple environments, enabling an agile development process that is automated and repeatable. Ensured safe deployment of code in Azure Kubernetes Services (AKS) using VSTS and YAML scripting.
+Facilitated the migration of on-premises cloud storage to Windows Azure using Azure Site Recovery and Azure backups, and deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure V Nets and subnets.
+Environments used: SRE, Azure DevOps, Azure, Virtual Machine scale set, Azure Storage, Azure Compute, AKS, Azure DevOps, Azure Entra, Cloud Storage, Azure Vnat, Docker, Kubernetes, Helm charts, Jenkins, Terraform.
+Azure DevOps Engineer 11/2022 – 05/2023 Axilwits (Cisco Ltd)
+Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, and Security policies & configured BGP routes to enable ExpressRoute and site-to-site VPN connections between on-premises data centers & Azure cloud.
+Led the implementation of Azure Active Directory for single sign-on and Authentication for Web Applications. Configured Azure Role-based Access Control (RBAC) for team duties segregation.
+Developed and maintained Infrastructure as Code templates using Terraform, ensuring consistent and automated provisioning of resources.
+Developed and automated build and release pipelines for C# applications using Azure DevOps.
+Implemented and optimized CI/CD pipelines using Azure DevOps and GitHub actions, resulting in a significant reduction in deployment time.
+Configured Azure Boards for project tracking, ensuring clear visibility of progress and issues related to C# development.
+Integrated Azure DevOps with third-party tools and services to enhance functionality and streamline processes for C# projects.
+Automated the publishing of Helm charts to internal and external repositories using CI/CD pipelines.
+Leveraged Helm charts to simplify the deployment of multi-tier applications with multiple dependencies.
+Designed and implemented highly available and fault-tolerant architectures on Azure, leveraging services like Azure Load Balancer and Traffic Manager.
+Demonstrated expertise in containerization technologies such as Docker and Kubernetes, enabling efficient deployment and management of applications.
+Utilized Splunk for monitoring logs, configured Splunk for real-time logging and analytics for Continuous Delivery (CD) pipelines and applications. Implemented monitoring and alerting solutions using Prometheus and Grafana.
+Created inventory in Ansible for automating CD & developed Ansible playbooks and Roles using YAML scripting.
+Worked on creation of Docker images on top of microservices and deployed on Azure Kubernetes services.
+Experience in Azure infrastructure management (Azure Web Roles, Worker Roles, SQL Azure, Azure Storage, Azure AD Licenses) using Terraform and managed Azure Infrastructure through Blueprints and Landing Zone.
+Experienced in utilizing Azure Stack (Compute, Web &Mobile, Blobs, ADF, Resource Groups, Azure Data Lake, Azure Data Factory, Azure SQL, App Services, and CosmosDB) and services for configuring and deploying Azure Automation Scripts for multiple applications.
+Environments used: Azure, Virtual Machines, Azure Active Directory, App Services, VNET, Subnet, Private Endpoints, Log Analytics Workspaces, Storage Accounts, Gitlab, Ansible Tower, Azure Monitor, Dynatrace, AKS, Helm charts, Load Balancers, Maven, Jenkins, RHEL7/8, Windows and Linux environment.
+
+Sr DevOps Engineer 11/2021 – 10/2022
+Xoriant (Veritas Ltd)
+
+Evaluated spectrum virtualize for public cloud (SVPC) Host migration, kernel module installation, and Python code conversion, including the development of shell scripts for network management.
+Created and configured AWS EC2 instances using preconfigured templates such as AMI, RHEL, Centos, Ubuntu as well as used corporate-based VM images which include complete packages to run build and test in those EC2 Instances.
+Extensively used Elastic Load Balancing mechanism with Auto Scaling feature to scale the capacity of EC2 Instances across multiple availability zones.
+Integrated Jenkins with various DevOps tools such as Nexus, SonarQube, and Puppet, utilizing Kubernetes and Docker for the runtime environment in a CI/CD system.
+Orchestrated CI/CD processes using CloudFormation, terraform templates, and containerized infrastructure using Docker setup in Vagrant, AWS, and Amazon VPCs.
+Configured Helm charts to integrate with existing infrastructure components, such as databases, message queues, and external services.
+Integrated Helm with CI/CD pipelines (e.g., Jenkins, Azure DevOps, GitLab CI) to automate Kubernetes deployments, including chart testing, packaging, and deployment.
+Implemented and maintained CI/CD pipelines for .NET applications using Azure DevOps, Jenkins, or GitLab CI.
+Created Puppet automation for installing and configuring various components like Kafka, Zookeeper, MySQL, Logstash, and HTTP collectors.
+Collaborated with development teams to convert manual Kubernetes deployments into Helm charts, ensuring alignment with DevOps practices.
+Used Helm history and Helm rollback commands to manage application rollbacks during deployment failures.
+Leveraged Ansible for configuration management, creating playbooks and roles to manage configurations of the nodes in the server.
+Used Ansible server to manage and configure nodes. Managed Ansible Playbooks with Ansible roles. Used file module in Ansible playbook to copy and remove files on remote systems.
+Created Apache Directory Server for the local network and integrated RHEL instances with Active Directory in AWS VPC, with logs collected and analyzed using ELK Stack.
+Environments used: AWS, CloudFormation, Azure, Red Hat, Centos8, Linux, Azure ARM Templet, AWS CloudWatch, AWS S3, Docker, Kubernetes, Python3, AWS EBS, VPC, Network Namespace, Kernel Modules, Shell Scripting, CentOS9.
+
+Cloud Engineer 01/2020 – 08/2021
+Mphasis (Charles Shawb)
+
+Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, and Security policies & configured BGP routes to enable ExpressRoute and site-to-site VPN connections between on-premises data centers & Azure cloud.
+Experience in Azure infrastructure management (Azure Web Roles, Worker Roles, SQL Azure, Azure Storage, Azure AD Licenses) using Terraform and managed Azure Infrastructure through Blueprints and Landing Zone.
+Experienced in utilizing Azure Stack (Compute, Web &Mobile, Blobs, ADF, Resource Groups, Azure Data Lake, Azure Data Factory, Azure SQL, App Services, and CosmosDB) and services for configuring and deploying Azure Automation Scripts for multiple applications.
+Led the implementation of Azure Active Directory for single sign-on and Authentication for Web Applications. Configured Azure Role-based Access Control (RBAC) for team duties segregation.
+Developed and maintained Infrastructure as Code templates using Terraform, ensuring consistent and automated provisioning of resources.
+Developed and automated build and release pipelines for C# applications using Azure DevOps.
+Implemented and optimized CI/CD pipelines using Azure DevOps and GitHub actions, resulting in a significant reduction in deployment time.
+Configured Azure Boards for project tracking, ensuring clear visibility of progress and issues related to C# development.
+Integrated Helm with CI/CD pipelines (e.g., Jenkins, Azure DevOps, GitLab CI) to automate Kubernetes deployments, including chart testing, packaging, and deployment.
+Optimized Helm chart configurations to improve resource utilization, application performance, and scalability.
+Integrated Azure DevOps with third-party tools and services to enhance functionality and streamline processes for C# projects.
+Containerized .NET applications using Docker and orchestrated deployments using Kubernetes or Docker Swarm.
+Designed and implemented highly available and fault-tolerant architectures on Azure, leveraging services like Azure Load Balancer and Traffic Manager.
+Demonstrated expertise in containerization technologies such as Docker and Kubernetes, enabling efficient deployment and management of applications.
+Utilized Splunk for monitoring logs, configured Splunk for real-time logging and analytics for Continuous Delivery (CD) pipelines and applications. Implemented monitoring and alerting solutions using Prometheus and Grafana.
+Created inventory in Ansible for automating CD & developed Ansible playbooks and Roles using YAML scripting.
+Worked on creation of Docker images on top of microservices and deployed on Azure Kubernetes services.
+Environments used: Azure, AAD, Azure DevOps, Terraform, AKS, Helm charts, Networking, Docker, Ansible, Prometheus, Grafana, Bash, Python, Linux, Jira, Bitbucket, Apache Tomcat, ARM, Helm charts, Virtualization, CRON.
+Cloud Engineer 10/2018 – 01/2020
+UST Global (Intel)
+Led architecture transformation of SDF application for high availability and disaster recovery, transitioning from flat-file to multi-region database structure.
+Developed, documented, and executed comprehensive CI/CD automation processes for SDF, encompassing AWS Code-pipeline, CNF deployments, Terraform (IaC), and end-to-end automation of cloud- based network functions.
+Managed team and provided technical support, implementing change management for data refresh in production application.
+Migrated entire company workload to AWS cloud leveraging EC2 and S3 for efficient scaling, increasing efficiency by 40%.
+Managed the end-to-end lifecycle of data, from ingestion to storage to analytics, ensuring data integrity and reliability.
+Adhered to Helm best practices, including using semantic versioning, chart linting, and maintaining well-documented values.yaml files.
+Worked on integrating AWSDynamoDB using AWSLambda to store the values the items and backup the DynamoDB streams.
+Configured and deployed several hypervisors and VMs running OpenStack for DevOps, testing and production environments.
+Developing and refining ETL workflows with AWS Glue to seamlessly ingest, transform, and load diverse data sources into the data lake, maintaining data quality standards.
+Harnessing Amazon Athena for agile querying and analysis of data stored in Amazon S3, significantly enhancing query performance, and reducing latency.
+Developed end-to-end data analytics framework utilizing Amazon Redshift, Glue and Lambda enabling businesses to obtain KPIs faster with reduced costs.
+As a part of DevOps/SRE team we collected, processed, and analyzed diagnostics and usage data from Confidential device across the world.
+Automated UI testing for .NET applications using Selenium or Cypress.
+Optimized data storage and query performance developed ETL processes, and automated time series forecasting tasks using AWS Lambda and Step Functions.
+Optimized .NET application performance through load balancing, caching strategies, and asynchronous processing.
+Spearheading the creation of a scalable data lake architecture using AWS Lake Formation, unifying structured and unstructured data for streamlined analytics.
+Environments used: Python, SQL, AWS, AWS CodePipeline, AWS Lambda, AWS CloudFormation, AWS Step Functions,S3, Terraform, Docker, Kubernetes, GitHub, Sagemaker, Helm charts, GCP, Microsoft AD.
+Linux Administrator 04/2015 – 09/2018
+Delloite INC
+
+Spearheaded the design and implementation of crucial functions and the integration of new libraries, significantly enhancing the testing framework's capabilities and overall effectiveness.
+Installation, Configuration & Upgrade of Linux, Solaris and HP-UX Operating System.
+Creating depot for patches and installing packages using depot in HP-UX and Build RPM using RPM Build in Linux.
+Excellent knowledge in Installation, Configuration and file system and RAID volume management through VXVM and Solaris Volume Manager (SVM) in Solaris and LVM in Linux and HP-UX.
+Excellent knowledge of Linux/Unix kernel tuning and building customized kernels.
+Experience in installing, configuring, and maintaining WebLogic Application Server and WebSphere Server with java Application tools on Linux and UNIX servers’ environments.
+Created Zettabyte file system (ZFS) in Solaris. Created pools, snapshots, and clones.
+Worked on maintaining DNS & NTP, MySQL database servers.
+Installed and configured system network monitoring tool using Nagios and troubleshooted virtual machine issues.
+Troubleshooting Network, File system memory, CPU, Swap Space and issues, TCP/IP, NFS, DNS, SMTP in Linux, and Solaris servers.
+Compiled, Built & Installed PostgreSQL database and wrote a shell script for a startup in SuSE Enterprise Linux 10sp1 super micro dedicated server 6015B-3R for Fortress platform development Lab, app, and QA team.
+Expert in applying new patches and packages on Linux.
+
+Environments Used: Linux, Solaris and HP-UX, WebLogic, WebSphere, Solaris, DNS & NTP, MySQL, Nagios, PostgreSQL database, IPMI, JBoss.
+SKILLS
+
+AWS: EC2, RDS, IAM, S3, VPC, Lambda, Athena, Compute, Network, Storage, Security, AWS DevOps.
+DevOps: Gitlab, Jenkins, Docker, Terraform, Kubernetes, Ansible, GitOps, Jira, Splunk, Datadog.
+
+GCP : Compute, Network, Storage, Security, GKE, Bigquery
+Microsoft Azure: Compute, Network, Storage, Security, Azure DevOps, AKS, Databricks, ADF.
+Python: Pandas, NumPy, Spark, OOPS, Cloud Development, Scripting Automation
+Database and Warehouse: MS SQL, MySQL, Oracle, PostgreSQL, MongoDB, Cosmos DB, Snowflake, RedShift, Databriks.
+Operating System: Windows, Linux, RedHat, CentOs, Ubuntu.
+
+CERTIFICATE
+
+Microsoft Certified: Azure Administrator Associate
+
+Microsoft Certified: Azure DevOps
+
+Engineer Expert
+
+AWS Certified Solution Architect – Associate
+
+HashiCorp Certified: Terraform Associate
+
+Certified Kubernetes Administrator.
+
+AWARDS
+WoW Team Excellence Award 10/2020
+Xoriant Ltd
+The "WoW Team Excellence Award" is a recognition given to my outstanding performance in teams at organization level. It highlights exceptional performance, collaboration, innovation, achievements, and positive impact.
+
+MPHASIS SUPERSTAR 03/2019
+Mphasis Ltd
+The "Mphasis Superstar Award" for a Multi-Cloud Engineer is a prestigious recognition celebrating exceptional expertise and achievements in managing cloud resources across multiple cloud providers. It signifies proficiency in innovation, cost optimization, security, and collaboration, with a positive impact on the organization. The award inspires me to excel in multi-cloud engineering, and cloud architecture.
+EDUCATION
+
+Master of Business Administration 01/2015 Hyderabad, Telangana, India
+JNTU Hyderabad, India
+
+Bachelor of Commerce and Computers 04/2012 Sathupally, Telangana, India
+Kakatiya University, Warangal, India
+Contact this candidate

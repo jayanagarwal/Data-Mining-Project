@@ -1,0 +1,178 @@
+Craig Holley
+Location: Sewickley, PA *****
+Looking for challenging roles and available to interview with 24 to 48 hours prior notice.
+Very interested in working with Pittsburgh Transit Authority and committing to having a long-term future to further grow within the organization.
+
+PROFESSIONAL SUMMARY:
+Work leading large scale enterprise Data Science, Advanced Analytics, Data Engineering teams and cloud MLOps architecture teams for Fortune 500 enterprises and consultants, specialized in Insurance, Health Care, Banking and Finance, Supply Chain Management, and Pharmacy systems. Work with constantly new and innovative challenges designing cloud data and analytic systems for implementations of Data Science best practices, Business Intelligence, Cloud Big Data Architectures and Cloud Security.
+Currently working with AI policy, use, and governance as well as technical deployment of Large Language Models in Enterprise cloud environments for high value business solutions.
+
+EDUCATION:
+Indiana University of Pennsylvania MBA Executive Certificate Program, Dec 2004
+University of Pittsburgh Katz School of Management Project Management Certificate, May 2004
+Masters, University of Southern California, M.S. in Systems Analysis and Management, Specialization in Operations Research.
+B.S. in Forest and Environmental Science.
+
+TECHNICAL SKILLS AND TRAINING:
+Machine Learning Skills – Trained extensively in Operations Research, Data Mining, Data Engineering, and Machine Learning techniques and architectures with extensive statistical Statistical methods and operations research training in both undergrad and masters programs, and specialized training and then application as a practitioner in various government contracts and commercial use in Logistics, Equipment Maintenance, Pharmacy, Health Insurance, Medical Provider and Financial industries. Spent 9 months intensive training in patterns of use for Deep learning technologies and High-Performance Computing (HPC) systems, attending Cloudera, DataBricks, Nvidia Deep Learning Institute (DLI), and IBM Machine Learning training sessions. Worked on implementation of MLOps/MLFlow in Spark environments for production AI systems implementation, as well as setting up combined analytics systems using Google’s new Vertex AI platform combining Apache Beam, Apache Airflow, BigQuery, and Pub/Sub for doing production AI on GCP. Currently working with open-source Large Language Model (LLM) deployments using Dolly, Llama 2, and Falcon, as well as integration of GitHub Copilot and John Snow Labs LLM models using PubMed vector DBs for driving analytics on claims (esp clinical notes, lab notes).
+Database skills – Most recently trained in GCP Vertex AI, Alloy DB, Postgres, BigQuery, and DataBricks Delta Live Tables technologies. Cloudera Hadoop trained administrator and deployer for Hadoop clusters, and deployment and testing of all significant Cloudera Services (Spark development Python/Scala, Hbase NoSQL admin, Kafka admin, Kudu admin, Solr admin, Hive, Impala, Flume). Oracle Certified Professional, Oracle master familiar with design, creation, replication and administration of very large Oracle Enterprise databases and Business Intelligence solutions. Have extensive experience with versions DBMS 7 – 21c, and OBIEE. Also design and creation of MS SQL Server databases on MS Server environments (SSRS, SSAS). An expert with advanced use of SQL, PL/SQL, MS Transact SQL, MDX, DMX, and DAX, OLTP and OLAP applications, MicroStrategy, Cognos, OBIEE, MS SQL Server BIDS, Tableau, Qlik, and custom-built .NET BI and data mining tools for data analysis and business intelligence. Experience with Oracle on both Unix (Linux and Solaris) and MS Windows Servers. Skilled in theory and practice of OLAP and data mining from data warehouses for business analysis and intelligence, medical and pharmaceutical records, supply chain management, CRM, fault, and reliability analysis, and tracking of sensor data in distributed data from sensor networks.
+
+PROGRAMMING SKILLS:
+Programming skills include Tensorflow, Keras, Spark(Pyspark), Python, Scala, Perl, NVIDIA GPU programming, various flavors of UNIX scripting (Born, Korn, Bash) and UNIX kernel programming, XML/XSLT/XSD, SQL/PLSQL, MS Transact SQL, DMX, MDX, DAX, SOAP, HTML, dynamic HTML, and C# .NET windows and web programming in ADO.NET and ASP.NET environments, web service/SOA programming using VS 2003/2005 WSDL and standards.
+Architecture and Technical Project Management Software - Use of Embarcadero Enterprise Data Architect software for Architecture, and CA Erwin Data Architect software. Extensive use of MS Project for tracking and managing projects, and Visual Source Safe for tracking and management of software development life cycle.
+
+PROFESSIONAL EXPERIENCE:
+Cardinal Health, Dublin, Ohio Oct 2022 – Jun 2024
+Director and Chief Enterprise Architecture/Information Architecture
+Director/Chief Architect of a diverse team of Principal and Senior Architects at Cardinal Health responsible for architecting/building Cardinal’s Google Cloud Data and Advanced Analytics systems. Responsible for architecting the migration/transformation from various legacy data systems (Teradata, Hadoop) to a combination of Google, AWS, and Azure Cloud systems, and the consolidation of analytic reporting on Tableau and Looker platforms.
+This includes building out an Enterprise Cloud Analytic Store/Data Warehouse on GCP Big Query with Vertex AI, using a DataBricks Common Ingestion Framework and MLFlow/MLOps, a Palantir digital twin analytic simulations, using Palantir AIP advanced AI platform to design AI analytic solutions, an AWS integration framework for pharmacy claims data, and a Snowflake data system for 3PL (third party logistics).
+Principal solution designer in new ML/AI cloud frameworks, in particular for building MLOps production on Google Vertex, Databricks MLFlow, and Palantir AIP systems.
+Serving on the Cardinal Generative AI Task Force as a subject matter expert on large language models (LLMs) and their deployment in the cloud, working with Google and Palantir teams for LLM production use cases.
+Working to integrate AI solutions into patient data processes in Cardinal’s Cancer Clinic network. Working with DataBricks and John Snow Labs running Spark-based LLM systems for processing claims, medical records, and clinical notes.
+Working with numerous AI startups to explore use cases Cardinal has that might be good fits.
+
+Highmark Health, Pittsburgh, PA Oct 2019 – Sept 2022
+Principal/Lead Enterprise MLOps/Advanced Analytics Architect
+Lead Architect for Highmark’s “Blended Health” (Payor and Provider) Enterprise Data Organization Architecture Office, and work as the Lead Cloud Architect for moving Highmark on premise data systems to the Google Cloud on BigQuery, and CloudSQL, planning for BC/DR, and integration with our Confluent Kafka Enterprise Pub/Sub hub moving data to the cloud. Working directly for the Highmark EDO and the Chief Data and Analytics Officers.
+Responsible for designing, building, and implementing Big Data systems, and trained/led the Data and Machine Learning Engineering team in building the Claims and Clinical Data Lakes, and advised/trained the BI team on building Tableau and Power BI interfaces to the lake for analytics, as well as integration of SAS Viya and Hadoop data to build analytic feature stores.
+Transitioned to a migration to Google GCP in 2021 with planning and executing the migration of all data and analytics on premise activities to the cloud, with integration of AWS, Google, and azure technologies. This has included:
+a)Building a Data Plane “Common Ingestion Framework” using DataBricks Delta Live Tables/Delta Lake/Lakehouse technologies
+b)Building a cloud ODS (Operational Data Store) using GCP Cloud SQL (Postgres) technologies
+c)Building a cloud ADS (Analytic Data Store) using GCP BigQuery, with integration to both DataBricks and GCP Vertex for AI/ML model building, and further MLOps deployment
+d)Building a multi-cloud AWS/GCP system for transferring genomics data processed on AWS to be combined for precision medicine on GCP with comprehensive health store.
+e)Combining and cooperating efforts with Johns Hopkins using DataBricks on both Azure and GCP to do joint medical studies on COPD.
+f)Advised the Allegheny Health Network (AHN) provider analytics team on building analytic interfaces to the EPIC/Clarity data to build fusion views of patient longitudinal data and claims data. Principal architect for the new AHN Cancer Institute for processing and analysis of tissue and liquid biopsy genomics data using GATK4 compliant interfaces from DataBricks, as well as combining this data with claims data and social determinants of health (SDOH) data to help drive the new Precision Medicine and “Cancer Moonshot” programs. Worked on.
+g)CMS ONC Interoperability compliant interfaces building a SmileCDR FHIR repository and interfacing it with Smart on FHIR vendor apps with patient clinical and claims data – and migrating this to the GCP Health Data Engine
+h)Moved the on-premises enterprise data lake to a cloud solution on the Google Cloud Platform GCP using GCP services like Big Query to replace Highmark’s on-premise processing architectures, including a cloud FHIR repository
+i)Migrating the precision medicine analytics program for combined claims, clinical, and genomics data to GCP for analysis using the GCP AI Platform
+j)Deploying the John Snow Labs Natural Language Processing (NLP) software package to process clinical notes (text) and lab notes (PDF OCR to text) with analysis for diagnostic codes and information, symptoms, medical terminology, lab info and other relevant information. Algorithms use Tensorflow on Spark with state-of-the-art (at the time) BERT NLP Transformer processing.
+k)Integrating the Highmark analytics on prem Feature Store into a Cloud Advanced Analytics Feature Store as well as a comprehensive Modelling Repository for building full analytics machine learning pipelines. This new architecture is built using Data Bricks MLFlow and Delta Lake architectures.
+
+Athena Sciences Corporation, Fairmont, WV Oct 2018 – Oct 2019
+Director of Data Analytics and Artificial Intelligence
+Principal Data Science and Big Data Solutions Director for Architecture for Athena’s deployment of Big Data Biometric Advanced Analytic System for DoD. This includes the deployment and testing of a Biometric Matching System (BMS) and accompanying PostgreSQL and MySQL databases for Biometrics Biographic Data, transaction history, as well as processing of latent data for forensic analysis.
+The BMS system is a complex Big Data deployment on AWS including Hadoop, Kafka, Spark, and HBase to process incoming biometrics files, with three Hadoop cluster deployments for Iraq, Afghanistan, and a backend lab environment.
+These systems use state of the art fingerprint, face recognition, and iris recognition using Tensorflow/Deep Learning Spark technologies for characterizing and matching biometrics data. The deployments of the clusters which are 90 and 130 nodes and meet industry standards for security for Hadoop using Ranger/LDAP integration. Deployed systems were built on HPE racks with Redhat RHEL using RHEL Satellite with automation using Ansible for all security. Facial recognition software using Tensorflow on Spark with Convolutional Neural Networks (CNNs) was deployed. All systems were built for test (Hadoop, Spark, HBase, Postgres, and MySql) in the cloud on AWS, AWS used extensively otherwise for demo builds and prototype AWS DoD systems.
+
+PNC Bank, Pittsburgh, PA June 2011 – Sept 2018
+Vice President, Senior Big Data/Data Science Solutions Architect
+(PNC Bank Enterprise Data Management Technology)
+Principle Solutions Architect for PNC’s deployment of Machine Learning (ML) and Deep Learning (DL) technologies and architectures. This includes the deployment of PNC’s Anaconda/Python environment with Tensorflow/Keras for Deep Learning applications, the distributed Spark environment for Spark MLlib and ML pipelining for Machine Learning applications, Tensorflow/Spark for distributed DL in a Spark environment, and Cloudera Data Science Workbench for collaboration and productivity for PNC’s Data Science community. Efforts were to design and implement a GPU-based enterprise resource pool for PNC’s regulatory modelling and various Data Science groups to make training and tuning ML/DL models more efficient.
+Responsible as Senior Big Data architect for Hadoop cluster deployments at PNC including 6 Cloudera clusters with full failover and security provided by Cloudera software.
+Responsible as Senior Big Data Architect for the design and deploymentof the PNC Big Data Operational Streaming system designed for process of real-time and near real-time digital streams from various business segments in PNC.
+Responsible as an internal enterprise-level consultant to advise groups on best practices and available algorithms and tools for executing ML and DL projects. Use cases included:
+Fraud - ATM, Credit, Deposit, and Internal Fraud, using XGBoost (and linear approximations of XGBoost).
+Anti-Money Laundering using ML and Graph visualization.
+Credit Default predictive analytics using CBA (Customer Behavior Analytics) data to predict defaults with various ML Supervised Models
+CCAR stress test modelling, advised on visualization of model results and migration of testing to HPC environments or the cloud.
+Rewards Card Program - Recommendation engines and Profitability analysis
+Retail Branch Planning – use of time series analysis including LSTM/RNN DL/Neural Networks to analyze and predict existing and future deployed branches based on demographics.
+Customer Sentiment Analysis – use of customer service desk text records to do sentiment analysis using both traditional NLP (Natural Language Processing) technologies and current DL technologies such as LSTM/RNN with Word2Vec and Doc2Vec to predict priority and sentiment of customer interactions.
+Cyber Security Log Analysis – to include research of effective anomaly detection techniques such as LDA (Latent Dirichlet Allocation) and newer Variational Autoencoder (VAE) techniques for Anomaly Detection to detect possible Cyber adverse events.
+Responsible for organizing the PNC Machine Learning Center of Excellence (ML COE) and cataloging ML use cases in all PNC LOBs, looking at use cases of ML and Deep Learning across the Financial Industry in coordination with DataRobot and Cloudera partners, and doing a gap analysis of areas where PNC can use new ML technologies and HPC architectures to gain competitive advantage. As part of this, responsible for the deployment of DataRobot within PNC for the automation of ML, and for training Data Science groups within PNC LOBs on the capabilities and effective use of DataRobot.
+Responsible for the identification and adoption of new data technologies to allow PNC to compete in current fast-paced tech environment.
+Included attendance at multiple Spark and Kafka Summits, Strata Conferences, and GPU Technology Conference and meetings with CEO/CTOs from numerous startups in the areas of Machine Learning and AI, Big Data Streaming and Stream Processing, Real-time Analytics, Data Wrangling, Big Data and Machine Learning Performance and Monitoring, and Data Flow technologies. Responsible for investigating use cases, architectures, and tools for the application of Deep Learning/Artificial Intelligence technologies at PNC.
+Principal Platform Architect responsible for current testing of cloud products and platform comparisons for AWS, Azure, and Google.
+Principal Design and Platform Architect for PNC’s deployment of Operational (Streaming Data) Hadoop clusters, including coordination for cutting edge design working with Cisco and Cloudera vendors, and deployment of the clusters. Integration of DataRobot for PNC’s advance into automated Machine Learning (ML), including definition and development of use cases with integration of ML with Spark (stream -processing), Kudu (fast Analytics of results), and Kafka (publish and consumption of fast data in motion between Big Data and external Services).
+
+ProLogic Inc (now a subsidiary of Ultra Electronics) Pittsburgh, PA Apr 2007 – May 2011
+Director, Data Management Division, Prologic, Inc
+Responsible for design, data modeling, and data mining architecture of Oracle and SQL Server databases for various projects for Prologic Inc govt contracts.
+Data Architect for Department of Energy National Energy Technology Laboratory (NETL), reviewing all new applications and data models for compatibility with the NETL model, as well as formation of a data model for NETL data architecture within the D.O.E. Includes architecture design and implementation of NETL Data Warehouse in Oracle 10G/11G, design of BI interfaces in COGNOS and OBIEE with the BI team building data cubes and interfaces to the Data Warehouse, and integration into various BI dashboards.
+Principle Architect for DOT (Department of Transportation) International Freight Data System (IFDS), creating data model for DWH, as well as directing implementation of ETL processes, data mart building, and Oracle 11g on Sun Servers with Linux OS, ODI and OBIEE interfaces. Responsible for the development of interfaces for advanced analysis and mining of data for the DOT and US Bureau of Trade Statistics using various ML technologies.
+Principle Systems Integrator and Team Manager with US Navy REDI (Reliability Engineering Data Integration) and ICARE (Integrated Condition Assessment Reliability Engineering) projects for implementation of an Enterprise Service Bus (SOA) for integration of Navy maintenance and logistics data. This project allowed the Navy to predict future equipment faults on all ships and submarines by mining past maintenance records. Worked with the Navy’s Engineering section in the Philadelphia shipyards to offload equipment sensor data for advanced time-series analysis and anomaly detection to detect/predict machine fault using IoT data.
+Consulting Data Architect for Air Force ADC electronic medical records (EMR) data warehouse. Includes consulting on design of data warehouse architecture for medical records warehouse, and design of Oracle materialized views and build of Oracle Business Intelligence interfaces to Air Force medical data. This included the execution data mining and of longitudinal studies of EMRs to detect patterns resulting in or indicating possible PTSD and suicide in troops.
+Project Director Distance Support Knowledge Management analysis test website, designed to allow for the systematic update, cleansing, and analysis of data from the Navy Distance Support program and consulting Data Architect for data mining of energy sensors in D.O.E. commercial/government buildings for optimization of energy use.
+
+Pharmacare/CVS, Pittsburgh, PA Aug 2006 – Apr 2007
+Senior Data Architect
+Responsible for design, data modeling, and architecture of Oracle, and SQL Server databases for Pharmacare.
+Worked in design and implementation of Manufacturer’s Data Warehouse for Specialty Drugs, Pharmacare, with interface to Microstrategy BI software for pharmaceutical analytics. This resulted in a series of drug efficacy data mining studies to predict the efficacy of progressions of various drug regimens on patients based on various demographic/epidemiological characteristics.
+Project Manager for upgrade of SQL Server databases to SQL Server 2005, including migration strategy, data replication, and integration of application interfaces.
+Worked on design of partitioning and tuning strategy for Oracle 9i multi-terabyte data warehouse, as well as planning for migration to Oracle 10g.
+
+3ETI Inc, Blairsville, PA Jun 2002 – Jul 2006
+Technical Project Lead PIR2 Navy Maintenance Analysis
+Designed architecture for and created multiple Oracle data DoD Navy maintenance and ship configuration transactional databases and data warehouses, focusing on Decision Support Systems (DSS’s) for Navy data mining of maintenance data for reliability and failure analysis of Navy ship-board equipment. Focus was to combine equipment sensor and failure and maintenance historical data for planning future sensoring of Navy equipment to predict equipment failures.
+Created Expert Systems/Knowledge Management software for maintenance workflow packages for the Philadelphia Naval Shipyard using Haley System’s business process expert systems software.
+Created Key Performance Indicator (KPI) Decision Support Dashboard software for Navy maintenance management packages, allowing Navy Commanders to get quick views of system and process efficiencies for Navy equipment systems and maintenance business processes.
+Technical manager of teams of DBA's, web designers, and help desk to run MS Server high availability very large Oracle 9i/10g databases and data-driven websites, receiving and combining data from various legacy Navy and DoD databases, including development and management of various data mining analytical tools for Navy Maintenance Knowledge Management using Visual Studio to create C# .NET web interfaces. Experience includes both OLTP and ETL to OLAP technologies, and responsibility for the entire life-cycle management of software development for large databases with Decision Support web site applications.
+Control project security and configuration management, including writing and updating System Security Accreditation Agreements (SSAAs) and implementing DoD PKI (Public Key Infrastructure) security, using Visual Source Safe to track large software projects, and MS Project to track project progress and tasks.
+
+Computer Sciences Corp Stuttgart, Germany Jun 1997 – May 2002
+Technical Project Lead/Principal Computer Scientist - Joint Total Asset Visibility, European Theater
+Designed architecture for and created multiple Oracle DoD logistics ERP transactional databases and data warehouses and Decision Support Systems.
+Managed technical teams of DBA's, web designers, and help desk to run a Solaris Unix web-based very large, tiered Oracle, SQL Server, and Sybase databases, receiving by replication and data transfer transactional data from 38 different DoD logistic databases and presenting it as warehoused but real-time, supply-chain ERP knowledge at the joint services level. Designed architecture for and implemented web-driven data warehouses for logistics data for tracking shipments using RFID. Developed network optimization analytics for joint logistics networks that identified logistics bottlenecks, using linear programming and other network optimization techniques, saving the DoD millions of dollars and changing logistics management in the European Theater.
+Responsible for design and implementation of system security according to strict DISA/DoD guidelines, and for producing an SSAA for the European JTAV system.
+
+Communications Technology Det., US Army, Munich, Germany
+1985–1997
+Technical Project Lead, Intelligence Collection and Analysis
+
+TECHNICAL COURSES:
+SAP Architectures and Advanced AI and Analytics systems, 2024
+GCP Vertex Model Garden Large Language Model integration, 2023
+DataBricks Spark Advanced Tuning, 2022
+DataBricks Data Analytics Interface, 2022
+GCP Google Kubernetes Engine (GKE) Architecture Course, 2021
+GCP Compute Engine Architecture Course, 2021
+GCP Machine Learning Course (MLOps, Tensorflow), 2021
+GCP Data Engineering Course (Cloud Composer, DataFlow, DataFusion, DataPrep, DataProc. BigQuery), 2021
+GCP Training in Big Table NoSQL Operations, 2021
+GCP Training in Big Query Data Warehousing,2021
+Google Cloud Platform training as GCP Cloud Architect, 2020
+Radiomics training for advanced analysis of DICOM images, 2020
+Illumina Genomics processing training, 2020
+Training for Apache Beam data flow streaming and transformation architecture, 2020.
+DataBricks Tensorflow Deep learning on Spark training, 2020
+DataBricks MLFlow Machine learning Pipelines training, 2020
+Cloudera Data Science Workbench training, 2020
+Cloudera Advanced Spark Programming, 2020
+Cloudera DataFlow training, 2020
+DataBricks Spark Delta Lake training, 2020
+HIPPA training (yearly requirement), 2019/2020
+Tensorflow on Spark Deep Learning Architectures, 2019
+Spark on Hadoop Architectures for Machine Learning Pipelines, 2019
+Advanced Analytics Architectures in Stream in Big Data Systems, 2019
+Deep Learning Techniques for Recommendation Engines, 2019
+Deep Learning for Natural language Processing, 2019
+Griaule Big Data Biometrics Matching System Installation and Administration, 2018
+Nvidia Deep learning for Image processing, 2018
+Nvidia Financial Fraud analysis with Deep Learning, 2018
+Nvidia Natural Language Processing (NLP) with Deep Learning, 2018
+Google Cloud Training, one day technical orientation for deployment to Google Cloud, 2018
+Pytorch training for machine learning programming and automation, 2018
+IBM/Nvidia Deep Learning for Finance Training, 2017
+Cloudera AWS Cloud implementation training for Cloudera Data Science Workbench, 2017
+Confluent Kafka Administration and Development Training, 2017
+Cloudera University Data Science and Machine Learning on Spark certification training, 2016 (3-day)
+DataBricks Advanced Spark Machine Learning, 2016 (2-day)
+Cloudera University Spark Development certification training, 2016 (4-day)
+Cloudera University HBase certification training, 2015 (3-day)
+O-Reilly training for R-studio, R use for Data Science, 2015
+O’Reilly training for Python, Python for Machine Learning, 2015
+AMP Boot Camp for Spark programming in Scala and Python, 2015 (2-day)
+Cloudera University Hadoop Data Analyst Certification Training, 2015 (4-day)
+Cloudera University Hadoop Adminstration Certification training, 2015 (4-day)
+Hadoop installation and administration training (Cloudera-sponsored), 2014
+Hadoop business use case training (Oracle/Cloudera joint sponsored), 2014
+Tableau Advanced Developer Training, 2013
+Tableau Installation and Administration Training, 2013
+Boot camp for Teradata Database SQL, 2013
+Boot camp for Teradata Database administration, 2013.
+Administrator’s Rittman Mead boot camp for OBIEE 11G, 2012
+Training in implementation of Oracle 11g, 2011
+Training in MS 2008R2 Enterprise Server OS, SQL Server 2008/2008R2, and all BIDS products (i.e., SSIS, SSRS, and SSAS), 2010
+Training in implementation of CMMI Level 3 practices for technical project management, 2008/9
+Training in Cognos Decision Support System Business Intelligence software, 2007
+Training in MicroStrategy Decision Support System Business Intelligence software, 2007
+Training in Dundas Inc software for building .NET Dashboard interfaces for KPI and Knowledge Management Systems, 2006
+Training in Haley Systems Expert System Programming Software, 2006
+Training in Visual Studio 2005/.NET 2.0 C# programming, 2005
+Web Services SOA Advanced programming training, 2005
+Advanced XML and XSLT training, 2004
+ASP.NET C# programming intensive course for web and windows app development, 2003 (3-week)
+Courses in UNIX Solaris system administration, received certification as UNIX system administrator, UNIX security administrator in the GCCS (Global Command Control System) environment, and OCP (Oracle Certified Professional) for 7.3 and 8i versions of Oracle, 1997 - 2002
+Numerous courses at the National Cryptologic Institute in UNIX systems admin, programming, security, and database administration and architecture, 1989 - 1994
+Languages - Reasonable fluency in Russian, German, Polish, and Serbo-Croatian, scored 3/3 (highest possible for non-native linguist) in Russian, German, and Polish on DoD tests.
+Contact this candidate

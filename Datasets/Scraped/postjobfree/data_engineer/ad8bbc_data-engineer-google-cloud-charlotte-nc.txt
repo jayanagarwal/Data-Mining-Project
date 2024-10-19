@@ -1,0 +1,209 @@
+NAZEER SHAIK
+Lead Data Engineer
+Email Id: ad8bbc@r.postjobfree.com
+Contact Details: +1-980-***-****
+LinkedIn: Nazeer Basha
+
+EXECUTIVE SUMMARY:
+
+●Seasoned Data Engineer with 10+ years of experience which includes 7+ years of experience in the US IT industry, Certified Google Cloud Professional Data Engineer & Certified AWS Associate Data Engineer. Link
+●Well versed with GCP services – GCP Console, Big Query, Cloud Composer, Cloud Storage, Data Flow, G-Cloud Functions, Pub/sub, Cloud Shell, Dataproc, Stack Driver, Secret Manager, IAM, VPC, GSUTIL, Cloud SQL.
+●Proficient in utilizing Big Data Technologies such as Hadoop, HDFS, Sqoop, HBase, Hive, Map Reduce, Cloudera, Spark, and Kafka for efficient data processing and analysis.
+●Led the migration of legacy Teradata systems to Google Cloud Platform (GCP), reducing operational costs and improving system scalability by leveraging cloud-native services.
+●Proficient in Modeling and Architect tools such as Erwin, and ER Studio, and implementing Star-Schema and Snowflake-Schema Modeling techniques for efficient data modeling.
+●Skilled in Extract, Transform, and Load (ETL) processes using Talend, SSIS, and Informatica Power Center, ensuring seamless extraction, transformation, and loading of data across various systems.
+●Experienced in leveraging Cloud Technologies including AWS services (EMR, EC2, S3, Cloud Watch, SQS, AWS Glue, Lambda, Step Functions, AWS Aurora/RDS, Athena, and RedShift) for scalable and flexible data solutions.
+●Proficient in using Terraform to provision and manage the infrastructure needed for data pipelines, such as virtual machines, storage buckets, databases (BigQuery), and networking components (VPCs and subnets).
+●Competent in managing various relational and non-relational databases including Oracle, SQL Server, MySQL, MongoDB, and DynamoDB for effective data storage and retrieval.
+●Expertise in implementing cloud-based solutions using Snowflake, AWS, and Azure to build scalable and cost-effective data architectures.
+●Skilled in Azure cloud services, adept at leveraging Azure Blob Storage for efficient data storage, Azure Monitoring for performance monitoring and optimization, Azure Data Factory for ETL workflows, Azure SQL for relational database management, Azure Data Lake for big data analytics, and Azure Synapse Analytics for analytics.
+●Skilled in data modeling techniques, data mining, data cleaning, and data visualization, along with proficiency in tools like DBT (Data Build Tool) for managing data transformation workflows.
+●Experienced in infrastructure (IaC) automation using Terraform and Ansible, streamlining the provisioning and management of cloud infrastructure across multiple environments.
+●Proficient in migrating on-premises (Snowflake, SAS) environments to cloud platforms (AWS, Azure and GCP).
+●Expertise utilizing Google Cloud Platform (GCP) services including Google Data flow, Cloud Pub/Sub, and BigQuery to design and implement scalable data processing pipelines for real-time and batch data ingestion, processing, and analysis.
+●Skilled in managing Secure File Transfer Protocols (SFTP), ensuring the reliable and secure transfer of data.
+●Experienced in utilizing Apache Airflow (2.3.5) for orchestrating complex data workflows and pipelines, proficient in designing and implementing Directed Acyclic Graphs (DAGs) to automate and schedule data tasks.
+●Well-versed in Agile, Software Development Life Cycle (SDLC), Daily Scrum calls, and Waterfall Model for efficient project management (Jira) and development.
+●Experience in setting up and configuring CI/CD pipelines using Jenkins for automating the build, test, and deployment processes of applications and database scripts.
+●Experienced in collaborating with distributed teams using GitHub and Bitbucket for managing source code repositories, tracking changes, and facilitating code reviews.
+●Proficient in SQL indexing techniques to optimize database performance, including creating and maintaining indexes to speed up data retrieval operations and Conducting performance tuning and optimization of SQL queries and Spark jobs to enhance data processing efficiency.
+●Knowledgeable in containerization concepts and experienced in building Docker images for packaging applications and databases along with their dependencies.
+●Proficient in extracting data from Teradata tables using BTEQ scripts, applying filtering and transformation logic as needed to extract relevant subsets of data for reporting and analysis purposes.
+●Proficient in Python programming, with extensive experience in developing web applications, data analysis scripts, and automation tools using Python libraries such as NumPy, and Pandas
+●Proficient in Kubernetes for automating deployment, scaling, and management of containerized applications.
+●Proficient in operating systems: Windows, Mac ensuring smooth deployment and management of data systems.
+●Skilled in utilizing Reporting Tools like MS Excel, Tableau, Power BI, Cognos, Pivot Tables for comprehensive data visualization and reporting.
+
+EDUCATION DETAILS: Bachelor’s degree in computer science from Amrita University in 2013
+
+CERTIFICATIONS:
+
+●Google Cloud Certified Professional Data Engineer (Google).
+●AWS Certified Data Engineer (AWS).
+●Hadoop Fundamentals Certification ( IBM ).
+
+TECHNICAL SKILLS:
+
+Big Data
+Hadoop, HDFS, Sqoop, HBase, Sqoop, Hive, Map Reduce, Cloudera, Spark, Kafka
+Google Cloud Platform
+BigQuery, Composer/Airflow 2.3.5, DataProc, Cloud Storage, Cloud Functions, GSUTIL command line, Data Flow, Secret Manager, Pub/Sub, Google Data Studio/Looker
+AWS & Azure
+AWS S3, Amazon DynamoDB, SQS, Glue, EC2, RedShift, Azure Blob Storage, Azure Monitoring, Azure Data Factory, Azure SQL, Azure Data Lake, Azure Synapse Analytics
+ETL tools
+Talend, SSIS, Informatica Power Center
+Automation Tools
+Terraform, Ansible
+Programming & Scripting
+Python, Java, Unix, Scala, PySpark, shell scripting
+Databases
+RDBMS - MySQL, Oracle, PostgreSQL, NoSQL - MongoDB
+Operating Systems
+Windows, Mac
+Data Visualization
+Power BI, Tableau, Cognos, MS Excel, Pivot Tables
+Methodologies
+Agile, Scrum, Waterfall
+On-Premises
+SAS, DB2, Teradata, Snowflake
+
+PROFESSIONAL EXPERIENCE:
+
+CBRE, Dallas, Texas Jan 2023 to Present
+Lead Data Engineer
+
+●Led end-to-end migration project from Snowflake to BigQuery, overseeing all phases including planning, execution, and validation, and collaborated with users to define project scope, and success criteria with business requirements.
+●Utilized GCP Services – BigQuery, Cloud Storage, G-Cloud Functions, Secret Manager, and Stack driver to implement the migration solution.
+●Worked on creating BigQuery-authorized views for row-level security or exposing the data to other teams.
+●Build data pipelines in Apache Airflow (2.3.5) in GCP for ETL (Extract, Transform, Load) related jobs using airflow operators and writing DAGs (Directed Acyclic Graphs) in Python to manage and orchestrate data workflows.
+●Developed ETL pipelines in GCP to facilitate seamless data extraction, transformation, and loading from Teradata to BigQuery, resulting in enhanced data accessibility and performance.
+●Used Cloud Shell SDK in GCP to configure the services Data Proc, Cloud Storage, and BigQuery.
+●Implemented infrastructure as code (IaC) using Terraform to provision and configure GCP resources required for the migration and used it for setting up BigQuery datasets, Cloud Storage buckets, Compute Engine instances for processing, networking configurations, and deploying to all the environments.
+●Conducted regular cost analysis and optimization for GKE clusters, identifying opportunities to reduce expenses through resource right-sizing, preemptible VMs, and other cost-saving strategies.
+●Developed data validation scripts and performed validation checks on data types, formats, and schema mappings.
+●Used Google Cloud Data flow and Apache Beam with Java to build and execute data processing pipelines.
+●Developed Spark job with partitioned RDD (hash, range, custom) for faster processing of data with Spark SQL and loading in Hive partition tables in Parquet file format.
+●Implemented ETL processes using GCP Dataproc and Cloud Composer to extract, transform, and load data from diverse sources into centralized repositories.
+●Managed real-time data streams through Cloud Pub/Sub to facilitate instant data updates and insights for decision-making purposes.
+●Using G-Cloud Functions with Python to load data into BigQuery for arrival files in the GCS Bucket.
+●Utilized GitHub and Git Bash (to clone repositories, create branches, commit changes, and merge code) as version control for strong code in repositories by using Visual Studio Code, and IntelliJ.
+●Ensured data integrity and quality by implementing robust data validation and cleansing techniques within the Data Catalog to maintain accuracy and consistency.
+●Utilized GCP Dataproc and PySpark for advanced data analytics and machine learning tasks to derive actionable insights from complex real estate datasets.
+●Conducted performance benchmarking and tuning of Teradata environments, optimizing system resources and enhancing overall data processing capabilities.
+●Developed and implemented disaster recovery plans, including regular backups and restoration procedures for GKE clusters, ensuring minimal downtime and data loss in case of failures.
+●Utilized DBT to define and execute SQL-based transformations, facilitating the creation of clean, consistent, and well-documented datasets for analytical purposes.
+●Participated in code reviews and quality assurance processes to maintain high standards of code quality and reliability.
+●Designed and implemented DAGs (Directed Acyclic Graphs) in Apache Airflow, defining workflows with dependencies between tasks to automate data processing and orchestration across various systems and services.
+●Working on SFTP (Secure File Transfer Protocol) to generate detailed logs for file transfers and file activities.
+●Designed and implemented data ingestion pipelines to extract data from Snowflake, transform it into CSV, JSON, and Excel, structured, semi-structured, unstructured (into Google Cloud Storage Buckets), and load it into BigQuery.
+●Used Dataproc to create clusters for running Hadoop and Spark jobs processing of big data workloads.
+●Documented the inventory of modules, infrastructure, storage, and components of the existing On-Prem data warehouse for analysis and identifying the suitable technologies/strategies required for Google Cloud Migration.
+●Build and deploy code using CI/CD pipelines via Jenkins and stored terraform scripts via Docker images in local.
+●Created interactive dashboards using Power BI including relationships, calculated columns, measures, and hierarchies to ensure accurate data for reporting and analysis.
+●Adopted Agile methodologies – Scrum, participating in sprint planning, daily stand-ups, and sprint reviews to track progress, identify risks, and adapt to changing requirements and utilized Jira for project management.
+
+Technical Environment: GCP Console, BigQuery, Composer/Airflow, Cloud Storage, Data Flow, Apache Beam, Spark, PySpark, Kafka, Python, SQL, Dataproc, Data Catalog, DBT, Hadoop, SFTP, File Formats, DAGs, Big Data, Power BI, Data Migration, Data Transfer, Agile, GKE, CAB meetings for deployment, Visual Studio Code, GitHub, Hive, Snowflake.
+
+Elevance Health, Indianapolis, IN Nov 2019 to Dec 2022
+Senior Data Engineer
+
+●Designed and optimized data storage solutions leveraging GCP's Cloud Storage and Cloud SQL to ensure efficient data retrieval and scalability for Elevance's growing data needs.
+●Developed data processing workflows utilizing GCP Dataprep and Cloud Composer to automate data cleansing, transformation, and enrichment tasks, enhancing data quality and reliability.
+●Implemented real-time data streaming solutions using Cloud Pub/Sub to enable instant data updates and analysis for critical business applications within Elevance.
+●Orchestrated data processing tasks on GCP Dataproc clusters, leveraging technologies like Spark and Hadoop (HDFS, MapReduce) to handle large-scale data processing workloads efficiently.
+●Managed and optimized data catalogs using GCP Data Catalog to facilitate data discovery, lineage tracking, and metadata management, ensuring data governance and compliance standards are met.
+●Collaborated with cross-functional teams to understand data requirements and translate them into scalable data models and schemas using technologies like Impala, Hive, and PostgreSQL.
+●Implemented and maintained data integration solutions utilizing Talend and Sqoop to efficiently move data between different systems and databases, ensuring data consistency and integrity.
+●Developed and maintained ETL processes using Python, Pig, and Spark to extract, transform, and load data from various sources into Elevance's data warehouse.
+●Developed automated Extract, Transform, Load (ETL) processes using DBT, reducing manual intervention and improving data accuracy and timeliness for downstream analytics and reporting.
+●Designed and implemented ETL processes on Databricks to extract, transform, and load data from diverse sources into target data warehouses or data lakes.
+●Designed and implemented data security measures including encryption, access controls, and authentication mechanisms to protect sensitive data stored in Cloud Storage and BigQuery.
+●Conducted performance tuning and optimization of database queries and data processing workflows to improve overall system efficiency and reduce latency.
+●Utilized Hibernate and Spring frameworks to develop data access layers and APIs for seamless integration of data-driven applications with backend data stores.
+●Scheduled and monitored data pipeline jobs using scheduling tools like Oozie to ensure timely execution and availability of data for business users.
+●Worked closely with data architects and analysts to understand data requirements and translate them into scalable and efficient data solutions.
+●Provided technical guidance and mentorship to junior team members, fostering a culture of continuous learning and innovation within the data engineering team.
+●Conducted regular code reviews and implemented best practices to ensure code quality, reliability, and maintainability of data engineering solutions.
+●Collaborated with infrastructure and DevOps teams to deploy and maintain data engineering infrastructure and tools in the GCP environment.
+●Documented data engineering processes, workflows, and best practices to facilitate knowledge sharing and transfer within the team.
+●Deployed machine learning models at scale on Databricks using Spark MLlib and MLflow.
+●Participated in cross-functional meetings and discussions to gather requirements, provide technical insights, and drive data-driven decision-making.
+●Stayed updated with the latest trends and advancements in data engineering technologies and practices, continuously seeking opportunities to enhance skills and expertise.
+●Contributed to the development and implementation of data governance policies, standards, and procedures to ensure data quality, integrity, and compliance.
+●Identified and resolved data-related issues and bottlenecks, proactively monitoring system performance, and taking corrective actions as needed.
+●Collaborated with external vendors and service providers to evaluate and implement third-party data engineering solutions and services that align with Elevance's business objectives.
+●Engaged in continuous improvement initiatives to streamline data engineering processes, optimize resource utilization, and reduce costs.
+
+Technical Environment: GCP, GCS, BigQuery, GCP Dataprep, Cloud Composer, Cloud Pub/Sub, Cloud Storage, Cloud SQL, Data Catalog, HDFS, DBT, MapReduce, Databricks, Spark, Talend, Impala, Hive, PostgreSQL, Cassandra, Python, Pig, Sqoop, Hibernate, spring, Oozie.
+
+Duke Energy, Charlotte, NC June 2016 to October 2019
+Data Engineer
+
+●The project involved building data pipelines in data integration by extracting large sets of data from numerous internal and external data sources. Also, involved in hosting the data in a Data warehouse using Azure Data Factory (ADF), PySpark, and transforming data into MS Azure Data Lake.
+●Gathered requirements for Analysis, Design, Development, testing, and implementation of business rules.
+●Migrated data from on-prem SQL Database to Azure Synapse Analytics using Azure Data Factory.
+●Ingested huge volume and variety of data from source systems into Azure Data Lake using Azure Data Factory.
+●Performed ETL operations for Data cleansing, Filtering, Standardizing, Mapping, and Transforming Extracted data from multiple sources such as Azure Data Lake, and on-prem SQL DB.
+●Applied Python scripting to enhance ETL processes, resulting in improved data accuracy, reduced processing times.
+●Utilized Python in conjunction with Linux environments to orchestrate complex data workflows.
+●Applied ADF data flow transformations such as Data Conversion, Conditional Split, Derived Column, Lookup, join, Union, Aggregate, pivot, and filter and performed data flow transformation using the data flow activity.
+●Experience in Linux system administration, including server setup, maintenance, and troubleshooting.
+●Developed Spark applications using PySpark and Spark-SQL for data transformation, and aggregation from multiple file formats for analyzing & transforming the data to uncover insights into the customer usage patterns.
+●Worked on predicting the cluster size, monitoring, and troubleshooting the Spark data bricks cluster.
+●Worked on data ingestion, transformation, and loading processes using Snowflake's SQL capabilities and integration with other data tools.
+●Worked on leveraging Snowflake's features like clustering, materialized views, and query optimization techniques to enhance data processing efficiency.
+●Leveraged Databricks for big data analytics projects, performing exploratory data analysis, statistical modeling, and predictive analytics.
+●Worked on automating and validating the created data-driven workflows extracted from the ADF using Apache Airflow.
+●Orchestrated data pipelines using Apache Airflow to interact with services like Azure Databricks, Azure Data Factory, Azure Data Lake, and Azure Synapse Analytics.
+●Used ADF as an orchestration tool for integrating data from upstream to downstream systems.
+●Worked on maintaining and tracking the changes using version control tools like SVN and GIT.
+●Designed and implemented CI/CD pipelines using Jenkins and GitLab CI/CD, enabling continuous integration, testing, and deployment.
+●Expertise in package management, system monitoring, and security configurations.
+●Worked on Ansible for infrastructure automation and configuration management.
+●Written playbooks, inventory management, application deployment, and application management across several servers. strong familiarity with Ansible recommended practices, and effective use of Ansible solutions.
+●Worked with building data warehouse structures, and creating facts, dimensions, and aggregate tables, by dimensional modeling, and Star and Snowflake schemas.
+●Worked on defining the CI/CD process and supporting test automation framework in the cloud as part of the build engineering team.
+
+Technical Environment: Azure Synapse Analytics, SQL Database, Azure Data Lake Storage (ADLS), and Azure Data Factory, SQL Database, Azure Synapse Analytics, Teradata, Cosmos DB, HDFS, Sqoop, Azure Data Lake, ETL, SQL DB, Oracle, SQL Server, Teradata, Azure Data Share, PySpark with Databricks, Apache Airflow
+
+Tesco, Bengaluru, Karnataka, India Sept 2013 to April 2016
+Data Engineer
+
+●Load and transform data using scripting languages and tools (Ex: Python, Linux shell, Sqoop)
+●Imported data sets with data ingestion tools like Sqoop, Kafka, and Flume.
+●Proficient in using Python for data manipulation, cleaning, and analysis, leveraging libraries such as pandas and NumPy.
+●Experienced in implementing the Data warehouse on AWS Redshift.
+●Involved in designing and deploying multi-tier applications using all the AWS services like (EC2, S3, RDS, DynamoDB, SNS, SQS, and IAM) focusing on high- availability, fault-tolerance, and auto-scaling in AWS Cloud Formation.
+●Used Cloud EC2 instances to execute the ETL jobs and publish data to S3 buckets for external vendors.
+●Evaluated Snowflake Design considerations for any change in the application and defined virtual warehouse sizing for Snowflake for different types of workloads.
+●Created and managed data catalog using AWS Glue to ensure accurate and consistent metadata for data in the AWS Data Lake.
+●Built the Logical and Physical data model for Snowflake as per the changes required.
+●Written Templates for AWS infrastructure as a code using Terraform to build staging and production environments and defined Terraform modules such as Compute, Network, Operations, and Users to reuse in different environments.
+●Created, modified, and executed DDL in table AWS Redshift and Snowflake tables to load data.
+●Worked with Spark for improving the performance and optimization of the existing algorithms in Hadoop.
+●Worked on performance tuning for data storage and query performance optimization.
+●Developed Scala-based applications for big data processing using Apache Spark.
+●Extensively worked with moving data across cloud architectures including Redshift, hive, and S3 buckets.
+●Developed HBase java client API for CRUD operations.
+●Involved in working with Hive for the data retrieval process and writing Hive queries to load and process data in the Hadoop file system.
+●Working knowledge of Spark RDD, Dataframe API, Data set API, Data Source API, Spark SQL, and Spark Streaming.
+●Load D-Stream data into Spark RDD and do in-memory data Computation to generate output response.
+●Designed and implemented Extract, Transform, Load (ETL) pipelines using Scala and AWS services.
+●Collected data using Spark Streaming from AWS S3 bucket in near-real-time and performs necessary Transformations and Aggregations on the fly to build the common learner data model and persistence the data in HDFS.
+●Being confident in and well-experienced as a SQL server database administrator is also beneficial.
+●Deployed the packages in the solution explorer to catalog which is in the management studio.
+●constraints table in DW to load data to catch many errors like data type violation, NULL constraint violation, foreign key violation, and duplicate data.
+●Generated reports to maintain zero percent errors in all the data warehouse tables.
+●Experienced in implementing the Data warehouse on AWS Redshift.
+●Involved in designing and deploying multi-tier applications using all the AWS services like (EC2, S3, RDS, DynamoDB, SNS, SQS, and IAM) focusing on high- availability, fault-tolerance, and auto-scaling in AWS Cloud Formation.
+●Used Cloud EC2 instances to execute the ETL jobs and publish data to S3 buckets for external vendors.
+●Evaluated Snowflake Design considerations for any change in the application and defined virtual warehouse sizing for Snowflake for different types of workloads.
+●Created and managed data catalog using AWS Glue to ensure accurate and consistent metadata for data in the AWS Data Lake.
+●Built the Logical and Physical data model for Snowflake as per the changes required.
+●Created, modified, and executed DDL in table AWS Redshift and Snowflake tables to load data.
+●Worked with Spark for improving the performance and optimization of the existing algorithms in Hadoop.
+●Worked on performance tuning for data storage and query performance optimization.
+●Developed Scala-based applications for big data processing using Apache Spark.
+
+Technical Environment: HDFS, Hive, MapReduce, Pig, Spark, Kafka, Sqoop, Scala, Oozie, Maven, GitHub, Java, Python, MySQL, Linux, AWS.
+Contact this candidate

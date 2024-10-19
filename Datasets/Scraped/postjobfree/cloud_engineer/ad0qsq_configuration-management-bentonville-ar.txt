@@ -1,0 +1,236 @@
+AmanKR
+DevOps Cloud Engineer
++1-972-***-**** email:- ad0qsq@r.postjobfree.com
+
+PROFESSIONAL SUMMARY:
+
+* ***** ** ********** ** the software industry, specialized DevOps, Cloud Operations. Major focus on Configuration Management, Build & Release Management and CI/CD automation. Professional Summary: -
+Experienced in AWS load balancer and Auto Scaling groups (ASG) to achieve high Availability and Scalable infrastructure.
+Experienced in designing the Network architecture on AWS with VPC, Subnets, Bastion host, Internet gateway, VPC peering, NAT, Route tables, Security Groups.
+Experienced in automation, installation configuration and deployment on cloud environments such as Amazon Web Services - EC2, S3, VPC, ELB, Auto scaling, Cloud Formation, RDS, EKS, Route 53, dynamo DB, IAM, EBS, Cloud Watch, SNS, elastic beanstalk.
+Managed and configured (Amazon Web Services) cloud services like EC2, S3bucket, Security groups, RDS, EBS, ELB, Auto - Scaling. AMI, Elastic search, AM through AWS Console and API Integration.
+Designed and Developed the Backup and Archiving, Disaster Recovery in AWS Cloud.
+Experienced in containerization technology such as Docker i.e. creating custom Docker images, maintaining Docker files, Docker volumes, Docker networking, deploying applications into the Docker containers.
+Expertise in Infrastructure provisioning tools such as AWS cloud formation and Terraform using Cloud CLI and APIs.
+Experienced in Kubernetes architecture includes components like API server, scheduler, control manager, deployments, replica sets, Pods, Services, Kubeadm, Kubelet, Kube proxy and Kubectl.
+Experienced with setup, configuration and maintain ELK stack (Elasticsearch, Logstash and Kibana) and OpenGrok source code (SCM).
+Experienced in working with configuration management tool Puppet that includes the installation and configuration of the Puppet master, agent nodes and an admin.
+Experienced in Configuration Automation and Centralized Management with Ansible, Implemented Ansible to manage all existing servers and automate the build/configuration of new servers.
+Wrote & Managed Ansible Playbooks with Ansible roles. Used file module in Ansible playbook to copy and remove files on remote systems.
+Experienced Azure Platform Development, Deployment Concepts., hosted Cloud Services, platform service and close interface with Windows Azure Multi-Factor Authentications.
+Experience working on Azure Fabric, Microservices & Docker containers in Azure.
+Experience with Chef hosted as well as On-Premises, installed Workstation, Bootstrapped Nodes, wrote Recipes and Cookbooks and uploaded them to Chef-server, managed On-site applications/Services/Packages using Chef.
+Designed puppet modules to manage configurations and automate install processes also used Puppet DB for configuration management to existing infrastructure.
+In depth knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies using Jenkins, Maven, Ant, Gradle, SonarQube, Artifactory, Checkmarx, Bitbucket, Chef, Puppet, and Ansible.
+Hands-on experience on monitoring tools like Nagios, Splunk and Amazon Cloud Watch to maintain various systems on different environments.
+Experience in different database technologies like MySQL, MongoDB, Oracle, Amazon DynamoDB and Amazon RDS.
+Managed and administered all UNIX servers, including Linux operating systems by applying relative patches and packages at regular maintenance periods using Red hat server, YUM, RPM tools.
+Hands-on experience in development of utilities using Shell and Python scripting to automate processes.
+Good understanding of the principles and best practices of Software Configuration Management
+(SCM) in Agile methodologies.
+
+Education:
+
+MASTERS IN COMPUTER SCIENCE AT UNIVERSITY OF CENTRAL MISSOURI IN 2020.
+BACHELORS IN ELECTRONICS AND COMMUNICATION ENGINEERING FROM JNTU IN 2018.
+
+TECHNICAL SKILLS:
+
+Version Control Tools
+Git, GitHub, Bitbucket
+Languages
+Python, Shell, YAML.
+Build Tools
+Maven, MS Build, Gradle, ANT.
+Databases
+Oracle, MongoDB, MySQL, Amazon RDS, DynamoDB.
+Continuous Integration Tools
+Jenkins
+Artifacts Registry
+JFrogArti factory
+Configuration Management
+Ansible, Puppet, chef, Octopus Deploy, Rundeck
+Containerization/Orchestration
+Docker, Kubernetes.
+Cloud Providers
+AWS, Azure,Genesys Cloud
+Bug Tracking Tools
+JIRA, VersionOne
+Monitoring Tools
+Cloud Watch, Splunk, Nagios
+Operating Systems
+Linux, Unix, Windows
+Iac Software Tool
+Terraform
+Web Servers
+Apache, Apache Tomcat, Nginx
+Recovery Repositories
+Disaster Recovery
+
+Professional Experience:
+
+Elevance Health Inc, Norfolk, VA April 2022 to Aug 2023
+Sr DevOps Cloud Engineer
+
+Involved in designing and deploying multitude applications utilizing AWS stack (Including EC2,
+VPC, Route53, S3, RDS, DynamoDB, SNS, SQS, IAM) focusing on high-availability, fault tolerance, and auto-scaling.
+Gathering the requirements from the clients about the existing applications to apply the security measures.
+Understand the latest features like (Azure DevOps, OMS, NSG Rules, etc..,) introduced by Microsoft Azure and utilized it for existing business applications.
+Creating, validating and reviewing solutions and effort estimate of converting existing workloads from classic to ARM based Azure Cloud Environment.
+Developed automation system using PowerShell scripts and JSON templates to remediate the Azure services.
+Build and configure a virtual data center in the Amazon Web Services cloud to support Enterprise Data Warehouse hosting including Virtual Private Cloud (VPC), Public and Private Subnets, Security
+Groups, Route Tables, Elastic Load Balancer.
+Separate Java URL's Data from Elasticsearch-1.4.3 Cluster and transfer to Elasticsearch-5.6.4 cluster Using Logstash, Kafka.
+Worked on Genesys cloud and implemented CSBD,RTS, resources.
+Working with development and QA teams to design Ingestion Pipelines, Integration APIs, and provide Elasticsearch tuning based on our application.
+Worked on IVR call flows in importing and exporting the call flows from all the regions and worked on Disaster recovery.
+Responsible to designing and deploying new ELK clusters (Elasticsearch, Logstash, Kibana, beats, Kafka, zookeeper etc.
+Used dynamodb scripts and created dynamodb tables in Genesys Cloud.
+Utilized Terraform to manage infrastructure as code, leading to a more agile and manageable infrastructure.
+Improved monitoring and alerting systems, enhancing incident response time by implementing dashboards.
+Designed AWS Cloud Formation templates to create subnets, security groups, route tables, NAT, ACL's for VPC setup to ensure successful deployment of Web applications and databases.
+Used Amazon S3 to store DB snapshots to backup and restore in the future.
+Launched and configured inbound and outbound traffic RDS DB services, DynamoDB tables.
+Creating Amazon EC2 instances and maintaining security groups.
+Architecture of ELB with EC2 Auto Scaling groups.
+Maintaining volumes and mapping with multi-AZ VPC instances.
+Implemented DNS service through Route 53 on ALBs to achieve secured connection via HTTPS.
+Used Identify and Access Management (IAM) to assign roles and to create and manage AWS users and groups and use permissions to AWS resources.
+Written Templates in YAML for AWS infrastructure as a code using Terraform to build staging and production environments.
+Implemented and maintained monitoring and alerting of production and corporate servers/costs using AWS Cloud Watch.
+Design, build and manage the ELK (Elasticsearch, Logstash, and Kibana) cluster for centralized logging and search functionalities for the App.
+Written and Maintained Automated Salt scripts for Elasticsearch, Logstash, Kibana, and Beats. Expertise in Repository Management tools frog, Artifactory.
+Developed procedures to unify, streamline and automate application development and deployment procedures with container technology using Docker.
+Responsible for creating custom Docker images, writing/maintaining Docker files, AWS ECR private registry, deploying applications into the Docker containers.
+Worked with Kubernetes to manage Docker containers and Implemented CI/CD allowing for deploy to multiple client Kubernetes/AWS environments. Implement
+a production ready, load balanced, available and fault tolerant Kubernetes infrastructure.
+Used Kubernetes for setting up clusters that run Docker containerized applications in Linux Environment.
+Integrated Docker Container orchestration framework using Kubernetes by creating pods, configuration maps and deployments.
+Used Kubernetes to manage containerized applications using its nodes, Config Maps, selector, replica sets, replica controllers, Services and deployed application containers as Pods.
+Responsible for Implementation of Kubernetes with Docker to assist with auto-scaling, continuous integration, rolling updates with no downtime.
+Involved in Configuration Automation and Centralized Management with Ansible, Implemented Ansible to manage all existing servers and automate the build/configuration of new servers.
+Integrated Ansible with Jenkins.
+Wrote and ran Ansible playbooks and created various roles for applications and deployed Applications/Services on hosts.
+Skilled in monitoring servers using Nagios, Data dog, Cloud watch and using ELK Stack Elasticsearch Fluent Kibana.
+Responsible for setting up Jenkins's master-slave architecture and configured different plugins.
+Build and maintain CI/CD (Continuous Integration/Continuous Deployment) pipelines for various sets of technologies in Jenkins.
+Used tools like Visual Studio Community Edition, Visual Studio Code, Power Shell ISE and SQL Server Management Studio.
+Worked with Agile methodology in XL Deploy and XL Release, CI/CD automation from scratch, Docker, Openshift).
+Involved in setting up shared libraries in Jenkins.Developed Jenkins shared libraries using Groovy.
+Created Solutions for automated Deployments of Databases like MongoDB, MySQL.
+Used build tools like Maven, Gradle for the building the applications and pushed artifacts into the JFROG Artifactory.
+Migrate Data from Elasticsearch-1.4.3 Cluster to Elasticsearch-5.6.4 using Logstash, Kafka for all environments.
+Installed and configured Nginx web servers to host multiple applications in different environments.
+Environment: AWS, Azure, Tomcat Apache, Cloud watch, Cloud Formation, Git, Ansible, Linux, Jenkins, Maven, Docker, Kubernetes, Maven, Gradle, Terraform.
+
+Lowes, Inc, Charlotte, NC October 2021 to March 2022
+Sr. DevOps Engineer
+
+Managed Azure Infrastructure Azure Web Roles, Worker Roles, VM Role, Azure SQL, Azure Storage, Azure AD Licenses, Virtual Machine Backup and Recover from a Recovery Services Vault using
+Azure PowerShell and Azure Portal.
+Worked on Azure Site Recovery and Azure Backup- Deployed Instances on Azure environments and in Data centers and migrating to Azure using Azure Site Recovery and collecting data from all Azure Resources using Log Analytics and analyzed the data to resolve issues.
+Used Terraform to reliably version and create infrastructure on Azure.
+Created resources, using Azure Terraform modules, and automated infrastructure management.
+Written Templates for Azure Infrastructure as code using Terraform to build staging and production environments.
+Integrated Azure Log Analytics with Azure VMs for monitoring the log files, store them and track metrics and used Terraform as a tool, Managed different infrastructure resources Cloud, VMware, and Docker containers.
+Wrote Docker files to build the custom Docker images for the applications with the necessary packages required for the run time environment.
+Setting up Docker Networking and Docker volumes for data persistence for various applications.
+Build additional Docker Slave nodes for Jenkins using custom built Docker images and instances.
+Designed Ansible playbooks and various roles for applications, then deployed the Applications/Services on hosts.
+Migrate Data from Elasticsearch-1.4.3 Cluster to Elasticsearch-5.6.4 using Logstash, Kafka for all environments.
+Infrastructure design for the ELK Clusters. Elasticsearch and Logstash performance and configuration tuning.
+Implemented Disaster management for creating Elasticsearch clusters in two DC and configure Logstash to send same data to two clusters from Kafka.
+Responsible to designing and deploying new ELK clusters (Elasticsearch, Logstash, Kibana, beats, Kafka, zookeeper etc.
+Design, build and manage the ELK (Elasticsearch. Logstash, and Kibana) cluster for centralized logging and search functionalities for the App.
+Responsible for designing and deploying new ELK clusters (Elasticsearch, Logstash, Kibana, beats, Kafka, zookeeper etc.
+Written and Maintained Automated Salt scripts for Elasticsearch. Logstash, Kibana, and Beats.
+Experience in Kibana in data visualization and monitoring Cluster and performance through X-pack
+Automated various infrastructure activities like Continuous Deployment, Application Server setup, stack monitoring using Ansible playbooks and has Integrated Ansible with Jenkins.
+Installing Tomcat application, deployment of WAR, JAR, and EAR files across all the environments through Ansible playbooks.
+Setup Jenkins's server and build jobs to provide continuous automated builds based on polling the Git source control system during the day and periodic scheduled builds overnight to support development needs using Jenkins, Git and Junit.
+Created stored procedures to import data in to Elasticsearch engine.
+Configured and maintained Jenkins to implement the CI process and integration with tools like Gradle, Maven for the source code compilations.
+Integrating Selenium IDE and Selenium Web Driver using TestNG in Jenkins for automated tests for apps.
+Implemented tools SonarQube and Checkmarx to ensure the quality & identify security Flaws in the source code for various technologies.
+Creating complex JIRA workflows including project workflows, custom fields, notification schemes, reports and dashboards in JIRA.
+Integrated JIRA with Oracle Database.
+Responsible for GitHub (source code management) configuration and deployment.
+Maintained and coordinated environment configuration, controls, code integrity, and code conflict resolution.
+Experience on Splunk Deployments and enabled continuous integration as part of configuration management.
+Worked with the development team to create a collaborative IT operations model based on Agile and
+DevOps methodologies and wrote code to support automated IT operations methodology (foundation of cloud services) in various scripting languages.
+Installed Red hat Linux 6.4, 6.5 and windows 2008 and 2012 servers on HP x86 servers (C7000, DL360, DL380's)
+Environment: Azure, GitHub, Ansible, Jenkins, Docker, Terraform, Linux, SonarQube, Checkmarx, Jira, Tomcat.
+
+AT&T, Middletown, NJ Nov 2020 – Sep 2021
+Devops Engineer
+
+Worked with AWS Cloud platform and its features, which include IAM, EC2, S3, AMI, EBS, CLI, Cloud Watch, SNS and RDS.
+Creating S3 buckets and managing policies for S3 buckets and Utilized S3 bucket and Glacier for storage and backup on AWS.
+Involved in designing and deploying AWS Solutions using EC2, S3, EBS, Elastic Load balancer (ELB) and auto scaling groups.
+Created alarms and notifications for EC2 instances using Cloud Watch.
+Worked at optimizing volumes and EC2 instances and created multiple VPC instances and configuring Elastic Load Balancers with Auto scaling to handle high traffic loads.
+Worked on AWS-IAM in order to create new accounts, roles and groups.
+Configured AWS-EC2 Cloud Instances using AMIs and launched instances with respect to specific applications.
+Created and configured various Jenkins jobs in the infrastructure to achieve automation and control the entire continuous build, test and deployment process.
+Created various repositories for the applications in GitHub and configured webhooks for automated triggering of Jenkins builds.
+Automated application packaging and deployments.
+Managed Linux staging and testing environments.
+Analyzed the ANT build projects for conversion and converting to Maven build projects.
+Deployed Puppet, Puppet Dashboard and Puppet DB configuration management to existing infrastructure.
+Involved in setting up Puppet tools, configuring agents, creating Puppet modules using manifests, uploading desired classes for the nodes (clients).
+Created slaves in Puppet and added them to build an environment for faster processing.
+Worked on Chef-server/workstation and nodes via CLI tools, deployed packages and web applications on nodes through Chef-client.
+Responsible for design and maintenance of the GIT Repositories, views, and the access control strategies.
+Performed all necessary day-to-day GitHub support for different projects.
+Utilized Nexus artifactory as dependency management as well as to store artifacts.
+Coordinated with software development teams and QA teams on issues for better solutions.
+Troubleshooting and automated deployment to Tomcat server via Jenkins.
+Strong expertise in implementation of Kinesis, Elasticsearch, Logstash, Kibana Plugins.
+Experience on collect this Kubernetes metrics using Prometheus and send to Elasticsearch.
+Working on cluster maintenance and data migration from one server to other and upgrade ELK stack .
+Used JIRA as a Change Management/ Work Management/ SCRUM Agile Tool.
+Deployed J2EE applications to Application servers in an Agile continuous integration environment and also automated the whole process.
+Support for Linux/Unix systems administration, operational support and problem resolution for server systems.
+Buffer incoming events when Splunk processes are not available using syslog-ng.
+Environment: AWS, Jenkins, Splunk, Chef, Puppet, ANT, Maven, JIRA, GitHub, Linux E.
+
+IB HUBS LTD. HYDERABAD April 2018 to Nov 2019
+BUILD & RELEASE ENGINEER
+
+Maintained and enhanced existing PUPPET modules to be deployed across various providers and deployment architectures.
+Managed PUPPET classes, resources, packages, nodes and other common tasks using PUPPET console dashboard and live management.
+Creating & conducting walkthroughs of ‘Deployment Plans' for complex large-scale Releases including Mock Deployments in Pre-Prod environments & Production Installations.
+Working with an agile development team to deliver an end-to-end continuous integration/ delivery product using Run deck integrated with JENKINS to get the job done.
+Deployed PUPPET Dashboard and PUPPET DB for configuration management to existing infrastructure.
+Involved in migration activities of Java scripts and Database scripts from Oracle, MS SQL Server and MYSQL into different environments like Development, QA, UAT and Production on Red Hat
+Enterprise Linux (RHEL) Infrastructure.
+Designed and implemented GIT metadata including elements, labels, attributes, triggers and hyperlinks.
+Implemented & maintained the branching and build/release strategies utilizing GIT.
+Performed all necessary day-to-day GIT support for different projects.
+Responsible for design and maintenance of the GIT Repositories, and the access control strategies.
+Experienced with CI tools (JENKINS, Hudson) and Version Control Tools or Source Code tools.
+Responsible for writing Manifests to configure nodes.
+Experienced in build automation using JENKINS, Maven, ANT.
+Experienced in deploying Java projects using Maven/ANT and JENKINS.
+Good understanding of building the Android Applications using the Maven and JENKINS.
+Building post install scripts using Shell scripting in Linux servers.
+Involved in Installing, Configuring and Upgrading of RedHat Linux AS 4/5, Solaris 9/10 operating systems.
+Installed and configured JBoss application server on various Linux servers.
+Updating systems with new versions of OS and application software.
+Defined and maintained disaster recovery plans.
+System administration, maintenance and monitoring various day-to-day operations.
+Experience on File system issues and Disk management.
+Configuring and maintaining the Active Directory.
+Providing 24x7 support to the organization.
+Creating, deleting and modifying the user accounts on Linux.
+Installation and support of various applications and Databases including Oracle, MySQL along with Tomcat.
+User management, Creating and managing user accounts, groups and access levels.
+Through Knowledge of Linux internals and utilities (kernel, Memory, Swap, CPU).
+Package management using RPM and YUM.
+Automated some jobs by deploying the CRON tool for job scheduling processes.
+Monitored the Linux servers on a regular basis and was into tuning them accordingly in order to optimize performance.
+Monitored Linux server for CPU Utilization, Memory Utilization, and Disk Utilization for performance monitoring.
+Administer user accounts on all servers, configure user profiles, troubleshoot and resolve user login problems.
+Environment: Java, J2EE, ANT, Maven, JENKINS, Tomcat, GIT, GIThub, Bash, PUPPET, VMWare,, Linux, CentOS, JUnit, Cobertura, Rational ClearCase, Rational ClearQuest, uDeploy, Nexus, Oracle, MS SQL Server.
+Contact this candidate

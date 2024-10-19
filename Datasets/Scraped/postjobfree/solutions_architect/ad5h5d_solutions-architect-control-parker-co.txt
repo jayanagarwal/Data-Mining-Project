@@ -1,0 +1,139 @@
+.
+CONTACT
+
+Denver, CO *****
+
+919-***-****
+
+ad5h5d@r.postjobfree.com
+
+SKILLS
+Cloud: Amazon Web Services, Azure and Nimbula
+Operating Systems: Ubuntu, Red hat Linux, CentOS Windows Server
+Version Control Systems: GitHub, Gitlab and Bitbucket
+IAAS/Config Management: Terraform, Ansible, Chef and Puppet
+Monitoring: Nagios, Prometheus, Grafana, Alert Manager, CloudWatch and Data Dog
+Web/Proxy Server: Tomcat, Apache, Nginx
+Containers/Orchestration: Docker, Kubernetes, ECS and EKS/AKS
+Devops Tools: GIT, GitHub, Bitbucket, Jenkins, TeamCity, GitLab, Nexus, Maven, Gradle, Docker, Helm, Kubernetes and ArgoCD
+Automation Tools and Scripts: Cloud Formation, Terraform, Shell scripting, Python and Ansible
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Professional – Validation Number: N0QHVE2D1E1QQ35C
+AWS Certified Solutions Architect – Associate – Validation Number: 53R3K63KH2QQQ5WB
+Certified Kubernetes Administrator (CKA)
+
+11+ Years of total IT experience and 5+ Years of Cloud/ Devops/SRE hands on
+experience across development, designing, implementing, and managing
+cutting-edge deployment and automation of cloud resources. Skilled
+at supporting, automating, and optimizing missing critical deployments,
+leveraging configuration management, continuous integration and
+continuous delivery, and DevOps processes
+
+WORK HISTORY
+May 2021 - Current
+Senior CloudOps Architect Estee Lauder, New York, NY
+Built entire infrastructure on AWS using hub & spoke models for all environments
+Improved code deployment efficiency by automating processes with CI/CD pipelines.
+Designed and implemented containerization strategies using Docker and Kubernetes, improving resource utilization and management.
+Reduced system downtime for critical applications by implementing robust monitoring and alerting tools.
+Standardized configuration management practices using Ansible for better visibility into infrastructure changes.
+Set up Single Sign On (SSO) connection with Google Apps identity provider to login to AWS console & cli
+Implemented multi-tier architecture in VPC using R53, ALB, ECS and Aurora
+Experience in Experience in Cloud FinOps / Cloud spend optimization.
+Experience using AWS Cost Explorer and other AWS Cost Management tools.
+Experience with cloud economics, AWS services, and AWS pricing models.
+Worked with multiple teams to develops Apptio which can increase visibility into cloud costs and presented to leadership.
+Brought up unique tagging policies for most of the resources in AWS
+Setup organizational AWS backup strategy for Prod, Dev environments.
+Used AWS trusted advisor to delete unused resources, resized the resources across different AWS accounts.
+Implemented DR setup for multiple applications between different regions
+Enabled multi-factor authentication (MFA) for AWS Managed Microsoft AD directory to increase security when users specify their AD credentials to access supported Amazon enterprise applications
+Automated infrastructure using Terraform, Terraform enterprise & CloudFormation for multiple projects
+Worked on setting up & trouble shooting Kubernetes(K8) clusters
+Solid experience in setting up ECS cluster, services & tasks
+Worked as a part of API integration
+Automated infrastructure & application pipe line using GitLab CI
+Implemented WAF (Web application firewall) in front of application load balancer & CloudFront for DDOS attacks, bad bot detection, to block crawling activity and more
+Cost optimized by converting on demand EC2 & RDS to Reserved instances
+Migrated the entire application from one region to another region with zero down time using DMS
+Implemented security best practices across all accounts like WAF rules implementation, tightening security groups & NACL, implementation of Guard duty
+Automated Migration of standalone Postgres database to Aurora Postgres Compatible database & used SSM to store database credentials
+Set up infrastructure monitors using CloudWatch & application monitors using Datadog
+Integrated AWS, Datadog, PagerDuty & status page for seamless monitoring, on call & status notification
+Setup Datadog monitors, logging and PagerDuty services from Scratch
+Implemented Lambda function to pull ALB log, WAF logs & cloud trail logs from S3 to data dog to set up monitors around them
+Implemented S3 DLP (Data loss prevention) using Cloud Trail on s3 buckets, CloudWatch events, SNS, Lambda to trigger Slack notifications for unauthorized Copy Object events to S3
+Strong experience is setting up VPC Peering & Creating brand new VPCs, public subnet, private subnet, Route tables, NAT instances and NAT Gateways
+Worked extendedly on AWS ACM certificates and go daddy certificates
+Written multiple cloud formation/Terraform templates to provision entire infrastructure that includes various AWS services
+Automation of Ec2 user data bootstrapping using shell scripting
+Worked extensively on Centos, Amazon Linux, Red hat Linux, Ubuntu and windows operating systems.
+September 2018 - May 2021
+Senior Cloud Devops Engineer Oracle, Hyderabad, Telangana
+Experience in setting up CI/CD pipelines for various applications based on team requirement
+Monitor, analyses, and report performance statistics for cloud hosted environments
+Supported oracle Development/Production infra related issues like – disk utilization, LDAP, NFS, kernel issues, patching individual utilities as per team request, user lock issues, samba setup, managing SUDO access etc.
+Worked on installing/upgrading server software as per client requirement
+Worked with various vendors, to replace Faulty components on HP hardware
+Analyzes system performances using top, sar, vmstat, netstat, iostat commands
+Worked with several application teams on supporting in Application deployment
+Supported development teams by providing them temporary OS platforms through docker
+Good exposure on docker container for testing applications
+Responsible for automating configuration automation setup using ansible for application team and other development teams.
+Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability, and performance
+March 2016 - August 2018
+Vice President, JP Morgan Chase and Co., Hyderabad, Telangana
+Managed infrastructure through Jira tickets and responsible to provide troubleshooting, resolution and providing root cause analysis
+Experience in writing AWS cloud formation templates to spin up entire infrastructure
+Setting up VPC Peering & Creating brand new VPCs, public subnet, private subnet, Route tables
+Implemented security policies using ACM certificates, security groups and NACL
+Setting up reverse proxy for http and https using NGINX
+Written multiple cloud formation templates to provision entire infrastructure that includes EC2, IAM roles and S3 buckets, ELBS, Auto scaling groups, Launch configuration and Route 53
+Experience in automated deployment of EC2 instances
+Configured strong password policy for users
+Enable MFA for privileged users and Monitor activity in AWS account Used security groups to develop logical firewall to ensure high security for control applications
+Used IAM to grant fine access of AWS resources to users
+Also, managed roles and permissions of users to AWS account through Identity and Access Management
+Used Cloud Front to deliver content from AWS edge locations to users, allowing for further reduction of load on front-end servers
+Set up Auto Scaling Groups based on memory and CPU to adapt to unforeseen spikes without having outage or needing manual intervention
+Set up Elastic Load Balancers for different applications to ensure high availability of applications
+Used Amazon S3 to backup database instances periodically to save snapshots of data
+Setup application environments to test load and behavior of docker containers, its orchestration using Kubernetes on EKS and AKS.
+November 2015 - March 2016
+Contributor Technical Support, Sabre Travel Technologies, Bangalore, CA
+Building servers for clients and creating filesystems based on client requirements
+Increased capacity & Performance of production machines by upgrading Hardware such as Disks, CPU, Memory, IO board, Power cooling unit, Mother Board & firmware
+Summarize and provide required information to other team members during Handover and completed work on time
+Patching servers through ansible playbooks.
+
+February 2015 - November 2015
+Senior Systems Engineer KPIT Technologies Limited, Bangalore, Karnataka
+Installed configured and upgraded of Red Hat Linux/ CentOS using PXE Boot/ Kickstart
+Deploying and configuring Virtualization technologies such as VMware ESX/ESXi and created and managed VMs (RHEL/CentOS) and got involved in virtual server maintenance
+Responsible for installing and managing YUM and RPM Packages
+Also created local yum repository for offline
+Managed systems routine scheduling jobs and enabling Cron jobs
+Configured and managed physical volumes, volume groups, and logical volumes, in addition extended PVS, VGS, and LVS for file system growth needs using LVM commands
+Configured various RAID levels such as RAID 0, 1, 5 and 6 for redundancy
+Configuring NFS server and mount exported NFS resources at client side
+NFS Administration, exporting file systems, mounting exported file systems
+Tuned kernel parameters to optimize system performance
+Fixed hosts that are not being backed up regularly and removing non-existing servers from backup policy to free up resources on NetBackup server
+Responsible for full life cycle of Linux servers from installation to decommissioning.
+December 2012 - February 2015
+Unix System Administrator High Points Technologies, Bangalore, Karnataka
+Worked on Data center migrations
+Upgraded and applied patches for RedHat/Solaris Servers
+Carry out Server Builds/Server De-commissioning Activities
+Worked on File system Administration on LVM
+Periodically checked server logs and took corrective actions
+File system administration using Veritas Volume Manager and Configuring Veritas Clustering on Linux/Solaris servers.
+
+EDUCATION
+Bachelor of Technology, Jawaharlal Nehru Technological University, Aug 2010 – Hyderabad, India
+
+.
+
+NANDA RAKESH GOPISETTI
+Contact this candidate

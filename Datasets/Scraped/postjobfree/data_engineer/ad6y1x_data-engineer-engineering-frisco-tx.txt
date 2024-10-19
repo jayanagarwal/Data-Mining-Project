@@ -1,0 +1,105 @@
+PROFESSIONAL SUMMARY:
+Over *+ years of experience in Data Engineering, Data Pipeline Design, Development, and Implementation as a Sr. Data Engineer/Data Developer and Data Modeler.
+Strong experience in writing scripts using Python API, PySpark API, and Spark API for analyzing data.
+Extensively used Python Libraries PySpark, Pytest, Pymongo, cxOracle, PyExcel, Boto3, Psycopg, embedPy, NumPy and Beautiful Soup.
+Experience in Google Cloud components, Google container builders GCP client libraries, and cloud SDKs
+Hands-on use of Spark and Scala APIs to compare the performance of Spark with Hive and SQL, and Spark SQL to manipulate Data Frames in Scala.
+I have expertise in Python and Scala, user-defined functions (UDF) for Hive and Pig using Python.
+Experience in developing Map Reduce Programs using Apache Hadoop for analyzing big data as per the requirement.
+Experience in working with Flume and NiFi for loading log files into Hadoop.
+Experience in working with NoSQL databases like HBase and Cassandra.
+Strong knowledge and hands-on experience with various GCP services and components, ensuring seamless cloud operations and optimizations.
+Good Experience in implementing and orchestrating data pipelines using Oozie and Airflow.
+Worked with Cloudera and Hortonworks distributions.
+Expert in developing SSIS/DTS Packages to extract, transform, and load (ETL) data into data warehouses/ data marts from heterogeneous sources.
+Good working knowledge of Amazon Web Services (AWS) Cloud Platform which includes services like EC2, S3, VPC, ELB, IAM, DynamoDB, Cloud Front, Cloud Watch, Route 53, Elastic Beanstalk (EBS), Auto Scaling, Security Groups, EC2 Container Service (ECS), Code Commit, Code Pipeline, Code Build, Code Deploy, Dynamo DB, Auto Scaling, Security Groups, Redshift, CloudWatch, CloudFormation, CloudTrail, Ops Works, Kinesis, IAM, SQS, SNS, SES.
+Experience in Data Analysis, Data Profiling, Data Integration, Migration, Data Governance and Metadata Management, Master Data Management and Configuration Management.
+Experience in developing customized UDFs in Python to extend Hive and Pig Latin functionality.
+Expertise in designing complex Mappings and expertise in performance tuning and slowly changing Dimension Tables and Fact tables
+Extensively worked with Teradata utilities Fast export, and Multi Load to export and load data to/from different source systems including flat files.
+Experienced in building Automation Regressing Scripts for validation of ETL processes between multiple databases like Oracle, SQL Server, Hive, and Mongo DB using Python.
+Proficiency in SQL across several dialects (we commonly write MySQL, PostgreSQL, Redshift, SQL Server, and Oracle)
+Experience in designing star schema, Snowflake schema for Data Warehouse, and ODS architecture.
+Skilled in System Analysis, E-R/Dimensional Data Modeling, Database Design and implementing specific features.
+
+TECHNICAL SKILLS SET
+Programming Languages
+Python, SQL, PL/SQL, Java, R
+Scripting Languages
+Unix Shell scripting, Python
+DBMS
+Oracle, DB2, Teradata, SQL Server, PostgreSQL
+Big Data
+Hadoop, HDFS, Hive, Spark, PySpark, Sqoop, Kafka
+NoSQL
+MongoDB, Amazon DynamoDB, HBase
+ETL Tools
+AWS Glue, Azure Data Factory, GCP, Airflow, Spark, Sqoop, Flume, Apache Kafka, Spark Streaming
+Version Controlling
+BitBucket, Git, GitHub
+Agile
+Jira, Rally
+Cloud
+AWS EC2, S3, Lambda, EMR
+WORK EXPERIENCE:
+
+Walmart, Bentonville, AR May’23 – Till Date
+Sr. Data Engineer
+Roles & Responsibilities:
+Worked on Big Data Integration and Analytics based on Spark, Hive, PostgreSQL, Snowflake, and MongoDB.
+Ingested the data into a data lake from different sources and performed various transformations like sort, join, aggregations, and filter to process various datasets.
+Automated data flow between the software systems using Apache Airflow.
+Migrated data from legacy Teradata system to MongoDB and built ETLs to load the data into MongoDB.
+Constructed the data pipelines for pulling the data from SQL Server, Hive. Landed the data in AWS S3 and loaded it into Snowflake after transforming.
+Developed data processing triggers for Amazon S3 using AWS Lambda functions with Python.
+Created ETL jobs using Spark to perform data migrations and data loads into HDFS, and Hive from different source systems.
+Created, and provisioned multiple Databricks clusters needed for batch and continuous streaming data processing and installed the required libraries for the clusters.
+Implemented Spark jobs for data preprocessing, validation, normalization, and transmission.
+Configured multiple Spark jobs to obtain efficient run time.
+Built ETLs to load the data from Presto, PostgreSQL, Hive, SQL Server to Snowflake using Apache Airflow, Python, and Spark.
+Used Apache Airflow with Python and Unix to submit the Spark batch jobs in the EMR Cluster.
+Utilized GitHub and Docker for the runtime environment for the CI/CD system to build, test, and deploy.
+Utilized Python to implement different machine learning algorithms, including Generalized Linear Model, Random Forest, and Gradient Boosting.
+Consumed the data from Kafka sources and implemented an analysis model.
+Developed BI reports which include various drill-throughs, crosstabs, dashboards, master detail, and summary reports using Tableau.
+Written Spark code using Python as the primary programming language to perform critical calculations.
+Participated in code reviews and demoting the application functionality and configurations to the stakeholders.
+
+Environment: AWS (Lambda, S3, EC2, Redshift, EMR), Redshift, Teradata 15, Python 3.7, PyCharm, Jupyter Notebooks, Big Data, PySpark, Hadoop, Hive, HDFS, Kafka, Airflow, Snowflake, MongoDB, PostgreSQL, SQL, Tableau, Agile/Scrum, XML, Jira, Slack, Confluence, Docker, GitHub, Git, Oracle 12c, Toad, Unix.
+
+Duke Energy, Charlotte, NC Jan’20–Sep’22
+Data Engineer
+Roles & Responsibilities:
+Participated in requirements gathering and worked closely with the architect and SMEs in designing and modeling.
+Handled data ingestions from various data sources, performed transformations using spark, and loaded data into HDFS.
+Involved in converting Hive/SQL queries into Spark Transformations/Actions using PySpark.
+Moved flat files generated from various feeds to HDFS for further processing.
+Developed ETL tool to load the data from a given source to target using Python, PySpark, Sqoop, Unix, and Hive.
+Created Sqoop incremental imports, landed the data in Parquet format in HDFS, and transformed it to ORC format using PySpark.
+Used Dynamic SQL and cursors and their attributes while developing PL/SQL objects.
+Created reusable utilities and programs in Python to perform repetitive tasks such as sending emails and comparing data.
+Created and maintained PLSQL procedures to load data sent in XML files into Oracle tables
+Used Sqoop to import the data from RDBMS to Hadoop Distributed File System (HDFS) and later analyzed the imported data using HIVE.
+Created UNIX shell scripts to load data from flat files into Oracle tables.
+Created Hive tables to store the processed results in a tabular format.
+Developed the Sqoop scripts to ingest the data from Oracle, Teradata, and DB2 into HDFS and Hive.
+Developed the Python and Hive scripts for creating reports from Hive data.
+
+Environment: Hadoop, Hive, Spark, HDFS, MapReduce, Python, PyCharm, PostgreSQL, Oracle 11g, SQL, PL/SQL TOAD, Unix, SharePoint, Teradata, DB2, SVN, Java, Eclipse
+
+SumTotal Systems, India May’18–Dec’19
+Software Developer
+Roles & Responsibilities:
+Provide support in all phases of the Software development life cycle (SDLC), quality management systems, and project life cycle processes.
+Following HTTP and WSDL Standards to Design the REST/SOAP-based Web API using XML, JSON, HTML, and DOM Technologies.
+Involved in the Installation and Configuration of Tomcat, Spring Source Tool Suit, Eclipse, and unit testing.
+Back-end server-side coding and development using Java data structure as a Collection including Set, List, Map, Exception Handling, Vaadin, Spring with dependency injection, Struts Framework, Hibernate, Servlets, Action, Action Forms&Java beans, etc.
+Developed Restful APIs to serve several user actions/events such as generating up-to-date card transaction statements, card usage break-down reporting, real-time card eligibility, and validation with vendor systems.
+Developed ETL processes with change data capture and feed into the data warehouse.
+Implemented Web API to use OAuth2.0 with JWT (JSON Web Tokens) to secure the Web API Service Layer.
+Implemented application development using many of the Design Patterns and Object-Oriented Processes in view of future requirements of the Payments domain.
+Front-end development utilizing HTML5, CSS3, and JavaScript leveraging the Bootstrap framework and Java backend.
+Used JAXB for converting Java Objects into XML and for converting XML content into a Java Object.
+Web services were built using Spring and CXF operating within MuleESB, offering both REST and SOAP interfaces.
+Environment: Java J2EE, JSP, JavaScript, Ajax, Swing, Spring 3.2, Eclipse 4.2, TDD, Hibernate 4.1, XML, Tomcat, Oracle 10g, JUnit, JMS, Log4j, Maven, Agile, Git, JDBC, Web service, XML, SOAP, JAX-WS, Unix, AngularJS and Soap UI.
+Contact this candidate

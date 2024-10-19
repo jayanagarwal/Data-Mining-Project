@@ -1,0 +1,94 @@
+PROFILE SUMMARY
+● *+ years of IT experience in Analysis, Design, Development in Big Data technologies like Spark, MapReduce, Hive, Yarn and HDFS including programming languages like Java, Scala, and Python.
+● Experience using various Hadoop Distributions (Cloudera, MapR, Hortonworks, Azure) to fully implement and leverage new Hadoop features. Experience in using Snowflake Clone, Time Travel and building snow pipe.
+● Hands-on experience developing data pipelines using Spark components, Spark SQL, Spark Streaming and MLLib.
+● Worked with csv, Avro, Parquet data to load into Data frames and do the analysis.
+● Experience in Cisco Cloud Center to more securely deploy and manage applications in multiple data center, private cloud, and public cloud environments.
+● Employed the Agile paradigm throughout the entire software development life cycle. Design and Develop ETL Processes in Azure data factory to migrate data from external sources like Text Files into Azure synapse.
+● Ability to work effectively and efficiently as a team member as well as individually with a desire to learn new skills and technology. Experience in automating day-to-day activities by using Windows PowerShell.
+● Expert in designing Parallel jobs using various stages like Join, Merge, Lookup, remove duplicates, Filter, Dataset, Lookup file set, Complex flat file, Modify, Aggregator, XML.
+● Practical knowledge in setting up and designing large-scale data lakes, pipelines, and effective ETL
+(extract/load/transform) procedures to collect, organize, and standardize data that can be used to Converted a current on-premises application to use Azure cloud databases and storage.
+● Have extensive experience in IT data analytics projects, including hands-on experience in migrating on-premise ETL processes to AWS using cloud-native tools such as Amazon Redshift, AWS Glue, Amazon S3, and AWS Step Functions.
+● Worked with creating Docker files, Docker containers in developing the images and hosting them in antifactory.
+● Proficient in building CI/CD pipelines in Jenkins using pipeline syntax and groovy libraries.
+● Experience in Big Data analytics, Data manipulation, using Hadoop Eco system tools Map - Reduce, Yarn/MRv2, Pig, Hive, HDFS, HBase, Spark, Kafka, Flume, Sqoop, Flume, Oozie, Avro, Sqoop, AWS, Spark integration with Cassandra, Avro, and Zookeeper.
+● Good understanding of Spark Architecture with Databricks, Structured Streaming. Setting Up AWS and Microsoft Azure with Databricks, Databricks Workspace for Business Analytics, Managing Clusters in Databricks, Managing the Machine Learning Lifecycle. Experience in deploying Microsoft Azure Multi-Factor Authentication (MFA).
+● Extensively worked with Avro and Parquet files and converted the data from either format Parsed Semi Structured JSON data or converted to Parquet using Data Frames in PySpark.
+● Good knowledge in Database Creation and maintenance of physical data models with Oracle, Teradata, Netezza, DB2, MongoDB, HBase and SQL Server databases.
+● Fostered a cooperative team environment by sharing knowledge, mentoring junior team members, and contributing to collective problem-solving efforts, strengthening team cohesion and performance.
+● Actively listened to business requirements and developed and delivered actionable data insights that informed strategic decisions and enhanced overall project outcomes. TECHNICAL SKILLS
+Big Data Ecosystem HDFS, Yarn, MapReduce, Spark, Kafka, Kafka Connect, Hive, Airflow, Stream Sets, Sqoop, HBase, Flume, Pig, Ambari, Oozie, Zookeeper, Nifi, Sentry Hadoop Distributions Apache Hadoop 2.x/1.x, Cloudera CDP, Hortonworks HDP Cloud Environment Amazon Web Services (AWS), Microsoft Azure Databases MySQL, Oracle, Teradata, MS SQL SERVER, PostgreSQL, DB2, Mongo DB NoSQL Database MongoDB, HBase
+Aws S3, Glue, Lambda, Redshift
+WORK EXPERIENCE
+Client: Northern Trust, Chicago, Illinois, U.S. 2023 Jul - Present Role: Azure Data Engineer
+Responsibilities:
+● Worked on gathering security (equities, options, derivatives) data from different exchange feeds and storing historical data. Designed and deployed a Kubernetes-based containerized infrastructure for data processing and analytics, leading to a 20% increase in data processing capacity.
+● Well versed with various aspects of ETL processes used in loading and updating Oracle data warehouse.
+● Created Pipelines in ADF using Linked Services/Datasets/Pipeline/ to Extract, Transform, and load data from different sources like Azure SQL, Blob storage, Azure SQL Data warehouse, write-back tool and backwards.
+● Implemented efficient file parsing and data ingestion routines using Python, resulting in a 40% increase in data processing speed.
+● Optimized SQL scripts in DBT to ensure efficient data transformations, leading to a 20% reduction in ETL runtime.
+● Implemented Synapse Integration with Azure Databricks notebooks which reduce about half of development work. And achieved performance improvement on Synapse loading by implementing a dynamic partition switch.
+● Developed ETL pipelines in Azure Data Factory to integrate data from heterogeneous sources into the data warehouse, facilitating comprehensive business analytics.
+● Automated data cleaning and preprocessing tasks with Python scripts, improving data quality and saving 15 hours per week in manual work.
+● Utilized GitHub Copilot to accelerate coding and improve development efficiency by providing intelligent code suggestions and automating routine coding tasks.
+● Designed and visualized business insights using Matplotlib, integrating data from Snowflake and Azure SQL Database to create comprehensive, actionable reports for stakeholders.
+● Automated data loading processes into Snowflake from Azure Blob Storage, improving data availability and reducing manual intervention by 40%.
+● Worked on CI/CD tools like Jenkins, Docker in Devops Team for setting up application process from end-to-end using Deployment for lower environments and Delivery for higher environments by using approvals in between.
+● Utilized dimensional modeling techniques to build star and snowflake schemas, enhancing the efficiency of data retrieval for Tableau.
+● Involved in development of Web Services using SOAP for sending and getting data from the external interface in the XML format. Implemented One time Data Migration of Multistate level data from SQL server to Snowflake by using Python and Snow SQL. and developing ETL Pipelines in and out of data warehouse.
+● Articulated complex technical concepts and data insights clearly to stakeholders, resulting in a 25% improvement in cross-functional decision-making and project alignment. Environment: Azure SQL Database, Azure Data Lake, Azure Data Factory (ADF), Azure SQL Data Warehouse, Github Copilot, Azure Blob Storage,Tableau, Azure Synapse, GenAIGIT, PySpark, Python, JSON, ETL Tools, SQL Azure, Control M, Tableau, Mongo DB, C#.
+Client: OSF Saint Francis Medical Center, Peoria, Illinois, USA 2022 Jun - 2023 May Role: Data Engineer
+Responsibilities:
+Microsoft Azure Databricks, Data Lake, Blob Storage, Azure Data Factory, SQL Database, SQL Data Warehouse, Cosmos DB, Azure Active Directory
+Operating systems Linux, Unix, Windows 10, Windows 8, Windows 7, Windows Server 2008/2003, Mac OS Software’s/Tools Microsoft Excel, Stat graphics, Eclipse, Shell Scripting, ArcGIS, Linux, Jupyter Notebook, PyCharm, Vi / Vim, Sublime Text, Visual Studio, Postman, Ansible, Control M. Reporting Tools/ETL Tools SSIS, SSRS, SSAS, ER Studio, Tableau, Power BI, Arcadia, Data stage, Pentaho Programming Languages Python (Pandas, SciPy, NumPy, Scikit-Learn, Stats Models, Matplotlib, Plotly, Seaborn, Keras, TensorFlow, PyTorch), PySpark, T-SQL/SQL, PL/SQL, HiveQL, Scala, UNIX Shell Scripting, C#
+Version Control Git, SVN, Bitbucket
+Development Tools Eclipse, NetBeans, IntelliJ, Hue, Microsoft Office
+● Engineered a Data Transformation Pipeline for a Healthcare Analytics Platform on AWS infrastructure using DBT and Redshift, ensuring compliance with HIPAA regulations and improving data processing efficiency by 40%.
+● Architected and implemented a dimensional model on AWS Redshift, structuring healthcare data into optimized fact and dimension tables, which enhanced reporting accuracy and reduced query times by 30%.
+● Developed and maintained ETL processes using Apache Spark integrated with Hadoop and HDFS, enabling the seamless processing and analysis of massive healthcare datasets and improving workflow efficiency.
+● Designed and implemented an event-based system with AWS EventBridge and AWS Lambda, automating data ingestion and processing workflows and reducing latency by 35%.
+● Designed and optimized HIVE scripts within the Hadoop ecosystem to query large volumes of Electronic Health Records (EHR), improving data retrieval speed by 25% and supporting complex healthcare analytics.
+● Integrated MongoDB as a scalable NoSQL database to handle unstructured healthcare data, enhancing data storage flexibility and improving the performance of real-time analytics by 35%.
+● Utilized Python libraries (Pandas, NumPy) to process large datasets, performing complex data transformations before loading them into Snowflake for further analysis.
+● Conducted code reviews and merged pull requests on GitHub, maintaining high standards of code quality and promoting best practices in development.
+● Implemented complex SQL queries to transform raw data into insightful dashboards, improving decision-making speed by 35%.
+● Utilized Python libraries (Pandas, NumPy) to process large datasets, performing complex data transformations before loading them into Snowflake for further analysis.
+● Leveraged AWS Glue and DBT to transform raw healthcare data into a structured, analytics-ready format, aligning data pipelines with business logic and ensuring high data quality across the platform.
+● Collaborated with cross-functional teams, including data engineers, analysts, and healthcare professionals, to refine data models and ensure that the analytics platform met both technical requirements and business needs.
+● Implemented effective communication and collaboration practices with stakeholders and team members, leading to a 20% reduction in project delivery time and ensuring alignment on key objectives throughout the project lifecycle.
+Environment:Aws Services, Jenkins, Ansible, Python, Shell Scripting, PowerShell, GIT, Microservice, Snowflake, Cassandra, Jira, Docker, AWS Glue, Kafka, Scrum, Git, Airflow, Control M, Tableau, Mongo DB, C#. Client: HDFC Bank, Mumbai, India 2020 Jan - 2021 Aug Role: Big Data Engineer
+Responsibilities:
+● Engineered a Financial Model Engine for the Credit Risk Platform on Big Data infrastructure using Scala and Spark.
+● Migrated Hive queries to Spark transformations using DataFrames, Spark SQL, SQL Context, and Scala, enhancing processing speed by 40%.
+● Automated task dependencies and failure handling in Airflow, minimizing downtime and enhancing the efficiency of the credit risk platform by reducing manual intervention and operational costs by 20%.
+● Automated data imports from Oracle/Linux to HDFS using Sqoop and created Hive queries to process large structured and unstructured datasets.
+● Solved data processing inefficiencies by utilizing Python for scripting and data manipulation tasks, significantly enhancing workflow efficiency.
+● Leveraged SQL to create optimized indexing strategies and partition tables, boosting query performance and reducing data retrieval time
+● Automated data transformation workflows using HIVE, streamlining the data preparation process and increasing overall data processing efficiency by 25%.
+● Utilized Kubernetes for isolating and scaling data processing tasks, enabling seamless handling of large datasets and improving data processing throughput by 25%.
+● Developed Spark DataFrame operations for data validation and analytics, performing transformations, joins, filters, and pre-aggregations using Hive for optimized data processing and storage.
+● Developed and scheduled shell scripts and batch jobs for various Hadoop programs, and automated data pull and push processes using shell scripts, reducing manual interventions and operational costs.
+● Implemented test-driven development with Autosys automation, maintained disaster recovery protocols, and supported the application support team with production issues to ensure system reliability and continuity.
+● Executed advanced statistical analyses, uncovering actionable insights that led to a 15% increase in marketing campaign ROI.
+● Collaborated with open-source communities to commit and review code, and worked with data center teams on testing and deployment, ensuring smooth operation and minimal downtime.
+● Delivered sprint goals in an agile environment using Kanban, Agile, and Git Stash, and compared the performance of Hadoop-based systems to existing processes, achieving significant performance improvements. Environment: Python 3.6, ETL, Docker, MySQL, MongoDB, Kafka, PySpark, Jenkins, Jira, Linux, NumPy, Pandas, SQL Alchemy, Cloudera, PostgreSQL, Spark SQL, HDFC, Hadoop Client: Ajmera Realty & Infra India, Mumbai, India 2018 Jun - 2019 Dec Role: Data Engineer
+Responsibilities:
+● Experience in using different types of stages like Transformer, Aggregator, Merge, Join, Lookup, and Sort, remove duplicated, Funnel, Filter, Pivot for developing jobs. Developed a fully automated continuous integration system using Git, Jenkins, MySQL and custom tools developed in Python and Bash.
+● Developed automated CI/CD pipelines using Git and Jenkins for continuous integration.
+● Developed star and snowflake schemas within the dimensional model, simplifying complex healthcare data relationships and enabling faster, more efficient data retrieval and analysis.
+● Engineered end-to-end data pipelines using AWS Glue, leveraging Apache Spark for both batch and stream processing, resulting in a 50% reduction in ETL processing time.
+● Optimized complex SQL queries in Amazon Redshift, leading to a 50% reduction in query execution times and significant cost savings by efficiently utilizing query slots and storage.
+● Created and maintained APIs using AWS API Gateway and Lambda, improving system interoperability and leading to a 35% increase in cross-system data accessibility.
+● Used Snowflake's Python connector and SQLAlchemy to integrate Python-based ETL scripts directly with Snowflake, enabling seamless execution of SQL queries and data manipulation within the Python environment.
+● Leveraged Amazon EMR to process large datasets with Apache Spark and Hadoop, accelerating big data processing jobs and optimizing cluster resource usage.
+● Optimized Spark jobs written in Scala for better performance, achieving a 40% reduction in resource usage and faster execution times.
+● Documented project requirements, implementation details, and release notes using GitHub's README and Wiki features, enhancing project transparency and supporting effective communication within the development team.
+● Implemented data blending and aggregation techniques in Tableau to combine multiple data sources, providing a comprehensive view of business metrics and enhancing cross-functional reporting accuracy.
+● Optimized SQL queries for faster data retrieval, reducing query execution time by 40%.
+● Created comprehensive SQL reports for business analysis, leading to a 20% increase in operational efficiency.
+● Implemented SQL-based data quality checks, ensuring data integrity and accuracy across various datasets.
+● Consult leadership/stakeholders to share design recommendations and thoughts to identify product and technical requirements, resolve technical problems and suggest Big Data based analytical solutions. Environment: HDFS, HBase, Hive, Spark, Tablea, SQL, Terraform, RDBMS, Python, Delta Lake, Jira, Confluence, Git, Kafka, Jenkins, Aws Services
+EDUCATION
+● Masters in Computer Science from Western Illinois University, USA
+Contact this candidate

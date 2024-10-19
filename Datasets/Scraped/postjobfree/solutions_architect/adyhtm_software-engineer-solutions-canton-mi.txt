@@ -1,0 +1,133 @@
+Professional Summary
+●Over **+ of IT experience in delivering enterprise solutions in cloud-based, client/server and web arena.
+●Expertise in conceptualizing, designing, and coding technical solutions using Java/J2EEtechnology stacks.
+●Created technical documents that cover architecture, design, and integration needs.
+●Defining and implementing an effective CI/CD pipeline using Jenkins scripts for right environments.
+●In depth exposure to security/authentication solutions, architect and design various web service implementations, utilized Object Oriented Architecture Design (OOAD) modeling and designing artifacts to satisfy moderate to complex business problem statements.
+● Strong experience in all the phases of software development life cycle (SDLC) including requirements gathering, analysis, design, implementation, deployment, and support.
+●Strong Programming Skills in designing and implementation of multi-tier applications and microservices using Java, J2EE, Spring technologies.
+●Experience in providing security and authentication mechanisms for microservices and APIs – oauth2,JWT
+●Technical architecture experience using Java design patterns such as Session Façade, Singleton, Data Access Objects (DAO), and Business Delegate, Singleton, MVC frameworks for different cloud and web-based projects.
+●Understanding of Microservice Architecture and Design Patterns.
+●Demonstrated Expertise in using SQL queries with different database technologies for building web services –, SQL,MYSQL,Azure-Cosmos DB,MongoDB,Oracle8 (PL/SQL)
+●Experience in software testing - Junit testing(TDD), acceptance testing (BDD), performance load testing, bug tracking and also providing operational metrics dashboards for the product.
+●Work independently, or as part of a team, to design and develop enterprise data solutions.Performed code reviews.
+●Excellent written and verbal communication skills, presentation, and problem-solving skills.
+●Strong relationship management skills, enthusiastic & self-driven, with a high degree of commitment to project deadlines.
+
+Professional Experience
+Ford Motor Company
+Senior Software Engineer (Backend Java Developer/Software Architect) Dec 2017 -Present
+oCollaborated and communicated with Product development team engineers in Connected Vehicle Feature Management Application (CVFMA) to find the appropriate technical architecture solutions for various Java microservice based solutions which were using monolithic code. POC done for architecting solutions for services with GCP (gconsole, cloudrun,cloudsql) not deployed to production.
+oCollaborate with CVFMA development team members to code Java based test cases (TDD,BDD) for the POC done for the new java/spring based microservices.
+oLead discussions with a group of Ford and Otosan engineers for technical gap analysis to identify solution gaps for a connectivity vehicle launch in Turkey.
+oCreated architecture artifacts and standards for product teams where necessary to communicate the technical design, microservice based architecture design and implementation aspects of the java-based applications.
+oTechnical excellence on delivery engagements of Connectivity & Cloud Delivery- Location Based Service API products –(Trip manager, Routing, Vehicle Signals, CVAS - Vin Master reset) for P702/CX727 to support J1 vehicle launches.
+oTook a lead role with various backlog stories of Team Prime related to Electric Vehicle Location Aggregator API - charge location and Tariff data form public charge location providers. Did design, develop and code reviews with them to meet some critical deadlines with the location aggregation service handled as a batch program.
+oCreated technical architecture and detailed design artifacts to help the team understand the authentication/authorization needed for Trip planner Apis integrate with other Foundational Services Authentication REST endpoints - CAT token, IP Passthrough(IPPT).
+oLead the application architecture and design for the microservice for analytics dashboard – Connected Vehicle Authorization Service (CVAS) with Kafka messaging as consumer for brand reset of VIN of Trip planner API. Collaborated with RTSA and CVAS team members for the setting up of the Kafka topic as consumers. to read the trip related messages.
+oContinuously learned new tools and improved the Splunk, Dynatrace, SRE observability dashboards to meet the
+End User Experience monitoring & Operational measurements.
+
+oProvided expertise for improving the Continuous Integration/ Continuous Delivery(CI/CD) process like blue/green deploy, automated testing, security checks etc. in the Jenkins pipeline scripts.
+oProactively monitored and adjusted the Trip planner product for any errors and participated with cross functional teams for triage of issues.
+oIn some of the product delivery tasks - got the opportunity to strengthen my role as a go to technical SME on the team, offering continuous coaching to other Software Engineers on processes and frameworks.
+oParticipated in Agile ceremonies – Backlog refinement, standups, proactive in retro sessions.
+oParticipated in Product demos and presented to Product owners and other participants.
+oFollowed best practices when deploying the light-weight microservices - REST api’s in PivotalCloudFoundry (OFF perm) with this technology stack – Java/J2EE, Spring framework, MongoDB
+oContinuously deliver high quality products by following best practices of writing unit tests and following TDD and BDD for the Trip planner product. Jmeter tests were written for performance load tests and automated in the CI/CD pipeline.
+oAutomated product testing related Postman smoke tests collection in Jenkins pipeline using newman commands.
+
+Environment/Skills : Microservices design patterns, REST Api, Java 7,8, SpringBoot2.x/3.x, Spring 3.x/4.x/5.x, spring-core,spring-starter-web,SpringMVC,spring-data,spring-kafka,spring-mongodb,spring-cloud-config, spring-actuator,spring-security,springJunit, Jenkins2.x on OpenShift Container Platform (CI/CD pipeline), Apache kafka,Jenkins,Postman, Gherkins(Cucumber tests), Junit,Mockito,JWT token, MTLS, SSL/TLS, LoadBalancer,Microsoft Azure IDP, Microsoft Azure APIM Gateway, VMTanzuware - Pivotal Cloud Foundry(PCF), Redis Cache, Hashicorp Vault, Azure CosmosDB for MongoDB 3.x/4.x, AngularJS, HTML, CSS, JSON, Log4j, Splunk,Grafana,Dynatrace, Maven, Gradle, GIT, Unix.
+
+University of Michigan (UFM) Mar 2004 – Nov-2017
+Lead Developer/Analyst
+Project: Backend Java Webservices –
+oThe IAM team needed different backend REST and SOAP based webservices that are to be consumed for different frontend applications. Responsible for multitasking on different projects to create technical architecture /design artifacts and implement, deploy these webservices.
+oProvided Technical Architecture Diagram(TAD), Design/implementation documents, Logic workflows and reviewed with cross-functional teams.
+oInvolved in documentation, review, analysis, and fixed post production issues.
+oMaintained the Production and the Test systems, coordinated with infrastructure operations the release and deployment plans
+oWorked on bug fixing and enhancements on change requests
+oMultitasked on different projects depending on competing priorities
+oAs part of the team with developers, multi-tasked on different java based projects working on medium to complex business projects.
+oCollaborated with UI/UX, Infrastructure team members, Business Owners, Business Systems Analysts in full development life cycle.
+oFollowed Iterative and Agile methodology for different projects.
+oDesigned and developed UI screens with JSP, JSTL(MVC) and Bootstrap, jQuery,
+oHTML, CSS to provide interactive screens to display data
+oDeveloped the business layer logic and implemented POJO, Java Beans with Data Access Objects (DAO)
+oImplemented Java and J2EE Design patterns like Business Delegate and Data Transfer Object (DTO), Data Access Object (DAO) and JNDI
+oProvided implementation for cert based authentication for the web application with the underlying REST based Identity Proof (ID Proof) web service
+oIntegrated with existing Dart REST based webservices hosted by IBM API WS02
+oIntegrated with SOAP based uniqname web services which has cert based authentication that performs the backend functionality for unique name creation and change password.Created standalone java application to send asynchronous messages using JMS for unique names to a Active MQ messaging queue later consumed by another unit.
+oCreated Web service wrapper for PeopleSoft data client using top-down approach from WSDL to perform PeopleSoft data validations.
+oInvolved in documentation, review, analysis, and fixed post production issues
+oMaintained the Production and the Test systems, coordinated with infrastructure operations the release and deployment plans.
+oMultitasked on different projects depending on competing priorities
+oWebsite - https://password.it.umich.edu/AccountRegistration/
+oFor Imaging – Document Management Application - Primary support person to collaborate with project manager and analyst to resolve issues which Used JavaScript (script) based vendor purchased API. (Perceptive Software)
+
+Project: Research ID Management System (RIMS) –
+oResearch Identifier Management System, an application which allows users at the University Libraries to manage their ORCID (Open Researcher and Contributor ID) ID research identifiers. The use of the ORCID will allow for proper accreditation of scholarly output to individuals and, due to increasing requests for inclusion with grants, facilitate the grant submission process.
+oAnalyzed the requirements and created architecture/ technical design documents for RIMS
+oUnderstood how the third party ORCID API works.
+
+Project: Self-Service ID Management System
+oSSID (Alumni web application-UI) is an initiative to build a web application for creation of unique names for Alumni, Students, and Employees across the campus. This application checks mcommunity authorized data source before the user can create unique name and change their passwords. This system integrates with 3 different underlying systems – DART, Peoplesoft System, LDAP (vault) to validate data. It also makes SOAP based unique name services (java webservice) to create unique name and change passwords.
+
+Project: Wolverine Access Gateway (Analyst/programmer)
+●Provided design, implementation of WA website as a gateway for different links of PeopleSoft and other third-party applications
+●Implementation of single sign on – cosign and authentication mechanism with two-factor customized java AUTH filter
+●Created middleware client (jar-Java Archive) for Access and Compliance (eAC) SOAP/REST based web service that does compliance check for the logged –in user for WA site. This jar will work with different WA - PeopleSoft links
+●Involved in this site upgrades with changes that happened with PeopleSoft upgrades that were spread across 3 different business units - FIN, HCM, CS
+●Website - https://wolverineaccess.umich.edu/f/u24l1s13/normal/render.uP
+Environment - RedHat Linux, Apache, Tomcat 6.0/7.0, Java1.6/1.7, JSP, Servlet2.0/3.0, Java Beans, Spring Core, Java Servlet/Filter, JAX-WS, JAX-RS, JMS, XML, Cosign – UFM Single sign on,LDAP, JUnit, jQuery, Bootstrap, HTML, CSS, JSON, Log4j, Web Services, Maven, Jenkins, Unix
+Technical Skills
+Cloud Technologies:
+VMWare Tanzu Pivotal Cloud Foundation(PCF) - (4+ years)
+GCP (gconsole,cloudrun,cloudsql) < 6 months - used for poc projects
+Minimum Knowledge of AWS
+Front End UI Technologies:(3+ years)
+Javascript, Jquery, Bootstrap,HTML 4/5,CSS,,JSP,Thymleaf,AngularJS11(1 year)
+Knowledge of TypeScript
+Angular 11(1- year)
+Java : JDK, Java 6,7,8, 11(latest)
+J2EE Technologies:
+J2SE, J2EE 1.2, Servlets, JSP (JSTL, Custom Tags),Hibernate 3.x(JPA), Java Beans, JDBC,JMS, JNDI
+Web Technologies:
+XML, JSON, XSL, XSLT, SAX, DOM, CSS, JavaScript, HTML, AJAX, GUI, Web services (SOAP, WSDL, Axis),
+Server side / client side, Java script, JAX-WS, Apache-CXF2.0.x,Authentication, Authorization, SSO, HTTP, TLS1.x,MTLS
+Spring Boot 2.x/3.x/4.x/5.x, Spring 2.x/3.x/4.x/5.x, Spring Core, Spring WS, Spring Web, Spring-mvc,Spring Boot Actuator
+Spring-mongodb,Spring-scheduling,spring-data,Apache Kafka 3.x integration with springboot-kafka
+SL4J,Log4J
+Application Servers:
+WebLogic8.x/9.x, Tomcat7.x/8.x
+Database Technologies:
+LDAP, Oracle, Sybase, MYSQL, Cosmos DB,MongoDB
+IDE:
+Eclipse3.x/4.x, NetBeans, IntelliJ-Idea
+Operating Systems:
+Windows, Unix, and Linux
+Source Control:
+GIT, Subversion (SVN), CVS
+Continuous Integration(CICD):
+Jenkins on OpenShift, GIT, Maven,,Gradle,Sonarqube, checkmarx (DAST and SAST for API vulnerability checking)
+Knowledge of Kubernetes and Docker
+Testing Tools:
+ApacheJmeter,,JUnit3.x/4.x,CucumberBDD/Gherkin,Postman(smoketests),TDD,Mockito,Hamcrest,spring-test,
+SleniumWebDriver
+Monitoring tools:
+Splunk, Dynatrace, Grafana(Prometheus)
+
+Methodologies:
+UML, OOAD, Waterfall, Iterative,Agile
+Others:
+Visio, Word, Miro, Shell Scripting, Apache Directory Studio (LDAP client),Azure Storage Explorer,Postman,Jmeter,SOAPUI
+
+Education
+Masters in Computer Science, 2000-2005
+University of Michigan – Dearborn, MI
+Bachelors in Electronics and Instrumentation, 1990-1994
+Kakatiya Institute Of Technology (Warangal,A.P,India)
+
+References will be provided upon request.
+Contact this candidate

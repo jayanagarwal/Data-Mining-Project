@@ -1,0 +1,114 @@
+Jim Xu
+***** *** ***** **** 972-***-****
+Frisco, Texas 75035 aczh9x@r.postjobfree.com
+
+SUMMARY
+- Have years of experience in high performance networking solutions for NFV cloud and bare-metal Linux host.
+
+- Have years of experience in architecture and design of high performance software for telecommunication networks and data communication networks.
+
+- Have years of experience in communication protocols for telecommunication networks and IP networks.
+
+SKILLS
+- NFV, SDN, OpenStack, High Performance Networking with DPDK.
+- Ethernet, IP Routing and Forwarding, TCP/UDP, VoIP, RTP, SIP.
+- Networking Security, IPSec, DPI, IPS/IDS, PCRE.
+- Linux Kernel, Linux Networking Stack.
+- Linux Virtualization, KVM, QEMU.
+- Open Source Software, Embedded Software Development.
+- RTOS, BSP and Device Driver.
+- GNU C/C++, Java, Smalltalk.
+
+EDUCATION
+Oklahoma State University (Stillwater, Oklahoma)
+MS in Industrial Engineering, 12/95
+
+Shanghai Jiao Tong University (Shanghai, China)
+BS in Electrical Engineering, 07/86
+
+EXPERIENCE
+6WIND (Santa Clara, California)
+Solutions Architect for High Performance Networking 09/16 - Present
+- Lead solution architecture for fast-path networking software products and services.
+- Lead customer engagements in solutions for resolving Linux networking bottlenecks in bare-metal hosts as well in virtual-machine guests.
+
+Wind River Systems (Santa Clara, California)
+Field Engineering Specialist 12/13 – 08/16
+-Lead solution architecture for NFV solutions, DPI solutions, and DPDK solutions.
+-Lead global customer engagements for engineering solutions of Hyperscan, an Intel Deep Packet Inspection (DPI) software engine that enables high performance network security solutions, such as firewalls, Intrusion Detection and Prevention Systems (IPS, IDS), virus/malware scan, and Unified Threat Management (UTM).
+-Responsible for virtual Customer Premises Equipment (vCPE) as Virtual Network Functions (VNF) in OpenStack and Wind River Titanium Server, an end-to-end Network Function Virtualization (NFV) infrastructure solution.
+-Lead development of virtualized network security functions using Hyperscan, libpcre, Intel DPDK and Linux KVM on Intel Architecture.
+-Designed and implemented an advanced Multiple Pattern Matcher (MPM) for Suricata that significantly improves the system packet-processing throughput and is validated with the Emerging Threats rule set.
+
+Cisco Systems Inc. (Richardson, Texas)
+Senior Software Engineer, Internet-of-Things Business Unit 09/12 – 11/13
+- Responsible for the Cisco IOS embedded software development for switches and routers used in commercial and industrial networks.
+- Implemented device drivers and SNMP functions for the embedded industrial network switches as Cisco’s Internet of Things offerings.
+- Implemented the board support package for the hardened security router for industrial network applications.
+
+Cisco Systems Inc. (Richardson, Texas)
+Open Source Specialist, Small Business Technology Group 08/09 – 09/12
+- Responsible for the Cisco COSI process of code review and licensing compliance of the open source software in switches, routers, wireless access points, IP cameras and NAS products.
+- Verification of embedded Linux distributions in system build environments.
+- Verification of open source components in system build environments.
+
+Cisco Systems Inc. (Richardson, Texas)
+Technical Leader, Small-Business Business Unit 11/04 - 07/09
+- Led the Video Surveillance IP Camera project with ODM vendors.
+- Led design and implementation of the Media Termination Server (Audio Server) of the IP Phones and Voice Gateways for small-and-medium business solutions.
+- Designed and implemented 3-party conferencing functions in the IP phones.
+- Designed and implemented RFC2833 DTMF Digit Relay functions in the IP phones and the voice gateways.
+- Designed and implemented the Record and Playback Unit (RPU) for voice mail and auto attendant of the IP phones and the voice gateways.
+- Implemented kernel module enhancements for the Audio Server and the Keypad.
+- Implemented localized Caller ID functions for the FXS and FXO ports of the voice gateways.
+- Served as a primary contact to the TI hardware and DSP reference platforms for the LinksysOne solution.
+- Led the JDM vendor and the Cisco TME for the voice and media functions of the IP phones and the voice gateways.
+- Ported the Cisco Wildcard Audio Server to the Little-Endian Linux Platform in the LinksysOne IP Phones.
+- Implemented an embedded Bonjour Service Discovery client program for the Cisco IP phones.
+
+Flextronics International (Richardson, Texas)
+Staff Software Engineer 01/02 – 10/04
+- Designed and implemented firmware for a multi-functional security authenticator that includes a USB microcontroller, a Smart Card IC, and a proprietary security IC.
+- Designed and implemented a DVT testware for the FFT reference design of the Altera Stratix II FPGA board and the TI TMS320C6416 DSP board.
+- Designed and implemented an automated manufacturing testware for industrial ink printers using LabVIEW.
+- Implemented a multilingual ROM configuration for a wrist PDA based on ParmOS and DragonBall.
+- Implemented the multilingual Address Book, ToDo List and Datebook for the wrist PDA.
+- Led the design, implementation and integration of a wireless and GPS asset-tracking device.
+- Implemented a Nucleus Plus configuration and its BSP for the AT91M55800 based hardware platform for the asset-tracking device.
+- Designed and implemented the wireless data networking framework for the asset tracking device, including PPP over CMDA 1xRTT and PPP over AMPS.
+- Designed and implemented the NMEA compliant GPS device driver for a Mitsumi GPS unit.
+- Designed and implemented the device driver for a Power Line Communication controller.
+- Designed and implemented the serial driver for the on-chip USART controllers and the external UART controllers that are compatible with serial mode, modem mode and PPP mode of communication.
+- Designed and implemented the device drivers for the digital and analog I/O ports of the asset tracking device.
+- Designed and implemented a diagnostics framework for the hardware DVT and the system diagnostics of the asset tracking device.
+- Led the design, implementation and integration of a human interface panel for rack-mount network security appliances in 1U and 2U form factors.
+- Designed and implemented firmware for the human interface panel.
+- Implemented a DVT testware for the 1U and 2U appliances.
+- Designed and implemented the DVT Testware for an MPC860T based master controller card of an all optical network access product.
+- Implemented the BSP and the device drivers for the DVT Testware, including Fast Ethernet, Ethernet, UART, SPI, RTC, WDT, boot flash memory and main flash memory.
+- Investigated benchmarking software for Linux clusters.
+- Led concept evaluation of Altivec optimization of Bioinformatics algorithms in a PowerPC 74xx based Linux cluster.
+
+DNA Entreprises, Inc. (Richardson, Texas)
+Senior Software Design Engineer 01/96 – 01/02
+-Designed and implemented an in-system JTAG programmer for EEPROM/SRAM/FPGA in a power testing instrument.
+-Led the research and the prototyping of Web-based SNMP network management system in a J2EE/Tomcat4/Linux environment.
+-Developed a common OSE BSP for the MPC8260 based controller cards and channel cards of a DWDM product.
+-Led design and implementation of the messaging software framework for a DWDM product.
+-Designed and implemented an EDFA device driver for a DWDM product.
+-Led the design and implementation of the DVT diagnostic and testing software for the MPC8260 based controller cards and channel cards of an VoIP network product.
+-Developed a common VxWorks BSP for the MPC8260 based controller cards and channel cards of the VoIP network product.
+- Designed and implemented the manufacturing diagnostics software for TSI, HDLC and DSP for the line card of a VoDSL product using C++ and VxWorks.
+- Designed and implemented a virtual TTY device driver and its user interface for the line card of the VoDSL product using C++ and VxWorks.
+- Designed and implemented the PCI device driver and the PCI distributed messaging infrastructure in a HA CPCI form factor for the VoDSL product using C++, VxWorks and Lynx.
+- Designed and implemented the device drivers of TSI and H.110 for the line card of the VoDSL product using C++ and VxWorks.
+- Enhanced the device drivers and the diagnostics software of the T1/E1 controller card.
+- Designed and implemented the device drivers of LIUs and M13 for a M13 MUX using C and pSOS.
+- Designed and implemented the SNMP functions for the M13 MUX using C and pSOS.
+-Designed and implemented a proprietary network management system (NMS) for a SONET access product using C, pSOS, Visual C++, Windows NT and HP OpenView.
+-Designed and implemented the simulation software to simulate various call models for the call processing framework of CS4, an intelligent and programmable carrier-class telephone switching system, using C/C++ and Smalltalk.
+- Designed and implemented the concept evaluation of core software techniques for the CS4 software development, including embedded real-time inter-process communications, embedded real-time distributed messaging and embedded real-time persistent object schemes using C/C++, Smalltalk, Sybase and ODBC.
+-Designed and implemented the PCI messaging software in a distributed messaging environment for the CS4 service controller card.
+- Designed and implemented the embedded call processing software of the service controller card for CS4 using C/C++ and VxWorks.
+- Designed and implemented the embedded and distributed object database infrastructure for CS4 using C++, Smalltalk and VxWorks.
+Contact this candidate

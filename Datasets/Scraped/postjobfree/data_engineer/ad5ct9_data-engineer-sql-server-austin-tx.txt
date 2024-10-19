@@ -1,0 +1,129 @@
+Name: Pratigya Gurung
+Address: Austin, TX, *****
+Email: ad5ct9@r.postjobfree.com
+Contact: 512-***-****
+Summary:
+A Data Engineer with 5 years of experience in building data intensive applications, tackling challenging architectural and scalability problems, managing data report for efficient visualization for wide range of requirements.
+Proficient in Software development Life Cycle phases, including application Analysis, Reverse Engineering, Design, Development, Testing, troubleshooting and Implementation of Data Warehouse projects and applications.
+Comprehensive understanding of Cloud Services offerings by Microsoft Azure and comparative analysis of Services of other cloud operators like Amazon Web Services and Google Cloud in the regards of Ease of development / deployment and Pricing point of view.
+Experienced in building, designing and maintaining Cloud – Azure SQL Database instance ( PaaS offering ), Preparing foundation of data that used by Data Scientist team for research and reporting.
+Collecting, moving, mapping and transforming on premise data from multiple sources located at diverse geographical locations into nearest Azure Regions – Data Centers and corresponding Data Lakes.
+Keen experience on developing Azure Data Factory pipelines to implement business requirements using Control Flow Activities and Data Mapping Activities. Authoring, Monitoring, Publishing and Triggering Pipelines using Rest API endpoints.
+Developed Data Mapping Pipelines to transform high amount of data, evaluated and chose best Partitioning strategy looking at data access types, Partition strategy studied are Round Robin, Hash and Range.
+Proficient in designing highly flexible Database Architectures and Data Modeling, Data Mapping, Data Cleansing, Data Scrubbing and Data Migration
+Strongly experienced in Data Modeling, Data Normalization up to 3rd NF and Dimension Modeling using Star and Snowflake Schemes.
+Experienced in executing activities related to end - to-end project management, including project plans and estimates, scoping, and requirements through implementation, Requirement Gathering, Requirement analysis, Application environment Setup, Preparing Test Scripts, Project Status reporting, bug fixing and deployment.
+Experienced on PaaS Services for Data ingestion, transformation, and storage of data from OnPrem to Cloud and vice versa, Worked on Cost Optimization by porting live reporting data to OnPrem from Cloud storage partitioned based on time series.
+Expert in designing ETL data flows using SSIS, creating mappings/workflows to extract data from SQL Server and Data Migration and Transformation from Access/Excel Sheets using SQL Server SSIS.
+Experienced in SSIS utilities like Import/Export Wizard, Package ISPAC Installation ISDEPLOYMENT Wizard, and SSIS Package Designer.
+Experienced in Building Cubes and Dimensions with different Architectures and Data Sources for Business Intelligence and writing MDX Scripting.
+Experienced in handling late arriving dimension and late arriving facts scenarios in a Data Warehouse.
+Skilled knowledge of Features, Structure, Attributes, Hierarchies, Star and Snowflake Schemes of Data Marts.
+Collaborated with DevOps Engineers to prepare automated CI / CD pipelines using Azure ARM templates as per deployment strategies.
+
+Technical Skills:
+
+Languages
+SQL, T-SQL, C#, JavaScript and Bash scripting
+ETL Tools
+SSIS (SQL Server Integration Services), Data Import Export Wizard
+Reporting Tools
+SQL Server Reporting Service (SSRS)
+Analytical Tools
+SQL Server Analysis Services, Power BI
+Database tools
+SQL Server Management Studio
+Cloud Platform
+Azure Data Factory v2, Azure SQL Databases
+Data Formats
+Structured, JSON, YAML and XML
+Version Control
+GIT and Azure Repos
+Operating Systems
+Windows Server 2016 and 2022
+
+●Professional Experience:
+
+The Bank of Austin, Austin, TX (Nov 2022 – present)
+SQL Developer
+
+Responsibilities:
+
+●Worked on OnPrem version of DataWarehouse initially and moved to Cloud version in order to solve the challenges faced on OnPrem Servers like high CapEx and slow delivery rate, Leveraged power of Server less Azure Services which in turn used Apache Spark.
+●Implemented security measures and user logins for BI reports to ensure data confidentiality and integrity.
+●Developed Power BI dashboards and reports to provide insightful visualizations of key business metrics.
+●Worked with IT and Business users to help implement solid, extensible warehouse models that support new analytic requirements using the most relevant techniques.
+●Implemented Data Factory Pipelines to load data from OnPrem SQL Server to Azure Data Lake Storage in the form of comma separated value format and further loaded this data into Azure MS SQL.
+●Analyzed and performed Data modeling and mapping which involved identifying the source data fields, identifying target entities and their lookup table ids and translation rules.
+●Responsible for the development and management of Enterprise Data Warehouse processes and policies, following strategic direction on best practices for holistic architecture.
+●Developed source queries, user defined views and user defined stored procedures and used them in SSIS package data flow source components.
+●Developed data profiling reports using T-SQL custom queries and SSIS data profiler task to understand quality and statistics of different source systems’ data.
+●Developed T-SQL programs to create databases, programmed queries, sub-queries, ranking functions, derived tables, common table expressions, stored procedures, views, user defined functions, constrains and database triggers using T-SQL.
+●Designed Data Warehouse ETL packages to handle data change tracking using slowly changing dimension transformation for type 1 and type 2-dimension attributes.
+●Design, develop, and implement SSIS packages and projects to efficiently process high-volumes of data from multiple sources and meet nightly processing windows requirements.
+●Developed configurable metadata driven ETL solution to track execution parameters, logging, and decision-making during jobs’ execution to ease debugging process in case of job failure.
+●Designed and developed ETL packages using SQL Server Integration Services (SSIS) to load the data from SQL server, XML files to SQL Server database through custom C# script tasks.
+●Used various SSIS tasks such as Conditional Split, Derived Column, lookup, for each loop container, sequence container, script task etc. for Data Scrubbing, data validation checks during Staging.
+●Utilized SSIS Project Configuration to enable ease of deploying between dev, test, stage, and prod servers, by configuring environment variables to assign project parameters.
+●Generating Corporate Reports for Management Committee using SQL Server Reporting Services (SSRS) and Excel.
+●Responsible for deploying reports to Report Manager and Troubleshooting for any error occurring in execution.
+●Manage and monitor data processing and storage infrastructure, including Azure Blob Service and On Premise Servers.
+●Conducted performance tuning of BI queries, SSIS packages, and database consistency checks to enhance overall system efficiency.
+
+Environment: Microsoft SQL Server 2016, Management studio, XML, C#, SSIS, SSAS, SSRS Windows Server 2016, TFS and MS EXCEL, BI (SSAS, SSIS, SSRS), Power BI.
+
+Happy State Bank, Amarillo, TX (Dec 2020 - Oct 2022)
+SQL / ETL Developer
+
+Responsibilities:
+
+●Generated detailed studies on potential third party data handling solutions, verifying compliance with internal needs and stakeholder requirements.
+●Collaborated on ETL design and development maintaining Data integrity across On premise and Azure Data Lake storage.
+●Developed Azure Data Factory pipelines to orchestrate the entire On Premise to Cloud Data movement along with Power BI Workspace refresh at specified time of interval.
+●Handling real time data censoring through event messaging system, batched into group of data and sent into the Azure SQL Databases as a staging layer.
+●Worked on building SQL queries for Data manipulation and for also creating DQL objects like tables, triggers, stored procedures, views and more.
+●Worked on creating Common Table Expressions to identify the duplicates and dynamically clear them as part data validation.
+●Worked on adding more data integrity check to the existing database and for the newly added SQL objects.
+●Extensively used T-SQL in constructing User defined Functions, Views, Indexes, User Profiles, Relational Database Models, Data Dictionaries, and Data Integrity.
+●Optimized the long running Stored Procedures by rewriting the script, created temp table and indexes, recompiled stored procedure, updated statistics and make the process simpler and faster.
+●Created and managed Clustered Indexes, Non-Clustered Indexes, and Index fragmentation.
+●Worked closely with DBA, Solution Architect and gave significant input on Normalization/De-Normalization of database tables and built Referential Integrity for RDBMS.
+●Developed SSIS packages for Uploading of different formats of files (Excel, Access, dbf) and databases (SQL server, Flat files) into the SQL Server data warehouse using SQL Server Integration Services (SSIS).
+●Involved in designing and developing Data Warehouses, Data Marts and Business Intelligence using multi-dimensional models such as Star Schemas and Snowflake Schema for generating reports using SSRS.
+●Implementing various SSIS packages having different tasks and transformations, developed Incremental Load using Lookup and scheduled SSIS packages.
+●Involved in creating multiple parameterized stored procedures which were used by the reports to get the data.
+●Created tabular and matrix reports in SSRS. Wrote stored procedures and functions to create SSRS reports.
+●Involved in the creation and deployment of the reports using SSRS and configuring the SQL Server Reporting Server
+●Designed and developed dashboards and reports using Microsoft Excel and SSRS on a daily, week-to-date, month-to-date, quarter-to-date, and year-to-date basis to track loans given out.
+●Managed new report generation and report enhancement based on the change requests.
+●Worked with DBAs, QA and systems support personnel in elevating and automating successful code to production.
+●Migrated data from MySQL Database to SQL Server database using different kind of tools like SSMA (SQL Server Migration Assistance)
+
+Environment: SQL Server 2019, Azure Data Factory, Azure SQL Database, BI (SSAS, SSIS, SSRS), JSON, Power BI, SQL Server Business Intelligence Development Studio (SSAS,SSIS,SSRS), BitBucket, JIRA and Windows Server 2016.
+
+Texas MedClinic Urgent Care, Austin, TX (Feb 2019 – Nov 2020)
+Jr. SQL/SSIS/SSRS Developer
+
+Responsibilities:
+
+●Collegiality presence in interpreting business requirements and technical discussion with Business Analysts and Solution Architects in order to minimize technical debts and improve quality of deliverables.
+●Prepared the documentation for high level design of defined solutions, low level design and documentation of each and every changing / new entities, engineering release memos, impact analysis and build acceptance.
+●Designed and developed Azure Data Factory Pipelines to copy data files from network Shared Folders into Azure Storage Blobs, utilized Copy Activity, For Each Activity and Get Meta Data Activity.
+●Developed Parent Child Pipelines to cater nested For Each Looping activity while loading data from Blob storage to Azure SQL databases, applied expressions for dynamic mappings using metadata obtained from Lookup activity.
+●Developed T-SQL programs to create database, programmed queries, sub-queries, ranking functions, derived tables, common table expressions, stored procedures, views, user defined functions, constrains and database triggers using T-SQL.
+●Extensively used Joins and Sub-Queries to simplify complex queries involving multiple tables.
+●Used Execution Plan, SQL Profiler and Database Engine Tuning Advisor to optimize queries also trimming lengthy queries by replacing sub queries with JOINS to enhance the performance of Databases.
+●Conduct database management, performance measurement and performance tuning for new databases and existing databases by using SQL Profiler and SQL Analyzer.
+●Utilized various Transformations in SSIS Control Flow and Dataflow using for loop Containers and Fuzzy Lookups etc.
+●Developed SSIS packages, Store Procedures, XML configuration files, tables, views, functions and to implement best practices to maintain optimal performance.
+●Design packages which utilize tasks and transformations such as Execute SQL Task, Data Flow Task, Sequence Container, For Each Loop Container, Lookup, Aggregate and Derived Column.
+●Improved the performance of SSIS packages by enabling Parallelism in the Control and Data Flows, usage of synchronous transformations.
+●Designed, developed, and deployed OLAP cubes and SSIS packages to process OLAP cubes through source views having dimension and fact tables listed. Utilized XMLA file for deployment of cube.
+●Programmed MDX queries to retrieve data from the multidimensional cube and to use as source for multiple SSRS reports.
+●Implemented Event Handlers and Error Handling in SSIS packages and notified process results to various user communities. Scheduling Daily, Weekly and Monthly SSIS package execution process using SQL Server Agent jobs.
+●Developing Azure Resource Manager JSON template for deploying pipelines, Integration Runtimes, Linked Services and Data Sets.
+Environment: SQL Server 2022/2019, Azure Data Factory V2, Azure SQL, SQL Server Business Intelligence Development Studio (SSAS,SSIS,SSRS), Power BI. Net framework, Microsoft Office Share Point Server, XML, MS Visual Source Safe and Windows Server 2022.
+
+Education:
+●Bachelor’s degree
+Contact this candidate

@@ -1,0 +1,199 @@
+Ezequiel Cuevas
+AWS and Azure Cloud Architect
+Phone: 408-***-****
+E-mail: adyrpf@r.postjobfree.com
+
+Professional Summary
+•13+ years of IT and 8+ years of hands-on working experience in Cloud space, with roles including AWS Architect, Azure Architect, DevOps Engineer, Systems Administrator.
+•Experience in migrating over existing monolithic infrastructure to serverless architecture (Lambda, AWS Fargate, and Azure Functions).
+•Solid knowledge & hands-on experience with EC2/VM, Networking including VPC, SG/NSG, Load Balancing, CloudFront/CDN, Route53/DNS, S3/Blob/Glacier, SNS, and SQS.
+•Database administration and operations including Postgres, MySQL, SQL Server, Oracle, and NoSQL including MongoDB and DynamoDB.
+•Security considering Confidentiality, Integrity, and Availability using tools such as IAM, Cognito, Azure Active Directory, AWS Directory Services for Microsoft Active Directory, Conditional Access Policies, AWS Shield Sentinel, Defender for Cloud, and Guard Rails.
+•Containerization concepts and techniques especially Kubernetes (K8s) and Docker, also OpenShift.
+•Monitoring with CloudWatch, Azure Monitor, Prometheus, Datadog, Grafana and Splunk.
+•Monitoring production database alerts and acting as needed to avoid outage scenario, enhance the alerts by introducing more alerts in cloud watch.
+•Architected and implemented automated Cloud Infrastructure using Ansible, Chef and Puppet on multi-platforms on AWS & Azure Cloud Servers.
+•Experience in to DevOps with CloudFormation, Azure Resource Manager, Terraform, Ops Works, EKS/AKS, ECR/ACR, Code Pipeline and Azure DevOps...
+•Good understanding of the principles and best practices of Software Configuration Management (SCM) in Agile, Scrum, and Waterfall methodologies.
+•Proficiency in Bash, Groovy, and Python including Boto3 to supplement other automations.
+•Migrated the current Linux environment to AWS Linux environment and used auto scaling feature and was Involved in Remediation and patching of Unix/Linux Servers.
+•Hands-on applying version control using GIT and source code management client tools such as GitHub, GitLab, and Bitbucket. Experience with GitHub Actions, WebHooks, GitLab-CI.
+•Setup and Used Jira ticketing and Confluence documentation.
+
+Technical Skills
+
+Programming Languages – Python, Bash, JavaScript, Java, PowerShell.
+
+
+Build & Compute – Apache, Spark, Maven, Gradle, Nginx.
+
+Database – Microsoft SQL Server, PostgreSQL, MySQL, AWS Aurora Apache Cassandra, Amazon Redshift, DynamoDB, MongoDB.
+
+DevOps Tools – AWS Code Pipeline, Git, Elastic Beanstalk, Jenkins, Bamboo, Docker, Kubernetes, Jira, Bugzilla.
+
+
+Configuration Management - Ansible, Puppet, Chef.
+
+Operating Systems - Unix/Linux, Windows.
+
+Professional Experience
+
+Feb 2022 – Present
+Sr. AWS and Azure Architect
+Truist Bank, Charlotte, NC
+Truist Bank, Inc. is a super-regional bank holding company. The Company's subsidiary banks operate in Florida, Georgia, Maryland, North Carolina, South Carolina, Tennessee, Virginia, and the District of Columbia. Truist provides deposit, credit, trust, investment, mortgage, asset management, securities brokerage, and capital market services.
+
+•Working on AWS & Azure Services like EC2/VM, S3/Blob, Route53/DNS, CloudWatch/Monitor, ECS/ACS, EKS/AKS, SNS, VPC, DynamoDB, CloudTrail, AWS DMS, EMR, and SQS
+•Created Infrastructure as Code (IaC) templates in Terraform, CDK, CloudFormation, and Azure Resource Manager
+•Implemented CI/CD with both AWS CodePipeline and Azure DevOps.
+•Created Bash and Python Scripts to Automate Cloud services, including web servers, Load Balancing, CloudFront Distribution and CDN.
+•Development of an AWS Multi-Account Architecture that included AWS Control Tower, AWS Landing Zones, SAML Roles, and AWS Guardrails
+•Provide daily production support and troubleshooting as needed to resolve issues as quickly as possible.
+•Working on Migration using the replicate tool and supporting the data migration project the Database Migration Service.
+•Handling the AWS Services and updating the versions, instance sizes, tags update, infrastructure changes, or any updates to using CloudFormation (CFT) templates which are in JSON format.
+•Reduces AWS cost and right size services in preparation for containerization by initiating strategies for cost-optimization.
+•Involved in working with PCF to ECS migration and supporting application level for any kind of troubleshooting issue during migration.
+•Wrote multiple functions like data retrieval, batch request data function, and retrieve batch data for cloud watch rule in Lambda functions which are in Python for ECS migration.
+•Outlined tasks and services to facilitate the configuration of AWS ECS for deploying and orchestrating containers alongside leveraging Blue Green deployment by developing Ansible playbooks to change the configuration of services to ramp up or down the number of tasks running in the overall cluster.
+•Implemented a 'serverless' architecture using API Gateway, Lambda, and DynamoDB and deployed AWS Lambda code from Amazon S3 buckets.
+•Working on deploying and administering like managing repos and spinning up the AWS service stacks using auto-scaling with cloud formation templates.
+•Monitoring the databases, logs and metrics using the Splunk Dashboard.
+•Involving the On-Call support bi-weekly to monitor the database, AWS Cloud services, and Production issues.
+•Maintaining the step-by-step documentation in Confluence for major issues and environment structures
+•Architect, build, and maintain deployment/maintenance scripts with multiple environments (i.e., development, production, testing, etc.).
+
+Jan 2020 – Feb 2022
+Sr. AWS Architect
+Veritone, Irvine, CA
+Veritone, Inc. is a company that provides artificial intelligence (AI) computing solutions to media and entertainment, government, and legal and compliance industries.
+•Worked in determining metrics, designed Test strategy, and performed performance testing, fail over-testing for applications designed with PCF and to connect to RDS Multi-AZ instance and determined base lined to design highly resilient application.
+•Configured both Elastic Load Balancers and EC2 Auto scaling groups while monitoring Cloud Watch alerts for the configuration of Auto-scaling launch.
+•Migrated Linux environment to AWS by creating and executing a migration plan, deployed EC2 instances in VPC, configured security groups & NACLs, and attached profiles and roles using AWS Cloud Formation templates and Ansible modules.
+•Created inventory in Ansible for automating the continuous deployment and wrote playbooks using YAML script.
+•Used Ansible Tower for scheduling playbooks and used GIT repository to store our playbooks and Written playbooks and roles to manage configurations of and deployments to remote machines.
+•Created Ansible Playbooks and Puppet Manifests to provision Apache Web servers, Tomcat servers, Nginx, Apache Spark, and other applications.
+•Integrated Ansible with Jenkins and created jobs to automate and deploy the application into end servers.
+•Coordinate with development teams, and application teams in determining the requirements of application and design database capacity, and instance class as per the application requirements.
+•Troubleshoot performance issues, and database issues by monitoring database logs, cloud watch logs,
+•Worked on Continuous Integration Systems such as Jenkins, Bamboo
+•Used Jenkins for the official nightly build, test and managing change list, creating new jobs, managing, configuring the jobs selecting required source code management tool.
+•Installed Multiple Plugins like GitHub Client, SVN, Slack Upload, Mailer, SSH
+•Created and configured jobs, script builder, custom command builder, and agents in Bamboo and integrated Maven with Bamboo for the builds as the Continuous Integration process.
+•Deployed scripts for build, maintenance, deployment, and related tasks using Dockers, Jenkins, and Maven
+•Installed Nexus Artifact repository, and JFrog Artifactory code repository to deploy the artifacts generated by Maven and to store the dependent jars, which are used during the build.
+•Worked with Puppet Enterprise, Puppet Open Source, and Puppet Dashboard configuration.
+•Installed, configured, upgraded, and managed Puppet Master, JVM’s, Web Servers & Databases
+•Wrote cloud formation templates in JSON to create custom VPC, subnets, and NAT to ensure successful deployment of web applications and maintained shell scripts (Bash), Ruby, Python, and PowerShell for automating tasks.
+•Configured Lambda service to categorize objects according to size by enhancing S3 bucket object insertion via S3 event configuration notifications to test small logic applications.
+•Analyze, install, and configure security tools in the cloud and CI/CD pipeline and perform static and dynamic code analysis for known security vulnerabilities.
+•Involved in setting up Kubernetes Clusters for running microservices and pushed micro services into production with Kubernetes backed Infrastructure.
+•Development of automation of Kubernetes clusters via playbooks in Ansible
+•Integrated Docker container orchestration framework using Kubernetes by creating pods, Config Maps, and deployments.
+•Worked on Kubernetes and Docker images to provide a platform as a service on private and public clouds in VMware Cloud
+•Wrote the Ansible YAML configurations for the remote servers and Implemented Ansible playbooks for installing Apache Tomcat, Nginx web servers, app servers like JBoss, HIS, WebSphere, DB servers like MySQL, SQL Server,
+•Wrote the playbooks using the YAML scripting which manages the configurations also have experience in setting up master minion architecture in Kubernetes to maintain the containers with the help of using YAML files, also deployed Docker containers through Kubernetes to manage the Microservices using its nodes, Config Maps, selector, Services, Pods
+•Configuration Automation using Ansible and Docker Containers
+•Implemented and designed AWS virtual servers by Ansible roles to ensure deployment of web applications.
+•Automation of various administrative tasks on multiple servers using Ansible
+•Demonstrated on Ansible along with Ansible Tower can be used to automate different software development processes all over the team organization.
+•Created Terraform templates for provisioning virtual networks, subnets, VM Scale sets, Load balancers, and NAT rules and used Terraform graph to visualize execution plan using the graph command.
+•Worked on planning and coordinating testing across multiple teams, tracked, and reported status, created test case and test cycle plan, troubleshot data issues, validated result sets, and recommended and implemented process improvements.
+•Implemented Release schedules, communicated the Release status, created Roll Out Plans, tracked the Project Milestones, prepared the reports, chaired the Release calls, and worked for a successful Release of the JIRA Application
+•Attending CAB meetings for Change request approvals and discussion on PROD Application change.
+
+Mar 2017 – Dec 2019
+AWS Cloud Engineer
+Paypal, San Jose, CA
+
+PayPal Holdings, Inc. is an American multinational financial technology company operating an online payments system in most countries that support online money transfers, and serves as an electronic alternative to traditional paper methods such as checks & money orders.
+•Setup and build AWS infrastructure various resources, AWS stack (VPC, EC2, Route53, S3, RDS, Security Group, CloudFormation, CloudWatch, SQS, IAM), focusing on high-availability, fault tolerance, and auto-scaling.
+•Create, configured, and managed a cluster of VMs that are preconfigured to run containerized applications using Azure container services.
+•Wrote CloudFormation Templates (CFT) in JSON and YAML formats to build the AWS services with the paradigm of Infrastructure-as-Code.
+•Worked with Windows Azure, Cloud Services, Storage/Storage, Accounts, Azure Traffic Manager
+•Designed and deployed Docker Mesos cluster for production container orchestration, deployed with one click through Terraform, and maintained through various Ansible scripts.
+•Created automation for many AWS-specific tasks such as parsing a CSV for automated read/writes into Dynamo DB so that changes are source controlled and automated via Bamboo, transferred systems from on-premises to AWS Cloud platform, and developed Cloud Formation templates to automate the deployments.
+•Designed cloud formation template for RDS Event monitoring solution and Implemented RDS Event monitoring solution across all LOBS and all AWS Accounts (Dev, TEST, Prod) through the bamboo deployment process.
+•Completed migration of on-premises applications to the cloud.
+•Create and maintain highly scalable and fault-tolerant multi-tier AWS environments spanning multiple availability zones using Terraform.
+•Automated Regular AWS tasks like snapshot creation using Python scripts.
+•Configured ELK stack in conjunction with AWS and used Logstash to output data to AWS S3.
+•Produced automation and deployment templates for SQL relational and NoSQL databases, including MSSQL, MySQL, Cassandra, and MongoDB in AWS.
+•Programmed Python scripts to Automate AWS Services, including web servers, ELB, CloudFront Distribution, Database, EC2 and Database security groups, S3 bucket, and application configuration.
+•Experience with Red Hat Linux, Centos, and Amazon Linux servers.
+•Created infrastructure in a coded manner (Infrastructure-as-Code) using Puppet, Puppet Bolt, and Jenkins.
+•Leveraged Terraform to automate AWS.
+•Built Jenkins jobs to create infrastructure from local Git repos containing Puppet and Puppet Bolt code.
+•Implemented Jenkins / Hudson for continuous integration.
+•Hands-on development and configuration experience with software provisioning tools such as Ansible, Puppet, and Puppet Bolt.
+•Created Kubernetes deployment, stateful sets, Network policy, dashboards, etc.
+•Created metrics and monitoring reports using Prometheus and Grafana dashboards.
+•Utilized Helm charts to create, define and update Kubernetes clusters.
+•Applied Terraform for automating AWS EC2 creation.
+•Hands-on with JBoss Application Server, Wild Fly, and Apache Tomcat.
+•Experience with automated deployment and configuration of Redis for application caching.
+•Hands-on with MongoDB, Elastic Search, Logstash, and Kibana.
+•Utilized Helm charts for load balancing with Kubernetes clusters.
+•Worked on DevOps operations processes and tools area (code review, unit test automation, build and release automation, environment, and service).
+
+Jan 2015 – Feb 2017
+Build & Release Engineer
+Peapods Digital Labs, Chicago, Illinois
+
+(Peapod Digital Labs is the e-commerce engine of Ahold Delhaize USA, one of the nation's largest grocery retail groups. The customers we support are the local grocery brands consumers trust.)
+
+•Developed build using ANT and MAVEN as build tools and used CI tools to kick off the builds move from one environment to another environments.
+•Used Chef to configure and manage infrastructure. Created cookbooks to automate the configuration setups.
+•Established Chef Best practices approach to system deployment with tools with vagrant and managing Chef Cookbook as a unit of software deployment and independently version controlled.
+•Worked on the creation of Puppet manifest files to install Tomcat instances and manage configuration files for multiple applications.
+•Worked with an Agile development team to deliver an end-to-end continuous integration/continuous delivery product in an open-source environment using Puppet and Jenkins to get the job done.
+•Completely responsible for automated infrastructure provisioning (Windows and Linux) using Puppet Scripts.
+•Responsible for automated installation of Chef and configuring Chef Server and Chef Node (both Windows and Linux Environment) in AWS VPC environment.
+•Responsible for automated deployment of Java application in Tomcat Server using puppet scripts.
+•Used continuous Integration tools such as Jenkins for automating the build processes.
+•Used the version control system GIT to access the repositories and used it in coordinating with CI tools.
+•Integrated Maven with GIT to manage and deploy project-related tags.
+•Installed and configured GIT and communicated with the repositories in GitHub.
+•Performed necessary day-to-day Subversion/GIT support for different projects.
+•Created and maintained Subversion/GIT repositories, branches, and tags.
+•Deployed Java/J2EE applications onto the Apache Tomcat server and configured it to host the websites.
+•Deployed application packages onto the Apache Tomcat server. Coordinated with software development teams and QA teams.
+•Verified whether the methods used to create and recreate software builds are reliable and repeatable.
+•Deployed the build artifacts into environments like QA, and UAT according to the build life cycle.
+
+Feb 2010 – Dec 2014
+
+Sr. Software Engineer
+Amzur Technologies Inc., Tampa, Florida
+(Amzur Technologies is an information technology solutions provider, offering enterprise applications to software development, and IT staffing industries, extending technology capabilities and enhancing the ability to compete and create exclusive custom applications (cloud and non-cloud) to address IT talent gaps to convert legacy e-commerce sites into omnichannel marketing powerhouses.)
+
+•Actively involved in the analysis of the system requirements specifications and involved in client interaction during requirements specifications.
+•Designed the front end of the application using Ruby on Rails and HTML
+•Writing backend programming in Ruby on Rails
+•Good understanding and current development experience with Node.js
+•Set up and maintain applications on Amazon Web Services (AWS EC2)
+•Worked extensively with various versions of Ruby, Ruby on Rails, HTML 4/5, JavaScript, CSS, AngularJS, RVM, Bundler, GEMS, and libraries to Communicate with the customer to design solutions.
+•Worked in the design and development phases of the application using ROR.
+•Developed and tested many features in an AGILE environment using Ruby on Rails, HTML5, CSS, JavaScript
+•Experience with relational databases (MySQL) and non-relational databases (Cassandra, MongoDB)
+•Created Restful HTTP services to interact with UI.
+•Wrote Rspec and Cucumber tests in the application.
+•Used JavaScript and XML to update a portion of a webpage.
+•Designing database model for the entire application like creating tables, and associations using MySQL
+•Involved in Database Migrations using Active Records, also involved in using Action Controller, Active Resources, Fixtures, and Action View in Rails
+•Launching the VMs on different cloud platforms and monitoring the performance and configuration.
+•Followed agile development methodology and scrum for the project.
+•Implemented user interface guidelines and standards throughout the development and maintenance of the website using HTML, CSS, JavaScript, and jQuery.
+•Used Restful API in communicating with third parties.
+•Deployed the project into Heroku using the GIT version control system.
+•Implemented and Integrated Sunspot Solr for full-text search and indexing
+•Refactored code as required while working on the features and enhancements.
+•Acted as a point of contact for bug fixes, data fixes, and high-priority code changes when required.
+•Performed Unit testing, Integration Testing, GUI, and web application testing using Rspec
+
+Education and Certifications
+Certifications:
+•AWS cloud practitioner
+•AWS solutions architect
+
+Bachelors - Computer Science & Engineering - University of California, Merced
+Contact this candidate

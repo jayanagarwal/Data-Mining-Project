@@ -1,0 +1,32 @@
+Venkata Kali Suguna Praneeth Behara
+adct7f@r.postjobfree.com 716-***-**** LinkedIn
+SUMMARY
+Robotics Engineer with a Masters degree and more than two years of industry experience designing autonomous robots. Core competencies are in localization, SLAM, motion planning, computer vision. PROFESSIONAL EXPERIENCE
+Intellibot Robotics, Diversey Inc.
+Robotics Engineer Sep 18 - Current
+• Developed software (C/C++,Linux) for Intellibot SwingoBot fully autonomous ﬂoor care robots.
+• Worked in R&D team for the next generation SwingoBot 3000 autonomous scrubber which includes navigational improvements and various new features like IntelliPath teach and repeat.
+• Initiated and led the improvements to navigation stack for path following in teach and repeat functionality. This involved research, evaluation and implementation of various path planning and obstacle avoidance algorithms.
+• Developed end-effector playback framework which allows the user to teach the effector mode along with the path. This involves state machine design and integration of ROS for sending and recording messages.
+• Improved robot-ROS communication framework, simulator(GazeboSim) plugins, version control and test coverage.
+• Support the current generation on-ﬁeld robots deployed at various sites across the globe. Distributed Robotics and Networked Embedded Systems [DRONES] Lab, UB Research Assistant Apr 16 – Sep 18
+• Improves robot exploration coverage and drastically minimize the data communicated between a swarm of robots by using WiFi information. [link]
+• Solved real world robotics problems in SLAM, localization and large scale mapping
+• Produced efﬁcient, well-tested code using C C++ python MATLAB .
+• Developed autonomous controllers for exploration robots using ROS and Linux.
+• Addressed real world challenges of using autonomous robots in indoor explorations.
+• Researched and developed algorithms to improve autonomous robot explorations using commodity Wi-Fi.
+• Created multi-robot simulation environments in Gazebo, with virtual WiFi routers plugins and conﬁgurable propagation models for intensive testing.
+• Collected high quality datasets of image and Wi-Fi signatures for ground truths using VLP-16 and Google Cartographer. Electronics Corporation of India Limited (ECIL)
+Robotics Engineer Intern May 14 – July 14
+Worked on making of human detection robots using PIR sensors and related technologies(driver modules, obstacle detectors, bluetooth & GSMmodule)for applications involving human interaction and convenience, disaster management and security. EDUCATION
+University at Buffalo - The State University of New York MS (thesis in robotics) in Electrical Engineering Aug 15 - Feb 18 GPA: 3.7 Gandhi Institute of Technology and Management
+B.Tech in Electronics and Communication Engineering Apr 11 - May 15 GPA: 3.6 NOTABLE PROJECTS
+• Optimal path planning policy for self driving vehicles: The software outputs all possible paths from current location to target location using A-star algorithm. The heuristic also accounts for action cost to turn left or right at an intersection.
+• Fast 3D Reconstruction of indoor environment: Obtained a 3D Point cloud of an indoor building from a Velodyne puck mounted on autonomous quadroter. Used Information Gain to estimate the next best scan position.
+• Implemented EKF and Particle ﬁlter based SLAM.
+• Machine learning on notMNIST dataset: Pickled and managed the 500k samples dataset containing English letter subsets of different fonts as 3D array objects and used logistic regression with Stochastic Gradient Descent to train a model after cross validation.
+• Color Learning and target detection - Robo soccer: Obtained color samples from the training images and using color distribution, determined number of dimensions of the model and number of Gaussians for GMMs. Estimated model parameters for the detection function which returns a color-segmented binary image and ball center.
+• Implemented PID control for a quadrotor simulated in MATLAB and generated time parameterized trajectories.
+• Implemented an OFDM Transmitter in Verilog HDL on a DE2i-150 board with Cyclone IV GX FPGA device family.
+Contact this candidate

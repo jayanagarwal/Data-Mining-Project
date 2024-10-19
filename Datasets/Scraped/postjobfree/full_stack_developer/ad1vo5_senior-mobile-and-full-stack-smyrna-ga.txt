@@ -1,0 +1,154 @@
+LUIS J VIRUENA.
+Senior Mobile and Full Stack Developer and Project Manager
+
+INTRODUCTION
+I am Senior Developer and Project Manager. With broad experience in Android and Full Stack projects in various companies with small to large teams.
+
+My last project was a proprietary web based CRM. This was an internal project for the consulting company I used to work for. The CRM handles all aspects of the operation, from HR, Sales, Calendar Interview Scheduling, Project tracking, etc. It generates Statistics and Financial reports. It has an Angular 12 Front End, an Android app and Node.js REST microservices hosted in the cloud. I worked on all of the aspects of the project, from Requirement Gathering, Planning, Negotiation and the actual Development and Deployment. The project required various technologies like Angular 12, Android, Node.js microservices, Express, Postgress database, and Azure authentication and security, SMS messaging and automated email notifications. It is hosted in the Heroku Cloud which leverages on AWS.
+
+I also have worked for Magic Leap, Wells Fargo, Scotiabank, HSBC, Microsoft and others, developing or managing projects in areas of Finance, Mobile, Web, both as a Developer and as a Project Manager.
+
+PROFESSIONAL SUMMARY
+20+ years of IT experience in Mobile and Web application development
+Android Development on Java and Kotlin
+Angular 12+, Node.js, HTML 5, CSS 3, JavaScript, JSON, and XML.
+Web Development front-end and backend. JavaScript, HTML, Angular
+Project Management with mid to large teams: 4 to 20 developers, mainly following the SCRUM Agile Methodology and occasionally Kanban.
+Experience in large-scale Software Development Life Cycle (SDLC) including Requirement Analysis, Project Planning, System and Database Design, UML design, Object-Oriented Analysis and Design, Development, Testing, Implementation, and Documentation.
+Capability to perform, troubleshoot, and mentor onboarding developers in all roles and requirements.
+Experience in Web Service Technologies: Apache Tomcat and GlassFish Server.
+Have worked in Web Sevices on different stacks: Java Servlets, JavaScript, Node-JS, Hibernate, J-Hipster.
+Databases like PostgreSQL, MySQL, SQL-Server, Oracle 12C, DB2. - from simple Queries to creating Datatabases, Stored Procedures, Triggers, Cursors and the like.
+Knowlege of Hibernate and Room ORM databases.
+Experience with Non-SQL databases like MongoDB and Google Firebase Firestore
+Expertise Unix scripting with Bash, GNU Bash, C Shell.
+Deep knowledge in Mobile Android Development both in Java and Kotlin
+Expertise in design with Use Case, Sequence diagrams, Activity diagrams, and Class diagrams, UML in general.
+
+EDUCATION
+Bachelor's in Electronic Engineering with minor in Digital Systems and Computers
+Master's in Economics and Business. Universidad Anahuac (Mexico)
+Three minor degrees in:
+•Project Management
+•Business Planning
+•Project and Business Improvement and Sustainability
+
+TECHNICAL SKILLS
+Programming Languages
+Java, JavaScript, Typescript, Kotlin, C, SQL, Visual Basic (VBA, VB.Net), x86 Assembly and others.
+Project Management
+SCRUM, Kanban.
+Web Technologies
+Angular 12+, NodeJS, JavaScript, Bootstrap, JSON, Express, HTML, XML, CSS, Ajax, jQuery,
+Databases
+PostgreSQL, Oracle, MS SQL Server, MySQL, Mongo DB, Firebase,
+Testing Tools/Others
+Junit, Mockito, Log4J, Postman.
+CloudTechnologies/DevOps Tools
+AWS, Azure, Docker, JIRA
+Build Tools
+Maven, Gradle, Jenkins
+Version Control Tools
+GIT, GitHub, GitLab, Bit Bucket.
+Application/Web Servers
+Apache Tomcat, Apache HTTP Server, GlassFish. Express
+IDE Tools
+VS-Code, Android Studio, IntelliJ IDEA, Net Beans
+Operating Systems
+Windows, Linux, Android, Mac OS
+
+PROFESSIONAL EXPERIENCE
+
+Mobile Apps Company. Atlanta GA. (MAC) Jan 2017 – present
+
+Internal Management System (internal project for MAC)
+Full Stack Developer for Internal Management System app.
+Responsibilities:
+Planning, Requirement Gathering and Project management for the whole project
+Design, Development and Deployment of the whole CRM Web application and the Android Mobile app.
+Developed the app in Angular 12 and Node.JS.
+Developed the UI using HTML5, CSS3, Bootstrap, on Angular 12.
+Developed Single Page Applications (SPA) using HTML5, CSS3, JavaScript, Angular 12, Angular CLI, and Typescript.
+Create Angular Components, Services and Directives for the web pages.
+Create Angular 12 reusable components like Justification Directive, Change Tracking Directive, Multi-Comment component
+Created a whole solution with a REST Service to upload files coordinated into an Angular 12 component.
+Created various Angular 12 services as building blocks of client applications. Those are available as modules and ready for dependency injection for any application.
+Performance Optimization by developing smart cache strategies in Angular 12 and the backend.
+Implemented RESTful web services using Node.JS and Express.
+Implemented User Authentication with MSAL (Microsoft Authentication Library – Azure)
+Utilize OAuth2 to strengthen the app security when handling Client and Personal information.
+Developed Micro-Services based architecture to enable the application to be deployed on Azure and AWS.
+Responsible for creating an instance on Amazon EC2 (AWS) and deploying the application on it.
+Implemented a Continuous Delivery pipeline on Heroku Cloud, based on Jenkins and GitHub repositories
+Actively involved in all phases of the Software Development Life Cycle (SDLC) such as Design, Analysis, Development, and Testing.
+Actively participated in the daily SCRUM meetings with our team to produce quality deliverables within time.
+Designed the Data layer for the app on CRUD operations Node JS and PostgreSQL DB.
+Data Migration from MongoDB to PostgreSQL.
+Implemented Restful Web Services to provide secure information storage and delivery.
+Responsible for Continuous Integration (CI) and Continuous Delivery (CD) process implementation using Jenkins and Heroku CI/CE.
+Developed Front and Backend APIs to send bulk SMS alerts to clients though Azure SMS services.
+Developed Front and Backend APIs to send bulk Email clients using Azure Email services.
+
+Environment: Angular 12, Node.js, Android, Azure Authentication, Azure Graph, AWS EC2 and LightSale. PostgreSQL, NPM, Express, MSAL
+
+Prudential Insurance. Newark NJ. (MAC project)
+Senior Android Developer.
+Responsibilities:
+Design the Financial Calculator feature for Prudential Mobile App.
+Implement an API to make RESTful request to get the current Calculator Rules using Retrofit and Moshi
+Design a dynamic UI for the calculators programmatically adding Views (Buttons and Image Buttons) to a GridLayout
+Use the DownloadManager to update rules and formulas
+Implement an engine in Java to execute calculator rules and formulas. This required a lexical analyzer and online testing.
+Used Data Binding to implement the MVVM architectural pattern.
+Put together the necessary Instrumentation Tests using Expresso and Mockito
+Put together the necessary Unit Tests using JUnit and Mockito
+Follow the SCRUM Meetings to report daily progress and requirements.
+
+Magic Leap. Plantation FL. (MAC project)
+Senior Android Developer.
+Responsibilities:
+Contribute with the Magic Leap Companion Android Application.
+Debugged the app in colaboration with the Test and Project Management Teams.
+Design a graphical flexible layout Custom-Component to present an onboarding tutorial. This was a graphic-rich solution that comprised Images, Callouts, Localizable text, and video.
+Use the WorkManager to upload images to the Magic Leap Cloud Service.
+Implement a Bluetooth server to connect to the Magic Lap Headset.
+Create a series of POC (Proof of Concept) to Video Stream to Twitch and YouTube.
+Upgraded vintage software to utilize Android Jetpack.
+Utilize Fragments and FragmentManager to improve the user experience
+Create the User Settings screen
+Improve the Companion Control view by allowing buttons to resize and rearrange. This required dynamic UI programming.
+
+Wells Fargo. San Francisco, CA (MAC project)
+Senior Android Developer.
+Responsibilities:
+Project Manager to the Development Team. I oversaw a team of 6 Android Developers, 6 iOS Developers and 6 testers. Kept in communication with the Backend Team and the UI Designer Board Stakeholders.
+Execute daily SCRUM meetings with 2-week sprints cycles. Sprints comprised Goals, Development, Testing and Acceptance/Recycle of work.
+Participated in the Designer Board weekly meetings where communication about the new requirements and progress was communicated.
+Kept communication with the Application Architect to ensure security and good coding was achieved
+Establish Clear Code practices
+Kept a log of the progress which allowed me to know the speed of each of our developers. This is important information to keep the project on track.
+Wrote documentation of procedures
+Participated in new developer interviews to complete the team when needed.
+Assured an efficient onboarding experience to new developers
+
+Scotiabank. Mexico City, Mexico. April 2005 – Oct 2015
+
+Director Associate reporting at the Finance
+Responsibilities:
+Designed a Java EE application to acquire data from various sources and created accurate high-level reports.
+Used Java EE, JDBC, JPA to gather information from Oracle and DB2 Databases
+Used Remote SSH Unix Procedures to execute and secure transfer information from servers in Canada to Mexico.
+Used Excel VBA as a front end to the reporting system.
+This approach improved overall reporting accuracy from 17 errors/month to 1 error in two years in High-Level reporting contributing to quick decision making and saved over one million dollars in highly specialized software.
+
+Director Associate at the Brokerage-House
+Responsibilities:
+The 2008 Financial Crisis made Scotiabank cut all System Projects, this was a global problem leaving the bank's trading activity without any IT support.
+As a Directo Associate, I proposed a plan to respond to the 2008 world-finance crises by creating a series of light-weight applications for the Brokerage-House.
+Project Manager for a team of 4 finance specialized developers, I managed them with a loose SCRUM improvement loop to fulfill the needs of the internal clients.
+We created a series of lightweight applications focused on specific trader's needs.
+We used Jave EE, JDBC, JPA with diverse Corporate Oracle and MS-SQL-Server databases.
+Leverage on FIX protocol (Finance Information Exchange) to communicate all the information.
+Used Excel VBA as a front end
+Used a Distributed Architecture to ensure all data was redundant, preventing loss of information.
+Contact this candidate

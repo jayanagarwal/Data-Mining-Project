@@ -1,0 +1,65 @@
+*
+MAXCELL AYIM
+Contact: +1-240-***-****
+Email: advse6@r.postjobfree.com
+CAREER OBJECTIVE
+Dedicated Cloud Engineer/Solutions Architect with over 6 years experience with expertise in designing and refactoring innovative and robust technological/AWS solutions. Proven success in executing projects involving architecture and software development, implementation, testing, and deployment. Consistently employ collaborative development methodologies to deliver breakthrough technologies and ensure optimal performance on complex projects and technical initiatives. Effectively align technical goals with business objectives by utilizing a mix of research, analysis, strategic planning, cost control, and client consultations. TECHNICAL SKILLS
+• AWS Cloud: Ec2, Bastion Host, Load Balancing, EFS, VPC, RDS, S3, Glacier, IAM, Kinesis, CloudFront, Cloud Watch, Cloud Trail, Cloud Formation, DynamoDB, Aurora, Memcached, Lambda, Route53, SNS, SQS, API Gateway, Elastic cache, Redshift, Document DB, ASG, WAF, Shield, AWS Config.
+• Monitoring Tools: AWS Discovery services, DR strategies, Migration Hub
+• DevOps/CICD Tools: Jenkins,GitHub, Code Commit, Code Pipeline, Code Build, Code Deploy, ECR, EKS, ECS, SSM (systems manager), Terraform, GitHub Actions, Git, Maven, Kubernetes, Ansible and Docker.
+• Networking Tools: CIDR Block range, VPC Subnets, switches, Routers, transit gateway, VPC endpoint, VPC peering, Site to Site VPN, direct connect, VPG, NACLS, Bastion Host, Subnetting
+• Databases: MYSQL, Dynamo DB, Amazon Aurora.
+• Scripting Languages: Python, YAML, JSON, BASH Scripting
+• AWS Organization user management: SSO Cognito, AWS Organizations, Control Tower, AWS manage AD, STS.
+• Ticketing tools: Jira (agile/scrum methodology)
+• Operating Systems: Windows, Linux, Ubuntu, Red hat, Centos EDUCATION/CERTIFICATIONS
+2
+University of BUEA
+• Bachelor’s Degree in Science. Aws
+Solutions Architect Associates
+EXPERIENCE
+Devops/Cloud Engineer
+AVIDITY TECH CONSULTING
+SEP, 2016 – Present
+• Successfully Implement a complete multi-tier architecture on AWS using terraform.
+• Set up and managed AWS resources for a complete CI/CD pipeline to effectively ship a web application to AWS cloud using CloudFormation
+• Provision Kubernetes cluster with pods, replica set, deployments and service
+• Designed and implemented multi-tier system architecture with AWS cloud using cloud best practices. Developed and documented security guardrails for AWS Cloud environments.
+• Employed AWS control tower to automate the setup of new landing zones using AWS best practices blueprints for federated access, identity, and account structure on migration projects.
+• Employed AWS Organizations to centrally manage, secure, and audit across accounts environments, also, centrally managed permissions across organizational units and multiple AWS accounts as per Service control policies.
+• Managed cloud network infrastructure through Amazon Virtual Private Cloud to provide a safe, secure, and private network. Implemented security best practices in AWS, including multi-factor authentication, access key rotation, encryption using KMS, firewalls- security groups and NACLs, S3 bucket policies and ACLs, and DDOS attacks mitigation.
+• Grant users access to AWS resources using ADFS and Okta through IAM roles
+• Work in collaboration with different teams like Devops teams, Customer success Team, architect team, Engineering team to build multiple environments by creating the cloud infrastructure, deploying applications and providing infra level maintenance to all these environments.
+• Created automatic start and stop schedules for my Amazon EC2 and Amazon RDS instances by using AWS scheduler.
+• Defined a methodological standard for tagging individual resources for audit, tracking, and cost analysis.
+• Blocked public access to S3 buckets and used bucket policies to verify and restrict access to select AWS principals, encrypting buckets, S3 Versioning, Presigned URLs and S3 Object Lock.
+3
+• Configured S3 events to set up automated communication between S3 and other AWS services
+• Selected appropriate AWS services to design and deploy a microservice application based on the business requirements
+• Scheduled and automated tasks to run on servers using Lambda Functions (Cron jobs).
+• Designed self-healing architectures by leveraging autoscaling groups, load elastic load balancers, and RDS databases.
+• Leverage AWS SSM to automate OS patching
+• Designed an E-commerce website using AWS Lambda, AWS API Gateway, DynamoDB, Amazon S3, Route 53, Cloud Front and Amazon Cognito User Pool.
+• Supported our CI/CD pipeline running on code pipeline and ECS.
+• Employed GitHub Actions, code builds as a continuous integration tool for automation of our daily process.
+• Experience setting up and maintaining automated CICD pipelines using, maven, docker, GitHub and Git
+• Experience with Containers including tools like Docker, Kubernetes, and ECs
+● Build and configure a virtual data center in the AWS Cloud to support Enterprise Data
+● Managed GitHub repositories and permissions, including branching and tagging
+● Using Maven as a build tool to deploy Java web applications into Tomcat (for Monolithic applications) and Kubernetes for micro-service applications
+● Work with Terraform infrastructure builds to lay the foundation for any cluster / pod buildouts in application deliverables
+● Warehouse hosting including Virtual Private Cloud (VPC), Public and Private Subnets, Security Groups (SG), Route Tables, Elastic Load Balancers ELB), Route 53.
+● Advised and implemented the hosting of company applications within the Private Subnet and access to those applications were done with the help of bastion host.
+● Partook in disaster recovery scenarios for backing up data and utilizing AWS backup and restore tools like AWS storage gateway and developed solutions around pilot light and warm standby.
+● Established VPC connectivity by making use of Transit Gateway for connecting VPCs and VPN connection to a datacenter.
+● Automate Compliance Governance by provisioning and leveraging AWS Landing Zone as well as AWS Control Tower for centralized enterprise architecture and centralized managing.
+● Recommended AWS SSO on Control Tower for managing user access on multiple platforms.
+● Using CloudWatch, and VPC Flow Logs to monitor and retain account activity related to actions across AWS infrastructure.
+4
+● Supported our CI/CD pipeline running on ECS.
+● Used GitHub actions as a continuous integration tool for automation of our daily process.
+● Build Kubernetes on AWS with route53 from scratch.
+● Set up and manage Docker containers running Go and PHP applications for deployment into Kubernetes pods.
+● Proposed and developed solutions for application deployments by making use of AWS code pipelines as compared to native tools for cost management.
+● Worked on a Database Migration Project from the client's data center to Amazon Aurora.
+Contact this candidate

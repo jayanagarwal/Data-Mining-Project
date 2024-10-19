@@ -1,0 +1,50 @@
+Joshua Meneghini
+Vancouver, BC +1-236-***-**** ad8fcu@r.postjobfree.com LinkedIn
+
+WORK EXPERIENCE
+Veovo Vancouver, Canada
+Software Engineer Mar 2022 - Present
+Collaborated with globally distributed teams to solve complex technical problems on Airport Operational Flight and Revenue Management Systems to ensure timely delivery of project critical features. Primarily built and deployed using Angular, TypeScript, ASP.NET Core, C#, AWS Services, and SQL Server database.
+Worked closely with key stakeholders to define user stories for foundational product enhancements. Led the implementation and execution of code reviews for project deliverable epics. Supporting peers through complex scope of work using best software practices, leading to a successful deployment with zero critical defects reported by end-users.
+Projects
+Created a host domain record in AWS that redirects traffic to the AWS ALB to issue and validate TLS certificates for local client builds, reducing connection errors and improving application security by enforcing HTTPS connections.
+Migrated legacy Central Decision Making client application to Angular PrimeNG application that consumes an API to display real-time data. Packaged using Webpack's module federation, resulting in a more efficient and maintainable system capable of forming micro-frontends from multiple builds.
+Migrated legacy Central Decision Making RESTful API in ASP.NET to ASP.NET Core, exposing endpoints implementing caching mechanisms and JWT bearer token validation for enhanced security measures, reducing response time by 50% and ensuring data integrity. Implementing real-time communication using SignalR's websockets to improve data accuracy.
+Improved the financial accuracy of outstanding credits through the implementation of a credit approval feature in Angular. This resulted in a reduction of credit risk and ensured only authorized users can approve credit amounts exceeding a threshold flagged by a C# billing engine.
+Modelled a custom relational database tables in SQL Server that met the complex requirements of the new IATA industry standard codes that had no direct one-to-one mapping. Collaborated with cross-functional teams to ensure that it was backward compatible to review historical events by extending existing Angular components.
+Offered debtors route support schemes to implement a new end to end profitable feature. By ensuring routes are matched as the calculation basis of a charge or rebate in the C# billing engine, airports can offer debtors a financial incentive to travel specific routes. Implemented new Angular components for the data management of the new object models defined
+by new SQL Server table schemas.
+
+Invenco Group Ltd Auckland, New Zealand
+Graduate Software Engineer Mar 2021 - Mar 2022
+Developed a cloud-based, mission critical remote management systems for payment terminals within a scrum team. Using a variety of technology stacks such as AngularJS, NodeJS, Java, ASP.NET Core, AWS Services and PostgreSQL.
+Projects
+Migrated GitLab repositories to GitHub. Improved the quality of code by implementing continuous integration pipelines using GitHub workflows and actions. Utilizing docker container images to set up environments faster, this improved the team's confidence when deploying code to production.
+Migrated a legacy Java RESTful API used to retrieve static content from AWS S3, to NodeJS. Reduced potential for errors making their way to production by implementing unit tests, ensuring a test coverage of at least 80%.
+Built a new ASP.NET Core RESTful API service used to remotely manage thousands of onsite device configurations. Ensuring customers high availability using scaling methods in AWS orchestrated by Elastic Beanstalk.
+
+Enghouse Interactive Auckland, New Zealand
+Software Developer Intern Nov 2019 - Feb 2020
+Developed a cloud-based contact-center system used for communications and workplace management in a scrum team. Utilizing technology stacks including Angular, TypeScript, HTML, CSS, C#, ASP.NET Core, and SQL Server.
+Projects
+Increased performance, accessibility, cost and reduced deployment times by migrating a RESTful API service to ASP.NET Core. Using the SOAP testing methodology to test RESTful API methods. This was done to reduce errors and implement regression testing done by continuous integration pipelines going forward.
+Improved reusability by implementing custom Angular components for the internal library so that it could be standardized across the entire application and other developers do not have to 'reinvent the wheel'.
+
+Waitemata District Health Board Auckland, New Zealand
+Software Developer Intern Nov 2018 - Feb 2019
+Developed systems for a hospital to reduce the wait times for patients so they can receive the right level of care by automating tedious tasks. Primarily using C#, ASP.NET Core, and SQL Server technologies.
+Projects
+Developed a bed booking management system in ASP.NET Core that helped to streamline administration tasks for administrators, providing real time data on available spaces around the hospital wards. Implementing secure web practices like sanitizing and validating user inputs to enforce the integrity of personal health information records.
+
+EDUCATION
+University of Canterbury Christchurch, New Zealand (Feb 2016 - Jun 2020)
+Bachelor of Engineering with Honours, Software Engineering
+
+Amazon Web Services Auckland, New Zealand (Oct 2023)
+AWS Certified Developer – Associate (DVA-C02)
+
+SKILLS
+Software Development Languages: C#, JavaScript, TypeScript, HTML, CSS, Python, Java, Kotlin
+Web Development Frameworks: ASP.NET Core, Angular, NodeJS, VueJS, React, Django
+Tools/Services/Databases: Jira, AWS Services, GitHub, GitLab, Jenkins, TeamCity, SQL Server, PostgreSQL
+Contact this candidate

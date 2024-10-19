@@ -1,0 +1,144 @@
+LAKSHMI K MUTHUKUMAR, RESEARCH SCIENTIST (Hillsboro, Oregon)
+806-***-**** ad5c8b@r.postjobfree.com LinkedIn Github
+
+SUMMARY
+
+Innovative, hardworking and result oriented research data scientist with over 7+ years of experience executing data-driven solutions to high-impact scientific problems.
+Expert in Python, SQL, and MATLAB with experience in end-to-end problem solving and adept at executing solutions with machine learning, data mining with large datasets of structured and unstructured data.
+Proficient in managing entire data science project life cycle and actively involved in all the phases of project life cycle including data acquisition, data cleaning, feature selection, features scaling, features engineering, statistical modeling, and data visualization.
+Experience in mentoring high school students, elementary students, and proven leadership abilities.
+Effective team player with strong communication and interpersonal skills, possess a strong ability to adapt and learn new research directions and in turn new technologies rapidly.
+Proven ability to manage all stages of project development, strong problem solving and analytical skills with an ability to make independent yet balanced decisions.
+Experienced in using various packages in Python, SQL, MATLAB, C++, Pandas, NumPy, SciPy, Scikit- learn, Keras, Tensorflow, Pytorch, Microsoft Azure, GCP, Streamlit, Docker, Apache Spark, Spark ML, Pyspark.
+
+TECHNICAL SKILLS
+
+Core Skills: Machine Learning, Molecular Simulations, Molecular Modeling, Statistical Analysis, Data Science, Data Mining, Mathematical Modeling, Research & Development, Numerical Analysis, Spark Structured Streaming, Graph Learning
+Programming: Python, SQL, MATLAB, R, C++
+Packages: NumPy, SciPy, Pandas, Scikit-learn, Keras on Tensorflow, Apache Spark, Pytorch, PySpark
+Big-Data and Database: PostgreSQL, SQL Server, MySQL, Spark SQL
+BI & Visualize: Tableau, Power BI, Excel, Plotly, Matplotlib, Seaborn
+Tools and Cloud Platforms: Azure, GCP, GitHub, TACC(UTexas), HPCC(TTU), Docker
+Statistical Modeling: Descriptive statistics, Hypothesis Testing, A/B Testing, Excel (Pivot tables, Data Analysis tool), Regression (Linear, Random Forest, Lasso, ridge), Classification (Logistic, Multinomial, Random forest, XGBoost, Decision Trees, KNN, SVM), Clustering(KMeans, Hierarchical, DBSCAN and Gaussian Mixture Models), Parameter tuning, Cross-validation, Model evaluation (ROC, AUC, Sensitivity, Specificity), Time-series forecasting, Optimization, Deep Learning( CNN, RNN, MLP, LSTM,etc), GNN
+
+EDUCATION
+
+1.Graduate Studies
+June 2010 - March 2015 Texas Tech University, Lubbock, Texas
+Ph.D. in Chemical Engineering (Advisor: Rajesh Khare) GPA: 3.81/4.0
+
+Thesis Title: Computational Study of Cello-Oligosaccharides Adsorption/Desorption from Cellulose Crystal Surface During Enzymatic Hydrolysis
+
+2.Undergraduate Studies
+August 2004 – July 2009, Birla Institute of Technology and Science (BITS - Pilani), Pilani Campus, India
+M.Sc.(Hons), Physics(Integrated Dual degree) with B.E. (Hons), Chem Engg, CGPA: 7.11/10.0
+
+CERTIFICATIONS
+
+1.Certificate, Algorithms on Graph Theory, Coursera 01/2024
+2.Certificate, Introduction to Graph Theory, Coursera 12/2023
+3.Certificate, Machine Learning with Apache Spark, Coursera 09/2023
+4.Certificate, Microsoft Azure Data Scientist Associate (DP-100) Specialization, Coursera 08/2023
+5.Certificate, Microsoft Power BI Data Analyst, Coursera 09/2022
+6.Certificate, Data Science, Thinkful (Bootcamp – mentored) 09/2020 – 04/2021
+7.Certificate, Machine Learning A-Z: Python, Udemy 02/2017
+8.Certificate, R programming, Coursera 06/2016
+9.Certificate, Data Scientist’s Toolkit, Coursera 06/2016
+
+WORK EXPERIENCE
+
+1.Data Scientist - Upwork December 2023 - Present
+Graph Machine Learning: Molecular Structure Prediction Github
+-Graph machine learning is a rapidly emerging field that combines graph theory and machine learning techniques to analyze, model, and make predictions on graph-structured data.
+-The data for this project comes from Kaggle and it is also available through figshare and also quantum-machine.org. The data is originally compiled by the following,
+1.L. Ruddigkeit, R. van Deursen, L. C. Blum, J.-L. Reymond, Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17, J. Chem. Inf. Model. 52, 2864–2875, 2012.
+2.R. Ramakrishnan, P. O. Dral, M. Rupp, O. A. von Lilienfeld, Quantum chemistry structures and properties of 134 kilo molecules, Scientific Data 1, 140022, 2014.
+-A subset of the original data was selected at random during pre-processing stages in order to circumvent the long running times.
+-Performed data exploration, data preprocessing, using pandas, numpy, torch, rdkit(cheminformatics toolkit), and other usual packages in python.
+-The model works alright for small molecules and for larger molecules, the model is not reliable for almost all molecular properties. A better model is in the works.
+Environment: Python, Pandas, Numpy, Scipy, Matplotlib, torch, RdKit, Streamlit, Github.
+
+2.Data Scientist - Pangea January 2023 - Present
+Capella Boston, MA
+Deep Learning: Baby Cry Prediction Github Streamlit App
+-Worked with Cappella, an early-stage MIT-founded startup building an AI-driven baby cry translator.
+-Data for baby cry translator-prediction app comes from donateacry-corpus by Gabor Veres.
+-Performed data exploration, data preprocessing, features scaling, features engineering using pandas, numpy, librosa(audio library) packages in python.
+-Librosa is an audio signal library in Python, and it was used to construct various spectrograms like Mel-Frequency Cepstral Coefficient, Chroma Energy Normalized, Spectral Centroid, Spectral Contrast, Spectral Rolloff, Zero Crossing Rate along with other audio features like tempo.
+-Exploratory analysis of the data revealed a class imbalance, and hence techniques for imbalanced data particularly SMOTE, i.e., oversampling the minority class was used to handle the class imbalance.
+-Built a multi class audio classification model with CNN in Keras Tensorflow to predict baby cry audio clips to translate in corresponding categories.
+-Achieved an accuracy of about 93 % using the model and proposed other deep learning methodologies for further improvement of the models along with the availability of more data not just in open-source platforms.
+-Created an AI powered app on Streamlit with the model created using deep learning technique for the purposes of demo.
+-Communicated the results of data collection, and requirements by interacting with other data sources and optimal strategy for taking best decisions.
+-Developed an interactive dashboard to present the current results and spearheaded the integration of new data sources into existing Power BI datasets.
+-Responsible for developing system models, prediction algorithms, solutions to prescriptive analytics problems and data mining techniques for the proposed business question.
+Environment: Python, Pandas, Numpy, Matplotlib, Librosa, Keras, Tensoflow, Streamlit, Scikit Learn Imblearn, Power BI, Tableau, Github.
+3.Data Scientist - Upwork October 2022 – May 2023
+Anonymous Regopark, NY
+Deep Learning: Credit Card Customer Churn Prediction Upwork Portfolio
+-Responsible for developing system models, prediction algorithms, solutions to prescriptive analytics problems and data mining techniques for the proposed business question.
+-Communicate the results for taking best decisions and collect data needs and requirements by interacting with the other data sources.
+-Perform Data Cleaning, features scaling, features engineering using pandas and NumPy packages in python.
+-Built Artificial Neural Network using Pytorch to predict the customer's probability of canceling the connections i.e., Churn rate prediction.
+-Performed preliminary data analysis using descriptive statistics and handled anomalies such as removing duplicates and imputing missing values.
+-Understanding the business problems and analyzing the data by using appropriate Statistical models to generate insights.
+-Demonstrated and built statistical / machine learning systems to solve large-scale customer-focused problems and leveraging statistical methods and applying them to the business problem at hand.
+-Worked on various machine learning algorithms like Linear regression, logistic regression, Decision trees, random forests, k-means clustering, Support vector machines, XGBoosting on requirements.
+-Conducted a hybrid of Hierarchical and K-means Cluster Analysis and identified meaningful segments.
+-Developed novel computer vision algorithms using deep learning frameworks such as OpenCV, TensorFlow, keras, etc.
+-Developed machine learning models using recurrent neural networks – LSTM for time series, predictive analytics.
+-Developed machine learning models using Google TensorFlow keras API Convolution neural networks for Classification problems, fine-tuned the model performance by adjusting the epochs, bath size, Adam optimizer.
+-Create various types of data visualizations using Python and Tableau.
+Environment: Python, Tableau Desktop, Microsoft Excel, MATLAB, MySQL, AWS.
+
+4.Data Scientist Program September 2020 – May 2021 THINKFUL Portland, Oregon
+Extracted, cleaned, and analyzed datasets from Kaggle and other machine-learning repositories.
+Presented actionable insights and recommendations based on complex data covering topics such as credit card approval prediction, credit card customer segmentation analysis, credit card customer churn prediction, sign language digits prediction, and student performance test score analysis.
+Used A/B testing, t-testing, correlation testing, and machine learning algorithms to test hypotheses, draw insight, test data quality, and make conclusions.
+Developed job-ready data analysis skills in Python, Excel, PowerPoint, PostgreSQL, and an understanding of data science workflow and operations.
+Wrote well-documented code, extensive experience with troubleshooting, importing datasets, working with a variety of data sources, and querying databases.
+
+5.Instructor May 2017 – December 2019
+INTELLICIRCLE Portland, Oregon
+Taught students from grade 4 to grade 10, in particular mathematics (algebra, geometry, trigonometry and calculus).
+Graded students’ homework, conducted tests, communicated the performance of the students to parents.
+Designed a course learning Python through game programming for students in class 7 and above for summer coding bootcamp.
+Designed an AP Chemistry course for summer based on the enrollment of students.
+
+6.Trainee (Volunteer) May 2017 – March 2019
+OMSI Portland, Oregon
+As a volunteering trainee at the chemistry lab of OMSI, I helped set up the experiments for the visitors in the laboratory.
+Helped the interns and other volunteers in the lab with the routine functioning of the lab from preparing the required experimental chemical reagent preparation, cleaning, etc.
+Demonstrated the experiments for the visitors and explained the underlying scientific phenomenon to instill curiosity and make children look at the world around them through the lens of science.
+Assisted my supervisor in putting together a soap making workshop from preparing the chemical reagents for soap making process, teaching the chemistry behind soap making to actual process of making soap and other fun filled activities like choosing the mold, fragrance, kind of soap, filler element choice, colored additives, etc. for a holiday activity for adult visitors to the museum.
+Helped in setting up a stall themed “Chemistry is out of this world” alongside ACS(American Chemistry Society) during national chemistry week (2018).
+As a part of OMSI After Dark crew, I served other labs on a rotation basis for the events in the evening.
+
+7.Instructor May 2015 – Sept 2015
+Texas Tech University Lubbock, Texas
+Taught Introduction to Chemical processes course to chemical engineering sophomores.
+Prepared a relevant syllabus for the coursework under the supervision of the head of the department.
+Evaluated the students’ performance on multiple take home assignments, tutorial tests, graded closed book and open book exams along with one end of the term project presentation and a comprehensive examination.
+
+8.Research Associate June 2010 – March 2015 Texas Tech University Lubbock, Texas
+Research on biofuels: Performed various computer simulated experiments for understanding enzymatic hydrolysis of cellulose. Calculated the free energy of desorption of various cello-oligosaccharides from cellulose crystal surfaces using umbrella sampling methodology. The simulations involved developing programs and scripts using C++ and Python in Unix and HPC environments.
+Molecular dynamics and Monte Carlo simulations: Developed an application in C++ to solve classical mechanical equations required to calculate and analyze various mechanical properties of a system under consideration. A random number generator was used to create sample input sets for co-ordinates of thousands of atoms. Mathematical library functions were used to compute the properties for various time slices. The output was then used for studying the pattern of change of state.
+Simulation in HPC environment: Executed simulations in HPC environment using NAMD and C++/Open MPI packages. Used Python scripts for generation and transformation for input and output files. Queried status of running jobs using the necessary commands.
+Finite Element Method and Finite Difference Method: Developed MATLAB code to solve various differential equations using finite element and finite difference method. It was used in solving various engineering problems encountered in my research.
+Weighted Histogram Analysis Method: Implemented WHAM technique in an application in C++ to construct the free energy surface.
+
+PUBLICATIONS
+
+1.Muthukumar, L., Khare R., “Molecular Dynamics Simulation of Free Energy of Desorption of Cellohexaose from a Cellulose Crystal Surface” in Applications of Molecular Modeling to Challenges in Clean Energy, ACS Symposium Series (ACS Books), Eds.: G. Fitzgerald and N. Govind, Vol. 1133, pp. 1-17 (2013).
+2.Peri, S., Muthukumar L., Karim M. N., Khare R., “Dynamics of Cello-oligosaccharides on a Cellulose Crystal Surface”, Cellulose, 19, 1791-1806 (2012).
+ORAL PRESENTATIONS
+
+1.“Energetics and Mechanism of Desorption of Small Molecules from Cellulose Crystal Surface: Atomic Force Microscopy (AFM) and Molecular Simulation Study”, AIChE Annual Meeting, San Francisco (November 2013).
+2.“Molecular Dynamics Simulation Study of the Energetics of Desorption of Cello-oligosaccharide Molecules from Cellulose Crystals”, ACS National Meeting, New Orleans, LA (April 2013).
+3.“Free Energy of Desorption of Cello-oligosaccharides from Cellulose Crystal Surfaces”, AICHE Annual Meeting, Pittsburgh, PA (October 2012).
+
+VOLUNTEERING
+
+1.Hillsboro Library May 2016 – December 2016
+2.Beaverton Library August 2017 – December 2018
+Contact this candidate

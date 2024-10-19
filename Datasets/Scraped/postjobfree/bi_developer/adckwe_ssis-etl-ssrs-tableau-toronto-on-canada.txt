@@ -1,0 +1,218 @@
+ALLEN
+phone: 438-***-**** email: adckwe@r.postjobfree.com
+
+SUMMARY
+I have 8 years of progressive experience in creating Business Intelligence solutions, versed in data modeling, ETL development, data analytics, dashboard and scorecard designs for visualization and insights, and reporting across telecoms, health care and CPG business enterprise domains.
+I am a good communicator, a knowledge seeker, a fast learner and out of the box thinker, able to strengthen relationships with peers, senior management and business owners while building consensus across all levels of stakeholders.
+
+TECHNICAL SKILLS
+BI/Data Model Tools: SSIS, SSAS, SSRS, Microsoft Report Builder, Excel PowerPivot, SQL Server Management Studio, SQL Server Profiler, Erwin, SAP Business Objects, Oracle Data Integrator, OBIEE, Microsoft Share point, Cubes, Tabular Model, Multi-Dimensional Model, Draw.io
+Data Visualization Tools: Power BI, Tableau, Power View, Power Pivot
+Technologies/Development Tools/Programming Languages: Visual Studio 2015/2017, PL/SQL, T-SQL, DAX, SAS, MDX, Sharepoint 2013, Python 3 (In view)
+Source Control/Collaboration Tools: SVN, JIRA, TFS, Git/GitHub
+Project Management/Business Model, Analysis and Design Tools: UML, Microsoft Visio, Erwin, Microsoft Project
+Operating Systems: Window Operating Systems, Linux OS, Sun Solaris, Unix
+Cloud Technology: AWS Solutions Architect (In view)
+
+PROFESSIONAL EXPERIENCE
+Jago Solutions Int’l Inc. ON, Canada. Dec. 2019 - Present
+SSRS/ETL Developer
+Responsibilities:
+
+Source data validation and profiling (Source Systems, Enterprise Datawarehouse etc.).
+Developed and tested complex ETL processes needed to extract data from operational source systems (OLTP), transform and cleanse data, and load it into Data Warehouse using SSMS, SSIS.
+Worked with Managers, clients, Business Analysts, Data Modelers, and other subject matter experts to obtain requirements and business rules for projects.
+Developed and deployed over 15 standard SSRS reports as required by project and business stakeholders.
+Employed leading visualization and reporting tools (SSRS, Power BI, Tableau) in presenting business data to senior management in a user-friendly dashboard.
+Developed comprehendible KPI measures and dashboards based on client’s defined business requirements.
+Responsible for end-to-end management of reporting and visualization software servers (installation, upgrades and scaling, troubleshooting, migration and testing) (SSRS, Power BI, Tableau).
+Analyze target production resources for performance issues, capacity planning and storage and make recommendations to management.
+Ensured best practices are followed in reports and dashboard designs.
+Designed different type of reports including: Tabular forms, Matrix report form, List items, Charts and Sub reports.
+Conduct ETL and SQL code reviews prior to loading from staging into the data warehouse.
+
+Environment: MS SQL Server 2015/2017, T-SQL, Data Stage, MS SQL Integration Services 2017, MS SQL Reporting Services 2017, Microsoft Visual Studio 2015, SharePoint Designer, SQL Server Management Studio.
+
+Project: Customer Needs Data Warehouse
+Client: Quantum Corp.
+Role: SQL ETL/BI Developer
+Responsibilities:
+Installation of MS SQL enterprise servers on test and development boxes.
+Responsible for gathering business requirements to create business user reports.
+Designed and created databases, tables, views, stored procedures and triggers.
+Optimized the performance of queries by removing unnecessary columns, eliminated redundant and inconsistent data and normalized tables.
+Database and log backups restoration. Backed up master system databases and restoring them when necessary.
+Monitored and scheduled both existing and new jobs on production environment.
+Optimizing database queries for performance enhancements and writing T-SQL views and triggers.
+Tuned and optimized SQL queries using SQL Profiler.
+Migrated data from SAS environment to SQL Server 2015 with SQL Server Integrated Services (SSIS).
+Created ETL process using SSIS to transfer data from heterogeneous data sources.
+Created 12 cascaded and drill-down reports to effectively capture customer needs using SSRS.
+Designed SSAS cube to hold summarized data for target dashboards.
+Implemented cell level security in OLAP cubes using MDX expressions to restrict users of one subject area seeing data of another subject area using SSAS.
+Performed unit and system testing, troubleshooting and bug fixing in development and QA environments.
+Project: Revenue Cycle Management System
+Client: Eclipse Health Provider
+Role: ETL Developer
+Responsibilities:
+Largely involved in requirements gathering and brainstorming sessions with stakeholders.
+Analyzed, reviewed and re-designed OLTP database logical and physical data models to conform to requirements specification.
+Developed and reviewed master data in accordance to the business data governance and stakeholder requirements.
+Designed and analyzed source to target mapping, implemented transformations and ensured data quality.
+Wrote optimized SQL queries and scripts to extract data from multiple data sources.
+Wrote SSIS packages to extract, transform and load data from excel and CSV formats into staging and production SQL server using excel/flat files data source, OLEDB destinations, For each Container, Lookup, derived column.
+Created the Eclipse Revenue Data Warehouse to provide financial health information on-the-fly based on selected metrics.
+
+Logic Business Systems, Dallas Tx, USA April 2018 – Sept. 2019
+Business Intelligence Analyst
+Responsibilities:
+
+Architect end-to-end Business Intelligence Solution Life Cycle, analyzed and profiled data, created conceptual, logical & physical data model designs, designed and developed ETL, and analytics solutions.
+Developed efficient data queries using T-SQL, DAX, MDX expressions.
+Designed enterprise wide data warehouse from conceptual stage to OLAP using Ralph Kimball’s Star Schema dimensional modelling approach for every identified business process.
+Identified, and translated business requirements into measurable data metrics.
+Created, reviewed and presented source systems analysis, source-to-target mapping and transformation documents across staging, integration, analytics and reporting layers.
+Captured, resolved and documented data integration issues, and challenges such as duplicate data, orphan data, unclean data and non-conformed data.
+Hold walk-through meetings with stakeholders to ensure business requirements are well understood and metrics correctly defined according to organizational culture and best practices.
+Generated Enterprise Bus Matrix that identifies the business processes, grains, conformed dimensions (implementing SCDs, 0, 1 and 2 as required with applicable transformation rules) and the facts based on the business requirements.
+Designed appropriate schemas, stored procedures, views, indexes, functions and de-normalized dimension tables, and entity relationship diagrams using SQL Server database diagram and Erwin data modeler.
+Prepared and distributed routine and ad-hoc reports to senior management addressing any concerns as raised.
+Designed interactive dashboards (using Power BI, Tableau, Power Pivot) for data visualizations and developed 105 SSRS reports that provided business insights and aided senior management in making data-centric decisions.
+Collaborate with team members to drive new initiatives and tooling development in the area of business intelligence and resource forecasting.
+
+Project: Enterprise Data Warehouse (EDW) Supplier Analytics
+Client: NASSAHCO Dallas, Tx
+Role: BI Developer
+Responsibilities:
+
+Created and analyzed an opportunity/stakeholder matrix to identify all relevant business groups and stakeholders.
+Facilitated requirements gathering and brainstorming sessions for the Nassahco EDW supplier analytics.
+Analysed and produced source to target mapping, business logic rules and data quality documentation.
+Created and configured a database for Nassahco on SQL server 2015.
+Wrote optimized SQL queries, data extraction scripts across multiple sources (SQL server).
+Wrote SSIS packages to extract, transform and load (ETL) data from Excel files to Staging database and EDW using excel as data source and OLEDB connection for destination.
+Control flow and data flow task components such as containers, execute package task, execute SQL task, derived column, and SCD type 1 and 2 were used for data cleansing, transformation after extraction prior to loading into Supplier Analytics Enterprise Data Warehouse (Production server).
+Produced an Enterprise Data Warehouse Bus Matrix based on the selected business process, identified the fact, grain and conformed dimensions that can be re-used for future business processes.
+Designed and produced dimension and conformed dimension tables with SCD Type 1 and 2 used to track changes and fact tables using Star and Snowflake Schema dimensional modelling.
+Designed and deployed dashboards and reports to capture measures (Supplier Information, Product, Country and Delivery Efficiency, Supplier KPI) on the fly using Power BI, Power Pivot, SSRS, DAX, T-SQL.
+Developed and deployed SSAS cubes (Supplier performance Analysis, Country Efficiency) on multidimensional cubes database with about 20 measures created for the report consumers.
+
+Project: Employee Performance and Benefits Management System (EPBMS)
+Client: General Merchants, Carrolton, Tx
+Role: BI Developer
+Responsibilities:
+
+Facilitated requirements gathering and brainstorming sessions.
+Analyzed, designed and implemented EPBMS enterprise data warehouse end-to-end using Kimball’s architecture.
+Produced Enterprise Data Warehouse Bus Matrix based on defined business processes to identify Conformed dimensions
+Created and configured EPBMS Staging and production databases on MSSQL Server 2015.
+Created tables, views, store procedures, triggers, functions and indexes using T-SQL scripts.
+Wrote SSIS packages, T-SQL scripts to perform data extraction, transformation and loading (ETL) from General Merchants OLTP source systems databases to EPBMS staging and then to production databases using SSIS OLEDB and ADO.NET connection managers.
+Analyzed and designed source to target mapping and transformations based on business rules.
+Deployed SSIS control flow task resources and data flow task, execute package task, execute SQL task, balanced data distributor, data conversion, derived columns, and table lookup for data cleaning, transformation and loading into EPBMS staging and production databases.
+Analyzed, designed and created de-normalized dimension tables, fact tables and entity- relationships using SQL server database diagram and star schema dimensional modeling technique.
+Scheduled and monitored SQL Server Agent Jobs for EPBMS SSIS packages and T-SQL scripts.
+Created named calculations on fact and dimension tables and named queries with relationships on EPBMS data warehouse source view using SSAS.
+Created hierarchies and attributes relationship on dimensions, configured perspectives and roles for users/groups on cubes using SSAS.
+Developed and deployed SSAS cubes (Performance Analysis, Total Benefit Cost Analysis).
+Designed and deployed reports, KPI (Performance Status), pivot table and dashboards using SSRS and Excel PowerPivot.
+Produce ad-hoc SQL queries and on-demand reports (using matrix, sub reports, drill down reports, charts) for management and stakeholders using SSRS.
+
+Henton Fleets & Machineries, Grand Prairie, Tx, USA Dec. 2017 – Mar. 2018
+Business Intelligence Developer,
+Project: Deployment of Sales and Marketing Software
+Role: SQL Developer/Data Modeller
+Responsibilities:
+
+Analyzed and produced software requirements specifications, use cases, systems prototypes and functional specifications of the S&M software.
+Created an entity-relationship diagram (ERD), data flow diagram, process flow diagram of S&M software using SQL Server 2017, Oracle data model, Erwin, and Microsoft visio.
+Developed a high- level conceptual model, logical models and physical data model designs.
+Facilitated requirements gathering sessions for the new S&M software ensuring that the business requirements are fully understood and there is a buy-in from all identified stakeholders.
+Wrote T-SQL scripts using SQL Server 2015 to extract and populate data into test tables from source systems flat files, excel sheets into the new S&M software.
+Generated 1 (one) million rows of random Equipment and Machinery transaction data for 5 years based on defined business rules and specifications to test the S&M resiliency.
+Responsible for post implementation technical support of the new transactional software.
+Trained front-end users on the new software and produced technical documentation and training manuals for the S&M software.
+Involved in resolving other issues as duly assigned.
+
+Globacom Limited Jan. 2014 – June 2017
+BUSINESS INTELLIGENCE/DATA ANALYST
+Responsibilities:
+
+Developed dashboards and reports that measure customer and service level metrics for functional areas network-wide.
+Identified more efficient ways for measuring, improving and reporting business insights.
+Developed new opportunities for building new use cases through understanding and translation of raw data and performance indicators into actionable work plans.
+Involved in the support, development and deployment of customer experience management systems and other tools as may be required by the customer care business area.
+Evaluated impact of service degradation on Customer KPIs and KQIs, service metrics and over all business objectives.
+Executed routine and ad-hoc data analytics requests and support.
+Supported the team that deployed Oracle Big Data Appliance X3-2 Starter Rack to capture, store, organize and analyze more than 1 billion call-data records per day.
+Performed resiliency testing on the appliance X3-2 prior to go-live execution.
+Involved in the deployment of Oracle NoSQL Database Community Edition to support advanced subscriber behavior analytics.
+Improved customer experience and subsequently helped Globacom retain and grow a profitable subscriber base.
+Provided analytics and reports to give actionable insights into customer preferences to aid business decisions related to promotions, welcome-back campaigns and new service offerings.
+Developed datasets which enabled customer-care agents to respond to customer queries and complaints regarding network faults, connection errors, charging and service options.
+
+Project: Customer Experience Management System (CEMS)
+Role: Business Intelligence Analyst (Project Support)
+Produced project plan, cost estimate and status report to all Stakeholders.
+Facilitated requirements gathering workshops and brainstorming sessions.
+Analyzed, designed and implemented CEMS data warehouse from conceptual stage to production using Ralph Kimball method.
+Produced enterprise data warehouse bus matrix to select the business process and identify conformed dimensions.
+Wrote SSIS packages and T-SQL scripts to extract data, transform and load (ETL) from source systems databases (ZTE NetNumen M31, Huawei OWS, customer care CRMs) to CEMS staging and OLAP using SSIS OLEDB and ADO.NET connection managers.
+Analyzed and designed source to target mapping, transformations and data quality.
+Designed and created de-normalized dimension tables, fact tables and entity- relationship using SQL Server database diagram and star and snowflake schema dimensional modeling method.
+Designed and implemented SCD Type 1 and 2 on CEMS dimension tables using Slowly Changing Dimension SSIS data flow transformation.
+Created hierarchies and attributes relationship on dimensions, and Perspectives on Cubes using SSAS.
+Developed and deployed SSAS Cubes (QOS analysis, churn rate analysis, charging anomalies).
+Involved in metadata build of all the attributes in dimensions and measures using SSAS.
+Created and processed aggregations and Partition fact tables to optimize storage and query performance based on business requirements using MOLAP, ROLAP and HOLAP storage modes.
+Designed and deployed reports, KPI, pivot table and dashboards using SSRS and Excel PowerPivot.
+Produced user and technical manuals and conducted trainings enterprise-wide for front-end users.
+Authored ad-hoc SQL queries and routine reports (tablix, matrix and drill down reports) for Stakeholders using SSRS.
+Provide daily support and maintenance of the CEMS analysis and data warehouse databases.
+
+Globacom Limited July. 2011 – Jan. 2014
+ETL/EDW QA Tester
+Responsibilities:
+
+Reviewed business requirement documents and their functional specifications.
+Conducted functionality, integration and end-to-end testing of the AUT (Application Under Testing).
+Developed SQL scripts to validate the data loaded into warehouse and data mart tables using SSIS.
+Performed UAT (User Acceptance Testing) and executed it to verify requirements, look and feel of the applications.
+Exported the results through SQL and documented the test results for test cases.
+Worked on various SQL server procedures for various bugs, executed queries in test databases using SQL queries.
+Used SSIS script task, look up transformations and data flow tasks using T- SQL.
+Tested ETL/ data flow structures/ SSIS packages and reports.
+Carried out a back-end database stress testing approach that involves subjecting the test database to heavy loads.
+Tested data masking and made extensive use of SQL navigator execution plan to view and analyze complex SQL queries as part of the database back-end testing.
+Created and maintained the business complex reports using SSRS reporting module as per user requirements.
+Participated in walkthroughs and technical reviews all through the testing phase.
+Executed the test cases using sample source documents as inputs during UAT and ensured that the final outcomes of the tests are satisfactory.
+Prepared test status reports for each stage and logged any unresolved issues into issues log.
+Performed formal reviews of all documented test cases and keep the latest documents in a common repository for project team.
+
+Environment: Manual Testing, SSIS, Business objects, SQL, PL/SQL, Agile, XML Files, CSV files, MS Office Word, Access, Project, Excel Power Pivot, Power point
+
+Vmobile Limited (now Airtel) Mar. 2011 – July 2011
+Data Analyst
+Responsibilities:
+
+Determined relationship between usage trend, retention and marketing campaigns.
+Provided business intelligence reports and actionable insights to management based on Usage and Retention (U&R) campaigns monitoring.
+Developed KPIs (Revenue, Top-up rate, Customer Number and Balance) based on every customer retention campaigns.
+Performed pre-campaign analysis and track changes to measure campaign effect on customer behavior.
+Created routine and ad hoc reports to provide daily, weekly and monthly campaign performance which helps to make business decisions to continue or discontinue campaigns.
+Customer life cycle management and customer value management.
+Capture KPI thresholds of new customers, existing customers and inactive customers.
+
+EDUCATION AND PROFESSIONAL DEVELOPMENT
+Master of Business Administration
+Bachelor of Science, Electronic and Electrical Engineering
+
+CERTIFICATIONS AND TRAININGS
+Project Management Professional (PMP)
+Business Intelligence, Data Analytics and Reporting
+In-depth Dimensional Modeling Technique
+Building Enterprise Data Warehousing
+Customer Engagement and Retention
+Project Management (Project Search and Rescue)
+Contact this candidate

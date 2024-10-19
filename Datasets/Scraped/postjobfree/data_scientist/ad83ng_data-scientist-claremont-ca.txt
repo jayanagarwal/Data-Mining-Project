@@ -1,0 +1,42 @@
+Allen Qian
+Claremont 909-***-**** ad83ng@r.postjobfree.com
+EDUCATION
+University of California, Irvine Sep 2021 – Jan 2023
+MS in Data Science (GPA:3.94)
+Related courses: Data base and Data management, Probability and Stats, Stats Method, Machine Learning and Data Mining, Bayesian Data Analysis, Graphical Models & Statistical Learning
+University of Michigan, Ann Arbor Sep 2014 – Dec 2018
+BS in Honors Math and Physics (Major GPA: 3.7)
+Related courses: Mathematical Modeling, Advanced Calculus, Discrete State Stochastic Processes, Numerical Linear Algebra
+WORK EXPERIENCE
+Eth Tech Remote, US
+Data Scientist Intern Sep 2023- Feb 2024
+●Worked as a data scientist and developed a comprehensive anomaly detection solution for client from end-to-end.
+●Analyzed and visualized datasets, effectively identifying trends and highlighting potential areas of improvement or opportunity.
+●Executed feature engineering, employing techniques such as time-level aggregation and feature encoding to enhance data quality.
+●Proficiently trained XGBoost and Neural Network models, utilizing hyper-parameter tuning to achieve optimal performance.
+●Resulted in the selection of a final model boasting a True Positive Rate of 70%.
+Texera Team at University of California, Irvine Irvine, CA
+Data Science Research Assistant. Aug 2022 – Jan 2023
+●Performed real-time data analyses on 150MM Tweet data for pandemic outbreak detection, worked with the Texera development team to resolve over 5 major interface issues and proposed over 10 user experience improvements.
+●Scraped keywords of symptoms from the UK National Health Service website, used the NLTK package to tokenize, stem and lemmatize a list of 285 keywords as indicators for future outbreak detection.
+●Trained a language model using RoBERTa to identify context of pandemic discussion, which filtered out tweets that contain the keywords but are not pandemic related. Further performed model tuning and selected the best model.
+●The final model gave up to 0.85 accuracy, 0.80 precision, and 0.87 recall for most keywords in medical context.
+●Detected the spike in the number of tweets for each keyword to predict the COVID-19 as early as Feb 2020. The same model was also applied to the Monkeypox outbreak. The model successfully detected the occurrence in May 2022.
+DATA SCIENCE PROJECT
+Image Style Conversion between Monet and Realism
+I’m Something of a Painter Myself Kaggle competition.
+●Built, trained, and tuned a cycle-GAN model featuring two pairs of generator and discriminator for each image style.
+●Exploited image augmentation to handle the lack of Monet painting which is only around 300.
+●Scored 60 which Ranked 35 on Kaggle.
+Facial Recognition for the Trace of Individual Identity and Family Relationships
+An FBI sponsored project.
+●Built a CNN model using EfficientNet architecture. Trained additional layers for assigned tasks on top of a pre-trained model.
+●Further improved model performance by processing the extremely imbalanced training dataset (1: 50) using weights adjustment, oversampling, augmentation, and Siamese Network.
+●Achieved a final accuracy of 0.62, which ranked 3rd among total 26 groups.
+SKILLS
+Python (visualization: Matplotlib/Seaborn, machine learning: TensorFlow/Pytorch/scikit-learn/Keras/Sci-py/NLTK etc.)
+SQL (hand on experience with the following DBMS: PostgreSQL, MongoDB) R, Linux, Spark, AWS
+Bilingual in English and Chinese
+Other Interests
+Strategy & Optimization, Analytics, Guitar, Working Out
+Contact this candidate

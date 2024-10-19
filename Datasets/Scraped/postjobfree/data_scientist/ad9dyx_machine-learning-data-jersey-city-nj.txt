@@ -1,0 +1,96 @@
+Srikanth Kamath Kachke
+Data Scientist/Machine Learning Engineer
+551-***-**** ad9dyx@r.postjobfree.com https://github.com/srikii
+PROFESSIONAL SUMMARY
+• Over 9+ years of experience in Predictive Modeling, Statistics, Machine Learning & Data Science
+• Experience in test-driven development of machine learning models using advanced statistics and analytics working in collaboration with a team.
+• Strong hands-on experience in Data Modeling, Data Wrangling, Statistical Modeling, Data Mining, Machine Learning, Data Visualization, and transformations using DataFrames
+• Expert in python libraries such as NumPy, and SciPy for mathematical calculations, Pandas for data preprocessing/wrangling, Matplotlib, Seaborn for data visualization, Scikitlearn for machine learning, TensorFlow and Keras for Deep Learning
+• Good Knowledge on GAI models.
+• Strong skills in natural language processing, information retrieval, machine comprehension, question answering, and conversational AI.
+• Exposure to AI and Deep learning platforms such as TensorFlow, Keras, AWS ML, Azure ML studio
+• Expertise in deep learning frameworks such as TensorFlow, SparkML, and Keras.
+• Proficient in Scala, Python, and R.
+• Experience Configuring Terraform, Packer, FastAPI, Kubernetes, Nginx, Elasticsearch, PostgreSQL, AWS, GCP, Grafana, Kibana, and Google Data Studio
+• Good experience creating real time data streaming solutions using Spark Streaming and Kafka.
+• Experience customizing iPhone and iPad interfaces using Swift 4.0/ 3.0/ 2.0 and storyboards.
+• Strong understanding of machine learning concepts and algorithms.
+• Experience with AWS DevOps tools such as SageMaker and Lambda.
+• Worked with NoSQL Database including HBase, Cassandra and MongoDB.
+• Experience with CI/CD tools such as GitHub and Bamboo.
+• Strong database management skills in writing SQL queries and CI/CD pipelines
+
+SKILLS
+
+Programming Languages
+Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn Keras, TensorFlow, NLTK, Regex, OpenCV, PyTorch), Swift, MATLAB, R, C ++
+Big Data Technologies & Tools
+Tableau, Qlik, Excel, Jupyter Notebook, RStudio, Google Cloud Platform (GCP), Git, Jenkins, Kafka, Airflow, Apache Spark, Scala, Kubeflow
+Machine Learning
+Predictive modeling, Linear and logistic regression, SVM`s, Clustering- K-nearest neighbors, Segmentation methodologies, Decision Trees, Random Forest, Support Vector Machines, PCA, Decision Trees, Random Forests, ANN, CNN, Natural Language Processing, Deep Learning
+Data Techniques
+Data wrangling, ETL, Database management, Data Pipeline, BigQuery, Dataflow, Dashboard creation and Visualization, A/B Testing, Experimentation, Statistical Analysis
+Databases
+PostgreSQL, MySQL, NoSQL
+Cloud Platforms
+AWS SageMaker, GCP, Azure
+
+PROFESSIONAL EXPERIENCE
+Data Scientist/Machine Learning Engineer July 2022 – Present
+HCA Healthcare Nashville, TN
+Responsibilities:
+• Developed and deployed NLP based smart assistant, by performing Natural Language Understanding and Topic Modeling, using RASA NLU, to reduce patient wait time by 40% on Microsoft AZURE platform.
+• Deployed Anomaly detection model, to score patients on their likelihood to refuse dialysis on EMR, developed data pipeline and data modelling workflow to score 4M patients’ clinical encounters.
+• Developed Insurance Fraud detection model, by performing Feature Engineering on structured and unstructured data, generated from patients’ feedback and physician or hospital fraud instances.
+• Ported various traditional SAS-based models to python and deployed them to production using Azure DevOps.
+• Developed ETL pipelines on data from data warehouse then further analyzed them in Azure Synapse and built visualizations using power BI.
+• Performed Object Detection and Image Classification, using Fast R-CNN and ResNet18 models, pre-trained convolutional neural networks, TensorFlow and Keras to diagnose diseases on chest X-ray images, upon pathology data, leads to speeding up the triage process, evaluated model via false negative rate, retrieved 91.78% accuracy and deployed the data pipeline via Kubeflow on Kubernetes.
+• Formulated PostgreSQL procedures to create test data in data warehousing, for testing BI reports.
+• Created dashboards and Business Intelligence (BI) visualizations using Tableau and Matplotlib to communicate the business process analysis reports from PL/SQL and Mongo DB databases.
+• Performed automation of data pre-processing like imputing missing values, feature engineering like combining features, combining/adding attributes and scaling numerical features and modeling
+• Discovered high co-relation factors of the features with injury like barrier position and occupant position through EDA and visualization using matplotlib and seaborn.
+• Working with machine learning engineers and data scientists to develop and deploy advanced machine learning models, including Large Language Models like GPT, LLaMA, and BERT.
+• Optimized model training and tuning processes, improving model performance and efficiency.
+• Experienced large language model (LLM) engineer in the tech industry.
+• Proven ability to fine-tune and serve LLMs to build best-in-class solutions on NLP and Generative AI.
+• Using Data flow and python to build dynamic data workflow pipelines to serve various experiments.
+• Developed and implemented tokenization and embeddings strategies to enhance model capabilities.
+• Spearheaded projects in Natural Language Processing, Information Retrieval, Machine Comprehension, Question Answering, Conversational AI, Reinforcement Learning, and Inference.
+• Developed and implemented GAI models for a variety of tasks, including natural language processing.
+
+Data Scientist July 2019 – June 2022
+GAP San Francisco, CA
+Responsibilities:
+• Spearheaded projects in Natural Language Processing, Information Retrieval, Machine Comprehension, Question Answering, Conversational AI, Reinforcement Learning, and Inference.
+• Developed and implemented GAI models for a variety of tasks, including natural language processing.
+• Increased customers booking trends by 8% providing personalized recommendation to the customers on the website, using Collaborative filtering and Content-based filtering.
+• Worked with Google Analytics click stream data to understand customer behavior by reading in 2 million new records per day using Vertica SQL.
+• Performed offline evaluation using metrics like NDCG and Rank Correlation, and further conducted A/B testing to rank order the properties and customer reviews, increasing overall sales by 6%.
+• Build an NLP Sentiment Analysis model via LSTM, to classify whether user reviews are fake or real, to show sincere reviews about the products on the Choice website and corresponding mobile app (PyTorch, RNN, AWS Sagemaker, Comprehend, Lambda functions, S3 and Redshift database).
+• Build SQL queries and stored procedures to retrieve data from the Redshift database for model re-training.
+• Identified user patterns and classify user type using Document Classification and Random Forest technique, which helped in increasing user retention rate and thereby increasing total revenue.
+• Gathered data from social media and news websites, to analyze marketing strategies, using exploratory data analysis and regression methods.
+• Scaled up and designed the data pipeline using AWS by leveraging their services like EC2, and S3.
+• Collaborated with engineering and database team, to deploy models on production environment.
+
+Data Analyst Aug 2014 – May 2018
+British Airways India
+Responsibilities:
+• Carried out Predictive analytics based on the simulations data to generate insights for future efficacy.
+• Created dashboards using Tableau to visualize patterns for assisting in vehicle design predictions.
+• Streamlined and restructured the backup jobs to optimize the use of resources.
+• Developed various reusable scripts to validate the batch files which are generated on a daily, weekly, and monthly basis, in both system integration phase and testing phase.
+• Performed data conversion, consolidation, and validations, as per the business requirements.
+• Developed service for sending an email, push, and in-app notifications, for recommending latest offers, based on customer interests. Involved in features such as delivery time optimization, tracking, queuing, and A/B testing. Built an internal app to run batch processing for software delivery etc. (Python, Flask, MS SQL, Recommendation System).
+• Simplified bulk data processing and injection service from global exchanges to CTRM and provides preprocessed data for application users. (Python, Machine Learning, NLP).
+• Collaborated with cross-functional teams for collecting, understanding the business requirements, well documented them, and translated requirements into technical solutions.
+• Analyzed and performed POC over Airtel Payment Bank System, using libraries (NumPy, Pandas).
+• Used tools in the Hadoop ecosystem (e.g., Hive, Apache Spark) to prepare complex data sets for use in building predictive models.
+• Build SQL queries and procedures to retrieve data from the PostgreSQL database, by performing CRUD operations.
+• Automate post-processing analysis activities with Python scripting.
+• Integrated Kafka with Spark Streaming to listen onto multiple Kafka Brokers with different Kafka topics for every 5 Seconds.
+
+EDUCATION
+Master of Science, Software Engineering, Stevens Institute of Technology NJ2020
+Bachelor of Engineering, Computer Science, Visvesvaraya Technological University Bangalore, India 2014
+Contact this candidate

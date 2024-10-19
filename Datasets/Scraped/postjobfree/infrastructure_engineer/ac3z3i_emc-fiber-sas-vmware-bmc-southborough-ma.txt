@@ -1,0 +1,131 @@
+Bashu Kanal
+* **** *** ****
+Southborough, MA ***72
+508-***-****
+
+Professional Summary
+
+A professional EMC storage engineer with experience in hardware, software, configuration, debugging, and project management of a wide range of data storage equipment, Kaminario K2 all SSD Arrays, EMC Clarrion/VNX and VPLEX. Provide guidance and action plans to field engineers to debug and resolve issues with customer arrays.
+
+Concentration of Technical Skills
+
+Kaminario Corporation 2016 - Present:
+
+Manage customer’s mission critical data storage systems for technical issues including:
+Array configuration including: Host connections and volume creation, call-home configuration, 10Gig iSCSI, 8Gig and 16Gig Fiber Channel connectivity, Ethernet Management, Snapshots and Replication.
+Analyze customer failover configurations.
+Troubleshoot replication issues.
+Implement fiber channel analyzer to monitor IO traffic.
+Recover from power failure: Insure proper power-up process after a power failure.
+Monitor Kernel level processes.
+LDAP: Configure storage array to join in the Active Directory Domain.
+Non-Disruptive-Upgrades (NDU): Provide the required K2 image, schedule a WebEx, and perform the process of system updates to the current code level.
+Array Log Collection and Analysis: Execute system CLI commands to analyze, Call-home, WAN port iSCSI port, and FC port connections, server and shelf show, RAID and capacity show, Volume and volume group Commands such as: host and host group create, change, and remove, port mapping, persistent reservation show and clear, snapshot create, remove, and show, and Events.
+Installation of ESX on white box servers, installation and configuration of guest operating systems such as Windows Server, RHEL, and Centos.
+Perform administrative tasks for Windows Server and Linux systems.
+Gather and analyze Windows Cluster Logs.
+Gather and analyze ESX diagnostic cluster logs.
+Vsphere Environment Analysis Using RVtools.
+Hardware Replacements: Issue remote commands via WebEx to logically remove and install replacement FRUs.
+Performance Analysis: Implement performance analysis, IO profiles and identify performance bottlenecks.
+Debug Brocade and Cisco Configuration issues for Fiber Channel and 10Gig iSCSI: Gather and analyze logs from Brocade and Cisco Nexus switches.
+Create and publish knowledge base articles.
+
+EMC Corporation 2008 - 2016:
+
+Review customer bug tickets to gain an overall perspective of the error conditions. Gather, review and correlate related logs to determine the likely cause of the system failure creating an action plan to correct the issue.
+
+Proficiency with the installation, configuration, and testing of EMC software such as, thin pools, deduplication, compression, auto-tiering, and fast cache
+EMC SAN configuration and implementation using Brocade fiber channel switches
+Basic familiarity of Cisco FCoE switches
+Hardware level debug and testing
+Bugcheck analysis using Microsoft WinDbg
+Architect and build SAN fabrics
+VPLEX installation, configuration and IO testing to back-end arrays with a focus on performance and failover
+Implementation of synchronous and asynchronous Mirrorview for array mirroring .
+Set up replication configurations.
+Installation of ESXi OS on Intel server platforms for creation of VMs of various operating systems via VMware VCenter Client for diagnostic testing
+
+Review customer ARs (Action Request) to gain an overall perspective of the error conditions. Gather, review and correlate related logs to determine the likely cause of the system failure, plan, write, and submit action plans to correct the customer’s storage array errors.
+
+Schedule and run webex sessions on customer systems to analyze and resolve hardware/software issues.
+
+Configure storage hardware and software configurations. Test the customer’s configuration in the lab using traffic generation tools to accelerate the error condition. Prepare and provide detailed failure analysis results as feedback to development, management and customers.
+
+Work directly with hardware and software development to attach measurement instruments to the arrays using logic analyzers, protocol analyzers (fiber channel, SAS), open source software analyzer (Wireshark), various engineering firmware, and scopes to identify signal and protocol issues.
+
+Duplicate the customer’s environment including:
+Customer’s RAID groups, storage groups and LUN configurations and assignments.
+Install and test software enablers and firmware used in the customer’s environment including: various Flare and MCx revisions and software enablers, Auto-tiering (FAST), Fast-Cache, Snapview and replication
+Configure secondary array for mirror view connections.
+Install and configure a Vplex appliance to provide array to array failover or multi-array clusters.
+IPMI BMC dashboard and out-of-band monitoring for device level analysis.
+
+System Performance:
+Using performance tools, measure and monitor system performance for bandwidth, throughput and response times to storage processor’s front-end ports and individual LUNs and disks.
+Use software tools such as NaviAnalyzer to measure latency for LUN and disk drive response times.
+Create and analyze NAR files to isolate system bottlenecks.
+Configure LUNs and IO to target specific areas of the system such as Fast Cache.
+Use in-house and open source IO generation tools such as:
+oArrayX
+oDAQ
+oSorcery
+oIOmeter
+
+Analysis of system level errors:
+
+SP collect generation and Triage analysis of system level errors including:
+Extended POST messages
+Disk Sense Data and disk drive error codes
+Analysis of failed non-disruptive updates (NDUs)
+Back end bus failures
+FRU firmware revisions
+Analyze drive remaps, hard and soft media errors, parity and sector reconstructs, and uncorrectable errors.
+Checksum errors
+Cache dirty events
+Excessive SP Trespasses
+Bugchecks
+Analysis of unexpected reboots
+Low level engineering diagnostics (Embedded Extended Exerciser E3)
+
+Install and configure EMC Vplex appliances:
+Map out optimal hardware paths to insure data path redundancy.
+Establish meta volumes and meta volume mirrors.
+Expose and claim available volumes.
+
+Install and configure VMware ESX servers for virtual machines used as Clariion test hosts:
+Create Windows and Linux VMs for IO generation to the arrays.
+Add storage hardware to VMs based on ESX server storage groups.
+Test various IO loads to target specific IO based issues.
+
+Leveraged background in hardware development including:
+Tachyon QE8 8G Fiber Channel Hardware Architecture
+Q-Logic 4032 iSCSI Architecture
+I2C and SMB bus architectures
+PMC Tachyon PM8001 SAS controller architecture
+PLX PCIe architecture
+Broadcom 57710 10Gb Ethernet Architecture
+Intel Sandy Bridge/Ivy Bridge Architecture
+Intel Blackford Architecture
+Intel Woodcrest Architecture with Lindenhurst MCH
+
+Networking:
+Used Emulex OC Manager and Qlogic’s Sansurfer for private IP and iSCSi interfaces.
+Configure Brocade and Cisco switches for host/array connections. Create aliases, zones, and zone configurations via 4Gb, 8Gb, and 16Gb fiber channel, iSCSI, FCoE, 10Gb iSCSI.
+Configure Intel based host system hardware (HBAs and CNAs) and software for host based IO generation.
+
+Initiate and participate in project management for failure trend analysis of hardware and software, including:
+Fiber channel, SAS, SATA, EFD and SSD drives
+Identify disk drive error codes and work with internal organizations for firmware enhancements and root cause analysis
+BMC firmware issues
+PLX PCIe firmware and hardware issues
+
+Education:
+
+Master of Science in Software Engineering: Brandeis University.
+Master of Science in Management of Projects and Programs: Brandeis University.
+BSEET: Wentworth Institute of Technology.
+
+Accomplishments:
+Patent # 7,126,155 B1 S-Parameter Power Plane probe coupon for the measurement and detection of high speed currents and anti-resonance frequencies.
+Contact this candidate

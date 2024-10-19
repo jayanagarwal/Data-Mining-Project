@@ -1,0 +1,63 @@
+Sai Charan
+AWS DevOps Engineer
+Dekalb, IL • +1-779-***-**** • ad69nj@r.postjobfree.com
+DevOps engineer with 5 years of practical experience creating, deploying, and maintaining strong and scalable infrastructure solutions. Skilled in orchestrating continuous integration, deployment, and delivery pipelines to expedite development processes and increase overall efficiency. Responsible for deploying and managing containerized apps seamlessly using automation technologies like Docker and Kubernetes. Demonstrated ability to work with cross-functional teams to solve challenging problems and improve system performance. To foster continuous development, I am committed to remaining current with industry trends and upcoming technology.
+
+SKILLS
+
+Versioning Tools - Git
+CI - Jenkins, Chef, Puppet, Terraform, Bash
+Build Tools – Maven, Java
+Ticket Tracking Tool - JIRA
+Containerization Tool – Docker, SNS, SQS, Elastic
+Operating System - Windows, Unix
+AWS - Amazon EC2, S3, RDS, ELB, EBS, Auto scaling, Red shift, GCP
+Scripting Language - Shell, Python
+Web server - Apache Tomcat
+
+RELEVANT WORK EXPERIENCE
+
+Kube IT Inc, GA April 2022- Present
+DevOps Engineer
+
+Setting up of CI/CD pipeline using continuous integration tools such as Cloud Bees Jenkins and automated the entire AWS EC2, VPC, S3, SNS, RedShift, EMR based infrastructure using Terraform, Chef, Python, Shell, Bash scripts and managing security groups on AWS and custom monitoring using CloudWatch.
+Created an AWS RDS Aurora DB cluster and connected to database through an Amazon RDS Aurora DB Instance using Amazon RDS Console and used BOTO 3 and Fabric for launching and deploying instances in AWS and configured Inbound or Outbound in AWS Security groups according to the requirements.
+Developed Amazon Elastic Container Registry for integrating with Amazon ECS and the Docker CLI, for development and production workflows and worked on creation of various subscriptions and topics using SNS and SQS based services and automated the complete deployment environment on AWS.
+Implemented Packer based scripts for continuous integration with the Jenkins server and deployed those scripts on to the Amazon EC2 instances and customized AMI’s based on already existing AWS EC2 instances by using create image functionality, hence using this Snapshot for disaster recovery.
+Leveraged AWS S3 service as Build Artifact repository and created release-based Buckets to store various modules/branch-based Artifact storage.
+Used Terraform templates along with Packer to build images for application deployment in AWS.
+Created Kubernetes YAMLs using objects like Pods, Deployments, Services and Configmaps and created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and Helm packages.
+Used Docker to containerize custom web applications and deploy them on Ubuntu instance through SWARM Cluster and to automate the application deployment in cloud using Vagrant.
+Created a microservice environment on cloud by deploying services as a Docker container and used Amazon ECS as a container management service to run micro services on a managed cluster of EC2 instances.
+Implemented Docker Containers to create images of applications and dynamically provision slaves to Jenkins CI/CD pipelines and reduced build and deployment times by designing and implementing Docker workflow.
+Involved in writing Jenkins file by using Groovy Scripts for building CI/CD pipeline for automation of Shell Scripts.
+Used Ruby scripting on Chef Automation for creating Cookbooks comprising all resources, templates, attributes and used Knife commands to manage Nodes.
+Used ANSIBLE role to create an ELK cluster for non-log purposes to search and analytics of product data and pricing data.
+Designed ELK (Elastic search, Logstash, Kibana) system to monitor and search enterprise alerts installed, configured, and managed ELK Stack for Log management within EC2 / Elastic Load balancer for Elastic Search and ESX servers using Cloud.
+Involved in setting up application servers like Tomcat, WebLogic across Linux platforms as well as wrote shell scripts, Bash, Perl, Python, Ruby scripting on Linux.
+Used JIRA for creating bugs tickets, storyboarding, pulling reports from dashboard, creating and planning Sprints.
+Amazon – India, Telangana March 2019 – December 2021
+Associate AWS DevOps Engineer
+
+Proficient in AWS services like VPC, EC2, ECS, S3, ELB, Auto Scaling Groups (ASG), EBS, RDS, IAM, Route 53, Cloud Watch, Cloud Front, Cloud Trail.
+Experienced in creating multiple VPC's and public, private subnets as per requirement and distributed them as groups into various availability zones of the VPC.
+Created NAT gateways and instances to allow communication from the private instances to the internet.
+Used security groups, network ACL's, internet gateways and route tables to ensure a Secure zone for organization in AWS public cloud.
+Created and configured elastic load balancers and auto scaling groups to distribute the traffic and to have a cost efficient, fault tolerant and available environment.
+Experience working on Docker Hub, creating Docker images, and handling multiple images primarily for middleware installations and domain configurations.
+Experience with analysis of logs and performing root cause analysis for various issues coming up on daily basis.
+Collaborated within Agile teams, participating in sprint planning, daily stand-ups, and retrospectives to ensure alignment with development and operations.
+Performed system administration of UNIX servers by using Operating Systems of Solaris 2.7/8 Managing SUN Solaris, Compaq and Linux workstations and servers.
+Created groups, added Users ID to a group as a primary or secondary group, removing Users ID from a group as well as adding users in Sudoers file.
+Involved in creating logical volumes, backups, managed large hard disk farms and resized disk partitions using Logical Volume Manager (LVM) commands on red hat Linux.
+Involved in developing custom scripts using Shell (bash, ksh) to automate jobs.
+Patch and package administration for installation of patches as per the company policy and installation of packaged application.
+Monitoring day-to-day administration and maintenance operations of the company network and systems working on Linux and Solaris Systems.
+
+EDUCATION
+
+Northern Illinois University, Dekalb, IL 2023
+Master’s in science - Management Information systems
+Geethanjali College of Engineering and Technology, Hyderabad, Telangana 2018
+Bachelor of Technology - Mechanical engineering
+Contact this candidate

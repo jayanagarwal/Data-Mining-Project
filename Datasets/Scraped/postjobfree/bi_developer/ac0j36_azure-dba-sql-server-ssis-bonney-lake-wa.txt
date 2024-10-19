@@ -1,0 +1,128 @@
+Balu
+425-***-****
+ac0j36@r.postjobfree.com
+
+SUMMARY:
+Over 5 years of experience as a SQL DBA/ Developer in analyzing, designing, tuning, and developing Client/Server and various segments of SDLC, using MS SQL Server 2014/2012/2008 & 2008 R2.
+Experience in Installing, Configuring, managing, monitoring and troubleshooting SQL Server and applying service packs.
+Good knowledge on deployments, Maintenance and troubleshooting applications on Microsoft Cloud Infrastructure Azure.
+Automating in azure for creation of subscription, Storage Account and tables using Windows PowerShell.
+Hands-on in complete Lab Setup for Single Sign on with Enterprise Active Directory Federation System ADFS and Azure Access Control Service & also with Azure Active Directory.
+Good exposure of Oracle DBA tasks like Installation, Patching, Cloning and Upgrade of Oracle Databases like Oracle 10g and Oracle 11g.
+Extensive knowledge in tuning T-SQL (DDL and DML) queries to improve the database performance and availability.
+Experience in dealing with the issues related to High Availability Techniques such as Log shipping, Mirroring, Replication (Transactional and Snapshot), clustering and Always on.
+Expertise in Security Issues such as creating logins and granting permissions on various objects as well as Administering security for server logins regularly (Windows and SQL Accounts) and guest user logins.
+Proficient in creating indexed views, complex stored procedures, effective functions, and appropriate triggers to facilitate efficient data manipulation, data consistency and complex business logic using Batch Files.
+Experience in dealing with the issues related to the Backups (Full, Differential, Transaction Log, Tail Log, Copy Only and Striped Backups) and restoration related issues.
+Proficient in SQL Server 2008 new features like Merge Statement, Filtered Indexes, Policy Based Management, Data Compression, Resource Governor, Performance Data Collector and Transparent Data Encryption (TDE), Backup compression, Lock escalation and Change Data Capture (CDC).
+Expertise in database optimization using tools like Index Tuning Wizard, SQL profiler, File groups, DBCC utilities and Windows Performance Monitor for monitoring and tuning MS SQL Server performance.
+Experience in maintaining database, including updating statistics, re-indexing, structure modifications, and index analysis.
+Hands-on experience in resolving locks deadlocks, handling Isolation levels and performance issues like CPU, I/O, Memory bottlenecks.
+Used SSIS as an Extract Transform Loading (ETL) tool of SQL Server to populate data from various data sources, creating packages for different data loading operations for application
+Experience with third-party monitoring and backup tools such as Red Gate, litespeed and Idera.
+Exquisite skills in SSMS-Creating and scheduling jobs, alerts and operators with SQL Server Agent, handling Backup/Recovery of databases, Replication, Linked Servers, and Database Maintenance.
+Expertise in Performance Tuning, Index Tuning, Maintenance, Troubleshooting, Query Optimization, Client/Server connectivity and Database Consistency Checks using DBCC Utilities, DMVs and DMFs
+Consistently monitored alert log files, trace files, user sessions daily, and took appropriate actions to kill inactive sessions and make systems manipulations based on logs
+
+Education: Master in Computer Science
+
+Skillset:
+Microsoft SQL Server (2014, 2012, 2008R2, 2008, 2005), SQL Server Integration Services (SSIS), SQL Server Reporting services (SSRS), Microsoft Visual Studio 2010/2012, T-SQL, PowerBI, ETL, PowerShell, Oracle Database, Microsoft Power BI, ASP.net, SharePoint 2010, TFS, VSS, Windows 8, Windows 7, Windows XP, Windows Azure, ITSM, Service Now, Data Warehouse.
+
+Work Experience:
+ALTICOR - GRAND RAPIDS, MI Oct’16 – Present
+MS SQL Server DBA
+Alticor is a global company offering products, business opportunities, and manufacturing and logistics services in more than 100 countries and territories worldwide. The project involves Providing SQL DBA support to all the Production servers. All these servers are running in SAP environment. Our Main responsibility ensures that all the applications running on them are online 24*7 and troubleshoots the issues at SQL Server level Admin side.
+Responsibilities:
+Installed SQL Server 2014/2012/2008R2/2008 on Windows Clustered and standalone environments with latest service packs.
+Working with customers on Application rollouts and server migrations.
+Implementation of SQL Logins, Roles and Authentication Modes as a part of Security Policies for various categories of users.
+Setting up and Monitored transactional replication, Database mirroring on Production, QA and Dev servers.
+Monitored Log shipping/ Transactional Replication and troubleshooting errors.
+Configured Backups, optimization jobs and involved in restoring database to point in time in case of issues, troubleshooting long running queries, locks, deadlocks and performance issues.
+Worked in active/active and active/passive cluster environment
+Job Monitoring and making sure all jobs run successfully every night.
+Performed Database backups with tools like litespeed.
+Scheduled and monitored all maintenance activities including database consistency check and index fragmentation.
+Performed daily tasks including backup and restore by using SQL Server tools like SQL Server Management Studio and SQL Server Agent.
+Involved in improving SQL Query performance by analyzing the query using Execution Plans and modify queries by using appropriate joins.
+Schedule Database Maintenance Plans to reorganize indexes, re-indexing and update the index statistics on the production databases.
+Environment: SQL Server 2014/2012/2008, SQL Profiler, High availability, Performance monitoring.
+
+MICROSOFT/Redmond, WA. Mar’16–Oct’16
+SQL Developer/DBA
+Project: Office 365
+The Office 365 project is a big-data distributed data-mart supporting a One-Microsoft view of Microsoft’s business. The Office 365 project takes a global view of users of Microsoft products and services, stitching disparate data-sources together to provide event-level and user-level data across raw data-sources with non-uniform dimensions and differing User ID-types. Technical aspects include Microsoft Cosmos Scope-scripting with dynamic views, Dimension-conformation and data-cleansing and inference of user-identity.
+
+Responsibilities:
+Responsible for installation and configuration of SQL server 2014/2012/2008 databases on windows2008/2012 servers.
+Administered MS SQL Servers by creating user logins with appropriate roles, monitoring the user accounts, creation of groups, granting the privileges to users and groups
+Involved in creating Databases, Tables, Clustered/Non-Clustered Index, Unique/Check Constraints, Views, Stored Procedures, Triggers, Functions and Defaults
+Performed SQL Server DBA role with support to the SQL Server standalone and cluster environments.
+Based on the business need created all three replication models on different applications.
+Backup/Restore the production DBs with scheduled jobs and scripting.
+Performed Database Integrity Checks, updated Database Statistics and performed re-indexing daily Interact with various departments for new release and troubleshooting of applications
+Responsible for migration and support of databases for Production, Integration and Development environments
+Proactively monitored the database health through automated scripts for checking the database and extents growth, probing the alert log files, monitoring the rollback segments and temporary space usage.
+Troubleshooting Stored Procedures and Queries performances using SQL Server Profiler, Performance Monitor, DBCC Commands and Dynamic Management Views (DMVs).
+Updating and maintaining all the SQL Process documents
+Environment: SQL 2012 / SQL 2014 / SQL 2016, COSMOS, PowerBI, ISCOPE, USQL and SSIS
+
+MICROSOFT/Redmond, WA. Aug’15 – Feb’16
+SQL SERVER DBA
+Project: SDO (Service Delivery Operations)
+This is one of the biggest projects in the Microsoft space. This project is all about giving live (P1, P2 and P3) support for 100’s of Microsoft internal projects. The goal of this project is to provide SQL Admin support for all SQL servers been used across all the Microsoft projects. There are countless SQL Servers where this project is responsible for handling and resolving all the issues with 24*7 production support.
+
+Responsibilities:
+Created and configured the database with file groups and created the tables having required constraints.
+Analyzed business requirements and build logical data models that describe all the data and relationships between the data.
+Created new database objects like Procedures, Functions, Packages, Triggers, Indexes and Views using T-SQL in SQL Server 2012.
+Successfully resolved installation issues for database server software and client-server applications.
+Involved in dealing with the issues related to High Availability Techniques such as Log shipping, Mirroring, Replication (Transactional and Snapshot) and clustering. Also, includes the new feature introduced in SQL Server 2012 Always on High Availability
+Performance tuning of SQL queries and stored procedures using SQL Profiler and Index Tuning Wizard and Updated the statistics info for both the old and new servers.
+Validated change requests and made appropriate recommendations. Standardized the implementation of data.
+Responsible for dealing with the issues related to the Backups (Full, Differential, Transaction Log, Copy Only and Striped Backups) and restoration related issues.
+Responsible for dealing with the tasks related to Performance Monitoring such as Memory, CPU, and Disk and Network issues.
+Scheduled DBCC commands to troubleshoot issues related to database integrity & Consistency issues.
+Managing logins, roles, assigning rights and permissions. Created views to implement security.
+Schedule Database Maintenance Plans to reorganize indexes, re-indexing and update the index statistics on the production databases.
+Supported administrative tasks in SQL Server platform: jobs, alerts, email notifications.
+Worked under pressure to meet deadlines and provide first-level response and advanced troubleshooting to end user issues/concerns.
+Environment: SQL Server 2014/2012/2008, SQL Profiler, High availability, Performance monitoring.
+Frontier Communications – Dallas, TX Dec’14 – May’15
+SQL Server Developer/DBA
+Project: RETAIL COFEE Billing - Project North
+The Frontier Converged Front End Engine - is a Billing Front End system which is used for viewing/adjusting the charges incurred by the customer towards his/her Voice, Data and Video lines, handling billing inquiries for the 13 States of the Frontier Footprint. Continuous enhancement and maintenance form the backbone of this project based on .NET Technologies and SQL Server. The Application supports Customer Payment Activity display, Follow-ups and Claims and Account Notations.
+
+Responsibilities:
+Performed Installing and Maintaining SQL server as required and configuration of SQL server services and TCP/IP protocols.
+Setup and scheduled full and transactional log backups for the user created and system database in the production environment using the Database maintenance plan wizard.
+Perform DBCC commands to troubleshoot issues related to database consistency.
+Involved in capacity planning, sizing and database growth projections.
+Implemented indexed views to increase the query performance.
+Implemented high availability solutions for mission critical SQL Server databases with clustering and Mirroring on SQL server 2012
+Configured Merge and Transaction Replication from Production to DR Servers and Reporting Server with Multiple subscribers on SQL server 2012.
+Installed and configured SQL Server 2012 on Standalone and Clustered Environments.
+Performed Back-up, Restoration of Databases in Full Recovery &Bulk-Logged modes.
+Proactively monitored the database health through automated scripts for checking the database and extents growth, probing the alert log files, monitoring the rollback segments and space usage.
+Resolved the issue of mission critical of high usage of system CPU, Disk, Deadlocks issue and Transaction per/sec, Memory involved in performance monitoring of Memory, Processor, Disk I/O.
+Environment: SQL Server 2008, Log shipping, DBCC, Performance Monitoring, SQL Profiler.
+
+IVRCL Ltd/Hyderabad, AP Jan’11 – Apr’13
+SQL Database administrator
+Project Name: AMS
+AMS Contain 500 + Sites from worldwide, each site contains so many Assets (Site, Region, Division and State wise). So, it’s very difficult to monitoring those assets from head office. On that situation, we have designed this ERP application it’s very easy to monitor from anywhere. Based on their authentication they can generate Reports and monitoring Asset Conditions. By using this ERP Application Track the Records from New asset creation to dispose that Asset.
+
+Responsibilities:
+Implementation of SQL Logins and Authentication Modes as part of Security Policy for various categories of user support.
+Responsible for the installing MS SQL Server 2005 & 2008, configuration and performance tuning.
+Created and maintained various databases for Production, and Stage Servers. Planning the location of data, index, and Transaction log files on the disk.
+Recovering the database from backups in disaster.
+Designed and implemented Disaster Recovery site using SQL SERVER Log Shipping.
+Involved in Database Maintenance, Releases, created SQL Agent jobs, Alerts.
+Maintaining the database consistency with DBCC at regular intervals.
+Database Management like adding secondary files, expanding file sizes, and shrinking data files when we get Space issues.
+Backup/ Restore, Automated DBA activities, Created and Scheduled the SQL Agent jobs, Alerts, Database Mail.
+Solving the issue based on user complains regarding slow performance issues
+Environment: SQL Server 2005, Windows 2008 Server, T-SQL.
+Contact this candidate

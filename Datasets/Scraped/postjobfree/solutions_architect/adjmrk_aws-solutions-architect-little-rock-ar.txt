@@ -1,0 +1,89 @@
+Career Objective
+Certified AWS Solution Architect with six (6) years of experience in Automation and Implementation of Cloud Architecture. An outstanding performer in building high-quality solutions that are scalable, highly available, and fault-tolerant, tailored towards an enterprise's goals. Highly skilled in DevOps and Cloud Engineering with good knowledge of Cloud Security in building and deploying excellent architectures.
+Professional Summary
+● Creative Solutions/DevOps/Cloud Engineer with a proven history of designing and maintaining software architectures favored by developers and customers alike.
+● Experienced in deploying and managing server-side infrastructures which include application, middleware & integration layer, AWS resources, and data center operations.
+● Practiced at combining financial and business goals with engineer and end-user feedback to optimize post-production updates.
+● Security-conscious with great attention to detail.
+● Worked with configuration management tools such as Ansible and Continuous integration using GIT, Jenkins, ANT.
+● Experienced in Windows and the following Linux flavors: Ubuntu, Amazon Linux, CentOS, and Red Hat.
+● knowledge of build tools like Jenkins, Maven, and Artifactory to build deployable artifacts such as jar and war from source code.
+● Provides simple to use AWS data architectures that deliver profound and flexible control of the software development process.
+● Ability to grasp the latest technologies and to properly apply new tools to build applications.
+● Experience with Jenkins file with Groovy Script to implement CI/CD pipeline.
+● Developed and updated business continuity and disaster recovery protocols.
+● Assisted in documenting security processes and standards, HIPAA, PCI DSS, CIS, NIST 800-53.
+● Experience building infrastructure as code using AWS CloudFormation, Terraform, or similar automated techniques. Certifications
+AWS Certified Cloud Practitioner - Certified
+AWS Solutions Architect Associate - Certified
+AWS Certified Big Data Specialty - Certified
+AWS Developer Associate - Certified
+AWS Certified Security Specialty - In view
+Scrum Master Certified
+Technical Skills
+Container Orchestration Tools: AWS ECS, Kubernetes (k8s), AWS EKS, Docker Platform. WEB Technologies: Jenkins, Terraform, Puppet, Chef, Ansible, Apache, Nexus. AWS Resources: EC2, EBS, S3, IAM, AMI, VPC, VPC Peering, NACL, Security Groups, Route 53, Auto Scaling, ELB, SNS, Cloud Watch, WAF & Shield, Fraud Detector, LightSail, Cognito, SQS, SES, Inspector, Cloud Formation, ElasticCache, Fargate, AWS Kinesis (Stream, Firehose, Analytics), SageMaker, EMR, KMS, Secrets Manager. Bug Tracking Tools: JIRA, ServiceNow, CMDB.
+Versioning Tools: GIT, Github, BitBucket
+Database: RDS, PostgreSQL, MySQL, MariaDB, AWS Redshift, DynamoDB. Languages/Scripting: Python, bash script, PHP, YAML, SQL. IFEOLUWA UDEAGHA
+adjmrk@r.postjobfree.com 470-***-**** Little Rock, 72210 Web Technologies: HTML, JavaScript, XML.
+Configuration Management Tools: Puppet, Chef (12.2 &12.4), Ansible. Automation Tools: Jenkins, Terraform, Groovy Script, CircleCi, TeamCity. Scanning Tools: SonarQube, Veracode.
+Experience
+AWS Cloud Engineer
+Hyatt Hotels – Little Rock, AR March 2018 - Current
+● Worked on creating an additional 170 workspaces and deploying all 320 workspaces for customer's end users offshore.
+● Experienced with "on-premise to cloud" migrations and IT Transformations with the aid of AWS solutions.
+● Architected and orchestrated the migration of several petabytes of data from on-prem to cloud leveraging AWS Snowflakes, S3, Snowball, EMR, Redshift, Kinesis
+● Enabled audit logging on Redshift in order to support audit and post-incident forensic investigations for a given database. Encrypted data stored as an added level of security.
+● Conferred with stakeholders to define business requirements and roadmaps, for complex systems development - from both functional and non-functional perspectives (i.e. concept of operations, security, performance, test, cost, schedule, training, support, and disposal).
+● Enabled require_ssl parameter in Redshift clusters to minimize the risk of man-in-middle attack.Restricted RDS instance access to decrease the risk of malicious activities such as Dos attacks, SQL Injections etc.
+● Used Ansible for package installation, server provisioning, and server orchestration. Built and manage inventory files, playbooks.
+● Experience using Jenkins pipelines to drive microservice builds out to docker registry and deployed to Kubernetes. Created and managed pods using Kubernetes.
+● Deployed several LAMP stack applications and WordPress instances using AWS LightSail.
+● Created eks-admin-role, developer-node role, Jenkins-node role, and worker-node to control the level of access to EKS cluster for respective users.
+● Hands-on experience writing Production-ready automation code to implement solutions with Puppet, Ansible, CloudFormation, Chef, Terraform.
+● Contributed to technology strategy and planning. Conduct research and build proofs-of-concept using generators like Maven, on emerging technologies in support of systems development efforts, and recommend technologies that will increase systems flexibility.
+● Cost estimation, with a focus on helping customers understand the return on investment as well as the total cost of ownership advantages of solutions proposed.
+● Rotated IAM user keys on a regular basis to ensure keys are not active for too long and facing the possibility of being compromised.
+● Enable Cloud Trail across all AWS services in various geographical regions to prevent activity monitoring gaps.
+● Enable access logging for S3 Buckets in order to track access requests and identify potential unauthorized or unwarranted access requests.
+● Develop deployment automation scripts (YAML, Bash, Python languages).
+● Built PostgreSQL compatible Amazon Aurora database. Configured multiple read- replicas across various availability zones. Assisted the team in the migration of our on-prem PostgreSQL databases to AWS RDS. AWS Technical Solutions Architect
+Emory University – Atlanta, GA January 2015 - March 2018
+● Complied with HIPAA policy and procedures in designing Emory AWS service as used with electronically protected health information (ePHI) and individually identified health information (IIHI) with the appropriate compliance authorization and user-based practices.
+● Provided infrastructure architectural direction and implementation to support engineering efforts for both Emory's internal and customer-facing products.
+● Used AWS Elastic Beanstalk for deploying and scaling web applications and services developed with Python, Ruby, and Docker on services like Apache.
+● Created and managed user-pools using AWS Cognito to allow federated access to AWS services for Emory.edu users.
+● Experience in Stack creation with several deployments using AWS CloudFormation & Terraform,
+● Understanding to automating provisioning and repetitive tasks using Terraform and Python, OpenShift, Docker Containers, and Server Orchestration.
+● Understanding of Kubernetes, Container Orchestrations, Docker, and Cloud-Native applications Excellent understanding of Infrastructure, Virtualization, Containers, Network, Storage, monitoring tools, Logging analytic tools (Splunk, etc.).
+● Assisted in the architectural development of Emory's management application - VPCP Application, to manage Emory-specific aspects of their accounts.
+● Automated installation and configuration of web application servers like WebSphere using Ansible.
+● Built customized cloud watch alarms for EC2s and other AWS Resources.
+● Enabled cloud trail monitoring in Multi-AZs to tighten security configurations in Production/Dev environments.
+● Enabled access logs on ALB and pushed logs to CloudWatch using AWS lambda trigger for emory.edu in Dev/Production environments.
+● Troubleshoot issues with S3 buckets data sync and access between stage, development and production env by coordinating with DAS/Civic actions and fixed it by making changes to Drupal application code and S3 bucket policies.
+● Setup Hybrid DNS resolution rule on Test and Production accounts and updated the catch-all resolver rule and CloudFormation template to include test and prod account IDs in shared services accounts.
+● Installed, integrated, and deployed Splunk, Palo Alto, and Barracuda products in client environments.
+● Scaled worker nodes from 3 to 5 in auto-scaling group by modifying the CFT and cluster-autoscaler in the test EKS cluster.
+● Strong practice and demonstrated knowledge AWS Networking including VPCs (sharing and peering), Subnets, Routing Tables, IGWs, NAT Gateways, NACLs, Security Groups, ELB/ALB, Route53 Public and Private Zones and Resolvers.
+● Knowledge of AWS and common open-source VPN technologies, such as OpenVPN server for SSL VPN.
+● Knowledge of best practices in the creation and operation of AWS EC2 instances as "cattle not pets" by deploying IaaS instances from hardened AMIs with scripted post-config.
+● Assisted in documenting security processes and standards, HIPAA, PCI DSS, CIS, NIST 800-53. Information Security Analyst
+Walgreens – Boston, MA October 2012 - December 2014
+● Monitored network traffic for unusual activities.
+● Configured security tools such as firewalls, anti-virus software, patch management systems, etc.
+● Experience in documenting security controls for DevOps and Cloud environments using industry-standard guidelines such as Center for Internet Security (CIS), Cloud Security Alliance (CSA) in conjunction with business requirements.
+● Analyzed and defined security requirements for local and wide area networks.
+● Developed and updated business continuity and disaster recovery protocols.
+● Trained fellow employees in security awareness and procedures.
+● Conducted security audits and made policy recommendations.
+● Delivered support for reported problems with desktop computers, laptops, peripherals, and mobile devices.
+● Help develop and manage proper orchestration techniques as it relates to the system and application automation as we migrate workloads to the cloud.
+● Introduce best practices and principles to enable consistent delivery and enable alignment with long-term direction.
+● Provided technical security advice and training on the proper use of hardware and software.
+● Provided first-line telephone, email, and ticket routing services for security event notifications and incident response processes.
+● Created and updated security event investigation notes, conducted shift change reports on open cases, and maintained case data in the Incident Response Management platform. Education
+MS Management
+Merrimack College North Andover, MA May 2017
+BSc Economics
+Babcock University Oversees June 2013
+Contact this candidate

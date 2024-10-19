@@ -1,0 +1,78 @@
+Joseph Ó Ruanaidh
+*** ******* **. #* **** phone: 857-***-****
+Malden, MA 02148 https://www.linkedin.com/in/oruanaidh acwni1@r.postjobfree.com
+skype ID:joe.o.ruanaidh
+Professional Skills
+Algorithms, Machine Learning, Data Analysis, Statistics, Image Processing and Computer Vision, Digital Signal Processing, Bayesian Methods, Tracking, Web Search, Watermarking and Cryptography, C++, Matlab, Python, Perl, Java, SQL, git, Linux, AWS. Education
+PhD. Statistical Signal Processing, University of Cambridge, 1994 Numerical Bayesian Methods applied to Signal Processing (Springer Verlag) B.A. B.A.I . Trinity College Dublin, 1990
+Experience
+Signal Processing Engineer Whoop
+February 2016 – present (5 months) Boston, MA
+Whoop is a start up that produces wrist wearable high end heart rate monitors for athletes. Developing heart rate algorithms in Python, and porting these algorithms to C for incorporation into the Whoop App. This is the most accurate device on the market and is worn by athletes such as LeBron James, Matthew Delladova, and Michael Phelps. FFT, SSA, Recursive Bayes, Tracking, Machine Learning, Python, C, git, Regressions, AWS, iOS. Principal Algorithm Engineer Quanttus
+June 2014 – February 2016 (1 year 9 months) Cambridge, MA Quanttus was a start up that attempted to measure blood pressure with a device integrated into a wrist watch.
+Translated proprietary algorithms for estimating blood pressure written as Matlab code into C++. Acted as the bridge between the research group (mainly working in Matlab) and firmware group
+(embedded C Identified inefficiencies, and reworked the algorithms. For example, doubled the speed of regressions by rewriting the peak finder to use a double ended queue. Also, rewrote a portion of the ARM real FFT code to halve memory usage.
+Matlab, C++, git, Jenkins, AWS, ARM, Linux, valgrind, profiler (callgrind), Python, Visual Studio Debugger, Regressions, Jenkins, AWS.
+Lead Algorithm Developer Huron Digital Pathology
+August 2011 – May 2014 (2 years 10 months) Waterloo, Ontario, Canada Huron develops slide scanners to generate images of pathology slides. Slides can be several centimeters across and be imaged at a resolution of 0.25 microns. Image size is typically 50GB. My role was to develop image processing algorithms to improve image quality.
+• Wavelets: Dual Tree Complex Wavelet Transform C++ code. 1. Tumor Detection: Computed DTCWT based features used to locate tumors in slides. The results agree well with tumors marked out by a trained pathologist. 2. Fast image fusion using wavelets: image stacks comprising 20 or more Z planes, each of which may be in focus in one part of the image only, can be fused into a single image that is in focus everywhere. Used on slides containing non biological specimens.
+• Dynamic Slope to develop focus map. Applied Optimization Theory (e.g. minimum curvature or minimum slope criteria) to instruct the external controller to vary the angle of the scan to maintain focus over as wide an area as possible.
+• Red Green Blue registration using mutual information.
+• Jitter detection and correction: row by row registration using mutual information/cross correlation/FFT phase difference.
+• Photobleach Removal, White Balance Correction and Flat Field Correction.
+• Automatic focus dot, slope line and white balance box placement.
+• Removal of outliers from focus points using robust regression (e.g. RANSAC).
+• Focus peak detection (Savitzky Golay Smoothing Filters, root finding in 1st derivative). C++, Matlab, FFT, Wavelets, Image Processing, Optimization, Visual Studio, Linux. Director of Algorithm Development Quantason
+February 2010 – March 2011 (1 year 2 months) Philadelphia Navy Yard, PA Quantason was a start up dedicated to using ultrasound to detect breast micro calcifications, believed to be a precursor to breast tumors.
+Signal and Image Processing expert, Software Developer and Linux System Administrator. Medical Device Development:
+• Advanced signal processing and image analysis. Measurement of channel impulse response using chirp and m sequences. Location of breast calcifications by solving non linear system of equations involving optimization of a cost function.
+• Administering intranet, CGI, scripting, version control, unit tests and backups. Matlab, Python, Linux, Apache, PHP, CGI, Subversion. Quantitative Developer DE Shaw & Co
+February 2008 – December 2009 (1 year 11 months) New York City, NY DE Shaw & Co is a Hedge Fund located in New York City off Times Square. The hiring process is highly selective, fewer than 0.25% of applicants are eventually hired. Pricing reinsurance contracts (using Monte Carlo simulations) and optimizing portfolios.
+• Designed database schema.
+• Used in house SQL Alchemy Toolbox.
+• Sped up reinsurance work. For example, the impact of a new contract on risk limits could be computed in a few minutes (rather than taking several hours).
+• Risk Reports for the Executive Committee and Investor Risk Breakdown.
+• Engineered synthetic data.
+Python, SQL, Monte Carlo, Finance.
+Lead Algorithm Developer GE Healthcare
+April 2005 – January 2007 (2 year 9 months) Piscataway, NJ Algorithm Developer for the Instrumentation Group developing software for the InCell 1000 microscope. The algorithms automated the process of carrying out clinical assays for testing the efficacy of experimental drugs in high throughput assays.
+• Optical Sectioning Algorithm: Devised a novel optical section algorithm using three or more images that is more reliable, faster and gives better results than any competitive product on the market. This work was showcased when the CEO of GE visited the site and received good reviews from the editor of the Journal of Microscopy.
+• Image Denoising: Combined Bayesian Thresholding with the DTCWT to yield an effective method of denoising images. The method is especially impressive at cleaning up transmitted light images.
+• Cell Tracking: Developed a customized method of tracking the movement of hundreds of cells across time frames using Monte Carlo based particle filters.
+• Bead Analysis: In Microscopy, images of microscopic (polystyrene) beads are used to measure confocality, parfocality and well curvature. Developed a first of its kind computer program that automated the tedious manual process of measuring bead position, intensity, height and width. This task involved robust estimation, curve fitting and specialized segmentation, in addition to writing an intuitively obvious GUI.
+• Image Stitching: Devised a fast robust image stitching method that works on fluorescent images of cell and tissue samples and brightfield images of Zebra fish. A standard method of image stitching (SIFT) did not work at all on these image samples. C++, Matlab, FFT, Wavelets, Image Processing, Visual Studio, Linux. Research Programmer GenuOne
+November 2000 – February 2005 (4 years 4 months) Princeton, NJ Making it safe to shop on the Internet. Detecting and identifying rogue web sites:
+• GenuNet: Devised Web Crawler to search for rogue web sites selling pirated consumer products.
+• Digital Authenticator: Worked in developing a first of its kind tool to authenticate web sites.
+• TraceGuard: Aided work in overt and covert, machine readable marking technologies to provide authentication, tracking and control capabilities for clients. Backend:
+• Kleinberg's hubs and authorities algorithm (sparse SVD C++ called from Java). One interesting result: people wearing fake watches in England were interested in yachts, while in Japan they were interested in golf.
+• Hofmann's Probabilistic Latent Semantic Analysis and Deerwester's SVD based LSA.
+• Decision Trees extracted from database tables.
+• A multithreaded web crawler written in Python.
+Python, Java, Perl, CGI, Web Search, Page Rank, Machine Learning, Semantic Analysis, Classifiers, Internet Security.
+Member of Technical Staff Siemens Corporate Research October 1998 – November 2000 (2 years 2 months) Princeton, NJ Researched and developed a wide variety of adaptive technologies for a variety of applications including Demand Forecasting, Data Mining, Blind Source Separation for Hearing Aids. The Hearing Aid Project involved finding a scheme to separate two people talking at the same time in different places in a room into two channels with only one person speaking on each channel. The solution had to fit on a device with 1MHz processor and 1.2K of RAM. This was accomplished by recognizing that only cross correlations up to 11 lags were needed.
+• Negotiated contracts and maintained customer contacts. Acted as the primary contact between SCR and project customers.
+• All contracted projects were delivered on time and within budget. Matlab, Signal Processing, Independent Component Analysis, Phase Arrays, Time Series Analysis. Assistant Professor Centre Universitaire Informatique August 1996 – September 1998 (2 years 2 months) Geneva, Switzerland Postdoctoral Researcher Trinity College Dublin
+November 1994 – July 1996 (1 years 8 months) Dublin, Ireland Research in watermarking, copyright protection techniques and security systems.
+• Digital Communications: Understood that watermarking was a problem in digital communications. Implemented a spread spectrum CDMA system for secure and robust encoding of the watermark. Experimented with Convolutional Codes and Reed Solomon Forward Error Correction Codes.
+• Novel Use of Image Transforms: Applied transform domain techniques to yield information bearing pulses that could withstand distortion during watermark transmission. Desirable properties included resistance to distortion by image compression, reproduction using a scanner, dithering and image cropping. Developed watermarks that are simultaneously invariant to rotation, changes of scale and cropping as well as being resistant to other forms of image modification.
+• Encryption and Secure Communications: Supervised the design of a Java based interface suitable for legally binding registration of digital watermarks over an open network such as the Internet.
+Lectured: Traitement d'Images par Ordinateur. (en français) C++, Matlab, FFT, Image Processing, Spread Spectrum, Forward Error Correcting Codes, Java Patents
+1. Use of coded excitation schemes in the detection and location of a target in a human body such as breast calcifications United States 8109878, Issued September 14, 2010
+2. Method for detecting and locating a target using phase information United States 8372006, Issued June 16, 2010
+3. System and method for optical section image line removal United States 7729559, Issued May 22, 2006
+4. Device and method for demixing signal mixtures using fast blind source separation United States 6526148, Issued November 4, 1999 5. System and method for tracking the movement of biological materials United States 8463015, Issued June 11, 2013
+6. Method of locating the position of a micro calcification in a human breast United States 8622909, Issued January 7, 2014
+7. Method for generating digital watermarks and for exchanging data containing digital watermarks, Europe EP0905967A1, Filed September 26, 1997 Publication Record
+3000+ citations, with an h Index of 18 and an i10 index of 24 ( Google Scholar ) Selection:
+Numerical Bayesian Methods Applied To Signal Processing, Springer Verlag Joseph Ó Ruanaidh and Bill Fitzgerald (Cited by 994) February 23, 1996 Rotation, scale and translation invariant spread spectrum digital image watermarking Signal Processing, Joseph Ó Ruanaidh and Thierry Pun (Cited by 446) May 1, 1998 The application of Bayesian spectral analysis to optical sectioning using structured light imaging
+Journal of Microscopy, Joseph Ó Ruanaidh et al. September 25, 2008 Education Details
+PhD, Statistical Signal Processing 1990 – 1994
+Bayesian Signal Processing: Focused on the use of probability theory to make the most effective use of data in signal processing. Results of this research included novel applications of statistical mechanical techniques for the analysis of time series using Bayesian methods, audio restoration, and changepoint detection. This work is available in book form from Springer Verlag.
+• Biomedical Data Analysis
+• Digital Audio Restoration: (Restoring old gramophone recordings to CD quality.)
+• Oil well data analysis: invented a detector that averted a blowout at a wellhead. Bayesian Signal Processing, Audio Restoration, Biomedical Data Analysis Tutored: Non linear Dynamical Systems and Control, Communications, and Queuing theory. B.A. B.A.I, Electrical and Electronic Engineering, 1986 – 1990 1. Elected Foundation Scholar in 1988.
+2. Jointly awarded St Patrick's Prize for highest marks in the University in the Scholarship Examinations.
+3. Victor W Graham Prize for Engineering Mathematics. 4. Faculty Prizes every year.
+Undergraduate projects include using the Hopfield neural network for vector quantization, a Rayleigh Fading Channel Simulator, and programming the Motorola 68000.
+Contact this candidate

@@ -1,0 +1,38 @@
+Nguyễn Nhật Trường AI Engineer
+*** ****** **** ****, *** Binh, Ho Chi Minh city, Viet Nam
+adsozr@r.postjobfree.com ntruonglhvl
++84-981-***-*** linkedin.com/in/truong-nguyen-nhat-4027601ab/ EDUCATION
+HCM, University of Technology
+Ho Chi Minh City, Vietnam
+Bachelor of Engineering in Control and Automation, Full-time Program
+Graduation Date: November 2019
+o Overall GPA: 7.93/10.0 (intake 2015).
+o Graduation Thesis: Recognize face and analyze emotion as happy, sad, angry, surprise, neural using Convolution Neural Network. Score: 9.1/10.
+o IELTS 6.5 (November 2018).
+WORK EXPERIENCE
+AI Engineer – Emage AI Pte. Ltd.
+August 2019 – July 2020
+46, Bach Dang, Tan Binh, Ho Chi Minh, Vietnam
+o Work with Deep Learning models, and developed AI solutions to recognize defective products on wafer, and integrated circuits.
+o Experience with models for Segmentation, Object Detection and Classification such as Mask RCNN, YOLO, ResNet, VGG.
+o Apply image processing algorithms and deep learning to process and extract image features. o Analyze and propose label rules for industrial data. Integrate system to inspect defect automatically. Data Scientist - DMSpro
+July 2020 – March 2021
+1, Bach Dang, Tan Binh, Ho Chi Minh, Vietnam
+o Work with detection model for retail products: RetinaNet, YOLOv4. o Optimize Object Detection TensorFlow model for Serving and TensorFlow Lite model for Android application. o Involve in Deep Learning–based Multi-Object Tracking solution: SORT, DeepSORT, FairMOT. AI and Machine Learning Engineer – Vulcan Labs
+March 2021 – Present
+74, Nguyen Co Thach, District 2, Ho Chi Minh, Vietnam o AI Face Editor with over 100k users: Experience with GAN model for face effects (face aging, gender swap, cartoon, baby generator).
+o Text to Image: Work with VQGAN-CLIP, an Image-Language model to create artwork from arbitrary text, followed by Image Super Resolution, a model of enhancing the quality of low resolution images. o Remove background: Combine Segmentation, Matting models and Image Processing technique for background removal for all types of objects.
+PROJECTS
+OCR: Personal information extraction from ID card. o Collaborator: Le Tran Anh Dang, PhD Trinh Tan Dat. This project contains two main components. The first one is to locate information fields on ID card, using image processing techniques. The extracted information fields are image-based sequence, which is an image of word string. The other component is combination of CNN, RNN, Seq2Seq and Attention mechanism with bidirectional prediction.
+My proposed OCR model which based on CRNN architecture is able to process image-based sequence directly without segmenting it into lower levels like word or character. It naturally handle sequences in arbitrary lengths, involving no horizontal scale normalization. So, this model is beneficial for labeling data and eliminate some steps of segmentation. Moreover, the proposed architecture is an end-to-end trainable network. We do not need to train and tune its component separately.
+Liver Tumor diagnosis
+o Using U-Net and enhanced U-Net model for automated detection of liver cancer on real dataset. Enhanced U-Net is U-net model with Batch Normalization added after several hidden layers to standardize output of hidden layer, so as to accelerate training process and increase accuracy. Segmenting liver in original image is first step. Second step is inspecting tumor in segmented liver. We trained, evaluated, compared these models on laboratory’s private dataset with lots of augmentation technique and then tested on real dataset with acceptable results. Credit default risk prediction
+o Using various statistical and machine learning models (including random forest, gradient boosting and their ensemble) to make predictions after a careful explanatory analysis of features and their relation to target. Thorough feature construction and feature selection increase model accuracy by about 10% compared to that of baseline implementation.
+RESEARCH PUBLICATIONS
+o Dat, T. T., Anh Dang, L. T., Truong, N. N., Le Thien Vu, P. C., P., Thanh Sang, V. N., Vuong, P. T., &amp, Bao, P. T. (2022). An improved CRNN for Vietnamese Identity Card Information Recognition. Computer Systems Science and Engineering, 40(2), 539–555.
+o Dat, T. T., Le Thien Vu, P. C., Truong, N. N., Anh Dang, L. T., Thanh Sang, V. N., &amp, Bao, P. T. (2021). Leaf recognition based on joint learning multiloss of multimodel Convolutional Neural Networks: A testing for Vietnamese herb. Computational Intelligence and Neuroscience, 2021, 1-19. ADDITIONALS
+o Relevant Coursework:
+Data Science: Statistics and Machine Learning Specialization (Coursera – Johns Hopkins University). Convolutional Neural Network for Visual Recognition (online CS231n module - Stanford University). Probability and Statistics, Algebra.
+Deep Learning Specialization (Coursera – deeplearning.ai). o Programming Languages: Python, R, C/C++.
+o Frameworks, Tools: TensorFlow, Pytorch, OpenCV, Scikit-learn, Pandas.
+Contact this candidate

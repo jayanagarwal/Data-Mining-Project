@@ -1,0 +1,44 @@
+Chi Weng (Michael) Cheong
+516-***-**** Dix Hills, NY 11746 ad68bi@r.postjobfree.com
+
+Strong database and python programming skills (data pipeline, web app backend development and machine learning) and rich hands-on coding experience. Expertise in data models, data transformation, data analysis and prediction with data. A solid foundation in computer science, such as algorithm, data structure and Object-Oriented Design. Over 10 years research experience in quantitative science including mathematics and statistics.
+SKILLS
+•Programming skills: Python, Pytorch, Pyspark, FastAPI, GraphQL(strawberry), Flask, Cypher (Neo4J), SQL, Mapreduce, Spark, Java, R* (* stands for coursework)
+•Analytic tools: Pandas, NLTK, Scikit Learn, Weka, R*, Spark, Scala
+•Devops tools: Jules (based on Jenkins)
+•Techniques: Natural Language Processing, Data pipeline, Graph Analytics, Classification, Clustering, Regressions
+•Platforms: Neptune (based on S3), Talend, Linux, Git, Athena (based on CVS), Azure Cloud Platform, Azure Platform, Athena (JPMC proprietory), Gaia (JPMC propriety platform)
+•Cloud Platforms: Azure SQL, Azure datawarehouse, Azure Eventhub, Azure Streaming Analytics, Azure HDInsight Cluster, Azure Web service, Azure Function and Azure Databricks (spark)
+•Citizenship: US citizen
+
+EDUCATION
+M.S. in AI, UT Austin present
+M.S. in Predictive Analytics and Data Science, St. John’s University, NY May 2020
+Ph.D. in Mathematics, Purdue University, IN June 2013
+B.S. and M.Phil. in Mathematics, The University of Hong Kong June 2007
+
+EXPERIENCES
+Senior Software Engineer PGIM Apr 2023~present
+•Build a data access layer for traders to use instead of complex SQL queries.
+Software Engineer Google Dec 2021~April 2023
+•Using Python and JavaScript to develop observability tools and writing script from Git repos to deliver conflict- over-time statistics to the database. Additionally, conducting data visualization for insights using Google proprietary visualization tools.
+•Developed Chrome browser extension that captures metrics and sends information back to Google Analytics. Tool provides performance and page load-time metrics.
+Senior Software Engineer Bloomberg Jan 2021~Dec 2021
+•Migration of metering to mapreduce: migration of metering of billions of customer records from Python+SQL setting to Java+Mapreduce setting. The code base is around 30000 lines of code and worked on for multiple years by more than 10 developers.
+•Devops : Set up Jenkins pipeline for code deployment on a spark project of comparing metering results.
+Software Engineer JP Morgan Chase Nov 2018~Jan 2021
+•Machine Learning and WebApplication: 1) Leading the data engineering team for 3 months (as technical team lead) then worked as a developer, on a project providing automatic email classification by nlp machine learning techniques. Duties include maintaining data science projects, work on infrastructure, production release and adhoc data requests. Worked on fixing machine learning defects mainly on entity extraction mainly based on regular expressions. The project was done in Python.
+•Devops : Utilizing internally developed product Jules based on Jenkins to set up automatic code scan and deployment. Migrated from aim or Athena to Jules based deployments on various projects.
+•Infrastructure : 1) Investigating the connection between Jupyter as a service (based on docker technology) and an on premise Spark Cluster. Established (partially) and tested access to hdfs, hive and yarn from Jupyter as a service. Loading manual classification data for data scientist use and automatic reporting.
+2) Worked on improving Athena platform’s support for Flask to enable healthcheck, load balancing from restarting services. Also, worked on various infrastructure tasks like mounting NAS share, ordering of load balancer, setting up Jules.
+Principal Platform Engineer CA Technologies July 2017~Nov 2018
+•Machine learning part of Data Pipeline : This project retrieve and push data to and from Azure SQL and Azure Datawarehouse. Part of the ingestion involves Azure Eventhub, Azure Functions and Azure Streaming Analytics.
+•Web Application: 1) worked as backend developer of Campaign Planning Tool project to provide a unified sales and marketing platform for the whole company. The project is written in Python with flask framework using Neo4J. This project runs on Azure Instances. 2) Maintaining (bug fixing and adding new functionalities) the backend for a Contact Intelligence project that provides web service UI for user to navigate through sales contact data.
+•Test/Evaluation: Developed testing tools for Contact Intelligence in python by replacing Neo4J with Pandas. Evaluated graph algorithm performance between Neo4J and Cosmos DB graphs.
+
+OTHER ACCOMPLISHMENTS
+Cheong, C. W. (2015). Unitary orbits in 1-dimensional NCCW complexes. Journal of Functional Analysis, 269 (9), 2977-2994.
+
+Databricks
+Hadoop
+Contact this candidate

@@ -1,0 +1,164 @@
+AKHIL BABU
+Senior Data Engineer
+
+EMAIL: ad7i33@r.postjobfree.com PH.NO:+1-913-***-**** LINKED IN: https://www.linkedin.com/in/akhillk
+PROFESSIONAL SUMMARY:
+Around 10 years of experience as a Data Engineer/Data analyst with strong understanding of Data Modeling (Relational, dimensional, Data analysis, implementations of Data warehousing, Data Transformation and Data Mapping from source to target database schemas and data cleansing.
+Experienced in Amazon Web Services (AWS) Cloud services such as AWS EC2, VPC, S3, IAM, RDS, Dynamo DB, Auto scaling, Cloud Front, Cloud Trail, Cloud Watch, Cloud Formation, AWS SNS and AWS SQS.
+Good experience in building pipelines using Azure Data Factory and moving the data into Azure Data Lake Store and Azure Data bricks and Azure Event Hub.
+Capable of implementing event-driven architectures with Azure Event Hubs, integrating with Azure Functions and Azure Logic Apps to automate workflows and respond to real-time data events.
+Experienced in using Informatica Power Center and CDC (Change Data Capture) for designing, developing, Apache Airflow for scheduling and deploying ETL workflows to extract, transform, and load data from disparate sources.
+Skilled in writing Python scripts for automating data workflows and performing complex data manipulations, contributing to streamlined data processing pipelines.
+Experienced in Agile CI/CD methodologies, Terraform for infrastructure as code, PySpark for distributed data processing, and API development and integration.
+Experienced in writing Toad SQL and PL/SQL Stored Procedures, Triggers and Functions.
+Capable of optimizing NoSQL database performance through indexing strategies and shard key selection, ensuring high availability and scalability.
+Experienced in design and development of applications using Hadoop and its ecosystem components like Hive, Spark, Sqoop, Kafka, HBase and YARN.
+Proficient in Scala programming language for developing scalable and distributed applications on Apache Spark framework.
+Experienced in writing distributed Scala code for efficient big data processing.
+Experienced on building the applications using Spark Core, Spark SQL, Data Frames and Spark Streaming.
+Excellent knowledge of Hadoop architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node and Data Node.
+Generated complex Transact SQL (T - SQL) queries, Sub queries, Co-related sub queries, Dynamic SQL queries.
+Proficient in configuring Kafka Connect for seamless integration with various data sources and sinks.
+Proficient in managing Snowflake accounts and resources, including user management, resource allocation, and cost optimization.
+Expertise in Tableau for creating interactive dashboards and visualizations to derive actionable insights from complex datasets.
+Knowledgeable in sharing and collaborating on Power BI, Tableau reports and dashboards, including sharing options, publishing to the Power BI service, and embedding reports into other applications.
+Familiar with Power BI premium features and capabilities, such as paginated reports, AI visuals, and large dataset handling, to enhance reporting capabilities.
+Experienced in designing data models in QlikView, ensuring efficient data aggregation, association, and visualization for insightful analysis and decision support.
+Proficient in managing Git and GitHub repositories, including creating, cloning, and archiving repositories.
+
+TECHNICAL SKILLS:
+
+Programming Languages
+Python, Scala, SQL, PL/SQL, Bash, Hive QL, Spark SQL, java
+Clouds
+AWS, Azure
+Data Integration
+Informatica Power Centre, CDC (Change Data Capture), Sqoop, Flume, Oozie, SSIS
+Big Data Tools
+Spark (Core, SQL, Data Frames, Streaming), Scala, Hive, Kafka, Storm, Hadoop (Map Reduce, HDFS, Hive, Pig, Sqoop)
+Database Management
+SQL, PL/SQL, Toad SQL, T-SQL, NoSQL, Snowflake (Snow SQL, Snow Pipe)
+ETL
+Informatica Power Centre, SAS Base, SAS Macro, Excel VBA, AWS Glue, Sqoop, Flume,
+Apache Airflow, Azure Data Factory
+Data Visualization
+Tableau, Power BI, QlikView, Excel (pivot tables, VLOOKUP, macros), Python (Matplotlib, Seaborne)
+Machine Learning
+Spark MLlib
+DevOps
+Git, GitHub, Azure DevOps, AWS Lambda, Confluent Control Centre, ARM templates
+Messaging Systems
+Kafka, Rabbit MQ, AWS SNS, AWS SQS
+Data Modelling
+Power BI, QlikView, Snowflake, SQL, NoSQL
+
+PROFESSIONAL EXPERIENCE:
+
+Client: Kansas State Department of Education, Topeka, KS Sept 2021 – Present
+Role: Sr. Data Engineer
+Responsibilities:
+Monitored and managed Azure Synapse Analytics environments using Azure Monitor, Log Analytics, and custom dashboards to ensure optimal performance and reliability.
+Integrated Azure Event Hubs with downstream analytics and processing services such as Azure Stream Analytics and Azure Functions for real-time insights.
+Automated deployment and scaling of Azure HDInsight clusters using Azure Resource Manager (ARM) templates and Azure DevOps, streamlining development, Apache Airflow and operations.
+Integrated Informatica Power Center with CDC frameworks to enable incremental data extraction and synchronization across heterogeneous databases.
+Developed mappings, sessions, and workflows in Informatica Power Center to perform data extraction, transformation, and loading tasks according to business requirements.
+Used Apache Airflow for scheduling and monitoring ETL workflow for improved Efficiency.
+Developed data governance frameworks and policies specific to NoSQL databases to ensure data quality, security, and regulatory compliance.
+Managed upgrades and patching of NoSQL database systems, ensuring compatibility with new features and security patches.
+Used Spark and Scala for developing machine learning algorithms which analyses click stream data.
+Developed Spark applications in Python on distributed environment to load huge number of CSV, JSON files with different schema in to Hive ORC tables.
+Implemented distributed computing solutions using Apache Spark with Scala to process and analyze large-scale datasets efficiently. Loaded Data from Spark RDD into Hive Tables and handled the data using Spark SQL.
+Developed Python scripts for internal testing which pushes the data reading form a file into Kafka queue which in turn is consumed by the Storm application.
+Utilized Spark GraphX for graph processing and analytics, enabling advanced network analysis and visualization. Designed Scala workflows for data pull from cloud-based systems and applying transformations on it.
+Designed and implemented Kafka monitoring solutions using tools like Confluent Control Center or custom-built dashboards, ensuring proactive issue detection and resolution.
+Involved in converting Hive queries into Spark transformations using Spark RDDs.
+Developed information validation algorithms using big data technologies such as Hadoop, Spark, HDFS and Hive
+Configured and managed Hadoop Data Nodes to store and retrieve data blocks, ensuring high availability and reliability of data across the cluster.
+Designed and implemented data pipelines using Snowflake Snow Pipe and Snow SQL for seamless and efficient data ingestion from external sources into Snowflake.
+Worked on Apache Airflow to automate and monitor these pipelines for reliability and performance.
+Developed custom UDFs (User Defined Functions) and stored procedures in Snowflake to encapsulate business logic and enhance data processing capabilities.
+Created complex data models in Power BI using relationships, calculated columns, measures, and DAX (Data Analysis Expressions), and implemented row-level security (RLS) to restrict access to data based on user roles and permissions.
+Utilized JIRA for task tracking, sprint planning, and project management, ensuring timely delivery of project and effective collaboration among team members and stakeholders.
+Utilized scrum methodologies to conduct unit tests, perform code reviews, and debugging software, demonstrating strong problem-solving skills to enhance project efficiency as a software engineer
+Implemented branching strategies in Git to support parallel development efforts, ensuring smooth integration of features and bug fixes into the main codebase.
+Configured and managed access controls and permissions on GitHub repositories to enforce security protocols and protect sensitive data and proprietary code.
+
+Environment: Azure (Synapse Analytics, Monitor, Log Analytics, Event Hubs, Stream Analytics, Functions, HDInsight, Resource Manager, DevOps), Informatica Power Center, Apache Airflow, Change Data Capture (CDC), NoSQL, Spark, Scala, Python, Kafka, Storm, Spark GraphX, Rabbit MQ, Confluent, Hive, Hadoop, HDFS, Snowflake, Snow Pipe, Snow SQL, Power BI, DAX, RLS, Tableau, Git, GitHub.
+
+Client: HCA Healthcare, Nashville, TN Nov 2018 – Aug 2021
+Role: Sr. Data Engineer
+Responsibilities:
+Developed AWS Lambda functions in python for AWS's Lambda which invokes Python scripts to perform various transformations and analytics on large data sets in EMR clusters.
+Used Apache Airflow to orchestrate and schedule these functions and EMR job flows.
+Created monitors, alarms, notifications and logs for AWS Lambda functions, Glue Jobs and AWS EC2 hosts using Cloud Watch and used AWS Glue for the data transformation, validate and data cleansing.
+Created AWS Lambda functions using Python for deployment management in AWS and designed public facing websites on Amazon Web Services (aws) and integrated it with other applications infrastructure.
+Developed and maintained ETL workflows using Informatica Power Center to extract, transform, and load data from various sources into data warehouses.
+Developed custom scripts and workflows in Informatica Power Center to automate CDC deployment tasks and streamline operational workflows.
+Involved in loading data from UNIX file system to HDFS, Importing and exporting data into HDFS using Sqoop, experienced in managing and reviewing Hadoop log files.
+Used to Apache Airflow in managing the workflow orchestration and scheduling to streamline these data operations.
+Developed algorithms & scripts in Hadoop to import data from source system and persist in HDFS (Hadoop Distributed File System) for staging purposes.
+Used Spark for interactive queries, processing of data and integration with popular NOSQL data bases for huge volume of data.
+Implemented data masking and anonymization techniques for sensitive data stored in NoSQL databases to protect privacy and confidentiality.
+Designed and implemented data partitioning and sharding strategies in NoSQL databases to distribute data and workload across multiple nodes effectively.
+Developed Spark scripts by using Scala shell commands as per the requirement. Experienced in using Kafka as a messaging system to implement real-time Streaming solutions using Spark Streaming.
+Integrated Apache Storm with Kafka to perform web analytics and to perform click stream data from Kafka to HDFS. Designed Scala workflows for data pull from cloud-based systems and applying transformations on it.
+Developed Spark code in Spark SQL environment for faster testing and processing of data and loading the data into Spark RDD.
+Designed and implemented Kafka Schema Registry to enforce data schemas and compatibility checks for producers and consumers.
+Involved in converting Hive queries into Spark transformations using Spark RDDs.
+Utilized Scala's type-safe features to develop reliable and maintainable code for complex data processing workflows.
+Designed and implemented Snowflake data models, including schemas, tables, views, and stored procedures, to support analytical and reporting needs.
+Designed and implemented data warehouse solutions using Snowflake, including schema design, data modeling, and performance tuning.
+Developed interactive Tableau dashboards with drill-down capabilities, enabling users to explore data at multiple levels of granularity.
+Utilized Git tags and releases on GitHub to mark stable versions and facilitate easy deployment of production-ready code, ensuring version consistency and rollback capabilities.
+
+Environment: AWS (Lambda, EMR, Cloud Watch, Glue, EC2), Python, ETL, Informatica Power Center, UNIX, HDFS, Sqoop, Hadoop, Spark, NoSQL, Kafka, Apache Airflow, Apache Storm, Hive, Scala, Kafka Schema Registry, Snowflake, Tableau Desktop, Tableau Server, Power BI, Git, GitHub.
+
+Client: Mahindra Home Finance, Mumbai, India Apr 2016 – Sep 2018
+Role: Data Analyst
+Responsibilities:
+Optimized database schemas using Azure SQL Database and Azure SQL Data Warehouse for high-performance query execution and efficient data retrieval.
+Developed scalable data ingestion pipelines using Azure Data Factory (ADF) to ingest data from various sources such as SQL databases, into Azure Data Lake Storage, integrating Azure SQL Server for storing structured data.
+Integrated Azure Data Factory with Azure Logic Apps for orchestrating complex data workflows and triggering actions based on specific events, improving workflow automation and efficiency.
+Developed custom data visualization tools with Python libraries such as Matplotlib and Seaborne to represent complex data trends and patterns.
+Utilized Python's data manipulation capabilities to preprocess and transform raw data into structured formats suitable for analysis.
+Created SAS programs that are used for data validation, statistical report generation and program validation and automated the Edit Check programs using SAS Macros.
+Used SAS Stored Processes to deliver content to the portal and using SAS Web Report Studio to deliver the same through the SAS Management Console.
+Developed automated workflows in Excel using VBA (Visual Basic for Applications) to streamline repetitive tasks and improve productivity.
+Implemented data visualization best practices in Excel to create compelling charts and graphs that effectively communicate insights.
+Created Map Reduce programs to analyze customer data of customers and provide summary results from Hadoop.
+Importing and exporting data into HDFS (Hadoop Distributed File System) and Hive from an MS SQL database using Sqoop.
+Worked with scoop to import/export data from relational database to Hadoop and flume to collect data and populate in Hadoop.
+Created SQL tables with referential integrity, constraints and developed queries using SQL, SQL*PLUS and PL/SQL.
+Involved in created stored procedures, views, and custom SQL queries to import data from SQL server to Tableau.
+Deployed Tableau Server for centralized dashboard management, ensuring secure and scalable access to data visualizations across the organization.
+Implemented version control practices using Git within Jupyter Notebook environments to manage project changes and updates.
+
+Environment: Azure (SQL Data Warehouse, Data Factory, Data Lake Storage, Logic Apps), Python, Matplotlib, Seaborne, SAS (Macros, Web Report Studio, Management Console), VBA, Excel, Hadoop, Map Reduce, HDFS, Hive, Sqoop, Flume, SQL, SQL*PLUS, PL/SQL, Tableau, QlikView, Git, Jupyter Notebook.
+
+Client: Bharti AXA Life Insurance, Mumbai, India Jun 2014 – Mar 2016
+Role: Data Analyst
+Responsibilities:
+Used AWS EMR to transform and move large amounts of data into and out of AWS S3.
+Used AWS Cloud Watch for monitoring the server's (AWS EC2 Instances) CPU utilization and system memory.
+Integrated AWS SNS and AWS SQS for reliable message delivery and queuing services, facilitating seamless communication between distributed application components.
+Created SQL and PL/SQL scripts for sourcing data, including creating tables, materialized views, stored procedures, and loading data into the tables.
+Utilized Python libraries such as Pandas and NumPy for data manipulation and analysis tasks, enhancing data quality and processing speed.
+Developed Python scripts to find vulnerabilities with SQL Queries by doing SQL injection.
+Created custom SAS Macros for complex reporting needs, improving report generation speed and accuracy.
+Wrote various SQL, and PL/SQL queries and stored procedures for data retrieval.
+Involved in start to end process of Hadoop cluster setup where in installation, configuration and monitoring the Hadoop Cluster.
+Automated the tasks of loading the data into HDFS (Hadoop Distributed File System) and pre-processing with Pig by developing workflows using Oozie.
+Developed and maintained SAS Base and SAS Macro programs to manipulate and analyze large datasets, ensuring accuracy and efficiency in data processing.
+Developed complex Excel models, including pivot tables, macros, and advanced formulas, to analyze and manipulate large datasets efficiently.
+Created visually impactful dashboards in Excel and Tableau for data reporting by using pivot tables and VLOOKUP.
+Created advanced Tableau visualizations, including heat maps, scatter plots, and geospatial maps, to provide in-depth data insights.
+Developed and maintained QlikView scripts for data extraction, transformation, and loading (ETL) from various data sources including relational databases and flat files.
+
+Environment: AWS (EMR, S3, Cloud Watch, EC2, SNS, SQS), SQL, PL/SQL, Python, Pandas, NumPy, SAS Macros, Hadoop, HDFS, Pig, Oozie, SAS Base, Excel, Tableau, QlikView.
+
+EDUCATION: Jawaharlal Nehru Technology University, Hyderabad, TS, India Jun 2010 - May 2014
+BTech in Computer Science and Engineering
+CERTIFICATES:
+Microsoft Certified in DP 203 Azure Data Engineer
+Microsoft Certified in power Platform Fundamentals
+Contact this candidate

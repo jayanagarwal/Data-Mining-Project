@@ -1,0 +1,250 @@
+Pablo Reynoso
+Senior Data Scientist
+Phone: 463-***-**** Email: ad43j0@r.postjobfree.com
+
+Profile Snapshot
+•Data Scientist with over 13+ years of experience applying hands-on Data Science, Machine Learning, and Artificial Intelligence solutions to industrial business operations across industries.
+•Skilled in predictive analytics including predictive modeling, recommender systems, and forecasting.
+•Use Pandas, NumPy, Seaborn, Matplotlib, TensorFlow, Keras, and Scikit-learn in Python for developing various machine learning models such as Logistic Regression, Gradient Boost Decision Tree, and Neural Network.
+•Make efficient use of Data Acquisition, Data Validation, and Predictive Modeling.
+•Experience with a variety of NLP methods for information extraction, topic modeling, parsing, and relationship extraction in Python.
+•Develop, deploy, and maintain production NLP models with scalability in mind.
+•Apply Natural Language Processing with NLTK, SpaCy, and other modules for application development for automated customer response.
+•Write automation processes using Python and the AWS Lambda service.
+•Used PCA and other feature engineering techniques to reduce the high dimensional data, feature normalization techniques, and label encoding with Scikit-learn library in Python.
+•Use cross-validation to test the models with different batches of data to optimize the models and prevent overfitting.
+•Create and maintain reports to display the status and performance of deployed models and algorithms with Tableau.
+•Extensively involved in all phases of data acquisition, data collection, data cleaning, model development, model validation, and visualization to deliver data science solutions.
+•Implement Python-based distributed random forests via PySpark and MLlib.
+•Use AWS S3, DynamoDB, AWS lambda, and AWS EC2 for data storage and models' deployment.
+•Adept at discovering patterns in data using algorithms, visual representation, and intuition.
+•Demonstrated ability to use experimental and iterative approaches to validate findings.
+•Hands-on applying machine learning techniques such as Naïve Bayes, Linear and Logistic Regression Analysis, Neural Networks, RNN, CNN, Transfer Learning, Time-Series Analysis, Trees and Random Forests.
+• Design and presentation of interactive data visualizations and widgets in Python using Matplotlib, Ggplot2, Plotly, and Seaborn. R using dplyr, tidyverse and R Shiny for UI design.
+•Produce Custom BI reporting dashboards in Python using Dash with Plotly for rapid dissemination of actionable, data-driven insights.
+•Transform business requirements into analytical and statistical data models in Python and TensorFlow.
+•Design algorithms and design, build and deploy custom Power BI software solutions.
+•Provide value-added interaction with stakeholders/customers and gather requirements through interviews, workshops, and existing system documentation or procedures, defining business processes, and identifying and analyzing risks using appropriate templates and analysis tools.
+•Experience working with relational databases with advanced data SQL skills.
+•In-depth knowledge of statistical procedures that are applied in both supervised and unsupervised machine learning problems.
+
+Technical Skills
+
+•Machine Learning Methods:
+Applying classification, regression, prediction, dimensionality reduction, and clustering to problems, predictions, and analytics that arise in retail, manufacturing, and market science. Linear Regression, Logistic Regression, Random Forest, XG Boost, KNNs, Deep Learning in Python.
+•Deep Learning Methods:
+Artificial Neural Networks, CNN, LSTMs, Gradient Descent variants (including ADAM, NADAM, ADADELTA, RMSProp), Regularization Methods, and Training Acceleration with Momentum Techniques TensorFlow, PyTorch, Keras
+•Cloud:
+Extensively used Cloud for model development, deployment and maintenance using AWS, GCP and Azure.
+•Programming Languages:
+Analytic programming using Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Keras). R (Tidyverse, Ggplot2, Dplyr, Purrr, Tidyr, and more)
+•Analytic Scripting Languages:
+Python, R, MATLAB
+•Database, Query, Data Cleaning, and Normalization:
+PostgreSQL, MySQL, SQL Server, RDS, RedShift, MongoDB, DynamoDB, MS Excel, MS Access
+•IDEs:
+RStudio, PyCharm, Visual Studio, Visual Studio Code, Jupyter Notebook, Sublime, XCode, MATLAB_R2021b, Eclipse
+•Artificial Intelligence:
+Text understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems, and analytics.
+•Statistical Analysis:
+A/B Testing, ANOVA, T-Test, Model Selection, Anomaly Detection, Case Diagnostics, and Feature Selection in R or Python for analysis of data.
+•Analytics:
+Research, analysis, forecasting, and optimization to improve the quality of user-facing products, Predictive Analytics, Probabilistic Modeling, and Approximation Inference.
+
+Work Experience
+
+Lead Data Scientist
+October 2022- April 2024:
+Anthem Inc., Indianapolis, IN
+
+As a Lead Data Scientist on the Digital Personalization Team, we spearheaded initiatives aimed at enhancing the user experience through cutting-edge technologies.
+The primary focus was on 3 key initiatives:
+Smarter Search: Used advanced Natural Language Processing (NLP) techniques and search engine models, tackled challenges such as minimizing errors in search results and improved processing times. It involved fine-tuning BERT & ELMO models for contextual embeddings, implementing parallel computing and GPU frameworks for faster processing, and enhancing search quality through text normalization and spell-checking.
+Smart Provider Finder: Used Machine Learning and Deep Learning algorithms, to forecast the cost of episodes, treatments, and medical interventions. The role involved refining optimization routines, enhancing forecasting metrics, and combining specialties to improve accuracy. Model deployment using AWS SageMaker Studio, Lambda functions to automate CI-CD pipeline, EKS to model registry.
+Provider Tiles: Developed a recommender system to suggest services based on user behavior and clinical history. It included analyzing clicks, logs, and demographics to personalize recommendations.
+The contributions directly impacted the accessibility and affordability of healthcare for our customers.
+
+•Analyzed data insights and statistics for Medicare and Medicaid specialties and procedures.
+•Conducted variables distribution analysis using Histograms, Pie Plots, Whisker and box plots, and Distribution Curves.
+•Normalized user searches using NLTK, Genism, SpellChecker, Spello, SymSpell, Textblob, Re, and sentence_transformers embedding BERT versions.
+•Removed stopwords by identifying custom stopwords using the SpaCy POS Tagging Process.
+•Decoder using GPT 3.5 Turbo to predict the sentences within LangChain Framework and used Prompts on top of it.
+•Designed templates through prompt Engineering in PineCone.
+•Imputed missing, leakage, and corrupted member-provider data from ETG Refresh.
+•Ran pipelines for Smart Provider Finder models and validate KPI results (RMSE, MAE, coeffcorr, R2).
+•Utilized SBERT Contextual Modelling with various models.
+•Hosted Bots using Azure OpenAI Studio.
+•Optimized models using Optuna.
+•Visualized KPI results and processing times using Matplotlib and Seaborn.
+•Refactored code from Notebook to Python Class/Methods and managed version control using Bitbucket.
+•Created mockups and presentations for research and development.
+•Documented implementation details on SharePoint for stakeholders.
+•Performed QA and UAT testing on search engine queries time and accuracy.
+•Debugged code manually and troubleshoot issues.
+•Utilized object and functional programming languages such as Linux, Python, and C/C++.
+
+Lead Data Scientist
+March 2022 – October 2022:
+Centene Corporation in St. Louis, MO
+
+Centene is the largest Medicaid-managed care organization in the country and provides a portfolio of services to government-sponsored healthcare programs. In addition to other state-sponsored/hybrid programs, and Medicare (Special Needs Plans), Centene also contracts with other healthcare and commercial organizations to provide specialty services including behavioral health management, care management software, correctional healthcare services, dental benefits management, in-home health services, life and health management, managed vision, pharmacy benefits management, specialty pharmacy, and telehealth services. Centene's current long-term care business data storage/data handling system involved a collection of various Excel spreadsheets. Centene wanted to use NLP to examine text across rows and columns to determine the probability that the text meant the same thing. The example shared by the company showed that there were some medical terms and codes in 2 rows of a spreadsheet that indicated a birth delivery was by C-section and long-term care may be needed. So, they'll produce a report showing the level of probability that the data could be 'the same thing'. And the level of probability would determine which results need human eyes to review. Extreme highs (close to 100%) and extreme lows (closer to 0%) did not require priority review. They want to be able to identify the middle (50%) cases as the ones that need human review.
+
+•Served as an Lead Data Scientist for team of 1 Data Scientist, 1 Project Manager, and 3 NLP Specialists.
+•Led project planning and team communication efforts by implementing Gitlab Milestones and Issues for tracking progress.
+•Conducted research about Advanced Regular Expression, Data Cleaning/Pre-Processing Frameworks, Code String Similarity Computations, Clustering (Prototype-based, Hierarchical, Density-based), and Elbow/Silhouette Plots.
+•Garnered insights into relevant data and related statistics by looking at information sources from Medicare, Medicaid, and Ambetter.
+•Conducted Variables Distribution Analysis using Histograms and Pie Plots to find patterns in text.
+•Applied Normalization of Clinical Rules Text Description RecordLinkage.
+•Identified pre-processing of drug and procedures code strings using Regex.
+•Performed data imputations on missing data.
+•Performed sample similarity calculations using set math operations.
+•Performed 0-1 Similarity Computation across samples using math exponential functions.
+•Worked with Elbow/Silhouette Plots to Find Optimum K Value for Clustering.
+•Applied unsupervised learning: clustering samples using prototype-based clustering: K-means (Distances: Manhattan, Euclidean, Squared Euclidean, Canberra, Chi-Squared).
+•Applied Hierarchical Clustering Agglomerative (Distances: Single/Complete Linkage).
+•Produced feature selection projections from 3K features to 3 for plotting purposes.
+•Applied 3-Dimensional Plot of Clustering Considering Different Subset of Variables (Linear Combination).
+•Refactored code from Notebook to Python Class/Methods.
+•Prepared mock-ups and presented them to Research and Development.
+•Prepared documentation and posted it on SharePoint for viewing by the broader stakeholders group.
+•Applied similarities computation for code strings drugs/procedures in relation to Clinical Descriptions.
+•Manually debugged code (Python), identified anomalies and modified the code to fix anomalies in Predictive Maintenance.
+•Applied object and functional programming methods.
+•Worked hands-on with technologies such as Pandas, Numpy, Matplotlib, and Seaborn.
+•Utilized Pyclustering library.
+
+Senior NLP Scientist
+October 2018 – March 2022:
+Espressive, Santa Clara CA
+
+Espressive is an Enterprise AI startup specializing in Service Management through Natural Language-based knowledge delivery. Espressive shifted the focus to the employee — because you can’t have self-service if your employees are not engaged. Barista, our virtual support agent (VSA), brought the ease of consumer virtual assistants such as Alexa and Google Home into the workplace, delivering a personalized user experience that resulted in employee adoption rates of 80-85% and reduced help desk call volume by 50-70%. As a Senior NLP Scientist, I designed and deployed natural language processing solutions to build the backbone of the Barista platform.
+
+•Applied Quality Assurance on Machine Learning/Natural Language Processing.
+•Applied Confusion Matrix, Lemmatization, Stemming, Synonyms Relationships, Information Retrieval, Keyword Boosting, and Multi-language Matching Validation.
+•Utilized Pytest, Unittest, Django Frameworks, and Python Virtual Environments.
+•Applied Python Modules NLTK, Scikit-Learn, Pandas, Matplotlib, Seaborn. Git (Command Line).
+•Hands-on with Selenium Web Drivers/Fixtures.
+•Applied Docker Containers and Jenkins.
+•Designed and produced test plans/test cases and conducted manual testing, regression testing, sanity testing, legacy testing, and feature testing, and produced oral presentations (mockups).
+•Applied Syntactic NLP (Synonyms, Entities, Phrase Syntax/Semantics).
+•Applied Linguistic Paraphrase testing simulations.
+•Built Test Plan Designs/Test Cases for Phrase-Service Matching.
+•Performed NLP Features API Automation in Python.
+•Developed Customer Query Service Department Classifications and Text Request Multi-Class Service Department Classifications.
+•Used NLP Manual (Annotation/Correction Language Synonyms/Entities Relations) for API Integrations.
+•Utilized ServiceNow and Confluence (JIRA) for intelligent workflows.
+•Applied Python and Postman to API testing.
+
+Data Scientist
+January 2017 – September 2018:
+Realtor.Com, Phoenix Arizona
+
+I built a predictor that can estimate the price a house will sell based only on the house's location in latitude and longitude. I cleaned the dataset and selected the important features, specifically, I took only the sold price, square feet, and latitude and longitude columns. I converted the latitude and longitude values to radians as a way of normalizing the location data and attempted to use only the location to predict price as well as price per square foot. I also randomly split the data into training and testing, 80% for training and 20% for testing. I then used a KNN regressor with K = 10. This choice of K worked well for both the testing set and the test on outside data. I defined my metric to evaluate the model: the average percent difference of my predictions from the true price value. Using this metric, I found that predicting the price per square foot worked better than predicting just the price. The model was deployed on REST API housed on an AWS EC2 instance.
+
+•Performed EDA on Data integrated from various public and private sources.
+•Established an input pipeline that included Normalization, Imputation, and De-Noising.
+•Used Random Train/Test Split technique.
+•Applied KNN Regression.
+•Identified metrics and constructed associated models and dashboards.
+•Validated and tested on outside data.
+•Used Python for the Clustering Analysis and NetLog for simulation.
+•Handled data exploration using statistical methods and visual packages from Python.
+•Pre-processed datasets that Netlog produced during the simulation phases and past datasets.
+•Implemented a variety of Clustering models with the preprocessed data to classify population classes.
+•Developed a segmentation solution using various clustering analysis methods, including K-Means Clustering, Gaussian Mixture Models, and DBSCAN.
+•Performed exploratory data analysis on socioeconomic class data and plotted correlation between variables.
+•Experimented with several classification methods, including decision trees, logistic regression, and KNN.
+•Experimented with forecasting methods, including time-series analysis algorithms such as SARIMA.
+•Extracted data from a SQL database using complex SQL queries.
+•Geopy Nominatim API REST for address - (latitude, longitude) queries.
+•Plotly Graph API for Geographical Plot of points.
+•Python Flask Framework for Web Site Development.
+•Prototyping Google Colab Pro.
+
+R Data Scientist
+May 2015 – November 2016:
+Kaiser Permanente – The Technology Group, Oakland, CA (REMOTE)
+
+Kaiser was using NLP to make sense of a wide variety of structured and unstructured data stored in existing workflows. I worked on a Data Science team with the main goal of using their scale and machine learning algorithms so that clinical partners at all levels could derive meaningful and real-time insights from data and intervene at critical junctures of patient care. I helped develop new concepts, propositions, technologies, and demonstrators that provided new insights from a combination of multiple healthcare data sources. Most of the data revolve around text processing, although a good portion involved visual diagnosis of lung diseases using Computer Vision.
+
+•Modified and optimized current NLP models and tuned models to the constant inflow of conversational data prototypes and built and deployed new models to serve as the core of new features.
+•Acquired, processed, analyzed, and modeled information from potentially massive amounts of structured and unstructured data.
+•Provided knowledge and expertise in NLP and Neural Networks (Multilayer perceptron MLP, Convolutional Neural Network CNN, Recursive Neural Network, Recurrent Neural Network, Long/Short-term memory, Sequence-to-sequence models, Shallow Neural networks).
+•Worked with cross-functional teams to get models into production demoing complete with visualization of research and findings for presentation to a leadership team.
+•Helped productization of machine learning models.
+•Hands-on with TensorFlow, Keras, and Pytorch Deep Learning tools.
+•Worked with Hadoop, Hive, Spark, and AWS Big Data tools/platforms.
+•Hands-on with visualization/reporting tools Tableau, Matplotlib Seaborn, and Plotly.
+•Python Flask Framework for Web Site Development.
+•Model Classifier UI View Design in HTML/CSS (Bootstrap).
+•Prototyping Google Colab Pro.
+
+Data Scientist
+September 2014 – May 2015:
+Deloitte (REMOTE)
+
+One of three Data Scientists on the Fraud Detection Data Science team responsible for designing, building, testing, deploying, and maintaining machine learning systems for the detection of fraudulent activities in various areas of the business.
+
+•Tested existing algorithms to ensure and maintain a high level of performance using quantitative model validation techniques.
+•Developed and tested hypotheses for engineering improved features for implementation using visualizations created with Matplotlib and Seaborn in Python.
+•Tested for ideal tuning of model hyperparameters using Python.
+•Performed error analyses using Python to detect trends or patterns in fraudulent transactions not identified by the Data Science models.
+•Developed new machine learning approaches in Data Science to continuously improve fraud detection capabilities.
+•Created proofs of concept (POCs) for new machine learning approaches in Data Science using Python and TensorFlow.
+•Participated in the peer review process to ensure correctness, accuracy, and quality of work produced by the Data Science and engineering teams.
+•Performed unit testing of peer code as part of the peer review process.
+•Applied anomaly detection approaches such as Supervised Classification, Unsupervised Clustering, and Recurrent Neural Networks, and other time-series analyses to consider transaction histories.
+•Prototyping Google Colab Pro.
+•Git (Command Line) Processing of Python Scripts.
+
+Data Scientist
+December 2012-September 2014:
+Citigroup Inc., New York, NY
+
+Worked in a team collaborating with the Security Department, I led efforts in fraud detection. Leveraging an ensemble of classification and unsupervised learning models, I meticulously analyzed incoming transactions to swiftly identify fraudulent activities. Following deployment, our solutions effectively minimized false positives, resulting in significant time and cost savings for our valued customers."
+
+•Managed imbalanced data by implementing stratified sampling techniques, ensuring equitable representation of minority classes across all data subsets used for cross-validation of models.
+•Collaborated closely with regulatory and subject matter experts to gain comprehensive insights into the intricacies of data streams, thereby enhancing the accuracy and relevance of our analytical solutions.
+•Optimized model performance and fine-tune hyperparameters, employing advanced techniques for cross-validation of statistical models.
+•Extracted data from the Hive database on Hadoop using Spark via PySpark, streamlining the data preprocessing pipeline for subsequent analysis.
+•Used R's dplyr package for efficient data manipulation tasks, alongside ggplot2 for dynamic data visualization and exploratory data analysis (EDA), facilitating actionable insights into complex datasets.
+•Employed a comprehensive suite of tools including Scikit-Learn, SciPy, Matplotlib, and Plotly for advanced EDA and data visualization, enhancing the interpretability of model outputs and facilitating decision-making processes.
+•Engineered Artificial Neural Network (ANN) models using PyTorch and Scikit-Learn to detect anomalies, used the power of deep learning techniques for nuanced pattern recognition.
+•Applied Scikit-Learn's model selection framework to conduct hyperparameter tuning using GridSearchCV and RandomizedSearchCV algorithms, optimizing model performance and generalization capabilities.
+•Developed bespoke unsupervised learning algorithms, including K-Means and Gaussian Mixture Models (GMM), from scratch using NumPy, enabling the detection of anomalies and outlier detection in complex datasets.
+•Implemented a heterogeneous stacked ensemble approach to combine multiple models for the final decision-making process, ensuring robustness and accuracy in identifying fraudulent transactions.
+•Deployed models using a Flask application stored within a Docker container, facilitating seamless integration into operational environments for real-time fraud detection.
+•Evaluated model performance rigorously using a suite of metrics including confusion matrix, accuracy, recall, precision, and F1 score, with a keen focus on optimizing recall to minimize false negatives and maximize fraud detection rates.
+•Used Git for version control on GitHub, for efficient collaboration and knowledge sharing among team members, ensuring alignment with project goals and objectives.
+
+Data Scientist
+March 2011-December 2012:
+Ford Motor Company, Dearborn, Michigan
+
+I worked in a team to develop a predictive maintenance system to enhance vehicle reliability, reduce downtime, and optimize maintenance schedules for Ford automobiles manufactured. Leveraged data-driven techniques, this project aims to predict potential failures in Ford vehicles before they occur, allowing proactive maintenance interventions and minimizing disruptions for vehicle owners.
+
+•Conducted in-depth analysis of historical data from Ford automobiles, including sensor readings, diagnostic codes, maintenance logs, and vehicle usage patterns.
+•Cleaned and processed the data, ensuring its quality and reliability for subsequent analysis.
+•Employed advanced feature engineering techniques to extract meaningful features from the raw data, such as engine temperature, oil pressure, vibration patterns, and component usage metrics.
+•Worked with cross-functional team members to develop predictive maintenance models using MLA such as Random Forest, Gradient Boosting Machines, and Long Short-Term Memory (LSTM) networks.
+•Evaluated the performance of the developed models using appropriate metrics such as precision, recall, F1-score, and receiver operating characteristic (ROC) curve.
+•Involved in deployment and integration of the predictive maintenance system into Ford's existing maintenance management infrastructure.
+•Monitored the performance of the deployed models and incorporated feedback from maintenance technicians and vehicle owners to iteratively improve the predictive accuracy and reliability of the system.
+
+EDUCATION
+Master of Science in Artificial Intelligence
+Specialization in Deep Learning/NLP Modeling for Healthcare Clinical Trials
+Barcelona, Spain
+Universidad Politécnica de Cataluña
+
+Bachelor of Science in Computer Science (Honors)
+Specialization in Swarm Intelligence
+Hermosillo, Mexico
+Universidad de Sonora
+
+RESEARCH PAPERS
+•04/2018 Reynoso Aguirre P. E., Rodriguez Hontoria H., Belanche LL. Natural language processing and machine learning techniques to solve a breast cancer clinical trial ECOG-classification problem. Universitat Politècnica de Catalunya – Barcelona, Spain.
+•03/2017 Reynoso Aguirre P. E., Rodriguez Hontoria H. Information Extraction, Parsing and Text Mining for ECOG-Classification in Breast Cancer Clinical Trials. European Parliament, Strasbourg, France.
+•02/2015 Reynoso Aguirre P. E., Flores Pérez P., Cota Ortiz M. G. Multi-Objective Optimization Using Bat Algorithm to Solve Multiprocessor Scheduling and Workload Allocation Problem. Journal of Computer Science and Applications, 2(2): 41–51, San José, California, USA.
+•11/2013 Reynoso Aguirre P. E., Flores Pérez P., Cota Ortiz M. G. Algoritmo de murciélagos para resolver un problema multi objetivo de calendarización de un multiprocesador/asignación d e cargas de trabajo. CICOMP 1(1): 200–203, Ensenada, Mexico.
+Contact this candidate

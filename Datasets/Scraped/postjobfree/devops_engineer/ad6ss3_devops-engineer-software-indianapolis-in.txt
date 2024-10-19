@@ -1,0 +1,103 @@
+KALAIVANI RAVIKUMAR
+DevOps Engineer
+
+ad6ss3@r.postjobfree.com +1-317-***-**** linkedin-kalaivani-ravikumar
+
+Summary
+Experienced AWS DevOps Engineer over 8+ years of work experience in AWS cloud infrastructure, Linux administration, design and maintain Client/Server application configurations, continuous Integration/continuous Delivery and software deployment. Extensive hands-on technical experience in Software Development Life Cycle, database management of complex projects and orchestrating workloads in a cloud environment.
+
+Technical skills
+
+●Cloud Platform : AWS
+●Cloud Services : EC2, IAM, EBS, EFS, ELB, ASG, RDS, S3, SQS, SNS, VPC, Cloud Trail, CloudWatch, Trusted Advisor,
+Cost Management, WAF,Session Manager, Certificate Manager
+●CI/CD Tools : Jenkins, GitLab
+●Containerization : Docker, ECS
+●Scripting : Shell Scripting, Python
+●Orchestration Tool : Kubernetes, EKS
+●Ticketing Tools : JIRA, Service Now
+●Operating System : Amazon Linux 2, RHEL 8, RHEL 9, Windows
+●Versioning Tool : Git,GitHub
+●Configuration Management Tool : Ansible
+●Monitoring tool : Datadog, Prometheus
+●IaC Tools : Terraform
+
+Professional Experience
+
+Pyramid Technology Solutions May 2024 - Present
+Role : DevOps Engineer
+
+●Experienced in creation of docker images using yaml files and automating the build process in each stage that runs as docker containers using GitLab.
+●Managing Ansible playbooks with ansible modules for the server configuration, group variables, inventory files and automate repetitive tasks using roles.
+●Involved in managing CI/CD pipelines using DevOps toolset which includes continuous integration of GitLab and deployment through Terraform.
+●Hands-on experience in EKS to automate the critical tasks such as patching, node provisioning, and scaling of containerized applications in a cluster.
+●Experienced in branching, tagging, maintaining the version across the environment, setting up the repository and building new features with automation using GitLab.
+●Deployed EKS application cluster in the cloud environment by using Terraform code template and scheduled the process automation using Jenkins.
+●Setup AWS infrastructure monitoring through Datadog. Also managed backup policies and disaster recovery of application data using the N2WS tool.
+●Integrated Ansible playbooks with the Terraform templates to deploy 3-tier architecture resources on AWS cloud with reduced manual intervention.
+●Worked on Amazon ECS scheduler automatically starts new containers using the updated image and stops containers running the previous version.
+
+Ensono Technologies LLP Feb 2023 - Feb 2024
+Client : Verisk Analytics, USA
+Role : Associate DevOps Engineer
+
+●Implemented AWS cost cutting by writing the Ansible playbook for auto start/stop of AWS resources at a particular time of the day by triggering it from Jenkins.
+●Worked on ad-hoc changes, documented problem incident issues, knowledge article, RCA and infrastructure details for future reference.
+●Scheduled job and set up the flag to run automation scripts on Jenkins as a part of the Continuous Integration process every time there is a bug fix, new feature deployment and code changes in the code repository.
+●Maintained detailed documentation of Datadog installation, configuration, creation of monitoring policies, and worked on incident response procedures.
+●Worked on Kubernetes cluster setup, logging, networking, services, replicaSets,rolling updates on Pods and handled rolling back in the pod deployments.
+●Created a batch utility tool using AWS S3 batch to analyze the client records for efficient data and reduced the development team efforts.
+●Involved in design, implementation of continuous integration,continuous delivery and modifying the efficiency of the environment using Python code.
+●Addressed client requirements, handled production priority incidents, performed major infrastructure changes and ad hoc requests using Service Now.
+●Configure the alerts in prometheus to monitor the Kubernetes pod metrics in regular intervals of time and send email notifications to take necessary actions.
+
+TATA Consultancy Services Apr 2021 - Jan 2023
+Client : Canadian National Railway, Canada
+Role : Cloud DevOps Specialist
+
+●Configured Git Version control system to track project history in distributed server and merge code from development branch to master branch and make sure every line of code follows the coding standards.
+●Worked on Kubernetes orchestration platform that automates the deployment, scaling, fault tolerance and management of containerized applications.
+●Design, modify and implementation of application performance monitoring solutions using Datadog to identify and address potential bottlenecks and inefficiencies.
+●Configured Docker Registries to store container images and integrated with Jenkins pipelines to build environment based new containers for applications.
+●Involved in development of a huge scale application project using Docker microservices and configuring docker containers in a cluster using Kubernetes.
+●Implemented the hosting of static application websites and maintenance of the website on AWS is completely automated using Terraform and Jenkins.
+●Implemented the Integration of Jira software with Jenkins for real time bug tracking and to update the issues of pipelined projects.
+●Deployed a high availability Python application on AWS with a load balancer, Jenkins setup to automate CI/CD pipeline and deployment of resources using Terraform.
+
+IBM Nov 2018 - Apr 2021
+Client : Fiat Chrysler Automobiles, USA
+Role : Cloud Engineer
+
+●Setup the orchestration of Docker Containers on AWS as well as on-premise, saving manual effort for application Container Management and scaling.
+●Deployed RDS instances across two or more isolated Availability zones based on client requirement and eliminated single point of failure in production architecture designs.
+●Handled AWS Certificate Manager service to easily provision, manage, deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for usage with AWS services.
+●Experienced in AWS hosted applications with focus on AWS services such as EC2, EFS, EBS, S3, Systems Manager, CloudWatch, Trusted Advisor, Cloud Trail, SQS, SNS, ELB, Autoscaling and IAM.
+●Hands-on experience in configuration of network architecture on AWS cloud with VPC, subnets, Internet gateway,NAT, security groups and Route Table.
+●Created alerts and monitoring dashboards using Prometheus to maintain the high availability of application microservices deployed in the infrastructure.
+●Used Jira dashboard to view the project information, organize work, prioritize the changes, visualize and manage the progress of issues in a project.
+
+IBM Oct 2016 - Nov 2018
+Client : Thames Water, UK
+Role : System Engineer
+
+●Setup the yum repository, upgraded the repository by appropriate patching in the server and installing software packages using yum and rpm.
+●Consistently achieved 99% uptime for production servers by implementing elastic load balancer and autoscaling for high availability and fault tolerance.
+●Performed regular security audits, capacity planning, outages, patching, upgrade linux systems with new releases and resource optimization efforts.
+●Created, Implemented and managed the development of application scripts to automate everyday operation and integrated Github action workflows with Service Now.
+●Managed and reviewed error logs, conducting system backups, monitoring system performance and maintenance of Linux-based systems on AWS.
+●Performed the export of EC2 instance to a VM format image format using custom policies and the output placed in S3 bucket to replicate the software.
+
+Eyeopen Technologies Jan 2016 - Oct 2016
+Role : Intern
+
+●Responsible for creating database performance reports, database performance tuning and identifying areas where improvement is needed.
+●Administered database hosted in AWS cloud computing environment, provisioning, managing the database instances, setting up replication and high availability of database.
+●Handled day to day database activities such as monitoring space, memory requirements, check alert logs, archive logs and transferring logs from the production server to the standby server.
+●Created roles and policies using Identity and Access management (IAM) in order to provide authentication and authorization to users.
+Education and Certifications
+●B.TECH Information Technology (2012-2016) from Panimalar Institute of Technology affiliated to Anna University with 83%.
+●AWS Cloud Practitioner
+●EMC Academic Associate,Cloud Infrastructure Services
+●ITIL V3 Foundation Certificate from TCS
+●Linux Foundation Cert Prep: Essential Commands (Ubuntu)
+Contact this candidate

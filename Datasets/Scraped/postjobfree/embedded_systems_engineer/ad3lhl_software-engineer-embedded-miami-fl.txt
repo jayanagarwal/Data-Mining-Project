@@ -1,0 +1,48 @@
+Dilnoza Bobokalonova
+SOFTWARE ENGiNEER · BACKEND & EMBEDDED SYSTEMS
+917-***-**** ad3lhl@r.postjobfree.com tinyurl.com/DilNova dilnozabobokalonova1 dilnozabobokalonova1 Summary
+I thrive in challenging environments and am deeply passionate about learning and engineering critical systems. Over the past 8 months, I’ve worked on acquiring skills in embedded systems, exploring space technology, and developing whitehat projects in Rust. My background is in building Deep Learning & NLP models at Berkeley, developing robust backend software systems at Coursera, and leveraging Rust in various con texts. I am now in search of my next opportunity to advance and grow as both an engineer and leader. Education
+University of California, Berkeley Berkeley, CA
+MASTER OF ENGiNEERiNG iN ELECTRiCAL ENGiNEERiNG AND COMPUTER SCiENCE DATA SCiENCE&SYSTEMS Aug. 2018 May 2019 University of Miami Coral Gables, FL
+B.S. iN COMPUTER SCiENCE MiNORS iN MATHEMATiCS & INTERNATiONAL STUDiES Aug. 2014 May 2018 Skills
+Programming/Scripting Rust, Scala, Embedded C, Java, Python, LISP, Prolog, Bash, MATLAB, LaTeX, Dart, JavaScript, HTML/CSS Dev, ML & Technologies Jenkins, Docker, ZooKeeper, Tensorflow, NLTK, Kafka, DynamoDB, ElasticSearch, KiCAD, Terraform, AWS Languages Russian, Tajik, English
+Work Experience
+Coursera Mountain View, CA
+SOFTWARE ENGiNEER Jun. 2019 May. 2023
+• Engineered and maintained resilient backend systems meeting strict SLA requirements (99.999% uptime) using Scala (REST) and Java (gRPC), enhancing service reliability and scalability with various deployment and monitoring tools. (ZooKeeper, SumoLogic, Jenkins, DataDog)
+• Authored system design documents for 8 high profile projects, designing their architecture and securing consensus across engineering, legal, product, and enterprise teams, accelerating launch timelines by 20% and navigating early around implementation bottlenecks.
+• Directed the LevelSets project (2021 2022) as Lead Engineer, architecting it as a standalone app. Addressed cross functional teamrequirements and launched the app platform wide, directly contributing to a 30% increase in revenue.
+• OptimizedandrefactoredCoreLearnerlegacycode,cuttingerrorratesby35%, resolvingbottlenecks,andeliminatingtimeouterrorswithadded unit & E2E testing, enhanced system reliability and resource utilization, resulting in a 5% reduction of monitoring costs.
+• Drove a successful transition of backend services from Scala to Java and upgraded APIs from RESTful to gRPC, unifying complex business logic across services&achieving a 40% boost in performance and a 2x increase in system scalability.
+• Reorganized on call rotations for Engineering during a critical team split in 2021, initiated a strategic meeting to redesign schedules & address engineers’ concerns, increasing scheduling efficiency by 50% and ensuring a smooth reorganization. (PagerDuty, SumoLogic, DataDog)
+• Extensively collaborated with the Data Science team to integrate ML models with Learner & Skills BE services (AWS SageMaker, AWS Lambda, Scala Naptime), eliminated engineering bottlenecks between engineering & DS teams, accelerating project timelines by 20%.
+• Streamlined engineering onboarding by leading backend sessions, halving newhires’integrationtimewithtargetedtrainingonCoursera’sstack and dev pipeline, enhancing early team contribution. Leveraged Confluence for training material distribution.
+• Mentoredmultiplejuniorengineersandinterns,encouraging creative freedom in their projects while ensuring alignment with team culture and performance standards, consistently achieving smooth team integration and accelerated project completion times. UC Berkeley Coleman Fung Institute for Engineering Leadership Berkeley, CA DATA SCiENTiST&NATURAL LANGUAGE PROCESSiNG DEVELOPER Jun. 2018 May. 2019
+• Utilized powerful natural language processing and machine learning techniques to analyze the technology development of autonomous vehi cles (AV) industry, specifically LIDAR technology.
+• Implemented document similarity analysis to expand 1 patent seed to a pool of 1000 similar patents drawn from the AV data of 40000 patents.
+• Developed various models such as SVM, Random Forest, Long Short Term Memory neural network, to forecast the quantity and spatial distri bution of future patents across 244 distinct CPC classes for the 2019 2020 quarters, achieving an accuracy rate of 96.1%.
+• Performed dimensionality reduction (PCA) to convert an original 33k feature vector to 3D and visualize the future patent space of LIDAR in VR. Projects
+Rust BCL (Berkeley Container Library) Berkeley National Laboratory, CA RUST iN DiSTRiBUTED COMPUTiNG USiNG OPEN MPI CORi SUPERCOMPUTER Jan. 2019 May. 2019
+• Developed the Rust Berkeley Container Library (RBCL) designed specifically for high performance distributed computing environments, lever aging the power and scalability of the Cori supercomputer at the Lawrence Berkeley National Laboratory.
+• Engineered RBCL infrastructure with MPI and advanced memory management, achieving a 30% improvement in data sharing efficiency and reducing synchronization overhead by 25% across distributed nodes.
+• Conducted scalability tests on RBCL over Cori’s processor nodes, optimizing communication and load balancing to support efficient scaling up to 500+ nodes with a 20% reduction in overhead.
+• Benchmarked RBCL under various parallelism levels and cluster sizes, demonstrating a 2x throughput increase and a 50% latency reduction, while maintaining optimal resource utilization up to 80% efficiency, markedly outperforming the C++ implementation. FEBRUARY 13, 2024 DiLNOZA BOBOKALONOVA · RÉSUMÉ 1
+WhiteHat & Rust Notion GitHub
+ASYNC, THREAD CONCURRENCY, PORTS DiSCOVERY & EXPLOiTS Jan. 2023 PRESENT
+• Developed a Rust based scanner using multi threading to identify vulnerable open ports across specified subdomains and IP addresses, im proving discovery speed by 3x compared to traditional methods.
+• Upgraded the multi threaded scanner with Tokio for asynchronous execution, reducing context switching latency by 8.5x and enhancing scan efficiency by 40%.
+• Developed an advanced concurrent web crawler in Rust leveraging asynchronous programming, atomic operations, and regex to efficiently scrape GitHub Organization users, JavaScript web applications, and extract CVE data.
+• Integrated Tokio’s MPMC channels for enhanced parallel task execution and designed dynamic concurrency adjustment to optimize perfor mance and minimize resource contention.
+• Incorporated fault tolerant mechanisms such as error handling and backoff strategies to gracefully handle network failures.
+• Transformed a Python exploit into Rust, targeting mirror repositoryURL vulnerabilities (CVE 2019 11229). Embedded Systems Engineering University of California, San Diego HARDWARE DESiGN, ARM, STM32, HAL, BSP & BAREMETAL FPGA XiLiNX ZYNQ 7000 Jun. 2023 PRESENT
+• Developed bare metal code for STM32F3 drivers including I2C, SPI, UART, GPIO, Timer, and Systick.
+• Implemented interrupt driven programming for UART, GPIO, ADC, Systick, and Timer along with DMA for optimized data handling.
+• Soldered an 8 pin connector to the FRAM PCBA (MB85RS64V) for integration with the IoT board’s SPI Interface, effectively isolating the FRAM module’s communication channel from other peripherals.
+• Created an embedded system hardware design for a high speed STM32L4 microcontroller in KiCAD, conducted verification tests of sensors and produced detailed schematics, BOM, and Netlist.
+Deep Learning Specialization deeplearning.ai
+TENSORFLOW, NLTK, PANDAS 12 PROJECTS TOTAL Aug. 2017 May. 2018
+• Developed a car detection algorithm for autonomous driving using You Only Look Once (YOLO) model containing over 50 million parameters able to detect 80 different classes in an image.
+• Created a face recognition system to map face images into 128 dimensional encodings for accurate element wise comparison.
+• Built a Neural Machine Translation model to translate human readable dates into machine readable dates by using a sequence to sequence model.
+• Synthesized & processed audio recordings to create a dataset used to implement an algorithm for trigger word detection. FEBRUARY 13, 2024 DiLNOZA BOBOKALONOVA · RÉSUMÉ 2
+Contact this candidate

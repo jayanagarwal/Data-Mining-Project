@@ -1,0 +1,91 @@
+Mark F. Young
++1-903-***-**** ad7x1e@r.postjobfree.com Lindale, TX 75771
+WORK EXPERIENCE
+Senior Software Engineer / Python Developer, Buckstop Labs July 2023 - Present
+Technology Summary: Tableau BI, Rocket BI, airbyte, PostgreSQL, python, pandas, pytest, jupyter notebooks, Google Cloud Platform, Vertex AI, Google App Engine, gcloud CLI, Google, scikit-learn (sklearn), github, github actions, javascript, React, node.js, selenium, docker, anaconda (conda), oauth libraries AWS Tech: AWS Lambda, AWS IAM, AWS API Gateway, API DynamoDB, AWS Cloud9 Projects:
+1. Selenium automation of historical, daily oil gas records downloads. Automated all unit tests using pytest. 2. ANTLR4 - parsing Cobol copybooks to extract python structs from EBCDIC files 3. Django - for REST API development. Also Django ORM, also SwaggerHub API development. Django was used with ORM capabilities with Python classes developed for Student assignments to Classes. APIs for querying students, classes and assignment relationships between the two
+4. Virtualized runtime using GCP App Engines used for deployment of North Dakota Oil Gas parsing application for funneling into BigQuery (on GCP) for detecting anomalies in daily oil/gas production reporting. Distribution using Docker containerization. Gcloud CLI used for DevOps.
+5. For Portfolio sharing: React and JavaScript, CSS and HTML5 and Bootstrap 6. Law Student Success AI/ML modelling using scikit-learn - generated sample student data and provided interface to law school admin for importing sensitive, live student data.
+7. PostgreSQL used to store Salesteam, Sales, Product and Quote data with Tableau, RocketBI and Power BI as the visualization engines. Developed Dashboards using RocketBI and Power BI for customer, Smith System of Dallas, TX. Dashboards reflected a financial scorecard of each business unit at the furniture manufacturer. The scorecard was comprised of various breakdowns of product types, sales regions and also provided margin reporting to highlight performance of product lines. Jupyter notebook used for matplotlib plots of said data. Used OAuth library from Salesforce to connect to Salesforce instance. 8. Automated builds using github CI/CD
+9. Trained ML models to write better python code. Found many errors and helped the models improve efficiency, accuracy, logical organization, and documentation.
+10. Gained familiarity with AWS Elastic Container Service (docker) and AWS Elastic Kubernetes Service through AWS training courses offered by Amazon.
+11. Couchbase Capella investigated for a clients needs in the area of sales support system. Developing CRUD APIs using OpenAPI standards/tools.
+12. CLI Google Email filter creation tool. Uses Google OAuth for gmail server access. Training work:
+1. Introductory course on Snowflake. Loading data into Snowflake and retrieving via python snowflake.snowpark 2. AWS Serverless Patterns training project. https://catalog.workshops.aws/serverless-patterns 3. Developed working knowledge of ERIS ArcGIS Software Senior Software Engineer / Python Developer, Jump Trading May 2013 - July 2023
+Instrument Warehouse Data Quality Improvements (5 years)
+- Created instrument master warehouses for futures, options, equities, cryptos, currencies and bonds
+- Reduced trading errors by 10% for all trading teams by improving integrity checks
+- Managed operation of data acquisition and warehouse pipelines for accuracy and timeliness
+- Reconciled differences in data between development and production releases for millions of data points
+- Retired legacy system while simultaneously providing backward compatibility
+- React.js used to build symbol GUI for investigating details for various types of financial instruments
+- Django/Swagger used for instrument query APIs for retrieval by instrument type, symbol ticker, exchange and unique symbol identifier
+- Jenkins CI/CD - developed groovy code to automate workflow and integration of changes in github with deployment via whl files
+- provided training to data scientists and quantitative researches for using instrument financial data APIs and understanding the detailed lifecycles of all financial instruments
+- Jupyter notebooks used for conceptualization, debugging, and training. Improved Overall System Quality (10 years)
+- Improved mean time to critical failures from 3 days (May 2013) to 1 year (by December 2013)
+- Negotiated and developed APIs to achieve “one-version-of-the-truth”
+- Managed team of DBAs, taught git, Agile methods, SDLC, and python
+- Improved to expert level in SQL and python
+- Introduced automated testing to DBA Developers, used pytest calling stored procedures via sqlalchemy and checking against expected results encoded in pytest .py files
+- personally contributed to SQL stored procedure code base for over 200 projects
+- Significant portion of system was run with AWS S3 as backing store for DB backups/logs
+- for SQL DB server connectivity, implemented OAuth2 protocol in Python with oauth library
+- OLAP, OLTP, MS SQL Server, Sybase SQL Server (ASE), mysql, Postgres Jump Crypto Symbols (2 years)
+- Integrated hundreds of crypto coins/pairs for more than 40 DeFi Exchanges
+- Innovated method to create intraday ICO (Initial Crypto Offerings) for trading new coins Improved Time-To-Market for Critical Data (2 years)
+- Reduced the reference data ETL flow from 3 hours to 3 minutes Worked with Exchanges/Vendors to Resolve Data Issues (5 years)
+- Managed changes in futures, currency pairs, equities, spreads, e.g. tick sizes, exchange symbols
+- Provided firm-wide support for currency settlement date investigations Production Support for Asia, Europe, Latin America and North America (5 years)
+- Checked integrity of data, solved issues by contacting providers, overriding bad data and writing formulae to transform data to expected values and formats Acquired Improved Data Sources (5 years)
+- Partnered with data vendors to acquire new, improved, more timely data formats, e.g. CME Analyzed Exchange Specifications for New Data Fields (5 years)
+- Studied and implemented new specifications for accurate and improved trading Provided Risk and Clearing Support (10 years)
+- Partnered with Risk department on construction of risk profiles, margin rates and fungibility strategies
+- Partnered with Clearing department on settlement investigations Provided Critical Support for 20 Trade Desks (10 years)
+- Provided front-line support for startup issues with close prices, new futures contracts, bonds, etc. Leadership
+- Led $1.2 million development budgets annually (8-10 direct headcount)
+- My teams met all deadlines on time
+- Communicated results to firm owners and management leadership team
+- Led IT projects for new technologies such as data warehousing, data engineering, governance and provenance, risk assessment and trade clearing
+- Instituted Agile and Scrum to keep focus on deliverables
+- Taught Agile and SDLC best practices to developers and cross-functional stakeholders
+- Tracked projects with JIRA and GIT hub projects
+- Introduced design and code peer reviews to improve quality
+- Identified risks and put into place training, new technology and quality metrics
+- Introduced data warehouses for improved data quality and market intelligence
+- Traveled to North America and Europe offices for kick-offs, training and stakeholder sessions
+- Introduced 24/7 follow-the-sun support systems
+- Worked 12 hour days and weekends when it was necessary to deliver projects Technology Summary: Linux, python, pandas, JIRA, git, groovy, Jenkins, SQLAlchemy, mysql, SQL, Django for REST API Development, ORM of sqlalchemy, pytest, docker, anaconda (conda) Data sources/exchanges: US, EU, Asia, and LA exchanges, Bloomberg, CME, EUREX, LME, Treasury Direct, OSE, SGX, Crypto currency exchanges, and hundreds of others
+Senior Software Engineer / C++ Developer / SDET, Citadel Investment Group January 2003 - January 2013
+Data Research Speed Improvements (5 years)
+- Managed team of 5 C++ developers in creating tick data warehouses, using C++, JIRA, and git
+- Created and maintained more than 100 tick data warehouses Analyzed Exchange Specifications (5 years)
+- Analyzed and decoded exchange market data captures for coding new market data parsers
+- Automated 100% of unit tests
+Data Quality Improvement (5 years)
+- Instructed quantitative researchers in processing historical data archives
+- Reduced time to market by creating configurable reference data for ETL process
+- Promoted to team lead in high-frequency trading department Management and Software Quality Assurance (5 years)
+- Managed (5) testers, reviewed test plans, mentored developers in creation of automated tests
+- Designed and executed tests for Event Driven department servers and monitors
+- Reduced compilation time by 10% by improving quality of the C++ technology stack Technology Summary: C++, STL, python, perl, SQL, git, SVN, Google Test, FIX, JIRA, ETL, Microsoft Project, cppunit, Automated Testing GUI tool
+Data sources/exchanges: US and EU ECNs, Reuters, OPRA, CME, ICE Software Development Engineer in Test (SDET) - Contractor, Execlon January 2002 - January 2003
+Automated Informatica testing for accounting migration for 4 power companies to reduce the amount of manual testing by 80%. Senior Software Engineer, TD Waterhouse
+May 2000 - January 2002
+Developed handheld trading platform.
+Tested all Visual Basic code and DB interfaces
+Worked with TD Waterhouse trading staff to understand requirements. Tech stack: MS VBA Script, HTML Member of Technical Staff / SDET, AT&T Bell Labs/Lucent/Nokia August 1996 - May 2000
+Created Database Features of Lucent A-I-Net Service Creation Environment
+- Added DB features to finite state machine language, written in C++, C, lex, yacc
+- Created persistence class structure, with static data written via Oracle PL/SQL
+- Trained technical staff in “baby bells” in using Lucent A-I-Net SCE
+- Found bugs and debugged the first C++ compilers created by Bjarne Stroustrup
+- Became team lead for Service Creation Environment development Created ERP System for Manufacturing AT&T Computer Systems Products
+- Wrote C code for order configuration and factory scheduling of 3B mini-computers - Automated all unit tests using cppunit Technologies: Linux, cppunit, C++, C, PL/1, IBM JCL, Microsoft project, Oracle PL/SQL EDUCATION
+University of St. Francis
+1996-2000
+B.S, Computer Science
+GPA 3.63/4
+SKILLS
+Agile, AWS API Gateway, AWS DynamoDB, AWS IAM, AWS Lambda, CI/CD, Couchbase, Data Warehousing, Debugging, ETL, GCP, Git, Jenkins, Leadership, Linux, MySQL, OAuth, OLAP, OLTP, Pandas, PostgreSQL, Python, React.js, Selenium, Snowflake Basics, Software Engineering, SQLAlchemy, STL, Test Automation, VBScript
+Contact this candidate

@@ -1,0 +1,160 @@
+Bharath
+ad4u3p@r.postjobfree.com
+470-***-****
+Summary
+A Cloud enthusiastic team player having around 8+ years of experience in the IT industry as a DevOps Engineer with proven expertise in Automation, Build/Release Engineering, and software development involving cloud computing platforms like Azure & Google Cloud Platform (GCP).
+
+Technical Expertise Summary:
+
+1.Deployedwebapplications,usingcontainerizedplatformsusingDockerswarm,&Kubernetes,&configuredAutoscaling for scale up & scale down ofnodes.
+2.DeployedtheapplicationsincloudserversusingInfrastructureasacodebyusingTerraform&Cloudformation in the cloudinfrastructure.
+3.ExperienceindealingwithWindowsDevOps AzureIaaS-VirtualNetworks,VirtualMachines,CloudServices,Resource Groups, Express Route, VPN, Load Balancing, Application Gateways, Auto-Scaling, & TrafficManager.
+4.DeployedJIRAAlign,JIRA,&ConfluenceinAzurebyusingTerraformmodules,&performedmonthlyJiraOS patching/upgrade to newerversions.
+5.Experience in assigning Azure services to locations specific to integrate with web apps & keyvaults.
+6.AutomatingthecreationofInfrastructureusingTerraform&ConfigurationmanagementusingAnsibleinthe most prominent cloud platforms which are Azure &GCP.
+7.Experience in Working & creating services, pods & containers inKubernetes.
+8.KnowledgeofvariousDockercomponentslikeDockerEngine,DockerHub,DockerCompose,&Docker Registry.
+9.Designed&createdmultipledeploymentstrategiesusingContinuousIntegrationContinuousDevelopment Pipelines & configuration management tools with remoteexecution.
+10.ConfiguredCICDpipelinetodeploy,&configurenewpatching/updatestoGCP,Azure,&On-Prem applications.
+11.Create&deploysharedrunnersintheAzureinstanceusingtagsforContinuousIntegration&Continuous Deployment using the GitLab pipeline. Also, maintaining the registry for all the images used inside the CICD pipeline.
+12.Experiencedinbranching,tagging,&maintainingtheversionacrossenvironmentsusingSCMtoolslikeGIT& TFS on Linux & Windowsplatforms.
+13.ExcellentworkingexperienceinManagedenvironmentslikeDEV,INT,QA,Pre-Prod,&PRODforvarious releases & designed instancestrategies.
+14.Exhibited a solid grasp of cloud concepts such as Docker, Kubernetes, and OpenShift, contributing to a 30% reduction in deployment times and a 10% cost savings in cloud infrastructure.
+
+PROFESSIONAL EXPERIENCE:
+
+Mastercard, St Louis, MI (Remote) May 2022 – Till Date
+Role: DevOps/Cloud Engineer GCP/AWS
+
+Responsibilities:
+1.Worked on google cloud platform (GCP) services like compute engine, cloud load balancing, cloud storage, cloud SQL, stack driver monitoring and cloud deployment manager.
+2.Setup GCP Firewall rules to allow or deny traffic to and from the VM's instances based on specified configuration and used GCP cloud CDN (content delivery network) to deliver content from GCP cache locations drastically improving user experience and latency.
+3.Worked on GKE Topology Diagram including masters, slave, RBAC, helm, kubectl, ingress controllers GKE Diagram including masters, slave, RBAC, helm, kubectl, ingress controllers
+4.Created projects, VPC's, Subnetwork's, GKE Clusters for environments QA3, QA9 and prod using Terraform Created projects, VPC's, Subnetwork's, GKE Clusters for environments.
+5.Worked on Jenkins file with multiple stages like checkout a branch, building the application, testing, pushing the image into GCR, Deploying to QA3, Deploying to QA9, Acceptance testing and finally Deploying to Prod
+6.Responsible for Setup and build AWS infrastructure using resources VPC, EC2, S3, RDS, Dynamo DB, IAM, EBS, Route53, SNS, SES, SQS, CloudWatch, CloudTrail, Security Group, Autoscaling and RDS using CloudFormation templates.
+7.Deploy and monitor scalable infrastructure on Amazon web services (AWS) and configuration management instances and Managed servers on the Amazon Web Services (AWS) platform using Chef configuration management tools and Created instances in AWS as well as migrated data to AWS from data Center.
+8.Involved in design and deployment of a multitude of Cloud services on AWS stack such as EC2, Route53, S3, RDS, Dynamo DB, SNS, SQS, IAM, while focusing on high-availability, fault tolerance, and auto-scaling in AWS CloudFormation
+9.Developed strategy for cloud migration and implementation of best practices using AWS services like database migration service, AWS server migration service from On-Premises to cloud.
+10.Implemented and maintained the monitoring and alerting of production and corporate servers/storage using AWS CloudWatch / Splunk and assigned AWS elastic IP addresses to work around host or availability zone failures by quickly re-mapping the address to another running instance
+11.Provisioned the highly available EC2 Instances using Terraform and cloud formation and wrote new python scripts to support new functionality in Terraform.
+12.Worked in cloud formation to automate AWS environment creation along with the ability to deploy AWS using bill scripts (Boto3 and AWS CLI) and automate solutions using python and shell scripting
+13.Managed AWS infrastructure as code (IaaS) using Terraform. Expertise in writing new python scripts in order to support new functionality in Terraform. Provisioned the highly available EC2 Instances using Terraform and cloud formation and Setting up the build and deployment automation for Terraform scripts using Jenkins
+14.Designed AWS Cloud Formation templates to create custom sized VPC, to set up IAM policies for users, subnets, NAT to ensure successful deployment of Web applications, database templates and Security groups
+15.Managed Docker orchestration and Docker containerization using Kubernetes. Used Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers
+16.Created and deployed Kubernetes pod definitions, tags, labels, multi-pod container replication. Managed multiple Kubernetes pod containers scaling, and auto-scaling.
+17.Deployed pods using Replication Controllers by interacting with Kubernetes API server defining through declarative YAML files.
+18.Implementation of new tools such as Kubernetes with Docker to assist with auto-scaling and continuous integration (CI) and Upload a Docker image to the registry so the service is deployable through Kubernetes. Use the Kubernetes dashboard to monitor and manage the services.
+19.Worked on installing, configuring and managing Docker Containers, Docker Images for Web Servers and Applications and Implemented Docker -maven-plugin in and maven pom to build Docker images for all microservices and later used Docker file to build the Docker images from the java jar files
+20.Created Docker images using a docker file, worked on Docker container snapshots, removing images and managing Docker volumes and also virtualized servers in Docker as per QA and Dev-environment requirements and configured automation using Docker containers
+21.Configuring with different artifacts to make an image and deploy Docker image to install the application on an instance, maintain and troubleshoot for any user issues or network problems
+22.Worked on Docker-Compose, Docker-Machine to create Docker containers for testing applications in the QA environment and automated the deployments, scaling and management of containerized applications
+23.Installed and Implemented Ansible configuration management system. Used Ansible to manage Web applications, Environments configuration Files, Users, Mount points, and Packages also Worked with automation/configuration management using Ansible and created playbooks in YAML to automate the development processes.
+24.Implemented Infrastructure automation through Ansible for auto-provisioning, code deployments, software installation and configuration updates.
+25.Add required images to Vagrant and create servers out of Images for testing and Automated infrastructure build-out and systems provisioning using Ansible and Ansible Tower
+26.Worked on writing Jenkins build a pipeline with Gradle script and Groovy DSL (Domain Specific Language) and integrating ANT/MAVEN build scripts with Gradle for the sole purpose of continuous build.
+27.Built and maintained ELK stack to centrally collect logs that are used to monitor applications also Installed, monitored and configured Applications in Nginx and Apache Tomcat Server and establish connectivity to databases and troubleshoot issues on the fly.
+28.Created Pre-commit hooks in Perl/shell/bash for authentication with JIRA-Pattern Id while committing codes in SVN, limiting file size code and file type and restricting development team to check-in while code commit
+29.Deployed and configured JIRA, both hosted and local instances for issue tracking, workflow collaboration, and tool-chain automation
+30.Used monitoring tools like Nagios and Splunk to improve application performance, helps to get the visibility & business context to meet business demands and implemented SPARK communication tool chat BOT for triggering alerts.
+31.Working Knowledge of databases like MySQL, RDS, DynamoDB, and MongoDB
+32.Good understanding of the principles and best practices of software configuration management (SCM) in agile, scrum and waterfall methodologies.
+33.Worked on writing multiple Python, Ruby, and Shell scripts for various companywide tasks
+34.Well versed with Software development (SDLC), Test life cycle (STLC), and Bug life cycle and worked with testing methodologies like a waterfall and the agile methodology (SCRUM) with an in-depth understanding of the principles and best practices of Software Configuration Management (SCM).
+
+DevOps Senior ProcessExecutive
+Cognizant
+Jan 2019 - Dec 2021 (3 years)
+Hyderabad Area, India · Remote
+1.Automation Solution Design:Led requirement analysis and solution design for automation using Micro Focus Server Automation & Operation Orchestration products, resulting in a 20% reduction in manual tasks and a 25% increase in operational efficiency.
+2.Process Automation for ROI and MTTR Reduction:Implemented process automation using HPE Operations Orchestration (HPOO) for Infrastructure Automation and UiPath for Application Automation, leading to a 30% increase in ROI and a 40% reduction in Mean Time to Resolution (MTTR).
+3.Azure Cloud Expertise:Played a pivotal role in Azure cloud, including CloudFormation, DynamoDB, CloudWatch, auto-scaling, and Lambda, dedicating 60-70% of time to Azure infrastructure management.
+4.Azure Infrastructure as a Service (IAAS):Demonstrated expertise in Azure IAAS, managing services such as Virtual Networks, Virtual Machines, Resource Groups, VPN, Load Balancing, Auto Scaling, Azure Monitoring, and Traffic Manager.
+5.Azure Configuration Management and Migration:Deployed and monitored scalable infrastructure on Azure, managed servers using Ansible configuration management tools, and achieved successful data migration to Azure from Data Centers, resulting in a 20% reduction in deployment time.
+6.Docker and Kubernetes Management:Proficiently managed Docker and Kubernetes, including Docker Private Registries, leading to a 25% improvement in container deployment efficiency and resource utilization.
+7.Azure Support and Forum Contributions:Actively contributed to support forums, specializing in Azure Networking, Virtual Machines, Azure Active Directory, and Azure Storage, providing valuable assistance to developers and partners.
+8.UCP Application Setup and Management:Set up the Unified Compute Platform (UCP) Application tool for efficient server access, resource polling, and data archiving, resulting in a 15% reduction in server access time and improved data backup processes.
+9.Script Automation:Executed PowerShell and Python scripts to automate the build and release processes, reducing deployment time by 20%.
+10.Tool Management and Updates:Successfully maintained and updated tool data in SharePoint, ensuring accurate installation, licensing, and support records for streamlined operations.
+
+Consultant
+Regalix
+Mar 2018 – Jan2019(11months)
+Hyderabad, Telangana, India · On-site
+HP OO:
+1.Component Design Optimization:Created component designs, optimizing complex solutions into smaller, manageable pieces, reducing development time by 15%.
+2.Installation and Configuration Proficiency:Demonstrated expertise in HP SA and OO installations and configurations, ensuring system stability and reliability.
+3.Third-Party Integration Mastery:Successfully integrated HP solutions with third-party tools, enhancing cross-platform functionality and collaboration, resulting in a 20% improvement in workflow efficiency.
+4.Major Version Upgrades:Led major version upgrades in HP Products, ensuring smooth transitions and minimizing downtime, resulting in a 25% reduction in upgrade-related issues.
+5.System Integration Knowledge:Possessed extensive knowledge of out-of-the-box (OOTB) and third-party system integrations, enabling seamless data exchange and improving data accuracy by 30%.
+6.Analytical Problem-Solving:Demonstrated strong analytical skills by evaluating end-user requirements and crafting Use Cases, taking complete ownership of solution design and delivery.
+
+HP CSA:
+1.Efficient Installation and Configuration:Expertly installed and configured HP CSA, reducing deployment time by 20% and ensuring system reliability.
+2.LDAP Configuration:Successfully configured LDAP in HP Cloud Service Automation, enhancing user authentication and access control.
+3.VMware Integration:Integrated HP CSA with VMware vSphere, streamlining virtualization processes and achieving a 15% reduction in VM provisioning time.
+4.Server Automation Integration:Seamlessly integrated HP CSA with HP Server Automation, improving cross-system orchestration and reducing manual intervention by 25%.
+5.SMTP Configuration:Configured SMTP in HP CSA, enabling automated email notifications for end-users and managers, improving communication and reducing response time by 30%.
+6.Process Flow Management:Efficiently managed OO flow paths within Process definition XML files, ensuring smooth process execution and reducing errors by 20%.
+7.Service Lifecycle Enhancement:Enhanced service lifecycle by adding Creation, Modification, and Deletion flows in service designs, resulting in a 20% improvement in service management.
+8.Service Catalog Development:Developed service designs and offerings for VM creations, contributing to a 25% increase in self-service capabilities for end-users.
+
+Consultant/P2
+Capgemini
+Dec 2016 - Oct 2017 (11 months)
+Bengaluru, Karnataka, India · On-site
+System Administration:
+1.Performance Monitoring and Capacity Planning:Implemented system performance monitoring and capacity planning, resulting in a 15% reduction in resource wastage and a 20% improvement in system stability.
+2.System Logging and Maintenance:Controlled system logging services and examined system log files, ensuring timely identification and resolution of system events, reducing downtime by 20%.
+3.Alert Management:Checked alert logs, trace files, and performed file system maintenance, achieving a 25% reduction in system errors and improving overall system health.
+4.Enterprise Linux Support:Provided hands-on enterprise support to Linux and CentOS servers, resolving 95% of issues within the defined SLA.
+5.Red Hat Enterprise Linux Installation:Successfully installed Red Hat Enterprise Linux 6 on Dell servers, streamlining server deployment processes by 20%.
+6.Shell Scripting Expertise:Demonstrated proficiency in shell scripting for running system jobs, automating routine tasks, and reducing manual effort by 30%.
+7.Documentation and Issue Tracking:Documented and tracked issues, logs, and audit files, ensuring comprehensive record-keeping and improving issue resolution time by 25%.
+8.Server Baseline Maintenance:Updated server baseline documents in line with server changes, ensuring accurate system documentation and compliance.
+9.Patch Management:Installed and implemented new patches on the Linux operating system, improving system security and stability by 20%.
+10.Apache Web Server Support:Installed, configured, and provided daily support for Apache Web servers, enhancing web service availability and reducing downtime by 15%.
+
+HP OO:
+1.Team Leadership:Led a team of 6 resources for a customer project, achieving a 10% improvement in project delivery timelines.
+2.Workflow Development:Developed an MS Exchange Mail Restore Workflow, reducing email restoration time by 20%.
+3.Process Optimization:Developed utility flows to maximize the productivity of internal processes, resulting in a 30% reduction in manual effort.
+4.Ops Flow Management:Created and modified ops flows with best practices, improving workflow efficiency by 25%.
+5.Custom Data Management:Installed a private database table to manage custom flow data, ensuring data integrity and availability.
+6.Troubleshooting and Root Cause Analysis:Troubleshot Central, Studio, RAS, Scheduler, and OO Database issues, performing root cause analysis and achieving a 20% reduction in issue resolution time.
+7.Custom Workflow Configuration:Configured HP OO workflows as per customer requirements, ensuring alignment with business needs and improving process efficiency.
+8.Custom Shell Scripting:Developed custom shell scripts to meet client requirements, enhancing workflow automation and reducing manual tasks by 30%.
+
+HP SA:
+1.HPSA Architecture Understanding:Demonstrated in-depth understanding of HPSA architecture and components, ensuring efficient system management.
+2.HPSA Installation and Administration:Installed, configured, upgraded, and administered HPSA clusters, achieving a 15% reduction in system downtime.
+3.Troubleshooting Expertise:Successfully troubleshooted HPSA issues, ensuring uninterrupted system operation and reducing service disruptions.
+4.Integration with ITSM Tools:Integrated HPSA with ITSM tools like Remedy and ServiceNow, enabling seamless data exchange and improving IT service management.
+5.Onboarding and Reporting:Managed HPSA onboarding, alerting, reporting, and dashboarding processes, enhancing system monitoring and reporting capabilities.
+6.Integration with IT Operations Tools:Integrated HPSA with other IT operations tools, facilitating cross-system orchestration and reducing manual intervention.
+
+Technology Consultant I
+Hewlett Packard Enterprise
+Aug 2015 - Nov 2016 (1 year 4 months)
+Bengaluru, Karnataka, India · On-site
+Automation and Systems Management:
+1.Server Provisioning and Patching Automation:Automated server provisioning, patching, and compliance across physical and virtual environments, reducing deployment time by 30% and ensuring 99% compliance.
+2.Architectural Expertise:Demonstrated an in-depth understanding of HP Server Automation (HP SA) architecture, enabling efficient system management and reducing troubleshooting time by 20%.
+3.Script Debugging:Proficiently debugged scripts, resolving issues and minimizing script execution errors by 25%.
+4.Automated Server Usage Tracking:Implemented automated server usage tracking with user notification emails, resulting in a 15% reduction in resource wastage.
+5.Configuration and Software Change Automation:Tracked, regulated, and automated configuration and software changes across distributed, multi-vendor networks, improving system stability by 20%.
+6.Workflow Design:Defined complex and manually intensive workflows, streamlining processes and reducing manual effort by 30%.
+7.Workflow Requirement Analysis:Understood automation workflow requirements for development, ensuring alignment with business needs and objectives.
+
+HP OO:
+8.Preparation and Verification:Conducted pre-requisite verification and preparation, ensuring successful workflow execution and reducing errors by 20%.
+9.HP OO Installation and Configuration:Installed and configured HP OO Central, RAS, and Studio, optimizing workflow management and reducing deployment time by 25%.
+10.Content Pack Management:Imported content packs, such as base, middleware, virtualization, and integration, improving workflow capabilities and reducing development time by 20%.
+
+Licenses & Certifications
+GoogleCloudComputingFoundations:CloudComputingFundamentals- Google Cloud SkillsBoost
+1725872
+
+Google Cloud Essentials - Google Cloud SkillsBoost
+1725851
+Contact this candidate

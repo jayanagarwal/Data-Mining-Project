@@ -1,0 +1,196 @@
+Gaurav Sharma ad38s1@r.postjobfree.com 1-984-***-****
+
+Professional Summary: A network professional with 15+ years of experience in several disciplines of network engineering including designing, configuring, troubleshooting, remediation and optimization of mid-to-large campus, enterprise and data center network architectures. Expertise with Cisco Nexus series switches (Nexus 9K, 7K, 5K, 2Ks) Alcatel-Lucent 7750s SAR, Cisco 6509s, 4500s (Older Gen and Legacy switches), Cisco 3550, 3560, 3560x etc. PA-3220s (Palo Alto’s Firewall), Cisco ASA 5500 series with IDS/IPS module, HP-12K switches, Cisco Firepower, FTD, Cisco ISRs and ASRs in the production environment. I gained strong experience in deploying and troubleshooting Fortinet, Nokia Check Point, Juniper NetScreen Firewall and SRX series (JUNOS). I became professional in different technologies of AWS, AZURE and Google Cloud Platform with networking and security compliance. Expertise in meeting security standards and in scheduled audits for PCI-DSS, SOC (HIPAA Equivalent), FEDRAMP and GDPR compliance.
+
+PROFESSIONAL EXPERIENCE
+
+MSC Tier-3 Engineer (Contractor) Jan 2023-Sept 2023
+E-PLUS INC.
+Remote
+
+Job Summary: Performed as Tier-3 engineer in the Network Core and Security team, on-call as a part of escalation management for the high priority (P-1 and P-2) cases. Worked directly with channel partners such as Cisco, Fortinet and Palo Alto as channel partners for TAC support cases opened for various customers dispersed in different time zones.
+
+•Helped and resolved escalated issues by Tier-2 related to network downtime, failover scenarios, asynchronous routing etc. on Cisco chassis running IOS-XR, NXOS and ACI modes.
+•Scheduled, coordinated and performed Change Management Windows and Procedures with end customers, customer relationship managers (E-Plus), ISPs, and data centers.
+•Worked as PPOC (Prime Point of Contact) for several E-Plus dedicated customers’ network related issues and procedures.
+•Worked on issues regarding performance related to Cisco’s Meraki products and on Cisco WLAN access points, controllers, ISE etc.
+•Deployed network configuration such as IPsec VPN, SSL VPN, standard, advanced and auxiliary policies such as URL filtering, antivirus and Intrusion prevention on Fortigate firewall and centralization on FortiManager.
+•Implemented different features such as Zone Protection, GRE tunnels, Policy based routing, site to site IPsec VPN and Global Protect on Palo Alto chassis.
+•Conducted policy administration and centralized administration on Panorama.
+•Worked on security issues such as policies’ violations, NAT/PAT rules, IPsec tunnels phase-1, phase-2 troubleshooting, packet tracing, and logging on ASA, Firepower (FXOS and FTD), PANOS, and FortiOS.
+•Wrote instructions for change management procedures for Cisco and Palo Alto platform customers (E-Plus EMS customers).
+
+Cloud Data and Network Operations Engineer (Expert) July 2018-Aug 2022
+Hewlett Packard Enterprise (HPE)
+Durham, NC
+
+Job Summary: Manage end-to-end service including logistics, assembly, configuration, testing, deployment and maintenance of customer’s storage in the AWS and AZURE environment. Successfully completed well-tested secure and reliable network service deliveries that spanned Data Centers in North America, EU and Asia-Pacific regions to cater several HPE’s high revenue storage customers.
+
+•Designed and configured network service delivery for HPE on-premises and cloud customers with redundancy and security controls to meet SOC (HIPAA equivalent), GDPR and FEDRAMP compliance.
+•Worked as an internal lead with external teams such as ISP, EQUINIX, GTT and PNAP (Phoenix NAP) Data Centers for provisioning of cores, circuits and Express Routes (AZURE) and Direct Connects (AWS).
+•Designed and applied a highly security centric network service delivery to meet the confidentiality, integrity, availability, authentication and non-repudiation of customer’s stored data.
+•Worked extensively as a part of the DR team (Disaster Recovery) to ensure continuity of critical operations and faster uptime of other services.
+•Performed as a network lead for configuring and troubleshooting during escalation and change management.
+•Worked with Infosight (HPE Predictive Analytics team) to assess the expansion needs of storage to HPE’s customers.
+•Worked with Cyber Security teams to ensure that the network group’s work stations are with firewall and host intrusion prevention systems per the corporate policy and guidelines.
+•Upgraded and configured redundancy between 2 Cisco 9Ks (9300s EX switches running NXOS-9.3) with features such as Rapid PVST+, port security, VPC, VRF, BGP, Layer-3 ACLs etc. Managed licenses and worked with Cisco TAC for any bugs or issues.
+•Upgraded and configured 2 Palo Alto 3220s with Global Protect VPN, IPSec VPN tunnels to AWS, security policies etc. Managed licenses and updated Palo Alto’s recommended IDS and IPS signatures.
+•Configured HPE DL360s, installing and upgrading to latest DEBIAN OS with encryption, as Proxy Firewalls.
+•Configured and upgraded new and in-production HPE AF40s, AF60s (HPE All-Flash Storage Arrays) and HPE CF40s and CF60s (HPE Hybrid-Flash Storage Arrays) with different proprietary operating systems and features as per customers’ requirements.
+•Designed and conducted network test plan and verification for each node during pre and post deployment.
+•Proficient in GitHub Desktop, GitHub CLI, ZENHUB for configuration management and version control. Managed Pull and Push requests as Administrator.
+•Monitored and addressed servers’ performance issues using NEW RELIC.
+•Monitored and configured GRAYLOG for Syslog and SNMP traps in addition to Cisco Syslog and AWS CLOUDWATCH for alarms and performance monitoring.
+•Deployed HashiCorp Vault for password and key rotations.
+• Defined and managed EC2 instances and assigned to the requested employees with the defined and custom IAM roles. Worked with Lambda.
+•Defined and managed VMs in AZURE and assigned to the requested employees with the defined and custom AD roles.
+•Deployed and managed virtual arrays in the lab infrastructure for the CDS (Cloud Data Services) team.
+•Wrote scripts in Python for Palo Alto and Cisco network checks.
+•Explored and did the Proof of Concept (POC) with cost benefit analysis for solutions marketed by external vendors such as “Park My Cloud”, Cisco IronPort, and Cisco Meraki MX 100 for the EC2 and VM remote management, application layer visibility and traffic management etc. respectively.
+•Led technical discussions with Senior Management, product and system engineering’s groups to assess the timeline, risks, dependencies and milestones for end to end network service delivery to the customers.
+
+Senior Network Design Engineer Mar 2016-May 2018
+GILBARCO VEEDER-ROOT
+Greensboro, NC
+
+Job Summary: Designed and delivered the lowest latency networks from the sites’ forecourt to the backroom with PCI-DSS security standards that allowed the faster deliverables, lesser risk of security violations and reduced external Field Vendors’ intervention. Member of key team for Pre-Sales and Post-Sales service support to internal teams- Marketing, Project Management and Systems Engineering.
+
+•Designed the site networks to enable and support the remote management via cloud services hosted off of the AWS platform.
+•Authored several network designs and troubleshooting guides describing the instructions for the field engineers to enable the network communication from the Forecourt through the Back room to the cloud.
+•Designed and deployed the Point of Sale networks with appropriate security measures and access control measures to meet the PCI security compliance.
+•Worked on different Cisco router and security platforms such as Integrated Service routers and Cisco ASA 5505, 5510, ASA 5520 for client tunnel set ups and access control and policy inspections.
+•Designed cost effective network solutions to meet the clients’ business and security requirements.
+•Coordinated meetings and collaboration between different groups such as System Engineering, Programs, Hardware Engineering, Marketing and Finance to facilitate business decisions.
+•Created Power Point presentations and Visio diagrams for marketing describing network and system architectures to client’s business and technical groups.
+
+Senior Network Engineer Jan 2014-Feb 2016
+OMNICOM CORPORATION
+Chicago, IL
+
+Job Summary: Expert in remediating the networks for optimization in Data Center in a half mesh and hub and spoke topology. Experience in Data Center Consolidation and Migration. Experience in Setup and Management of multi Context Based Firewall, VRFs, QOS on campus and DC routers, Experience in centralizing Wireless Controller to manage the Wireless Access-Points on campus sites.
+
+•Consolidated the network architecture of 20+ sites with three Data Centers for the integrated and simplified management.
+•Designed network routing, security and storage in the Data Center architecture that utilizes NetApp for SAN, Nexus 7Ks, Nexus 5Ks and 2Ks (Nexus 7009-7010s, 9 or 10 slots running NXOS 7.3.1, with M series and F series Line cards, Nexus 5548-5596 running NXOS 7.3.1, Nexus 2Ks Fabric Extenders) and Cisco cloud based web and email security solution.
+•Made changes to the VDC in Nexus 7K and Nexus 5K in the Data Center architecture.
+•Configured Cisco Wireless Access Points (WAP) and WLC (Wireless LAN Controller) for the centralized WIFI management.
+•Utilized a Defense in Depth approach to secure core, distribution and access layer for both the intranet infrastructure as well as customer networks.
+•Attended weekly meetings with the senior management to identify the cost effective solutions for an intelligent IT infrastructure.
+•Responsible for network remediation and optimization efforts.
+•Designed and implemented the Zscaler cloud based web security solution for the host based IP reporting and the monitoring.
+•Configured the Cisco ACS 5.2 for the network access control and Radius based authentication for network devices.
+•Configured the SOLARWINDS CATTOOLS for scheduling the periodic backups of the network configurations.
+•Configured Cisco ASA 5585 as multi-context firewall managing the rule sets for the different VRFs defined in the Cisco ASR and Cisco Nexus 7K.
+•Implemented advanced features such as route leaking between the VRFs in the MPLS GRE VPN WAN backhaul and route redistribution from the VRF to the global routing table.
+•Worked with Service Provider’s engineers in identifying the bottlenecks in the network.
+
+Network Security Engineer- Tier 2 Mar 2013-Jan 2014
+ATT CORPORATION
+Durham, NC
+
+Job Summary: Worked as a tier-2 escalation in SNOC (Security Network Operation Centre) to resolve troubled tickets for AT&T MSS group. Remained one of the Points of escalation for AT&T customers such as USDA (Obtained Public Trust Security Clearance to be able to manage and resolve trouble tickets), TSYS, and Waste Management. Gained experience on different Firewall Platforms such as Cisco ASA, Juniper NetScreen, Juniper SRX, Fortinet, and Nokia-Checkpoint.
+
+•Worked in AT&T MSS Security to manage the firewall policies for confidential customers of ATT.
+•Worked on Nokia Check Point, Cisco ASA with IDS and IPS licenses, Fortinet-Fortigate (network based Firewall), Juniper NetScreen and SRX to create, delete, and modify policies as per the customer requirements.
+•Configured the site to site IPSec Tunnel on different platforms: Cisco ASA and Nokia Check Point
+•Configured the Remote access VPN solution both IPSec and SSL Certificate using Cisco ASA chassis as the remote access VPN server.
+•Set up the network and port based access rules for the traffic flow between different trust zones.
+•Troubleshoot Tier-2 network security related issues
+
+Network Planning Engineer-2 Jan 2010-Feb 2013
+HARRIS CORPORATION
+Lynchburg, VA
+
+Job Summary: Configured and troubleshoot networks at DOD and Federal sites with Information Assurance and with DOD-8570 Network Security Specifications in Dual Hub-Spoke topology. Awarded “Harris Excellence Reward” for being a lone engineer for 6 months to deploy and test network planning, deployment and verification.
+
+•Configured HARRIS RF networks for customers such as the State of Vermont, Mexico Army, Hill Air Force Base, Franklin County and Wilkes County of North Carolina, Dayton Power and Light, etc.
+•Troubleshoot during staging and in-production networks for any arising network issues
+•Configured profound and secure network architecture with access-lists, firewall intrusion prevention features, QOS using class based weighted queuing, WRED etc.
+•Configured Cisco 3925, 2811, 2851, 2911, 2921, 1921 routers with T1/E1 and Ethernet service modules
+•Configured Cisco switches such as 2960-24/48 ports, 3550, 3560 v2, 3560x with features such as VACLs, port security, dot1x authentication, etc.
+•Configured features such as Zone Based Firewall, and extended access-list to achieving network hardening and features such Active-Standby firewall to achieve high availability.
+•Incorporated Sourcefire IDS solution with signatures to meet the information assurance requirement of the customer’s network.
+•Participated in designing Network Architecture for different customers with the senior managers and in discussions with Systems Engineering and Proposal teams to meet the contractual requirements.
+•Configured different Layer 2 WAN backhauls such as Layer 2 MPLS (VPLS) and Layer 3 MPLS (VPRN) on the Alcatel-Lucent 7705 SAR and 7750 SAR Architecture, Ethernet and T1 based Microwave systems and dedicated Hub to Spokes fiber connectivity.
+•Configured ASA 5510 and ASA5512x as Remote Access VPN Server, Authentication Server and set up inspection policies to prevent DOS by inside network, out of band management for networks.
+•Configured network testing equipment such as Spirent Test Center, Accedian Network Metro NID, Anritsu N274 to perform RFC 2544 and Y.1564 tests to validate the reliability of the network at core, distribution and access layer.
+•Configured upon after testing new features in Cisco services and solutions in lab to include in future system releases.
+
+Network Services and Support Engineer Mar 2009-Dec 2009
+ATT CORPORATION
+Durham, NC
+Job Summary: Assisted field agents to verify circuit connectivity (Layer1 testing) to the demarcation point. Tested VLAN ACLs (Layer-2 testing) and Extended ACLs (Layer 3 testing) on scheduled ATT test dates.
+
+•Performed physical layer troubleshooting on T1, T3, & E1 circuits for various ATT domestic and international clients
+•Worked on AOTS (A One Ticketing System-SMARTS) and resolved several complaint tickets by customers and SNMP monitoring tool
+•Configured and modified layer 2 and layer 3 parameters to accommodate any requirements by the customers’ networks as well as customers’ issues
+•Coordinated with Client Escalation and Service managers to resolve issues for customers such as USPS, Pfizer, County of Los Angeles, Cardinal Health Care, Best Buy, Eaton Corporation, etc.
+•Tier 2 support for ATT MRS (Managed Router Services) & EVPN (MPLS) customers.
+•Analyzed and modified IGP like EIGRP, OSPF, RIPv2 on the customer LAN and modified BGP changes in the configuration
+•Tier 2 voice support for ATT various flavors of VOIP such as ATT IP FLEX, BVOIP, Business in a Box, VDNA, and Voice over MIS
+•Gained good understanding of VOIP networks for small and mid-scale ATT customers
+
+Network Field Engineer Nov 2008-Mar 2009
+PRO NETWORKERS LLC
+Denton, MD.
+Job Summary: Set up SOHO networks at customers’ locations for a private contractor.
+
+•Assisted small scale clients in setting up their SOHO network from Layer7 to Layer 3.
+•Set up Wireless LAN on campus site and at branch locations.
+•Configured, maintained, and troubleshoot layer 2 and layer 3 network issues.
+•Performed Hardware and Software upgrades for the client.
+•Set up VPN connection remote set up and LAN2LAN.
+
+Network Consulting Engineer, Advanced Services May 2006-Oct 2008
+CISCO SYSTEMS
+RTP, NC
+Job Summary: Performed job responsibilities of a Technical Trusted Advisor
+To dedicated Cisco’s enterprise customers. Worked in Cisco TAC (LAN Switching),
+Cisco Interoperability lab, Cisco CALO lab and did POC work for customer presentations.
+
+•Participated in the thorough study of network designs to follow with the PPDIOO model (prepare-plan-design-implement-operate-optimize)
+•Configured, installed and maintained network communication equipment including Routers, PIX Firewall, Bridges, Hubs, Switches, Modem, VPN (Remote user and LAN2LAN), and internet Filtering devices, Wireless Access Points, VOIP Phones, ISDN, T1 and DS3 Connection
+•Worked on several different cases in the CALO lab of RTP involving hardware and Cisco Internetworking Operating Systems (Cisco IOS) testing on different platforms
+•Created test cases and scenarios to match against the requirements by customers like Wal-Mart, Home Depot, Bank of America, Citi Bank, etc.
+•Acquired CCNA and CCNP Cisco networking certifications that allowed building and developing better testing strategies to model their needs
+•Involved in cross-functional teams and assisted several groups in CISCO CALO & CISCO TAC in meeting crucial deadlines
+•Conducted functional testing for several multilayer switches and routers
+•Hands on knowledge of Routing Protocols like RIP, RIPv2, EIGRP, OSPF on enterprise level and working knowledge of BGP on service provider’s network
+•Troubleshoot ATM and Frame Relay networks while working as Routing team member.
+•Performed several technical presentations as Network Consulting Engineer to the customers regarding the reliability of the design and equipment via discussing outcomes of the testing effort conducted on Cisco as well as customer sites
+•Successful member of Advanced Services LAN Switching and Routing team
+•Configured Policy based Routing on Low end and high end routers to implement successful campus network architecture
+•A good working knowledge of Cisco Security Device Manager and Protocols
+•Set up QOS policies to identify bottlenecks and differentiate network traffic
+•Configured a loop free network at Access layer utilizing Rapid STP, Multiple Spanning tree, Per VLAN spanning tree etc.
+•Configured, troubleshoot and implemented LAN, VLAN and Inter–VLAN on layer 2 and layer 3 switches
+•Worked on an Enterprise based Network and have working knowledge of service provider’s network architecture
+•Designed small network topologies and conducted the testing in Cisco’s Interoperability lab
+
+Cost Improvement Tools Developer April 2004-April 2006
+Nortel Networks
+RTP, NC
+Job Summary: Automated installation manuals and wrote features in SAT
+(Site Automation Tool)’s consecutive releases using VB script and thereby reducing field deployment’s hours and facilitating company’s operations.
+
+•Developed Cost Improvement Tools in VB script, producing cost efficient solutions for the company.
+•Automated features for SAT platform and deployment of Nortel’s legacy products such as CBM, IEMS, MG15K, ERS8600, DMS etc.
+•Formulated strategies for improving tools based on business cases and business requirements.
+•Participated in scheduled meetings with manager and team to discuss progress reports, builds as well as release status.
+•Assisted on daily basis to on-site technicians in the deployment of equipment and software on customers’ sites.
+•Took initiatives to add Nortel’s strategic enhancements on customers’ sites.
+
+EDUCATION
+M.S, Information Systems Security and Management,
+Northwestern University, Chicago, IL,
+Anticipated Graduation Date: December 2024
+
+B.S., Electrical Engineering
+North Carolina State University, Raleigh, NC,
+Graduation Date: December 2005
+
+Work Authorization
+US Citizen
+
+Willing To Relocate:
+Yes
+Contact this candidate

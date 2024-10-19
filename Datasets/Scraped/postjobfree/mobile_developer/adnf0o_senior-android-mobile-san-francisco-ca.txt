@@ -1,0 +1,273 @@
+Almondo Conner
+SENIOR ANDROID MOBILE APP DEVELOPER
+415-***-**** / adnf0o@r.postjobfree.com
+
+SUMMARY
+
+-9+ years of Android mobile app development experience.
+-7 Android apps published to Google Play Store.
+-Experience programming in Java and Kotlin Programming languages.
+-Experience using Git or other version control systems such as BitBucket, GitLab and GitHub.
+-Experience writing unit tests, Android implementation tests, automated unit testing, UI automation and test-driven development.
+-Experience applying Agile methodologies and tools and understanding of the Scrum Development methodology.
+-Hands-on experience using the Android jetpack components such as liveData, viewModel, Room DB, Work Manager.
+-Experience using cloud integration tools (e.g., Firebase, Google Cloud Services, Amazon Web Services).
+-Exposure to mobile middleware and integration with different web services and message exchanges (e.g., SOAP, REST, XML, JSON)
+-Experience with all most advance and high-quality designs for (multi-threading, integration with REST APIs, view animations, custom transitions).
+-Knowledge of Architectural design patterns: MVVM, MVP, Clean Code, MVI, MVC.
+-Experience implementing Android multithreading using Coroutines, Work Manager, RxJava.
+-Knowledge and experience using payment gateways/systems such as Google Pay, Samsung Pay, Paypal SDK and Stripe SDK.
+-Familiar with OOP design patterns such as Adapter, Builder, Singleton, Observer, MVC, MVP, MVVM, etc.
+-Understanding of Android Auto, Android TV, BLE and Google Home API with third-party analytics services.
+-Knowledge of Google application guidelines and compliance requirements and implementation of Android ADA compliance such as Talkback.
+-Expert implementation of Android Material Design Guidelines and proper creation of Themes and Styles.
+-Lead expert driven SDLC from all round up, experienced with Business Analysis documents and created technical documents from Business requirements.
+-Self-motivated, team-oriented, responsible, and reliable with a positive attitude and strong communication skills.
+-Results-oriented, product-focused, and at ease in an environment requiring the ability to quickly prioritize conflicting demands.
+-Experienced team lead, mentoring Android developers, working with cross-functional teams, and off-site Android team members, and off-site cross-functional teams.
+-Pro-active fast learner, self-motivated, proficient in programming logic and easily adaptable to new technologies.
+
+SKILLS
+
+Programming Languages
+Kotlin, Java PHP, XML, C, C++, VB .NET, SQL, Android, Python
+Front End Technologies
+JavaScript, JQuery, JQuery UI, HTML4, HTML5, CSS3
+Continuous Integration
+Jenkins, Travis, Hudson
+Database
+SQL Server, MySQL, SQLite, Room DB
+Project Tools
+JIRA, Confluence, Slack, Trello
+Web Services
+RESTful APIs, JSON, GSON, SOAP, XML, Moshi, GraphQL
+Dependency Injection
+Dagger, Hilt, Koin, Inversion of Control
+Frameworks
+Java Development Kit (JDK), Android SDK, BLE
+Versioning
+Git, GitHub, GitLab, BitBucket
+Methodologies
+TDD, Pair Programming, Agile, Scrum
+Android Skills
+REST, Glide, Firebase Push Notifications, Handlers, Loopers, Loaders, Dagger, Material Design, Airship, Retrofit, Push Notifications, Content Resolvers, Content Providers, Bluetooth Low Energy, RxJava, GPS, Volley, Multi-Window, Cipher, Services, Google Cloud Messaging, MVP, Espresso, Eclipse, Location Services, Android Studio, NFC, Certificate Pinning, Dependency Injection, JobScheduler, Volley, Junit, Mockito, MockK, Espresso, Bitbucket, GitHub, Kotlin Flow, Coroutines, Bound Services, Foreground Service, Hilt, Apollo
+
+WORK HISTORY
+
+SENIOR ANDROID DEVELOPER
+Wells Fargo, San Francisco, CA
+November 2021 to Current
+
+https://play.google.com/store/apps/details?id=com.wf.wellsfargomobile&hl=en_CA&gl=US
+
+Use the Wells Fargo app to manage your accounts, quickly access your cash, credit, and investment accounts with Fingerprint Sign On or Biometric Sign on, review activity and balances in your accounts, view your credit card transactions and manage your rewards program, and more.
+
+-Implemented the “Trade Securities” feature in the app, allow customers to buy and sell stocks.
+-Worked in an agile environment following the daily standups the 2 weeks sprint.
+-Implemented Firebase push notifications in the app to allow user to view all traffic related to their accounts.
+-Collaborated with the product team to identify, prioritize, and document detailed product requirements.
+-I ran meeting with product managers and stakeholder to demonstrate the features implemented during the sprint.
+-Implemented and refactored the application to match the Android google and security standards by using the MVVM + clean architecture.
+-Created the feature landing page in the app by integrating our Restful services using Retrofit, Coroutines, Gson, Okhttp, etc.
+-Developed the whole new navigation graph for the new features and the existing once using the navigation component from the Android jetpack.
+-Helped on the integration of an analytics SDK to log any event in the app to Splunk to help when debugging the application.
+-Utilized different Android Jetpack components such as Livedata, ViewModel, Work manager, Dagger, Hilt, Navigation, ViewBinding, Data Binding.
+-Designed a full schema of the application flow using Figma and Invision
+-Used Git for version control and followed Git Flow to keep track on deliverables and code releases.
+-Ensured quality code by integrating the Sonarqube and maintain a standard or the test code coverage.
+-Maintained CI/CD pipeline through generation of Jenkins builds and logs.
+-Performed migration from Java to Kotlin in the legacy code.
+-Implemented custom views to match the business requirements and give the customer a better experience.
+-Worked with ADA team to maintain synchronicity between operating systems.
+-Created and applied different themes, styles to the UI programmatically.
+-Implemented a custom adapter pattern to handle the different data displayed to the user.
+-Refactored some of the LiveData transformations in thee view model to have a better performance of the memory.
+-Performed code reviews, approved, and merged code on GitHub.
+-Developed the landing page using fragments and custom views as well as animation for the securities trade feature.
+-Developed the landing page for Messages and Alerts Native screen where user can check the activity of their accounts.
+-Ran meetings to define the accessibility guidelines to be used in the feature development.
+-Created a mock test module build that helps on the testing and integration part to maintain sprint velocity independent of backend.
+-Maintained a mock web server with JSON files to mock the account information in mock environment of the app.
+-Worked with testing libraries and frameworks JUnit, Espresso, Mockito, and Robolectric.
+-Made use of Browser Stack evaluation debugging feature in Android Studio.
+
+SENIOR ANDROID DEVELOPER
+Edward Jones, St. Louis, Missouri
+May 2019 to November 2021
+
+https://play.google.com/store/apps/details?id=app.edwardjones.mobile&hl=en_CA&gl=US
+
+You're more likely to reach any goal when you track your progress toward it. The Edward Jones Online Access app puts your financial information at your fingertips, so you'll always know where you stand on your journey toward reaching your goals.
+
+-Familiarity with agile/iterative development methodologies (Agile, SCRUM, etc.).
+-Developed the Android app using Android SDK, coding in both Java and Kotlin using Android Studio.
+-Implemented back-end retrieval using RxJava and Retrofit.
+-Implemented Android development in MVVM architecture with for scalability and modularity and worked with specific design patterns, such as decorator, composite, module, singleton.
+-Task tracking (Agile methodologies from work induction > triage > completion > peer review (pull requests) and QA submissions).
+-Refactoring several Kotlin codes written in classic Java style to much simpler Lambda expressions, generating lighter APK.
+-Implemented several libraries for Kotlin effort such as RxKotlin, Kotlin-kapt, and Android KTX.
+-UX/UI development, effectively turning requirements into working applications with desired UI.
+-UX/UI design, finding ways of turning complex UI ideas into a working reality.
+-Error handling error prone code to ensure app does not break when an error occurs.
+-Software development, turning ideas into code with Java and Kotlin, effectively using each language to its advantage.
+-Performed code reviews, approved and merged code on GitHub.
+-Used JIRA to estimate and assign stories, triage bugs, identify issues with our development and review process and provide solutions.
+-Used Retrofit and RxJava to consume RESTful web services and handle multithreading on background for smooth performance.
+-Created automated UI integration tests for application features using Espresso and UIAutomator.
+-Ensured code quality writing Unit Tests using JUnit, Mockito and PowerMock frameworks.
+-Actively worked with the back-end team to improve the RESTful API to include new features for the Android app.
+-Ensured that UI/UX teams followed Material Design best practices and guidelines.
+-Implemented Material Design features of RecyclerView, ActionBar, CardView for Android app user interface.
+-Handled network data calls from JSON responses with Retrofit.
+
+SENIOR ANDROID DEVELOPER
+Olive Garden, Orlando, FL
+May 2018 – May 2019
+
+https://play.google.com/store/apps/details?id=com.darden.mobile.olivegarden
+
+The Olive Garden app conveniently brings your favorites to your fingertips. Find real-time directions to your nearest Olive Garden, browse the menu, place and save ToGo orders, save your spot on the Wait List and more, all within a few taps.
+
+-Worked on existing codebase in MVVM architecture with data-binding implementation.
+-Implemented newer features in Kotlin and migrated older features coded in Java to Kotlin.
+-Conducted Kotlin training sessions.
+-Used Android Studio IDE and Android SDK to write application logic.
+-Utilized LeakCanary to detect and remove all memory leaks.
+-Fixed issues for security scans such as SSL, encryption, loopholes and profiled the application using the APK analyzer.
+-Worked on payment module to Create a Payment and Process the Order using OAuth2 tokens, the Client Metadata ID, and PayPal's API.
+-Communicated with RESTful web services to obtain information using Retrofit, OkHTTP and Jackson.
+-Created multiple scripts in the Gradle file for test automation, reporting, signing and deployment.
+-Worked with testing libraries and frameworks JUnit, Espresso, Mockito, and Robolectric.
+-Worked with Jenkins CI server for continuous integration and followed Test-Driven Development (TDD) methods.
+-Persisted non-sensitive data with Realm database and ensured that the database was using encryption algorithms when persisting user information.
+-Documented project work in Confluence.
+-Utilized Dagger 2 and Hilt for dependency injection.
+-Added Push Notifications through Backend support with Push Notifications and GCM.
+-Applied Git for code versioning control.
+
+ANDROID MOBILE DEVELOPER
+UPS, Atlanta, GA
+August 2017 – May 2018
+
+https://play.google.com/store/apps/details?id=com.ups.mobile.android
+
+You’re busy, so let UPS help you easily manage shipments, track packages, find UPS locations, and much more with the UPS Mobile app. Download the UPS Mobile app to:
+
+-Worked in Android Studio and implemented updates to the Android app to improve responsiveness and better manage the large app size and various modules and functional areas.
+-Coded in Java and converted Java arrays to Kotlin.
+-Developed new features in Kotlin to reduce codebase by using data classes and extension functions.
+-Transitioned the Android code base from MVP to MVVM to better manage the Android app and make future enhancements and maintenance easier.
+-Created proper documentation in refactored functions classes and properties with new Kotlin language implementation.
+-Responsible for the design of multiple layouts in different physical devices and other form factors.
+-Generated a custom behavior in multiple screens included in the CoordinatorLayout to hide the Toolbar and the Floating Action Button on the user scroll.
+-Used JSON in RESTful services to extend the application response capabilities
+-Ability to independently set tasks and complete work for yourself and your team with limited direction.
+-Worked with SQLite to cache structured data from the cloud, improving overall app performance.
+-Designated programming tasks to the team members, making sure that all developers were familiar with the main modules.
+-Used the Fused location API, Maps View, and Google Maps.
+-Experience taking projects from concept to launch.
+-UI/UX design and wireframing with multiple tools including Balsamiq Mockups.
+-Monitored and participated in workflow tracking with HP Quality Center.
+-Used of Cryptography classes to increase the data security
+-Setup jaCoCo to check my code coverage of new code.
+-Used APIs from different API levels to support backward compatibility.
+-Supported multiple screen resolutions to provide resizing across multiple devices.
+-Developed enhancements and improvements to the current Application.
+-Trained and mentored new members of the team in coding best practices.
+-Introduced Fragments for the first time to this app based on the new navigation specification.
+-Integrated Localytics for app statistics and mobile analytics.
+-Thrive working in a fast paced, agile environment constantly learning.
+-Supported multiple languages in the production build using the capabilities with string resources qualifiers and using Android Studio’s Translation Editor.
+-Utilized the Universal Image Loader library for image downloading
+
+SENIOR ANDROID DEVELOPER
+Trulia, San Francisco, CA
+May 2016 – August 2017
+
+https://play.google.com/store/apps/details?id=com.trulia.android
+
+When searching for a new home, the more you know about the home and neighborhood, the more you know it’s right. Trulia helps you discover the perfect home AND neighborhood for your lifestyle to buy or rent. Get a genuine feel of what it’s like to live there before you buy with 33 neighborhood map overlays like schools, 30M+ neighborhood reviews from locals, and virtual neighborhood tours. Browse 1M+ real-time MLS listings with Trulia’s robust search filters, easily plan open houses, and customize instant alerts to stay ahead of the real estate market.
+
+-Worked on major revision to the app including transitioning architecture and design patterns, and applying a new UI/UX design with interactive functionality.
+-Implemented different Java classes to run on services to support the back work of the application.
+-Worked in Eclipse and transitioned to Android Studio following MVP design pattern and incorporating a basis in RxJava.
+-Collaborated with the product team to identify, prioritize, and document detailed product requirements.
+-Designed prototypes to create the new main flow of the application with Mockito.
+-Lead the committee to establish long-term goals and strategies for the technical direction of the app.
+-Utilized Shared Preferences to ensure data consistency.
+-Lead a comity to investigate and recommend on future implementation of Android Wear and Android TV.
+-Utilized Git version control tool as source control management system
+-Communicated with RESTful web services to obtain insurance companies information using Retrofit, OkHTTP, and Jackson.
+-Have participated in innovation, design, and architecture of the apps.
+-Worked with Android notifications (Status Bar Notifications).
+-Built and delivered a highly scalable and maintainable application.
+-Cultivate an environment of excellence, through code design, code reviews.
+-Ensure software created and released conforms to quality requirements by accurately writing and executing test plans.
+-Mentored two junior developers on the software development process.
+-Created several compound views to match the UI provided by the UI team.
+-Created custom and compound views to preserve the general look and feel specified by the client.
+-Experience working a significant consumer app that is currently available in the marketplace.
+-Integrated Flurry for mobile analytics.
+-Worked in accord with the visual standards team to make certain the mobile application complies with system UI/UX standards.
+-Used Jackson library for parsing JSON files coming from web services.
+-Used Retrofit to handle the API consumption with a Jackson built-in converter.
+-Worked with Universal Image Loader library for image rendering in ListViews.
+-Implemented messaging with Push Notifications and GCM.
+-Participated in planning meetings for the app and the overall system
+
+ANDROID DEVELOPER
+FarePortal in New York, NY
+January 2015 – April 2016
+
+https://play.google.com/store/apps/details?id=com.fp.cheapoair&hl=en&gl=US
+
+CheapOair lets you know when to buy cheap flights. Simply keep an eye on a flight and get a notification when the price drops! CheapOair is like having your own super-fast, all-knowing travel agent that analyzes flights daily from over 600 airlines, and lets you know the best time to book on the go.
+
+-Contributed to full software development (SDLC) from product definition through design, development, test, release, and maintenance.
+-Used Android Studio IDE and Android SDK to write application logic.
+-Wrote maintainable and reusable Java and Objective C code with a focus on security and privacy.
+-Implemented Java CIFS Client Library (JCIFS) to implement CIFS/SMB networking protocol.
+-Implemented Dagger to work with a Dependency Injection environment to help with the unit testing.
+-Developed UI interfaces using XML
+-Android development team worked in Android Studio, using various Android tools such as jUnit to compose Unit Tests.
+-Used Parcelable to serialize Java objects from Activity to Activity.
+-Used UI jQuery libraries to improve maintainability.
+-Used AsyncTasks hosted in Fragments to handle the network information lookup.
+-Implemented the multithreading communication using the built-in Android frameworks like AsyncTasks and Handlers.
+-Coordinate with Business Users, Project and Product Managers from multiple Lines of Business (Air, Car, Hotels, Dynamic Packages) to develop technology solutions for the mobile applications.
+-Coordinate with UI designers in creating wireframes, mockups and design layouts and workflows
+-Coordinate with offshore mobile technology lead throughout the SDLC process from technical design specs, development, unit testing, bug fix, performance testing and Integration testing.
+-Perform code review and code coverage for high performance.
+-Used Git for version control and followed Git Flow to keep track on deliverables and code releases.
+-Made app multithreaded using Async Task and Thread Pool.
+
+ANDROID APPLICATION ENGINEER
+FXCM, Inc., New York, NY
+January 2013 – December 2014
+
+https://play.google.com/store/apps/details?id=air.com.fxcm.TSmobilePhone&hl=en_US
+
+Worked on Forex Trading application in Android which allows users to manage their trading account, research market and stocks and to buy and sell stocks using the Android mobile device.
+
+-Worked on an Agile scrum software development team comprised of 2 Android developer, a front-end designer and 2 back-end developers.
+-Worked with project manager and stakeholders to gather requirements and on sprint planning and sprint backlog.
+-Used Eclipse as the primary IDE since it includes all the tools needed to develop, test and deploy the Android application.
+-Used Espresso & Mockito for testing the UI & App functionalities.
+-Used Espresso for instrumentation testing using View Matchers, Matchers and Actions.
+-Used Intents & Intent Filters to initiate activities and pass information between Activities and Fragments.
+-Used GitHub private repositories with standard Workflows as a Version Control Software.
+-Used the JIRA bug tracking tool for quality control.
+-Used the SQLiteOpenHelper to connect with the local database and perform CRUD operations.
+-Used the Support Libraries from different API levels for backward compatibility.
+-Used the View Pager Indicator to provide feedback to the user about the background processing status.
+-Used Volley and GSON to retrieve information from an internally programmed API and make the conversion between the JSON and POJOs.
+-Worked with Android notifications to send the reminders to the user interface.
+-Worked with Content Providers to connect with and consume Android Contacts.
+-Worked with Dagger 1 for dependency injection to develop clean, maintainable code.
+-Worked with GSON and Jackson library to parse JSON files on the Android project.
+-Worked with JUnit to complete all test cases.
+
+EDUCATION
+
+Bachelor’s in Arts and General Studies with Minors in English and Computer Science from Western Illinois University.
+Contact this candidate

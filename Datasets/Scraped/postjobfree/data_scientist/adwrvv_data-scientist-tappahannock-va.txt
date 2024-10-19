@@ -1,0 +1,207 @@
+Tristan Dale Blackwell
+Data Scientist
+Phone: 220-***-****
+Email: adwrvv@r.postjobfree.com
+
+Summary.
+•Data Scientist with 8+ years of experience in applying Machine Learning, Deep Learning, Statistical Modeling, Data Mining, Data Visualization, Predictive Analysis, Decision Science, and Data/Business Analytics to solve complex business problems.
+•In-depth knowledge of statistical procedures that are applied in supervised and unsupervised problems.
+•Expert in handling the entire data science project life cycle and actively involved in all the software life cycle phases, including SDLC, Agile, and Scrum methodologies.
+•Proficiency in various types of optimizations, Market Mix modeling, Segmentation, Time Series, etc.
+•Skilled in transforming business concepts and needs into mathematical models, designing algorithms, and building and deploying custom business intelligence software solutions, successfully built models with deep learning frameworks such as TensorFlow, PyTorch, and Keras.
+•Building key performance indices (KPIs) to empower operational efficiency.
+•Performing exploratory data analysis, defining metrics, and building graphs for visualization.
+•Good understanding of the application of statistical learning methods including regression analysis, forecasting, decision trees, random forest, classification, cluster analysis, support vector machines, and naive Bayes techniques.
+•Experience in mining textual data by transforming words and phrases from unstructured data into numerical values.
+•Adept in statistical programming languages like R and Python
+•Excellent in understanding new subject matter domains and designing and implementing effective novel solutions to be used by other experts.
+•Automate the building and management of predictive models.
+•Skilled in Advanced Regression Modeling, Correlation, Multivariate Analysis, Model Building, Business Intelligence tools, and application of Statistical Concepts.
+•Expertise in quantitative analysis, data mining, and the presentation of data.
+•Experience in Cloud Computing Amazon Web Services (AWS) Sage maker, S3, Redshift, ECS, EKR
+•Strong interpersonal & analytical skills, with abilities to multitask & adapt, handling risks under high-pressure environments, creative problem solver, able to think logically and pay close attention to detail.
+
+Skills Summary
+
+•Programming Languages: Python, R, SQL, Scala, Java, MATLAB, Spark Scala, Unix, VBA, SAS, SPSS
+•Libraries: NumPy, SciPy, Pandas, Theano, Caffe, SciKit-learn Matplotlib, Seaborn, TensorFlow, Keras, NLTK, PyTorch Gensim, Urllib, Beautiful Soup, MxNet
+•Development Tools: GitHub, Git, SVN, Mercurial, IPython/Jupyter Notebook, Eclipse, PyCharm, JIRA, TFS, Trello, Linux, Unix
+•Database: Query and Manipulation of data from various systems (Hadoop HDFS, MapReduce, MS Azure Cloud, both SQL and NoSQL, data warehouse, data lake, HDFS, HiveQL, AWS (EC2, S3, RDS, Lambda, RedShift, Kinesis, EMR)
+•RDBMS: SQL, MySQL, PL/SQL, T-SQL, PostgreSQL, SQLite, Apache HiveQL, Amazon Redshift
+•Analysis Software: R, Pandas, Tableau, PowerBI, seaborn
+•NoSQL: Cassandra, MongoDB, MariaDB, BigTable
+•Soft Skills: Organization, Logistical Planning, Leadership, written and verbal communication skills, reporting, presentation, and data visualization.
+•Analytics Areas: forecasting, optimization, Deep learning, representation learning, recommender systems, machine learning, business intelligence, digital marketing analysis, strategic planning, classification, pattern recognition, recommendation systems, and ranking systems.
+•Analytical Methods: Classification, Regression, Prediction, Dimensionality Reduction, Data Modeling, Forecasting Models, ARIMA, Predictive Analytics, Sentiment Analysis, Exploratory Analysis, Stochastic Optimization, Simulation
+•Machine Learning: Natural Language Processing, Deep Learning, Neural Networks, Multi-Layer Perception, Artificial Intelligence, Text Understanding, Computer Vision.
+•Cloud Computing: AWS ECS, EKR, QuickSight, Sagemaker, S3, Redshift
+
+Professional Experience
+
+Data Scientist June 2022 – Current
+Blackhawk Network Belpre, Ohio
+
+The purpose of the project was to work on and research a fraud detection model to replace the currently in-use system that makes use of a third party for all in-house fraud detection related to the giftcards.com website.
+
+Technologies Used: SQL, Python, TensorFlow, Kera’s, XG Boost, sci-kit learn, D Beaver, Docker, ML Flow, Random Forest, Redshift, Amazon AWS, S3, Regression Models, Classification Models, Neural Networks, NumPy, Pandas, matplotlib, plotly, seaborn, stats models, time series, ARIMA, SARIMA.
+
+•Used TensorFlow to build custom models on millions of rows of historical data.
+•Engineered over 200 features from scratch utilizing both python and SQL.
+•Used XG boost for experimentation and feature viability testing.
+•Built stacked ensemble model of regressors and random forest meta regressor.
+•Utilized ML Flow to track model experimentations history.
+•Utilized sklearn for a variety of tasks from model testing to validation.
+•Achieved fraud detection F1 score of over 90% across the high-risk dataset.
+•Saved over $1.6 million through accurate fraud detections with a keras-based neural network.
+•Developed python scripts placed into a production environment and shadow tested for weeks.
+•performed complex plot analysis using seaborn and plotly to identify the business impact of manual review processes.
+•Analyzed complex decisioning framework using SQL and determined the viability of model implementation in advanced decisioning framework.
+•Used Docker to run and experiment with a complex risk-decision framework.
+•Performed in-depth analyses using SQL through DBeaver.
+•Performed Time Series analysis on Historical sales data to predict holiday sales for giftcards.com direct-to-consumer business.
+
+Data Scientist Sep 2020 – June 2022
+Anthem Blue Cross Blue Shield Indianapolis, IN
+
+The goal of the project was to spearhead the development of a variety of data science solutions to increase Anthem’s Medicare STARS ratings. To this end, I worked on a variety of different business intelligence solutions for the business to make informed decisions. Projects included:
+
+•5 contract-level models to predict where star ratings would fall for individual measures at the end of the year. Involved in tight modeling and testing to achieve stellar error rates of less than 2% of overall available contracts in most cases.
+•Numerous Member Level PTC models consisting of millions of rows of data and thousands of potential features designed to predict whether or not a member was compliant with the measure of interest
+•Model Bias Evaluation Bias detection suite to thoroughly examine Member-level PTC models for potential biases.
+•Driver Analysis solution that involved building a complex suite of driver analysis outputs by deconstruction SHAP output at an individual data point level to provide complex insights into the inner workings of our member-level PTC model for the business to view in a curated Tableau output.
+•Next Best Action Model KNN-based recommender system designed to recommend measure specific programs to individual Anthem members to help them increase their compliance with their corresponding star rating. The NBA model saw up to an 11% increase in compliance for some measures over the previous business logic being used.
+•Annual Wellness Visit Pilot Program to remind Anthem members to get their annual wellness visit done. Over the 3-month timespan, the company realized an improvement of 3% over the same 3-month timespan.
+•used Aws sagemaker to build member-level compliance models
+
+Hands-on technical work:
+
+•Built contact-level Star Ratings models using HIVE queries and deconstructing a complex in-house.
+•Built a Python script using a variety of statistical techniques like Harmonic Mean P-Values, Calibration Plots, Proportions Test, Expected Calibration Error (ECE), RCA Plots, and Target Distribution Analysis to identify potential points of bias for a variety of variables of interest in support of Member Level PTC Models.
+•Utilized Apache HIVE to query massive datasets (millions over rows, tens of thousands of columns).
+•Programmed IMPALA queries for numerous ad-hoc business requests.
+•Utilized PySpark to convert large datasets into more manageable forms.
+•Developed a KNN-based approach to a program recommendation problem.
+•Adapted a suite of business rules and requests to fulfill the needs of program teams utilizing extensive Python code.
+•Developed Deep Learning models using Keras / Tensorflow to predict compliance with Anthem membership.
+•Configured XGBoost Classifier to classify members participating in programs.
+•Implemented a Random Forest model to identify top features out of massive datasets for optimal model building.
+•Utilized Apache Beeline to create tables for model builds.
+•Used Jupyter Notebooks as a testing ground for many POCs.
+•Worked on project solutions from conceptualization to development/deployment.
+•Developed complex driver analysis framework utilizing SHAP Values at a data point level.
+•Developed numerous member-level models encompassing millions of rows of data to predict compliance.
+•Developed several contract-level models with sub-thirty rows of data and fantastic accuracy.
+•Applied Sklearn models and custom models for the prediction of compliance at a contract level.
+•Stacked ensemble models for contract-level compliance predictions.
+•Developed complex Model Bias evaluation suite to suit business needs.
+•Conceptualized and designed a successful new measure text-based pilot program.
+•Designed and built NLP analysis of Text data for the Annual Wellness Visit text-based pilot program.
+•Applied LSTM and Word2Vec to predict member response to bot text and agent text.
+•Engaged in monthly retraining and refitting of contract models to combat concept drift.
+•Developed Python scripts with customizable configurations.
+•Worked with Data Engineers to operationalize many different kinds of machine-learning models.
+•Presented many models and outputs to various business teams throughout the company.
+•Worked on a small team, with many different projects ongoing at once.
+
+Data Scientist – Machine Learning Aug 2019 – Sep 2020
+IBM Armonk, NY
+
+IBM is a major multinational tech company. There I worked with messy, unstructured log data to develop a critical log detection/resolution system. The goal was to build a system that will detect anomalies in IBM Watson logs and identify the corresponding resolution, reducing the manpower required to maintain these systems. Backend development was in Python, with models built using Sci-Kit Learn and Genism. The end solution was integrated into existing systems by deploying a Flask REST API.
+•Development is done using Python 3.7 and packages like SKLearn, Stats Models, Genism, LIME, Pandas, Flask, and IBM Watson.
+•Used models either for testing or in the final product: Random Forest, k-nearest-neighbors, SVM, SGDC, Isolation Forest, PCA, Multinomial Naïve Bayes, LDA, Cosine Similarity, Pearson’s Correlation Coefficient.
+•Extracted logs from the log insight service and wrote scripts to format those logs to useable forms.
+•Took usable logs and ran anomaly detection using the luminol libraries bitmap detector.
+•Classified anomalous logs by symptom using a Multinomial Naïve Bayes Model.
+•Used symptoms to classify an episode using a Random Forest Classifier.
+•Used Lime Library to get the feature importance of the model to return the top log in the system.
+•Performed searches using Watson Discovery Tool to look for resolutions based on the top log.
+•Stored episodes in an episode Database (Not sure if we are going to use SQL or MongoDB yet).
+•Compared user-sent episodes using the Cosine Similarity function to identify already resolved episodes.
+•Used TF-IDF to vectorize log text.
+•Utilized Watson Discovery, Watson Studio, Jupyter notebooks, and sublime for development.
+•Dealt with and accessed data on IBM cloud storage.
+•Spotted Critical errors in existing code and helped develop and test solutions.
+•Improved classification performance on Log data by up to 40%.
+•Utilized feature engineering to increase model performance.
+•Worked on and heavily modified backend flask app code to add new features and ensure working integration into UI.
+•Worked with Python, Flask, SQL/MongoDB, and Postman technologies.
+•Interface with IBM cloud to retrieve customer configuration data for monitoring config drift.
+•Create an API that interfaces with IBM Cloudant to upload and retrieve config data and anomalous changes.
+
+Data Scientist Aug 2017 – Aug 2019
+Wayfair Inc Boston, MA
+
+Wayfair is an e-commerce site that specializes in selling furniture, décor, and home goods. I was on a team that worked on the recommender system present on the website. I implemented a content-based recommender system utilizing cosine similarity to recommend similar products. We deployed the solution using canary deployment and developed analytics to track the effectiveness by using clickstream data.
+•Created data models in R analyzing the vast amount of data and extracting key information to suit various business requirements.
+•Created new R shiny dashboards for extracting meaningful insights into business practices.
+•Created, managed, and tracked key performance indexes (KPIs) and business metrics for multiple clients.
+•Worked with large-scale data: many rows, many features, and many categorical variables.
+•Conducted deep and continuous exploration of high-volume heterogeneous data.
+•Skilled in performing data parsing, data manipulation, and data preparation with methods including describing data contents, computing descriptive statistics of data, regex, split and combining, remapping, merging, subset, reindexing, melting, and reshaping.
+•Worked extensively on Exploratory Data Analysis, short-listed statistically significant variables, used scatter plots to detect the correlation between the variables, and converted categorical variables to dummy variables. Used dimension reduction techniques such as PCA.
+•Addressed overfitting by implementing algorithm regularization methods like L2 and L1.
+•Designed and built production-ready machine learning such as Logistic Regression, Decision Trees, and Random Forest Ensemble models with boosting and bagging.
+•Built machine learning models deployed on an independent AWS EC2 server to enhance data quality.
+•Used k nearest neighbors to develop models for recommender systems with cosine similarity distance metric.
+•Application of various machine learning algorithms and statistical modelings like Decision Trees, regression models, neural networks, SVM, and unsupervised clustering.
+
+Data Scientist March 2016 – Aug 2017
+InsideSales.com Provo, UT
+
+InsideSales.com (Now Xant.ai) is a sales analytics platform that is used to track, predict, and diagnose sales agents' performance. I built a stacked ensemble model consisting of Logistic Regression, K-NN, and Decision Tree classifiers to classify sales agent performance. We integrated this into a larger data science platform with many other models to provide insights into what drives sales. We worked with large amounts of data stored on HDFS, where I wrote Spark code to define an ETL pipeline that would transform and process the data before feeding it to my model.
+•Designed and implemented end-to-end systems for Data Analytics and Automation, integrating custom visualization tools using R, Tableau, and Power BI.
+•Built, published, and customized interactive reports and dashboards.
+•Designed cubes as sources for data visualization with parameterization.
+•Coordinate with the business users in providing an appropriate, effective, and efficient way to design the new reporting needs based on the user with the existing functionality.
+•Developing statistical analysis tools with machine-learning applications.
+•Worked on Clustering and classification of data using machine learning algorithms. Used Tensor Flow machine learning package to create sentiment and time series analysis models.
+•Designed and developed various machine learning frameworks using Python, R, and MATLAB.
+•Utilized Spark, Scala, Hadoop, HBase, Kafka, Spark Streaming, MLlib, and Python, with a broad variety of machine learning methods including classifications, regressions, and reduction.
+•Worked with complex applications such as R, SAS, MATLAB, and SPSS to develop neural networks and cluster analysis.
+•Implementation of machine learning algorithms and concepts such as K-means Clustering (varieties), Gaussian mixture distribution, decision trees, etc.
+•Analyzed data using data visualization tools and reported key features using statistic tools and supervised machine learning techniques to achieve project objectives.
+
+Data Science Associate Nov 2014 – March 2016
+Citizens Financial Group Providence, RI
+
+•Designed dashboards with Tableau and provided complex reports, including summaries, charts, and graphs to interpret findings to team and stakeholders.
+•Developed visualizations and dashboards using R, ggplot, and Tableau.
+•Performed data analysis, and data profiling and worked on data transformations and data quality rules.
+•Analyzed large data sets and applied machine learning techniques and develop predictive models and statistical models.
+•Used key indicators in Python and machine learning concepts like regression, Bootstrap Aggregation, and Random Forest.
+•Developed and deployed machine learning as a service on Microsoft Azure cloud service.
+•Supervised, Unsupervised, and Semi-Supervised classification and clustering of documents.
+•Machine learning classification of documents - Neural Network and Deep Learning language techniques, K-neighbors, K-means, Random Forest, Logistic Regression, SVM.
+•Performed Data Analysis, Data Migration, and data profiling using complex SQL on various source systems including Oracle.
+•Directed and provided the vision and design for a robust, flexible, scalable business intelligence (BI) solution including an enterprise data warehouse (EDW) to service all business units.
+•Performed outlier identification for fraud detection with gaussian mixture models and probability thresholds.
+
+Junior Data Scientist August 2013 – Nov 2014
+State Farm Bloomington, IL
+
+•Designed dashboards with Tableau and provided complex reports, including summaries, charts, and graphs to interpret findings to team and stakeholders.
+•Design, develop and produce reports that connect quantitative data to insights that drive and change business
+•Performed data analysis by using Hive to retrieve the data from the Hadoop cluster, and SQL to retrieve data from the Oracle database.
+•Created clusters to classify Control and test groups and conducted group campaigns.
+•Worked on Business Intelligence projects to create reports.
+•Supervised, Unsupervised, and Semi-Supervised classification and clustering of documents
+•Machine learning classification of documents - Neural Network and Deep Learning language techniques, K-neighbors, K-means, Random Forest, Logistic Regression, SVM.
+•Trained Data with Different Classification Models such as Decision Trees, SVM, and Random forest.
+•Performing statistical analysis and building statistical models in R and Python using various Supervised and Unsupervised Machine learning algorithms like Regression, Decision Trees, Random Forests, Support Vector Machines, K- Means Clustering, and dimensionality reduction.
+•Responsible for performing Machine-learning techniques regression/classification to predict the outcomes.
+•Performed Ad-hoc reporting/customer profiling, and segmentation using R/Python.
+•Tracked various campaigns, generating customer profiling analysis and data manipulation.
+•Provided R/SQL programming, with detailed direction, in the execution of data analysis that contributed to the final project deliverables. Responsible for data mining.
+•Worked on neural networks to develop text classification systems.
+•Utilized Label Encoders in Python to convert non-numerical significant variables to numerical significant variables to identify their impact on pre-acquisition and post-acquisitions by using 2 samples paired t-tests.
+
+Education
+Radford University - Radford, VA
+Bachelor of Science in Physics, Minor in Mathematics, GPA 3.49
+
+Honors
+Elites Leadership Scholarship
+Sigma Pi Sigma, Physics Honor Society
+National Society of College Scholars
+Dean’s Scholar of Physics
+Contact this candidate

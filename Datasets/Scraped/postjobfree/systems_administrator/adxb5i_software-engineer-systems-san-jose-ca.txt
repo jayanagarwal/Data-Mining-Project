@@ -1,0 +1,87 @@
+Paul Lai
+San Jose, CA
+adxb5i@r.postjobfree.com 408-***-****
+
+OBJECTIVE
+To find the dream job, where challenges stretch the imagination, the products help improve the world, and the rewards are just as grand.
+
+Summary
+15+ years in the embedded/network appliance space
+20+ years working with and in the GNU/Cygnus tool chain
+10+ years in Unix/Linux kernel components/platform bringup
+10+ years real time scheduling issues with Lynux Real Time Systems, and Citrix/Netscaler load balancers.
+
+EDUCATION
+M.S. Computer Science, University of Kentucky, Lexington, KY 40506
+
+EXPERIENCE
+
+2/16-1/23 SW Engineer, Open Source Technology Center, Intel
+The Open Source Technology Center at Intel enables Intel Architecture (IA) features in Linux hypervisor technologies, Xen and KVM. With each chip release, typically there are a number of new instructions or other capabilities. These features need to be enabled for both bare-metal and virtualized operating systems and application software.
+
+Much of the enablement of the IA features are “upstreamed” in generally known Linux projects: Linux kernel including KVM, qemu-kvm, and Xen. There is also the need to make sure these features make it to Open System Vendors, think distributions. Bringing feature from “upstream” project repositories to the vendor distributions is called “downstream”’ing.
+
+My role is to help facilitate down streaming of these features. This may include sharing technical knowledge, feature tracking, or backporting.
+
+10/13-2/16 Staff SW Engineer, NetApp
+
+The FlashRay product is the next generation all flash (SSD) SAN storage product for the NetApp portfolio code named MARS. Mars delivers the performance promise of SSD and the reliability and scalability for Enterprise.
+
+My role is to provide development tools for the feature development and quality assurance teams. Some of the tasks include developing traffic generators and virtual simulators, besides supporting traditional C/C++ toolchains/build environments.
+
+1/07-9/13 Staff SW Engineer, Citrix
+
+The NetScaler product is a traffic load balancer, fronting many of the largest internet sites and Enterprise intranets. NetScaler uses FreeBSD as it’s based OS.
+I initially joined the Platform group, which is responsible for OS based functionality: device drivers, porting to new HW, and continuing maintenance and upgrade of the FreeBSD OS and tools on top of which the product sits. My contributions included: Updated the underlying operating system to FBSD 6.3 from FBSD 4.9, modernizing the product architecture from single core to multiple core processing, and upgrading the underlying architecture to 64bits (amd64) from 32bits (x86).
+
+I then joined the Integrated Cache team, which is responsible for caching objects in the internal RAM. Contributions include hardening memory operations and introducing dynamic memory sizing (up and down sizing cache without a reboot).
+
+11/05-01/07 Senior SW Engineer, Edgewater Networks
+
+Edgewater provides SMB data communication solutions. These include T1 and ADSL access, configuration, and monitoring equipment. My contribution included porting from a single T1 driver to quad T1 driver port on a new HW platform. The SOC was the Intel IXP platform.
+
+1/05-11/05 Staff Engineer, Intransa
+
+Intransa is an iSCSI storage startup. In this year, the effort was to expand via global business partners. My role was to provide the onsite technical resources to potential oversea business partners.
+
+1/04-12/04 Member of Technical Staff, Tivo
+
+TiVo is the premier TV DVR company. It sets the standard for user interfaces with recording and play back TV content. I was a member of the Platform group. My contributions included porting KGDB to MIPS kernel and reducing Linux 2.4.x kernel stack size to 4K from 8K.
+
+1/01-1/04 Senior Software Engineer, Intransa, Inc
+
+I was a founding member of the kernel/platform group within Intransa. My primarily responsibilities included: functional bring up of proprietary board based on the Broadcom/Sibyte SB1250 (SMP/MIPS), and kernel debugging tools. One significant task was implementing KGDB for MIPS built via a x86 cross compiler.
+
+7/96-1/01 Software Engineer, LynuxWorks.
+
+As a member of the Tools Development group, I was the primary member responsible for porting and maintaining GNU/Cygnus development tools for the LynxOS operating system. This includes supporting the C and C++ compilers, linkers, expect, make utility and other development tools.
+
+The LynxOS operatiing system supports 4 different cpu architectures: Intel x86, PowerPC, SPARC, and Motorola 68K. The software development tools operate natively (LynxOS-LynxOS) and in cross/hosted (SunOS, Solaris, AIX to LynxOS) configurations.
+
+The most significant contributions at Lynx RTS include the introduction of thread safe C++ exceptions for the GNU CC++ compiler (g++), porting of the cross development configuration to a Win32 (Win95/WinNT) host configurations, and optimization of the software development build and integration engine.
+
+Other notable work include fixing the PowerPC linker to understand C++ global constructors from shared libraries, fixing stabs (debugging information) and fixing linker relocation information.
+
+12/95-7/96 Scientific Programmer Analyst, Lockheed Martin
+
+I was a member of the InVision Systems Reegineering group. The InVision group is part of the Lockheed Software Technology Center, which provides internal Lockheed software expertise. The InVision group specializes in understanding systems of programs.
+
+6/95-12/95 Systems Developer, Aerotek Corporation, Sacramento, CA 916-***-****
+
+I was a consultant to MCI Telecommunications division known as CampusMCI. The project was to develop and deploy a remote Email system with secure authentication to be marketed to as part of their Internet Service package.
+
+8/93-6/95 Systems Analyst, Analysts International Corporation, Bellevue, WA 98004 206-***-****
+
+I was a consultant to AT&T Wireless Services, formerly McCaw Communications. My tenure started as a NEXTSTEP Systems Administrator in a regional information systems office. Projects included systems deployments to satellite offices.
+
+4/90-8/93 Systems Programmer, University of Kentucky, Lexington, KY 40506-0027 606-***-****
+
+The Math Science Computing Facility maintains the computer equipment and software for the Computer Science, Mathematics, and Statistics Departments at the University of Kentucky at Lexington, KY. The LAN consisted of 100+ hosts from AT&T, Digital, HP, IBM, Sequent, SGI, Sun, and NeXT (MACH), as well as NCD X-terminals. All the hosts ran NFS over ethernet. All workstations ran X11R{4,5} from MIT and their own proprietary windowing systems. GNU software (compilers and utilities) were ported to all GNU supported architectures.
+
+7/89-4/90 Computer Scientist, United States Army Materiel Command, Materiel Readiness Support Activity, AMXMD-EI, Lexington Bluegrass Army Depot, Lexington, KY 40511-5101
+
+Was a member of a team that developed the LOGPARS document generating Expert System. This package was written in Arity Prolog and Microsoft C in a MS-DOS environment. The Prolog code supplied the artificial intelligence modules while the C code provided the user interface. My development duties primarily focused on debugging both the C and Prolog cod generated by contract programmers.
+
+References Upon Request
+U.S. Citizen
+Contact this candidate

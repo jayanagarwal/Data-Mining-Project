@@ -1,0 +1,128 @@
+Gretchen Horn
+Sr. SAP PSCM Solutions Architect and Workflow Developer
+Consulting contractor in Houston, TX
+
+Core Strengths
+Techno Functional IT consultant with 20+ years of consulting experience in SAP cross-application implementations: PSCM, SAP Workflow, ABAP, ABAP OO, BRF+, OData
+Leader of countless ABAP and SAP Workflow projects from inception to maintenance: analyzed requirements, designed solutions, demonstrated prototypes to work groups, configured and programmed workflow objects, trained the trainers, and provided both technical and end-user documentation
+Consistently deliver comprehensive technical documentation that clearly describes what was built and how all the objects fit together
+Streamline business processes, pinpoint opportunities for efficient and effective improvements, identify bottlenecks, errors, redundancies, etc.
+Talent for tracking down root cause of errors by isolating component objects, solve problems using a methodical and practical approach
+A natural teacher and mentor for junior team members, created course content and instructed a 40 hour comprehensive workflow course ranging from manager benefit summaries to technical configuration and programming
+
+Technology Profile
+PSCM Functional – Purchasing, release procedures, MRP, inventory management, physical inventory, VIM (Vendor Invoice Management)
+SAP Business Workflow – workflow ABAP OO classes, workflow exits, workflow builder, BOR technology, event handling, event queue, agent determination, rule resolution, extended notifications, UWL
+ABAP – ABAP classes (ABAP OO), classic dialog module pool (PAI, PBO), procedural ABAP, ABAP upgrade experience, enhancement framework, BAdIs (Business Add Ins), field exits, CMOD customer exits, BAPIs, ALV, DDIC, upgrade experience
+Business Rule Framework Plus (BRF+) – BRF+ functions, decision tables, utilization of BRF+ exit extending functionality, backend rule engine manipulation using BRF’s API, e.g. update decision table programmatically
+Generic Object Services (GOS) – service configuration, service improvement via enhancement implementations
+ArchiveLink – business document configuration to store images in both SAP and third party repositories, services for local download, printing, re-assigning stored images to alternative/additional business documents
+SAP Classification System – classification classes and characteristics for materials, requisistions and purchase order release procedures
+NetWeaver Gateway OData – SEGW, redefinition of methods in DPC_EXT to perform create, read, update, delete, query (CRUDQ) operations on ECC data using BAPIs
+Gateway LaunchPad – semantic objects, Fiori catalogs and groups, Fiori tile definition and mapping, PFCG roles
+SAPUI5 – SAPUI5 applications consuming Gateway OData, Git Repository, JSON, Java Script, HTML, Web IDE development, deployment to ECC backend and to SAP Cloud Platform
+
+JLM Workflow, Inc. JLMWorkflow.com 2006 – Present
+Consulting projects for JLM Workflow:
+British Petroleum, BPX Energy, Houston, TX Feb 2019 - Present
+PSCM Functional Lead, project Phoenix, project SAP 2.0
+PSCM functional project lead on S/4HANA 1610, coordinated ABAP, workflows, external interfaces
+Configured PSCM module for purchasing, release procedures, physical inventory, MRP, materials, plants, purchase order printing, AP tolerance keys, inventory management stock transfers.
+Designed and implemented Gateway OData service that was consumed by third party software. The OData service provided information on status of purchase requisitions and purchase orders.
+Implemented Enverus OpenInvoice vendor portal SAP interface: OLA and purchase orders were created in SAP and transmitted to OpenInvoice. From OpenInvoice suppliers would submit electronic field tickets or flip POs into invoices with paper field tickets. Field tickets were brought back into SAP as service entry sheets and VIM DP documents were created for VIM processing.
+Designed purchase order uplift workflow that could be initiated by the warehouse, supplier or requisitioner to facilitate the purchase order increase process.
+
+Chevron Phillips Chemical, The Woodlands, TX May 2016 – Dec 2018
+Sr. ABAP and SAP Workflow Consultant
+GOS project: multiple imaging enhancements, ‘Store Business Document’ from create transactions, enhancement to enable/disable services based on roles and/or the BRF+ rule engine. Examples: instead of deleting a service via SGOSATTR, disabled service to ‘Create Attachment’ if user is in a business object that has ArchiveLink business documents defined, another example: restrict users from modifying attachments if they only have display authorization for the business object they are currently viewing.
+Imaging project: developed tools to upload, download, print ArchiveLink documents. In addition allowed user to search business documents by business object, copy or transfer business documents to business documents of other BOR objects, e.g. copy images from purchase requisition to purchase order.
+CFS Web Services project: built interface to upload real time transactional and master data to Oracle’s service cloud for Customer Feedback System. CFS application consumes Oracle’s REST services to upload data to cloud from SAP backend.
+Workflows: created multiple sales order and delivery workflows to facilitate communication between business partners, utilizing HTML in all work item and emails.
+Member of mobility project to replace the SAP Supply Chain Console with Fiori-like SAPUI5 applications
+Produced fundamental training documentation and conducted training sessions, complete with exercises, for Git Repositories, SAP BUILD, Gateway OData, HANA XSODATA, SAPUI5
+
+Halliburton – BattleRed PTP Transformation team member, Houston, TX Aug 2012 – Apr 2016
+Sr. SAP Workflow and ABAP Consultant
+Designed and built a cross system material creation application. Used BRF+ rule engine to map existing parts in one system to new material being built in different system. Materials were created and extended using default values and/or mappings that could be overridden at process time.
+Designed and built generic approval workflow based on rules in a BRF+ rule engine. This rule engine completely separated all the business rules from the approval workflow. The rules determine how many approval types are required based on rules that classify the object (vendor master), of each approval type, how many approval steps, which approval types are sequential and which are parallel.
+Designed and developed Generic Object Services (GOS) enhancements to allow the ‘Store Business Document’ service to store business documents during a creation transaction (before the business object number is created). This allowed the ‘Create Attachment’ service to be disabled so that all documents would be stored properly in FileNet, using ‘Store Business Document’.
+Designed and built a generic workflow ALV that reports on any workflow’s task container elements. Any workflow definition can have a custom application of this report simply by configuring the container elements to be shown. BAdI technology is utilized to create hot spots for any of the container elements. In addition, authorization checks can be configured so work items will be visible on report based on authorizations.
+Developed multiple workflow solutions: PO Release workflow which allows the user to approve inside of R/3 or from HTML email with WebDynpro links, AP coding and approval workflow, PO confirmation exception workflow with updates to PO if desired.
+Integrated 3rd party supplier portal Taulia, which included multiple user-exits to customize the Taulia solution so it would fit Halliburton’s needs. User exits include: vendor address change approvals, PO selection, PO confirmations, AP invoices, payments and Taulia’s dynamic discounting functionality that allowed vendors to dynamically choose their discount.
+
+Chevron Phillips Chemical, The Woodlands, TX 2010 - 2012
+Sr. ABAP and SAP Workflow Consultant
+Conducted audit of CPChem's workflow environment, implemented solutions for 28 of the 29 recommendations made from the audit. Reduced many obsolete workflow processes that put an unnecessary drain on system resources, discovered need and implemented the workflow event queue.
+Built multiple generic workflow solutions that are utilized by multiple workflow definitions, e.g. dynamic user-decision sub-workflow which allows up to 4-tiers of customizable text to be selected—most common use is to collect a rejection reason.
+Supported 30+ custom workflows (annual workflow volume: 240,000 workflow instances).
+Implemented Extended Notifications/retired older methods for sending out notifications for work items. Added the ability for user to click on links and make decision from Outlook.
+Designed and developed numerous custom workflows using OO where beneficial, including MSS HCM Adobe Forms WebDynpro ABAP: promotion approval workflow, immediate reward approval workflow, purchase requisition auto-release and purchase requisition release BSP workflow, multiple supply chain workflows: sales order credit hold release, delivery communication, customer creation, etc., several custom treasury workflows: Global bank review and FI transaction approval, modifications to Solution Manager’s TMS (Transport Management System) workflow.
+
+Baker Hughes, Houston, TX 2010
+Functional AP Workflow Imaging role
+Implementation team member for International Business Development Services group of Baker Hughes. Implemented SAP Accounts Payable Workflow solution in Lima, Peru. Assisted implementations for Bogota, Colombia and Buenos Aires, Argentina sites. Performed configuration for bringing Peru on-line, built organizational structure for the workflow, instructed training courses, supported go-live.
+
+Skill Set Maintenance 2009
+SAP Course CD251: Update your ABAP Development Skills to NetWeaver 7.0 -This course contained instruction on advanced ABAP concepts, persistent objects, building enterprise services using ABAP Classes, and WebDynpro for ABAP.
+SAP Course CD356: State-of-the-art ABAP
+SAP Webinars - Service Registry in SOA Middleware, how to publish/consume enterprise services, Adobe Interactive Forms in WebDynpro for ABAP, WebDynpro for ABAP, Workflow and the UWL to Revolutionize Decision Processing.
+
+LyondellBasell, Houston, TX 2006 – 2008
+Sr. ABAP and SAP Workflow Consultant
+Designed and built several workflows using the full object oriented functionality of the ABAP Classes. Integrated older workflow technology (BOR) with new class-based so that one workflow could have different tasks that could call either. Converted BOR-based workflows to object-oriented class-based workflows when benefits could be achieved from OO.
+Designed custom LSO (Learning Solutions) booking and cancellation approval workflows. The approval step was a BSP. These workflows utilized the standard LSO BOR events that were raised via the portal. The custom LSO workflows were designed with OO Class functionality.
+Developed HTML email notifications for HR Personnel Transfers actions.
+Provided production support for many complex workflows in FI, MM, HR modules.
+Developed multiple custom workflow for various cross system applications that integrated web based front end with SAP using web services and XML and HTML.
+
+N2 Consulting, LLC N2C.com 1998 – 2006
+Consulting work performed for N2 Consulting is summarized by topic
+SAP Workflow and ABAP Consultant
+Key clients: ExxonMobil, Eli Lilly, Anadarko Petroleum, Mooney Aircraft, actual dates upon request
+Workflow Solutions - Materials Management
+Created SRM (Supplier Relations Management) EBP (Enterprise Buyer Professional) Shopping Cart Requisition Approval Workflow.
+Three full implementations of the AP Invoice Imaging Workflow. Some AP solutions incorporated EDI and OCR, some interfaced with Documentum. One implementation required decision logic to determine if the EDI document should result in a GR-IV Invoice or an FI Invoice, depending on the object to be created, either a BDC or a BAPI was used to build the invoice. Needed ability to attach supplemental images to invoice objects as supporting attachments.
+Implemented numerous custom and standard SAP Purchase Requisition and Purchase Order Release Procedure workflows. Solutions allowed requisitions to be released at the item or pseudo header level. Used ALE to move release procedure classification data from system to system.
+Developed several custom material creation/modification approval and/or notification workflows. Some required material input from at least 4 different agents, all triggered by SAP Change Documents and all updates made via BDC.
+Designed cross-module MM/SD workflow that updates a PO with information from a sales order, cross-module MM/SD workflow that updates sales order when a vendor unable to supply the requested amount.
+Built several goods movement workflows. Goods movement 122 results in workflow using a BDC to build a credit memo, other goods movements would trigger a notification to accounting, etc.
+Automated SAP’s 3rd party order processing by using SAP Workflow to create seamless procurement form web-based ordering.
+Workflow Solutions – Sales and Distribution
+Created countless SD workflows to notify CSR or Credit Rep and/or block the sales order based on various sales order trigger points and events during the life cycle of the sales order.
+Designed a returns process workflow - notification is sent if return does not match RMA, if return does match the RMA then workflow will remove the billing block on the RMA.
+Workflow Solutions – Human Capital Management
+HR Training and Event workflows: created workflows to handle all transaction correspondence. Activities triggered workflows that sent HTML notifications in multiple languages to Lotus Notes.
+Implemented many HR career & succession planning workflows. Created event trigger for employee updates via ESS (Employee Self Service) that sent an HTML qualification report. Extensive error handling via SAP distribution lists.
+Created a notification workflow that used a custom configuration for HR personnel action events.
+Sent an HTML report of organization changes when changes in the organizational structure occurred.
+ABAP Programming
+Integrated PO's and requisition approvals with Blackberry and Outlook via XI (now PI) and BackFlip.
+Created several workflow related reports: statistical report for work item duration by agent, total business process statistics, etc.
+Provided all ABAP and workflow updates required for SAP upgrade from release 3.1i to 4.6c.
+Built ALV interactive report that mimicked all the AP workflow functionality by calling the workflow APIs directly from report, actions taken on the Invoice Interactive Report were automatically acknowledged by the workflow via events and vice versa. This report allowed users to perform their duties by running the interactive report or working their SAP Business Workflow Inbox, each updating the other seamlessly.
+ABAP Interfaces
+Designed and Implemented a UPS shipping and tracking interface with the SAP SD module
+Interfaced SAP SD module and a warehouse management system, sending delivery information to WMS system upon save of the delivery document.
+Interfaced SAP with Kronos, a bar-coding time recording system, The time entries recorded in Kronos were uploaded into SAP via a production order time ticket BAPI.
+
+Author
+Practical Guide to SAP Workflow Agent Determination
+ISBN 978-1-71720-349-9
+
+Certifications
+SAP Certified,
+Business Workflow
+C_BITWF_73
+
+Education
+Bachelor of Business Administration in Management Information Systems
+The University of Houston
+Magna Cum Laude
+
+Personal
+6210 Lake Chase Ct
+Katy, TX 77493
+832-***-****
+addk5m@r.postjobfree.com
+www.linkedin.com/in/GretchenHorn
+Contact this candidate

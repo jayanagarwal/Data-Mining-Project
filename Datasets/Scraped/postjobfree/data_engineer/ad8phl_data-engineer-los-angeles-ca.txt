@@ -1,0 +1,100 @@
+Tony Lew
+Los Angeles, CA *****
+ad8phl@r.postjobfree.com
+https://www.linkedin.com/in/tonylew007
+SUMMARY
+Creative data engineering professional with 10+years of IT experience inallaspectsof automated data driven solutions.Highly accomplished,creative and curiosity-driven professional,offering agreatlevelofcompetenceinapplyingadvancedoptimizationand strategic implementation of automated solutions for the analysis of data. PROFESSIONAL EXPERIENCE
+Luminate Data
+● Design solutions to capitalize on automated data driven approaches
+● Architect solutions using Snowflake based cloud computing, Airflow orchestration, Python classes, AWS cloud platform.
+● Contribute to the design and building of scalable data pipeline solutions.
+● Align existing systems and processes to capitalize on business opportunities.
+● Integrate standardized, simple, and supportable solutions.
+● Design and collaborate with other professionals to seek the best solutions for optimal performance and supportability.
+● Optimize query performance throughout the code base.
+● Manipulation of variant, object, and array columns
+● Update and simplify complex queries as part of the ETL process.
+● Datawarehouse Snowflake schema design support and reinforcement
+● Perform troubleshooting analysis and resolution of critical issues.
+● Testing and deployment using Docker containers.
+● Technologies involved: Snowflake, Airflow, Python, AWS, Glue, Docker, Jira, GitHub.
+Deep Anchor Data Inc
+● Design solutions to capitalize on automated data driven approaches Clients: Upwork, Confidential
+Warner Bros
+Design solutions to capitalize on automated data driven approaches
+● Proactive participation in the coding standards for best practices to ensure optimal performance, security, scalability, and supportability
+● Create and automate data retrieval from secure API end points using temporary access keys
+● FulfilltheGDPRcompliancebyimplementingnecessaryprocessesthatcomplicitly ensure the legal and safe handling of CDP/PII data within the defined corporate standards
+● Author and implement standardized Snowflake stored procedure usage.
+● Create a process to enable any data pipeline to log progress and resume at last completion step in cases of failure
+● Orchestrate data pipelines using Airflow, Python, Snowflake and bash.
+● Introduce stored procedure standards to enhance the use and manageability of SQL code
+● Enhance the value of the data pipeline by writing new codeandrewritingexisting portions of code that are not standard,obsolete,and/or difficult to maintain and support
+● Datawarehouse snowflake schema design support and reinforcement
+● Reinforce idempotency when designing the Airflow DAG and writing the code
+(Python, SQL, Bash)
+● Automate the daily logging and reporting of Snowflake time travel usage by user and emailing report to table defined groups
+● Technologies involved: AWS (EMR, Redshift, S3), Airflow, Snowflake, Spark, Python/PySpark, GitHub, MySQL, Bash
+Deep Anchor Data Inc
+Design solutions to capitalize on automated data driven approaches Clients: Hulu, Disney, Kaiser, AT&T, SpaceX
+● Led an initiative to unify ETL standardsbycollaboratingwithallteammembersto address concerns and forge a comprehensive solution.
+● Proactive participation in thecodingstandardsforbestpracticestoensureoptimal performance, security, scalability, and supportability.
+● Initiate database coding strategies (idempotence,unit testing,source control,)to align with and fulfill the goals of continuous deployment.
+● Automate DB code deployment to different servers and environments
+(development,pre-production,production)regardless of location (on-site,off-site, AWS) using GoLang.
+● Construct acontainerizeddevelopmentenvironmentusingKubernetesandDocker to isolate development with GoLang,PostgreSQL,and many other containerized applications.
+● Develop a scalable continuous integration environment on Google CloudPlatform
+(GCP)toorganize,test,anddeploycontainerizedsolutionsusingComputeEngine, Container Registry, and Cloud SQL (PostgreSQL).
+● Successfully designed and delivered a PaaS solution on AWS with Elastic Beanstalk/EC2 using a GoLang RESTful API,RDS using PostgreSQL,S3 for unstructured data, and Git for source control.
+● Use DBT to assist in the visualization of OLAP data.
+● Author and implement standardized Snowflake stored procedure usage.
+● Augment ETL pipeline with big data technology scripting in CRON jobs using Hive, Presto, PySpark.
+● Orchestrate data pipelines using Airflow, Python, Snowflake and bash.
+● Data modeling for OLTP and OLAP and hybrid.
+● Create automated ETL/ELT solutions using T-SQL,SSIS dynamicpackages,SQL jobs, and stored procedures using DB table driven control and logging.
+● Datawarehouse snowflake schema design support and reinforcement
+● Created and documented (Confluence)a generic database table logging schema and stored procedures that can be used by any database process.
+● Created and documented (Confluence)a database driven,re-entrant,dynamic, SSIS package that uses the generic table logging schema andstoredprocedures with customized data fields while logging all events.
+● Resolve performance issues by optimizing T-SQL coding along with indexing and schema design.
+● Illustrate data by implementing interactive reporting methods and graphs
+(http://rpubs.com/tone_lew/GlobalPopulationDemographics)along with traditional reporting packages like SSRS and Tableau.
+● Technologies involved:GCP (GKE,GCE),AWS(EB/EC2,RDS,S3),PostgreSQL, Linux (Ubuntu,Alpine,CentOS),Bash,Snowflake,Hive,Presto,Spark, Python/PySpark,R,GoLang,GitHub,SQL Server (TSQL,table partitioning, replication, CLR integration), SSIS, Powershell.
+American Standard Television
+Designed solutions to flexibly and powerfully deploy set top boxes for optimal control and reporting
+● Researched and programmed an algorithm to dynamically fill vacant content schedule slots for all times of a day selecting from different pools of content (0-1 Knapsack problem).
+● Implementedanalgorithmtomakecontentrecommendationstoviewers(Knearest neighbors).
+● Integrated a key value store database (like AWS Redis)to assimilate freely distributed movie and television content meta-data (TMDB) to a relational database.
+● Designed database with internationalization in mind by storing time zone offsets, use of Unicode, ISO standards of country codes, currencies, and Geo-IP mapping.
+● Created search engine for set top box as well as back end database system.
+● Facilitated independent parallel development among team members by scripting entire database along with data, stored procedures, functions, and all objects.
+● Extensive use of Tortoise SVN to collaborate and facilitate project deployment cycles within an Agile software development framework.
+● Data modeling and database design of content management system,ETL procedures, analytic reporting database, and set top box.
+● Collaborated with technical and business leads within the company to forge solutions and manage goals and expectations.
+● Proactiveresearchanddevelopmentofdatabaseconceptsandproductsalongwith evolving challenges.
+● Technologies involved:SQL Server 2012,T-SQL,SSIS,MySQL 5.5,Linux
+(Ubuntu), Tortoise SVN, Agile.
+EdgeCast Networks
+Designed solutions to commercialize the ETL and reporting functions
+● Designed SSIS packages for rapid deployment to anonymous environments by employing dynamic database driven packages and deployment by SQL scripts.
+● Created an ETL reporting system in order to quickly and easily identify data flow.
+● Frequently worked closely within teams in an Agile framework to complete projects.
+● Optimized DML queries by aligning with table schema and indices.
+● Contributed to a SQL development best practices guide for non-database personnel.
+● Ongoing maintenance and monitoring of database operations.
+● Implemented SSRS interface for company facing site and using production DB.
+● Introduced a real time component using Python to read Lighttpd web logs in Hadoop and GeoIP data to find geographic location.
+● Technologies involved:SQL Server 2008,SSIS,SSRS,Hadoop, Python, Agile.
+MySpace
+Ensured optimal database access for performance and scalability
+● Designed data models and database access strategies to optimize data manipulation and storage
+● Managed the stored procedure and T-SQL development to ensure the highest volume of concurrent data access.
+● Innovated to develop strategies to define best practices for the MySpace environment.
+● Interacted with developers and project managers to align goals, expectations, and responsibilities.
+● Solved database query performance problems.
+● Collaborated on projects within teams using an Agile framework.
+● Technologies involved: SQL Server 2005, Full Text search, SSIS, Agile. EDUCATION
+Snowflake Associate Architect Certificate Jan 2019 Coursera Data Science Certificate Apr 2016
+Johns Hopkins University
+● Implemented phrase predictor by training an algorithm to identify commonly used words and phrases (NGram) using T-SQL and R.http://rpubs.com/tone_lew/PhrasePrediction
+● Illustrate data with interactive reports and graphs. http://rpubs.com/tone_lew/GlobalPopulationDemographics Bachelor of Science in Applied Mathematics with Specialization in Computers University of California, Los Angeles
+Contact this candidate

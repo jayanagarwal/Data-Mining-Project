@@ -1,0 +1,35 @@
+SAI SUDHEER REDDY MUPPIDI
+Boston, MA ad4htf@r.postjobfree.com +1-479-***-****
+WORK EXPERIENCE
+DevOps Engineer, CloudRex LLC, Cary, NC,USA Dec 2023 - Present
+Worked on creating and configuring resources on AWS such as VPC, Subnets, Security Groups, S3 buckets, and EC2 instances, using both AMIs and custom images as well as setting up launch templates customized for specific applications.
+Designed AWS Cloud Formation templates to create custom sized VPC, subnets, NAT to ensure successful deployment of Web applications and database templates and leveraged AWS Migrate, VM import/export for migrating apps from VM Ware to AWS.
+Involved in the design and implementation of a continuous integration (CI) and continuous delivery (CD) pipeline using Jenkins and Cloud Formation.
+Modeled and automated the end-to-end CI/CD pipeline, which involved in creating a Continuous Integration server with tools like Jenkins, Maven, Subversion, GIT, Ant, and SonarQube.
+Used Istio Service Mesh along with the Kubernetes stack for the deployment of the microservices that helps in getting the automatic metrics, logs, and traces for all traffic within a Kubernetes cluster, including cluster Ingress and Egress.
+Managed Kubernetes charts using Helm. Created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed releases of Helm packages.
+Used Maven as a Build tool for building deployable Artifacts (War & Jar) from source code. Worked with Maven in Java environment for authoring (pom.xml) files for Java projects and managing maven repositories.
+Written Ansible Playbooks that serve as the entry point for Ansible provisioning, with automation defined through tasks in YAML format to set up a Continuous Delivery pipeline and run Ansible scripts to provide Dev servers.
+Involved in developing custom scripts using Python, Shell, Cron Jobs to automate the deployment process and for Task scheduling, Systems backups. Monitor project progress by tracking the activity and publishing project updates and also prepare technical reports by collecting, analyzing, and summarizing information trends. Site Reliability Engineer, xCaliber Health, Andover, MA, USA Aug 2023 - Nov 2023
+Involved in designing and deploying a multiple of applications utilizing almost all the AWS stack including EC2, Route53, S3, RDS, Dynamo DB, SNS, SQS, EBS, Lambda, RedShift, focusing on high-availability, fault tolerance and auto-scaling in AWS using Cloud Formation.
+Used IAM to create and manage AWS users, groups and use permissions to allow and deny their access to AWS resources Configured Access for inbound and outbound traffic to RDS DB services, DynamoDB tables, EBS volumes to set alarms notifications or auto actions.
+Worked on AWS Route53 for registering domain names, to route internet traffic for domains and monitor the health checks of the resources. Supported AWS cloud with instances, configured Elastic IP & Storage.
+Deployed configuration management and provisioning to AWS using Terraform involved in automated deployment of EBS on to the AWS Cloud ec2 instance server and automated the complete deployment environment on AWS
+Managed a CI/CD pipeline using GitHub Actions to automate the build, test, and deployment of applications to a production
+environment. The pipeline triggered on push to the main branch, and included steps for building the application, running unit tests,
+integration tests, and end-to-end tests, building the docker image and deploying the application to a Kubernetes cluster (EKS) by using
+the Helm charts. Deployed Micro-Services on AWS VPC and AWS EKS cluster for scalable and efficient deployment.
+Maintained Terraform State Files to ensure the preservation of infrastructure states and prevent conflicts. Designed and implemented highly scalable, available, and maintainable state management strategies for Terraform, allowing for efficient management and scaling of infrastructure.
+Monitored Kubernetes clusters by integrating it with Prometheus (Promql) using Helm Charts for collection of metrics and Grafana dashboard to view metrics and also configured Prometheus Exporters to collect and expose metrics from different types of applications and services.
+Branching, Merging, Release Activities on Version Control Tool GIT. Used GitHub Enterprise as version control to store Source Code and implemented Git for branching and merging operations for Source Codes.
+Integrated ArgoCD notifications and Grafana alerts with Slack, centralizing all critical alerts and notifications in one place, enabling real-time visibility and response. This helped me and my team to quickly identify and resolve problems, reducing downtime and improving overall system reliability.
+Used JIRA as our issue tracking tool, to plan, track and manage the application development. Integrated JIRA with Git to track the code changes and progress.
+EDUCATION
+• Master’s in Computer Information Systems (MS) Dec 2021 - May 2023 New England College, Henniker, NH, USA
+• Bachelor of Technology inCivilEngineering(B.Tech) Jun 2013 - May 2017 JNTU Kakinada, India
+SKILLS
+• Cloud Environments: Amazon Web Services, Microsoft Azure
+• SoftwareTools:Kubernetes, Docker, Helm, Git, Github, Terraform, Ansible, Github Actions, GitOps, Jenkins, ArgoCD, Prometheus, Grafana, Datadog, Gradle, Maven, Bit-Bucket, Linux, Windows, JIRA, ClickUp
+• Programming Language: Python, Shell(Powershell/Bash), YAML, JSON, Groovy, Java, Html
+• Databases: MySQL, PostgreSQL, SingleStore DB, NoSQL (MongoDB, DynamoDB)
+Contact this candidate

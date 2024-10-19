@@ -1,0 +1,96 @@
+Khalil
+ad9cde@r.postjobfree.com
+
+SUMMARY:
+Over 5 years of experience in DevOps engineering, Linux Administration, Configuration Management, CI/CD, Release Management, and Cloud Implementations.
+Proficient in AWS (EC2, S3, ELB, RDS, VPC), Azure, and GCP, with hands-on experience in provisioning and managing cloud resources.
+Extensive experience automating system administration and deployment tasks using Shell, Python, Groovy, Ruby, and PowerShell.
+Expertise in setting up and managing CI/CD pipelines with Jenkins, Bamboo, CI/CD, Hudson, and Urban Code Deploy.
+Skilled in infrastructure automation and configuration management using Chef, Puppet, Ansible, and Terraform.
+Skilled in implementing Infrastructure as Code (IaaC) using Terraform, and AWS CloudFormation, enabling consistent and repeatable deployments across multiple environments.
+Proficient with monitoring tools like Nagios, Dynatrace, Splunk, Kibana, ELK stack, and setting up CloudWatch alarms and Prometheus dashboards.
+Experienced in building, maintaining, and deploying Docker container clusters and orchestrating applications with Kubernetes, Apache Mesos, and Marathon.
+Proficient in deploying Java applications on servers such as Apache Tomcat, JBoss, WebLogic, and WebSphere, and managing web servers like Apache HTTP and Nginx.
+Strong knowledge of networking and security, including TCP/IP, DNS, load balancing, firewalls, and configuring network services such as LDAP, NFS, DHCP, and SAMBA.
+Implemented and managed firewall solutions including KEMP, Barracuda, and WAF/NG for secure network operations.
+Experienced with relational databases (MySQL) and NoSQL databases (MongoDB), including configuration, management, and migration in cloud environments.
+Developed and customized scripts for system and application health monitoring, deployment automation, and disaster recovery.
+Managed cloud infrastructure deployments on AWS and Azure, including setting up and maintaining VMs, storage accounts, and network configurations.
+Designed and implemented monitoring solutions using CloudWatch, Prometheus, Grafana, and worked within Agile, Scrum, and Waterfall methodologies to enhance collaboration and efficiency.
+
+SKILLS:
+Operating System
+Red Hat Linux 5/6/7/8/9, Cent OS 5/6/7/8, Ubuntu 12.04 to 22.04 and OEL 6/7/8, SUSE Linux, IBM AIX, Windows 2008, 2008 R2/2012 R2/2016 till 2021, and Citrix Desktops.
+Third Party Tools
+Veritas Volume Manager, Logical Volume Manager, RAID, Veritas Cluster, Red hat Cluster, VMware ESX Technologies.
+Containerization Tools
+Docker, Podman, and k8’s (AKS, EKS and Open Shift)
+Web Application Server
+Web Application Server Tomcat, Apache, Web logic Web sphere JBoss.
+
+Programming Languages
+Bash, Python, C++, Perl, Power shell, Groovy, Ruby.
+Ticketing Tool
+Service Now and JIRA.
+Load Balancers
+F5, Avi and Nginx.
+DevOps Tools
+CI/CD, Jenkins, Git, GitHub, GitHub Actions, Gitlab, Gitlab Runners, CFT and Terraform Tool
+Cloud
+AWS, Azure & OpenStack.
+Hardware
+Cisco UCS, Dell, HP, EMC, NetApp.
+Monitoring Tools
+Grafana, Prometheus, Nagios, Splunk, Zabbix, Dynatrace and AppDynamics.
+Analytical
+Power-BI, Tableau
+Database
+Oracle, MySQL, SQL Server, Mongo
+
+PROFESSIONAL EXPERIENCES:
+Acumen LLC, Burlingame, CA
+Role: Sr. DevOps Engineer Aug 2022 - Present
+Automated Development in PowerShell/Python System Administration-related tasks.
+Handled on Azure DevOps / GitLab (GIT) / Agile / Scrum. I deployed the CI/CD system using Azure Devop/ GitLab in the Kubernetes container environment. Full CI/CD pipelines so that each commit a developer makes will go through a standard process of the software lifecycle and gets tested well enough before it can make it to production. Used Azure DevOps services such as Azure Repos, Azure Boards, and Azure Test plans to plan work and collaborate on code development, built and deployed applications including Infrastructure as Code (IaaC) i.e. Azure ARM, Terraform.
+Developed and maintained microservices using Golang, improving response time by 30%.
+Used Shared Image Gallery to store the created images and built Azure pipelines in Azure DevOps / GitLab to implement Ell these services in Azure.
+Led the design and implementation of CI/CD pipelines in Golang, and Kubernetes, optimizing deployment processes and reducing release times by 40%.
+Structured cluster AutoScaIer for Azure Kubernetes Service (AKS) by using Azure / GitLab Pipeline and worked with scheduling. deploying, and managing pods and replicas in AKS
+Experience implementing Cloud services such as Azure Active Directory (AD), Azure Storage, Azure Cloud services, IIS, Azure Resource Manager (ARM), Terraform, Azure Storage, Azure VM, SQL Database, Azure Functions, Azure Service Fabric, Azure Service bus, Logic Apps, Data Bricks (Azure / AWS / GCP), Kubernetes (Azure / AWS / GCP), Virtual Network, Subnet, Network Security Group, Microsoft Fabric, Kusto (KQL), Azure Traffic Manager, Azure Front Door, Private Endpoint (Azure / AWS / GCP) and many other Azure Services.
+Innovation: Identified a need to establish a standard procedure for organization of electronic products. Developed vision and plan and pitched ideas to management for a file management system. The implementation resulted in program alignment, eliminated confusion, and 20% increase in operation efficiency.
+Foster data-driven discussions through innovative data analysis capabilities and leveraging of Power BI / Tableau.
+Monitor KPIs and perform incident management and reporting, investigation, root cause analysis (RCA), & monitoring, as well as reporting for live site, production, & lab environment. Using Splunk & Azure Data Explorer (Kusto)
+Automated and implemented Virtual Private Network (VNet) configuration and management (Microsoft Connectivity) on Azure cloud service where applications run their own network and proper isolations.
+In-depth knowledge of networking principles, protocols, and security best practices for high-performance solutions:
+Troubleshooting networking issues
+Configured Load balancer and global Load balancers on a specific protocol
+Working with the Security team to impact networking security & networking principles in the Production system
+Architect, design & plan resilience modeling, BCP (disaster recovery), & high availability for production websites & replica cloud services. Perform co-location region/data center setup with virtual infrastructure and create a fully replicated Hot DR site for production applications & sites. Brought the recovery time (RTO) from 4 hours to 30 minutes in case of a disaster. Tested and demonstrated full DR capabilities.
+Working on ETL tools in Azure data factory (ADF), Azure Data Bricks, Azure functions, Azure Data Lakes (ADLS), etc.
+Building the pipeline to copy data from source to destination,
+worked on creating dependencies of activities, and monitoring produced and consumed data sets.
+Pumping data between Oracle, and SQL DB.
+Transforming data in ADF & Azure databricks.
+Creating multiple data sets.
+Decommissioned software load balancing and introduced hardware load balancing (Big-IP F5) in the IPsec environment.
+Configure bare Metal servers (HP, DELL, IBM), routers (CISCO), and related hardware to work seamlessly over the network with fault-tolerant mechanisms, and RAID.
+
+Client: Teradata, Pakistan
+Role: System Administration/Cloud Engineer/AWS July 2019 – June 2022
+Utilized AWS services (EC2, S3, RDS, EBS, ELB, Auto-scaling) for cloud automation and deployments using Chef, Python, and AWS CloudFormation.
+Managed AWS resources with AWS CLI, API, and Python scripts, focusing on security (IAM, Security Groups, MFA) and data durability (S3 versioning, lifecycle policies).
+Automated backups to S3, and EBS, created AMIs, and deployed web applications using AWS Elastic Beanstalk.
+Implemented Terraform for infrastructure as code, managing AWS resources with execution plans and change automation.
+Configured the ELK stack (Elasticsearch, Logstash, Kibana) for log analytics, integrating it with AWS Lambda and CloudWatch.
+Designed and configured Azure VNets, subnets, and security policies, and managed ExpressRoute connections.
+Implemented Azure Active Directory, and RBAC, and managed VMs, ARM templates, and Azure blob storage.
+Worked with Azure Fabric, Microservices, IoT, Docker containers, and Terraform for continuous integration.
+Configured Docker containers, and Docker files, and managed deployments with Docker, Docker Hub, Kubernetes, and Chef Infra.
+Managed Kubernetes clusters for high availability, used Jenkins for microservices builds, and employed Ansible for automation.
+Wrote Terraform templates, and Chef cookbooks, and managed CI/CD tools (Git, Jenkins, ANT, Maven, Docker-registry, Nexus, JIRA).
+Used virtualization technologies like VMware and VirtualBox for development and testing environments.
+
+EDUCATION:
+Bachelor’s degree from WAH University, Punjab in June 2019
+Master’s degree from the University of New Haven, CT June 2024
+Contact this candidate

@@ -1,0 +1,187 @@
+Vishnukumar Galigekere N
+
+Phone: 937-***-****
+Email: accpsp@r.postjobfree.com
+Address: **** **** **. *** ****, Irving TX 75039
+LinkedIn: http://www.linkedin.com/profile/view?id=17770748&trk=nav_responsive_tab_profile
+
+OBJECTIVE
+
+Seeking a full time position as a software engineer/developer in a challenging and research oriented environment.
+My areas of interest are Computer Vision and Machine Learning.
+
+TECHNICAL SKILLS
+
+Proficient in: C, C++, MATLAB
+Familiar with: Java, Perl, R, SQL, Python, HTML
+Platforms: Windows, Linux
+
+EDUCATION
+
+Ph.D. in Computer Science (2013)
+University of Texas at Arlington, Arlington, TX
+Advisor: Dr. Gutemberg Guerra-Filho
+Thesis Title: An Interpolation Based Approach for Pattern Recognition and Generation
+
+M.S. in Computer Science (2008)
+University of Texas at Arlington, Arlington, TX
+Advisor: Dr. Nikola Stojanovic
+Thesis Title: Computational Analysis of Variability of Recombination Rates in Mice
+
+Master of Computer Applications (2004)
+Visveswaraya Technological University, Bangalore, India
+
+RESEARCH PROJECTS
+
+Object/Face Recognition in Varying Illumination Conditions
+Designed a novel interpolation based supervised learning algorithm to model lighting variation in images. The
+model allows for both synthesis and analysis of images in different illumination conditions such as lighting
+intensity and/or lighting position
+Devised and successfully implemented an image recognition framework over the interpolation algorithm to
+consider varying illumination conditions
+Designed and captured an image dataset with varying lighting intensity to demonstrate and publish experimental
+results
+Evaluated the novel recognition method with our image dataset and the Yale extended face database for varying
+lighting position and showed extremely competitive results in terms of recognition rate
+
+Image Based Rendering and Lighting
+Designed a novel Image Based Rendering and Lighting algorithm using a synthesis-analysis technique along
+with a novel interpolation based supervised learning algorithm
+The Image Based Rendering and Lighting algorithm can render nonexistent objects in unknown environments
+as long as the object models are learnt using the interpolation based learning algorithm
+The same algorithm is also capable of inferring the lighting parameters of unknown environments provided an
+object whose interpolation model is already learnt exists in the scene
+Motion Retargeting and Analysis
+A novel interpolation based supervised learning algorithm is used to mathematically model animated motion
+using a set of motion capture data as training data
+The model represents a particular action for a set of all possible (topologically identical) skeletons/characters
+defined within a parametric space
+With this model for a particular trained motion sequence the same motion sequence is retargeted into a new
+character with different skeletal parameters
+The inverse computation of this interpolation model is used to recognize the skeleton’s identity given its motion
+sequence
+
+Topological Gabor Descriptor
+Designed and constructed an image descriptor invariant to scale, rotation about the Z axis and uniform lighting
+variations
+The filter bank is built using a novel arrangement of 2D Gabor filters. The topology of the filter bank allows for
+a simple 1D circular shift in the descriptor space to search for matches that are rotationally invariant. The
+descriptor is essentially like a time series comprising of the responses of the filters in the filter bank. Image
+matching or recognition is achieved by performing a circular shift in the descriptor space while computing and
+minimizing a suitable distance metric
+The descriptors are computed for a spatial location in a dense pyramid of images to achieve scale invariance.
+The rotational invariance is robust to a complete 360 degree rotation in the z-axis
+
+Estimating Recombination Variability among Mouse Strains
+Developed scripts to extract large amounts of genetic data from web pages and compiled them into data-sets
+Constructed genetic-maps for each data-set utilizing QTL (Quantitative Trait Loci) mapping tools using Hidden
+Markov Models (HMM)
+Statistically analyzed the resulting genetic-maps to study the genetic control over the rate of meiotic
+recombination in mice
+
+RELEVANT ACADEMIC PROJECTS
+
+AdaBoost Based Face Recognition System
+Implemented an AdaBoost based face detection system using Haar-like features (Rectangle filters) as weak
+classifiers on integral-images
+Implemented a face recognition system using ADABoost and one-vs-all classifiers
+
+A Principal Component Analysis (PCA) Based Face Recognition System
+Implemented a face recognition algorithm using Principal Component Analysis and Linear Discriminant
+Analysis and tested with the ORL face database
+
+Stacking Blocks using RHINO Robot Arm
+A robot system consisting of a 6 degree of freedom robot arm and a camera was programmed to pick up blocks
+off the table and build a particular set of two stacks from them (without knocking off any stacks). The
+implementation was divided into the following subtasks,
+Performed image processing to compute the pixel coordinates of the object
+Converted pixel coordinates into world coordinates
+Performed inverse kinematics and picking and stacking of blocks in the stacking area
+
+Navigating a Known Obstacle Course with a Lego Robot
+Designed and built a holonomic robot to navigate through an obstacle course (obstacles, start and goal locations
+are selected arbitrarily)
+Implemented a navigation strategy using Manhattan distances to generate all possible paths from Start to Goal
+The robot iteratively computes the values for each neighboring cells and uses a greedy approach to reach the
+goal with minimum collisions
+Behavior-based Fire Alarm Robot
+Designed and built a behavior-based fire detection robot that is able to move from an unknown position in an
+indoor environment to look for a fire and raise an alarm
+A set of three behaviors, including "wander" (search), "wall following" and "fire detection"(and raise alarm)
+were implemented
+These behaviors were integrated using the subsumption architecture
+
+PUBLICATIONS
+
+[1] Vishnukumar Galigekere N, Gutemberg Guerra-Filho, “An Interpolation Based Approach for Motion
+Retargeting and Recognition” (currently in progress)
+
+[2] Vishnukumar Galigekere N, Gutemberg Guerra-Filho, “A Synthesis-and-Analysis Approach to Image Based
+Lighting”, International Symposium on Visual Computing (ISVC) 2012.
+
+[3] Vishnukumar Galigekere N, Gutemberg Guerra-Filho, “An Interpolation Based Approach for Lighting Variation
+in Image Recognition”, IEEE International Conference on Image Processing (ICIP) 2012.
+
+[4] Vishnukumar Galigekere N, Gutemberg Guerra-Filho, “Topological Gabor Descriptors: Exploring a Filter Bank
+Structure for Image Feature Matching”, PErvasive Technologies Related to Assistive Environments (PETRA) 2011.
+
+DATASETS AND TOOLS
+
+CVPoV: An Automated Tool for Generating Synthetic Ground Truth Images
+CVPoV is a computational tool built over a popular ray-tracer POVRay that allows the user to specifically
+generate images/videos of simple objects or complex scenes involving several different objects.
+The tool saves depth information and camera parameters which are then used to compute point correspondence,
+motion field data, and occlusion maps.
+This tool is designed to allow the user to automatically generate synthetic ground-truth data for several
+computer vision problems such as camera calibration, feature matching, 3D reconstruction and object
+recognition
+
+Image Dataset with Varying Lighting Intensity
+Designed and built an image capture setup with 16 identical cameras (Point Grey Flea3) and a static scene under
+81 different illumination conditions
+Four identical lamps with three intensity levels each were used to create the 81 different lighting configurations
+
+Image Dataset with Varying Geometric Pose
+Designed and captured images of several individual objects with 360 rotation about the vertical axis and
+translation in x and y axes with a black background
+
+RELEVANT GRADUATE LEVEL COURSEWORK
+
+Digital Image Processing, Computer Vision, Machine Learning, Pattern Recognition, Artificial Intelligence,
+Autonomous Robots, Bioinformatics Algorithms, Engineering Genetics, Data Modeling and Analysis
+
+WORK EXPERIENCE
+
+Graduate Teaching Assistant at the Department of Computer Science and Engineering, University of Texas
+at Arlington, TX (2007 to 2013)
+Assisted the instructor for the courses mentioned below. My role included teaching lab exercises or regular classes
+and assisting students with coursework and grading exams and projects.
+Intermediate Programming in C
+Special Topics in Multimedia, Gaming and Animation
+Pattern Recognition
+Bioinformatics Algorithms
+Software Analyst at SEIMENS, Bangalore, India (Mar 2005 to Jul 2005)
+Involved in Testing of Business Processing (Web) application EnCoRRe on Global Distribution Systems (GDS)
+like Sabre, Worldspan, and Apollo for various Travel Clients like Worldtravel, Expedia, American Express, and
+Boeing
+Analyzing client requirements from the Functional Requirements Document
+Development of business components for automated transaction processing/data processing
+Implementation, testing and integration of individual modules
+Customization of the application for various clients
+Customization and/or implementation of rules for data processing and reporting. Involves use of powerful
+Oracle databases for data storage and security
+
+Internship at Aeronautical Development Agency, Bangalore, India (Mar 2004 to Aug 2004)
+A Direct Drive Valve flight control actuator, quadruplex in electrical redundancy and dual hydraulic
+redundancy was modeled using the Simulink toolbox
+Implemented a Redundancy Management scheme to detect failure, isolate the failed component/s and
+automatically compensate for current(motor)/pressure(hydraulic) with the remaining functional components
+making it a Fault Tolerant System
+
+ACADEMIC AWARDS AND HONORS
+
+STEM Tuition Fellowship
+Graduate Teaching Assistantship
+Graduate Research Assistantship
+UTA College of Engineering Travel Support for ICIP 2012
+Contact this candidate

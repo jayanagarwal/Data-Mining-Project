@@ -1,0 +1,129 @@
+SUMMARY
+Data Engineer with *+ years of IT experience, including 7 years focused on designing, developing, and maintaining big data applications, with expertise in full lifecycle software development.
+
+●Designed and developed big data applications using Python, Spark, Java, Hadoop, and Scala components in batch and real-time
+●Proficient in Spark applications (Spark-Core, Dataframes, Spark-SQL, Spark-ML, Spark-Streaming)
+●Expertise in real-time data collection with Kafka and Spark streaming
+●Managed Snowflake data warehouse and ETL pipelines with SnowSQL, Snowpipe, and AWS integration
+●Experienced in Azure services, including ADF and Azure Databricks
+●Experience in analyzing, designing, and developing ETL Strategies and processes, writing ETL specifications.
+●Excellent understanding of NoSQL databases like HBASE, DynamoDB, MongoDB.
+●Utilized Python libraries such as Pandas, NumPy for data manipulation, transformation, and statistical analysis.
+●Experience in Mapping the transformations using Talend design interface like join, aggregation, quality checks
+●Developed Kafka producers and consumers for streaming data
+●Developed and maintained complex data models to support business requirements and data analysis.
+●Proficient in T-SQL query optimization, distributed systems, and CI / CD with Jenkins and version control
+●Expertise in Extraction, Transformation, loading data from Oracle, DB2, SQL Server, MS Access, Excel, Flat Files and XML using Talend.
+●Skilled in Tableau, PowerBI, Super Set, Java-based Spring Boot Rest applications, and SDLC methodologies
+●Familiar with Oozie workflow engine, Airflow, GIT, JIRA, and Jenkins
+
+TECHNICAL EXPERTISE
+Big Data / Hadoop: Spark, HBase, Kafka, Hive, HDFS, Impala, Sqoop, Yarn, Pyspark, Cloudera, MapReduce
+SQL Databases: SQL Server, Oracle SQL, MySQL, PL SQL, Teradata
+NoSQL Databases: HBase, Cassandra, DynamoDB, MongoDB
+AWS Cloud: S3, EC2, EFS, VPC, Route53, Redshift, EMR, Glue, Lambda, Athena, Step Functions, Cloudwatch, SNS, SQS, Kinesis
+Azure Cloud: ADF, ADLS, Azure synapse, Azure Data Bricks, HDInsight, AzureFunctions
+Programming Languages: Python, Java, Scala
+ETL Tools Talend, Informatica
+Build and SCM Tools: Docker, Jenkins, Jira, Git, ANT, Maven
+SDLC Methodologies: Agile, SCRUM
+Reporting Tools Power BI, Tableau, Apache Superset
+
+Certifications
+
+●AWS Certified Solutions Architect - Associate (SAA-C03), March 2022
+
+PROFESSIONAL EXPERIENCE
+
+CapitalOne
+September 2021 to August 2024
+Data Engineer
+●Leveraged tools like AWS Glue, Apache Airflow, and more to construct, maintain, and optimize data pipelines for extracting, transforming, and loading data from diverse sources into AWS.
+●Developed, implemented, and optimized high-performance ETL pipelines on AWS EMR using Apache Spark’s Python API (PySpark)
+●Migrated data from Amazon Redshift data warehouses to Snowflake. Involved in code migration of quality monitoring tools from AWS EC2 to AWS Lambda and built logical datasets to administer quality monitoring on Snowflake warehouses.
+●Responsible for migrating an analytic workload and affirms data from an on-premises data warehouse (Teradata) to a data lake backed by AWS Cloud S3.
+●Built Data Pipelines to load S3 data into Postgres DB which involves Airflow to automate the state execution needed for Serverless development.
+●Architected and implemented serverless workflows using AWS Step Functions and State Machines to orchestrate complex ETL processes, including automated data ingestion from S3 into Postgres DB.
+●Optimized real-time data ingestion pipelines by integrating Kafka with AWS Lambda and DynamoDB allowing for high-throughput, low-latency processing of streaming data.
+●Wrote AWS Lambda functions in Python for AWS’s Lambda which involves python scripts to perform various transformations and analytics on large datasets in EMR clusters.
+●Created and Deployed Lambda Layers for snowflake and Extracted data from Snowflake.
+●Custom UDFs have been written in Spark to perform data encryption, data conversion, and other complex business transformations in Pyspark.
+●Build effective data models and schemas to fulfill data analytics and reporting requirements utilizing Snowflake.
+●Provided a smooth data analytics experience by integrating Snowflake with a variety of AWS services, including Amazon S3, Amazon Redshift, and Amazon EC2.
+●Created and implemented data pipelines to automate data processing and enhance data quality using tools like Apache Airflow and AWS Glue.
+●Developed spark applications using Spark SQL in Databricks for data extraction, transformation, and aggregation from multiple file formats for Analyzing & transforming the data to uncover insights into the customer usage patterns.
+●Worked with Databricks notebooks and was involved in migrating spark jobs from the EMR cluster to Databricks runtime.
+●Created AWS CloudWatch alerts for instances and used them in Auto scaling launch configurations.
+●Created Athena and integrated with AWS Glue to fully manage ETL service that can categorize the data.
+●Worked with various REST APIs to extract data and ingest S3 into Postgres DB for further analysis.
+●Ingested large volume of user metadata from various BI dashboards built within AWS Quick sight, ThoughtSpot.
+●Created SSIS Packages to integrate data coming from Text files and Excel files.
+
+Environments: AWS Cloud, Snowflake, S3, EMR, PL_SQL, Lambda, Redshift, Athena, DynamoDB, Hadoop, Pyspark, Spark, Scala, Python Java, Hive, Kafka, Terraform, Databricks, Docker
+
+Cloudflare, Inc., Austin, TX January 2020 to April 2021
+Data Analyst/Engineer
+
+●Responsible for creating a data lake on the Azure Cloud Platform to improve business teams' use of Azure Synapse SQL for data analysis.
+●Utilized Azure SQL as an external hive meta store for Databricks clusters so that metadata is persisted across multiple clusters.
+●Employed Azure Data Lake Storage as a data lake and made sure that spark and hive tasks immediately sent all the processed data to ADLS.
+●Updated and improved existing Tableau and Power BI reports and dashboards to make sure they meet evolving company requirements.
+●Responsible for designing fact and dimension tables with Snowflake schema to store the historical data and query them using T-SQL.
+●Strong Experience working with Azure Databricks runtimes and utilizing data bricks API for automating the process of launching and terminating runtimes.
+●Developed various Airflow automation techniques to integrate clusters, and evolved Airflow Dags to use data science models in real-world environments.
+●Experience in integrating Snowflake data with Azure Blob Storage and SQL Data Warehouse using Snow Pipe.
+●Employed resources like SQL Server Integration Services, Azure Data Factory, and other ETL tools to identify the route for transferring data from SAS reports to Azure Data Factory.
+●Transferred data to Excel and Power BI for analysis and visualization after being moved to Azure Data Factory and managed in Azure Databricks.
+
+Environment: ADLS, Databricks, Synapse SQL, Airflow, Excel, PowerBI, Apache Spark, pyspark, Hive, HDFS, Apache Kafka.
+
+COX Communications December 2018 to January 2020
+Big Data Developer
+
+●Engaged in the development of Spark applications to execute diverse data cleansing, validation, transformation, and summarization tasks as required, establishing a centralized data lake on the AWS Cloud Platform.
+●Data sources are extracted, transformed, and loaded to generate CSV data files using Python programming and SQL queries.
+●Developed customized S3 event alerts to trigger AWS Lambda actions, such as object creation, object deletion, or object restoration events.
+●Worked on Kafka Producer using Kafka java producer API to connect to external rest live stream application and produce messages to Kafka topic.
+●Created scalable REST APIs using AWS API Gateway and Lambda, enabling streamlined data access and management.
+●Creating Databricks notebooks using SQL, Python and automated notebooks using jobs.
+●A Spark streaming application is written to consume data from Kafka topics and write the processed stream to HBase.
+●Designed SOAP-based web services with XML, XSD, and WSDL, enabling seamless data exchange and integration across platforms.
+●Developed new techniques for orchestrating the Airflow built pipelines and used airflow environment variables for defining project level and encrypting the passwords.
+●Involved in the Development of copying data from S3 to Redshift using the Talend process.
+●Contributed to the setup of continuous integration and continuous deployment (CI / CD) pipelines, facilitating the integration of infrastructure changes and expediting time-to-production
+●Designed and documented operational issues according to standards and procedures using JIRA
+
+Environment: Spark, Hive, AWS S3, Tableau, PowerBI, Sqoop, Talend, Snowflake, Kafka, HBase, Scala, Databricks, Python, PySpark, Linux, Jira, Jenkins, Unix.
+
+NetxCell Limited, India February 2017 to November 2018
+Hadoop Developer
+
+●Worked on migrating MapReduce programs to Spark transformations using Spark and Python.
+●Queried data using Spark SQL and the Spark engine for faster record processing.
+●Monitored Hadoop cluster using Cloudera Manager, interacted with Cloudera support, logged the issues in the Cloudera portal, and fixed them as per the recommendations.
+●Worked with various file formats such as Text, Sequence files, Avro, Parquet, JSON, XML files, and Flat files by leveraging Map Reduce Programs
+●Utilized Sqoop for large data transfers from RDBMS to HDFS/HBase/Hive and vice versa.
+●Used an Impala connection from the user interface (UI) and queried the results using Impala SQL.
+●Collaborated with cross-functional consulting teams within the data science and analytics group to design, develop, and implement solutions aimed at deriving business insights and addressing client operational and strategic challenges
+●Used Zookeeper to coordinate the servers in clusters and to maintain data consistency.
+●Assisted in setting up the QA environment and implementing scripts using Pig, Hive, and Sqoop.
+●Exported analyzed data to relational databases using Sqoop for visualization and report generation by the BI team
+●Worked extensively with Hive, including handling Partitions, Dynamic Partitioning, and bucketing tables.
+
+Environment: Hadoop, Hive, MapReduce, Impala, Sqoop, Yarn, Pig, Oozie, Linux-Ubuntu, Cloudera
+
+ILenSys Technologies, India October 2015 to December 2016
+Java Developer
+
+●Responsible for designing and implementing the web tier of the application from inception to completion using J2EE technologies such as MVC framework, Servlets, JavaBeans, and JSP.
+●Developed the application using Struts Framework that leverages classical Model View Layer (MVC Model2) architecture.
+●Employed Java and MySQL on a daily basis for diagnosing and resolving client process-related problems
+●Used Java Messaging Services (JMS) for the reliable and asynchronous exchange of important information such as payment status reports.
+●Written SQL queries and did modifications to existing database structure as required for the addition of new features.
+●Developed the database access layer using JDBC and SQL stored procedures
+●Managed version control of the source code using Git
+●Took part in the design and implementation process across all SDLC phases, encompassing development, testing, implementation, and ongoing maintenance support
+●Involved in designing the database and developed Stored Procedures, and triggers using PL/SQL.
+
+Environment: IBM WebSphere Server, Java, JDBC, JavaScript, Struts, Springboot, JMS, Web Services.
+Contact this candidate

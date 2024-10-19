@@ -1,0 +1,118 @@
+Amjad Kalim
+437-***-**** adatpd@r.postjobfree.com
+
+Sr. SQL Server / SSIS SSAS SSRS Developer/Power BI Developer
+Professional Summary:
+•An accomplished, quality-driven IT professional with over 8+ years of experience in design, development and implementation of business requirements as a Microsoft SQL Server 2008/2012/2014 Developer/BI Developer.
+•Extensive experience in BI Solutions (ETL & Reporting) using SSIS, SSAS and SSRS
+•Hands on Experience in Installation, Configuration, Managing, Monitoring and Troubleshooting of SQL Server 2008/2012/2014 on different Windows Environments.
+•Highly proficient in Data Migration from various sources like, SQL Server, Oracle, DB2, Excel, Flat file to Microsoft SQL Server by using SSIS
+•Excellent understanding of Relational Database Systems, Normalization, Data Mining, and Data Warehousing.
+•Excellent T-SQL programming skills in writing complex queries to Create and Update Database objects such as Tables, Views, Stored procedures, Triggers and User-Defined Functions.
+•Experience in Error handling and debugging coding issues and troubleshoot production problems.
+•Experience in building Data Integration and Workflow Solutions for Extracting, Transforming, and Loading data with SSIS packages, DTS and BCP utility.
+•Experienced in implementing Incremental Data Load from an OLTP to a staging database for further Analysis.
+•Extensive experience in developing, deploying and monitoring packages for ETL tasks using SQL Server Integration Services (SSIS) and excellent understanding SSIS Control Flow items and SSIS Data Flow items
+•Transformed data from one server to other servers using tools like Bulk Copy Program (BCP), Data Transformation Services (DTS) and SQL Server Integration Services (SSIS) (2008/2012).
+•Experience in creating OLAP cubes in SQL Server Analysis Services (SSAS) in Multidimensional and Tabular Versions
+•Experience in developing Custom Reports and Various types of Tabular, Matrix, Ad-hoc, Drill-down, Lists, Charts, Parameterized and Cascading Reports with multiple formatting using SQL Server Reporting Services (SSRS) using SQL SSRS 2008/2012.
+•Good Understanding of Data warehouse concepts such as like Star-schema and Snow flake schema.
+•Expert at developing ETL interfaces using SSIS and enterprise reports using SSRS utilizing latest versions (2008/2012) and features.
+•Experience In the integration of SSRS Reports using various web parts into Dashboards and Share point.
+•Designing and Developing the Dashboard reports using MDX and DAX.
+•Extensively used Report Manager to configure Web URLs, E-mail and Databases to prepare reports and make reports visually appealing by adding different report formatting options and also provided back-end support for functional testing and performance testing.
+Technical Skills:
+•RDBMS: SQL Server 2008/2012/2014, MS Access
+•Languages: Basic C++, T-SQL, PL/SQL, Java, Python, HTML
+•Operating Systems: Windows Server 2003, Windows 2000 Advanced Server/Server, Windows NT 4.0, Windows XP, Windows 7, MAC OSX
+•Tools/Utilities: Enterprise Manager, SQL Server Management Studio (SSMS), Business Intelligence Development Studio (BIDS), Database Tuning Advisor, SQL Profiler, Query Analyzer
+•Tools & Packages: SQL Server Management studio, Enterprise Manager, Profiler, Business Intelligence Development studio (BIDS), DTS, ETL, Visual Studio .NET.
+•ETL Tools: SSIS, DTS (Data Transformation Services)
+•Tools: SSAS
+•Reporting: SSRS (MS SQL Reporting Service), Power BI, Crystal Reports, MS Access, Excel
+Professional Experience:
+
+Reliable IT Solutions, Noida, May 2017 – April 2019
+Role: Sr. BI Developer
+Reliable IT Solutions is a provider of telecommunications equipment and services to mobile and fixed network operators. The objective of the project was to develop a Data Integration and Analysis system to cost-effectively triple the data capacity of a GSM/GPRS network, paving the way for advanced data services. This includes building SSIS Packages to load data from various sources into SQL Server with necessary transformations, performance tuning of SSIS Packages, Building SSAS Cubes and Report Generation with SSRS.
+Responsibilities:
+•Analyzed the Business Requirement Document (BRD) to design a conceptual model to be implemented with T-SQL, SSIS, SSAS and SSRS to develop a solution.
+•Created Stored Procedures for complex business process, SQL Agent jobs, and designed tables by following RDBMS rules.
+•Administered SQL Server 2008 Management Studio tools including SQL Profiler and Database Engine Tuning Advisor.
+•Developed and worked with design, development, implementation and support of ETL process using SSIS Packages in SQL Server 2008.
+•Created Incremental Data Load from various sources into SQL Server Database Engine with ETL Operations
+•Used Change Data Capture (CDC) functionality of SQL Server 2008 alongside SSIS to populate the destination tables with inserted updated and deleted data.
+•Extensively worked on Facts and Slowly Changing Dimension (SCD) tables.
+•Worked with a combination of multiple Control Flow Tasks, Data Flow Tasks and Dataflow Transformations to build packages in SSIS packages especially For Loop and For Each Loop containers with Execute SQL and Script Tasks.
+•Implemented major Event Handlers like OnError, OnProgress and OnTaskFailed for SSIS Packages.
+•Worked with Master SSIS packages to execute a set of packages that load data from various sources onto the Data Warehouse on a timely basis.
+•Scheduled and Monitored SQL Server Agent Jobs to run various SSIS packages in SQL Management Studio.
+•Well versed in using multi-dimensional expression (MDX) quires, mathematical formula and user defined functions for developing reports for Multi-Dimensional OLAP Cubes.
+•Wide experience in creating OLAP cubes, identifying dimensions, attributes, hierarchies and calculating measures and dimension members in SQL SSAL.
+•Created Star Schema, Multi-star Schema and Snowflake Schema in SSAS.
+•Developed the OLAP processes for changing and maintaining the Data Warehouse, Optimizing Dimensions and adding new Aggregations to the Cube.
+•Worked with Calculations, Key Performance Indicators and Aggregations on SSAS Cubes.
+•Analyze, design, and develop, unit test, document, and implement reporting applications using SQL Server Reporting Services SSRS and other related technologies.
+•Involved in generating Parameterized Tabular and Matrix Reports on data sets imported from SQL server Database Engine and also Analysis Services cubes as well as migrating reports to SQL Reporting Services from Crystal Reports and Microsoft Access.
+•Created following dashboard reports using Power BI Desktop for stakeholders as per business requirements using DAX:
+•Sales analysis report
+•Customer satisfaction data report
+•Inventory hold reports
+•Extensively used Report Manager to configure Web URLs, E-mail and Databases to prepare reports and make reports visually appealing by adding different report formatting options and also provided back-end support for functional testing and performance testing.
+Environment: SQL Server 2014, Windows Server 2003 Enterprise, Management Studio, Business Intelligence Development Studio (SSIS, SSAS, SSRS), OLTP, OLAP, XML.
+
+KI Engineers, New Delhi, January 2015 - April 2017
+Role: Sr. SQL Server / SSIS / SSAS / SSRS Developer
+KI Engineers is one of the leaders in the salvage auto auction industry which operates in partnership with variety of sellers including insurance companies, dealerships, rental car companies, and fleet lease companies. Our team was responsible for implementing Enterprise Data Warehouse conversion project from Business Objects to MS SQL Server where we performed data migration with the help of ETL and stored procedures. In addition, our team performed analysis using cubes and developed reports for end users using SSRS.
+Responsibilities:
+•Extensively used SSIS to create ETL packages to validate, extract, transform and load data to data warehouse databases, data mart databases.
+•Designed complex T-SQL queries, user defined functions, stored procedures and triggers followed by thorough analysis and testing of those database objects before deployment to the production server.
+•Created new SSIS package to extract date from legacy to SQL Server Objects using Business Intelligence Development Studio (BIDS) and Visual studio 2015.
+•Developed SSIS Templates which can be used to develop SSIS Packages such a way that they can be dynamically deployed into Dev, Test and Production Environment and extracted the data using SSIS from OLTP to OLAP.
+•Employed many Slowly Changing Dimension methodologies to maintain and update historical data.
+•Implemented data warehouse design principles and best practices for maintaining dimension and fact tables.
+•Executing data validation stored procedures in SSIS packages in Business Intelligence Development Studio (BIDS) and performance tuning of Stored Procedures and T-SQL Queries.
+•Involved in Deployment and Administration on SSIS packages with Business Intelligence development studio.
+•Created indexes on selective columns to speed up queries and analyses in SQL Server Management Studio.
+•Created a cube using multiple dimensions and modified the Relationship between a Measure Group and a Dimension, created calculated members and KPI’s, using SSAS.
+•Created Parameterized, Cascaded, Drill-down, Cross-tab and Drill-through Reports using MDX in SSRS.
+•Developed Report Models for building Ad hoc reports using Crystal Reports. Developed optimal stored procedures and queries to create data sets for reports.
+•Worked on variety of types of chart reports such lines, columns, bars with both 2D and 2D views in order to display cumulative totals based on day to day requirement.
+Environment: SQL Server 2014, SSAS, SSIS, T-SQL and SSRS
+
+N Johnson Engineers, New Delhi, February 2012- December 2015
+Role: SQL Server/SSIS /SSRS Developer
+N Johnson Engineers is a leading financial services provider serving some of the most sophisticated financial, corporate, and business institutions. The project was to re-organize the customer database with the latest information on loans, payments, fixed-deposits and huge transactions. As a SQL / BI Developer, I was involved in altering the physical design, developing stored procedures and functions, developing DML scripts, fine tuning complex queries and also maintaining backups.
+Responsibilities:
+•Used ETL (SSIS) to develop jobs for extracting, cleaning, transforming and loading data into data warehouse
+•Involved in the Migration of Databases from SQL Server 2008 to SQL Server 2012
+•Prepared the complete data mapping for all the migrated jobs using SSIS
+•Developed SSIS Packages to perform Data loads from various types of sources files (EXCEL, Access, Flat files)
+•Created SSIS Packages using Fuzzy Lookup, Derived Columns, Pivot Transformation, Condition Split, Term extraction, Aggregate, Execute SQL Task, Data Flow Task, and Execute Package Task to generate underlying data for the reports and to export cleaned data from Excel Spreadsheets, Text file, MS Access and CSV files to data warehouse.
+•Created SSIS package to transfer data between OLTP and OLAP databases using Incremental Load.
+•Designed and developed various types of reports using MDX in SSRS
+•Worked on formatting SSRS reports using the Global variables and expressions
+•Created parameterized reports, Drill down and Drill through reports using SSRS
+•Deployed and uploaded the SSRS reports to SharePoint Server for the end users and involved in enhancements and modifications
+•Actively involved in developing Complex SSRS Reports involving Sub Reports, Matrix/ Tabular Reports, Charts and Graphs.
+Environment: Microsoft SQL Server 2008/2012, Windows Server 2003, Windows XP, Microsoft Visio, SQL Server Integration Service (SSIS), SQL Server Reporting Service (SSRS), SQL Server Analysis Service (SSAS).
+Kalim Infotech, New Delhi, February 2011- January 2012
+Role: SQL Server Developer/ SSIS / SSRS
+Kalim Infotech specializes in creating high quality digital content for data distribution, electronic publishing and the web, efficiently converting all forms of information from structured file formats. I was part of the team performing various ETL operations to gather information on online orders from the OLTP and load into an existing Operational Data Storage to make necessary data transformations for the orders to be processed efficiently. In addition, our team designed and implemented a variety of SSRS reports such as Parameterized, Drilldown, Ad-hoc and Sub-Reports using Report Designer and Report Builder based on the business requirements.
+Responsibilities:
+•Responsible for creating the reports based on the requirements using SSRS 2005.
+•Created detailed reports for the customers to help them decide which property to purchase by showing demographic information based on various parameters.
+•Authored performance based reports for the managers to show sales against various measures like Time, Area, and Price-Range.
+•Participated in the Normalization and De-Normalization of database along with creating and managed clustered and non-clustered indexes to improve database performance.
+•Designed SSIS packages that could run on various environments by creating various types of XML and SQL Server configuration files for the variables being used in the packages.
+•Extensively used SSIS Import/Export Wizard, for performing the ETL operations and actively supported business users for change requests.
+•Extensively used for loop Containers and for each loop containers to perform dynamic tasks in SSIS.
+•Monitored performance and optimized SQL queries for maximum efficiency and planned the complete Back-up of various Databases for disaster recovery scenarios.
+•Identified and added the report parameters, uploaded reports on to the report manager and organized them in folders.
+•Built effective queries for high-performance reporting and rendered them to HTML, XML, PDF and Excel formats using Reporting Services.
+•Deployed the generated reports on to the server and fine-tuned the database objects and server to ensure efficient data retrieval.
+Education
+2007 – 2010
+University of Delhi, New Delhi, India
+B.Sc. Applied Physical Science (Computer Science)
+Contact this candidate

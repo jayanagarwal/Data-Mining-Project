@@ -1,0 +1,122 @@
+ad7uql@r.postjobfree.com
+MIKHAIL TOPTCHI
+SUMMARY:
+● 15+ years of professional experience in financial industry as a senior software engineer/architect specializing in design and development of financial systems : trading (Business: Mortgage, Equity Trading - strategy trading), real time pricing (Business: Rates, Credit, Brokerage) and risk ( Business: Finance, Brokerage, Correlation Trading), risk reporting, ad-hoc scenario execution (correlation trading)
+● Hands on experience with server side and client side applications
+● Experience with Market Data API : Bloomberg, Reuters
+● 5+ years’ experience with risk systems
+● 5+ years’ experience with trading systems
+● Microsoft Certified Developer (.NET 2.0, .NET 3.5)
+● Mathematics for Machine Learning Specialization (Imperial College London, Coursera)
+● Machine Learning (Stanford University, Coursera)
+● Deep Learning Specialization: CNN, NLP (DeepLearning.AI, Coursera)
+● Machine Learning Data Lifecycle in Production (Google, Coursera)
+● Deep Learning Specialization (DeepLearning.AI, Coursera)
+● Practical Time Series Analysis (State University of NY, Coursera)
+● Introduction to Containers w/Docker, Kubernetes & OpenShift (IBM, Coursera) Languages: C#, Python (Django, Big Data), Java (Spring Boot), C++/Managed C++ Tools & Services: CI/CD, Docker, Git, AWS, Terraform, Kubernetes, Teamcity Databases: MS Sql, OrientDB, Oracle, PostgreSQL,Maria, MySql Achievements: 2007 Barclays Application of the Year, 2013 Barclays Application of The Year Barclays Capital 03/2015-07/2024
+Senior Software Engineer / Analyst
+RFT COO & Functions, Market Pre Trade
+Support and Development
+Projects: Service for Uploading Report, Test Framework for ICE Credit Report System, Project Documentation Tools: Python (Windows, Linux), Django, DSL(Lark), С#, Java(SpringBoot), Docker, PostgreSQL, Terraform, RestAPI, CI/CD, TDD
+● C#-Python interface (Pythonet)
+● Sql/Pandas repository for reports
+● Creating Python DevOps Infrastructure (Anaconda)
+● Sql repository for report execution configuration
+● Python (Anaconda) Adapter (Windows, Linux) for external data for ICE AGG server EFS RAD IT Trade Floor Support
+Development and Support Equity Trading Desk,
+Various AdHoc projects
+● Generic Trade Editor (C#, Managed C++)
+● Pricing Model Transformation (C#, Java (SpringBoot))
+● Distributed Pricing Service Upgrade (Java (Core, SpringBoot) server transition Solaris to RedHat)
+● Anaconda-Excel integration (Python, C#) Interface for in-house packages with Excel
+● Interface Python/C++ to request status of requests in MQ
+● Trading Desk Support
+EFS RAD IT Data Desk
+Project: Data Desk. Design, Development and Support Interfaces and Tools for processing Historical (over 20 years) Market Data, Historical Data Analysis, Project Documentation (PyDoc) Tools: Anaconda (Linux/Windows), Java(SpringBoot), MSSql (AWS), Docker, Kubernetes, RestAPI, CI/CD, Git, TeamCity
+● Creating Python DevOps Infrastructure (Anaconda)
+● Creating Scenarios for processing Historical Data (Time Series Analysis) Credit IT
+Project: Support/Development Credit Pricing Service (S3): Tools: Java (Core, Multithreading, SpringBoot), Apache Tomcat, JS, JQuery, RestAPI,Maven, Git
+● Application loads credit securities into system cache
+● Subscribes to live pricing curves stream
+● The curve update triggers price calculation for cached securities
+● GUI:
+o latest price per instrument
+o status of pricing engines, pricing errors
+o instrument definition (Barclays internal, Reuters) FI Rates IT
+Development Real Time Pricing And Risk System (Transition Rushmore To Dakota): Real Time Pricing And Risk System for Rates. generation of executable graphs, distribution of executable graphs Tools: C#, OrientDB (NoSQL Document & Graph DB), Java (JMS), C++, MS SQL, Git, JavaScript, JQuery, Solace
+● The new real time pricing and risk system (C#, OrientDB, Java) has to replace existing production (C++, MS SQL) application.
+● The pricing system is implemented as an engine to maintain executable graph (EG). EG comprises a set of sub graphs. A sub graph is set of calculation nodes (vertices) with a set of multiple inputs and one output (edges).
+● The main components are:
+o Boundary Filter :
+assigning instruments to a specific business model
+maintaining (CRUD operations) executable sub graph (ESG) instructions o Graph Database: repository for business model templates and ESG o Graph Partitioner: assigning ESGs to available execution engines/partitions o Partition Database: repository of deployment instructions per execution engine/partition o Engine Manager: maintenance of available execution engines o Execution Engine: deploying ESG instruments and triggering execution of calculation nodes Golden Tree Asset Management 05/2014-10/2014
+Consultant: Trade Floor Support/ Developer / Analyst Portfolio Risk Team
+Support and Development of Risk Systems:
+Tools: C# (WPF, MVC4), VC++/C++ (Unmanaged, Managed), STL, MS SQL, Python, Perl, PowerShell
+● Working with Operations/Traders and developing/extending trading applications and support
+● Development and extending NSS (New Security Setup) application (Bond, ABS, Bank Debt, Swap, TRS etc) base on Traders requests (C#, MVC, Prism, EF, MS SQL): creating shell and updating information security in 3rd party
+(Paladyne) system populating security information from Bloomberg Service (Bloomberg API) extending trade booking to support different FI instruments base on the traders' requests extending user parameters in Paladyne to detail instrument specific information the security information is populated from Bloomberg channel or available information in repository
+● Security Adapter Service for RiskSim (in-house security & trade repository system & QA) for Swaps, TRS, Debt instruments (C++/CLI C++/C#, WCF, Windows Service)
+● Support traders and trading desks/operations throughout the business day(Security Setup & Fixing, custom risk reports per portfolio, liquidity ratings)
+● Operations Support (MS SQL): fixing Security Setup, fixing Trade Strategy, monitoring risk breaks between 2 Different systems (in-house QA and external)
+● Developing and extending Position Dashboard application (WPF UI allows to monitor Bloomberg live prices per portfolio instruments and real time PnL portfolio calculation)
+● Overnight support (resolving discrepancies between RiskSim&SunGuard). Barclays Capital 01/2010-05/2014
+Consultant: Trade Floor Support/ Developer / Analyst FI Finance IT
+Portfolio Risk
+● Design and development, report to risk manager of REPO desk, support busyness users (global), overnight support
+● Server side: (Windows/Linux) VC++/C++, MongoDB, MS SQL, Excel, VBA, PYTHON, Perl, Shell
+● Client: C# WPF, Prism (Unity Framework), ORACLE, DevExpress Controls for WPF
+● FI Finance IT:
+● Creating custom reports for REPO trading desk: risk managers & traders (Python, Oracle, Linux)
+● Developing & extending WPRF framework base on the traders requests: Client side: Presentation layer to present results for predefined valuation scenarios of client’s Expected Loss, Maximum Margin, VaR. C# (WPF, WCF, Unity Framework, DevExpress) ORACLE.
+● The Risk Manager can see and tailor the historical performance information of client portfolio for a specified timeframe and available risk data.
+● Server side: Client for new Risk system: RSP controller (Linux, Python, MongoDB).
+● RSP controller analyzes and monitors RSP client:
+● Checks the health of RSP process by means of verifying execution progress, call duration (Python, ORACLE)
+● Generating comparative report between RSP and Rushmore risk data (Python, ORACLE) Fixed Income Rates IT:
+● Working closely with the head of Risk Management of REPO desk to collect requirements for Global REPO EOD system
+● Server side (C++, STL, Talarian): Design, Implementation and Support (Bond, Strip, Bond Future, Option, Swap):
+● Standalone Risk system for REPO desk (REPO ET Service) within Electronic Trading framework (Rushmore) (USA, Europe, Asia, EM).
+CPPIB Investment Board 02/2009-01/2010
+Portfolio Risk / Support Developer
+Risk and Investment Systems
+Type of projects: Financial, Analytical, Development & Support Risk Managers: Projects: Reporting systems Credit Exposure, Market Risk, Risk Attribution
+● Design and implementation, support business users (risk managers)
+● Client/Server side: C# WPF (.NET 2.0, 3.5) WinForms,VC++ (Unmanaged, Managed), Java (Server Side), SYBASE, MS SQL 2005 - 2008, Excel, VBA, PowerShell
+● Implementation of custom reports (SQL, C#, Excel) base on requests of Risk Managers
+● Implementation of interface for Risk Metrics application to submit custom requests, collect response and produce real time risk reports for all available company portfolios. Users were able to configure benchmark portfolios from selected set of indices and submit request to receive comparative risk performance Barclays Capital 07/2006-01/2009
+Development / Trade Floor Support
+Credit Derivatives IT
+Credit Trading System (Trader Workbench) Barclays Application of the Year Award (2007) Credit and Correlation Desk Support
+● Type of projects: Financial, Analytical Development:
+● Analytical tool to plot CDS Trading Curve and Forward Curve, evaluating historical performance of Selected CDS, CDS index, analyzing historical performance of selected Industry segment.
+● End of Day Marks for CDS and CDS Indices
+● Implementation Analytical functionality for to support analytical tool & EOD Marks in QA framework
+● Trading floor development & support Correlation & Flow Desk (Support & Development):
+● Developing & running reports for various custom risk scenarios
+● Instruments - Indices (CDX, LCDX, Bespoke), Index Tranches, NTD, CDS
+● Implementation Ad-hoc requests from Quant Group
+● Implementing & executing custom risk scenarios for trading desk (ID risk, RR shift, etc.)
+● Dynamic framework for ad-hoc requests
+● Responsibilities are design and implementation application subsystems:
+● interface and interaction GUI (C#) with analytical library (managed/unmanaged C++)
+● application notification subsystem with MS SQL Service Broker
+● Client side: Windows 2000/XP - VC++ (Unmanaged, Managed), SYBASE, C#, MS SQL 2005 T-SQL, Excel, VBA, PowerShell
+Bear Stearns 01/2006-07/2006
+Development / Trade Floor Support
+Equity Trade Floor Support
+Real Time Strategy Trading System
+Type of projects: Financial, Real Time
+● Project: NGEN (New Generation of Global Equity Portfolio Trading System)
+● Responsibilities are design and implementation subsystems: messaging subsystem (Level 1, Level 2 market data from Reuter) (C++ (Linux) to VC++) interface messaging subsystem with GUI (VC++ managed/unmanaged, C#)
+● Client side: Windows XP - C++ managed/unmanaged, C# (.NET – WinForms, Regular Expressions, Multithreading).
+● Server Side: Java, Linux, SYBASE
+UBS 07/2004-01/2006
+Development/ Trade Floor Support
+FI IT Department
+Type of projects: Financial, Real Time
+● Project: GABS (Global Amortizing Bond System) –trading applications for Fixed Income Products (TBA, CMO, ABS, ARM, CCT)
+● Trading floor Support (VC++, VBA, Excel, VB6, SYBASE)
+● Development : implementation of client side (GUI), middle tier (Server), data tier for several project subsystems: position blotter (client: C#, WinForms, server: Java, Web Services) real time trade blotter (C# WinForms) EDUCATION:
+Major: MS Degree in Theoretical Physics, Physics Faculty, Kabardin-Balkar State University, Russia Minor: BS in technology of semiconductor devices (semiconductor) Diploma Project: Design and Implementation of Distributed Microprocessor Systems
+Contact this candidate

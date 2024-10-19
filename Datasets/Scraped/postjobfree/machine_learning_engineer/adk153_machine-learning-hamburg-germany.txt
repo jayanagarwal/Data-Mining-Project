@@ -1,0 +1,96 @@
+Education
+****-**** ****** ** ******* GPA *.** (V. Good) University of Hamburg, Germany
+Intelligent Adaptive Systems Major
+****-**** ******** ** ********** 8.0/10 Jaypee University, India Computer Science Major
+2007-2008 High School 84.8/100 Rewa, India
+Specialized in mathematics, physics & chemistry
+2005-2006 Higher Secondary School 85.6/100 Rewa, India Specialized in mathematics & science
+Experience Summary
+2 years of deep learning and 7 years of rich software engineering experience across di erent technology.
+• Worked on di erent computer vision tasks such as pedestrian detection and tracking, semantic segmentation, saliency prediction through transfer learning, visualization of deep networks, tweaked pre-trained CNN models(VGG16, VGG19, Xception, ResNet50) and used OpenCV to solve speciﬁc problems.
+• Experienced in implementing various model-free reinforcement learning algo- rithms such as Q-learning, SARSA, policy gradients in a manner that can solve the problems formulated as MDP.
+• Worked on continuous delivery and continuous integration tools such as jenkins, Mesosphere/ Marathon, cron jobs using DC/OS and docker for platform agnostic applications.
+• Proﬁcient with HPC frameworks(for instance SLURM, LSF) used for e cient shared GPU cluster(s) management across team.
+• Writer at Towards Data science medium community and write posts on AI/ML/DL topics. I publish my blogs intermittently at nilesh0109.medium.com Work Experience
+Mar 21- now Machine Learning Engineer Langtec, Hamburg(DE) Leveraging self-supervised learning for improving semantic segmen- tation model trained on cityscapes dataset. Major focus of my work is on computer vision problems.
+Apr 20-Feb 21 Research Intern Bosch Center for Artiﬁcial Intelligence, Renningen(DE) Working with "Robust and Explainable AI" group on representation learning. My Main focus is towards contrastive learning based meth- ods(BYOL, Simclr, MoCo etc) to learn robust representations which could be used for internal IOT data.
+Jun 17-May 19 Software Engineer Dreamlines GmbH, Hamburg(DE) Supporting the data scientist with feature engineering and modelling the lead quality as a score submitted by customer (using Gradient boosted decision trees).
+Enhancement and maintenance of existing Multilingual website for Eu- rope’s largest cruise booking portal along with A/B testing implemen- tation.
+Oct 15-May 17 Frontend Developer Tacme LLC, Dubai(UAE) Developed a responsive Multilingual Website for one of the government clients of Dubai and supporting the website in webcenter based CMS integration.
+Sep 14-Sep 15 Interactive Developer Sapient pvt limited Gurgaon(India) Worked on an e-commerce website of NIVEA.DE in the defect triage phase and focused on killing existing defect related to front end de- velopment so that the project can meet its tight timelines. Jan 12-Aug 14 Systems Engineer Infosys Limited, India Developed rich HTML5 based applications for US based Pharmaceuti- cal giant and successfully delivered 50+ applications. Technologies/ Tools Used: HTML5, CSS3, jQuery, AJAX, JavaScript, Veeva CLM library, SVG, XML.
+Nilesh Vijayrania
+Machine Learning Engineer
+m nilesh0109.medium.com
+m linkedin.com/in/nilesh-
+vijayrania/
+m github.com/nilesh0109
+@ adk153@r.postjobfree.com
+B Hamburg, Germany
+T +49-152********
+About me
+I am a Machine development engineer
+with strong focus on AI-powered
+applications. My work is driven by my
+keen interest in various artiﬁcial
+neural network applications and allied
+machine learning algorithms.
+Technology wise, i majorly use python
+and various of its scientiﬁc computing
+packages(numpy, pandas, scipy,
+matplotlib, seaborn) for EDA and
+data modelling(scikit-learn, keras,
+tensorﬂow, pytorch).
+Skills
+Languages: python,C, C++, JAVA, SQL,
+JavaScript, PHP, HTML
+Frameworks: tensorﬂow, pytorch, keras,
+OpenCV, ROS
+ML Libraries: pandas, numpy, scipy, mat-
+plotlib, seaborn, sklearn
+Backend Technologies: Nodejs, Php,
+JSP
+FrontendTechnologies:HTML5, CSS3,
+JavaScript
+WebDevelopmentFrameworks:Python
+Django, ReactJS, AngularJS
+Databases: mySql, mongodb
+Others: Jenkins, Docker, AWS, Apache
+mesos, queue
+Past Projects
+2020-now "Enhancing Label E ciency for semantic segmentation tasks using self-supervised learning" BCAI, Renningen
+Using BYOL for pretraining on 20k unlabelled street view images in self-supervised manner, got 10% improvement in mIOU(0.65 to 0.74) on cityscapes val dataset. Used baselines architecture of FCN8s and deeplabv3plus with Resnet50 as backbone.
+Link: https://github.com/nilesh0109/self-supervised-sem-seg 2020 Pedestrian Detection and Tracking
+Using a side-view camera images over a ﬂat ﬂoor, an object tracker is implemented in python using opencv. For pedestrian detection, Yolo- v3 and for tracking, kalman ﬁlter(SORT) is used.
+Link: https://github.com/nilesh0109/PedestrianTracking 2019-20 Masters Project on "E ect of Non-verbal cues in Human Robot Inter- action" UHH, Hamburg
+Through the carefully designed HRI experiment, which involved the interaction of a human participant with two NICO robots(programmed using ROS), we(masters project group) found participant’s slight incli- nation towards trusting the robot with non-verbal cues in comparison to robot with minimal non-verbal cues.
+Link: https://github.com/nilesh0109/PHRI_1920
+2019 Saliency Prediction System UHH, Germany
+Used pretrained SalGAN on SALICON dataset to transfer learn and pre- dict the salient region of the input images. The dataset used was 1800 scene images collected through eye-tracking devices Link: https://github.com/nilesh0109/CV2_SoSe_19
+2019 Chagas Parasite Diagnosis UHH, Germany
+Diagnosis of chagas paracite disease using supervised learning data with GDA and SVM classiﬁer
+2018-2019 Visualization of deep networks UHH, Germany comparison of various visualization techniques for understanding complex behavior of deep networks(CNNs). The algorithms examined were deconvolution, guided-backpropagation, CAM, grad-CAM. 2018-2019 General Purpose Generative Chatbot UHH, Germany Experimented with Seq2seq architecture to generate adequate and in- telligent response for the general purpose chatbot. Implemented with Tensorlayer using LSTMs in encoder decoder architecture. Link: https://github.com/nilesh0109/seq2seqChatbot Achievements & Awards
+• STAR OF THE BATCH Awarded with the title "STAR OF THE BATCH" during my summer internship under HPES at IIIT Allahabad, India from 10th June, 2011 to 15th july, 2011.
+Certiﬁcations
+2020 Deep Leanring Specialization Coursera
+Applied Deep Learning Specialization
+2019 Mathematics for Machine Learning Cousera
+Linear Algebra Course by Imperial college london
+2018 Python for Data Science for DataCamp Datacamp Data science Toolkit
+2013 Microsoft Specialist Microsoft
+Programming in HTML5 with JavaScript and CSS3
+2011 Infosys Certiﬁed Android Developer Infosys
+Android development
+Interests: Deep Learning, Machine Learn-
+ing Algorithms, Neural networks, Re-
+inforcement learning, computer vision
+tasks
+Methodologies: Agile, Scrum
+Source Code Management Tool: Git,
+SVN
+Languages
+German
+Hindi
+English [The language scale is from 0 (Fundamental Aware- ness) to 6 (Expert).]
+Hobbies Working out, playing sports, Tech podcasts and events, gadgets, AR/VR, Writing Tech blogs. My personal Space
+(https://nilesh0109.medium.com/)
+Contact this candidate

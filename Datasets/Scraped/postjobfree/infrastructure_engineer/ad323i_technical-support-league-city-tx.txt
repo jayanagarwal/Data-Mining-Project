@@ -1,0 +1,274 @@
+Summary:
+
+Accomplished Infrastructure Engineer with 15+ year’s experience in Computer Operations, Technical support, vSphere, Citrix XenApp/Xendesktop, Storage management, Architecture and Engineering, Risk Assessment / Impact Analysis, Data Integrity / Disaster Recovery / Contingency Planning, Policy Planning / Implementation / ITIL, Department and Project Leadership. Proactive self-starter with excellent communication and diagnostic skills, known to initiate process and system improvements to increase system stability and staff productivity while consistently solving problems and rarely having the need to escalate issues. I program in Java, Lisp, Perl, C++ and assembly for many years now. I am experienced with Penetration testing and ethical hacking.
+
+8/2015 to Present Galveston County, Galveston TX
+Senior Server Analyst
+
+Installed and configured the many different aspects of Cisco Umbrella.
+Installed and configured the many different aspects of Cisco Cloud Content Security Management
+Installed and configured Cisco Cloud Email Security
+Installed and configured/managed day to day Cisco AMP
+Installed and configured/managed day to day nGeniusONE.
+Configured/managed day to day with Varonis
+Assisted in getting Artic Wolf integrated into our security suites.
+Used Azure for GSLB using core netscaler talking to 3 different netscalers at our locations.
+Migrated our Domain Level/Forest Levels from 2003 to 2012r2
+Rebuilt Vsphere from 6.0 to 6.7u3 with SRM and multiple replication Linux servers replicating to multiple offsite DR locations.
+Added DR Barracuda and Netscalers with DNS roundrobin.
+Installed Vmware Horizon to test against Citrix VDI, ran 30 desktops for 9 months.
+Upgrade Vcenter to 6.0, linked mode, vcenters in all 3 locations, SRM 6.1.2 implemented both side along with Vsphere Replication agents replicating disks to remote locations and to cloud/MS & AWS along with ESI hosts upgraded to 6.
+Implemented new xenserver clusters with Nvidia M10 GPU passthroughs
+Upgrade Citrix Infrastructure from Xenapp 6.5 to 7.5
+Took powershell and advanced powershell classes, now automating simple tasks and reporting
+Upgraded Current SAN’s EMC with extra Shelves and more storage
+Built many 2012 R2/2016 Servers to replace older 2003/2008R2 Servers
+Upgraded all Domain Controllers to 2012R2/2016 servers.
+Installed RedHat/Ubuntu Linux clusters and was only admin for our linux servers.
+Build out VDI environment on Azure platform using VDI as a service. Tested against internal Citrix VDI.
+Built out LDS Servers for Lightweight Directory services to support Cisco Jabber clients
+Built out new Xendesktop 7.5/7 Infrastructure, Xenserver with PVS, 100 User POC with pvdisk
+Supporting Core infrastructure of < 1500 servers
+Resolved many security issues, did external pen tests.
+Implemented multiple Barracuda load balancers 440 series in HA mode, dual sites, 4 now deployed handling all external web traffic from 20+ sites and internal LB for multiple purposes.
+Upgraded Web interface to Storefront
+Built out 2 Domain controllers in Azure.
+Racked, installed VxRail.
+Worked closely with lead network on all changes and adds.
+Upgraded license server to latest code level
+Edgesight implemented for both Xenapp and Xendesktop farms
+Upgraded Vmware ESX 4/4.5 to 5.5 on 30+ hosts
+Implemented Vmware Site Recovery Manager
+Testing VxRack for improved data flow to exsi servers.
+Upgrade Vcenter to 6.0 along with all esxi hosts to 6.0, dual vcenters linked with separate DB’s for DR
+Rolled out Dell/Compellent all SSD SAN for Xendesktop infrastructure, expanded twice
+Installed new Dell/Isilon all SSD SAN for expansion of Block and File shares.
+Installation and configuration of App-V on Xenapp and Xendesktop
+Managed Dell Blades and HP Blades and Enclosures
+Administration of Active Directory and Security, leveraging GPO’s/OU’s
+Use of Remedy Helpdesk software for problem resolution
+Built SCCM/SCOM servers for deployment of packages/updates/images/inventory
+Migrated servers to DR and new production location off of Island.
+Implemented Citrix Netscaler VPX 200 for all ICA clients and VPN SSL Connectivity. Installed one VPX offsite for GLSB and dual connections allowing 100% uptime.
+Upgraded Netscalers with FIPS 140-2
+Migrated all websites over to SSL along with all new website’s deployed to new location off island.
+Migrated some servers to AWS and Microsoft Azure for 100% uptime.
+Migrated servers to new production site.
+Built XenDesktop 200 User environment at DR location for emergency use.
+
+4/2014 - 7/2015 Impact Weather, Houston, TX
+Infrastructure Systems Engineer/Architect
+
+Rolled out RDP services for management and client services to internal and external users, sever 2012.
+Configured ASA's for VPN/SSL VPN and firewall services
+Setup Patch management using wsus.
+Setup Change management
+Build out cluster of 8 VMware 5.5 servers
+Rolled out 2012 file/print server for location of all printers and drivers for both 32/64 bit systems
+Weekly meetings with Ops and Management to go over wish lists and current issues.
+Upgraded checkpoint firewalls to PA3020's at AWT and Bergen offices
+Created Change management system to verify changes before they occur with back out plans
+Created many visio's and project plans for management of current and future projects.
+Traveled to disaster recovery location monthly.
+I was able to do cross training with my fellow engineers over my new projects and implementations.
+Built out xendesktop 7, VDI system, testing 50 users currently
+PVS being used for boot of VDI's
+XenApp 6.5 200+ user, 10 node cluster built out and being used by Bergen
+Setup and started migrating systems from windows XP to Windows 7.
+Installed and setup Cisco 5548UP Nexus switches with 2 FEX, configuring with back end connection to old stack, Vlan configs, etc.
+Configured Netscalers for external access for VDI and Xenapp
+Configured Palo Alto PA3020's for external VPN/SSL VPN and antivirus
+Setup deployment services for windows 7 deployments
+Built out entire DR system in College station
+Rolled out 2012 Servers for normal Active Directory operations
+Did weekly intrusion tests on external facing servers
+Currently piloting Xendesktop 7 for management.
+Used Kali Linux for intrusion testing
+
+5/2011 - 12/2013 Baker Hughes, Tomball, TX
+Infrastructure Systems Engineer/Architect
+
+One of 3 team members maintaining day to day operations of 5000+ Servers in multiple data centers.
+Excellent documentation on all projects
+Built/imaged 2003/2008R2 servers for production use, Citrix, SQL2005, DC/Fileservers, automated snapshot backups
+Resolved issues with production Citrix farms (R 4.5, 5 and 6.5)
+Managed 2 Citrix access Gateways
+Resolved issues with production 4.1/5 VMware farm and networking/SAN issues.
+Worked closely with Enterprise architecture and Security teams/Directory services
+Assisted in the migration of users from the BJ domain over to Baker Hughes domain.
+Deployed Citrix Netscaler 7500's with WI's replacing CAG's.
+Wrote vb/vc scripts for user count/server loads/etc for most farms. Also wrote scripts for resetting data for xenservers hosting citrix vdi's.
+Architected/Engineered and built XenDesktop 5.5/5.6 infrastructure, using XenServer 6/VMware 5 backend and Windows 7 Virtual Desktops for 300+ users, using Netscalers for external access.
+Currently piloting Xendesktop 7 for testing.
+Wrote many scripts for windows and linux operations systems, mostly vb/vc and flash.
+Lead efforts to migrate external citrix farms over to IBM POK, 150+ server move
+Built out provisioning servers (R 6.1) for xenserver and xenapp farms and implemented PVD for users customizations (10-30GB).
+Managed day to day operations of xenserver farms along with xendesktop
+Resolved many issues with TSM and backups from field and local servers.
+Used Change management process for any changes to production environment.
+Created/Modified GPO's for OU's we owned for various projects.
+Implemented Edge site on Netscalers for end user experience and to help resolve communication issues.
+Made changes to infrastructure to move all servers, clients over to SCCM/SCOM managed through Baker. Kept current SCCM/SCOM (2007) in place and functional for servers staying in BJ services domain for alerting and patching.
+Built and deployed many Linux (Red Hat and Ubuntu) servers for production use.
+Lead many High Visible projects which all performed very well.
+Completed Cisco UCS training
+Engineered/installed (2) Cisco UCS systems, one with 3 chassis and 12 B200's, the other with 6 chassis and - 14 B230's and 8 B420's. Created and deployed POC XenDesktop 5.5 using UCS blade and infrastructure. Migrated into pilot/production environment.
+
+11/2010 - 4/2011 Combs Computer Services, Houston, TX
+Consultant
+Upgraded HP blade server farm from 2003 to 2008R2, 20 servers.
+Ran multiple intrusion tests for different companies to show holes in their security, documented how to resolve these issues and assisted their in-house network engineers.
+Assisted with installation of Cisco routers and firewalls.
+Attended many conference calls to answer questions regarding subjects dealing with the day to day work of a network engineer.
+Assisted with installation of Citrix access gateways and Netscalers
+
+03/2010 - 11/2010 Frontier Drilling, Houston, Texas
+Network Engineer/Network Analyst II
+Managed day to day operation of VMware infrastructure, production system consisting of 50+ guest servers plus 8+ ships.
+Given 3 days, I pulled together a team and migrated 4 servers and all user data from our South America office and imported into our production system.
+Managed the Citrix 4.5 infrastructure, 100+ users, and 10+ servers.
+Managed day to day operation of all production backups, Net backup 6.0, 6.5 and 7.0.
+Engineered and implemented Bully1 ship server system. HP 3000 Blade system, 5 BL460's, VMware 4.0, left hand SAN.
+Engineered and implemented Test system from HP 3000 Blade enclosure, VMware, MSA1500.
+Installed, configured dual Netscaler 5500 MPX systems.
+Upgraded production Citrix presentation 4.0 server farm to Xenapp 5 with 8 guest servers.
+Wrote scripts to gather server farm health and user counts run each day for management. Shows growth and expected license purchases along with hardware purchases.
+Part of team that upgraded 75% of existing 3.0 and 3.5 VMware systems to 4.0.
+Wrote many Linux scripts and managed the Linux Red hat servers.
+Upgraded all 6.0/6.5 Netbackup servers to 7.0. Created a uniform backup policy for the enterprise.
+Setup 2, 25Tb Volumes for deduplication of email data.
+Responsible for day to day DBA work, running queries on live databases, setting up stored procedures.
+Responsible for all new databases, security setup, backup policies.
+
+04/2008 - 11/2009 Linn Energy, LLC, Houston, Texas
+Network Engineer
+Installed HP C7000 Chassis with HP BL460 G1-G5 blades, fully populated.
+Installed HP EVA 4400 SAN with 12TB.
+Managed, upgraded, configured SAN 6100 (+36 Tera bytes).
+Given 3 days, came up with solution for Disaster Recovery and implemented before hurricane hit in Houston Area.
+Managed total farm of over 100+ servers including Linux servers.
+Implemented VMware 3.1 and lead upgrade to 4.0. Moved many production servers to Virtual Machines.
+Designed and implemented DR plan for main ERP application.
+Managed 5 SQL 2005 servers and associated databases.
+Managed File and Print servers.
+Wrote many scripts for automation in windows servers, vb and vc with some simple dos/cmd calls.
+Fine Tuned Citrix for Satellite connectivity to end users.
+Installed and setup 4 Wireless access points with security to the AD level at main office downtown.
+Managed Day to Day operation of Citrix Presentation Server 4.5 Environment. 18 apps and 15 servers along with 200+ user connections.
+Installed, configured and maintained two Citrix Access Gateway's.
+Built and maintained FTP servers using secure FTP with backup in OKC.
+Setup external DNS with 5 minute fail over's to backup servers in OKC.
+Built File server and Core SQL server with clustering.
+Managed all 2000/2003 DC's to 2008.
+Managed all on site and off site switches.
+Managed communication connections between all sites through AT&T, circuits were mostly DS3's or multi-T1.
+Engineered and made all changes to Firewalls, sonic wall 4650's. Managed login scripts for all locations.
+Setup and monitored System Center daily.
+Responsible for intrusion detection and intrusion testing.
+Created Change management team, meeting agenda, and meeting minutes from ITEL standards for IT department and auditors.
+Ran both RIPv2 and EIGRP routing protocols.
+
+06/1998 - 01/2008 Stolt Parcel Tankers, Houston, Texas
+Network Engineer
+Analyzed equipment performance records in order to determine the need for repair and replacement.
+Coordinated with vendors and with company personnel in order to facilitate purchases.
+Diagnosed hardware and software problems and replaced defective components.
+Recommended changes to improve systems and network configurations, and determined hardware and software requirements related to such changes.
+Responsible for Quarterly External and internal Network Security assessments.
+Lead liaison to data centers. One of 3 in company allowed making production changes to environments at all data centers.
+Wrote front end scripts for onboard application management.
+Responsible for the full production environment, including Citrix, SQL, intrusions, viral activities, switches, thin clients, routers and all connectivity issues.
+Responsible for Quarterly Internal Active Directory security assessments.
+Part of a worldwide group of 4 Engineers throughout Stolt's offices.
+Managed upgrades of our backup and primary data circuits for all offices.
+Enterprise Domain Admin for 2000+ users.
+Implemented and managed GFI Languard SELM.
+Implemented and managed GFI Languard Scanner.
+Implemented and managed Aelita user conversion suite.
+Implemented and managed Shavlik patch management suite.
+Implemented and managed Quest domain reporting tool.
+Implemented Program Neighborhood Agent (PNAgent) on the Desktop environment.
+Built Many 2000 servers, Fileserver/Print servers, Citrix desktop and application servers.
+Delivered Citrix published applications worldwide to users via T 1/T 3/OC8/16 or Frame relay clouds.
+Developed/Managed Network Intrusion with Microsoft & Linux.
+Managed 4 San Devices for production/backup file services.
+Managed/Built multiple production SQL servers, including older flavors of SQL, sqlanywhere 5 & 6 clustered SQL and file servers.
+Part of a team that migrated all major systems to Blade Technology, BL20p's by Compaq.
+Managed 1000's of thin clients with Rapport software.
+Created consistency with Alteris RDP imaging of servers and laptop imaging.
+Maintained many wireless repeater systems in Houston, some over 10 miles of coverage.
+Managed conversion of Novell 4 to 2000 file/print services.
+Provided Network Support of Token Ring, Fast Ethernet & FDDI backbone.
+Installed, configured and maintained many Cisco routers for WAN & Internet connectivity.
+Installed and configured 50+ Novell 4. X and NT 4 servers.
+Traveled internationally and installed 10+ servers and networks on ships.
+(5) Terminal Server installations and management of over 350 users.
+Responsible for all Y2K server upgrades and workstations at the Houston Location.
+Managed backup services, DHCP, WINS, and RAS servers.
+Server brands most used, IBM Netfinity and Compaq Proliant.
+Responsible for converting existing Token ring (350+ users) to fast Ethernet along with all servers on gigabit backbone.
+Managed install of Network in New building with fiber optics and twisted pair, housing an extra 200+ employees.
+Used RDP for deployment of server images and creation.
+Built first Citrix farm in Houston and used that structure for remaining central server farms.
+Programmed many C++ routines for day-to-day work.
+Managed all local Telecommunication equipment.
+Managed upgrades of existing 56K frame lines to either T 1 or fractional T 1, along with router configuration changes.
+Installed and configured printers on Citrix Meta frame.
+Managed conversion of ccmail 8.x to Notes 5.
+
+05/1997 - 05/1998 Vastar Resources/ARCO, Houston, Texas
+End User Support & Network Support
+Managed conversion of Novell Group Wise to Lotus Notes 4.5.
+Managed installation of NT 4.0 workstation on 2000+ clients.
+Ran Help desk for 2000+ employees in Houston and remote locations.
+Troubleshot a wide variety of problems.
+Helped diagnose communication issues for offshore platforms.
+End user support/hardware & software.
+
+01/1996 - 05/1997 J.M. Huber Oil & Gas, Houston, Texas
+Network Administrator/Systems Analyst
+Maintained 8 Novell Servers and 2 Microsoft NT servers.
+Ran entire Help desk for Houston and all remote locations.
+Troubleshot PC issues - Hardware/Software.
+Responsible for Video Conference System.
+Maintained Cabletron Hubs and Routers, Also Cisco Routers/T 1 lines.
+Built server and programmed HTML/Java for Intranet.
+Converted 300+ machines to Microsoft Windows 95.
+Managed and setup Group Wise Email system.
+Updated 4 servers from 3.12 to 4.11.
+Responsible for Tape Backup solution and administration.
+Responsible for purchases of hardware and software.
+
+02/1991 - 01/1996 Northern Engineering Inc., Houston, Texas
+Network Engineer/Systems Analyst
+Build and maintained 5+ Novell Servers.
+Responsible for 200 clients.
+Setup and maintained ISDN connection to main office in Canada.
+Microsoft Mail setup and support for all clients.
+Setup Bridge and routers for WAN.
+Setup and supported BBS system and Fax server.
+Installed CAT 5 upgrade and RS232 wiring.
+Updated two Novell Servers from 3.12 to 4.11.
+Maintained HP-9000 server and Sun workstations.
+Support for all Major Microsoft products and Engineering Titles.
+Support for Design department in Auto Cad and Inter graph.
+Created and tested many applications written in C and C++.
+Created and tested applications in LISP for automation in Auto Cad.
+Built and maintained WWW server and FTP server.
+Responsible for all hardware purchases.
+Responsible for Tape Backup for this location.
+Responsible for CD Archive of all engineering documentation & drawings.
+Responsible for OCR conversions.
+
+11/1998 - 02/1991 Hawker Siddeley Engineering, Houston, Texas
+Electrical/Instrumentation Designer/Systems Analyst
+Responsible for Design and Drafting of Instrumentation drawings.
+Responsible for Design department servers.
+Responsible for creation of C and LISP routine for automation of drawings.
+
+EDUCATION:
+University of Houston, Houston, Texas
+1987 thru 1990
+Auto Cad I, II and Advanced Auto Cad
+Auto lisp, Advanced C++
+Contact this candidate

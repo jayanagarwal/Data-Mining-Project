@@ -1,0 +1,131 @@
+WORK EXPERIENCE
+
+Client: Park National Bank, Newark, Ohio, USA (Jan 2024 - Present)
+Role: Azure Data Engineer
+
+Responsibilities:
+Worked on gathering security (equities, options, derivatives) data from different exchange feeds and storing historical data.
+Integrated Kubernetes with cloud-native services, such as AWS EKS and GCP GKE, to leverage additional scalability and managed services. Presented the project to faculty and industry experts, showcasing the pipeline's effectiveness in providing real-time insights for marketing and brand management.
+Well versed with various aspects of ETL processes used in loading and updating Oracle data warehouse.
+Build and deployed the code Artifacts into the respective environments in the Confidential Azure cloud.
+Storing different configs in No SQL database Mongo DB and manipulating the configs using PyMongo.
+Involved in monitoring and scheduling the pipelines using Triggers in Azure Data Factory.
+Configured Spark streaming to get ongoing information from the Kafka and store the stream information to DBFS.
+Experience in creating Kubernetes replication controllers, Clusters and label services to deployed Microservices in Docker.
+Involved in various phases of Software Development Lifecycle (SDLC) of the application, like gathering requirements, design, development, deployment, and analysis of the application.
+Consult leadership/stakeholders to share design recommendations and thoughts to identify product and technical requirements, resolve technical problems and suggest Big Data based analytical solutions.
+Analysed the SQL scripts and designed it by using Spark SQL for faster performance.
+Instantiated, created, and maintained CI/CD (continuous integration & deployment) pipelines and apply automation to environments and applications. Worked on various automation tools like GIT, Terraform, and Ansible.
+Handled importing of data from various data sources, performed transformations using B, loaded data into HDFS and Extracted the data from SQL into HDFS using Sqoop. Integrated Azure Data Factory with Blob Storage to move data through Databricks for processing and then to Azure Data Lake Storage and Azure SQL data warehouse.
+Created datasets from S3 using AWS Athena and created Visual insights using AWS Quick sight Monitoring Data Quality and integrity end to end testing and reverse engineering and documented existing program and codes.
+Implemented RESTful Web-Services for sending and receiving data between multiple systems.
+Implemented Azure Data Lake, Azure Data factory and Azure Databricks to move and conform the data from on - premises to cloud to serve the analytical needs of the company. Developed custom reports using HTML, Python and MySQL.
+Developed and optimized data processing pipelines using Scala and PySpark for efficient big data analytics and ETL workflows in a distributed environment.
+Developed and maintained Snowflake data pipelines and transformations, ensuring seamless integration with other data platforms and enhancing overall data architecture.
+Created Airflow DAGs to schedule the Ingestions, ETL jobs and various business reports. Built Docker Images to run airflow on local environment to test the Ingestion as well as ETL pipelines. Ensured data quality and accuracy with custom SQL and Hive scripts and created data visualizations using Python and Tableau for improved insights and decision-making. Responsible for estimating cluster size, monitoring, and troubleshooting the Spark Databricks cluster.
+
+Environment: Spark, Python, AWS, S3, Glue, Redshift, DynamoDB, Hive, Spark SQL, Scala, Docker, Kubernetes, Airflow, GCP, ETL workflows, Azure Data Factory, Azure Databricks, Snowflake, MongoDB, SQL, Tableau
+
+Client: Lincoln Electric Holdings, Cleveland, USA (May 2022 - Dec 2023)
+Role: AWS Data Engineer
+
+Responsibilities:
+The AWS Lambda functions were written in Spark with cross - functional dependencies that generated custom libraries for delivering the Lambda function in the cloud. Performed raw data ingestion into, which triggered a lambda function and put refined data into ADLS.
+Responsible for loading the data from BDW Oracle database, Teradata into HDFS using Sqoop. Implemented AJAX, JSON, and Java script to create interactive web screens. Written queries in MySQL and Native SQL.
+Used Power BI as a front-end BI tool to design and develop dashboards, workbooks, and complex aggregate calculations. Integrated AI algorithms for predictive analytics and enhanced data visualization.
+Working on query languages such as SQL, code languages such as Python or C# and scripting languages such as PowerShell, M-Query (Power Query), or Windows batch commands.
+Worked on creating MapReduce programs to parse the data for claim report generation and running the Jars in Hadoop. Co-ordinated with Java team in creating MapReduce programs. Conducted Performance tuning and optimization of Snowflake data warehouse, resulting in improved query execution times and reduced operational costs.
+Working knowledge on Kubernetes to deploy scale, load balance, and manage Docker containers and Open Shift with multiple namespace versions. Worked extensively with Python in optimization of the code for better performance.
+Used Python to connect to MySQL using MySQL connectors and extracted various data for customer usage reports.
+Created Pipelines in ADF using Linked Services/Datasets/Pipeline/ to Extract, Transform, and load data from different sources like Azure SQL, Blob storage, Azure SQL Data warehouse, write-back tool and backwards.
+Analyzed existing systems and propose improvements in processes and systems for usage of modern scheduling tools like Airflow and migrating the legacy systems into an Enterprise data lake built on Azure Cloud.
+Have worked on partition of Kafka messages and setting up the replication factors in Kafka Cluster.
+Developed and maintained real-time data processing pipelines using Amazon Kinesis Data Streams and Apache Flink, ensuring low-latency processing and high throughput.
+Deployed models as python package, as API for backend integration and as services in a microservices architecture with a Kubernetes orchestration layer for the Dockers containers. Involved in the entire lifecycle of the projects including Design, Development, and Deployment, Testing and Implementation, and support.
+Developed ETL pipelines using AWS Glue to process and transform large datasets, integrating them into Redshift for analytics and reporting
+Estimated cluster size, monitored, and troubleshot Spark Databricks clusters, applying the Spark DataFrame API for data manipulation within the Spark session. Instantiated, created, and maintained CI/CD pipelines for continuous integration and deployment, automating environments and applications.
+Loaded and transformed large sets of structured, semi-structured, and unstructured data, running Hive queries for analysis. Processed image data through Hadoop distributed system using MapReduce, then stored it in HDFS.
+Familiarity with AWS Quick sight for BI and data visualization
+Used AWS to create storage resources, defining attributes like disk type and redundancy type. Led requirement gathering, business analysis, and technical design for Hadoop and Big Data projects. Developed metrics based on SAS scripts on legacy systems, migrating metrics to Snowflake (AWS).
+
+Environment: Python, AWS, Django, JavaScript, MySQL, NumPy, SciPy, Pandas API, PEP, PIP, Jenkins, JSON, Git, JavaScript, AJAX, RESTful web service, Pyspark, MySQL, PyUnit.
+
+Client: ICICI Lombard, Hyderabad, India
+Role: Application Developer/ Data Engineer (Oct 2019 - Dec 2021)
+
+Responsibilities:
+Extensively involved in all phases of Data acquisition, data collection, data cleaning, model development, model validation and visualization to deliver business needs of different teams.
+Building/Maintaining Docker container clusters managed by Kubernetes Linux, Bash, GIT, Docker. Used Django evolution and manual SQL modifications were able to modify Django models while retaining all data, while site was in production mode.
+Developing data pipelines and workflows using Azure Databricks to process and transform large volumes of data, utilizing programming languages such as Python, Scala, or SQL. Worked on Kafka streaming on subscriber side, processing the messages and inserting them into the db and Apache Spark for real-time data processing.
+Responsible for Building and Testing of applications. Experience in handling database issues and connections with SQL and NoSQL databases like MongoDB by installing and configuring various packages in python (Teradata, MySQL, MySQL connector, PyMongo and SQLAlchemy).
+Developed JSON Scripts for deploying the Pipeline in Azure Data Factory (ADF) that process the data using the Sql Activity and creating UNIX shell scripts for database connectivity and executing queries in parallel job execution.
+Worked on Big Data Integration & Analytics based on Hadoop, SOLR, PySpark, Kafka, Storm and web Methods.
+Managed relational database services in which the Azure SQL handles reliability, scaling, and maintenance. Integrated data storage solutions. Build Jenkins jobs for CI/CD Infrastructure for GitHub repos.
+Implemented Apache Sqoop for efficiently transferring bulk data between Apache Hadoop and relational databases (Oracle) for product level forecast. Extracted the data from Teradata into HDFS using Sqoop.
+Implemented Navigation rules for the application and page outcomes, written controllers using annotations.
+Strong at testing and debugging tested the applications, Rest APIs using Pytest, Unit-test, requests libraries.
+Developing scalable and reusable database processes and integrating them. Controlling and granting database access and migrating on premise databases to Azure data lake store using Azure Data Factory.
+Enhanced by adding Python XML SOAP request/response handlers to add accounts, modify trades and security updates.
+Designed and developed ETL pipelines for real-time data integration and transformation using Kubernetes and Docker.
+Expertise in Business intelligence and Data Visualization tools like Tableau Used Tableau to connect to various sources and build graphs. Extensively used Data bricks spark and Jupyter notebooks for Data Analytics.
+Designed and implemented Infrastructure as code using Terraform, enabling automated provisioning and scaling of cloud resources on Azure. Implemented airflow for workflow automation and scheduling tasks and created DAGs tasks.
+Environment: ER/Studio, Teradata, SSIS, SAS, Excel, T-SQL, SSRS, Tableau, SQLServer, Cognos, Pivottables, Graphs, MDM, PL/SQL, ETL, DB2, Oracle, SQL, Pyspark,Teradata, Informatica Power Center etc.
+
+Client: GVK Biosciences, Hyderabad, India (Jun 2018 - Sep 2019)
+Role: Data Engineer
+
+Responsibilities:
+Developed Spark applications using Scala and spark SQL for data extraction, transformation, and aggregation from multiple file formats for analyzing and transforming the data uncover insight into the customer usage patterns and even.
+Designed GIT branching strategies, merging per the needs of release frequency by implementing GIT flow workflow on Bit bucket. Extensive use of cloud shell SDK in GCP to configure/deploy the services using GCP Big Query.
+Collected and aggregated large amounts of web log data from different sources such as webservers, mobile and network devices using Apache Flume and stored the data into HDFS for analysis.
+Created Session Beans and controller Servlets for handling HTTP requests from Talend. Performed Data Visualization and Designed Dashboards with Tableau and generated complex reports including chars, summaries, and graphs to interpret the findings to the team and stakeholders.
+Successfully completed a POC for Azure implementation, with the larger goal of migrating on-premises servers and data to the cloud. Set up base Python structure with the create python-App package, SRSS, PySpark.
+Involved in development of Web Services using SOAP for sending and getting data from the external interface in the XML format. Performed Metadata validation, reconciliation and appropriate error handling in ETL processes.
+Zookeeper was utilized to manage synchronization, serialization, and coordination throughout the cluster after migrating from JMS Solace to Kinesis. Worked with AWS Terraform templates in maintaining the infrastructure as code.
+Used Python, R, and SQL to create Statistical algorithms involving Multivariate Regression, Linea Regression, and Logistic Worked on Kafka publishing the messages for further downstream systems.
+Developed Python code to gather the data from HBase (Cornerstone) and designs the solution to implement using PySpark.
+Used different Python libraries like BEAUTIFUL SOUP to perform data extraction from the website.
+Developed analytical components using Scala, Spark, Apache Mesos and Spark Stream and Installed Hadoop, Map Reduce, and HDFS and developed multiple MapReduce jobs in PIG and Hive for data cleaning and pre-processing.
+Environment: Python, Pandas, NumPy, SSIS, Azure Data Factory, PySpark, Microsoft Azure, Azure Blob Storage, Azure Data Lake, Azure SQL Database, Azure Functions, SQL Server, PostgreSQL, Tableau, Power BI, Apache Airflow.
+
+PROFILE SUMMARY
+Seeking a challenging role as a Data Engineer where I can leverage my 5 + years of extensive experience in designing, implementing, and optimizing data pipelines and infrastructure. Committed to utilizing cutting-edge technologies and methodologies to drive innovation and efficiency in data processing, storage, and analysis.
+OBJECTIVE
+Cloud Services: Azure Cloud Services, AWS Cloud Services, Azure VMs, Azure Data Factory, Azure Databricks, Azure SQL Database, Azure Functions, LogicApps, AppServices, Azure Key Vaults, Managed Identities, AWS EC2, S3, RDS, Crawlers, IAM, VPC, AWS Glue, Data Catalog, RDS, Managed Apache Airflow
+Data Warehouses: Azure Synapse Analytics, AWS Redshift, Snowflake &Salesforce NPSP
+Databases: SQL Server 2018, PostgreSQL, AzureSQL
+CI/CD: Jenkins, Azure DevOps
+Source/ Version Control: Git, GitHub, GitLab, Bitbucket
+Project Management Tools: JIRA, ServiceNow,
+Programming: Python Programming, Java
+Big Data Technologies: Apache Spark, Hadoop, Hive
+Containerization/ Orchestration: Docker, Kubernetes
+Streaming Data Technologies: Apache Kafka, Apache Flink
+Data Quality/ Governance: Data Quality Frameworks, Data Governance Practices
+Operating Systems: Windows, Unix, Linux
+BI Tools: Power BI, Tableau
+Masters from Trine University, USA
+EDUCATION
+ad7kgm@r.postjobfree.com
+425-***-****
+CONTACT
+Uday Kiran
+DATA ENGINEER
+Results-driven Data Engineer with 5+ years of experience in designing and implementing robust data solutions to drive business insights and enhance data-driven decision-making.
+Experience using various Hadoop Distributions (Cloudera, MapR, Horton works, Azure) to fully implement and leverage new Hadoop features.
+Hands-on experience developing data pipelines using Spark components, Spark SQL, Spark Streaming and MLlib. Worked with csv, Avro, Parquet data to load into Data frames and do the analysis.
+Designed, build and managed ELT data pipelines leveraging Airflow, python, and GCP solutions. Has experience with story grooming, Sprint planning, daily stand-ups, and software techniques like Agile and SAFe.
+Good Working knowledge on Azure Data bricks clusters, notebooks, jobs and auto scaling. Experienced in building Snow Pipes, migrating Teradata objects into Snowflake environment.
+Planning and implementing Disaster Recovery solutions, capacity planning, data archiving, backup/recovery strategies, Performance Analysis and optimization.
+Used Spark streaming, HBase, and Kafka to work on real-time data integration.
+Experience working with Front end technologies like Html, CSS, JS, ReactJS.
+Practical knowledge in setting up and designing large-scale data lakes, pipelines, and effective ETL (extract/load/transform) procedures to collect, organize, and standardize data that can be used to Converted a current on-premises application to use Azure cloud databases and storage.
+Proficiency in building Data pipelines and Data loading using Azure Databricks and Azure Data Warehouse to control the accessibility to the database.
+Worked with Matillion which Leverage Snowflake’s separate compute and storage resources for rapid transformation and get the Get the most from Snowflake-specific features, such as Alter Warehouse and Flatten Variant, Object, and Array.
+Experience in Windows Azure Services like PaaS, IaaS and worked on storages like Blob (Page and Block), SQL Azure. Well experienced in deployment & configuration management and Virtualization.
+Worked with creating Docker files, Docker containers in developing the images and hosting them in antifactory. Proficient in building CI/CD pipelines in Jenkins using pipeline syntax and groovy libraries.
+Excellent knowledge on Hadoop Architecture and ecosystems such as HDFS, Hive, Pig, Sqoop, Job Tracker, Task Tracker, Name Node, Data.
+Practical experience with Python and Apache Airflow to create, schedule, and monitor workflows.
+Leveraged AI/ML technologies (TensorFlow, PyTorch) and MLOps practices to develop, deploy, and monitor predictive models within scalable data pipelines, enhancing analytics and decision-making.
+TECHNICAL SKILLS
+Contact this candidate

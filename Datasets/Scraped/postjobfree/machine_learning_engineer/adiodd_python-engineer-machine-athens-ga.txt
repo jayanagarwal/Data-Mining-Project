@@ -1,0 +1,63 @@
+HARI TEJA TATAVARTI Page *
+Email: adiodd@r.postjobfree.com, LinkedIn: www.linkedin.com/in/hari-teja-at-linkedn PH: +1-404-***-**** GitHub: https://github.com/c0derzer0 EDUCATION
+University of Georgia Athens, GA
+Master of Science in Artificial Intelligence July 2020 GPA: 3.9/4.0
+SASTRA University Tamil Nadu, India
+Bachelor of Technology in Electrical and Electronics Engineering May 2015 Competitive exams GRE: 326/340 (90+ percentile), TOEFL: 110/120 (90+ percentile) SKILLS
+Key skill areas: Artificial intelligence, Machine learning, Probabilistic Graphical Models, Deep Learning, Probability theory, Linear Algebra Programming Skills: Python, C++, Java, C, Scala
+Software/tools: NumPy, scikit-learn, Pytorch, Pandas, Keras, Git, TensorFlow, R, Spark, Weka, Microsoft Office suite, AWS, Google cloud Systems: Linux/Unix, Windows
+PUBLICATIONS AND CERTIFICATIONS
+• Recurrent-Sum-Product-Max Networks for Decision Making in perfectly observed environments, First Author, Submitted for ICAPS conference 2020, Preprint available at https://arxiv.org/abs/2006.07300.
+• Machine Learning Certificate, TripleByte, Top 10% (around 200K test takers), September 2020
+• Problem Solving Certificate (data structures and algorithms), HackerRank, Septmenber 2020 RESEARCH EXPERIENCE
+Graduate Research Assistant, THINC lab, University of Georgia August 2018 - present Thesis - Recurrent-Sum-Product-Max Networks for Decision Making in perfectly observed environments, Major Professor – Dr. Prashant Doshi
+• Developed a novel, first of its kind framework called Recurrent Sum-Product-Max Networks (RSPMN) for sequential-decision making and by extending a class of data-driven, tractable, and explainable Probabilistic Graphical Models called Sum-Product networks (SPNs).
+• Developed first publicly available open-source implementation using Python, NumPy, scikit-learn, Pandas for RSPMNs.
+• Developed simulations and created a new testbed of 7 datasets for decision-making domains using OpenAI gym and RDDLSim used for Reinforcement learning and Probabilistic planning.
+• Compared RSPMNS with Neural Network based models implemented in PyTorch and showed that RSPMNs improve Maximum Expected Utility over NN-based models on all the 7 datasets and are more explainable
+• Authored an academic paper on RSPMN and submitted it for publication in one of the reputable AI conferences with less than 32% acceptance rate.
+• Presented my research and taught SPNs to several classes in my Major Professor's courses.
+• Currently collaborating on GPU implementation using PyTorch for converting tree structure of RSPMNs to matrix-multiplications to an estimated 100- fold improvement in the running time.
+Background Algorithms research
+• Developed first publicly available open-source implementation using Python, NumPy, scikit-learn, Pandas for Sum-Product-Max Networks by extending an existing SPN library called SPFlow which was used as a base code and advanced 4 further developments in this research direction so far.
+• Modified the structure learning algorithm and evaluation methods for Sum-Product-Max Networks which showed a 20-fold improvement in log- likelihood results of the algorithm over the published results in IJCAI 2018.
+• Created the first publicly available open-source implementation using Python, NumPy, scikit-learn, Pandas for Recurrent Sum-Product Networks.
+• Used Git for efficient version control and collaboration during development with 5 other team members.
+• Organized daily 10-minute scrum standups and pair programming with teammates to help each other stay focused on our respective research problems.
+PROFESSIONAL EXPERIENCE
+Systems Engineer, Tata Consultancy Services (TCS), Bengaluru, India May 2015-May 2017
+• Collaborated in a team of 11 to maintain 100% availability of IBM-WebSphere Application Servers for web-applications of American Express.
+• Motivated few fellow teammates for identifying repeated daily issues and analyzed 2+ years of incidents reported to our team on Service now.
+• Led a team of 2 to write space check and automation scripts using shell scripting to automate repeated issues which eventually reduced the daily issues in the environment by 8%.
+• Presented our finding and results to the manager and director of the team at American Express.
+• Received "On the Spot Award" (being an inspirational role model), Certificate of Appreciation (volunteering services) awards.
+• Managed workflow using JIRA and Confluence.
+• Built applications using JAVA, Struts, Hibernate, Spring. HARI TEJA TATAVARTI Page 2
+PROJECTS
+Face Reconstruction Using Sum-Product Networks, Autoencoders and GANs November 2018
+• Identified a project idea that would compare Sum-Product Networks I was using in my research with powerful generative neural networks - Autoencoders and GANs which would lend me better insight into applicability of my research.
+• Used 35.9k, 48X48 pixel images of faces to train and reconstruct faces on test datasets with 0-50% of the pixels removed.
+• Implemented GANs and Autoencoders with U-net structure using Keras with TensorFlow backend and used cloud services like AWS and GCP for GPU support.
+• Evaluated the models using the closeness (Squared error) in estimated pixels in reconstructed image to pixels from original images.
+• Managed and took up extra responsibility while teammate was ill to meet immediate deadlines while appropriately splitting the work later. Implementation of Monte-Carlo Tree Search in the Game of GO April 2018
+• Implemented Monte-Carlo Tree Search in JAVA to build an AI agent to play the game of GO.
+• AI agent Showed significant improvement in performance over a player using random strategy with a win rate of 88%.
+• Had last minute issues with evaluating our algorithm since we could not integrate our code with the game engine interface. Handled it by creating baseline randomized algorithm and presented the results to an audience of 15 people. Poker Hand Classification April 2018
+• Compared accuracies of Bayes classifier, LDA, SVM, Random forests and neural networks to classify a poker hand given the 5 playing cards drawn from the deck of 52 playing cards from a dataset of 1m data points.
+• Implemented each of these models in Python, Spark, R, Scala.
+• Created the best working model using neural networks that produced 98.5%. PacMan Capture the Food November 2017
+• Collaborated with a team of 3 to make PacMan search through a maze for food.
+• Implemented depth first search, breadth first search, uniform cost search and A* algorithms in Python.
+• Developed various heuristics for the use with A* search algorithm for finding optimal path.
+• Played key role in planning a strategy to split the project into three independent pieces while also letting each team member to contribute other parts, which would let us learn from each other and apply concepts learned in the class to the project. Profiling the Perpetrator in A Homicide November 2017
+• Led a team of 5 to predict the age, sex, relationship of the perpetrator to the victim in a homicide.
+• 638k data points collected from homicide reports in the US from 1980-2014.
+• Compared Decision trees, Naive Bayes, KNN, Association rule mining and ensemble learning methods in Weka
+• Ensemble learning methods provided the highest accuracy of about 79%.
+• Since the data had 28 labels for relationship, surveyed various psychology papers to group together various relationships into fewer classes which improved our accuracies of classification by 15%.
+• Organized regular short meetings to keep the team on track, guided undergraduate team members when they were struck with some problems requiring graduate level knowledge. Drafted a report and presented our results in front of an audience of 45 members CO-CURRICULAR AND EXTRA-CURRICULAR INVOLVEMENT
+• Innovation and Technology Virtual Summit hosted by Blavity, Inc, Participant, September 2020
+• Teaching Volunteer, English, and Mathematics for primary school kids at disadvantaged schools in India, 2015 - 2017
+• Solo Dance, Lead Role-Skit IndiaNite 2019
+• Organiser, Media and Publicity, Daksh (International Techno management Fest), SASTRA University, 2012-2015
+Contact this candidate

@@ -1,0 +1,60 @@
+Software Engineer Software Verification Engineer DevOps Engineer
+Software Engineer with 8 years of experience in Software Development, Software Testing, Analysis, Debugging, Finding Solutions and Implementing them and automating the test environment in addition to technical knowledge in networking, NIC adapter driver and VMware.
+
+Select Accomplishments
+Automated verification system to work on ARM within 1 week using Python.
+Verified more than 3 features for VMware network driver within 1 month using Python and C.
+Built and prepared Setup with performance best practices for VMware VMworld.
+Won second place in Mellanox Open Hackathon Software company competition.
+Got recognition from company for finding reproducing scenario for critical customer bug.
+Mellanox Technologies InfiniBand Professional Certificate.
+Gained ISTQB® Certified Tester, Foundation Level.
+
+Professional Experience
+Nvidia, Palestine, Senior Software Engineer 2020 – 2023
+Software Verification Experience
+Implemented counters in kernel space of VMware driver and presented them in user space to query from user level using C and Python.
+Implemented callbacks and functions in VMware driver code to verify the features without the need for network configuration.
+Implemented and updated the verification testing of network features (UDP Random port Generator, PktCapture, Connection Tracking, IPFix, Flex Parser and UPT) in VMware Driver of Mellanox NIC using Python and C.
+Implemented verification tests of network features in VMware's Project Monterey with the NVIDIA BlueField-2 DPU using Python and C.
+
+DevOps Experience
+Automated jobs working over Jenkins using python APIs and worked with docker and running docker over Jenkins.
+Worked on building drivers for ESXi using CI/CD platform Git and Jenkins.
+Automated testing environment using ansible, such as create virtual machine, configure x86 and build network topology.
+Automated the process of installing ISO using idrac APIs in python also worked on network boot over ARM.
+Automated the process of building arch64 iso for ARM with kickstart.
+Automated the configuration over BlueField-2 DPU.
+
+Network & System Experience
+Built and automated virtualisation networks and configured switches and interfaces over Dell and HP servers.
+Configure and setup BlueField-2 on x86/ARM ESXi/ESXio.
+
+Performance Experience
+Built and configured setup with performance best practices on VMware environment in addition to measuring performance throughput.
+
+SRE Experience
+Lead the process of making our verification process reliable, robust with high quality and improving team efficiency by reducing time spent on manual and routine tasks.
+Designed and reviewed solutions with the team and implemented solutions such as Bug collections which reduced the amount of rejected bugs for missing information.
+
+Management & Technical leading Experience
+Lead scrums.
+Technically helped team members in design and implementation finding solutions and building plans.
+Participated in the internal meetings with our partners VMware.
+Was part of the tasks planning of other team members.
+Code reviewer for other team members.
+
+Mellanox Technologies, Palestine, Software Engineer 2019 - 2020
+Built HLD for network features and implemented tests using python.
+Debugged and understood network driver's issues using tcpdump, Wireshark, Scapy to parse different types of packets (Geneve, VXLAN, ICMP).
+Built topology and measured performance using software generator Pktgen, trex and hardware generator IXIA.
+Mellanox Technologies, Palestine, QA Engineer 2015 - 2019
+Built and designed black box test plans for network adapters drivers features SRIOV, VF over InfiniBand, vMotion, ECN, PFC, RSS, PXE boot and automated features using Perl.
+Built and configured different network topologies over VMware products ESXi, vCenter, NSX. Built different scripts in bash, PowerCli to automate configuration which reduced QA cycle time.
+Gained basic network driver knowledge in Ethernet and InfiniBand.
+
+Education
+An Najah National University, Palestine 2010 – 2015
+Bachelor of Computer Engineering.
+Member of IEEE group.
+Contact this candidate

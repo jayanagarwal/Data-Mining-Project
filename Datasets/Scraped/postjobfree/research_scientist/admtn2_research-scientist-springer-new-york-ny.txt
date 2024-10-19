@@ -1,0 +1,42 @@
+KUN YANG
+W***th Street, New York, NY ***** j +1-631-***-**** j admtn2@r.postjobfree.com
+https://github.com/Learn-Live j https://www.linkedin.com/in/kun-yang-a2b92a162/ PROFILE
+Highly self-motivated and hard-working Ph.D. with expertise on machine learning and network secu- rity (such as anomaly detection and tra c classi cation)
+Pro cient in Python and LaTex
+Strong teamwork and self-learning skills
+Non-U.S. citizen (J1 visa holder) needing visa sponsorship EMPLOYMENT
+Columbia University, Department of Statistics Sept. 2019 - Present Postdoctoral Research Scientist Manhattan, NY
+Research on the intersection of machine learning and the Internet of Things (IoT) New York University, Tandon School of Engineering Apr. 2018 - Aug. 2019 Postdoctoral Associate Brooklyn, NY
+Research on cybersecurity (e.g., anomaly detection and tra c analysis) by leveraging machine learning EDUCATION
+Chinese Academy of Sciences, Institute of Information Engineering Sept. 2012 - Jan. 2018 Ph.D. in Computer Software and Theory Beijing, China Hefei University of Technology, School of Mathematics Sept. 2007 - Jul. 2011 B.S. in Information and Computing Science Anhui, China EXPERIENCE
+Encrypted Tra c Analysis, New York University Oct. 2018 - Aug. 2019 Core Member Brooklyn, NY
+Abstract: targets to identify and classify encrypted tra c without needing to handcraft features and parse encrypted content, and then further improve network QoS according to the classi ed results
+Proposed an end-to-end classi cation framework based on convolutional neural network (CNN), which can classify encrypted tra c with an accuracy of more than 90% without needing to parse the encrypted packet’s content and using any header information. Moreover, the proposed approach has more than 3% improvement in accuracy compared to others (such as SVM). Anomaly Tra c Analysis, New York University Apr. 2018 - Apr. 2019 Core Member Brooklyn, NY
+Abstract: aims to detect anomaly tra c (e.g., DDoS ) by leveraging deep learning algorithms and keep the network safe
+Proposed a DDoS detection framework based on deep neural network (Autoencoder), which only uses normal tra c to build the detection model and can obtain 80% detection rate with 0 FPR. Moreover, it can detect new and unknown attacks, however, traditional supervised approaches may fails (such as Decision Tree)
+Intelligent Analysis, Chinese Academy of Science Sept. 2014 - Jan. 2018 Core Member Beijing, China
+Abstract: aims to discover anomaly tra c and unknown, potential security threats from network tra c collected from several government departments networks
+Analyzed network tra c with statistical algorithms, such as Random Forest, and obtained more than 95% detection rate. Also, established a distributed system testbed based on Spark, and obtain more than 2 times in testing speed compared to a Mahout based testbed. Furthermore, distinguished two kinds of similar tra c (DDoS and Flash Crowd), and obtained 98% accuracy based on the features extracted by Autoencoder.
+Invisible Watermark, Chinese Academy of Science Jul. 2013 - Sept. 2014 Core Member Beijing, China
+Abstract: aims to protect images copyrights of a Chinese company by embedding the invisible water- mark into these images, and the watermark can only be extracted by the company
+Investigated, designed and implemented the invisible watermark embedding and extracting algorithm, which ensures that it can not only minimize the quality loss of original image, but also maximize the quality of extracted copyright
+SKILLS
+Machine learning GMM, SVM/OC-SVM, KDE, DT, KMeans, KNN Deep learning CNN, Autoencoder, GAN, RNN(LSTM), CRNN Programming language and tools Python, LaTex,
+Pytorch, Scikit-learn, Scapy, Wireshark,
+Matplotlib, Seaborn, Pandas, Numpy,
+HPC, Google Cloud, Spark,
+Git/Github, Pycharm, Markdown
+Others Keras/Tensor ow, Linux, MySQL, MS O ce
+PUBLICATIONS
+1) Kun Yang et al. "A Comparative Study of Network Tra c Representations for Novelty Detection"
+(under review)
+2) Kun Yang, Lu Xu, Yang Xu, and Jonathan Chao. "Encrypted Application Classi cation with Con- volutional Neural Network." In 2020 IFIP Networking Conference (Networking), pp. 499-503. IEEE, 2020.
+3) Kun Yang, Junjie Zhang, Yang Xu, and Jonathan Chao. "DDoS Attacks Detection with AutoEn- coder." In NOMS 2020-2020 IEEE/IFIP Network Operations and Management Symposium, pp. 1-9. IEEE, 2020.
+4) Degang Sun, Kun Yang, Zhixin Shi, and Chao Chen. "A New Mimicking Attack by LSGAN." In 2017 IEEE 29th International Conference on Tools with Arti cial Intelligence (ICTAI), pp. 441-447. IEEE, 2017.
+5) Degang Sun, Kun Yang, Bin Lv, and Zhixin Shi. "Could We Beat A New Mimicking Attack?." In Network Operations and Management Symposium (APNOMS), 2017 19th Asia-Paci c, pp. 247-250. IEEE, 2017.
+6) Degang Sun, Kun Yang, Zhixin Shi, and Yan Wang. "A Distinction Method of Flooding DDoS and Flash Crowds Based on User Tra c Behavior." In Trustcom/BigDataSE/ICESS, 2017 IEEE, pp. 65-72. IEEE, 2017.
+7) Degang Sun, Kun Yang, Zhixin Shi and Bin Lv. "A Behavior-Based Method for Distinction of Flooding DDoS and Flash Crowds." In International Conference on Knowledge Science, Engineering and Management, pp. 129-136. Springer, Cham, 2017. 8) Degang Sun, Kun Yang, Zhixin Shi, and Yan Wang. "Detecting Flooding DDoS Under Flash Crowds Based on Mondrian Forest." In International Conference on Wireless Algorithms, Systems, and Appli- cations, pp. 729-740. Springer, Cham, 2017.
+9) Bin Kong, Kun Yang, Degang Sun, Meimei Li, and Zhixin Shi. "Distinguishing Flooding Distributed Denial of Service from Flash Crowds Using Four Data Mining Approaches." Computer Science And Information Systems 14, no. 3 (2017): 839-856.
+(Note: during my Ph.D. period (from 2012 to 2018), the rst author of all my papers is my supervisor
+(Degang Sun). I am the second author and have written all the papers.)
+Contact this candidate

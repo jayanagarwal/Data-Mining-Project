@@ -1,0 +1,170 @@
+Mark Mejia
+Senior Big Data and Cloud Engineer
+Phone: 203-***-****, Email: ady4qx@r.postjobfree.com
+Summary
+•A result-oriented Professional with 10 years of experience in Big Data development, data analytics, data processing, and database technologies
+•Proven expertise with the Hadoop ecosystem and Big Data tools, frameworks, and major vendor distributions such as Cloudera and Hortonworks
+•Architected and optimized AWS Redshift data warehouse, improving query performance by 50% and reducing overall data storage costs by 30%.
+•Performed end- to-end Architecture & implementation assessment of various AWS services like Amazon EMR, Redshift, S3, lambda, cloud watch, SQS etc.
+•Skilled in optimizing data processing and query performance by tuning Azure SQL Database and Azure Synapse Analytics, utilizing techniques such as indexing, partitioning, and query optimization.
+•Proficient in leveraging a wide range of Azure data services, including Azure Data Factory, Azure Databricks, Azure SQL Database, Azure Synapse Analytics, Azure Cosmos DB, and Azure Data Lake Storage, to architect scalable and efficient data solutions.
+•Skilled in troubleshooting and optimizing programming languages including SQL, Java, Python, Scala, Hive, RDDs, Data Frames, and MapReduce
+•Strong ability to design elegant solutions for complex problems using problem statement analysis.
+•Implemented data governance and security measures on Azure, resulting in compliance with industry regulations and achieving a 99% reduction in data security incidents.
+•Proficient in working with large and complex data sets, real-time/near real-time analytics, and distributed big data platforms.
+•Deep knowledge in incremental imports, partitioning, and bucketing concepts in Hive and Spark SQL for data optimization
+•Skilled in deploying and managing large multiple nodes of Hadoop and Spark clusters.
+•Developed custom large-scale enterprise applications using Spark for data processing and Oozie workflows for ETL scheduling and orchestration.
+•Strong understanding of Hadoop architecture and ecosystems, including HDFS, YARN, MapReduce, Spark, Falcon, HBase, Hive, Pig, Ranger, Hive, Sqoop, YARN, etc.
+•Expertise in scripting and automating end-to-end data management and synchronization between clusters.
+•Hands-on experience with Hadoop frameworks and ecosystem components such as Hive, Pig, Sqoop, HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark Data Frames, Spark Datasets, Spark Streaming (PySpark), etc.
+•Involved in building multi-tenant clusters and implementing disaster management for Hadoop clusters.
+•Experience in mainframe data migration to Hadoop and batch processing
+•Proficient in installing and configuring Cloudera's (Cloudera Manager) and Hortonworks distributions (Ambari)
+•Extensive experience in extending Hive and PySpark core functionality by writing custom UDFs.
+•Improved development efficiency by implementing Docker-based development environments, reducing setup time by 50% and enabling seamless collaboration among developers.
+•Used Apache Flume extensively for collecting logs and error messages across the cluster.
+•Compiling the data, including internal and external data sources, leveraging new data collection processes such as geo-location information
+•Communicator with the ability to perform at a high level, meet deadlines, and adaptable to ever-changing priorities.
+
+Technical Skills
+•Programming Language & IDEs
+•Unix shell scripting, Object-oriented programming, Functional programming, SQL, Java, Hive QL, MapReduce, Python, Scala, Ajax, REST API, Spark API
+•Jupyter Notebooks, Eclipse, IntelliJ, PyCharm
+•Databases & NOSQL
+•Apache Cassandra, Apache HBase, MongoDB,
+•Oracle, SQL Server, DB2, Sybase, RDBMS, PostgreSQL, MySQL
+•Parquet, Avro, JSON, Snappy, Gzip,
+•Methodologies
+•Agile, Kanban, Scrum, DevOps, Continuous Integration, Test-Driven Development,
+•Cloud (Data Engineer services)
+•AWS, Azure, Snowflake, Google Cloud Platform
+•Big Data Platforms, Software, & Tools
+•Apache Flume, Apache Hadoop, Apache Hadoop YARN, Apache H Catalog, Apache Hive, Apache Kafka, Apache Oozie, Apache Pig, Apache Spark, Spark Streaming, PySpark, SciPy, Pandas, Mesos, Apache Tez, Apache Zoo Keeper, Apache MAVEN, SBT, Cloudera Impala, HDFS, Hortonworks, MapReduce, Apache Airflow, Elasticsearch, Elastic Cloud, Kibana, Apache Drill, Presto, Apache Hue, Sqoop, Kibana, Tableau, AWS, Cloud Foundry, Pentaho, Kettle
+•CICD
+•GitHub, Bit Bucket, Jenkins, Docker
+
+Professional Experience
+Sr. Big Data Engineer
+Costco Wholesale, Issaquah, WA - Aug’21 to Present
+Built one platform for data engineers, digital solution developers, and a growing number of data consumers.
+•Utilize AWS Lambda functions for event-driven processing using the AWS boto3 module in Python
+•Execute Hadoop/Spark jobs on AWS EMR using data stored in S3 Buckets for large-scale data processing
+•Configure access for inbound and outbound traffic for RDS DB services, DynamoDB tables, and EBS volumes, and set up alarms for notifications or automated actions on AWS
+•Work with AWS Kinesis for processing large volumes of real-time data for real-time data processing
+•Develop scripts for collecting high-frequency log data from various sources and integrating it into AWS using Kinesis, staging data in the Data Lake for further analysis
+•Use Terraform to provision and configure the necessary AWS resources, such as EC2 instances, VPC, subnets, security groups, and IAM roles.
+•Set up an Amazon S3 bucket for data storage and create appropriate permissions and access controls.
+•Leverage AWS Glue and custom ETL processes to extract data from other sources like databases, S3, or data lakes.
+•Design logical and physical data models for various data sources on AWS Redshift to optimize data storage and retrieval
+•Develop Spark applications in Scala, Python, or Java to perform data transformations, cleansing, and aggregation.
+•Integrate Spark with AWS services like Amazon S3 for data input/output and leverage Spark's DataFrame or Dataset APIs for efficient data manipulation.
+•Set up a Snowflake instance for scalable, cloud-based data warehousing.
+•Design and implement a data model within Snowflake to support efficient storage and retrieval of structured and semi-structured data.
+•Establish connections between Spark and Snowflake to load processed data into Snowflake tables using Snowflake's connectors or drivers.
+•Create Apache Airflow DAGs using Python for orchestrating and scheduling data workflows
+•Implemented advanced procedures like text analytics and processing using in memory computing capability methods via Apache Spark in Scala
+•Implement AWS IAM user roles and policies to authenticate and control access to AWS resources
+•Specify nodes and perform data analysis queries on Amazon Redshift clusters on AWS for extracting insights from data
+•Define Spark/Python (PySpark) ETL framework and best practices for development to ensure efficient data processing
+•Develop Spark programs using PySpark for data processing and analysis
+•Create User Defined Functions (UDFs) using Python in Spark for custom data transformations
+•Develop processes to update the Redshift data with the latest changes from Salesforce.
+•Develop, design, and test Spark SQL jobs with Scala and Python Spark consumers for data analysis and processing
+•Implement Continuous Integration and Continuous Deployment (CI/CD) practices using tools like AWS Code Pipeline or Jenkins to automate the deployment of Spark applications and infrastructure changes.
+•Version control the codebase and apply DevOps best practices to ensure smooth development, testing, and deployment processes.
+•Create and maintain ETL pipelines in AWS using Glue, Lambda, and EMR, Snowflake for seamless data processing and transformation
+
+Sr. Cloud Engineer
+Intel Corporation, Santa Clara, CA - Feb’20 to Jul’21
+•Implemented data ingestion using Apache Kafka and AWS Kinesis to stream data from various sources into AWS S3, ensuring efficient and reliable data transfer
+•Develop AWS Lambda functions to transform and process the ingested data.
+•Utilize Python or other supported languages to write custom code for data transformations, data cleansing, aggregation, or enrichment.
+•Leverage DynamoDB, a NoSQL database service, for temporary storage or caching during data processing stages.
+•Utilized AWS Glue for data transformation and ETL processes, including data cleansing, enrichment, and aggregation, to prepare data for analysis and visualization
+•Implemented AWS Fully Managed Kafka streaming to send data streams from the REST API to Spark cluster in AWS Glue, enabling real-time data processing and analysis
+•Consumed data from Kafka topics using Spark Streaming, processed and transformed the data to meet business requirements
+•Utilized AWS Glue to automate data processing and migration from on-premises systems to the cloud, ensuring smooth and efficient data integration
+•Proposed a serverless architecture to process data in AWS on an event-based architecture, reducing operational overhead and improving scalability and cost-effectiveness
+•Set up AWS RDS (Relational Database Service) as the source database for data ingestion.
+•Configure AWS CloudWatch to monitor RDS database metrics, such as CPU utilization, storage capacity, and query performance.
+•Implement AWS Lambda functions to extract data from RDS using SQL queries or by subscribing to database events.
+•Trigger Lambda functions periodically or based on specific database events using AWS CloudWatch Events.
+•Involved in the complete Big Data flow of the application, including data ingestion, data processing, and data warehousing, ensuring end-to-end data pipeline efficiency and performance
+•Used Spark where possible to achieve faster results and optimize data processing and analysis tasks
+•Architected and implemented Data Engineering solutions for AWS cloud services, including AWS Cloud services planning, designing, and DevOps support like IAM user, group, roles & policy management, ensuring proper access controls and security measures
+•Created modules for MWAA to call different services in the cloud, including EMR, S3, Athena, Crawlers, Lambda functions, and Glue jobs, ensuring smooth and automated data processing workflows
+
+Sr. Data Engineer
+
+New York Life Insurance Company, New York, NY Sep’18 to Jan’20
+
+Ingested and moved the most crucial data from any application, database, data lake to unlock the value of centralized data. Services: Data Connectors, ETL, Data Integrations, Data Pipeline, Data Analytics, ELT.
+Worked as part of the Big Data Engineering/Data Science team to design and develop data pipelines in an Azure environment using ADL Gen2, Blob Storage, ADF, Azure Databricks, Azure SQL, Azure Synapse for analytics and MS Power BI for reporting.
+
+•Worked with Azure and was involved in ETL, Data Integration, and Migration, ensuring smooth and efficient data processing in the cloud environment
+•Configured, deployed, and automated instances on Azure environments, and Data Centers. Maintained different models using Docker, MLFlow, and Kubernetes.
+•Used Azure Data Factory to create data pipelines that move data from different sources and transform it into the desired format
+•Used Azure Logic Apps or Azure Functions to automate your workflows and trigger events based on certain conditions
+•Use Terraform to provision and configure the necessary Azure resources, such as Azure VMs, Azure Storage Accounts, Virtual Networks, and Azure Databricks workspace.
+•Set up an Azure Storage Account or Azure Data Lake Storage Gen2 for data storage and create appropriate permissions and access controls.
+•Implemented Spark using Scala and utilized Data Frames and Spark SQL API for faster processing of data, optimizing data processing performance
+•Wrote producer/consumer scripts in Python to process JSON response, enabling data processing and analysis tasks
+•Execute long running jobs for preprocess products and ware houses data in Snowflake to cleanse and prepare the data before consuming in staging area with Snowpipes.
+•Utilize Apache Kafka for distributed data streaming, enabling high-throughput and real-time data ingestion and processing.
+•Set up an Apache Kafka cluster on Azure using services like Azure Event Hubs or Azure HDInsight Kafka.
+•Develop Kafka producers and consumers in Python using Kafka-Python or Confluent Python libraries to stream data from various sources.
+•Utilize PySpark or Azure Data Factory data flows for data profiling, data quality assessment, and anomaly detection.
+•Use tools like Jenkins, GitLab CI/CD, or Azure DevOps to set up CI/CD pipelines.
+•Used Spark engine, and Spark SQL for data analysis, and provided data to data scientists for further analysis, supporting data-driven decision making
+•Set up a Snowflake instance on Azure for scalable, cloud-based data warehousing.
+•Design and implement a data model within Snowflake to support efficient storage and retrieval of structured and semi-structured data.
+•Establish connections between PySpark and Snowflake to load processed data into Snowflake tables using Snowflake connectors or drivers.
+
+Data Engineer
+
+Merck & Co., Inc., Rahway, NJ - Oct’16 to Aug’18
+
+Developed end 2 end pipeline to turn hundreds of millions of customer interactions into actionable insights that optimize campaigns and improve marketing efficiency solution using Google Cloud Platform (GCP), Apache Kafka, Python, Apache Spark, Snowflake, and Terraform for efficient data processing, streaming, storage, and deployment.
+
+•Use Terraform to provision and configure GCP resources, including Compute Engine instances, VPC, subnets, firewall rules, and IAM roles.
+•Set up necessary GCP services, such as Google Cloud Storage (GCS) for data storage and Cloud Pub/Sub for messaging and event streaming.
+•Utilize Apache Kafka as a distributed event streaming platform for real-time data ingestion and processing.
+•Set up Kafka brokers, topics, and partitions on GCP or using managed services like Google Cloud Pub/Sub or Confluent Cloud.
+•Develop Kafka producers and consumers in Python for streaming data ingestion and processing.
+•Utilize Apache Spark on GCP for scalable and distributed data processing.
+•Develop Spark applications in Python to perform data transformations, aggregations, and analytics.
+•Set up a Snowflake instance on GCP for scalable and cloud-based data warehousing.
+•Design and implement a data model within Snowflake to support efficient storage and retrieval of structured and semi-structured data.
+•Establish connections between Spark and Snowflake to load processed data into Snowflake tables using Snowflake's connectors or drivers.
+•Build an end-to-end data pipeline using GCP services like Google Cloud Dataflow, Apache Airflow, or custom workflow orchestration using Python.
+•Implement Continuous Integration and Continuous Deployment (CI/CD) practices using tools like Google Cloud Build or Jenkins to automate the deployment of Spark applications and infrastructure changes.
+•Implemented machine learning algorithms utilizing TensorFlow, Scala, Spark, MLLib, R, and other tools and languages needed
+•Developed and maintained data models using NoSQL databases, ensuring proper data organization and structure for efficient data processing and analysis
+•Constructed and customized integration systems using technologies such as Saas, API, and web services, enabling seamless data integration between different systems and applications
+•Implemented DevOps practices such as continuous integration and delivery using Git, Jenkins, and Terraform, ensuring efficient and automated software development processes and timely delivery of software features
+
+Hadoop Developer,
+
+Texas Electricity Ratings, Houston, TX - Jan’13 to Sep’16
+
+•Configured, installed, and managed Hortonworks (HDP) Distributions, ensuring smooth operation and performance of Hadoop clusters
+•Enabled security to the cluster using Kerberos and integrated clusters with LDAP at the enterprise level, ensuring data security and access control
+•Worked on tickets related to various Hadoop/Big data services, including HDFS, Yarn, Hive, Oozie and Kafka, resolving issues and ensuring the smooth functioning of the services.
+•Optimized MapReduce code to improve performance by 25% and reduce processing time for data-intensive tasks.
+•Worked on Hortonworks Hadoop distributions (HDP 2.5), leveraging expertise in HDP for efficient data processing and analysis
+•Performed cluster tuning and ensured high availability, optimizing cluster performance and ensuring minimal downtime
+•Established cluster coordination services through Zookeeper and Kafka, enabling efficient coordination among distributed components in the Hadoop cluster
+•Monitored multiple Hadoop clusters environments using Ambari, proactively identifying and resolving performance and operational issues
+•Worked with team members to troubleshoot and resolve issues related to MapReduce jobs, ensuring smooth execution and reliable results.
+•Worked with cluster users to ensure efficient resource usage in the cluster and alleviate multi-tenancy concerns, optimizing resource allocation and utilization
+•Managed and scheduled batch jobs on a Hadoop Cluster using Oozie, ensuring timely execution of data processing workflows
+•Performed cluster and system performance tuning, optimizing the performance of Hadoop clusters for efficient data processing and analysis
+•Used Spark SQL and UDFs to perform transformations and actions on data residing in Hive.
+
+Education
+•Computer Systems Engineering from Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)
+
+Course
+•Robotics Course from Shibaura Institute of Technology
+Contact this candidate

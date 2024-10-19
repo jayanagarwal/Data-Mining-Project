@@ -1,0 +1,55 @@
+Chien Thai Email : adt9fx@r.postjobfree.com
+Linkedin: https://www.linkedin.com/in/chientv99/ Mobile : +843******** Github: https://github.com/chientv99
+Education
+•
+Hanoi University of Science and Technology Hanoi, Vietnam School of Information and Communication Technology, Bachelor of Computer Science, GPA: 3.21 Aug 2017 - Dec 2022
+•
+Phan Boi Chau High School for Gifted Students Vinh City, Vietnam Specialization in Informatics, GPA: 9.0/10 Aug 2014 - Aug 2017 Skills Summary
+• Languages: Python, C/C++, SQL
+• Tools and Frameworks: Pytorch, Keras, Django, Mlflows, Postgres Experience
+•
+Computer Vision Department, Viettel Aerospace Institute Hanoi, Vietnam Computer Vision Research Engineer Aug 2020 - Dec 2022
+Face Recognition - Face Analysis Systems:
+• Face recognition: Buiding a face recognition system using modern deep learning networks (RetinaFace detector for face detection and ArcFace for face feature extraction).
+• Face collection: Collecting facial images from surveillance cameras, extract face features and cluster them by performing clustering techniques (Hierarchical Agglomerative Clustering, DBSCAN).
+• Face assessment: Assessing the quality of face images using blurry scores, Euler angles, and occlusion degrees.
+• Head pose estimation and masked face classification: Proposing and implementing an effective and lightweight model combining head-pose estimation and masked-face classification tasks, which utilizes ResNet18 as a backbone and trained by the knowledge distillation process. The proposed model achieves state-of-the-art on two public head-pose datasets and high accuracy on the face mask dataset.
+• Face anti-spoofing: Studying several methods for print and replay-attack detection. Collecting data and building a fraud detection model from an image.
+• Building a web application to visualize data, analyse experimental results, and monitor the data drift.
+Infrared Ship Deblurring, Detection, and Classification:
+• Creating sharp-blur infrared ship image dataset and building U-Net-based deblurring model.
+• Creating synthetic data for infrared ship detection and recognition tasks using 3D model and thermal radiance model.
+• Constructing lightweight ship detection and recognition models by training on a synthetic dataset and evaluating on real infrared ship images. Enhancing the performance of ship recognition models using domain adaptation techniques.
+• Addressing infrared fine-grained ship retrieval task using few shot learning methods.
+•
+Modeling, Simulation and Optimization Laboratory, HUST Hanoi, Vietnam Research Assistant - Advisor: Dr. Sang Dinh Viet Nov 2019 - Apr 2022
+Research Topic: Polyp Segmentation in Colonoscopy Images:
+• Studying deep neural networks for image processing such as convolutional neural networks and vision transformers. Finding out state-of-the-art studies on semantic segmentation, medical imaging, and polyp segmentation.
+• Proposing new methods for polyp segmentation in colonoscopy images and videos.
+• Conducting and analysing experimental results of the proposed model and previous state-of-the-art medical image segmentation methods on various polyp datasets. Writing scientific reports.
+Teaching Assistant: Teaching Assistant of Computer Vision and Deep Learning Course in Vin BigData 2021
+•
+VDSense Technology Joint Stock Company Hanoi, Vietnam Aritificial Intelligent Intern Oct 2020 - Feb 2021
+eKYC Application: Learning about several techniques for liveness detection and face verification for eKYC application. Building a lightweight face extractor model for ID Document Photo and Selfie Matching problem using ResNet18 and EfficientNet-B0 backbone and ArcFace loss. Converting trained model to INT8 model.
+•
+Medical Solution and Technology Company (MESOCO) Hanoi, Vietnam Software Developer Intern Feb 2019 - Feb 2020
+PMR and PACS Telemedicine: Learning about several basic contents of web development (AJAX, Jquery, RestfulAPI, ASP.NET). Building a web application for doctors using ASP.NET framework Academic Projects
+• Graduation Project: Hierarchical Vision Transformer with Unified Perceptual Parsing and Shape Attention for Polyp Segmentation in Colonoscopy Images: Find out several related studies on semantic segmentation problems and polyp segmentation in Colonoscopy Images. Introduce a new encoder-decoder-based architecture called SegUPer-SA that leverages a Hierarchical Vision Transformer Network named Seg-Former, Pyramid Feature Pooling, and Shape Attention Module to enhance the performance of the model in polyp segmentation task. Experimental results show that the proposed model improves the mean Dice and mean IoU in comparison with the state-of-the-art segmentation methods on five popular polyp datasets.
+• Deep Learning Project: Driver Posture Classification using Convolutional Neural Network: Research and implement many convolutional neural architectures (ResNet, EfficientNet, MobileNet) for 10 classes of driver posture classification problems. Build a simple alarm web application using Flask API.
+• Machine Learning and Data Science Project: House Price Prediction: Crawl house price data from the website. Perform several pre-processing data steps including handling missing and noise values, encoding categorical variables, and standardizing data. Train house price prediction model using some machine learning methods including Linear Regression, k-NN, Random Forest Regression, and ANN. Visualize and analyse the prediction of models.
+• Recommendation System: Follow Recommendation in Social Networks: Research and employ Louvain Communication Detection and Link Prediction methods for Follow Recommendation task in Lotus Social Network.
+• Introduction to Artificial Intelligent Project: Text Summarization: Encode the sentences of the document using Word2Vec (TF-IDF Vectorization) and Doc2Vec (Gensim). Cluster the extracted vector by the K-Means algorithm. Honors and Awards
+• Encourage academic scholarship for Talented Student, Hanoi University of Science and Technology 2017
+• Third Prize in National Informatics Contest for High School Students, Vietnam Olympiad in Informatics 2017
+• Second Prize in Nghean IT Competition for Young Students 2017
+• Second Prize in Informatics, Nghean Province Informatics Contest for High School Students 2016 Publications
+• Hung, N. B., Duc, N. T., Chien, T. V., and Sang, D. V. AG-ResUNet++: An Improved Encoder-Decoder Based Method for Polyp Segmentation in Colonoscopy Images. In 2021 RIVF International Conference on Computing and Communication Technologies (RIVF) (pp. 1-6). IEEE.
+• Thai, C., Tran, V., Bui, M., Ninh, H., and Tran., H.: An Effective Deep Network for Head Pose Estimation Without Keypoints. In: Proceedings of the 11th International Conference on Pattern Recognition Applications and Methods - ICPRAM, pp. 90–98 (2022)
+• Chien Thai, and Huong Ninh: Distillation Training based Approach for Head Pose Estimation on Facial Image. International Conference on Intelligent Robotics and Computer Vision ICIRCV 2022
+• Thai, C., Ninh, H., and Tran, H.: Deep learning-based infrared image deblurring. In Electro-optical and Infrared Systems: Technology and Applications XIX. Vol. 12271. SPIE, 2022
+• C. Thai, N. Ninh, V. Tran, M. Bui, and H. Ninh: Multiple Teacher Knowledge Distillation for Head Pose Estimation without Keypoints. SN Computer Science (2022) (in review)
+• Luu Nguyen, Tung Phan, Chien Thai, Huong Ninh, and Hai Tran. High-Performance FPGA Embedded System for Deep learning-based Thermal Object Tracking. In 12th International Conference on Advanced Mechatronic Systems
+(ICAMechS 2022) (in review)
+• C. Thai, V. Tran, M. Bui, D. Nguyen, H. Ninh, and H. Tran: Real-time masked face classification and head pose estimation for RGB facial image via knowledge distillation. Information Sciences (2022) (IF: 8.23)
+• Thai Van Chien, Ninh Thi Huong, and Tran Tien Hai: Semi-automatic Data Collection Process for Face Recognition System. Vietnamese Patent 2022 + US Patent (in review)
+Contact this candidate

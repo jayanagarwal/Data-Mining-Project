@@ -1,0 +1,88 @@
+Donald S. Wilde
+
+ad86om@r.postjobfree.com * 480-***-****
+Principal Software Engineer
+Visionary Software Engineer and with years of experience in embedded systems automation and deployment of Internet of Things technologies within the commercial software and firmware domains. Expertise encompasses multi-disciplinary product development, leadership roles, and orchestration of customer, sales and installation support. Provides flexible and creative applications of open source and proprietary solutions tailored to meet client and employer specifications for distributed muti-level systems. Conducts extensive patent research, orchestrates prototype construction, and coordinates patent and trademark submissions. Technical proficiency spans a broad spectrum from hardware to software simulation and high-level systems modeling to programming in multiple languages and paradigms. Leads hardware development, SW/FW development and database integration. Offers strategic views of all relevant technologies and the SDLC. Understands and orchestrates validation, testing, quality assurance and systems integration and ensures delivery of robust and innovative technology solutions.
+AREAS OF EXPERTISE
+Product and Team Management:
+Embedded systems automation and server-to-endpoint IoT deployment * IP and Product development * Customer and sales team support * Recruitment, training, and mgmt of remote and international personnel * Patent research and application * Documentation and persuasive presentation skills * Scrum Team app development * Mentor junior CS/EE, middle school and high school students * Kanban Task management and Agile / Scrum project flow management
+Software Development Skills:
+Object-Oriented Analysis and Design * Coding in Assembler, C/C++, Java/Swing/Spring, PHP, Python3, SciPy and NumPy, Ruby, Yocto/Bitbake, BASH * Compiler metaprogramming: advanced BOOST, Flex, Bison, LLVM * Video with V4L2, Gstreamer, OpenCV * C and C++ multi-threading RPC, RDMA, Kernel Module and C co-routines * Python3 SciPy and NumPy, R, Data Structures, Data Science, Machine Learning, Hadoop * Systems modeling tools: SPICE, MATLAB, RapidMiner * Programming and scripting: MISRA, RDK-B & Bitbake, Ruby on Rails, NginX, Django, Apache, PHP, HTML, JS, CSS, Perl, RPC, Java, Ruby, YAML, JSON, jQuery, React.js, Angular.js, Node.js, SSH, PuTTY * Nvidia Maxwell C++ and CUDA * System and Device performance profiling * Android app development (including NDK and some Kotlin) * x86 and various micro-controller architectures (8031, ESP32, STM32 TI DSP) in C and Assembler on multiple platforms * Control of cameras, relays, DC electronics, microcontroller subsystems and stepper motors, MOSFETs, H-Bridges, analog and bits. Adaptable code-driven software interfaces for communications protocols.
+Graphical Visualization and Human Interface Development:
+Visualization and documentation graphics: GraphViz, Blender3D, OpenGL, UML2, FreeMind * UI/UX Visual Interface Coding: Nvidia C++, Perl5/GD2, wxWindows, FOX GUI Toolkit, Qt, Android
+Database and Statistical Analysis Technologies:
+SQL and NoSQL databases: PGSQL, PostGIS, MySQL, MariaDB, Redis * RapidMiner, MATLAB, JMP *
+Apache Spark & collections * RDF
+Networking and Communication:
+Gateway, routing coding and security: ISO stack, TCP/IP, UDP, OpenSSL * Intel/Wind River Secure Boot with Trusted Computing Module, DPDK * Integration with wireless protocols and SDR: 802.11x, OpenWRT, LoRa, ZigBee, BLE * Network services: DHCP, SFTP, SNTP, RDK-B and SNMP, SMTP, MQTT, firewalls
+System, Low-Level and Kernel Configuration:
+Linux kernel C drivers, In-line Assembler, Devicetree and HAL interfaces and library extensions * Configuration and debugging for FreeBSD and Linux systems * Integration of custom software and/or Linux and FreeRTOS bootstrapped from bare-metal, OpenBMC, or a bootloader (U-Boot or grub) on HW platforms
+Quality Assurance and Testing:
+Static code analysis tools: lint, Perforce Klocwork, Coverity Scan * Rails Performance Optimization: ScoutAPM, Server to Networking to Core Ruby code, specialty instrumentation, Call Graph and detailed log analysis * Testing frameworks: CPPTest, RSpec, Test::Unit, Apache JMeter * SW code management with SVN and GIT * security tools: iPerf, Wireshark, Coremark, GDB, NFS, Memory_Profiler, Valgrind, Gcov * Documentation: RubyDoc, PerlDoc, Doxygen, PlantUML * Test automation scripts: BASH, Ruby, Python3, Perl5
+Systems Deployment:
+Whole-Server and virtual deployments on AWS, GCP and dedicated servers, OTA update of uC IoT
+Hardware Development Skills:
+Firmware build and debug at multiple levels including in-line Assembler, JTAG * eCAD and FPGA/ASIC design: OrCAD, Tanner, FLUX.ai, Quartus, Vivado/Vitis, Altium * Advanced Board CAD design * Integrate on-board busses: i2c, CSI2, USB, UART, SPI, ADC, DAC * Programming for distributed control
+PROFESSIONAL EXPERIENCE
+seedThings, LLC, Mesa, AZ 2018 – Present
+Founder and Software Engineer
+Pioneered knowledge-based reasoning applications for IoT, utilizing distributed processing and hardware acceleration to mitigate combinatorial explosions in AI.
+Engineering “Bubbles” C++20 GUI application for desktops facilitating visual representation of ideas and processes via Semantic Knowledge™ using MISRA context, FOX, JSON, and OpenGL ES, currently implementing same concepts in Ruby on Rails as an AIaaS web system for phone and tablet clients
+Implementing Android Phone and Tablet form of “Bubbles” application as FOSS
+Executed embedded IoT board development with Expressif ESP32 and touch-screen, Xilinx FPGA with RISC-V RV32I and LCD touchscreen, STM32 ARM M4/M0+, STM32WL55 LoRaWAN Processor, ST M7-based μC, and Infineon H-Bridge, integrated LLVM/CLANG and FreeRTOS for each embedded platform
+Created RISC-VX core, Data Structure, and HW Accelerator IP for IoT devices and servers
+Designed web front-ends, including a fifty-state shopping cart in Ruby on Rails on Linux platform
+Prototyped ST ARM-Cortex-M7 parallel sense and control system for IoT using C++14.
+Developing IP for Semantic Knowledge Execution Device leveraging hardware-based acceleration, RDF, and JSON-LD.
+Advanced Embedded Systems Firmware Development for leading corporations:
+Extended C code for Comcast (7/2021 – 10/2021) to enhance RDK-B networking capabilities
+Updated C code for TE Connectivity (9/2021 – 4/2022) for TCP/IP and proprietary 25-pair rack-to-rack interfacing on Linux-based server systems
+Volt Technical Services, Chandler, AZ 2016 – 2017
+Technical Support
+Completed debugging and validation of RDK-B C firmware on Intel's Puma7-based Home Gateways at Intel's Chandler, AZ facility, including Yocto bitbake scripting for Atom co-processor.
+Tracked and managed code using GIT, conducted code quality checks with Lint, and enhanced performance through profiling, tracing, and optimization of execution paths.
+Optimized video streaming paths through kernel in the Linux/Yocto-based network subsystem.
+Designed and prototyped automated test frameworks utilizing RabbitMQ.
+Developed and assessed FreeRTOS and LLVM/CLANG platform alternatives for benchmarking.
+Finalized Puma7 integration which incorporated both ARM A7 with buildroot and Atom x86 with Yocto and Bitbake scripts for building, including network packet acceleration hardware.
+
+Intel, Chandler, AZ 2011 – 2015
+Software Engineer
+Recruited to continue development of embedded GUI and cloud software for CE4100 media platform, transitioned to IoT Group for analytics and data science in Python and Java.
+Ported Android 4 with NDK to ARMv7-based Samsung/Intel tablets and integrated with Linux/Yocto-based cloud solutions.
+Developed and demonstrated prototype web-to-tablet Content Recommender system to curate and stream multimedia on Android devices.
+Programmed Android applications using Java and C++ to utilize hardware and Google services.
+Implemented Intel Trusted Platform Mgm’t for Secure Boot in collaboration with Wind River Linux.
+Engineered packet routing on hardware enhanced with Intel DPDK for accelerated data transfer.
+Designed visual software interface for data synchronization between Win and Android tablets.
+Executed tablet and SmartTV programming, leveraging C++ and OpenCV within the Enterprise Architect IDE, using UNIX Shared Memory, Mutexes and RDMA for task control.
+Conducted predictive time-series data analysis and reporting utilizing the Java7 Stack on Linux.
+Integrated MATLAB models into cloud Java applications for the Banjo Canyon Project on Linux.
+Served as Release Engineer for Banjo Canyon Energy Trend Analytics Software, managing Oracle Java7 VM updates and SDLC PLM on Linux
+Implemented RDK-B basic TR-069 components and extended services on SNMP on Linux platform
+Orchestrated device integration using MQTT, HTML5, jQuery, and JSON across various platforms
+Programmed AWS servers using Ruby, Feedzira, and Sinatra for web content management
+Utilized UML2 for architectural design, applying key design patterns for system structure
+Maintained codebases with Subversion and GIT and documented with Doxygen
+Implemented Jenkins with Klocworks and Coverity Scan for scripted code analysis and validation
+Additional Experience:
+Software Engineer * Volt Technical Resources, onsite with Intel at Hillsboro, OR, 2010 – 2011, benchmarked and debugged optimized libraries for Intel CE4100 multi-media platform
+Software Engineer Senior Consultant, Staff * Dell, Inc., Round Rock, TX, 2006 – 2009, wrote C code for network services (SMTP, SNMP, NTPD, SFTPD, SSHD) on OpenBMC-based PowerPC and performed offshore vendor coordination for chassis blade management and localization
+
+Founder * Engineering Job Future, Kyle, TX, 2009 – 2010, created CONVINCE multimedia smartphone platform for educational and market research on Android
+Software Engineer * L&M Technologies, Albuquerque, NM, 2002 2006, developed software for web-based intranet data warehouse, analysis automation, and scripted visual system for display of Teradyne and AdvanTest semiconductor test data. Created BASH script for workstation configuration which is still in use across entire US National Laboratory system
+Partner and Software Engineering Project Manager * Network Lynx, Rio Rancho, NM, 2000 – 2004: Managed offshore consultants writing industry-specific web systems code for Apache, HTML, CSS, AJAX, jQuery and JavaScript
+EDUCATION
+Graduate School of Systems and Industrial Eng. for Electronics and Scientific Systems
+University of Arizona – in progress
+Bachelor of Arts in Sociology, minor in Psychology and Mathematics
+University of Arizona
+PROFESSIONAL TRAINING
+Multiple Advanced Courses, Landmark Education: Landmark Forum, SELP, Wisdom Courses
+80+ Product Fabrication Courses Completed, TechShop
+Competent Communicator Certificate, Toastmasters International
+Certified Entrepreneur, CEOspace International
+10-month Entrepreneurial Leadership Excelerator Mentorship Program, Next Gen Economy
+PATENT
+JAN 2003 U.S. Patent number 6,505,086 “XML Sensor System” Co-Inventor
+Contact this candidate

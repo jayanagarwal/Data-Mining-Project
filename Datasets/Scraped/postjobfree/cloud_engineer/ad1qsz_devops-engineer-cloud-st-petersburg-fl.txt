@@ -1,0 +1,126 @@
+Christopher J Munson
+St Petersburg, FL
+727-***-****
+ad1qsz@r.postjobfree.com
+
+Qualifications Summary
+Cloud DevOps Engineer with an extensive background in continuous integration and continuous delivery Skilled in the deployment, maintenance, security, and cleanup of cloud related infrastructure in an automation first approach
+
+DevOps Technology Proficiencies
+●Platforms: Ubuntu Linux 16+, RHEL, CentOS, Serverless
+●Integrations/Deployment tools: Azure DevOps, Jenkins, CodeDeploy, CodeBuild
+●Infrastructure-as-Code: Terraform, Packer, GitHub, Bitbucket, Gitlab
+●Monitoring/Metrics: Grafana, AWS CloudWatch, Prometheus, Splunk
+●Security Administration: PGP Encryption Strategies, System Hardening, AWS IAM, OpenVPN
+●Container Orchestration: K8s, ECS, Docker Compose
+●Programming Languages: NodeJS, Bash, Java, Groovy, Python
+●AWS: Route 53, ELB, ECS, CloudWatch, Elastic Beanstalk, RDS, SNS, CLI, IAM, RDS, VPC, Systems Manager
+
+Professional Experience
+Senior Devops Engineer Code-X, St Petersburg, FL Nov 2022 - Nov 2023
+●Containerized traditional monolithic applications for Docker, improving scalability and manageability
+●Optimized AWS cost management to align with budgetary targets
+●Designed and integrated robust GitLab pipelines for product releases and versioning
+●Acquired expertise in configuring Code-x's proprietary zero-trust networking product
+●Developed AWS marketplace AMIs to demonstrate product capabilities
+●Tasked with getting Code-X network product to work in Docker Compose and Kubernetes
+●Utilized Terraform to launch multi-regional Code-X networks for internal testing and demonstrations
+●Created comprehensive Confluence product documentation related to Devops and containerization
+●Streamlined deployment of Code-X's zero-trust network product by automating containerization and SCM integration
+
+Cloud Engineer (Remote) SourceFuse, Jacksonville, FL Apr 2022 - Sept 2022
+●Provisioned extensive cloud infrastructure using custom Terraform modules
+●Developed and maintained Azure DevOps CI/CD pipelines
+●Established AWS Control Tower for SourceFuse clients
+●Constructed and sustained GitHub Actions and pipelines
+●Supported multiple large Kubernetes EKS installations
+●Collaborated in sprints for various SourceFuse customers
+●Addressed and rectified security issues in AWS following a SOC 2 audit
+
+Senior DevOps Engineer (Remote) BST Global, Tampa, FL June 2021 - Mar 2022
+●Managed DevOps release engineering for a multi-tenant serverless scheduling application
+●Developed extensive YAML-based pipeline-as-code CI/CD deployments in Azure DevOps
+●Engineered continuous integration and deployment for NET-based AWS Lambda APIs
+●Utilized Terraform extensively across multiple consolidated AWS accounts
+●Replaced classic build and release pipelines with pipeline-as-code on a large scale
+●Designed and executed a Git branching strategy for code builds and deployments
+
+Cloud DevOps Engineer (Remote) Aspen RXHealth, Tampa, FL Aug 2020 - June 2021
+●Supported large-scale AWS EKS K8s infrastructure
+●Participated in a fast-paced Infrastructure-as-Code agile development paradigm
+●Implemented Terraform modules to reduce customer infrastructure setup times
+●Conducted extensive security administration and hardening
+●Contributed to a significant Terraform/Kubernetes codebase alongside a team of software and infrastructure engineers
+●Utilized Sumo Logic and AWS CloudWatch for monitoring, logging, and metrics aggregation
+●Supported AWS using least privilege access methods via IAM roles and temporary credentials
+●Implemented AWS Lambdas for HIPAA data transfer between S3 buckets
+●Gained extensive experience with Terraform Cloud integrated with Bitbucket for AWS infrastructure
+
+Cloud DevOps Engineer (Remote) Adopt-A-Pet, San Diego, CA Jan 2019 - Jun 2020
+●Modernized CI/CD strategies, replacing Jenkins freestyle jobs with pipeline configurations in SCM
+●Worked extensively to reduce AWS costs while achieving Adopt-A-Pet's mission goals
+●Implemented Infrastructure-as-Code using Terraform
+●Created scalable AWS ECS platforms using Terraform and managed Jenkins ECS CI/CD pipelines
+●Integrated AWS Elastic and Elastic Beanstalk for PHP and Node platforms into CI/CD
+●Led the redesign and execution of Adopt-A-Pet's AWS infrastructure migration to a new account
+●Administered and implemented OpenVPN for enhanced AWS access
+●Migrated company domains to a new AWS Route 53 account
+●Oversaw all of Adopt-A-Pet's DevOps initiatives and integration/deployment strategies
+●Designed and implemented AWS Elastic Container Service
+●Developed and maintained Docker configurations for Node, Ubuntu, and PHP applications
+●Implemented SaltStack for centralized EC2 resource management
+●Executed AWS tagging strategies for expense tracking
+●Integrated Jenkins pipelines with AWS Parameter Store, Terraform, and GitHub
+
+Cloud DevOps Engineer (Consultant - Short Term) E2Gens, Tampa, FL Aug 2018 - Nov 2018
+●Set up AWS infrastructure for Node, PHP, and NET Web/Mobile apps
+●Utilized Jenkins pipelines extensively for app automation, builds, and deployments
+●Implemented Continuous Integration/Deployment using GitHub and Jenkins
+●Migrated customer apps to AWS Beanstalk and Google Firebase
+●Configured SSL/HTTPS for applications
+●Employed Nginx for TCP streaming and reverse proxy setup
+●Operated in a client-facing professional services capacity
+●Used Terraform extensively for infrastructure/component orchestration
+●Built comprehensive component monitoring via infrastructure as code
+AWS Engineer (Consultant, Remote) PwC, Tampa, FL May 2017 - July 2018
+●Designed a secure AWS GovCloud account for a US Government entity
+●Hardened RHEL AWS VMs according to security guidelines
+●Used Terraform extensively for infrastructure orchestration
+●Automated system patching and remote operations using AWS SSM
+●Designed and implemented Lambda functions for system backups
+●Installed and set up Chef for configuration management
+●Crafted and executed Chef cookbooks for application management
+●Implemented VPCs for various environments and connected them via Palo Alto firewall VPN
+●Used AWS CLI extensively for infrastructure management
+●Supported RDS Oracle instances across different work streams
+●Scripted automation using RHEL Linux shell, Windows PowerShell, and Python
+●Configured Windows GPO policies for Windows 2012 R2 instances
+●Integrated cloud-based monitoring notifications with Slack
+●Designed and executed CI/CD using Bitbucket, Jenkins, and Chef
+●Used Splunk extensively for data mining, reporting, and alert notifications
+●Developed an instance tagging scheme for AWS resources
+
+Senior Solutions Consultant (Remote) Moogsoft, San Francisco, CA June 2016 - July 2017
+●Integrated ServiceNow SaaS app with Moogsoft FMS
+●Created Linux-based scripts for enhanced AWS instance availability information
+●Used ServiceNow business rule sets to forward incident data via REST to FMS
+●Integrated with various vendor APIs to forward event/alert data to Moogsoft FMS
+●Implemented SaltStack master JSON output to SNS messages for data forwarding to FMS
+●Implemented various metrics using Graphite for precise customer resource visibility
+●Ensured high availability using RabbitMQ in diverse configurations across components
+●Operated in a DevOps role, supporting CentOS/RHEL servers on-premises and in the cloud
+●Implemented AWS CloudWatch notifications for client systems
+●Set up AWS ELB, Route 53, AWS RDS MySQL for client systems
+●Assisted pre-sales engineers with their IncidentMoog POV engagements
+●Designed rule sets for IncidentMoog from various ingestion types (REST, Syslog, SNMP)
+●Transformed customer scripts to Nodejs/JavaScript for better integration with IncidentMoog
+
+Education
+Colorado Technical University 2009-2012
+
+Certifications
+● AWS Solutions Architect: Associate 2017
+● Hashicorp Terraform Associate 2022
+● Cisco Certified Network Professional 2006
+● ITIL Foundation Certified 2006
+Contact this candidate

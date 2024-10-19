@@ -1,0 +1,186 @@
+SATISH CHITIMOJU
+AI ML Engineer
+ad5fnl@r.postjobfree.com
++1-443-***-****
+https://www.linkedin.com/in/satish-chitimoju-65200189
+Houston Texas USA-77063
+
+Objective
+
+12+ years of IT industry experience which includes 8+ years of experience as a AI / ML Engineer, I specialize in orchestrating AWS SageMaker pipelines, crafting precise Terraform scripts, overseeing model deployments and experiments, lineage tracking and establishing robust CI/CD pipelines, and configuring CloudWatch events for vigilant monitoring. And Gen AI text generation application development and implementation using Lang Chain, Lamma2, bard and Gemini. My career has showcased exceptional proficiency in harnessing advanced ML techniques and strategically applying algorithms to successfully address intricate real-world business challenges. Exceptionally motivated individual with a profound grasp of technology, adept at swiftly acquiring and comprehending new technologies.
+
+Professional Experience
+
+Implementing and Integrated the Facebook Text Generation Llama-2-7b-chat model into the AWS Cloud environment, deploying the same model through an AWS SageMaker hosting instance with the configuration of ml.g5.2x.large. Additionally, I meticulously mapped the essential IAM security policies. Rigorous testing ensued, encompassing both SageMaker console validation and successful execution through an HTTP AWS Gateway facilitated by Lambda functions.
+Implemented MLflow for end-to-end batch processing testing, covering model training, packaging, validation, deployment, and monitoring, ensuring robustness and efficiency in the machine learning lifecycle.
+Over three years of hands-on experience in developing and operationalizing Machine Learning (ML) and Artificial Intelligence (AI) models.
+Proven track record of utilizing Google ML/AI pipelines for seamless development and deployment of machine learning models.
+Extensive experience in working with Vertex AI Search, formerly known as "Enterprise Search," demonstrating proficiency in leveraging advanced search capabilities.
+Skilled in PaLM 2, particularly in developing text-bison, chat-bison, and other Large Language Models (LLMs) to enhance search functionalities.
+Successfully operationalized ML/AI models, ensuring their integration into real-world applications and systems.
+Hands-on experience in implementing models and solutions using Google's Vertex AI, showcasing a deep understanding of Google Cloud's AI capabilities.
+Proficient in optimizing ML/AI pipelines for efficiency, scalability, and improved model performance.
+Demonstrated expertise in managing the entire lifecycle of machine learning models, from development and training to deployment and monitoring.
+Adept at collaborating with cross-functional teams, including data scientists, engineers, and stakeholders, to achieve project goals and objectives.
+Committed to staying abreast of the latest advancements in ML/AI technologies and consistently integrating new methodologies into projects for continuous improvement.
+Demonstrated proficiency in leveraging ML frameworks such as TensorFlow and PyTorch to design and implement robust machine learning models, contributing to the development of advanced AI solutions.
+Utilized critical ML frameworks like TensorFlow and PyTorch to enhance model training, optimize performance, and deploy effective machine learning solutions, showcasing a deep understanding of industry-standard tools in the field of artificial intelligence.
+Implemented and managed data versioning using Data Version Control (DVC) within the MLOps pipeline, enhancing reproducibility and collaboration.
+Implemented LangChain and LangIndex, demonstrating proficiency in language modeling technologies.
+Strong understanding of AI principles and techniques, particularly in natural language processing.
+Experience in developing and optimizing Gen AI systems for real-world applications.
+Successfully set up and validated prominent AI tools, including Llmma 2, Lamda, Palm, BERT, Gemini, Falcon, Mistral, Vicuna-33B, Langchain, and Chat Gpt 4, in local and inference environments.
+Demonstrated proficiency in configuring and optimizing AI tools across various environments, showcasing adaptability and hands-on experience with cutting-edge technologies.
+Played a pivotal role in the development of a Text Generation Search Engine by implementing and fine-tuning a diverse array of AI tools, enhancing the engine's capabilities for natural language understanding and generation. This hands-on experience underscores a deep understanding of the AI landscape and its practical applications in real-world search engine solutions.
+Ability to work with large datasets and apply statistical analysis and modeling techniques.
+Developed AI models using LangChain and LangIndex to achieve specific outcomes like improved text generation, language translation, question answering.
+Implemented in MLOps lifecycle, which included data preprocessing, feature engineering, model training, validation, deployment, and monitoring.
+Proficient programming skills in Python, Terraform, Ansible, shell scripting and used a variety of tools and libraries, including MLflow, Prefect, TensorBoard, Pandas, Parquet, Airflow, and DAGs. I leveraged these technologies to streamline machine learning workflows, efficiently manage data pipelines, and visualize model performance.
+Automated AWS infrastructure using Terraform Enterprise Registry within Jenkins pipelines for continuous integration, streamlining the deployment of libraries and dependencies essential for model.
+Generated distinct versions of model artifacts in model.version.tar.gz format and deployment pipeline configurations, subsequently deploying them into the ECR registry.
+Implemented continuous delivery by retrieving the registered artifact model.version.tar.gz file, input/output datasets, and deployment pipeline configuration from ECR, seamlessly deploying them into an EKS cluster.
+Orchestrated the creation of an EKS cluster with five dedicated pods, each serving specific functions such as routing, model state management, Sagemaker configuration, primary decision model API calls, streaming requests in MSK, and default pods for additional tools. Integrated model repositories, S3 buckets, and Sagemaker with the configuration pod in the Sagemaker Config controller to enhance collaboration and resource utilization.
+Established a streamlined process for analyzing inference requests and prediction outputs by reading data from a Kafka topic to the model monitoring pod. Finally, facilitated the transmission of inference input and prediction output to the model monitoring dashboard for comprehensive analysis.
+Crafted Terraform and containerization scripts with a high level of expertise and precision and bridged the gap between data science and infrastructure by creating efficient and automated pipelines for deploying machine learning models and workflows.
+Leveraged Terraform scripts to spin up SageMaker instances and orchestrate SageMaker pipelines for deploying machine learning models and deploying models across various AWS resources, including EC2 instances, EMR clusters, and Docker containers.
+Collaborated closely with data engineering teams in the past to meticulously prepare and preprocess data for model training and inference, successfully creating robust data pipelines. Utilized AWS services such as Athena, RedShift, S3 and AWS Glue to streamline and automate data processing workflows and scheduled ETL jobs.
+Experienced in version control systems using GitHub, Bitbucket, GIT and DVC for data control and used best practices to manage repos and branches.
+Demonstrated a deep understanding of various algorithmic paradigms, including supervised, unsupervised, and reinforcement learning.
+Deployed machine learning models to AWS SageMaker endpoints, utilizing a range of deployment configurations for real-time processing, batch processing, and managing the entire machine learning lifecycle.
+Managed multiple model versions and implemented strategies for seamless model updates based on model performance metrics.
+Established and customized Amazon SageMaker environments, including GPU instances, shared notebook instances, Spark EMR clusters, Zeppelin notebooks, containers, and Docker images. And ensured the security and isolation of SageMaker resources by configuring Amazon VPC, IAM roles, and security groups.
+Hands-on experience in using Terraform to efficiently create and provision AWS resources, including instances, S3 buckets, AWS Glue jobs, and various other cloud resources. This expertise allows for streamlined and reliable resource deployment within AWS infrastructure.
+Collaborating with data science teams and stakeholders to define relevant metrics that need to be monitored for model performance.
+Experienced in Implementing mechanisms to collect and record metrics related to model accuracy, latency, throughput.
+Established real-time monitoring solutions to continuously track model behavior and performance in production.
+Implemented alerts and notifications to proactively detect anomalies or deviations from expected behavior.
+Designed monitoring processes for batch processing scenarios, ensuring accurate data and model processing in scheduled intervals.
+Utilized AWS CloudWatch, AWS CloudTrail, Event Bridge, and other monitoring and logging services to capture and visualize relevant metrics and logs.
+Defined thresholds for different metrics and configured alerts to trigger notifications upon crossing predefined thresholds.
+Analyzed historical monitoring data to identify long-term trends, patterns, and potential issues.
+Used historical data to make informed decisions about model updates and improvements.
+Monitored resource usage, including CPU, GPU, memory, and network, to ensure deployed models operated within acceptable resources and time limits.
+Implemented mechanisms to detect model drift by comparing model predictions against actual outcomes.
+Triggered alerts when model drift was detected, indicating the need for model retraining or updates.
+Initiated a cost optimization strategy by creating an automated system driven by AWS Lambda and Event Bridge schedules. This system efficiently managed non-essential resources during non-working hours, leading to substantial cost savings. Importantly, this cost-effective approach ensured that critical workloads remained unaffected.
+
+AI ML Engineer Tech AI (Client: Mondee Travel) Jan 2023 – Till Date
+Over three years of hands-on experience in developing and operationalizing Machine Learning (ML) and Artificial Intelligence (AI) models.
+Proven track record of utilizing Google ML/AI pipelines for seamless development and deployment of machine learning models.
+Extensive experience in working with Vertex AI Search, formerly known as "Enterprise Search," demonstrating proficiency in leveraging advanced search capabilities.
+Skilled in PaLM 2, particularly in developing text-bison, chat-bison, and other Large Language Models (LLMs) to enhance search functionalities.
+Successfully operationalized ML/AI models, ensuring their integration into real-world applications and systems.
+Hands-on experience in implementing models and solutions using Google's Vertex AI, showcasing a deep understanding of Google Cloud's AI capabilities.
+Proficient in optimizing ML/AI pipelines for efficiency, scalability, and improved model performance.
+Demonstrated expertise in managing the entire lifecycle of machine learning models, from development and training to deployment and monitoring.
+Adept at collaborating with cross-functional teams, including data scientists, engineers, and stakeholders, to achieve project goals and objectives.
+Committed to staying abreast of the latest advancements in ML/AI technologies and consistently integrating new methodologies into projects for continuous improvement.
+Generated distinct versions of model artifacts in model.version.tar.gz format and deployment pipeline configurations, subsequently deploying them into the ECR registry.
+Implemented continuous delivery by retrieving the registered artifact model.version.tar.gz file, input/output datasets, and deployment pipeline configuration from ECR, seamlessly deploying them into an EKS cluster.
+Orchestrated the creation of an EKS cluster with five dedicated pods, each serving specific functions such as routing, model state management, Sagemaker configuration, primary decision model API calls, streaming requests in MSK, and default pods for additional tools. Integrated model repositories, S3 buckets, and Sagemaker with the configuration pod in the Sagemaker Config controller to enhance collaboration and resource utilization.
+Established a streamlined process for analyzing inference requests and prediction outputs by reading data from a Kafka topic to the model monitoring pod. Finally, facilitated the transmission of inference input and prediction output to the model monitoring dashboard for comprehensive analysis.
+Implemented LangChain and LangIndex, demonstrating proficiency in language modeling technologies.
+Strong understanding of AI principles and techniques, particularly in natural language processing.
+Experience in developing and optimizing Gen AI systems for real-world applications.
+Successfully set up and validated prominent AI tools, including Llmma 2, Lamda, Palm, BERT, Gemini, Falcon, Mistral, Vicuna-33B, Langchain, and Chat Gpt 4, in local and inference environments.
+Demonstrated proficiency in configuring and optimizing AI tools across various environments, showcasing adaptability and hands-on experience with cutting-edge technologies.
+Played a pivotal role in the development of a Text Generation Search Engine by implementing and fine-tuning a diverse array of AI tools, enhancing the engine's capabilities for natural language understanding and generation. This hands-on experience underscores a deep understanding of the AI landscape and its practical applications in real-world search engine solutions.
+Ability to work with large datasets and apply statistical analysis and modeling techniques.
+Developed AI models using LangChain and LangIndex to achieve specific outcomes like improved text generation, language translation, question answering.
+Developed and maintained automation scripts and tools for various tasks using terraform, Jenkins pipeline scripts.
+Implemented in MLOps lifecycle, which included data preprocessing, feature engineering, model training, validation, deployment, and monitoring.
+Crafted Terraform and containerization scripts with a high level of expertise and precision and bridged the gap between data science and infrastructure by creating efficient and automated pipelines for deploying machine learning models and workflows.
+Leveraged Terraform scripts to spin up SageMaker instances and orchestrate SageMaker pipelines for deploying machine learning models and deploying models across various AWS resources, including EC2 instances, EKS clusters, and Docker containers.
+Implementing and Integrated the Facebook Text Generation Llama-2-7b-chat model into the AWS Cloud environment, deploying the same model through an AWS SageMaker hosting instance with the configuration of ml.g5.2x.large. Additionally, I meticulously mapped the essential IAM security policies. Rigorous testing ensued, encompassing both SageMaker console validation and successful execution through an HTTP AWS Gateway facilitated by Lambda functions.
+Deployed machine learning models to AWS SageMaker endpoints, utilizing a range of deployment configurations for real-time processing, batch processing, and managing the entire machine learning lifecycle.
+Automated AWS infrastructure using Terraform Enterprise Registry within Jenkins pipelines for continuous integration, streamlining the deployment of libraries and dependencies essential for model.
+Experienced in version control systems using GitHub, Bitbucket, GIT and DVC for data control and used best practices to manage repos and branches.
+Ensured system health and responsiveness through monitoring tools.
+Implemented security practices and tools to protect systems AWS IAM.
+Diagnosed and resolved software and infrastructure issues promptly.
+Monitored resource usage, including CPU, GPU, memory, and network, to ensure deployed models operated within acceptable resources and time limits.
+Implemented mechanisms to detect model drift by comparing model predictions against actual outcomes.
+Triggered alerts when model drift was detected, indicating the need for model retraining or updates.
+Initiated a cost optimization strategy by creating an automated system driven by AWS Lambda and Event Bridge schedules. This system efficiently managed non-essential resources during non-working hours, leading to substantial cost savings. Importantly, this cost-effective approach ensured that critical workloads remained unaffected.
+
+Senior ML Engineer Onpassive Sep 2020 - Dec 2021
+Developed and maintained automation scripts and tools for various tasks using terraform, Jenkins pipeline scripts.
+Implemented in MLOps lifecycle, which included data preprocessing, feature engineering, model training, validation, deployment, and monitoring.
+Crafted Terraform and containerization scripts with a high level of expertise and precision and bridged the gap between data science and infrastructure by creating efficient and automated pipelines for deploying machine learning models and workflows.
+Leveraged Terraform scripts to spin up SageMaker instances and orchestrate SageMaker pipelines for deploying machine learning models and deploying models across various AWS resources, including EC2 instances, EMR clusters, and Docker containers.
+Collaborated closely with data engineering teams in the past to meticulously prepare and preprocess data for model training and inference, successfully creating robust data pipelines. Utilized AWS services such as Athena, RedShift, S3 and AWS Glue to streamline and automate data processing workflows and scheduled ETL jobs.
+Hands-on experience in using Terraform to efficiently create and provision AWS resources, including instances, S3 buckets, AWS Glue jobs, and various other cloud resources. This expertise allows for streamlined and reliable resource deployment within AWS infrastructure.
+Utilized AWS CloudWatch, AWS CloudTrail, Event Bridge, and other monitoring and logging services to capture and visualize relevant metrics and logs.
+Deployed machine learning models to AWS SageMaker endpoints, utilizing a range of deployment configurations for real-time processing, batch processing, and managing the entire machine learning lifecycle.
+Experienced in version control systems using GitHub, Bitbucket, GIT and DVC for data control and used best practices to manage repos and branches.
+Analyzed historical monitoring data to identify long-term trends, patterns, and potential issues.
+Used historical data to make informed decisions about model updates and improvements.
+Monitored resource usage, including CPU, GPU, memory, and network, to ensure deployed models operated within acceptable resources and time limits.
+Proficient programming skills in Python, Terraform, Ansible, shell scripting and used a variety of tools and libraries, including MLflow, Prefect, TensorBoard, Pandas, Parquet, Airflow, and DAGs. I leveraged these technologies to streamline machine learning workflows, efficiently manage data pipelines, and visualize model performance.
+Diagnosed and resolved software and infrastructure issues promptly.
+Maintained clear and up to date documentation for processes and configurations.
+
+ML Engineer SmartBear Dec 2017 - Sep 2020
+Developed and maintained automation scripts and tools for various tasks using terraform, Jenkins pipeline scripts.
+Implemented in MLOps lifecycle, which included data preprocessing, feature engineering, model training, validation, deployment, and monitoring.
+Crafted Terraform and containerization scripts with a high level of expertise and precision and bridged the gap between data science and infrastructure by creating efficient and automated pipelines for deploying machine learning models and workflows.
+Leveraged Terraform scripts to spin up SageMaker instances and orchestrate SageMaker pipelines for deploying machine learning models and deploying models across various AWS resources, including EC2 instances, EMR clusters, and Docker containers.
+Collaborated closely with data engineering teams in the past to meticulously prepare and preprocess data for model training and inference, successfully creating robust data pipelines. Utilized AWS services such as Athena, RedShift, S3 and AWS Glue to streamline and automate data processing workflows and scheduled ETL jobs.
+Hands-on experience in using Terraform to efficiently create and provision AWS resources, including instances, S3 buckets, AWS Glue jobs, and various other cloud resources. This expertise allows for streamlined and reliable resource deployment within AWS infrastructure.
+Utilized AWS CloudWatch, AWS CloudTrail and other monitoring and logging services to capture and visualize relevant metrics and logs.
+Proficient programming skills in Python, Terraform, shell scripting and used a variety of tools and libraries, including MLflow, Pandas, and DAGs. I leveraged these technologies to streamline machine learning workflows, efficiently manage data pipelines, and visualize model performance.
+Deployed machine learning models to AWS SageMaker endpoints, utilizing a range of deployment configurations for real-time processing, batch processing, and managing the entire machine learning lifecycle.
+Ensured system health and responsiveness through monitoring tools.
+Implemented security practices and tools to protect systems AWS IAM.
+Diagnosed and resolved software and infrastructure issues promptly.
+
+Technology Analytics Infosys (Client: Mercedes-Benz Underwriters Laboratories) May 2014 - Dec 2017
+Developed and maintained distributed data processing applications using Java MapReduce, Hadoop Distributed File System (HDFS), HBase, and other related Big Data technologies.
+Designed and implemented RESTful APIs to interact with data stored in Hadoop clusters and other data sources.
+Developed and maintained SQL queries and stored procedures to extract, transform, and load data from disparate sources into Hadoop clusters.
+Designed, implemented, and managed Infrastructure as Code (IaC) solutions using tools like CloudFormation.
+Orchestrated and maintained Docker containers and Kubernetes clusters for application deployment.
+Established and automated Continuous Integration/Continuous Deployment (CI/CD) pipelines, reducing release times.
+Managed cloud environments on AWS optimizing resource usage and cost efficiency.
+Developed and maintained automation scripts (Bash, Python) to streamline operational tasks and deployments.
+Implemented and enforced version control (Git) best practices, leading to improved code collaboration and version tracking.
+Set up comprehensive monitoring and logging systems to ensure system health and troubleshoot issues proactively.
+Ensured security and compliance by implementing best practices and performing regular vulnerability assessments.
+Led incident response efforts, minimizing downtime, and enhancing system reliability.
+Scaled infrastructure resources dynamically to accommodate application growth and fluctuations in demand.
+Implemented robust backup and recovery strategies to safeguard data and ensure business continuity.
+Evaluated, selected, and integrated new DevOps tools and technologies, improving overall workflow efficiency.
+Developed and executed disaster recovery plans to minimize downtime in case of unforeseen events.
+Stayed current with industry trends and best practices in DevOps, continuously enhancing expertise.
+
+Senior Software Engineer Accenture (Client: SiriusXM) Oct 2013 - May 2014
+Designed, developed, tested, and maintained Java applications using J2EE JDBC and SQL and web interfaces using HTML5, JavaScript, CSS3, and Bootstrap.
+Developed and maintained SQL queries, stored procedures to interact with databases and other data sources.
+Developed and maintained unit tests, integration tests, and automated test suites to ensure the quality of the codebase.
+
+Software Engineer HGS (Client: Weill Cornell - BMIQ) Dec 2012 - Sep 2013
+Designed, developed, tested, and maintained Java applications using J2EE, Spring MVC, JDBC, Hibernate SQL, and web interfaces using HTML5, JavaScript, jQuery CSS3, and Bootstrap.
+Developed and maintained SQL queries, stored procedures, and triggers to interact with databases and other data sources.
+Developed and maintained unit tests, integration tests, and automated test suites to ensure the quality of the codebase.
+
+Software Engineer Yalamanchili Software Exports (Client: East West Bank ) Jan 2011 - Nov 2012
+Designed, developed, tested, and maintained Java applications using J2EE, SOAP Service, Hibernate SQL, and web interfaces using HTML5, JavaScript, jQuery, CSS3, and Bootstrap.
+Provided technical support for Java-based applications, including troubleshooting and issue resolution.
+Troubleshoot and debug issues with the application code, database queries, and stored procedures.
+
+Education
+
+Master of Science in information studies Trine University at Angola Indiana USA Dec 2021 – May 2023
+Bachelor of Technology in Electronics and Communication Engineer JNTU, Kakinada, AP, India June 2005 – May 2009
+
+Certifications
+
+Aws Cloud Associate certification
+
+Awards
+
+Best performer of the month - ONPASSIVE - Issued by General manager. May 2021.
+Employee of the Quarter - ONPASSIVE - Issued by Issued by General Manager. Dec 2020
+Honors Award - Infosys - Issued by Vice President of Infosys. Mar 2016
+Wow Award- Best employee - Infosys - Issued by Vice President of Infosys. Nov 2015
+Contact this candidate

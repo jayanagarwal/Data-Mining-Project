@@ -1,0 +1,107 @@
+Imagbe Abusomwan
+**** ****** ******* *****, ********, TX 77407 ad15cf@r.postjobfree.com, 281-***-****
+PROFESSIONAL SUMMARY
+Results-oriented DevOps Engineer with a proven track record of over 10 years in designing and implementing robust and scalable infrastructure solutions. Adept at bridging the gap between development and operations teams to streamline processes and enhance the software delivery lifecycle. Deep expertise in cloud platforms, automation tools, and CI/CD pipelines. Skilled in containerization technologies, orchestration frameworks, and infrastructure-as-code practices. Strong problem-solving abilities coupled with effective communication skills, fostering collaboration across cross-functional teams. Committed to continuous learning and staying up-to-date with industry trends to drive innovation and efficiency in complex environments.
+
+ACHIEVEMENT HIGHLIGHTS
+Orchestrated the seamless migration of an entire on-premises system to cloud-based Kubernetes services on AWS platform, ensuring minimal downtime and maximizing scalability.
+Drove the successful deployment of an AWS IoT solution, playing a key role in supporting the MPS aautomated parking ssystem, leading to significant improvements in operational efficiency and customer satisfaction.
+Spearheaded the implementation of Terraform and CloudFormation, revolutionizing traditional infrastructure management practices. This transformation resulted in enhanced efficiency, cost savings, and accelerated provisioning of resources.
+Demonstrated exceptional proficiency in managing a global system and data center, overseeing the smooth operation of 2500 virtual machines and 150,000 client devices. Maintained meticulous attention to detail, ensuring optimal performance, reliability, and security.
+
+TECHNICAL SKILLS
+Source Code Mgt: GitHub Bitbucket Azure DevOps
+CI/CD: Jenkins Code Pipeline GitHub Actions ArgoCD
+Infrastructure as a Code: Terraform AWS CloudFormation Azure ARM
+Cloud Platform: AWS Microsoft Azure GCP
+Databases: PostgreSQL MySQL SQL Server
+Operating Systems: Linux Windows MacOS
+Networking: Routing Switching Firewalling VPN Load Balancing
+Configuration Management: Ansible Puppet Chef
+Containerization: Docker Kubernetes ECS EKS AKS
+Scripting: Bash PowerShell Python
+Monitoring & Log Mgt: CloudWatch Prometheus ELK New Relic
+
+EDUCATION & TRAINING
+BEng (Hons), Electrical & Electronic Engineering
+AWS Certified DevOps Engineer – Professional
+AWS Certified Solutions Architect – Professional
+
+PROFESSIONAL EXPERIENCE
+Municipal Parking Service Aug 2022 – Present
+DevOps Engineer
+Architect two-tier and three-tier Application Infrastructure and microservices internal and external communication for Metaverse and EdTech products.
+Dockerization of React and Node applications with Multi-Stage, Cached, and Optimized Docker file.
+Application deployment with automation tools like terraform, GitHub Action, Jenkins, ArgoCD into EKS Cluster.
+Secure internal application with the configuration of Application Gateway as WAF and router, routing to Nginx internal ingress controller.
+Deployment and configuration of Prometheus Server, Alert manager, Grafana, and target nodes for monitoring.
+Automate infrastructure and application deployment with infrastructure as code and CI/CD. And also manage nodes with a configuration manager.
+Design roadmap & implementation of Infrastructure & Application hybrid and migration to the cloud.
+Orchestrate technology infrastructure that is intuitive, resilient, and auto-scale to keep service delivery constantly available while keeping the baseline throughput.
+
+DuettoCloud March 2019 – July 2022
+DevOps Engineer
+Responsible for collaboratively working with customers and partners on key engagements.
+Deliver proof-of-concept projects, workshops, and lead implementation projects.
+Focus on key customer solutions such as Web Applications, Enterprise Applications, Microservices, Migrations, Security, DevOps, High Availability (HA) and Disaster Recovery (DR).
+Work with customers and recommend architectures that suit them best based on needs by following AWS Well-Architected Framework for building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
+Architect and implement truly cloud-enabled 5G core network functions CI/CD pipeline in AWS for Telco providers. Automate the complete CI/CD process using AWS Code Pipeline, AWS Code Deploy, AWS Code Commit, and AWS Code Build to deploy onto EKS Cluster using AWSK CDK (Cloud Development Kit).
+Large-scale migration experience from on-premises to AWS.
+Design and implement customer network connectivity from on-prem to AWS using AWS Direct Connect with resiliency.
+Design and Implement AWS Managed Landing Zone solution (Control Tower) for the ease of AWS multi-account strategy.
+Design and implement Network Transit Gateway
+Cognizant Technology May 2016 -March 2019
+DevOps Engineer
+
+Architected, installed, configured, deployed, and supported multiple enterprise applications running on IBM WebSphere Application Server, IBM WebSphere MQ, IBM HTTP Server, Jboss EAP, Tomcat, Apache Webserver, Mule ESB, Active MQ software on Red Hat Linux, IBM AIX and Windows Operating Systems, so that the applications supporting our business have a secure and stable running environment.
+Created horizontal and vertical clusters on WebSphere. Jboss EAP and Tomcat.
+Changed the default clustering configurations in Jboss EAP from multicasting to TCP.
+Installed and configured HTTP server Plugin to proxy requests from HTTP server to backend WebSphere Application Servers and mod_jk/mod_cluster to proxy requests from Apache httpd to backend Jboss EAP Servers.
+Configured session management, virtual hosts, and transports for WebSphere Application Servers.
+Applied software patches, and fixed packs to keep up to date.
+Configured WebSphere resources like JDBC providers, JDBC data sources, and connection pooling.
+Wrote shell scripts to automate our enterprise application deployments.
+Proactively monitored server performance, and network traffic to pinpoint performance bottlenecks and avoid production issues.
+Provided support as required during normal business hours as well as after hours by taking part in 24x7 Production On-Call rotation.
+Implemented all changes by following the change management system.
+Automated routine system administration tasks such as logfile cleanup, application and application server backups, application server restarts, and application deployments using Unix shell scripting.
+Created application server-level key and trust stores and imported copies of vendor certificates to secure end-to-end SSL/TLS communication between our on-premises applications and vendor applications.
+Lead the team in the migration of applications from WebSphere to Jboss EAP.
+Built and supported new and existing environments through the entire life cycle including acquisition and decommissioning.
+
+Thames Technology April 2014 - May 2016
+Systems Engineer
+Delivery of telecom monitoring and OSS products in customer delivery projects, including software installation on physical/virtual machines, configuring business and performance-critical systems, and making them ready for operation.
+Documentation of customer system design specifications, and installation instructions related to the project.
+Resolving incidents and service requests reported by customers or escalated by partners, ensuring all reported technical issues are resolved, and escalating any product defects to software/system developers as needed.
+System knowledge transfer and training to client’s system administrators and partners.
+Routine performance and health reviews, as well as optimization of deployed systems.
+Performing software upgrades of deployed network monitoring and OSS products.
+Troubleshoot and resolve project issues related to customer systems/solutions setup and integrations.
+Collaborated with multiple, concurrent, teams for the migration/re-hosting of applications.
+Maintained, installed, and patched ESX Cluster on VMware.
+
+Novarion Systems Jan 2013 – April 2014
+Systems Engineer
+Designed technical solutions covering product selection for the key components of the network technology stack, including network hardware, firewalls, circuit sizing, capacity management, management tools and software platforms.
+Security incident triage and response, including working with firewall and device logs, investigated security events and established monitoring and incident reports and response procedures.
+Configured and monitored critical alarms generated by network devices using a Syslog server and SNMP-based management tools.
+Administered IT infrastructure (switches, firewalls, routers, and servers), troubleshoot hardware and network-related issues (network services, Layer 2/3 network devices).
+Configuration of network infrastructure (Router, Switch, Firewall, Load balancer, SAN) as per business requirement.
+Installed Cisco Meraki, Cisco Wireless Control System – Aironet AP and controllers, and troubleshoot wireless issues.
+Secured network system by establishing and enforcing policies, and defining and monitoring access (ACL, Firewall, VPN, 802.1X, AAA (TACACS+, RADIUS).
+
+IpNX Nigeria Limited Jan 2007 – Dec 2012
+Network Engineer
+
+Provided technical expertise in IP network design, implementation, optimization, and maintenance to support voice and data networks in differing stages of development.
+Identified and implemented equipment and solutions for creating and supporting IP networks for a variety of environments that require the use of wired and wireless transmission technologies.
+Installed, configured, and supported network equipment and network operating systems (routers, servers, switches).
+Analyzed and monitored network activity to ensure optimal network operation and recommended and modify network configuration to improve efficiency and cost-effectiveness.
+Configured network and third-party software application programs to provide improved response time and quality.
+Administered the local IP telephony system (LINKSYS), Life Size Express 220 Video Conference system and network devices including Cisco, HP, and Juniper.
+Carried out proactive monitoring and support of the live and pre-production infrastructure using KACE K1000, op5 Monitor, ESET RA and Cisco Meraki MDM.
+Managed user S/MIME certificates used for digital signing and secure communication (Encryption, VPN, etc.).
+Implemented and managed on-the-fly-encrypted volume using TrueCrypt (data storage device).
+Diagnosed, repaired, and deployed PCs and applications in a LAN/WAN environment using Lantronix-Spider KVM.
+Contact this candidate

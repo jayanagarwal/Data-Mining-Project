@@ -1,0 +1,172 @@
+Sandeep P
+Sr. Cloud Engineer
+Email: ad5xjs@r.postjobfree.com
+Mobile: +1-469-***-****
+CAREER OBJECTIVE:
+8+ years of IT experience as Sr. Cloud Engineer, Azure DevOps Engineer, Cloud Infrastructure Engineer, Cloud Platform Engineer, Linux system Administration in SCM, Build/Release Management with Continuous Integration & Continuous Deployment/Delivery as an iterative process and Automation of infrastructure including end-to-end code configuration using different tools, and cloud services like Azure, AWS, OpenShift, and PCF. (Pivotal Cloud Foundry) PROFESSIONAL SUMMARY:
+Proficient in Microsoft Azure, IAAS, SAAS and PAAS services such as Virtual Networks, Virtual Machines, Blob storage, Azure Data Factory, Cloud Services, Resource Groups, Express Route, Traffic Manager, VPN, Load Balancing, Application Gateways, Auto-Scaling, deploying Web Apps, monitoring by Azure Application Insights, and creating Web-Jobs.
+Extensively worked with various Azure services like Web Roles, Worker Roles, Azure Websites, Caching, Azure SQL, Net worker servicers, API Management, Active Directory (AD) services infrastructure in maintaining, and monitoring Azure Active Directory (AAD) infrastructure incorporated with periodic auditing, troubleshooting and performance.
+Hands-on experience in Designing, planning and implementation for existing on-prem applications to Azure Cloud. Configured and deployed Azure Automation Scripts utilizing Azure stack (Compute, Web and Mobile, Blobs, ADF(Azure Data Factory), Resource Groups, Azure Data Lake, HD Insight Clusters, Azure Data Factory, Cloud Services and ARM).
+Implemented a CI/CD pipeline using Azure DevOps (VSTS, TFS) in both cloud and on-premises with GIT, MS Build, Docker, Maven along with Jenkins plugins. Experience of utilizing Microsoft Azure which includes Creating PaaS builds, PaaS deployments, Storage -Accounts, Queues, CDN, ARM templates, Azure Service Bus.
+Implemented security controls and compliance checks by applying DevSecOps principles using Infrastructure as Code
+(IaC) tools like Terraform, ensuring secure and compliant cloud deployments.
+Experience in designing and deploying AWS Solutions using EC2, S3, VPC, Auto-Scaling, EBS, SNS, SQS, Route 53, Elastic Load balancer (ELB), Auto scaling, Lambda, Elastic search, Container services ECS, Log stash, Kibana, Influx DB, Grafana.
+Experience in maintaining Amazon Web Services and experience in Architecting Legacy Data Migration projects such as Teradata to AWS Redshift, migration, Teradata to Snowflake Migration, AWS Cloud from on-premises.
+Building/Maintaining Docker/ Kubernetes container clusters managed by Kubernetes Linux, Bash, GIT, Docker, on GCP.
+Build servers using GCP, importing volumes, launching EC2, RDS, creating security groups, auto-scaling, load balancers
+(ELBs) in the defined virtual private connection.
+Experience in setting up and configuring ECS clusters and integrating them with other AWS services, such as Elastic Load Balancing (ELB) and Auto Scaling. Also monitored Kubernetes clusters health by using Prometheus and Grafana.
+Hands-on experience Integrating Office 365 with other cloud services, such as Amazon WorkDocs, to provide a seamless and secure experience for users.
+Utilized Golang to develop Infrastructure as Code solutions, enabling declarative and version-controlled infrastructure provisioning on platforms like AWS, GCP, and Azure.
+skilled in provisioning and managing EC2 instances to host application components that interact with Amazon Pinpoint.
+Implemented Infrastructure as Code (IAC) principles using tools like Heat Orchestration Templates and Terraform to define and deploy OpenStack resources.
+Managed Kubernetes charts using Helm, Created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and Managed releases of Helm packages.
+Had very strong exposure using Ansible automation in replacing the different components of OpenShift like ECTD, MASTER, APP, INFRA, Gluster.
+Proficient in using Terraform and Ansible also migration of legacy and monolithic systems to Azure. By creating Ansible Nodes we managed RHEL and Ubuntu virtual servers on Azure.
+Hands on developing and executing PowerShell Scripts, Python and Shell Scripts to automate the deployments.
+Developed and Managed Azure Automation runbooks and PowerShell scripts to automate the deployment and configuration of Kafka clusters on Azure infrastructure, including virtual machines, networking, and storage resources.
+Highly experience in Integrating ADFS with various identity providers such as Azure AD, LDAP, SAML, and OAuth providers, enabling seamless authentication across diverse platforms.
+Developed serverless applications using Python with AWS Lambda functions to respond to events, integrating with other AWS services like API Gateway, S3, DynamoDB, and deployed serverless applications using AWS SAM (Serverless Application Model) and through the AWS Management Console.
+Maintained mechanisms to protect sensitive data stored and processed in Azure Databricks by maintaining governance policies and compliance standards using Azure Databricks' access controls, auditing capabilities, and integration with Azure Active Directory.
+Experience with installation and configuration of Docker environment including Docker registry hub for managing different Docker images and deployment of applications inside the software containers.
+Integrated JIRA with CI/CD tools such as: Jenkins, GitLab CI/CD to track build and deployment progress, linking them to specific issues or user stories.
+Administered various flavors of Linux (RHEL, CentOS, Ubuntu, Solaris, Fedora) and worked on Logical Volume Manager
+(LVM), Kickstart, Bonding, LAMP, and LDAP.
+TECHNICAL SKILLS:
+Cloud Azure, AWS, GCP
+Configuration Management Tools CHEF, ANSIBLE, PUPPET Build Tools ANT, MAVEN, GRADLE
+Container Tools Docker, Kubernetes, OpenShift, AKS Version Control Tools GIT, CVS, SVN, Bit Bucket, VSTS Monitoring Tools Nagios, Datadog, Splunk, ELK, Cloud watch, Dynatrace Scripting Bash/Shell, Perl, Python, PowerShell, Json, YAML, Groovy,
+Database My SQL, MS Access, Oracle 9i/10g/11g, DB2, NoSQL
+(MongoDB, DynamoDB)
+Application services WebLogic 9.x/10.x, WebSphere 6.x/7.x/8.x, JBOSS 4.1 Web Servers Apache HTTP, Nginx, Apache TOMCAT
+Networking DNS, DHCP, SMTP, HTTP, SNMP
+IDE Tools ECLIPSE IDE, NETBEANS
+Operating Systems Windows2008/2012/2016 R2, Linux (RedHat 7/6, CENTOS 7/6& SUSE), Ubuntu
+Virtualization Tech VMware vSphere, ESXi 5.x/4.x, ESX /3.x VMware Workstation, Oracle Virtual box
+CI/CD Tools Jenkins, Hudson, Bamboo, Azure DevOps
+Responsibilities:
+Designed and implemented a robust integration between OpenText Cloud Services (OTCS) and Azure services, utilizing Azure Functions for seamless data transfer and synchronization.
+Extensively worked with Azure Blob Storage for efficient storage, retrieval, and management of documents, ensuring high availability and durability of critical data, Also configured and maintained the Azure monitoring tools and services, such as Azure Monitor, Azure Log Analytics, Application Insights, and Azure Security Center.
+Configured and managed routing tables in Azure Virtual Networks (VNets) to ensure efficient traffic routing between OpenText services and Azure resources.
+Developed custom solutions and applications within the OpenText environment to enhance document management capabilities, leveraging Azure services like Blob Storage and Azure Virtual Machines for storage and processing.
+Leveraged Azure SDKs, APIs to authenticate and authorize access to Azure Blob Storage for storing the PDFs. Experience: April 2023 – Till date
+San Diego Gas & Electric - USA: Sr. Cloud Engineer
+Configured the Kubernetes with Terraform to interact with resources supported by Kubernetes to create several services such as Deployments, services, ingress rules, Config Map, secrets etc., in different Namespaces.
+Designed and enforced ingress/egress rules within Azure Network Security Groups (NSGs) and Azure Virtual Network Access Control Lists (ACLs) to regulate network traffic flow and ensured secure communication between OpenText and Azure services.
+Utilized Azure SDKs and APIs to authenticate and authorize access to the designated Azure Blob Storage container for storing the PDFs, Implemented encryption mechanisms to safeguard the PDFs within the Azure Blob Storage.
+Set up Azure Active Directory (Azure AD) roles and policies to grant specific permissions to the application or script for interacting with the Azure Blob Storage container.
+Expertise in writing Python scripts to Implement Lambda functions to automate tasks, trigger actions, and enhance the overall functionality of the integrated environment.
+Expertise in developing a custom Azure Resource Manager (ARM) template specifically designed to create and manage security groups for Azure Functions within Azure.
+Managed Azure route tables within Virtual Networks (VNets) to optimize traffic routing between OpenText services and Azure resources. Implemented route table configurations to ensure efficient communication between different Azure services and resources.
+Created API requests using tools like Postman to test and validate interactions between OpenText Cloud Services
+(OTCS) and Azure services.
+Developed a custom Terraform module tailored for Azure to provision and manage Network Security Groups (NSGs) for Azure Functions. Implemented robust error handling mechanisms to manage communication between OTCS and Azure services effectively.
+Expertise in writing custom modules or functions in Python to trigger lambda function to make Rest API calls.
+Designed, Implemented and Automated cloud infrastructure deployment, configuration, and scaling with PowerShell and cloud provider APIs by developing PowerShell scripts to monitor and optimize usage, cost, and performance.
+Deployed MFA solutions across various platforms such as Azure AD, on-premises Active Directory, VPNs, and cloud- based applications and configured MFA policies, settings, and enforcement rules based on security requirements.
+Proficient in integrating Azure services with other cloud platforms, utilizing Azure Data Factory, Logic Apps, Azure Functions, and REST APIs to ensure smooth data flow and automate processes effectively.
+Deployed and managed AKS clusters (Azure Kubernetes Service), using Azure Portal, Azure CLI, Azure PowerShell, and worked using Infrastructure as Code (IaC) tools like Terraform, ARM templates to configure cluster settings such as node sizes, node counts, networking, and authentication.
+Managed Release Management and Deployments of the Solutions to the DEV, QA & PROD Environments leveraging Azure DevOps, AKS (Azure Kubernetes Service), Application Insights, Log Analytics.
+Ensured modularity and reusability of the ARM template code by encapsulating Azure Functions security group provisioning logic within the newly created template.
+Deployed and maintained Istio service mesh on Kubernetes clusters or other supported platforms. Implementing traffic routing rules and policies using Istio's VirtualService and DestinationRule resources.
+Utilized Azure Data Factory's built-in connectors and integration with Azure services to ingest data from Azure Blob Storage, Azure SQL Database, Azure Data Lake Storage.
+Designed implemented and maintained Continuous Integration/Continuous Deployment (CI/CD) pipelines for deploying applications to AKS, automating build, test, and deployment processes.
+Integrated Terraform with Azure Key Vault by referencing secrets stored in Key Vault directly within Terraform configuration and provisioned Azure Monitor resources such as alerts, action groups, and diagnostic settings.
+Designed and Implemented network security groups like, Azure AD roles, and other networking settings in Terraform configuration to ensure secure communication between Azure Virtual Machines.
+Utilized Terraform CLI and Terraform Azure DevOps tasks to apply Terraform configurations during Continuous Integration/Continuous Deployment (CI/CD) processes, in Azure DevOps pipelines to trigger Terraform executions based on code changes or predefined triggers.
+Leveraged Azure Key Vault to store and manage variables, API keys, required for the ARM deployment process and written ARM templates to create the Azure Function, Blob Storage container, variables in the Dev environment. Experience: September 2021 – April 2023
+OCC Chicago - USA: Sr. Azure DevOps Engineer
+Responsibilities:
+Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing.
+Configured Azure Multi-Factor Authentication as a part of Azure AD Premium to securely authenticate users and worked on Azure VPN-Point to Site, Azure Virtual networks, Azure Custom security, endpoint security and firewall.
+Involved in working with Azure Functions where I had created and configured HTTP Triggers in the Azure Functions with Application insights for and performing the load testing on the Applications using Azure DevOps.
+Created Azure Automation Assets, Graphical runbooks, PowerShell runbooks that will automate specific tasks, deployed Azure AD Connect, configuring ADFS authentication flow, ADFS installation using Azure AD Connect.
+Migrated version control repositories such as Git and TFVC (Team foundation Version control) from TFS (Team foundation Server) to Azure DevOps, preserving commit history and branches.
+Configured Azure DevOps pipeline using ARM templates and PowerShell to deploy several azure services like Azure app service, Azure key vault, storage etc. Experienced on using azure boards, Azure repos and creating YAML pipelines.
+Expertise in helping the teams to set up monitoring solutions Azure Monitor, Prometheus and logging mechanisms for Azure Log Analytics to track the performance of AKS (Azure Kubernetes Service) clusters and applications.
+Set up monitoring solutions for Nagios, Splunk, Prometheus and centralized logging of ELK stack to track the health and performance of OpenStack resources.
+Expertise in building CI/CD pipelines with (Azure Kubernetes Clusters) AKS, which deployed my applications automatically to a Kubernetes cluster. Configured and managed Dynatrace monitoring solutions for applications, infrastructure, and services.
+Implemented security best practices for (Azure Kubernetes Clusters) AKS clusters, including role-based access control
+(RBAC), Azure Active Directory integration, pod security policies, and network security configurations.
+Experience in designing, configuring, and deploying solutions on Microsoft Azure using (Azure Resource Manager) ARM Templates, AZURE PowerShell Module and, Azure CLI focusing on high-availability and auto-scaling.
+Configured diagnostics, and analytics on Azure using API Management, Logic Apps and set up documentation using Swagger API, while focusing on scale and resilience for Azure Web Apps.
+Implemented Terraform Templates automating Azure IAAS VM's using terraform modules and deployed virtual machine scale sets in production environment.
+Configured and managed Docker registries within JFrog Artifactory to serve as a secure and reliable source for container images. Integrated MFA with identity providers, authentication protocols (e.g., SAML, OAuth), and single sign-on (SSO) solutions.
+Utilized Terraform to define and deploy the infrastructure components required for AI and ML platforms, such as virtual machines, storage accounts, virtual networks, and managed Kubernetes clusters such as Azure Kubernetes Service.
+Experienced with deploying Kafka clusters in a highly available and fault-tolerant configuration, such as using Azure Availability Zones and Azure Kubernetes Service (AKS) to manage Kafka on Kubernetes.
+Expertise in writing reusable infrastructure automation (IaC) code libraries using Terraform for IaaS, PaaS and SaaS services in Azure cloud and maintained existing mission critical cloud formation scripts through Terraform and transformed Terraform as an enterprise level infrastructure automation tool.
+Expertized in Developing and implementing container orchestration strategies using Amazon ECS, including integration with other tools like Kubernetes and Docker Swarm.
+Implemented real-time data processing and analytics using Databricks with technologies like Apache Kafka and AWS Kinesis for processing streaming data sources.
+Provisioned and managed AWS resources required for hosting Spring Boot applications like: EC2 instances, EKS clusters, RDS databases, S3 buckets.
+Troubleshooting and resolving issues related to container deployments and ECS infrastructure, using monitoring and logging tools like CloudWatch and ECS logs.
+Automated the infrastructure using Terraform and making it auditable by storing all the infrastructure changes in a version control system like GIT.
+Designed deployed and configured Active Directory Federation Services (ADFS) for secure authentication and single sign-on (SSO) capabilities across applications and services.
+Deployed connection from Azure to On-premises datacenter using Azure ExpressRoute through ARM template (Azure Resource Manager) and Jenkins release pipeline for Single and Multi-subscription connectivity.
+Expertized in configuring Azure DevOps organization, projects, repositories, pipelines, and other necessary components to mirror the existing TFS (Team foundation Server) structure.
+Designed and managed branching and merging code changes, conducting code reviews, and ensuring code quality and consistency within Agile iterations by leveraging Azure Repos for version control and collaboration on codebases using Git and Team Foundation Version Control (TFVC).
+Integrated Golang to interact with containerization platforms like Docker and container orchestration systems such as Kubernetes for efficient deployment and management of applications.
+Developed Ansible playbooks, inventories, and custom playbooks in YAML, and encrypted the data using Ansible Vault and maintained role-based access control by using Ansible Tower and Implemented IT orchestration using Ansible to run tasks in a sequence which can work on different servers.
+Collaborated with compliance and audit teams to ensure that DevSecOps practices align with industry standards and regulatory requirements. And stayed abreast of emerging security threats, vulnerabilities, and industry best practices to continuously enhance the DevSecOps program.
+Experience: July 2019 - August 2021
+Morgan Stanley Atlanta - USA: Azure Infrastructure Engineer Responsibilities:
+Worked on various Azure services like Compute (Web Roles, Worker Roles), Azure Websites, Caching, SQL Azure NoSQL, Storage, Network services, Azure Active Directory, API Management, Scheduling, Auto Scaling, and PowerShell Automation.
+Configured Azure Virtual Networks, subnets, DHCP address blocks, Azure network settings, DNS settings, security policies and routing. Also, deployed Azure IaaS virtual machines and Cloud services (PaaS role instances) into secure Virtual Networks and subnet.
+Designed & Implemented Proof of Concepts POCs for migrating the on-premises applications / Physical Servers to Azure IaaS & PaaS services like IaaS VMs, PaaS VMs, Azure SQL, Azure SQL Data warehouse, Azure Storage, Azure Service Fabric Cluster, Azure Data Lake, Hadoop HDI Cluster etc.
+Expertise in working on AWS to Azure migration, JIRA to Azure DevOps Migration, GitHub to Azure DevOps Migration along with Experience in configuring and using PaaS offerings (like Azure Database services, Azure Kubernetes, Azure Containers, DNS, Application gateway).
+Designed, implemented and managed the AKS clusters with other Azure services such as Azure Container Registry
+(ACR), Azure DevOps, Azure Functions, and Azure Logic Apps with seamless integration of containerized applications with Azure services for development, deployment, and automation.
+Designed and automated the workflows in JIRA to trigger CI/CD pipelines, ensuring automated build, test, and deployment processes are seamlessly integrated with project tracking.
+Integrated Dynatrace into CI/CD pipelines for automated monitoring and performance testing. Implement CI/CD pipelines using tools like Jenkins, GitLab CI, and Azure DevOps.
+Integrated AKS (Azure Kubernetes Service) with DevOps tools such as Azure DevOps, Jenkins, GitLab CI/CD, or others for seamless application deployment and management.
+Implemented CI/CD pipelines for ADFS configurations, allowing for automated deployment of changes, updates, and patches while maintaining high availability.
+Expertise in monitoring solutions like AWS CloudWatch and Azure Monitor to track the health and performance of Spark clusters, identifying issues and ensuring reliability.
+Skilled in Configuring and managing storage solutions such as VMware vSAN, NFS, iSCSI, and Fibre Channel storage, Implementing storage policies and datastores for VMs.
+Skilled in Integrating MFA solutions with identity and access management (IAM) systems, directory services, and user repositories to ensure seamless authentication workflows.
+Implemented Azure Active Directory for single sign-on access to many of cloud SaaS applications like Office 365, Dropbox. Created many users under a same subscription and enabled Multifactor Authentication for users.
+Skilled in migrating on-premises databases or databases from other cloud providers to Azure SQL using tools like Azure Database Migration Service (DMS), Azure Data Migration Assistant (DMA), and custom scripts.
+Expertise in utilizing scripting languages like: PowerShell, Bash and automation tools to streamline ADFS operations, configuration updates, and routine maintenance tasks.
+Created Azure infrastructure using ARM templates, Azure pipelines to build, test, and release, and managed Azure Container Registry to store private Docker images, which are deployed. Grafana Monitor to collect metrics and logs.
+Integrated AWS Identity and Access Management (IAM) for fine-grained access control to AWS Aurora resources. Implement least privilege principles for database access.
+Utilized Azure Databricks for scalable and efficient data processing tasks, including ETL (Extract, Transform, Load) operations, data cleansing, and data visualization using Apache Spark-based notebooks in Azure Databricks.
+Created RESTful APIs in Golang for seamless communication between various components of the DevOps pipeline, enhancing integration and collaboration.
+Expertise in seamless testing into the CI/CD pipeline, enabling the ongoing validation of code and infrastructure against widely recognized security benchmarks, in accordance with DevSecOps principles.
+Integrated Golang-based tools and scripts into Continuous Integration and Continuous Deployment (CI/CD) pipelines, automating code testing, building, and deployment processes.
+Experienced in Integrating Azure Key Vault for secure management of sensitive information such as secrets, certificates, and keys used by AKS applications.
+Expertise in implementing Continuous Integration/Continuous Deployment (CI/CD) pipelines to automate the building, testing, and deployment of applications on PCF. ( Pivotal Cloud Foundry )
+Experienced in conducting code review sessions, placing significant emphasis on the detection and resolution of security vulnerabilities, aligning with established DevSecOps best practices.
+Implemented a Continuous delivery pipeline with Docker, whenever a new GitHub branch gets started, our Continuous Integration server automatically attempts to build a new Docker container from it.
+Implemented Kubernetes to manage containerized applications using its nodes, Config Maps, selector services and deployed application containers as Pods.
+Orchestrated seamless integration of JFrog Artifactory with CI server like: Jenkins, GitLab CI to automate build processes and artifact uploads, CI/CD pipelines, using Dynatrace for performance testing and validation.
+Experienced in OpenShift platform in managing Docker Containers, Kubernetes Clusters and implemented a production ready, load balanced, highly available, fault tolerant Kubernetes infrastructure and created Jenkins jobs to deploy applications to Kubernetes Cluster.
+Integrated with Azure Key Vault for secure storage and management of sensitive information such as encryption keys and credentials used by JFrog Artifactory.
+Experience: August 2017 - July 2019
+Master Card, St Louis - USA: AWS Platform Engineer Responsibilities:
+Hands on experienced in working with AWS services like EC2, S3, ELB, RDS, SQS, EBS, VPC, EBS, AMI, SNS, RDS, EBS, Cloud Watch, Cloud Trail, Cloud Formation templates, Autoscaling, Cloud Front, IAM,, Route53.
+Skilled in Configuring AWS load balancers, utilizing Kubernetes services by externally using AWS Application Load Balancers (ALB) and Network Load Balancers to distribute incoming traffic across Kubernetes pods and services.
+Integrated Amazon EC2 with AWS services such as S3, RDS, VPC to provide a complete, secure solution for computing, query processing, and cloud storage across a wide range of applications.
+Leverage deployment of orchestration tools like AWS Elastic Beanstalk & AWS ECS to seamlessly deploy applications and associated AWS Aurora resources together.
+Migrated few Cloud Formation templates to Terraform by using various AWS modules and Secured the Terraform state file in S3 buckets.
+Highly skilled on Terraform and AWS CloudFormation templates to define and provision the underlying infrastructure required for Kubernetes clusters on AWS, including configuring VPCs, subnets, security groups, IAM roles, to support the Kubernetes environment.
+Successfully Involved in setting up AWS S3 services like creating buckets, configuring buckets with permissions, logging, versioning, and tagging & lifecycle policies to back the data from AWS S3 to AWS Glacier.
+Highly expertise in developing, optimizing and executing ETL (Extract, Transform, Load) processes using Databricks, processing large volumes of data for downstream analytics and reporting.
+Created AWS Multi-Factor Authentication (MFA) for instance RDP/SSH login, worked with teams to lock down security groups.
+Deployed and managed Kubernetes clusters using Amazon EKS(Elastic Kubernetes Services), a fully managed Kubernetes service. This includes provisioning EKS clusters, configuring networking, and managing worker nodes to run containerized workloads.
+Implemented data ingestion pipelines and ETL processes using Spark, handling data from various sources and transforming it for analytics and reporting.
+Responsible for building/deploying consistently repeatable build/deployments to company production and non- production environments using Jenkins and BUILD Pipelines, ANT, MAVEN.
+Deployed Java/J2EE applications to WebLogic server using Jenkins builds. Automate Continuous Build and Deploy Scripts for Jenkins Continuous Integration tool.
+Created post commit and pre-push hooks using Python in SVN and GIT repos. Setting up the SVN and GIT repos for Jenkins build jobs.
+Expertise in Installing, configuring, and maintaining VMware vSphere infrastructure, including ESXi hosts, vCenter Server, and vSphere Web Client.
+Expertise in Integrating Kubernetes applications with RDS databases such as MySQL, PostgreSQL, and Amazon Aurora for data persistence, configuring database connections, managing access credentials, and handling database schema migrations within Kubernetes environments.
+Strong experience with AWS IAM service in creating users & groups, defining roles and policies and Identity providers. Moreover, used them to restrict access to certain buckets from certain persons.
+Deploying containerized applications to Kubernetes clusters on AWS, using tools like kubectl, Helm, and AWS App Mesh. Created OpenShift clusters on AWS and deployed applications on top of OpenShift clusters.
+Designed, Maintained and Enabled mutual TLS (mTLS) authentication between services to secure communication within the Istio's mesh, Implementing access control policies using Istio's Authorization Policy resource.
+Leverage AWS SDK for Node.js to interact with various AWS services like S3, DynamoDB, SQS, SNS, and more.
+Experience in configuring CI/CD pipelines for building, testing, and deploying applications on AWS using tools like AWS CodePipeline, AWS CodeBuild, and Jenkins.
+Implemented IAM roles and policies to grant specific permissions for Jfrog Artifactory operations, ensuring secure access control based on AWS identities. Automated the deployment and management of Spring Boot applications on AWS using infrastructure as code (IaC) tools like AWS CloudFormation and Terraform.
+Used AWS Beanstalk for deploying and scaling web applications and services developed with Java, Node.js, and Python on familiar servers like Apache, Nginx, Tomcat.
+Utilized Python libraries like Kafka Streams, Faust, and PyKafka to perform stream processing tasks such as windowing, aggregation, filtering, and joining of Kafka streams.
+Expertise in Integrating Python applications with logging frameworks like Loguru, Log4Py, or Python's built-in logging module to capture Kafka-related logs and metrics for monitoring and troubleshooting purposes.
+Utilized Cloud Watch to monitor resources such as EC2, CPU memory, Amazon RDS DB Services, EBS volumes to set alarm for Notification or Automated actions, and to monitor logs for operation of the system.
+Integrated PCF( Pivotal Cloud Foundry ) with various AWS services such as Amazon RDS, Amazon S3, Amazon DynamoDB, AWS Lambda, and others to leverage the full capabilities of the AWS ecosystem.
+Skilled in setting up monitoring tools like Prometheus, Grafana, Splunk and Nagios to monitor Kafka cluster health, resource usage, and performance metrics and configured logging to capture Kafka server
+Contact this candidate

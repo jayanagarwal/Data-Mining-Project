@@ -1,0 +1,156 @@
+Thomas Carpenter
+
+Summary
+
+·**+ years of professional software and application development experience.
+·6 years of experience as a Java Developer, mainly focused on Core Java, Collections, Swing, JDBC and JavaFX, including having developed REST and SOAP Web Services running on a GlassFish application server and connected to an Oracle database using primarily REST API.
+·Employed Java and PHP programming to design and develop software to monitor, locate, and manage a a large number of networked Bitcoin miners.
+·Served on a team that developed a Swing/JavaFX application that connected to a BigData store via Jena, Sesame and SPARQL.
+·Explored Spring MVC, and related ORM technologies, like Hibernate.
+·Teaching myself neural network programming and deep learning applications with Python, Tensorflow, Keras, Pandas, and PyTorch.
+
+Education
+
+A.A.S., Mathematics & Science (Jamestown Community College – Jamestown, NY)
+Coursework, Mathematics (Fredonia State University – Fredonia, NY)
+
+Professional Experience
+
+Contract, DataAnnotation Dec ’23 - Jun ‘2024
+Software Engineer
+• Helped to train Large Language Model AIs to become better programming assistants. Presented programming
+problems to the AIs as prompts utilizing Python and core Java. Researched various topics in Python and Java
+in order to create good prompts and follow-up questions that I could test.
+
+Salaried, Digihost LLC -- Buffalo, NY Oct ‘18 – May 2023
+Software Engineer
+·Wrote software to assist the management of a network of 10,000+ Bitcoin miners. My software, a JavaFX application that connects to a PostgreSQL database, can locate miners that show various problems in fan speed, chip temperature, or hashrate. Wrote a web version of my software, based on PHP, JQuery, CSS3, and PostgreSQL, to simplify its use—now needing only a browser and a WiFi connection. Also, wrote web apps to monitor our Bitcoin mining pools, providing various statistics, like actual hashrate, SLA, coins mined, and more.
+·Began a Python-Django web implementation of the PHP software above, with an emphasis on MVC design, internet security, and user-friendliness.
+·Studied and experimented with various aspects of network security, related to database-web applications.
+·Wrote Python applications to monitor plant power consumption, and to curtail power usage when necessary.
+·Worked on a controlled capacitance electronics project, with the aim towards powering miners for short durations, like 6-8 hours.
+·Began work on Swift-based apps for iOS mobile devices. Developed these on a MacBook Air.
+Environment: Netbeans IDE, Java 8, Java FX, PHP 5, JQuery, AJAX, Javascript, Python 3, Django, PostgreSQL, SQL, pgAdmin 4, CSS3, Apache Web Server, cURL, Telnet, SSH.
+
+Contract, Wells Fargo -- Charlotte, NC Mar ‘18 - Jun ‘18
+Systems Engineer
+·Worked on several projects concerning securities trading, interest swapping, and bond characteristics. My latest project involved designing and developing the UI for a rules generator, i.e., rules governing the movement of collateral in trades.
+Environment: Visual Studio 2015, SQL Developer (Oracle), Oracle 11g PL/SQL stored procedures, C#, MS Web API, AngularJS (v. 1.6), CSS3, JQuery.
+
+Contract, Buffalo Staffing -- Buffalo, NY Sep ‘16 – April ‘18
+Software Developer
+·Designed and developed a PHP5 application to facilitate buying gift cards from customers. This application depended upon other technologies: MySQL, Java 8, JQuery, AJAX, CSS3, and the IDEs, Netbeans and phpMyAdmin.
+·Placed kiosk machines in convenience stores that utilized my software under the name, BuyMyCard.
+Environment: Netbeans IDE, Java 8, PHP 5, jQuery, AJAX, JavaScript, CSS 3, MySQL, SQL, phpMyAdmin.
+
+Contract, Wolfram Research – Champaign, IL Mar ‘17 - Jun ‘17
+Software Developer
+·Assigned to the Data Logistics team to design and program an ERP system for internal use by the company. Focused upon the back-end, utilizing the Wolfram Language to translate business objects, to and from a PostgreSQL database.
+Environment: Eclipse Neon IDE with Wolfram Workbench plugin, Wolfram Language, jQuery, AJAX, PostgreSQL, pgAdmin.
+
+Contract, Computer SOS Inc. – Buffalo, NY Dec ‘15 - Feb ‘16
+App Developer
+·Updated two versions of a religious app for the Divine Mercy church. One version was written in Java and developed with the Android SDK. The other was written for Apple devices and the iOS. Learned the basics of Android and iOS development. Tested my work on real mobile devices. Acquired experience programming with ObjectiveC and working with the iTunes store.
+Environment: Android SDK, iOS, IntelliJ SDK, XCode SDK, ObjectiveC, Android Tablet, iPad.Contract, Turbo
+
+Federal LLC – Alexandria, VA Jul ‘14 - Sep ‘15
+Java Programmer
+·Remote member of a software engineering team tasked to maintain and enhance an application that tracks technologies and resources needed for the medical capabilities of the Department of Veteran’s Affairs. Designed and developed the following modules:
+·Custom Sparql Query Window: Enables a user to construct and test Sparql queries against an RDF data-store of V.A. medical capabilities and related technologies. This is a Swing tabbed pane that allows users to work with several named queries. The editor employs Sparql syntax highlighting.
+·Insight Manager: Enables a user to manage collections of questions commonly asked against the RDF data-store. The questions appear in a JavaFX tree-view, beneath organizing perspectives. Each Question (insight), may contain selectable parameters, whose names appear beneath the question in the tree-view. Clicking a tree element, opens an editor for that element.
+·Graphical Query Builder: Enables users to build Sparql SELECT and Construct queries graphically, using geometric shapes for concepts and curved lines for relationships connecting concepts. This is a Swing application, using the third-party Jung graphing library. After manipulating graphical objects with the mouse, a syntactically complete Sparql query is generated.
+·Also resolved various bugs in the larger application and made minor enhancements to existing visualizations (pie charts, bar charts, scatter-plots) and reports. Wrote some Junit tests.
+Environment: Java 8.5, JavaFX, Jena, Sesame, Junit, BigData, Sparql, RDF, OWL, Jung (3rd party graphing library for Java), HTML 5, JavaScript, jQuery, HighCharts (3rd party jQuery charting library), Eclipse Luna IDE, FXML Scene Builder.
+
+Volunteer / Self Study Feb ‘13 - Jun ‘14
+·Tutoring: Worked with a man who desired to build a social network with Joomla! Familiarized myself with Joomla! Templates, and began designing them for him, and teaching him how to modify templates himself.
+·Latin American Institute (Buffalo, NY): Maintained Web site concerned with Latin American education and language classes. Developed an Admin interface, requiring no programming knowledge to update the Web site.
+·6-Dimension Design (Buffalo, NY): Built a Web site to enhance the sale of stained glass products, from restorations to decorative art, to polyhedral lamp shades.
+·Self-Study: Began the study of writing apps for mobile devices, using Java 6 and the Android SDK.
+Environment: Joomla!, PHP5, jQuery, AJAX, CSS, MySQL, PhpMyAdmin(MySQL query interface), Java 6, Android SDK, Netbeans and Eclipse IDE.
+
+Contract, PrivCo Media LLC – New York, NY Oct ‘12 - Jan ‘13
+Software Developer
+·Worked with one other programmer to maintain the company’s product, a user-friendly database of private companies in the US and abroad, containing financial information and other statistics useful to investors, competitors, and customers. Primarily, I wrote spiders to harvest data from various Internet sites and presented this data to financial analysts in the form of Excel spreadsheets and web interfaces.
+Environment: PHP5, Zend framework, jQuery, AJAX, CSS, MySQL, Toad (MySQL query interface).
+Contract, Standard & Poor’s – New York, NY May ‘12 - Aug ‘12
+Software Developer
+·Examined code behind the Portfolio Review Template and Ratings Gateway applications (for documenting information on the health of companies, banks, and other financial institutions). Suggested improvements and researched best practices. Wrote demonstrations of alternative approaches to navigation within applications, exporting portfolios to PDF, and communication between applications. Supported off-shore team of developers by providing new ideas and demos, based upon existing applications. Team-worked with Agile methodology.
+Environment: Flex 3, FlexBuilder 3, Oracle DB, SQL, Toad (Oracle query interface).
+
+
+Contract, Dresser-Rand – Olean, NY Aug ‘11 - Dec ‘11
+Software Developer
+·Developed an API Datasheet form and report. Enhanced an existing Turbine Configuration application, allowing field engineers to estimate the cost of building an oil or gas pump onsite. Added a form to manage standards set by the American Petroleum Institute (API). This form contained several hundred fields, many of which were determined by settings made on other fields inside and outside of the API application. Many API form fields had to be related to others by rules. Built the API Datasheet form with a rule editor, so that rules could be written, tested and saved to the database at run time.
+·The other half of the project was an MS Excel report of the selected API settings. Reports had to be generated for each configuration of products under a given quote. The main API Datasheet application, written in VB6, automated an MS Excel 97 Workbook. API settings were then extracted from a VB6 collection object, persisted to an MS SQL Server 2010 database.
+Environment: VB6, ADO, Visual Studio 2010, VBA, MS Access 97, MS SQL Server 2010, SQL, T-SQL
+
+Salaried, CTG – Buffalo, NY Apr ‘09 - Jun ‘11
+Software Engineer
+Major contributor to several projects:
+·Technologies: The Process Classification Plot, that related production outcomes to semantic data, representing upstream stages of production. (Client: Vistakon of Johnson & Johnson.)
+·Technologies: A statistical analysis of Asian myopic patients, comparing lifestyles, diet, age, treatments, and other demographics. (Client: Vistakon of Johnson & Johnson.)
+·Technologies: A concept mapper, used to graphically establish connections between ideas in different ontologies. (Client: UBMD.)
+·Technologies: The Readings Processor, that inserted raw contact lens production data into an ontology, so programs, like the Process Classification Plot, could draw quick relationships between production outcomes and various stages of production for individual lenses. (Client: Vistakon of Johnson & Johnson.)
+·Performed code-reviews of the work of other programmers. Reviewed new statistical and graphical technologies. Researched and documented best practices for common coding tasks. Designed and developed REST and SOAP Web services in Java and using the semantic technologies, SparqlMotion and Object-Logic. Presented findings to all developer teams. Supervised small numbers of people on various projects. Team-worked with Agile methodology.
+·Technologies often used at CTG included: Java, The Netbeans IDE, The Apache Tomcat and Glassfish application servers, Flex 3 and 4, The FlexBuilder 3 and FlashBuilder 4 IDEs, The Oracle and SQL Server databases, PL-SQL (Oracle), T-SQL (SQL Server), standard SQL, TopBraid Composer and the TopBraid Live server (for RDF and OWL semantic processing), Sparql (semantic query language) and SparqlMotion (for semantic Web service development), the Ontoprise tools, OntoStudio and the OntoBroker server (for Object-Logic semantic processing).
+Environment: Flex 3.5 & 4, FlexBuilder3, FlashBuilder4, J2EE, NetBeans 6, Oracle11g, PL-SQL, MS SQL Server 2010, T-SQL, SQL, TopBraid Composer, TopBraid Live Server, Sparql, SparqlMotion, OntoStudio, OntoBroker Server, HTML, CSS, QlikView.
+
+Contract, Star Tubing Corporation – Jamestown, NY Nov ‘08 - Dec ‘08
+Website Designer
+·Designed and developed the company’s web site, http://www.startubing.com, featuring their product line of tubes bent for various purposes. Designed this site to be viewed by other manufacturers. Also, designed the site to be administrable by a non-programmer. Taught my supervisors how to update the site, using the administrative interface. Wrote an online interactive tutorial, accessible via the admin interface, for this purpose.
+·During this contract, used the Apache web server, the MySQL online database (assisted by the phpMyAdmin interface), the PHP 5 server-side scripting language, HTML, JavaScript, CSS, and the dynamic graphical programming Technologies:, Macromedia Flash 8.
+Environment: Apache Web Server, PHP 5, HTML, JavaScript, CSS, Macromedia Flash 8, ActionScript 2, MySQL, SQL, DreamWeaver.
+
+Contract, Falconer Electronics Co. – Falconer, NY Jun ‘07 – Nov ‘07
+Web Application Developer
+·Designed and developed an online power strip designer that enables customers to plan power strips over the Internet and submit their plans to Falconer Electronics for a speedy quote. From the company’s Web site, an Internet user can browse to the Power Strip Designer: http://falconer-electronics.biz/Flash/Login/Login.php, featuring a graphical interface, enabling the user to drag various receptacles and power cords onto the sides of a metal chase. Text may be entered at various points for added description. Dimensions and colors can also be specified. The user can log into the application in order to revisit work in progress. A complete Help section is available, including animated demos. Developed the application using Macromedia Flash 8, PHP, HTML, JavaScript, CSS, and the MySQL database server.
+Environment:: Apache Web Server, PHP 4, HTML, JavaScript, CSS, Macromedia Flash 8, ActionScript 2, MySQL, SQL, DreamWeaver.
+
+
+Contract, Weber Knapp Co. – Jamestown, NY Dec ‘06 - May ‘07
+Website/Application Developer
+·Designed and developed an online expert system that enables buyers of keyboard arm, tray, and mousepan assemblies to select the products best suited to their lifestyles or workstyles. A series of questions are presented. By answering them, the product catalog is narrowed for the buyer, and a final report is generated, showing the items that meet their preferences and needs.
+·Designed and developed the company’s two web sites: http://www.intellaspace.com, featuring ergonomic computer accessories, and http://www.weberknapp.com, featuring a line of hinges (both traditional and spring-counterbalanced). Both of these web sites were designed to be administratable by a non-programmer. Taught my supervisors how to update the product catalogs, and other pages, using the administrative interfaces. Wrote an online interactive tutorial, accessible via the admin interfaces, for this purpose.
+Environment: Apache Web Server, PHP 4, HTML, JavaScript, CSS, Macromedia Flash 8, ActionScript 2, MySQL, SQL, DreamWeaver.
+
+Contract, Digitell, Inc. – Jamestown, NY Jan ‘05 – Dec ‘05
+Web Application Developer
+(CD and DVD recording of Medical and Intellectual Conferences)
+Designed a Web-accessible database to track conferences being recorded and the technicians assigned to record them. The database application also produces several reports: from Audio CD order forms and various listings of conference sessions, to flight/hotel reservations and recording schedules for audio technicians.
+Environment: Apache Web Server, PHP 4, HTML, JavaScript, CSS, MySQL, SQL, DreamWeaver.
+
+Contract, Star Tubing Corporation – Jamestown, NY Jan ‘04 – Aug ‘04
+Application Developer
+(Metal tube bending manufacturer)
+Improved a Java application that I had written 3 years ago to facilitate sending EDIFACT messages to Star Tubing's customers. "ShippingInvoice" is a stand-alone application that communicates with an MS Access97 database via JDBC-ODBC. It translates packing list and invoice data into EDIFACT DESADV and INVOIC messages. It also communicates with a Procomm+ connection manager to send EDIFACT messages electronically to customers. The "ShippingInvoice" application is now written in Java2, using Swing components, and provides a significant upgrade over the "ShippingInfo" application (which only handled DESADV messages), written 3 years ago on the 1.1.7 platform.
+Environment: Java2 Swing, JDBC-ODBC, SunOneStudio4, MS Access97, VBA, SQL, Gentran’s Internet Communication Software, EDIFACT INVOIC and DESADV messages.
+
+Salaried Position, Libera, Inc. – Jamestown NY Sept ‘00 – Sept ‘03
+Software Developer
+(Software Design and Development)
+Main programmer on an application to manage accounting and documentation behind book publication for Princeton University Press. Developed the “Press Wide Database” in MS Visual Basic 6 to access data-objects on an MS SQL Server 7 over a LAN or the Internet. Required coding in Visual Basic 6, creating data-structure and stored procedures on the SQL Server, and building Crystal Reports. Wrote two modules for Libera’s case-management software, System 7, in Visual Basic.NET, ASP.NET, and in MS SQL Server 2000. The “Role Based Security Manager” and “User Preference Manager” were designed to be used over the Internet via Microsoft Internet Explorer.
+Environment: VB6, ADO, Visual Studio, VBA, Crystal Reports, MS SQL Server 7 & 2000, SQL, T-SQL, ASP.NET 1.0, SQL 2000 Server, IIS, HTML
+
+
+References:
+
+Alec Amar, CEO of Digihost (previously, MATBrands)
+Niagara Falls & Buffalo, NY
+Phone: 646-***-****
+
+Sandra Johnson, Owner of Star Tubing Corp.
+Jamestown, NY
+Phone: 716-***-****
+ad71ad@r.postjobfree.com
+
+Daniel Reynolds, E.S.L. Educator,
+Atlanta, Georgia
+Phone: 716-***-****
+ad71ad@r.postjobfree.com
+
+Ian MacDonald, Chemistry Instructor,
+Erie Community College
+Buffalo, NY
+Phone: 716-***-****
+Contact this candidate

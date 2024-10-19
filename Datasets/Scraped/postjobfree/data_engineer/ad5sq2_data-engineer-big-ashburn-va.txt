@@ -1,0 +1,109 @@
+NAME: Sri Chennam
+Phone: 346-***-**** Data Engineer
+LinkedIn: Sri Chennam
+Email: ad5sq2@r.postjobfree.com
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer with 5 years in Information Technology, specializing in AWS and Azure cloud services and Big Data technologies like Spark and Hive. Proficient in ETL development and deploying Hadoop applications on cloud platforms like AWS and Azure. Skilled in optimizing query performance, developing Spark scripts, and implementing EDW solutions. Strong expertise in AWS and Azure services, data modeling, and CI/CD practices, with a track record of successfully leading projects from planning to deployment in Agile environments.
+
+TECHNICAL SKILLS
+Big Data Technologies
+HDFS, MapReduce, Tez, Hive2, YARN, Airflow, Oozie, Sqoop, HBase, Ranger, DAS, Atlas, Ranger KMS, Druid, Spark2, Hive LLAP, KNOX, SAM, NiFi, NiFi Registry, Kafka
+Hadoop Distribution
+Cloudera, Horton Works
+AWS
+EC2, IAM, S3, Auto scaling, Cloud Watch, lambda, Route53, EMR, RedShift, Glue, Athena, Sage Maker, Amazon EMR, Amazon DynamoDB, Amazon Kinesis, Step Functions, Batch, CloudFormation, EC2, VPC, Route 53, CloudWatch, IAM, Aurora
+Azure Services
+Azure Blob Storage, Azure Data Lake Analytics, Azure Databricks, Azure Data Factory, Azure Synapse Analytics, Azure Cosmos DB, CDC, AKS, Azure SQL Database, Azure Event Hubs, Azure VMs, Azure Storage, Azure Active Directory, Azure Kubernetes Service, Azure HDInsight, Spark SQL, Azure Monitor, Azure Purview, Azure Cosmos DB, Azure Key Vault, RBAC.
+Languages
+Java, SQL, PL/SQL, Python, HiveQL, Scala, Node.js, TypeScript
+Web Technologies
+HTML, CSS, JavaScript, XML, JSP, Restful, SOAP
+Operating Systems
+Windows (XP/7/8/10), UNIX, LINUX, UBUNTU, CENTOS.
+Build Automation/Atlassian tools
+Ant, Maven, JIRA, Confluence
+Version Control
+GIT, GitHub, GitFlow, BitBucket
+IDE &Build Tools, Design
+Eclipse, Visual Studio.
+Databases
+MS SQL Server, SSIS, SSRS, SSMS, Oracle DB, Mongo DB, Cosmos DB, PostgreSQL
+
+WORK EXPERIENCE
+Client: Food Lion, United States May 2022 – Feb 2024
+Role: Data Engineer
+Responsibilities:
+●Orchestrated all phases of data engineering processes including requirements gathering, architecture design, implementation, and testing within AWS ecosystem.
+●Developed robust Java-based microservices within Big Data ecosystem, leveraging Hadoop and Spark for efficient data processing and analysis. Implemented complex data structures and algorithms in Scala for optimizing data workflows and enhancing scalability in data analytics pipelines.
+●Developed and optimized data analytics workflows using a combination of Java, Scala, and Python, enabling efficient data processing and analysis for actionable insights.
+●Designed and implemented serverless data pipelines using AWS Lambda, AWS DynamoDB, and AWS S3, orchestrating workflows efficiently with AWS Step Functions, ensuring seamless data flow and processing.
+●Utilized AWS Glue to create and manage data catalogs, automating schema discovery and metadata extraction processes for streamlined data preparation. Designed and implemented complex data transformations using AWS Glue, incorporating Python and Spark scripts to handle large-scale data processing tasks efficiently.
+●Implemented Redshift Spectrum for seamless querying of data directly from S3, optimizing cost and performance by offloading data processing to Redshift clusters.
+●Designed and implemented custom Python libraries and modules to extend the functionality of AWS Glue, enabling advanced data manipulation and transformation tasks.
+●Automated monitoring and alerting systems using Python scripts integrated with AWS CloudWatch, ensuring proactive identification and resolution of data pipeline issues.
+●Leveraged Python's multiprocessing and multithreading capabilities to optimize parallel processing of large datasets within AWS Glue jobs, improving overall job performance.
+●Developed unit tests and integration tests using Python frameworks such as pytest and unittest to ensure the reliability and accuracy of ETL processes built with AWS Glue.
+●Implemented data encryption and security measures in Python scripts to enhance the confidentiality and integrity of sensitive data processed by AWS Glue pipelines. Utilized Python libraries like pandas and numpy for advanced data analysis and manipulation tasks within AWS Glue jobs, enabling deeper insights into the data.
+●Integrated Python-based machine learning models into AWS Glue workflows for predictive analytics and anomaly detection, enhancing data-driven decision-making capabilities.
+●Streamlined development workflows by implementing CI/CD pipelines using AWS CodePipeline and CodeBuild, automating build, test, and deployment processes, and integrating with AWS services like S3 and Lambda.
+●Ensured compliance and governance requirements by implementing logging, monitoring, and auditing solutions using AWS CloudWatch, AWS Config, and AWS CloudTrail, enabling visibility and traceability across the infrastructure stackImplemented real-time data pipelines using Apache Airflow for scheduling, AWS SQS for message queuing, and AWS SNS for notifications, ensuring seamless data flow and timely alerts.
+●Designed and implemented event-driven architectures utilizing AWS SNS and SQS, enabling scalable and resilient communication between microservices and data components.
+●Automated data ingestion and transformation workflows using Apache Airflow, SQS, and Databricks on AWS, reducing manual effort and improving data processing efficiency.
+●Implemented data governance and compliance measures leveraging AWS CloudTrail, ensuring adherence to regulatory standards and data security protocols. Orchestrated complex data workflows on AWS using Apache Airflow, integrating various data sources and destinations with SQS and SNS for seamless data movement.
+●Enhanced data pipeline monitoring and alerting capabilities using CloudWatch alarms and AWS SNS notifications, ensuring high availability and reliability of data processing workflows.
+●Collaborated with cross-functional teams to troubleshoot and resolve data engineering issues, utilizing AWS CloudTrail logs for root cause analysis and optimization.
+●Enhanced data processing capabilities by implementing real-time streaming solutions using AWS Kinesis, AWS Lambda, and AWS DynamoDB Streams, enabling timely insights and decision-making.
+●Developed and optimized AWS Lambda functions for real-time data processing, integrating SNS and SQS for efficient message queuing and event-driven architecture.
+●Implemented complex ETL pipelines using AWS Glue for seamless data transformation and integration with Redshift, ensuring high data quality and reliability for analytical processing.
+●Designed and maintained scalable data warehouses on Redshift, utilizing advanced OLAP techniques to provide actionable insights to stakeholders. Leveraged PostgreSQL and Aurora databases for managing structured data, implementing performance tuning strategies to enhance query execution and data retrieval.
+●Orchestrated data workflows using AWS Step Functions, coordinating Lambda functions and Glue jobs to automate data processing and ensure timely delivery of insights.
+●Collaborated with cross-functional teams to design and implement event-driven architectures, utilizing SNS and SQS for reliable message delivery and processing.
+●Implemented data governance policies and security measures within AWS services, ensuring compliance with industry standards and regulations. Optimized AWS resources allocation and usage, reducing operational costs while maintaining high availability and performance. Conducted performance tuning and optimization of AWS services, including Redshift, Glue, and Lambda, to improve overall system efficiency and data processing speed.
+●Implemented data lake solutions using AWS S3 and AWS Glue, enabling organizations to store, manage, and analyze vast amounts of structured and unstructured data. Implemented monitoring and alerting solutions using AWS CloudWatch, providing real-time visibility into system performance, and enabling proactive issue resolution.
+●Integrated AWS EMR with AWS services such as S3, DynamoDB, and Redshift for seamless data ingestion, storage, and analytics pipelines. Proficient in utilizing various AWS services including EC2, S3, RDS, Redshift, Athena, Glue, Lambda, and CloudFormation for infrastructure management and deployment.
+●Implemented OLAP (Online Analytical Processing) techniques to facilitate complex multidimensional analysis of data stored in Redshift, enabling stakeholders to gain valuable insights into business performance.
+●Utilized OLAP cubes to aggregate and summarize data from multiple dimensions, providing users with interactive and intuitive dashboards for advanced analytics and reporting.
+●Performed code reviews and utilized GitFlow for branching and collaboration.
+●Involved in Agile project methodology with daily and weekly releases and used JIRA and Confluence for timely tracking of tasks progress and documentation of processes.
+Environment: AWS Glue, Redshift, snowflake, Kinesis, Airflow, RDS, TypeScript, S3, Amazon EMR, Lambda, EMR, DBT, Athena, Step Functions, Batch, CloudFormation, Java, EC2, VPC, Route 53, CloudWatch, IAM, OLAP, SNS, Python, Scala, SQL, Apache Spark, Apache Hive, Cloudera, Kafka, SQL, SSIS, Python, Scala, Pyspark, Git, JIRA, Jenkins, Terraform, Power BI, PowerShell.
+Client: Schlumberger, India Jun 2018 - Aug 2021
+Role: Data Engineer
+Responsibilities:
+●Configured Flume to extract the data from the web server output files to load into HDFS. Created external tables with partitions using Hive, AWS Athena, and Redshift.
+●Involved in complete Data flow of the application starting from data ingestion upstream to HDFS, processing the data in HDFS and analyzing the data and involved.
+●Managed end-to-end Azure Big Data flow, encompassing data ingestion from various sources into Azure Blob Storage, processing the data using Azure Data Lake Analytics, and analyzing the data with Azure Databricks.
+●Configured Azure Data Factory to extract data from web server output files and load it into Azure Blob Storage.
+●Created external tables with partitions using Azure Synapse Analytics (formerly SQL Data Warehouse), Azure Data Lake Storage, and Azure Cosmos DB.
+●Designed and implemented Azure environment utilizing services such as Azure Blob Storage, Azure VMs, Azure Functions, Azure Data Factory, Azure Data Lake Storage, Azure Databricks, and Azure SQL Database.
+●Integrated Azure Data Lake Storage Gen2 with Databricks Delta Lake for efficient storage and management of big data sets, optimizing data retrieval and processing speeds for AI/ML workloads.
+●Implemented Azure Data Explorer for real-time analytics on streaming data ingested into Databricks, enabling near-instantaneous insights and decision-making based on the latest data.
+●Leveraged Azure Machine Learning Pipelines to automate model training, tuning, and deployment workflows within Databricks, increasing operational efficiency and reducing time-to-market for AI solutions.
+●Designed and implemented custom data preprocessing pipelines in Databricks using Apache Spark, integrating with Azure ML for feature engineering and model training, enhancing predictive modeling accuracy.
+●Collaborated with data scientists to deploy TensorFlow and PyTorch models on Azure Machine Learning Compute within Databricks, harnessing distributed computing capabilities for scalable deep learning inference.
+●Implemented Azure Data Share to securely share curated datasets from Databricks with external partners and stakeholders, ensuring data privacy and compliance while fostering collaboration.
+●Orchestrated data ingestion pipelines using Azure Event Hubs and Apache Kafka within Databricks, enabling real-time data processing and analysis for AI-driven insights and decision-making.
+●Developed and deployed custom machine learning scoring pipelines in Azure Functions, integrating with Databricks for model inference, enabling low-latency predictions in production environments.
+●Implemented Azure Data Catalog to discover and govern data assets within Databricks, facilitating collaboration and knowledge sharing among data engineers, data scientists, and business users.
+●Leveraged Azure Monitor and Azure Log Analytics for monitoring and troubleshooting Databricks clusters and jobs, ensuring high availability and performance of AI/ML workloads in production environments.
+●Utilized Azure Data Factory with Databricks integration to orchestrate complex ETL processes, transforming and enriching data for downstream analytics and reporting. Developed custom data connectors in Power BI to connect to various data sources, including Azure SQL Database, Synapse Analytics, and third-party APIs.
+●Leveraged Azure Machine Learning for predictive analytics tasks, building and deploying machine learning models to derive actionable insights from data. Implemented Azure Purview for data governance and compliance, ensuring data lineage, classification, and access control across Azure data services.
+●Conducted capacity planning and performance optimization for Azure Synapse workloads, fine-tuning resource allocation and query optimization for optimal performance.
+●Automated data validation and quality checks using Azure Data Factory, implementing custom data quality rules and alerts to ensure data integrity. Implemented data security and compliance measures within ADF pipelines using PySpark encryption and access control techniques, ensuring adherence to regulatory requirements and safeguarding sensitive information.
+●Provisioned and optimized Azure Databricks clusters for high concurrency and performance to accelerate data preparation tasks. Developed and maintained Snowflake data models, including schema design, table creation, and optimization for query performance, leveraging Snowflake's automatic scaling and clustering features.
+●Utilized Azure Data Catalog to maintain metadata and facilitate data discovery and governance, enabling seamless querying of refined data from Azure Synapse Analytics and Azure Data Lake Storage.
+●Utilized Azure HDInsight for processing data stored in various formats like Avro, Parquet, JSON, and CSV, applying transformations and aggregations as required.
+●Developed and maintained data pipelines using Azure Data Factory, orchestrating data movement and transformation activities across Azure services.
+●Implemented CI/CD pipelines using tools like Azure DevOps, Jenkins, or GitLab CI/CD to automate the building, testing, and deployment of containerized applications to AKS clusters.
+●Adapted DevOps practices within the organization, championing the use of Azure DevOps for infrastructure as code (IaC) and configuration management, resulting in increased efficiency and reliability of data solutions.
+●Utilized Azure Monitor and Azure Log Analytics to monitor and troubleshoot data pipelines and applications, ensuring optimal performance and reliability in a CI/CD environment.
+●Conducted regular training sessions and knowledge sharing activities on Agile methodologies and DevOps practices, empowering team members to leverage tools like Azure DevOps, Git, Jenkins, Jira, and Confluence effectively in their day-to-day work.
+●Integrated AKS with container registries such as Azure Container Registry (ACR) or Docker Hub to store and manage container images, enabling seamless image deployments to Kubernetes clusters.
+●Orchestrated multi-stage deployment strategies (e.g., blue-green deployments, canary releases) using AKS deployment strategies and Kubernetes features like Helm charts or customize to minimize downtime and risk during application updates.
+●Employed Azure Functions for serverless computing, automating data processing tasks and integrating with other Azure services seamlessly. Implemented data governance solutions using Azure Purview, ensuring data lineage, classification, and compliance with regulatory requirements.
+●Designed and optimized data models in Azure Cosmos DB for efficient querying and scalability, ensuring high performance for real-time applications. Leveraged Azure Key Vault for securely storing and managing cryptographic keys, secrets, and certificates used in data encryption and authentication.
+Environment: Hadoop (HDFS, Map Reduce), Azure Blob Storage, Log Analytics, Azure Data Lake Analytics, Azure Databricks, Azure Data Factory, Azure Synapse Analytics, Azure Devops, Snowflake, Azure Cosmos DB, AKS, SQL Database, Azure Active Directory, Azure Kubernetes Service, Azure HDInsight, Python, PySpark, SQL, PostgreSQL, Flink, Jenkins, NiFi, Scala, MongoDB, Cassandra, Python, Sqoop, Hibernate, spring, Oozie, Auto scaling, Scala, UNIX Shell Scripting.
+EDUCATION
+Masters: University of Dayton Computer Sciences
+Bachelors: Jawaharlal Nehru Technological University Hyderabad Computer Science and Engineering
+Contact this candidate

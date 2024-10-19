@@ -1,0 +1,148 @@
+Sachin Puppala sachinthecan@gmail
+Jersey City, NJ, +1-469-***-****
+Professional Summary
+Analytics Professional with 10+ years hands on experience in problem solving across Retail and Health Insurance domain
+Proficient in utilizing BI reporting tools, including Looker, Tableau, BIRST to generate visually appealing and informative reports.
+Experienced in working with Enterprise Data Management (EDM) teams in an Agile environment.
+Detail-oriented and results-driven Data Analyst with a strong foundation in acquiring data from multiple sources and performing data manipulation
+Proficient in validating data pipelines and analytics solutions using Azure Databricks and Snowflake
+Skilled in gathering requirements, documenting specifications, and collaborating with cross-functional teams to deliver successful data implementations
+Skilled in writing advanced SQL queries including window functions to extract and manipulate data from databases, ensuring accuracy and efficiency
+Proficient in Data Modeling, Data extraction, Imputation, Transformation, Validation and reporting
+Working knowledge of Predictive modeling using Decision trees, Linear and Logistic Regression techniques, Random Forests, Gradient boosting
+Proficient in identifying trends, usage and growth patterns in businesses and ability to present insightful and actionable recommendations to business
+
+Work Experience
+United Health Group, Data Lead (New York) July 2023 – Present
+Global Digital E-commerce – Trust & Safety
+Responsible for data mapping new client implementations. Gather/validate requirements with stakeholders and the project team
+Develop client data mappings and collaborate with pipeline engineers to implement data transformations and construct data pipelines
+Load the raw data provided by client into Azure Databricks and perform Data profiling, create DDL configurations and validate data created in Snowflake
+Perform data analysis, using in-depth knowledge of databases and healthcare data, support all phases of the software development lifecycle (SDLC)
+Work as part of an Agile team, Map data from one format to another
+Document the issues and work with business stakeholders to review and resolve these issues
+Validating and transforming health care claims, membership, plan, provider, and enrollment data
+Utilize the Rally tool to create user stories for the team, and leverage Canvas and Chase to create and schedule pipelines according to requirements.
+
+Etsy, Sr. Analyst (New York) Dec 2021 – May 2023
+Global Digital E-commerce – Trust & Safety
+Performed business analysis across multiple domains, such as LRE (Legal, Response and Enforcement), Marketplace Safety, and Marketplace Standards, ensuring a seamless digital experience
+Utilized Google Cloud Platform (GCP) extensively to query and analyze data for the Trust and Safety department.
+Ensured data accuracy by performing thorough validation and identifying potential error sources within the data.
+Designed a tracking system to assess the Financial GMS Impact (pre/post takedowns) along with other key metrics such as Precision rates, Enforcement Accuracy, Impact on Seller tiers using Big Query and Looker for entire Trust and Safety which saved 8 hours of redundant work per week
+Performed Data Analysis using data visualizations to effectively communicate insights and trends to stakeholders.
+Scheduled and shared dashboards with relevant teams, enabling easy access to critical information using Looker and utilized LookML for data modeling and analysis
+Developed 50+ bots/controls for identifying the violative listings across various areas such as Drug paraphernalia, Noxious plants, prescription drugs, mature content, religious content, political boundaries, NHM items, Brand counterfeit controls around all the branded items such as Rolex, Adidas, Nike etc. that do not meet guidelines and perform action using Big Query and My SQL and automated the process.
+Developed Dashboards related to QBR, Controls Impact, ERP using Looker tool to surface relevant data trends
+Performed headcount analysis for EOP agents by assessing the volume of listings to be reviewed to ensure we are not over/under staffed.
+Saved $23 million costs by improving precision of controls that flag violative listings using text-based analytics
+Received multiple guiding principle awards for digging deeper and collaboration
+Liaised with Engineering, Operations team to setup agent annotations for driving controls precision and worked with Citron Escalation team that occurred in Feb 23
+Successfully optimized query runtime from 4 hours to 30 mins by implementing performance tuning techniques
+Utilized Google Vision’s Image Recognition feature to accurately detect logos and labels within images adding value to the digital experience
+Built new KPI’s for our India content Moderation post our India launch and a framework to look at control’s precision at terms level
+
+EXL, Sr Manager – Data Analytics (New York) March 2016 – Dec 2021
+Project 1: Horizon BCBS - Data Management - Readmission Modeling
+Leveraged AWS Redshift to design and optimize data schemas for efficient data storage and retrieval
+Developed modeling data set by integrating key data sources e.g., Claims, Provider files, Pharmacy, Members using SQL and Python
+Utilized Athena to query large datasets and extract valuable information for reporting and decision-making.
+Performed ETL and initial data exploratory analysis using Tableau BI reporting tool
+Performing Data Extraction, Data cleaning, Data manipulation and Data consolidation
+Determining the risk factors predicting readmission for the given (Medicaid) population
+Identification of high-risk segments by creating decision trees using CART
+
+Project 2: Horizon BCBS – Identifying Fraudulent Claims using Analytics (PI)
+Data Cleaning and segmenting of medical claims to study claims payment pattern
+Utilized the SQL Queries to perform data analysis and data cleaning of medical claims
+Conducted segmentation of claims data to analyze claims payment patterns
+Implemented CMS guidelines and rules in Python to apply them to the claims database
+Formulated hypotheses to identify potential cases of overpaid claims
+Analyzed and prepared reports on scenarios involving claim overpayments
+Streamlined and industrialized the process to apply the same hypotheses across different projects
+Collaborated closely with manual validation and medical coding teams to identify overpaid claims
+Maintained detailed documentation of data analysis methods and presented results internally and externally
+
+Project 3: AETNA - Value Based Care (VBC) Attribution
+Responsible for the attribution/mapping of Commercial and Medicare members across various value-based care deals such as PCMH, ACO and Medicare collaborative
+Generating weekly and monthly Member statistics reports. Validate members, perform research analysis and providing solutions for the various ad hoc requests
+Interact with Medical Economics unit to setup PBG deals and developing SQL queries
+Performing Quality Analysis on data and automating the tasks using SAS EG
+
+Project 4: AETNA - Advanced Reporting Transformation & Concierge reporting
+Managed and inspired a diverse team of 10 professionals, including Business Analysts, Developers, and Testers, for a visualization project.
+Collaborated with Business owners, collected data requirements, and utilized the BI reporting tool to perform data mapping and create dashboards according to specifications.
+Proficient in Agile methodologies and skilled in utilizing development productivity tools like JIRA and Confluence.
+Demonstrated thorough understanding of SDLC principles and worked effectively within Agile methodologies through Program Increment (PI) planning
+Accountable for generating monthly and quarterly concierge reports and implementing enhancements to plan sponsor reporting using Big Query and GCP platform.
+
+Project 5: IBC - Provider Engagement for Healthcare Insurance Organization
+Developing algorithms for scheduling the visit appointments for the Nurses with providers
+Performing J-code analysis and comparing service costs for J-codes across various care of sites
+Developed a macro to consolidate multiple feedback forms into single file.
+Creating user guides for Provider visit feedback form, Hospital Scorecard and reports
+Developed Tableau dashboards to perform analysis and identify outliers in the data
+
+Project 6: ABC Foundation Donor Propensity Analysis (6 months)
+Utilized SAS to extract data from various sources, such as relational databases, CSV files and performed distributed data transformations and manipulations
+Identified major factors influencing a person becoming a major donor
+Conducted preliminary exploratory analysis of the data using Tableau BI tool
+Utilized Spark's data manipulation functions and libraries to cleanse and preprocess the data, including handling missing values, data imputation, and outlier treatment.
+Extracted census data from external websites and merged with original data to further improve the analysis
+Built predictive models to estimate the likelihood of a new donor becoming a major donor
+Conducted data modeling and implemented statistical algorithms to uncover trends and patterns in data.
+Segmented donors into homogeneous clusters and recommended actions to be taken for particular type of donors to increase donations
+
+International Scholars Office – OSU – Graduate Data Analyst Oct 14 – Dec 15
+Coordinating with admissions office in providing appropriate services and support to international students
+Generating daily and monthly excel reports and performing data entries
+Creating Statistical graphs using reporting tools
+Analyzing data trends and patterns of student’s academic and demographic information
+Integration/Mapping of current student information system with Banner system
+Performing updates and changes for maintaining official websites using Drupal and Joomla
+
+Trianz, Software Engineer (India/Oman) Jun 12 – Aug 14
+Interacting with clients to analyze the organization business process and map it to the Oracle E-Business suite
+Analyzing and comprehending the business requirements of the client organization.
+Designing and implementing the integration process to connect traditional information systems with Enterprise Resource Planning (ERP) systems.
+Demonstrating proficiency in Oracle Cost Management, Production, Process Execution, and Testing.
+Conducting testing on custom Oracle forms and reports.
+Developing SQL queries to extract data and generate comprehensive reports.
+Facilitating Conference Room Pilot (CRP) and User Assessment Training (UAT) sessions for business clients.
+Possessing a strong skill set in working with the Supply Chain Management module.
+
+Education
+Oklahoma State University, Stillwater, Oklahoma (GPA – 3.83/4.00) Aug 14 – Dec 15
+Master of Science in Management Information Systems
+
+JNTU University (GRIET), Hyderabad, India (GPA – 7.8/10) Aug 08 – May 12 Bachelor of Science in Information Technology
+
+Technical Skills
+Data Analytics Tools/Tech: My SQL, Big Query, NumPy, Pandas, Spark, Airflow
+SAS Related Tools: SAS Miner, SAS 9.4, SAS EG
+Languages/Tools: Looker, Tableau, Power BI, Amazon Redshift, Toad, Unix
+Project Management Tools: JIRA, Confluence, MS Excel, VBA, PowerPoint
+
+Certifications
+Advanced SAS and Base SAS certified
+Advanced SQL for Query Tuning and Optimization
+Python for Data Science and Machine Learning
+Tableau Desktop Certified Associate and Specialist course
+
+Personal Projects
+Project 1: Predicting 2019 Cricket World Cup by Artificial Intelligence using Python
+Conducted web scraping and utilized Python's Beautiful Soup package to extract data from Cricinfo website.
+Consolidated batting and bowling records for each team from 2010 to 2019 using NumPy and Pandas and merged them with match results data using Jupyter Notebook.
+Performed data cleaning, addressed missing values, and generated additional features to enhance decision-making capabilities.
+Developed classification and regression models to estimate the probability of teams winning the World Cup, including league matches.
+
+Project 2: Web scraping using Beautiful Soup and Web automation with Python and Selenium
+Developed automation scripts using Python and Selenium to streamline the court reservation process by automating the courts reservation procedure.
+Scheduled the scripts to run daily at specified times using Windows Scheduler.
+
+Project 3: Predicting the outcome of NBA games
+Extracted data from online sources and used Pandas in Python to consolidate data
+Conducted comprehensive data analysis to identify key predictors that strongly influence the outcome of games and determine the winning team
+Developed predictive models utilizing halftime data to forecast future game results
+Recognized the significance of factors such as field goals efficiency, three-pointer efficiency, and the number of assists in determining the winning team
+Contact this candidate

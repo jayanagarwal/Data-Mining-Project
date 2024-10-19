@@ -1,0 +1,152 @@
+VAMSAVARDHANA VIJAY
+ad7qr0@r.postjobfree.com **** Sweigert Rd, San Jose, CA – 95132 Ph: 619-***-****
+www.linkedin.com/in/vamsavardhanavijay
+Effective Engineer solving your Engineering and Software Challenges
+
+EDUCATION
+M.S. in Electrical and Computer Engineer
+Carnegie Mellon University – Jan’16 - May’17
+
+SOFTWARE SKILLS
+●Platform: Linux, Windows, Macintosh
+●Database: SQLite, MySQL, MongoDB
+●Front-End: JavaScript, HTML, XML, Bootstrap, CSS
+●Hardware: monsoon, kibbel, seahawk, RH850, ESP8266, Universal Robots, UR3E, Custom Robot Platforms
+●Languages: Python, Swift, Java, C++, BASH Shell, BATCH, JavaScript, Node JS, Selenium, Perl
+●Workflow: piper, CIDER-V, blaze, google3, critique, cloudtop, CRD, gerrit, git
+●Camera: AR0231, Mopar, Omnivision
+●Frameworks: Android, Arduino, Gradle, APK,
+repo, LAMP, WAMP, mobly, piper, fig, PCAP, OBD-II, CAN, Mobly, Mobly Android Snippet Lib, Mobly Bundled Snippets, Mobile Harness, SL4A, Moped, ESP-IDF, Kokoro, GCP(Google Cloud), Trade Federation, CTS, VTS
+
+WORK EXPERIENCE
+Apple (Robots) (Software Engineer) (Apple Pay) (500+ commits) August 2023 – June 2024
+● Engineered Mobile Payments Automation Framework in use by 2 teams for 24/7 Payments Test-
+https://github.pie.apple.com/mobile-payment/automation
+● Designed Stress Position enabling Code-Free Robot QA without KT
+● Developed Swift XCUI automation Tooling using XCUI, Swift, Python (~ 1.5K loc).
+https://github.pie.apple.com/vvamsavardhana/PaymentsFrameworkUITestCode
+● Operationalized Visualization Dashboard of XCUI automator Latencies
+● Designed, fabricated operational enclosures – 3D Printing - ( 18 nos )
+https://github.pie.apple.com/vvamsavardhana/robot_product_development
+● Developed System Component using limited Apple Infra -
+https://www.ul.com/sites/g/files/qbfpbp251/files/2021-08/Fact-sheet-UL-Brand-Test-Tool_201905.pdf
+● ROS based RViz, ROS Driver, MoveIt and Gazebo Robotic Task Automation
+● Designed and Implemented custom Test CI/CD infrastructure (~100 TCs) using Jenkins, Github
+● Setup Visualization Dashboard of Test Results + plugged in github webhooks
+● Developed a Robot Simulator Test Platform for QA –
+https://www.universal-robots.com/download/software-e-series/simulator-non-linux/offline-simulator-e-series-ur-sim-for-non-linux-5126-lts/
+● Mitigated Risk - WinGUI Automation WorkAround – API Vendor Cost Negotiations
+● Developed a Tesseract based OCR reading solution instead of Vendor Offering
+● Integrated Tesseract OCR extensions into Codebase
+
+Google(Python SDET/ Automation Engineer) (Android Auto) February 2023 – July 2023
+● Automated 5 TCs for AR0231 Camera Integration Test Suite (~ 1 man-hr/car)
+● Automated 31 TCs for EVS Capture Feature (~ 2 man-days/month )
+● Automated 15 TCs for SensorReplay Feature (~ 1 man-days/week )
+● Planned, executed System Level Test of EVS Capture Application (improved 5FPS -> 20FPS)
+● Planned, executed and System Level Test of SensorReplay Application (critical OEM deliverables)
+● System Level Feature Test- Surround View - 15 TCs – mobly Test Suites generated
+https://androidonair.withgoogle.com/events/aaos11-camera
+https://www.youtube.com/watch?v=DUiwguSCn7g&t=204s&ab_channel=Android
+● System Level Test of Feature - Extended View System
+● Intrinsic and Extrinsic Camera calibration - illumination compensation, Blending, 3D2D Switching etc
+● Performance profiling improved Android Surround View - 50 Bugs
+● Power Profiling improved Android SurroundView - 20 Bugs
+
+Microsoft(Python Automation Engineer) November 2022 – January 2023
+Developed Robot/Python framework for Firmware Team
+2 Projects – Athena, Pioneer – SoC IP Blocks which needed automated testing
+Developed in Python, C++ object module testing
+Python/BASH/Shell scripts to automate RT-app workflow
+
+Meta/Reality Labs(Python Automation Engineer) August 2022 – Oct 2022
+Setup UR3E calibration, Test Bed Environment setup, Documentation for all UR robots used for SmartGlasses Testing
+Automated UR3E fixed motion stress testing requirement for RayBan Smart Glasses
+Designed and Developed software extensions to allow QA testers to send individual motion commands in JSON in Co-ex validation Framework
+Integrated UR3E wrapper python modules(using TCP/IP to move robot) into automation framework
+Developed Python Automation Framework for RL Device Farm
+Wrote atomacos GUI Automation Framework- saved 24 man hours/week
+Setup visualization Dashboard of Camera Launch Latencies
+Automated 3 Manual Workflows for Camera SubSystem
+Solved Device Availability Issue using hardware Workaround- High Impact
+Automated Performance Testing 5 TCs Wifi enabled
+System Bucketization Testing WiFi, Bluetooth Performance Testing
+BT Snoop logging, nRF Connect, Inspect, ACTS Test Suite
+Tests such as WLAN reboot, BeaconLoss, ConnectionStress, Ping Stress for RL Products
+
+CapitalOne(Python Automation Engineer) April 2022 – June 2022
+Developed Python Framework extensions for Internal using AWS Lambda
+Re-factored Bash, Unix Shell Scripts to Python- Interchange Project
+Production code using PyUnit, Circle CI, Jenkins
+Splunk ETL Data Integration, AWS IAM, integrated Amazon API to control Instance operations
+Built an S3Bucket and managed policies
+
+Qualcomm(Python Automation Engineer) March 2018 - March 2022
+●Designed and Developed Python Test Applications for Qualcomm’s Snapdragon Processors (Linux Android Platform) using Java Android APK, XML, HTML, NodeJS, Django, C++, NDK
+●Wrote Python Automation framework using Numpy, MatplotLib, Pandas, wxPython for Performance Characterization in System, Graphics, IO, Browser and Memory benchmarks
+●Coded Python/Selenium automation to script Atlassian JIRA DROIDBUGs and ORBIT CR tracking
+●Test Driven Development(TDD) and Integration Testing using PyUnit, Circle CI, Jenkins
+●Validated commercial Android User Experience metrics such as Launch Performance, Scroll Performance and Boot Time measurement
+●Re-factoring and testing Python, Android Java APKs during SoC Bring-up and debugging
+●Developed and Tested API gateways using Python, Django, NodeJS, Postman, Insomnia, MongoDB
+●Visualized Performance Dashboard using JavaScript, Selenium, MySQL, SQLite, AWS Lambda
+●Developed Power Dashboard using PyWinGUI, PyADB, PyUnit, Matplotlib
+●Wrote Parsers for .XLSX, .CSV, .XLS, .TXT to input visualizations- saved 3 hrs/week
+●Experience working in all Python Integrated Development Environments(IDE)- PyCharm, Atom, Spyder, Jupiter Notebook, Eclipse, Visual Studio Code
+●Designed and developed Windows GUI using PyQT, PyUnit, MatplotLib,Pandas, NumPy, SciPy
+●Writing and parsing Android SYSTrace, FTrace files efficiently using Regex, Seaborn, Matplotlib
+●Automated Data Visualization of Chrome Catapult Traces using PyWinGUI, Chrome Developer Tools
+●Automated CI/CD Testing with Jenkins, Tomcat for Qualcomm’s WALT Scheduler/DCVS Power, Performance and Behavior Driven Android UI Optimizations using FTrace, Systrace, Pandas, Matplotlib
+(Python, Android APK, Java, XML, Matplotlib, Pandas- Automated 3~5 manual days/week on 4 Weekly Dashboards)
+●Created Python WinGUI Automation of System Buckets Dashboard (saved 2~3 man days/week)
+●Writing scripts for cross-platform compilation of ARM aarch 64 stress-ng, LTP(Linux Test Platform), RT-App(Real Time Application) simulating IO, Memory and CPU workloads
+●Python Perforce/Android APK Git repository maintenance - (Previously manual/legacy issues)
+•Python/BASH/Shell Low Level System ADB + API queries(saved 3 days/week)
+•Python based RESTful APIs in Browser Benchmarks (Saved 1 hr/week per Project)
+•Ported Perl to Python Memory Mapping Framework (Re-design- saved 3 hrs/week)
+•Refactored Python+Java APK GUI for Automated Headroom Analysis
+•C/C++ Cross-compiled tool-chain stress-ng, QBlizzard, rt-app, LTP, test suites integration
+●Android APK and Tool Development gerrit repo maintenance:
+•PyUnit/PyQT- Manual Testing to UI gateway reduced Human Error ~ 12% improvement
+•PyADB logger Legacy Tool(broken) re-design (20% efficiency)
+•Python/Shell/BASH/Batch TSense-logger for System, IO, Graphics Benchmark
+•Android Pre-check Reporting tools (cumulatively saved 17 hrs/week)
+●Wifi Testing Team deputation at Qualcomm – 42 Test Cases – Chipset Performance Comparison
+•WLAN Receiver Test Suite:
+Measuring throughput performance using signal strength attenuation
+•WLAN smoke testing
+
+Shinewell Technologies(Software Engineer) January 2018- March 2018
+●Python Automation of Android application development,
+●Python Scripts to flag Firebase Analytics bugs
+●Solved customer resource allocation with Business insights – new Feature
+●Python parsing of Data Dump Files using Wireshark, Postman, Java Android APK development- Critical Bugs averted before Production
+●Documentation of bugs and resolution in Atlassian JIRA, Trello familiarity
+●Test Driven Development of Android Application Features using RxJava
+
+GreenByte IT(Software Engineer) June 2017- January 2018
+●Python Vehicle CAN Data Visualization Dashboard using WireShark, CSV, XLSX files
+●Cleaning Data Dumps to remove false positives
+●Clear performant Python Automation using PyWinGUI,
+●Web Development using MEAN Stack(MongoDB,ExpressJS, AngularJS, NodeJS)
+●Solving Power Performance Problems with a Human Ergonomics and Security Context
+
+MEL Systems and Services Ltd(Project Engineer) March 2015 - September 2016
+●Python Scripting and Automation Engineering for DUT- Digital Video Recorders
+●Cross-compilation of C/C++ tools for ARM64 aarch64
+●Writing and Executing Test Plans for Head Up Display Units
+●Documentation as per MIL Standards
+●Python Scripts and Automation of all on-device Testing- saved 3 man days/week
+●Customer Support and re-factoring as required
+●Responsible for releases, merges and code review
+
+IIT Madras RBG Lab (Research Assistant) March 2014- September 2015
+●Python Scripting and Automation Engineering for DUT- Medical Device Sundaram Devices
+●Cross-compilation of C/C++ tools for ARM64 aarch64
+●Writing and Executing Test Plans Medical Grade Codebase
+
+ACCOMPLISHMENTS
+●Recognized with Qualcomm- QUALSTAR- 3 times(2018, 2019, 2021)
+●Awarded ELCINA EFY recognition for 'Excellence in Innovation' as a Project Engineer, ‘14-’15
+●Recognized forBest Capstone Project by Caterpillar- 2014
+Contact this candidate

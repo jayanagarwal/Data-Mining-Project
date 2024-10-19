@@ -1,0 +1,102 @@
+Durba Banik
+April ****—Present Keyrus US - Senior Cloud Engineer
+Global Consulting Firm
+• Designed SQS-SNS pipeline for client alerts, automated Terraform deployment to AWS. Created Python script for multi-account audit and consolidation. Developed Lambda function to shift messages from secondary to primary SQS.
+• Developed a Python script for resource cleanup, deleting unnecessary resources and expired recovery points across multiple accounts.
+• Designed and implemented complex monitoring and alerting for hundreds of AWS accounts across the organization utilizing Service Catalog, CloudFormation, Terraform, Lambda, and Python scripts.
+• Utilized GitHub Actions for CI/CD. Established diverse pipelines via AWS CodePipeline to deploy service catalog products across organizational units while defining precise deployment permissions. Implemented Firewall Manager Security Policy, shared it across multiple accounts, and automated RDS instance attachment to the Security Group using firewall tags due to AWS limitations.
+• Training new consultants in the project and assigned tasks.
+• Generated SSM documentation for Tanium, Splunk, Fireeye, etc., reviewed existing docs, and automated deployment via Lambda for newly added organization accounts.
+• Automated analysis of service catalog portfolio, products, and principals. Developed RDS service catalog products for the DBA team, deploying via AWS CodePipeline and providing ongoing support.
+• Performing CloudTrail debugging to enhance user activity tracking for security purposes.
+• Implemented granular user access and enforced resource tagging using IAM roles and policies.
+• Wrote terraform modules for AWS and Azure resources.
+• Established a KMS key with tailored permissions, deploying it across numerous accounts via CloudFormation StackSet. Designed VPC IPAM through Terraform, incorporating exclusion and inclusion logic for organizational units.
+• Implemented a robust email infrastructure utilizing Amazon Simple Email Service (SES) across multiple AWS accounts by establishing a centralized SES configuration within a designated account.
+• I have foundational knowledge of Kubernetes architecture and its components, including Pods, Nodes, Clusters, and Deployments. Proficient in using kubectl for interacting with Kubernetes clusters.
+• Developed a Python script leveraging the Tableau Server Client API to automate the creation of users, groups, sites on Tableau Server, streamlining administrative processes and enhancing system efficiency.
+Global Consulting Firm - Online Banking SaaS
+• Created incident-response-addendum.
+• Done security audit.
+• Used Prisma cloud to audit the accounts for security.
+• Documented Information Protection and Security Program/Policy and related Policies/Procedures/Standards, including Incident and Security Event Management Fitness programs firm
+• Architected instances to a private subnet
+• Establish automatic back-ups and patching of resources.
+• Designed Logging, Monitoring, Alerting infrastructure.
+• Worked on AWS Config, Amazon Guard Duty, AWS CloudTrail
+• RDS migration
+• Integral part for WAR(Well Architected Framework Report) of this project Public Transportation Port Authority
+• Used CloudFormation to setup the bastion host,roles,policies,Remote Engine,enabling config
+• AWS account setup
+• Providing granular access to user based on requirements and security norms using IAM roles, IAM Policy
+• Environment setup (s3 buckets Connection)
+• Architected the main VPC using CloudFormation.
+• Setup of AWS CloudTrail
+• Enabling of scheduled patching using AWS systems manager
+• AMI Backups using CloudFormation template.
+• Documented Massport AWS Environment guide
+Municipal Public Utility Company
+• Onboard OUC users
+• Modification Talend RE to use OUC standard tags.
+• AWS account setup
+• Maintained all the project related codes in the git repository.
+• Lambda function for scheduled shutdown of underutilized instances Overwatch (Security tool for Global Consulting Firm)
+• Worked on various controls (rules) to find out the non-compliant resource in the account.
+• Tested large number of controls by creating non-compliant resources/scenarios using terraform code.
+• Created python script for taking Backup of DynamoDB and setup script to expire old backups and imported that into lambda function.
+• Created various security-based policies.
+• Architected CI/CD pipeline using Jenkins, GitHub, Webhooks
+• Setting up network which includes VPC, subnet, Route53, inbound /outbound rules in security group, VPC peering using CloudFormation and Terraform
+• Setup of Jenkins using terraform.
+• Created extensive documentation with the implementation steps and setup procedures. January 2017 —March 2019 Magnus - Cloud Engineer
+• Creating and Managing EC2
+• Managing IAM users for the account
+• Configuring security group by setting up inbound and outbound rules to secure instances
+• Designed the Infrastructure and implemented on AWS cloud.
+• Setup AWS VPC for dev, staging and Prod environments.
+• Responsible for using AWS console for deploying and operating AWS services specifically VPC, EC2, S3, EBS, IAM,
+• Involved in designing and deploying multitude applications utilizing almost all the AWS stack
+(Including EC2, Route53, S3, RDS, DynamoDB, SNS, SQS, IAM) focusing on high-availability, fault tolerance, and auto-scaling in AWS.
+• Used CloudFormation for architecting the infrastructure.
+• Maintained the user accounts IAM Roles, VPC, RDB, DynamoDB, SES, SQS and SNS services in AWS cloud.
+February 2015 —December 2015 Cerner - Sr System Engineer
+• Undergone training on Snapprotect backup tool.
+• Preparing Daily backup reports
+• Installing the agents in hosts to be backed up.
+• Performing Restoration on demand
+• Configuring Policies and schedules for taking backups
+• Training new joiners
+• Daily client calls to provide updates and understand the requirements of project.
+• Preparing daily reports on success and failure rates of backups November 2014 -February 2015 Siemens Technology Services - System Engineer
+• Undergone training on Snapprotect backup tool
+• Preparing Daily backup reports
+• Installing the agents in hosts to be backed up
+• Performing Restoration on demand Configuring Policies and schedules for taking backups
+• Preparing RCA
+• Preparing daily reports on success and failure rates of backups June 2012 -November 2014 Microland - Backup Administrator
+• Creating and configuring backup policies with required backup type and scheduling the Jobs based on the Customer requirement.
+• Managing the schedule backup of servers as per backup policies using VERITAS-NetBackup 6.5.3, 7.1,7.5.0.3 and 7.6 Symantec-NetBackup
+• Worked on EMC Avamar, Backup Exec
+• Restoration of backup data to be performed based upon the Customer requirement.
+• Creating backup policies and adding servers and clients to the backup server for taking
+• backup as per customer requirement
+• Performing Tape Library and Media Management tasks like creating a new library pool, assign media to the pool for backup, Media labeling and Inventory.
+• Taking backup of various servers like UNIX and Linux-database backup, Exchange server Mailbox store backup,
+• Windows Servers- system state backups through Backup Server with the help of Various Backup Tools based upon the Customer requirement.
+• Troubleshooting the backup issues by analyzing the backup logs
+• Escalating the hardware related issues to the Hardware vendor and follow-up with the vendor till closure
+• Troubleshooting the backup issues by analyzing the backup logs December 2011 – June 2012 Delixus Software India Pvt. Ltd - QA Engineer
+• On client request the development team prepares the survey questionnaire and the
+• testing team manual tests the questionnaire using formulas.
+• Industry standard Manual Testing of the application which is further used for survey.
+• Calculation based black box testing of survey.
+• Validating &amp, verifying the questionnaire
+• Verifying and validating the codes for making the survey.
+• Standard documentation of testing results and sharing the same with development Tech & Skills
+AWS EC2, S3, ELB, Security groups, CloudFormation, Terraform, Boto3, Service Catalog, Elastic Search, Cognito, Kibana, RDS, DynamoDB, Amazon Redshift, VPC, Subnet, Route53, Internet Gateway, IAM, CloudTrail, CloudWatch, Lambda function, SNS, SQS, SES, CloudFront, System Manager, API Gateway, Jenkins, Okta, GitHub, Gitlab, JIRA, ServiceNow, Python, GitHub, GitLab, Symantec NetBackup, Confluence, NetApp Snap Protect. Certifications
+• AWS Certified Solutions Architect - Associate certification
+• AWS -Certified-Security-Specialty
+• Symantec Netbackup7.5
+Education Visvesvaraya Technical University
+2007-2011 Bachelor of Computer Science and Engineering
+Contact this candidate

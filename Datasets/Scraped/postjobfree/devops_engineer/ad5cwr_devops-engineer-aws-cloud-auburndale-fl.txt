@@ -1,0 +1,107 @@
+Professional Summary:
+All over * years of experience in IT field.Experienced Senior DevOps Engineer with 4 years of hands-on experience in the creation of a complete DevOps CI-CD pipeline by integrating Git, Maven, Jenkins, Ansible, Docker, Tomcat, Terraform, Kubernetes and AWS Cloud in order to automate the deployment process completely.
+Good knowledge of most of AWS services like EC2,S3,EBS,ELB,ASG,SES,SQS,SNS cloudwatch,cloud trail,AWS config etc...
+• Involved in the creation of a complete DevOps CI-CD pipeline by integrating Git, Maven, Jenkins, Ansible, Docker, Tomcat, Terraform, Kubernetes and AWS Cloud in order to automate the deployment process.
+• Recommended necessary DevOps tools to be used to client in by studying complete end- to-end Ci-CD flow of project architecture and managing accordingly complete infrastructure of the project.
+• Worked on ways to automate and improve the development and release process.
+• Participated in the planning of projects and making decisions related to project management.
+• Good understading in agile,scrum and waterfall methodologies. Education :
+• Bachelor’s in Computer science, Mewar University, India March 2013.
+• AWS Certified Solutions Architect – Associate.(Feb-2024) Cloud Providers AWS
+Version Control Tools Git, SVN,GitHub, AtlassianBitbucket Languages Java
+Build Tools Apache ANT, Maven
+Databases Oracle 9i/10g/11g/12c, MySQL
+Continuous Integration Tools Jenkins
+Repository Management Docker Hub
+Configuration Management Tools Ansible.
+Containerization/Orchestration Docker,Kubernetes
+Bug Tracking Tools JIRA
+Monitoring Tools Cloud Watch.
+Operating Systems/Virtualization
+Tools
+Linux, Windows Servers, Ubuntu
+Application Servers/ Middleware Apache Tomcat, WebLogic, WebSphere, JBOSS. Professional Experience:
+Aws DevOps Engineer,
+CitiBank,Tampa,FL
+Sept 2021 -Present
+Responsibilities:
+• Connected the nodes to the Ansible server using Password less SSH with the help of SSH keys so that everything runs smoothly without any permission issues.
+• Utilized the playbooks to fully automate the management of over 500 Ansible nodes.
+• Developed a number of playbooks for performing day-to-day administration tasks like the management of files, folders, and packages.
+• In order to provide better security for our users and groups, I created accounts with limited privileges in Ansible nodes by running playbooks on them.
+• Developed and executed many playbooks to install applications such as Web, Tomcat, Java, Python, etc.
+• Ansible has been integrated with Jenkins as a part of a CI-CD process for the automated deployment of .war files to Tomcat containers of Ansible nodes as part of an automated deployment process.
+• Being able to perform any kind of new tasks that arise as part of the administration, with the capability to automate everything by setting up playbooks, is something every administration team should be equipped with. I have specialized in this area of work for many years.
+• Solved day-to-day issues raised by developers and testers by remotely controlling their machines with RDP and SSH, and resolved issues raised by developers and testers.
+• Jenkins jobs console output is sent to developers and testers as soon as a build fails. This is in order to allow them to take the appropriate steps to resolve the issue.
+• Connected maven to Jenkins in order to automate the process of building the source code written by developers and to create the end product by running maven jobs.
+• Provided assistance to developers as far as the creation and management of Maven directories, adding code to them, and pushing to GitHub.
+• With the help of Jenkins plugins, I have connected Jenkins to DevOps tools such as Git, Maven, Ansible, Docker, and Tomcat in order to automate the deployment of our end products to production with the help of CI-CD.
+• Using Jenkins roles, created several user accounts to provide limited access to users in Jenkins in order to improve security.
+• Integrate Jenkins Master with internal and external worker nodes in order to distribute the workload from Jenkins Master to worker nodes.
+• Jenkins Job build history was sent in an automated manner to team members for action if any errors occurred.
+• Setting up upstream and downstream jobs to build jobs continuously without manual intervention as part of CI-CD.
+• Worked on some Jenkins concepts such as View, Poll SCM, Build Periodically, Web Hooks, Jenkins Plugins, and Global Configurations.
+• Scheduled some jobs that require frequent execution using Poll SCM.
+• Setting up the pipelines to automate the flow of deployment process.
+• Connected CloudWatch with SNS for monitoring and alerting purposes.
+• Monitored CPU and RAM usage on Web servers and Database servers by creating automated alarms and sending notifications with the help of SNS (Simple Notification Service).
+• In order to receive notifications regarding the status of servers, I have created SNS topics for different teams and added subscribers to those topics.
+• Created customized graphs and dashboards in CloudWatch for ease of monitoring.
+• Billing alarms were created for AWS accounts and suggested mechanisms for reducing charges and good practices.
+• In order to meet the project requirements, both default and detailed monitoring have been used in cloud watch.
+• Used Terraform to manage AWS cloud infrastructure in the areas of EC2, S3, IAM, Load Balancer, Auto Scaling, and VPCs.
+• In addition to having extensive experience in creating Terraform files using HCL Script, I have also conducted training sessions on Terraform for members of my team.
+• Created SNS topics and added subscribers in order to receive SNS notifications regarding billing alarms, CPU monitoring, Route-53 health check in the Failover routing policy, etc.
+• Managed topics and subscriptions for alerts for different teams.
+• Incorporated entire Kubernetes cluster into CI-CD pipeline for automated deployment of end products.
+• Tested websites before releasing them to production environments using pods.
+• Used Pod annotations to describe the objects better
+• Created multi-container pods as needed.
+• Organized and managed pods using pod labels (Equality and Selector based).
+• Used node selectors to restrict pod creation to certain nodes with sufficient resources.
+• For scaling and auto-healing of pods, we used replica sets and replication controllers.
+• For versioning of pods, a deployment object was created
+• Established Pod network using service objects such as Virtual IP/Cluster IP, Node Port, and Load Balancer.
+• Setup Volumes such as emptyDir, hostPath, and persistentVolumes to store data in a safe and secure manner upon accidental termination of Pods and Nodes.
+• Checked pods and their applications using health check mechanisms such as Liveness probes and Readiness probes.
+• Managed and controlled Kubernetes resources using Name spaces.
+• Utilized Secrets and ConfigMaps Kubernetes objects for better protection of data and privacy.
+• Implemented Resource Quotas to optimize the CPU and memory usage of nodes.
+• Worked with Jobs, Parallelism, Cron Job & Init containers on a daily basis
+• Gained a better understading of pod life cycles,pod conditions and container states. Environment: Java, AWS,Ansible, GIT, Jenkins, Terraform, JIRA, Docker, Kubernetes, Linux, Apache Tomcat, ELK, WebSphere, yaml script, Ruby script, MySQL. Wells Fargo, San Leandro,CA
+DevOps Engineer
+Aug 2020 – Aug-2021
+Responsibilities:
+• Many EC2 Instances were launched with the necessary OS and configurations to install and work on all DevOps tools.
+• Managed the scaling up and scaling down of EC2 instances based on the requirements as needed when resources were becoming scarce.
+• Ensured that team members had limited access to EC2 instances by creating user and group accounts and assigning the required permissions.
+• Managed ports and keys according to the requirements to ensure that there is no unauthorized access.
+• Installation and configuration of Linux operating systems from the RedHat and Debian families.
+• Used all Linux commands extensively when performing DevOps tasks and conducted weekly Linux training sessions for team members.
+• Used Linux administration concepts such as user administration, file and directory permissions, providing secure access to servers, taking backups, package management, dealing with services, managing Sudo permissions, SSH connections with keys, taking remote sessions to resolve OS-related issues, etc.
+• Using GitHub as a secure means of storing and sharing Playbooks and Dockerfiles with team members.
+• Integrating Git with Jenkins in a CI-CD process by using Poll SCM to pull source code automatically whenever a Jenkins job is triggered.
+• The creation of private repositories according to project needs was undertaken, as well as forking and cloning Git repositories from the GitHub accounts of clients.
+• Connected Developers' and Testers' machines to GitHub in a secure manner by using SSH keys for enhanced security and trained them on how to use these keys.
+• Docker images have been created by using a Dockerfile and a Docker container. They have been stored on Docker hub so that developers and testers can use them to launch containers in accordance with the project requirements.
+• Created web containers with port mapping concepts and used them in a detached mode. This allowed us to test websites designed by the UI teams and ensured that containers were always up and running.
+• Mapped volumes (Host - Container, Container - Container) enabled the transfer of files and folders, especially index files, created by the UI Teams.
+• Provided weekly training sessions on Docker to new members of the team in order to help them get up to speed.
+• Tested all DevOps tools by using Docker images instead of setting them up every now and then in EC2 instances.This helped reduce AWS billing expenses by avoiding the need to pay for every newly created instances.
+Environment:AWS, Jenkins, Maven, Docker, GIT, Openstack,Poweshell, WebSphere, Ansible JIRA, Windows.
+Matrix Ascentech Private Limited
+Java DevOps Engineer
+July 2016-–June 2020 (India)
+Responsibilities:
+• Design and develop the application using agile methodology and followed Scrum.
+• Manage AWS EC2 instances utilizing Auto Scaling, Elastic Load Balancing for the QA and UAT environments as well as infrastructure servers for Git.
+• Involve in developing components on reporting dashboard with Spring MVC, Spring Boot, Spring Framework and Hibernate.
+• Implement CI-CD pipelines using Jenkins and build and deploy the applications.
+• Implement modules using core Java APIs, Java collection, multi-threading and object- oriented designs.
+• Utilize Apache Tomcat as an application server to handle the deployments of different applications.
+• Work on maintaining load balancing for incoming traffic to websites by providing load balancers.
+• Create Auto Scaling group based on the traffic diverts to instances.
+• Involved in various phases of Software Development Life Cycle (SDLC) of the application like requirement gathering, design, analysis and code development.
+• Create complex SQL queries and used JDBC connectivity through Oracle 11g to access the database.
+Contact this candidate

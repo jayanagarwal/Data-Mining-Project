@@ -1,0 +1,102 @@
+Rohith Mamidyala
+Cloud DevOps Engineer
+Email: ad860o@r.postjobfree.com
+Phone: 919-***-****
+
+Professional Summary
+
+Cloud DevOps professional with extensive experience in designing, implementing, and managing cloud infrastructure across AWS, GCP, and Azure. Proficient in leveraging Terraform for Infrastructure as Code (IaC) to automate and scale cloud environments. Adept in CI/CD pipeline development and deployment, ensuring smooth and efficient application delivery. Strong expertise in containerization technologies like Docker and orchestration with Kubernetes, along with Helm for efficient management of Kubernetes deployments. Passionate about optimizing performance, enhancing security, and driving innovation through automation and best practices in DevOps.
+
+Education
+
+Kent State University at Kent Ohio – Computer information Sciences 2017
+Jawaharlal Nehru Technological University at Hyderabad – Computer Science Engineer 2015
+
+Experience
+
+Client – Apple, Vendor – SIS
+Cloud DevOps Engineer – April 2023 to Present
+
+Responsibilities:
+
+Experienced on Google Cloud Platform (GCP) service like compute engine, cloud load balancing, cloud storage, cloud SQL, GKE and cloud deployment manager.
+Created Multiple Projects per environment, VPC’s, GKE clusters for each environment in DEV, TEST, STAGE, PROD.
+Worked on core AWS services such as Setup and building AWS resources like VPC, EC2, RDS, S3, IAM, EBS, security group, Autoscaling, SES, SNS, Elastic beanstalk, Amazon lambda, load balancing, and RDS in Cloud Formation JSON templates.
+Proficient in setting up monitoring and logging solutions such as Amazon CloudWatch and AWS CloudTrail to monitor the health and performance of EKS clusters and track user activity for auditing purposes.
+Implemented and maintained Infrastructure as a code (IaC) using tool like Terraform and also for automating infrastructure provisioning and management across multiple cloud providers.
+Using Rio implemented CI/CD pipeline by creating multiple stages in different environments and created PRB and validation Pipeline which will automatically trigger based operator requirement.
+Created and deployed Kubernetes pod definitions, tags, labels, multi-pod container replication. Managed multiple Kubernetes pods containers scaling and auto-scaling.
+Using Helm charts for application deployment in Kubernetes Cluster in different Cloud platform (GCP GKE, AWS EKS).
+Automated creation of shield VIP (apple developed) using Terraform to manage the self-service platform that offers web application firewall and load balancing solution to access the application on high secure way.
+
+Client – Microsoft, Vendor – TEKsystems
+Cloud DevOps Engineer – August 2022 to April 2023
+
+Responsibilities:
+
+OpenStack/Linux administrators work more in OpenStack, Cloud computing, virtualization, Linux system administration and configuration management.
+Experience in managing multiple private clouds for enterprise on Bare metal, Containers to address different project needs.
+Experience in OpenStack components Neutron, Nova, Cinder, Horizon, Heat, Glance and Swift.
+Experienced in implementing and management of OpenStack infrastructure for cloud services, ensuing high availability and scalability. Deployed and configured OpenStack components including Nova, neutron, cinder and swift.
+Extensive hands-on experience in designing, developing, and deploying infrastructure using Terraform, leveraging its declarative syntax and provider-based approach for cloud automation.
+Used helm to deploy the core OpenStack services such as keystone, Nova, Neutron, Glance, Cinder and swift. Deployed additional services like Horizon, Heat and ceilometer.
+Automated the deployment of OpenStack in n number of server using helm charts.
+Extensive hands-on experience in writing Groovy scripts for junks pipelines, utilizing its powerful features and libraries to automate build, test and deployment processes.
+Extensively involved in designing and implementing declarative pipelines using Jenkins, ensuring streamlined and reliable CI/CD workflows.
+Expertise in integrating and automating various stages of the software development lifecycle, including source code management build, test and deployment using Jenkins and Groovy scripting.
+
+Client - Ford Motor Company, Vendor - TEKsystems
+Systems/AWS DevOps Engineer – IOT, February 2018 – August 2022
+
+Responsibilities:
+
+Experienced in automating, configuring, and deploying instances on AWS, Data centers also familiar with EC2, cloud watch, Cloud formation templates, and managing security groups in AWS.
+Management and administration of AWS service CLI, EC2, VPC, S3, ELB glacier, Route 53, CloudTrail, IAM, and Trusted advisor services.
+Worked on Multiple projects in Ford such as Smart Locker, Smart Shades, Sound Masking, Spatial Analytics, Wayfinding, EV charging, Smart metering, and Sage Glass where I was responsible for the application management for all projects and providing the infrastructure to deploy the application in CaaS or VaaS.
+Created Terraform recipes for AWS data platform including different services like ELK, Postgress, Spark, Lambda.
+Experience in Configuring and integrating the servers the different environments to automatically provisioning and creating new machines using configuration management/provisioning tools like Ansible.
+Build code using Ant, Maven and Gradle into Jar file and deployed using Jenkins/Bamboo. Wrote multiple declarative pipelines using groovy scripting in Jenkins to move from one environment to other environments.
+Depends on the requirement from the Client I use to create the infrastructure and deploy the application based on the projects in Docker Containers or on Physical servers which were Linux-based or Windows-based.
+
+Client - Cisco, San Jose, California
+AWS/DevOps Engineer, March 2017 - February 2018
+
+Responsibilities:
+
+Worked on creating whole infrastructure VPC, Subnets, EC2, RDS, Route53, Security groups, and internet gateway on AWS using Cloud formation templates and terraform.
+Experience in setting up and configuring the Amazon ECS service and used Amazon IAM to grant fine-grained access to AWS resources to users with MFA enabled.
+Extensively worked on CI/CD pipeline for code deployment by engaging different tools (Git, Jenkins, CodePipeline) in the process right from developer code check-in to production deployment.
+Strong Experience in automating vulnerabilities management patching and CI/CD using chef and other tools like GitLab, stash, Jenkins, and AWS/Open stack.
+Installed and configured Telegraf, Influxdb, Grafana, and Kapacitor (TIGK) stack for monitoring infrastructure and applications.
+Configured Grafana and influxdb and created dashboards on Grafana to show graphs of environmental performance.
+Managed local Deployments in Kubernetes using the Open shift platform, creating a local cluster and deploying application containers.
+Installing, configuring, and managing Continuous Integration, Continuous Delivery, Automation, and configuration management tools to make the Open shift cloud setup.
+
+Technical Skills
+
+AWS Services: EC2, Lambda, Elastic beanstalk, EKS, ECS, Fargate, S3, EBS, EFS, VPC, Route 53, Elastic load balancing, Cloudwatch, CloudFormation, IAM, AWS WAF, AWS shield, RDS, API Gateway
+
+GCP Services: Compute Engine, App Engine, Cloud Functions, GKE, Cloud Run, GCS, VPC, Cloud DNS, IAM, Cloud deploys, Artifact registry, Cloud SQL, Log explorer, Magistrate. Cloud monitoring, Cloud Logging.
+
+CI/CD tools: Rio, Jenkins, Gitlab.
+
+Build tools: ANT, MAVEN, Artifactory.
+
+Agile Tools: Rally, Jira, ServiceNow.
+
+Containerization: Docker, Vessel, Kubernetes.
+
+Infrastructure as a Code: Terraform, CloudFormation.
+
+Monitoring tools: Prometheus, Splunk, Mosaic, Telegraf, Grafana.
+
+Version Control Tools: Git, Bitbucket.
+
+Operating systems: Windows Family, RHEL, Ubuntu.
+
+Security: Whisper, Vault, Shield VIP, Denali Policies, Security Group.
+
+Languages: Bash, Python, Groovy, Ruby.
+
+Database: Postgres SQL, Cloud SQL, Mongodb, influxdb, MySQL, Cassandra.
+Contact this candidate

@@ -1,0 +1,47 @@
+EXPERIENCE
+SKILL HIGHLIGHTS
+EDUCATION
+CONTACT
+Tyhzair Martin
+**** ******* ******
+Philadelphia, PA, USA
++1-215-***-****
+ad80wr@r.postjobfree.com
+ad80wr@r.postjobfree.com
+Bachelor of Science:
+Computer Engineering 2013
+University of Illinois Urbana-
+Champaign, IL
+Algorithm
+Math
+C++
+Python
+Computer Vision
+Deep Learning
+LSTM
+CNN
+ACHIEVEMENT
+19th place in ACM/ICPC
+World Finals 2010
+AI & Algorithm Architect
+Apr 2022 To Jun 2024
+Aug 2019 To Nov 2021
+meTech1021
+meTech1021
+Library Media Database Indexing and Retrieval System AI & Algorithm Engineer
+Data Collection: Gathered a diverse set of labeled images and videos retrieval system based on each category.
+Preprocessing: Applied resizing, normalization, and data augmentation to clean and prepare the images and videos for analysis. Extract key frames from videos for uniform processing.
+Feature Extraction: Implemented a convolutional neural network
+(CNN) for image data and a combination of CNN and LSTM for video data to extract relevant features from images and temporal features from video sequences.
+Database Construction: Organize extracted features and metadata
+(labels, timestamps) into a structured database, which supports efficient querying and retrieval.
+Indexing and Search: Developed a retrieval system using techniques nearest neighbor search to allow for fast and accurate matching of user queries with content in the database.
+3D Photosphere Generation Algorithm
+Algorithm Developer
+Keypoint Extraction: Utilized feature detection algorithm in Python and C++ to extract keypoints from each photo, leveraging GPU acceleration with CUDA for improved performance.
+Keypoint Matching: Implemented feature matching algorithms to match keypoints between adjacent photos. Optimized the matching process using parallel processing techniques on the GPU to handle large datasets efficiently.
+Homography Estimation: Estimated the homography matrix or camera pose between each pair of matched photos using RANSAC
+(Random Sample Consensus) to filter outliers, ensuring robust performance in various lighting conditions and scenes.
+Image Stitching: Warped and stitched the images together based on the computed homographies. Leveraged CUDA to accelerate the image transformation and blending processes.
+Cloud Infrastructure: Deployed the entire workflow on AWS, utilizing auto-scaling to manage resource allocation dynamically based on workload demands, ensuring efficient processing of large batches of images.
+Contact this candidate

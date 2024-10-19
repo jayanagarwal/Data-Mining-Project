@@ -1,0 +1,53 @@
+Professional Summary
+
+A creative, innovative, self-motivated, results-driven IT professional with 5+ years of extensive experience as an AWS Security Architect, Solutions Architect and Cloud Engineer. Extensive experience in translating business needs into Technology, Solutions Cloud environments with proficiency in Cloud Orchestration, Autoscaling, ELB, EBS Volumes, Identity & Access Management, Monitoring and Event Management, Governance & Compliance, Application Delivery, and Data Protection. Highly effective in working on various AWS Services including networking, EC2, IAM, API Gateway, Lambda, S3, Cloud Front, Glacier, RDS, DynamoDB, Redshift, Route 53, cloud watch, CloudFormation, SNS, VPC, KMS, SQL and basic administration skills.
+Technical Skills
+
+AWS: EC2, Auto Scaling, Systems Manager, EFS, S3 Life Cycle, Cross Regional multiplication, RDS with Multi AZ and Read Replicas, CDN and Caching, Route 53 DNS Designing, IAM role, AWS CLI, Code Commit, Code Pipeline, AWS Lambda, AWS Systems Manager, AWS SSM Parameter Store
+Good knowledge of Identity and Access Management, Active Directory, AWS Workspaces, AWS Secrets Manager.
+Experience with architecting and developing solutions for high availability and fault tolerance environment
+Data Protection: AWS Certificate Manager, AWS KMS, Snapshot Lifecyle Manager, AWS WAF and Shield.
+AWS Security: AWS IAM, AWS Secret Manager, Security Groups, NACLs, AWS Security Hub, AWS Guard Duty, AWS Shield, AWS Firewall Manager, AWS Inspector, AWS WAF, AWS Firewall Manager.
+Governance & Compliance: AWS Organization, AWS Config Rules, AWS Control Tower, AWS Trusted Advisor, AWS Well Architected Tool, AWS Budgets, AWS License Manager.
+Cloud Orchestration/Automation: AWS CloudFormation, Terraform, AWS Lambda, AWS Systems Manager, AWS SSM Parameter Store, Ansible.
+Version control system Tools (CICD), GitHub, Gitlab.
+Network Services: VPC, VGW, TGW, CGW, IGW, NGW.
+AWS Migration: AWS Migration Hub: Cloud endure, AWS Application Migration Service, AWS Database Migration Service, AWS Snowball.
+Monitoring: CloudWatch, AWS SNS topic with CloudWatch alarms
+Programming Languages: Bash, Python, JSON, Hashicorp
+Image & Patch: AWS SSM Patch Manager, AWS Golden AMI Pipeline.
+Education
+Bachelor’s Degree in Computer Science - University of Buea – Cameroon
+Work Experience
+
+Infosys June 2019 – Present AWS Solution Architect / System Admin
+Participated in daily stand-ups and sprint meeting with Stakeholders, documenting their needs and developing a proof of concept for accessing new technology before deploying into production
+Architected, designed, deployed, and managed multi-tier Cloud Infrastructure that was highly secured, scalable, redundant, fault tolerant and performance efficient with the help of AWS services such as VPC and its components, ELB, EC2, S3, RDS, SNS, CloudWatch, CloudFront, AWS WAF, AWS shield etc.
+Created snap shots and AMIs of instances for backup and disaster recovery, managed System Routing backups, scheduling jobs, enabling Cron jobs, enabling system Loggings and Network loggings of servers for maintenance.
+Created and maintained user account, profiles, security, right disk space and process monitoring. Implemented best practices in accordance with Trusted Advisor, thereby helping customers save on monthly costs.
+Worked with CICD pipeline for application building and delivery making use Jenkins, Git, GitHub, Terraform, Mavens, Selenium and Ansible.
+Built and deployed VPCs using Terraform with private and public subnets coupled with EC2s instances as required.
+Perform scheduled maintenance, patching and upgrading IT systems, Window and Linux OS, security patching, monitoring health and performance of servers and services. Setup Ansible control and slave nodes and developed playbooks to automation configuration of servers across environments.
+Implemented security best practices in AWS including multi factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs.
+Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling.
+Washington Tech April 2017 - May 2019 AWS Cloud Support Architect
+Designed secure, cost-optimized, highly available, and fault-tolerant infrastructure in AWS.
+Architected and configured Dev / Stage / QA environments in AWS (VPC, subnets, security groups, EC2 instances, load balancer, RDS, Redis, route53.
+Configured CloudWatch alarm rules for operational and performance metrics for AWS resources and applications.
+Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling.
+Automatically remediated Trusted Advisor findings using Amazon CloudWatch events and AWS Lambda.
+Designed for high availability and business continuity using self-healing-based architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB health checks, Auto Scaling, and other disaster recovery models.
+Implemented AWS Systems Manager management service capabilities to automatically collect software inventory, apply OS patches, and automate administration tasks and complex workflows across our environments.
+Leveraged different design principles for security in the cloud and implemented various AWS services to improve our security posture for Authentication, Authorization, Monitoring, Auditing, Encryption and Data path security.
+
+HCL America Incorporation October 2015 – February 2017 Technology Support Analyst
+Leverage highly available Applications across availability zones and regions
+Ability to setup and manage monitoring systems in AWS using CloudWatch and integrated with SNS for notifications for system and performance changes.
+Highly implemented fault tolerant, highly available, self-healing and scalable systems in AWS.
+Developed baseline VPC and Network design including leveraging VPN connectivity and Direct Connect.
+Built serverless architecture with Lambda integrated with SNS, CloudWatch logs and other AWS services.
+Leveraged automated DevOps tools deployment and Blue-green deployment patterns and strategies.
+Configured CI/CD Pipelines using Jenkins connected to GitHub and build environments (Dev, stage & Prod).
+Leverage IAM best practices and role-based access control Implemented AWS Organization to centrally manage multiple AWS accounts including consolidated billing and policy-based restrictions.
+Implemented Control Tower Preventive and Detective guardrails and leveraged Account Factory, integrated with Lambda for new AWS account creation and setup.
+Contact this candidate

@@ -1,0 +1,201 @@
+Katipelly Shreya Reddy
+Sr AWS Devops Engineer
+
+Phone: 716-***-**** Email: ad6xos@r.postjobfree.com
+
+PROFESSIONAL SUMMARY
+Having 10+ of experience in Cloud DevOps Engineer in automating, configuring, and deploying instances across cloud environments and data center. Proven expertise in implementing robust and scalable infrastructure solutions, with a focus on optimizing performance, enhancing security, and ensuring seamless integration within complex IT ecosystems.
+Experience in the areas of DevOps, CI/CD Pipeline, Build and release management, AWS/Azure and Linux/Windows Administration.
+Experience in deploying, managing, and scaling containerized applications using Kubernetes on AWS infrastructure.
+Proficient in PySpark for scalable data processing, including ingestion, transformation, and aggregation tasks.
+Experience in designing and deploying a multitude of applications utilizing all the AWS stack such as EC2, VPC, EBS, Cloud Watch, Cloud Formation, Auto scaling, Cloud Front, IAM, S3, and R53 and Glacier.
+Virtual Machine Backup and Recover from a Recovery Services Vault using Azure PowerShell and Portal.
+Created multiple Terraform modules for versioning infrastructure, managed configurations, applications, installation process for AWS instances and Web Servers using Python and shell scripts.
+Production experience in large environments using with Configuration Management Tools such as ANSIBLE, PUPPET.
+Leveraged the advanced features of AWS OpenSearch/Elasticsearch, such as query optimization, relevance scoring, and result highlighting, to deliver fast and accurate search results, enhancing user experience and productivity.
+Designed and implemented Azure Event Grid to facilitate event-driven architectures, seamlessly integrated with Harness for automation and efficient event handling.
+Proficient in using Terraform to provision and manage infrastructure resources declaratively, enabling automation, repeatability, and consistency in infrastructure deployment across AWS environments.
+Skilled in utilizing PySpark's DataFrame API and SQL capabilities for data analysis and exploration.
+Used Ansible and Ansible Tower as configuration management tool to automate repetitive tasks, deploy applications, manage changes and automate software update.
+Wrote Ansible Playbooks with Python SSH as the Wrapper to Manage Configurations of AWS Nodes.
+Worked with Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts and managed containerized applications using its nodes.
+Experience in creating custom cloud formation templates and Terraform templates to provision infrastructure in AWS environment.
+Expertise in using Docker including Docker Hub, Docker Engine, Docker images, compose, swarm, and Docker Registry and used containerization to make our applications platform to be consistent flexible when they are moved into different environments.
+Experience in using Docker and setting up ELK with Docker and Docker-Compose.
+Actively involved in deployments on Docker using Kubernetes.
+Integrated Jenkins with various DevOps tools such as Nexus, SonarQube, Puppet and used CI/CD system of Jenkins on Kubernetes container environment, utilizing Kubernetes and Docker for the runtime environment for the CI/CD system to build, test, and deploy.
+Also, have experience in creating Upstream and Downstream jobs (Build Pipeline) in Jenkins.
+Experience in writing Jenkins Pipeline Groovy Scripts for Continuous Integration and build workflows.
+Used Jenkins for uploading Artifacts into Nexus Repository and Automated various day-to-day administration task by developing Bash, Ruby, JSON, Perl, PowerShell and Python Scripts.
+Orchestrated and migrated CI/CD processes using Cloud Formation, terraform templates and Containerized the infrastructure using Docker setup in Vagrant, AWS and Amazon VPCs.
+Configured and deployed Azure Automation Scripts using Azure Stack Services and Utilities, seamlessly integrating with Harness for streamlined application deployments.
+Experience in real-time monitoring and alerting of applications deployed in AWS using Cloud Watch, Nagios, ELK stack and Splunk.
+Creating Python based microservices and refactoring/enhancing exiting services. Wrote python scripts to parse XML and JSON reports and load the information in database. Used Ticketing & Project Management tools like Jira, Team Foundation Server in DevOps, Service Now, and HPQC.
+Experience on Ansible and Ansible Tower to automate repetitive tasks, to deploy critical applications quickly, and proactively manage the changes and wrote many playbooks to manage Web applications.
+
+EDUCATIONAL DETAILS
+
+Bachelors in Computer Science, India.
+CERTIFICATIONS
+
+Azure Administrator Associate
+AWS Certified Developer – Associate
+
+TECHNICAL SKILLS:
+
+Cloud Services
+AWS, Azure DevOps Tools
+CI/CD
+Jenkins, Azure Pipelines
+Artifactory
+Jfrog and Nexus
+Web Servers
+Nginx
+Operating Systems
+Microsoft Windows XP/ 2000, Linux, UNIX.
+Tracking Tools
+Jira
+Code Scanning
+Sonar Qube, Jfrog X ray, ECR Inspector
+Databases
+RDS, Cosmos DB, My SQL DB.
+Logging
+Cloud Watch, Cloud Trail, Azure App Insights, Azure Monitor
+Container Platforms
+Docker, Kubernetes, Open Shift.
+Monitoring Tools
+Nagios, Splunk.
+Languages
+Python, Shell scripting.
+Cloud Platforms
+Microsoft Azure, Aws Cloud.
+Version Control Tools
+GIT, Bit Bucket.
+
+WORK EXPERIENCE:
+
+Client: Flight Safety International,Columbus,OH
+Role: Sr AWS devops Engineer Dec 2021 to Present
+Responsibilities:
+Worked extensively on AWS broad range of services such as provisioning EC2, AMI, VPC, ELB, Auto-Scaling, Security Groups, IAM, EBS, S3, SNS, SQS, Route53, CloudWatch, Cloud Formation, Cloud front, Cloud trial, RDS, EMR, Red shift, AWS OpsWork.
+Managed AWS EC2 instances, S3 and Glacier for our data archiving and long-term backup and UAT environments as well as infrastructure servers for GIT.
+Proficiency in Amazon Elastic Kubernetes Service (EKS) for orchestrating Kubernetes clusters on AWS, including cluster setup, configuration, and optimization.
+Implemented CI/CD pipelines with AWS Elastic Beanstalk for web application deployments and automated the build & deployment processes using Jenkins.
+Orchestrated the deployment and management of AWS OpenSearch/Elasticsearch clusters, including provisioning nodes, configuring indices, and optimizing cluster performance for efficient search operations.
+Knowledgeable in using PySpark Streaming for real-time data processing and analytics.
+Utilizing tools like AWS CloudFormation or Terraform to define and provision Kubernetes infrastructure on AWS, ensuring repeatability and consistency.
+I have extensive experience utilizing form to automate infrastructure provisioning, manage AWS resources, and enforce Terraform best practices for efficient and scalable infrastructure deployment.
+Integrated AWS OpenSearch/Elasticsearch with monitoring and alerting systems such as AWS CloudWatch and Elasticsearch Watcher, enabling proactive monitoring of cluster health, performance metrics, and automated alerting for critical events.
+Configured Auto-Scaling in AWS to dynamically adjust the number of EC2 instances based on demand, ensuring optimal resource utilization and cost efficiency.
+Worked with AWS EMR (Elastic MapReduce) for processing large datasets, showcasing expertise in big data analytics and distributed computing.
+Implemented robust security measures and compliance controls for AWS OpenSearch/Elasticsearch clusters, including encryption at rest and in transit, access control policies, and auditing mechanisms to ensure data confidentiality, integrity, and compliance with regulatory requirements.
+Configured AWS Lambda functions to execute code in response to HTTP requests through Amazon API Gateway, enabling the creation of serverless APIs.
+Monitored and debugged AWS Lambda functions using AWS CloudWatch Logs and CloudWatch Metrics, ensuring optimal performance and reliability.
+Managed infrastructure servers for GIT using AWS OpsWorks, demonstrating proficiency in automated application lifecycle management.
+Wrote Terraform scripts to deploy different AWS Infrastructure components related to the respective services, managed various resources and data elements defined in the scripts.
+Developed Terraform modules specifically for automating the provisioning of EKS clusters, including worker nodes, networking, and security configurations.
+Integrated Prometheus & Grafana with AWS EKS to monitor and alert on critical cluster events, ensuring proactive response to potential issues.
+Configured RBAC rules to control access to Kubernetes API resources, namespaces, and custom resources.
+Designed and maintained Network Policies for Kubernetes namespaces, controlling traffic between different application components.
+Created S3 buckets and managing policies for S3 buckets and using them for storage, backup and archived in AWS and worked on AWS Lambda which runs the code with a response of events and Implemented API Gateways, Authentication.
+Monitoring test performance using Splunk and setting up Splunk dashboards and adding data to Splunk by adding log files.
+
+Client: Citibank,Irving,TX
+Role: Sr AWS DevOps Engineer March 2020 to Nov 2021
+Responsibilities:
+Worked in setting up Jenkins tool to integrate the JAVA project and maintained Jenkins with continuous integration and deployment.
+Debug configured Jenkins jobs and stabilized the builds, continuous integration with Bitbucket, setting up SSH agent forward and using API tokens for Jenkins pipeline jobs.
+Configured and maintained GitHub Actions workflows to automate build, test, and deployment processes.
+Understanding of PySpark's distributed computing architecture for parallel processing tasks.
+Administered and managed GitHub repositories, organizations, and user access.
+Worked on configuration management tool Ansible for cloud provisioning, configuration management, and application deployment.
+Worked in running Ansible ad-hoc commands, automating actions with Ansible playbooks, creating roles for the a simple machine type set up, roll out of the first machines completely managed, migration of all machines to Ansible.
+Managed the AWS Lambda Functions configuration information based on requirements and built lambda functions using Node.js, Python and Java.
+Designing Kubernetes architectures on AWS with high availability (HA) and disaster recovery (DR) strategies, including multi-AZ deployments, backup solutions, and failover mechanisms.
+Leveraged AWS OpenSearch/Elasticsearch's integration with Amazon SageMaker and machine learning capabilities to enhance search relevance and personalization, dynamically adjusting search rankings, recommendations, and auto-complete suggestions based on user behavior and feedback.
+Worked on deploying AWS WAF (Web Application Firewall) as part of the CDN solution for the ALB (Application Load Balancer) dat fronts the web server on EC2 instances.
+Used AWS Beanstalk for deploying and scaling web applications and services developed with Java, PHP, Node.js, Python, Ruby and Docker on familiar servers like Apache.
+Integrated EKS with Amazon ECR for efficient container image management within the CI/CD pipelines.
+Able to debug and troubleshoot PySpark jobs to ensure smooth execution.
+Utilized AWS Elastic Beanstalk for simplified deployment and management of web applications and services, with enhancing deployment automation and version control.
+Automated AWS EKS cluster provisioning and scaling using Terraform modules for different environments like DEV, QA, UAT and prod and integrated terraform with Jenkins pipelines.
+Integrated AWS AKS with Filebeat and Metricbeat to collect real-time container logs and performance metrics for centralized storage in Elasticsearch.
+Created custom dashboards in Kibana to visualize real-time performance metrics, system logs, and application logs for AWS AKS clusters.
+Installed and configured a private Docker Registry, authored Docker files to run apps in containerized environments and used Kubernetes to deploy scale, load balance and manage Docker containers with multiple namespace ids.
+Wrote Ansible Playbooks with Python SSH as the Wrapper to Manage Configurations of AWS Nodes and Test Playbooks on AWS instances using Python.
+Used Ansible to Setup/teardown of ELK stack (Elasticsearch, Log stash, Kibana) and troubleshoot the build issues with ELK and work towards the solution.
+Utilizing tools like AWS CloudFormation or Terraform to define and provision Kubernetes infrastructure on AWS, ensuring repeatability and consistency.
+Set up monitoring and alerting using Amazon CloudWatch, integrated with Harness for proactive issue identification and resolution.
+Experience in diagnosing and resolving issues in Kubernetes clusters on AWS, optimizing resource utilization, performance tuning, and capacity planning.
+Configured AWS OpenSearch/Elasticsearch with geospatial search capabilities, enabling users to perform spatial queries, geo-distance calculations, and polygon-based searches on geographic data sets, facilitating location-based services, geospatial analytics, and mapping applications.
+Automate Datadog Integrations through Ansible Scripts for QA, Regression and Prod environments.
+
+Client: Black Knight, Jacksonville,FL
+Role: Sr DevOps Engineer May 2018 to Feb 2020
+Responsibilities:
+
+Created CICD (VSTS) pipelines in Azure DevOps environments by providing their dependencies and tasks. Also have experience on implementing and managing continuous delivery systems and methodologies in Azure.
+Implemented CICD pipeline for Webapps to deploy on app services using Azure DevOps plugins.
+Initiated automation of app settings configuration on Webapps using json files in Azure DevOps successfully.
+Created CICD pipeline to deploy code in different environments (Dev, Stage, QA and Prod) on sequential basis.
+Proficient in developing applications and scripts using the Groovy programming language.
+Written custom build definitions and release definitions on Azure DevOps using yaml files to perform deployment activities on Azure and On Premise.
+Implemented unit testing and code coverage in Azure DevOps to validate the code efficiency.
+Created Docker files to build images and deployed on AKS and Docker swarm.
+Developed Ansible playbooks for deploying service as pods and used AKS for orchestrating the pods.
+Written Azure Powershell scripts to automate several routines like restarting Azure app services, backup and restore VM, setting up RBAC roles, conditional access policies on Azure.
+Created ARM templates to provision infrastructure in Azure using Powershell.
+Written Azure CLI scripts to automate several batch jobs like running ETL jobs on data lake, data load on storage accounts and file transfers across the file shares.
+Implemented Infrastructure as Code (IaC) practices using Azure ARM templates and Terraform, with Harness playing a pivotal role in automated infrastructure provisioning.
+Performed patching, troubleshooting and administering on jav and Windows servers
+Migrated Docker swarm environment to AKS and deployed services using Helm charts.
+Developed SQL scripts to create users with specific DB roles, indexes for databases and resolve application related duplicate data entries.
+Performed SQL failover on all production environments with zero downtime.
+End to end Implementing Azure Load Balancer and Application Gateway for high availability.
+Documented the process for requesting certs and defined the placement of the certs so that the lower environment matches the production environment as closely as possible.
+Installing, configuring NGINX as load balancer to orchestrate application calls.
+Developed YAML configuration files to add license supporting the services.
+Deploying OMS agent and configuring queries for alerting infrastructure and application abnormalities.
+Designed and implemented MLOps strategies and practices to streamline the deployment, monitoring, and management of machine learning models in production.
+Developing Terraform scripts for deploying Infrastructure in Azure cloud.
+Established MLOps pipelines and workflows for automating model training, testing, validation, deployment, and monitoring processes.
+
+Client: Integra Micro Software Services, Bengaluru,India
+Role: Devops Engineer Nov 2015 to Jun 2017
+Responsibilities:
+
+Involved in DevOps migration/automation processes for build and deploy systems.
+Worked with Ansible playbooks for virtual and physical instance provisioning, Configuration management and patching through Ansible.
+Automated using Ansible, Python, Perl or shell scripting with attention to detail, standardization, processes and policies.
+Setup and build AWS infrastructure using various resources, VPC EC2, RDB, S3, IAM, EBS, Security Group, Auto Scaling, SES, SNS and RDS in Cloud FormationJSON templates, Route53, Lambda.
+Worked on AWS for deploying EC2 instances consisting of various flavors viz., Oracle Linux, RHEL, CentOS, Ubuntu and Solaris in both Linux and Windows.
+Worked on installation and configuration of web servers and applications, WebSphere, WebLogic, tomcat, Apache. O Administrated DHCP, DNS services in Linux.
+Manage releases to make sure the code goes to live with Quality and security.
+Used Chef for application automatic deployment and provisioning to different environments.
+Deploy and monitor scalable infrastructure on Amazon web services (AWS) & configuration management using Chef.
+Integrated MLOps practices with existing DevOps processes and tools to ensure consistency, reliability, and scalability of machine learning deployments.
+Creating fully automated continuous integration, continuous delivery, continuous deployment pipelines, DevOps processes and tools for multiple projects using Chef and AWS.
+Created continuous integration system usingGit, Jenkins, chef full automation.
+Used Maven as a build tools on java projects for the development of build artifacts on the source code.
+Manage AWS EC2 instances utilizing Auto Scaling, Elastic Load Balancing and Glacier for our QA and UAT environments as well as infrastructure servers for Git and Chef.
+Automate deployment and Cleanup by using Ansible and managing all aspects of the software configuration management process.
+Using Amazon's Elastic Cloud Platform for creating instances and servers, and maintaining GitHub, Jenkins and automated deployments of our analytics infrastructure to AWS.
+Automated interactions with various Amazon Web Services (AWS) components, including uploads/downloads from S3, management of Cloud Formation, EC2 instances.
+Designed and developed fully automated AWS resource cleanup process, significantly reducing operating costs
+
+Client: Diebold Systems Pvt.Ltd, Hyderabad, India
+Role: Build and Release Engineer Jan 2013 to Oct 2015
+Responsibilities:
+
+Installation, Maintenance, Administration and troubleshooting of Red hat Enterprise Linux 5.x/6.x servers on various hardware platforms.
+Configured and maintained Apache web server from open source with Java and Tomcat, WebSphere and WebLogic servers.
+As member of Release Engineering group, redefined processes and implemented tools for software builds, patch creation, source control, and release tracking and reporting, on UNIX platform.
+Integrated GIT into Hudson to automate the code checkout process.
+Maintain and track inventory using Hudson and set alerts when the servers are full and need attention.
+Designed the Release Plans while coordinating with Stake Holders including Project Management Lead, Development Lead and QA Team Lead.
+Work with product development to resolve build-related issues in all projects provided support for Application issues.
+Performed database deployment activities like execution of Database scripts.
+Dealt with Jira as ticket tracking and workflow tool.
+Releasing code to testing regions or staging areas according to the schedule published.
+Eliminated downtime of network and processes by installing and configuring a Nagios server to monitor Linux servers.
+Contact this candidate

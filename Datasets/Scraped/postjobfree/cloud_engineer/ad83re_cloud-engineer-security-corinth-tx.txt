@@ -1,0 +1,205 @@
+KENNY SHOBOWALE
+Corinth TX 678-***-**** ad83re@r.postjobfree.com
+PROFESSIONAL SUMMARY
+Experienced Platform and Cloud Engineer with a comprehensive background in designing, implementing, and optimizing robust and secure IT infrastructures. Lead and executed cloud engineering projects, and worked cross-functionally with development, operations, and compliance teams. Expertise in cloud technologies and strong understanding of cloud best practices and industry regulations. Exemplary expertise in routine application maintenance tasks, including troubleshooting and testing. Committed to ensuring the confidentiality, integrity, and availability of cloud-based systems. CERTIFICATIONS
+• AWS Certified Cloud Practitioner
+• AWS Certified Solution Architect Associates
+• AWS Certified Developer Associates
+• AWS Certified DevOps Professional
+• AWS Certified Security Specialty
+• Hashicorp Certified Terraform Associate
+• Certificate of Cloud Security Knowledge (CCSK)
+PROFESSIONAL AFFILIATIONS
+• Member, Cloud Security Alliance (CSA)
+• Member, Information Systems Security Association (ISSA) SKILLS
+• Cloud Platform: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform
+(GCP).
+• Security Frameworks: CIS Benchmarks, PCI-DSS, NIST 800-53, ISO 27001, GDPR, HIPAA,
+• Tools: Git, SVN, Ansible, Terraform, Jenkins, Docker, Kubernetes, Prometheus, Grafana, ELK stack
+(Elasticsearch, Logstash, Kibana), Splunk, JIRA, Confluence, Nagios, Zabbix, Datadog, Cloudformation, Lambda, s3, Glue, Cloudfront, Tomcat, IP Services, Harness VM, CAD (Computer Aided Drafting) AWS, Azure, GCP, SSIS/SSAS/SSRS, Cognos, JIRA, Confluence, Gitlab, GitHub, Sonatype Nexus, Kubernetes, EMR, GLUE, PodMan/Docker, Jenkins, Hashicorp Vault, Consul, HSM, TLS/SSL, CyberArk, Veracode, SonarQube, PKI, VirtualBox, KMS, SCP, LogRhythm, Telegraf, Automation Platform, Qualys, Snyk, Artifactory.
+• Database: MS SQL Server, MySQL, MongoDB, Postgres, Aurora.
+• Networking: TCP/IP, DNS, DHCP, VPN, load balancing, and firewall technologies.
+• Programming Languages: Python, Bash, XHTML/HTML5, XML, JavaScript, XPATH, XQUERY, JSON, YAML, Terraform, Groovy
+• Platform monitoring: Datadog, Nagios, Zabbix, Solarwinds
+• Miscellaneous: Security Group, Network ACL, IAM, Data Encryption, VPC, CloudTrail, CloudWatch, Security Hub, Azure Security Center, GCP Security Command Center, Incident response, Threat hunting, Digital forensics, Network segmentation, Access controls, Firewall configuration and rule management, Load balancing and traffic management, Performance optimization, Tuning platform components, Designing fault-tolerant, highly available, and scalable platforms.
+WORK HISTORY
+Cloud Engineer/Architect, 08/2022 to Present
+University of California, Office of the President – Oakland, Ca
+• Configured Site-to-Site VPN with Customer Gateway/Peer IP from each Campuses.
+• Implemented AWS Privatelink for connectivity with 12 Campuses using their VPC endpoint services, configuring route 53 with the vpc service address.
+• Configured Cross-Region Transit gateway with transit gateway attachment.
+• Leverage Scheduler to create Templates, Tags and different chain services to initiate cost reduction automation in our Development, Stage and Production Environment.
+• Managed Kubernetes environments, ensuring container orchestration and scalability, implemented container security best practices and automated deployment pipelines for containerized applications.
+• Manage AWS services such as IAM, EC2, S3, VPC, Lambda, SNS, CloudWatch, Redshift, RDS, Config, ECS, EKS, ALB, and security groups.
+• Implemented automated security and monitoring in Kubernetes and Docker using AWS Lambda, Terraform, Jenkins, Prometheus, and Grafana, with AWS CloudWatch and CloudTrail integration for enhanced incident response.
+• Developed a comprehensive security architecture, including VPC design, network segmentation, and encryption of data at rest and in transit for UCOP and its affiliated campuses.
+• Designed and implemented a serverless architecture on AWS for a data processing application, leveraging AWS Lambda, API Gateway, and DynamoDB for UCOP's cloud-based applications.
+• Deployed application updates using Jenkins and automated infrastructure deployments using Terraform with Bitbucket pipelines.
+• Build systems that are secure, scalable, and self-healing within public clouds.
+• Design, built and improved on existing CI/CD pipelines and deployment processes.
+• Integrated Trusted advisor with Security hub to conduct a security assessment of UCOP’s cloud-based applications.
+• Applied security control defined by our security policies across all cloud resources.
+• Automated cloud infrastructure and application provisioning using CI/CD tools, Planned, deployed, monitored, and maintained AWS cloud infrastructure with multiple EC2 nodes and VMware VMs.
+• Install data collection agent for metrics and log data aggregations.
+• Implemented Cloud Security using DDOS, WAF, NACL, Security Group, HSM, Policy and OAuth.
+• Configure TLS for encryption in transit.
+• Automated IAM as code for source controlling and peer reviewing.
+• Identify potential threats such as data breaches, SQL injection, cross-site scripting, and DDoS attacks
+• Enforced authentication and authorization policies, performed posture assessments on connecting devices, and dynamically assigned appropriate network access privileges based on requirements.
+• Ensure compliance and meeting industry regulations such as GDPR, PCI-DSS, NIST 800-53, ISO 27001, HIPAA etc.
+• Implement secure coding practices with the engineers, such as input validation, output encoding, and parameterized queries, to mitigate common vulnerabilities like SQL injection, cross-site scripting
+(XSS), and buffer overflows.
+• Configured site-to-site vpn.
+• Used Rundeck to configure and deployed ec2 instance.
+• Conducted performance tuning of AWS resources, optimizing application response times and resource utilization.
+• Orchestrated stateful container workloads using AWS EBS (Elastic Block Store) for persistent storage.
+• Implemented volume mappings and dynamic provisioning for efficient data management in containerized applications.
+• Explored service mesh architecture with tools like Istio for enhanced communication and observability between microservices.
+• Implemented distributed tracing using OpenTelemetry for applications spanning multiple services.
+• Integrated automated testing frameworks for containerized applications to ensure code quality.
+• Implemented canary releases to gradually roll out new container versions and monitor for issues.
+• Implemented Horizontal Pod Autoscaling (HPA) for dynamic scaling based on resource utilization.
+• Created web rules for WAF to enable security best practices
+• Used AWS Guard Duty to monitor unusual account usage using different aggregate logs
+• Integrated AWS Lambda functions to execute predefined actions, such as scaling resources or sending notifications, based on CloudWatch Alarm triggers.
+• Configured AWS Config to track changes to AWS resources and maintain a historical record of resource configurations.
+• Enabled VPC Flow Logs to capture network traffic metadata within AWS Virtual Private Clouds.
+• Real-time Chat Application with AWS AppSync and Lambda
+• Terraform module creation for infrastructure configuration and deployments
+• Ran complex data queries using Athena from S3 bucket
+• Implement rate limiting, traffic shaping, or IP filtering to prevent excessive traffic from reaching the network and I regularly monitor network traffic for unusual patterns and spikes in activity.
+• GovCloud Creation and configuration
+• Migrated FinApps applications to AWS
+• Set up automated alerts to notify stakeholders when costs exceed predefined thresholds, enabling proactive cost management.
+Platform Engineer, 01/2021 to 07/2022
+Slalom Build – Atlanta, Ga
+• Responsible for architecture and implementation of cloud technology projects for both development and infrastructure teams
+• Identified, analyzed and resolved infrastructure vulnerabilities and application deployment issues
+• Reviewed existing systems and made recommendations for improvements.
+• Designed and maintained VPCs, subnets, load balancers, and network routes to optimize network performance.
+• Applied container-based technologies on AWS with Kubernetes, Docker, and Helm charts.
+• Utilized AWS Cloud Formation Nested Stacks for AWS cloud infrastructure automation.
+• Built CICD pipelines for automated testing and deployment with AWS Code Deploy.
+• Managed and optimized WAF, CloudFront, and Route53 to enhance web application security and performance.
+• Deployed and configured Transit Gateway, Control Tower, Systems Manager, and other AWS services to meet organizational requirements.
+• Managed and optimized WAF, CloudFront, and Route53 to enhance web application security and performance.
+• Implemented Terraform and Kubernetes for efficient configuration and orchestration of cloud resources.
+• Partnered with infrastructure teams on evaluation and feasibility assessments of new systems and technologies.
+• Conducted on-premises workload migrations to AWS and ensured compliance with company policies and procedures.
+• Set up centralized monitoring and logging using Amazon Config, CloudWatch Logs, and AWS Lambda
+• Worked with teams of talented software engineers to define, build and maintain cloud infrastructure
+• Used metrics to monitor application and infrastructure performance
+• Automatically revert changes to security groups with Cloudtrail, Cloudwatch Events and AWS Lambda
+• Version controlled with Git to perform Continuous integration using Jenkins for pipeline jobs and monitoring with Nagios in Site Reliability Engineering.
+• Managed containerized applications using Docker and orchestrated deployments with Kubernetes, ensuring seamless scaling and high availability.
+• Integrate Sonarqube into pipeline for static testing
+• Worked closely with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance
+• Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements.
+• Created Dockerfile and automated Docker image creation using Jenkins and Docker
+• Improving image qualities by scanning base image for vulnerabilities in dockerfile using snyk test, removing vunerable base images and replacing them with the most secure base images with zero vunerabilities based on snyk recommendations
+• Deploying containerized applications using Kubernetes
+• Actively using helm charts to package kubernetes manifest and deploying applications to GCP
+• Used Istio to solve challenges of managing microservices
+• Ensuring Devops best practices and implementing cultural shift within team
+• Ensuring high availability of infrastructure by continuously monitoring and improving processes
+• Architect secure cloud deployments through use of best security practices, encryption and user management
+• Propose new technology ideas to improve efficiencies in product development lifecycle
+• Create and manage IAM user accounts and role-based policies for access to AWS services
+• Automate provisioning of cloud infrastructure using Terraform/Cloudformation
+• Ran complex data queries using Athena from S3 bucket
+• Ensuring all applications and solutions deployed have a low RPO and RTO
+• Collaborated closely with product development teams and other stakeholders, using effective communication and active listening skills
+• Versed in complete software life cycle from preliminary needs analysis to enterprise-wide deployment and support
+• Active discussions and collaborations with clients on ever changing project specifications and architectures to achieve required endpoints
+• Documenting each solution and process for easy understanding, better collaboration, and easy handoff
+• Used custom Header for Cloudfront and ALB to block direct access to applications
+• Created web rules for WAF to enable security best practices
+• Whitelisted selected IPs for pen test
+• Used Packer for CIS hardening of AMIs
+• Integrated Datadog with applications for detailed monitoring
+• Used AWS Inspector to help improve security and compliance of applications deployed in the cloud
+• Used AWS Guard Duty to monitor unusual account usage using different aggregate logs
+• Perform Automatic Remediation by using AWS Config rule
+• Migrate Load Balanced Application by using Blue/Green and Canary Deployment strategy
+• Implement Scaling for RDS instance
+• Configure IPv4 and IPv6 Addressing for Linux
+• Promote Immutable versioned controlled terraform module across environments using Terragrunt
+• Used Quicksight report and Athena to analyse data and correct inaccuracy in data reports
+• Built RabbitMQ to distribute messages across consumers under high loads
+• Utilizing AWS Glue, Step Functions, and Lambda together, you can create a flexible and scalable data pipeline that automates the extraction, transformation, and loading of data. DevOps and Cloud Engineer, 01/2019 to 12/2020
+SiRF Technology Holdings, Inc – San Jose, CA
+• Create and maintain fully automated Jenkins CI/CD pipelines for code deployment
+• Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, VPC subnets, ELB
+• Autoscaling, S3, and RDS, including backups, patches, and scaling
+• Wrote Ansible playbooks in YAML
+• Installing, setting up & Troubleshooting Ansible, created and automated platform environment setup
+• Managed Git repositories and permissions, including branching and tagging
+• Integrate Sonarqube into pipeline for static testing
+• Worked closely with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance
+• Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements
+• Created Dockerfile and automated Docker image creation using Jenkins and Docker
+• Ensuring Devops best practices and implementing cultural shift within the team
+• Ensuring high availability of infrastructure by continuously monitoring and improving processes
+• Collaborated closely with product development teams and other stakeholders, using effective communication and active listening skills
+• Versed in complete software life cycle from preliminary needs analysis to enterprise-wide deployment and support
+• Reduced deployment time for critical agile project infrastructure from ~1 month to 2 days
+• Understood client needs and objectives by conducting proactive customer and data analysis
+• Monitored and tested application performance to identify potential bottlenecks, develop solutions and collaborate with developers on solution implementation
+• Participated in system development life cycle from requirements analysis through system implementation
+• Managed use of various types of databases and configured, installed and upgraded new ones
+• Partnered with infrastructure teams on evaluation and feasibility assessments of new systems and technologies
+Junior DevOps Engineer, 05/2017 to 12/2018
+T-Mobile – Dallas, TX
+• Troubleshooting, maintaining and continuously improving application infrastructure and code pipeline
+• Worked with AWS services like, EC2, S3, SQS, SWF, DynamoDB, Auto scaling, Load balancing, Cloud formation and others
+• Integrating GIT into continuous Integration (CI) environment along with Jenkins
+• Deployed and configured GIT repositories with branching forks, tagging and notifications
+• Integrated Webhook on GitHub to trigger automated build and feedback in Jenkins
+• Set up CI/CD pipeline for microservices using integrated tool like SonarQube, Nexus, Docker and Slack
+• Managed GitHub repositories and permissions, including branching and tagging
+• Maintained and configure Jenkins for continuous integration, Built Jenkins pipeline using JenkinsFile
+• Used Terraform and CloudFormation to configure and deploy resources on AWS platform
+• Ensuring DevOps best practices and implementing cultural shift within the team
+• Maintain high availability of infrastructure to improve web service
+• Created AWS accounts for teams, managing IAM roles and permission for teams
+• Writing blameless postmortem report to senior DevOps Engineer after resolving issue
+• Written Terraform Configuration scripts and CloudFormation templates to provision AWS resources.
+• Wrote bash scripts for daily maintenance, indexes and tables analyses
+• Used interpersonal and communication skills in interactions, enriching team collaborations.
+• Estimated work hours and tracked progress using Scrum methodology
+• Created proofs of concept for innovative new solutions System Administrator, 05/2015 to 03/2017
+United Consulting Group – Atlanta, GA
+• Building, configuring, patching, upgrading and troubleshooting of physical and virtual Linux servers
+(rack mounts/blades, and VMs)
+• Taking care of backup, off-site tape storage, inventory-asset management
+• Resolving and closing user reported PC problems and application issues through ticketing system
+• Supporting users in use of computer equipment by providing necessary training and advice Installing, configuring and deploying new applications to PCs & Server
+• Analyze logs to improve system and network performance, isolate and detect failures, and identify malicious activity
+• Provide operational support and performance tuning of all Linux servers and applications, including performance of daily, weekly, and monthly maintenance tasks
+• Troubleshoot network performance issues
+• Installed important security and functionality patches to maintain optimal protections against intrusion and system reliability
+• Designed proactive preventive maintenance schedules to prevent unnecessary downtime and hardware faults
+• Introduced management tools to create and manage virtual server computing environment
+• Worked with users to determine areas of technology in need of improved usability
+• Adopted cost-effective, useful solutions to implement into current systems
+• Contributed to development, administration and testing of disaster recovery plans
+• Attended meetings to deliver status reports to key stakeholders System Administrator, 02/2013 to 03/2015
+Zenith Bank Plc – Lagos, Lagos
+• Ensure High availability on all running servers
+• Reliable operation of computer systems
+• Troubleshooting, maintaining and continuously improving application infrastructure and maintain disaster recovery
+• Ensured proper documentations of system architecture and deployment
+• Supporting users in use of computer equipment by providing necessary training and advice
+• Installing, configuring and deploying new PCs & Servers
+• Set up and maintenance of PCs, printers and telephony including first level support/response (with escalation to 3rd parties)
+• Installed important security and functionality patches to maintain optimal protections against intrusion and system reliability
+• Established network specifications and analyzed workflow, access, information and security requirements
+• Provisioned new software and hardware for use, following established security policies
+• Oversaw file system and storage upgrades while safeguarding data integrity and redundancy
+• Worked with users to determine areas of technology in need of improved usability
+• Adopted cost-effective, useful solutions to implement into current systems EDUCATION
+Bachelor of Science (B.Sc): Physics, 2011
+Federal University - Nigeria
+REFERENCES
+Available upon request.
+Contact this candidate

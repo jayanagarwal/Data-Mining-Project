@@ -1,0 +1,174 @@
+Nitin Bansod
+Current Location: Austin, Tx
+Phone: +1-248-***-****
+Email: aduxr3@r.postjobfree.com
+https://www.linkedin.com/in/nitin-bansod-9a0794107/
+
+SUMMARY
+
+● IT Professional around 15+ years’ experience of which close to 5+ years in AWS in Implementing, engineering, maintaining, documenting, and training around backup, Disaster Recovery, Linux, Windows Systems Administration, AWS Cloud and VMware virtualization using VMware vSphere
+● A versatile and successful Level IT Professional with extensive experience in a wide variety of operating systems and hardware configurations who combines strong organizational and strategic skills, high technical proficiency with the ability to specify, procure, set-up and maintain sophisticated IT systems with nearly 100% up-time performance for mid/large distribution and manufacturing organizations.
+CAREER HIGHLIGHTS
+● AWS Cloud: Configure Migrate and Manage Enterprise Cloud Environments using AWS Cloud Technologies
+● Backup & DR: History of specifying and implementing the optimum IT hardware and software combinations for fast, efficient, and economical backup and recovery system solutions to a variety of industries.
+● IT Management: Minimized costs while reducing maintenance time and increasing reliability with a high performance, scalable, flexible and secure implementation and managing of backup, recovery, virtualization systems and Cloud Technologies in a variety of environments including remote offices, and data center with client-side data deduplication and energy-efficient designs.
+CERTIFICATION
+● AWS certified solutions architect associate
+● AWS certified Sysops Associate
+● Symantec Certified Specialist: NetBackup 7.5
+● Formal Training in VMWare 5.5
+● Diploma in Hardware & Networking Engineering
+● M.C.S.E (Microsoft Certified System Engineer) (Retired)
+EDUCATION
+M.S in Computer Engineering from International Technological University, San Jose California in 2012
+B.com in 2001 from Nagpur University India
+Knowledge
+Google Cloud (GCP), Python, Linux, Ansible, GitHub, MySQL, Docker, Kubernetes
+
+PROFESSIONAL EXPERIENCE
+Wipro/Apple Jul 2021 - Present
+AWS Architect
+●Worked on the Dataiku Migration project on AWS platform using EKS.
+●Created Cloudformation Template to deploy EC2 with Network Load Balancer including Security Group and EKS cluster.
+●Created Lambda function to start and stop Dataiku services and create snapshots of tagged EBS volume and send confirmation email to desired address using SES.
+●Created Automated AMI update using CloudFormation template using Rio cicd.
+●Created POC Cross Account S3 bucket Replication.
+Capital One, McLean VA Sept 2020 – Jul 2021
+AWS DevOps Architect
+• Managing Multiple AWS account in Multi region environment.
+• Taking care of day-to-day operations for AWS environment.
+• Automated windows and Linux AMI re hydration reporting using python.
+• Automated finding AWS Security Group deletion dependency using python.
+• Created python script to get the list of unused lambda functions for specific period and versions of lambda functions.
+
+TCS/AIRLIQUIDE, Radnor PA Mar 2019 – May 2020
+AWS Architect
+● Migrated AL data center on AWS Cloud with lift and shift approach.
+● Work with Firewall team to Design security group and VPC.
+● Managing around 100+ AWS accounts in different regions using AWS Organization Unit. ● Managed and Migrated MySQL DB on AWS Ec2 instances using MySQL Native tools.
+● Create and manage new AWS account and VPC using CloudFormation stacks in AWS organization via AWS CLI. ● Done POC and implemented on production for S2D cluster on AWS for file share.
+● Worked on Service Catalog to create common landing zone via AVM.
+● Done POC for cloudendure for Disaster Recovery and Migration.
+● Build real-time data analysis and warehouse solution using Kinesis, Glue, Redshift and Quick sight Dashboard for application team.
+● Implemented Scripted DR solution for AMI in Cross Account and Cross Region.
+● Implemented automated Compliance Dashboard on AWS Elasticsearch Dashboard with AWS Config with custom rules using AWS S3 DataLake.
+● Created CICD pipeline using AWS pipeline and AWS code Deploy to deploy common security group with CloudFormation on different accounts.
+● Built Jenkins pipeline to deploy Docker container using ECR.
+● Automated AWS infrastructure using Jenkins and shell & python scripts from multiple accounts using assume role.
+● Automated AMI backup and DR with Lambda Function Serverless API Framework using Boto 3 Module with python runtime.
+● Migrated springboot microservices on ECS Faregate from Docker hub.
+US Census Bureau, Greenbelt, MD Oct 2018 – Feb 2019
+Cloud Engineer
+● Design and Architect Hybrid cloud in another region including AWS and on premise storage and applications. ● Design and Architect Disaster Recovery strategy for Hybrid cloud.
+● Backup instances from AWS Gov cloud on virtual Data Domain and on S3 bucket with Netbackup and Archive on Glacier.
+● Deployed and configure Virtual Data Domain on AWS.
+● Design and VPC peering for S3 Replication for Backups using Netbackup AIR.
+● Work on day to day cloud operations including Cloudformation stacks, security groups, VPC, Application Load Balancers etc.
+● Worked with team in designing and deployment of new VPC in another region and VPC peering. ● Worked on Python scripting using Boto3 and CSV module to generate the list of Ec2 instance not included in Backup rotation.
+● Documented ConOps for Backup operation is cloud environment.
+JP Morgan Chase, Newark, DE Mar 2018 – Jun 2018
+AWS/Devops Architect
+● Designed developed and Architect on demand Desktop solution for Application Testing on AWS Cloud Platform from scratch using Terraform and powershell scripting.
+● Created a new AWS user account and associated with ssh key pair using Terraform.
+● Deployed on demand customize Enterprise AMI on AWS cloud platform using Terraform Automation. ● Automated the deployment of on Demand VPC configuration on AWS using Terraform.
+● Automated the deployment of on Demand customized Windows and Linux Desktop environments for Application Testing.
+● Automated the installation of on Demand packages in Desktop Environment using powershell / python scripting including Ansible in the Terraform Environment.
+Pfizer, Cambridge, MA Nov 2016 – Dec 2017
+AWS Architect
+● Managed a project of migration of Application and data from different storage platforms to Cloud based solution using snowball and multipart upload.
+● Reviewed, refined and suggested options for cloud platform architecture to meet customer IT infrastructure needs like high availability, high scalability and low-cost resources.
+● Developed risk assessment plan for clients planning to migrate their in-house infrastructure to AWS cloud based systems. Discussed pros and cons of various cloud models in detail.
+● Involved in designing and deploying a multitude of applications utilizing almost all the AWS stack (Including EC2, Route53, S3, RDS, DynamoDB, SNS, SQS, IAM) focusing on high-availability, fault tolerance, and auto-scaling. ● Increasing EBS backed volume storage capacity when the root volume is full using AWS EBS Volume feature. ● Build and Deployed Docker containers on AWS Fargare.
+● Created load balancers (ELB) and used AWS Route53 with failover and latency options for high availability and fault tolerance.
+● Created S3 backups using versioning enable and moved objects to Amazon Glacier for archiving purpose using life cycle policy.
+● Created users and groups using IAM and assigned individual policies to each group.
+● Created SNS notifications and assigned ARN to S3 for object loss notifications using cloudwatch and Lambda using Boto 3.
+● Good understanding of ELB, security groups, ACL, NAT, firewall, Route 53, HPC and Cloudformation. ● Created Cloud Formation Templates for future use and build environment through stacks. ● Migrated VM from Vcenter to AWS to minimize the workload of current datastore.
+Eisai, Woodcliff Lake, NJ Jan 2016 – Jun 2016
+AWS Admin
+● Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/ Red Hat/Windows) and Configuring launched instances with respect to specific applications.
+● Configured Security group for EC2 Window and Linux instances
+● Installed application on AWS EC2 instances and configured the storage on S3 buckets.
+● Performed S3 buckets creation, policies and IAM role based policies.
+● Implemented and maintained the monitoring and alerting of production and corporate servers/storage using AWS Cloud watch.
+● Worked on implementation of Data warehousing using Redshift Cluster.
+TCS (End Client Hospira), Lake Forest, IL May 2015 – Nov 2015
+Backup Admin
+● Managing 23 Remote sites and 3 Data Centers worldwide with a team of 10 people including 2 onsite. ● Configuring and maintaining complex Symantec NetBackup 7.X/6.X large scale IT Infrastructure including VMware windows cluster and Linux environment.
+● Configuring and maintaining Accelerated and Flash backup and Recovery.
+● Worked on Hobort and ops center reporting.
+● Worked on HP and IBM series Tape library including vault as well on Data Domain for disk based backup. ● Replace Tape Backups with Cloud storage.
+AtoS, Richmond, VA Aug 2014 – Apr 2015
+Backup Admin
+● Configuring and maintaining complex Symantec NetBackup 7.X/6.X including Symantec Appliances 5200/5220 ● Installed and configure NetBackup 7.6 in new environment on the Unix platform including SLP and VMWare EXS ● Worked on the capacity license and ops center reporting.
+● Worked on NetBackup deduplication appliance 5230 for puredisk storage unit.
+● Improved Operational procedures for off-sighting of tapes, and troubleshooting of backup failures. ● Configure and maintain tape vaulting.
+● Worked on shell script to perform capacity license report based on business unit.
+● Implemented Veritas Enterprise Vault 11 for archiving Microsoft Exchange and SQL server. ● Installed and configured Veritas Enterprise Vault 11
+● Installed and configured Enterprise Vault agent on NetBackup 7.6
+● Configured Enterprise Vault pre- run and post run scripts for NetBackup 7.5
+● Prepare Best practice documentation for Veritas Enterprise Vault
+EMC (End Client: Express Scripts) Remote, St. Louis, MO Jun 2014 to Aug 2014
+Storage/Backup Engineer
+● Configured DD Boost on 4 Data Domain
+● Implemented backup and Replication of Oracle RMAN to Data Domain via DD Boost.
+● Installed RMAN Plugin 1.2 on windows and UNIX and various Oracle versions including RAC. ● Migrate oracle RMAN Backup from NFS to DD Boost
+● Prepare Best Practice documentation DD Boost
+EMC (End Client: CS Star), Amarillo, TX Feb 2014 to May 2014
+Storage/Backup Admin
+● Managed Corporate Data Domain & NetBackup system with large scale environment including Active Directory, Exchange, Enterprise Vault and all operating systems including Windows 2000, 2003, 2008 and UNIX. ● Educated staff in Data Domain, features available on the DD890 with DDOS 5.0, Replication, Snapshots, and Cleans
+● Troubleshooting NBU operational issues relating to backups/restores.
+● Setting up new hosts for Storage Provisioning and assigning storages to the host
+● Working on Migration of backups from Celera to Isilon.
+EMC (End Client: Grainger), Chicago, IL Sep 2013 to Jan 2014
+EMC Residence Engineer
+● Analyzed 5 Data Domains 890 Backup infrastructures and provided Best Practice recommendations for efficiency improvements
+● Upgraded Data Domain OS from 5.3 to 5.4
+● Migrated RMAN and EXADATA Backup from Tape to Disk using DDBoost.
+● Implemented DDBoost for RMAN Backup and Replication.
+● Outlined a test plan for DDOS 5.4, to test MTree groupings for Oracle RMAN Backups.
+● Documented Oracle RMAN Data Domain Infrastructure via Visio, including exported NFS paths, and planned Replication Contexts
+HCL America (End Client: Disney), Orlando FL & Kings Mountain, NC May 2012 Sep 2013
+Backup Engineer
+● Configuring and maintaining Symantec NetBackup 7.X/6.X and TSM large scale IT Infrastructure including VMware EXS
+● Provided training to Data Center Operations staff, local staff at international sites, and other team members to assist with backup related errors, and Day to Day operations of the Backup environment.
+● Worked on BCV, Mastro and NDMP Backup
+● Troubleshooting NBU and TSM operational issues relating to backups/restores.
+● Adding and configuring new Windows, Unix different flavored clients.
+● Using Service Manager tool for ticket management and creating Changes, Incidents.
+● Managing backup policies, volume pools for daily, weekly & monthly backups.
+● Managed Corporate Data Domain & NetBackup system with large scale environment including Active Directory, Exchange, Enterprise Vault and all operating systems including Windows 2000, 2003, 2008 and different UNIX flavored.
+● Take Active part in Transaction Process, Runbook preparation and migration of Data center from Columbus Ohio to Kings mountain NC.
+SUN SYSTEM TECHNOLOGIES PVT LTD/IMTNagpur Maharashtra India Nov 2007 to Mar 2009
+System Admin
+● Administration of Netbackup Enterprise Server 6.0 MP's and 6.5 and MP2.
+● Provide reports for the entire backup and tape media and responsible for tracking the tape media from vaulting site.
+● Restore files and monitor restore jobs.
+● Installing ESX and ESXi servers on HP, DELL and IBM hardware, Installation of vCenter Server, vCenter components and upgrading VMware Tools.
+● Updated Firmware and ProLiant Support Pack for Windows 2000/03 servers.
+● Design, Implementation of Active Directory infrastructure and Network fundamentals, protocols (such as TCP/IP, DHCP, DNS), Group Policy and Profile Management.
+● Manage users and share permissions.
+● Maintained Web Servers by installing IIS 6 and 7, FTP Sites and creating Virtual Directories in IIS6 and IIS7. ● Building ESX 3.5/4.0 Host and maintain those ESX servers through VI Client.
+● Taking care of capacity planning for new clusters, ESX and VM storage issues.
+PROGRESSIVE INFOTECH PVT LTD Noida Uttar Pradesh India/Nagpur India Dec 2005 to Oct 2007.
+System Admin
+Client: DABUR INDIA LTD., Nagpur
+● Installation & troubleshooting of Microsoft Operating Systems
+● Configuring Outlook Express
+● Administration of Network Users and Shares
+● Configuration of Local Area Network
+● Installation of SAP Client.
+Client: AMWAY, Nagpur
+● Installation & troubleshooting of Microsoft Operating Systems
+● Administration of Network Users and Printers
+Client: INDORAMA, Nagpur.
+● Installation & Configuration of HP Blade Server with Hardware RAID
+Projects: -
+1) Indian Judiciary.
+At this site Company provides 200 laptops with RHEL 5 where we installed configured and maintained all the laptops at various locations including their hardware.
+2) Indian Post Office.
+At this Site Company provides 40 HP Prolaint ML 350 servers with Windows 2003, HP Desktops with Windows XP & 16 port switches at various locations where we installed configured and maintain them including Hardware & Software.
+SAHARA INDIA LUCKNOW Uttar Pradesh India/ Kanker Chhattisgarh, India Sep 2004 to Sep 2005.
+Computer Asst.
+● Attend Desktop Calls at Various Branches in the RO regarding Hardware & Network issue.
+Contact this candidate

@@ -1,0 +1,93 @@
+Chainomi Fregene, P.Eng
+ad4402@r.postjobfree.com 832-***-**** Houston, TX
+DevOps Engineer
+Proactive, analytical and resourceful DevOps Engineer with extensive hands-on experience designing, automating and optimizing resilient, secure and highly available large-scale cloud infrastructure using industry both leading open source, Amazon Web Services (AWS) and Google Cloud Platform native tools in a large enterprise environment with disaster recovery options in production. Exhibits the ability to multi-task, excellent technical, problem solving, communication and excellent interpersonal skills. Thrives autonomously or in an Agile (Scrum) team. Core Technical Skills
+CI/CD: Jenkins, Team city
+CMS: Adobe experience
+manager (AEM), WP engine
+Containers: Docker, AWS
+ECS (Fargate), EKS, GKE
+Linux: CentOS, Ubuntu, Red
+Hat
+Windows: Windows server
+Orchestration: Kubernetes
+Cloud Services: AWS, GCP
+CDN: Cloud Front, Akamai,
+Fastly
+IaC: Terraform,
+CloudFormation
+Monitoring: Prometheus alert
+manager, Status cake, New
+Relic, Datadog
+Configuration: Ansible
+Logging: ELK, Splunk,
+Sumologic, Cloud watch,
+Version Control: Git
+Scripting: Bash, Python
+Databases: sql, postgres sql,
+mongodb, dynamodb
+Professional Experience
+nfinite Houston, TX (Remote) 08/2022 – Present
+Senior DevOps Engineer
+Focus in this role is to collaborate with platform development team in software release/ deployment to GCP hosted services.
+• Setup and managed cloud infrastructure using Terraform o Infrastructure includes Google compute engine, Kubernetes engine (GKE), Cloud Storage, Cloud Run, VPC.
+• Setup and managed CICD pipelines using Gitlab CI and Github actions.
+• Deployed complex network cloud infrastructure to connect with on prem servers using VPC peering, shared VPC, HA VPN, cloud routers, etc.
+• Deployed static websites using Cloud Storage buckets and Fastly (CDN).
+• Containerized and deployed frontend and backend apps (Python, Golang, Nodejs to Google Kubernetes Engine (GKE) using Helm.
+• Setup, administer and manage databases – Cloud SQL (MySQL, Postgres)
+• DNS and certificate management of domains using services using Cloudflare and Fastly
+• Managed IAM permissions to folders and projects using Google groups and organization policies.
+• Documentation of change and processes.
+• Helped developers troubleshoot and resolve issues (deployment, operations, etc) on various client environments (Dev., UAT and Prod.).
+Critical Mass/ Omnicom Houston, TX (Remote) 09/2018 – 08/2022 Senior DevOps Engineer
+Focus in this role is to collaborate with and support various teams (development and QA) in software release/ deployment to AWS hosted services for multiple clients.
+• Setup and configured content delivery network’s (CDN) like Akamai, Fastly & AWS cloudfront for clients to ensure high availability, low latency and improve website security.
+• Setup and manage CICD pipelines using CICD tools like Teamcity, Jenkins, Bitbucket pipelines, AWS code build & deploy.
+o Use scripting (bash, Python, Jenkinsfile) to automate CICD process and to push code from repository to various AWS services – EC2 (instances & auto-scaling groups), ECS & EKS clusters, Lambda, S3 buckets (static hosting) etc. o Setup development tools like Sonaque, Sonatype Nexus Repo for CI. o Deploy .Net (dot net) apps to VM’s / containers using Visual studio and MS build tools.
+• Setup and administer Atlassian cloud software suites (Jira, Confluence and Bitbucket) for clients to increase productivity in development. Use Jira/ Confluence for tickets and change management
+• Deployed Java, Python, Nodejs based REST API’s to AWS lambda (with AWS API Gateway in front) using the serverless framework.
+o Secured REST API’s (API Gateway, AppSync) with OpenID, AWS cognito IDP or Lambda Authorizers.
+• Setup, administer and manage databases – AWS RDS (MySQL, Postgres), Dynamodb, Redis elasticache, Redshift.
+• DNS and certificate management of domains using services like AWS Route 53.
+• Setup and administer CMS (content management system) like Adobe experience manager for clients.
+• Improve security using WAF’s, whitelisting, IAM roles and policies etc.
+• Setup and administer monitoring and log aggregation for webservers/ API’s. Tools included AWS cloud watch, cloud trail, Sumologic, Newrelic, Status Cake, Prometheus alert manager.
+• Documentation of change and processes.
+• Troubleshoot and resolve issues (deployment, operations, etc) on various client environments
+(Dev., UAT and Prod.).
+Weatherford International, Edmonton, AB 09/2015 – 08/2018 Lead DevOps Engineer – ForeSite (Production Optimization) Focus in this role is to collaborate with various teams to evaluate, assess and gain insight into the existing architecture of our enterprise servers. Design and develop ways to continuously improve our software releases using CI/CD pipelines by integrating tools such as Git, Jenkins, Ansible, Docker and Kubernetes throughout the software development lifecycle (SDLC). Also creating highly available, high quality, secure and resilient solutions with a DevOps mindset to create a positive impact and meet the business’ ‘Digital Transformation’ objectives.
+• Worked on the containerization of a monolithic web application, ‘Cadence’ used by field engineers into several microservices using Docker containers to improve release times. DevOps automation of large containerized applications into the cloud.
+• Developed a fully functional continuous integration, continuous delivery and deployment pipeline for Cadence using GitHub for source code management, Maven for builds, Jenkins for continuous integration, Ansible for configuration management and deployment to a Kubernetes cluster.
+• Employed the use of Elastic Kubernetes Service (EKS) to manage a cluster of nodes at scale.
+• Utilized Prometheus and Grafana dashboards for monitoring Kubernetes clusters.
+• Managed software releases/updates across various git repos and ensured builds were constantly being triggered in Jenkins.
+• Working with various webservers such as Apache, Tomcat, Nginx and IIS.
+• Reduced costs and improved efficiency by employing the use of CloudFormation and Terraform to provision infrastructure on AWS cloud.
+• Utilized Elastic Beanstalk to deploy RESTful web applications using Java Spring Boot as the backend and React as the frontend.
+• Using ELK stack and AWS CloudWatch to manage, analyze and visualize logs.
+• Utilized AWS S3 to launch static websites and store critical data such as Terraform state files.
+• Designing several highly available and fault-tolerant architecture for cloud migration to AWS consisting of several EC2 instances baked into Packer built AMIs with appropriate security groups, and IAM roles in an autoscaling group behind Elastic Load Balancer (ELB) in a VPC. Weatherford International, Edmonton, AB 05/2014 – 09/2015 Systems Administrator - ForeSite (Production Optimization) Day to day systems administration tasks. Responsible for building, maintaining, monitoring, applying OS patches and troubleshooting several servers on Linux and Windows Operating Systems.
+• Provided on site installations and technical support for Linux workstations
+• Managed Relational SQL Databases (Postgres, MariaDB and MySQL) and NoSQL databases
+(MongoDB) in collaboration with the Database Administrators (DBA).
+• Performed server management tasks such as package installations and patch updates.
+• Developed proficient knowledge of internet protocols such as HTTP, HTTPS, FTP, SFTP, SSL and TLS.
+• Adhered to best practices in the implementation of strict governance policies and procedures regarding network usage and illegal use of non-standard software.
+• Resolving all IP network issues encountered in a timely and efficient manner.
+• Administration and management of group and user accounts with appropriate permissions in compliance with company policy.
+Weatherford International, Edmonton, AB 09/2007 – 05/2014 Global Project Manager/ Technical Advisor (Artificial Lift Systems) Filled a multi-functional role with full accountability for technical consulting/ support of global oil field equipment and serving as a technical resource to global field operations in numerous regions. Manage multiple projects (capital), start-up involving manufacturing of oil field service equipment for various regions in numerous field locations with safety as a key focus. Supported and trained stake holding staff in technical troubleshooting and servicing equipment. Worked on equipment management of change (MOC) requests, reviewed design change, ensuring feasibility and alignment to applicable industry standards and codes (API, ISO, OH&S, OSHA, etc.)
+• Manages and plan product line capital projects (medium size) from start to completion. Project management
+• activities included project plan (scope, deliverables, milestone, KPIs, risk assessment), scheduling, budgeting (forecasting), cost control, prototype testing, communicate status to all business stakeholders, etc.
+• Delivered all projects on time and under budget
+• Troubleshoot, investigate and effectively provided solutions to equipment failures (hydraulic, electrical and mechanical)
+• Developed equipment related documentation (SOPs, Bulletins, Work Instructions, maintenance procedures, etc.).
+Education
+Bachelor of Science, Mechanical Engineering
+University of New Orleans – New Orleans, LA
+Professional Certifications
+• Professional Engineer - APEGA
+• Project Management & Leadership certificate – Northern Alberta Institute of Technology (NAIT)
+• AWS Certified Solutions Architect Associate
+• Certified Kubernetes Administrator (CKA)
+Contact this candidate

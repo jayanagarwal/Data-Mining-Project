@@ -1,0 +1,41 @@
+SUMMARY
+I am a full-stack developer who crafts engaging UIs with React and JavaScript, blending a passion for data visualization with a knack for building intuitive, user-centric interfaces. I have a strong track record of both leading and being part of teams that deliver scalable, data-driven solutions, always with an emphasis on clarity and smooth collaboration in agile settings. Whether it's designing an interactive dashboard or streamlining complex workflows, I aim to create tools or web apps that feel simple. Where possible, I try to incorporate ‘observability’ to allow for a seamless integration with SRE teams.
+Languages: React, JavaScript, React, Jest, Node, Python, Java8, SQL, Snowflake, Canvas, D3.js Techniques: Data Visualization, Statistics, ETL, NLP, Data Science, REST, Microservices Tools: GTM, Datadog, Observability, SDET, CICD, Docker, Git, Terraform, Jenkins, Studying: Databricks, Huggingface
+Lead Developer, DispenseGo Aug 2023
+Aug 2023 – Present
+DispenseGo is a pre-public startup developing a networked vending machine system for the marijuana industry.
+● Leading an offshore team to build a scalable TypeScript/React site using responsive design principles.
+● Designed a GCP datastore ( Snowflake) for the backend infrastructure using REST techniques.
+● Creating an NLP-powered synonym detector to improve product suggestions in our search mechanism (e.g., suggesting ‘sativa’ vs ‘indica’ products).
+● Developed embedded Python software for vending machines.
+● Integrating third-party APIs like AeroPay (for payments) and Idenfy (for identity verification).
+● Overseeing the implementation of the Python-based RESTful layer to ensure seamless API communication.
+CONTRACTOR, Lululemon
+Jan 2022 – Aug 2024
+Worked with Lululemon’s Marketing Technology and Personalization teams.
+● Spearheaded the implementation of Datadog, ensuring smooth data flow worth millions of dollars daily, and reduced the mean time to issue discovery from a week to a day.
+● Built a canvas-powered dashboard to monitor site dependencies, using a time-series process control system to detect telemetry issues in real time.
+● Merged client-side telemetry with AWS TimeSeries Datastore, streaming relevant user actions from JavaScript into an EC2-based Java server.
+● Designed an Akamai Edge-powered mechanism to personalize product recommendations based on local weather data, powering Contentful CRM per session.
+● Contributed to a vector ML inference engine backed by AWS DynamoDB, influencing Lululemon’s search and recommendation strategy.
+● Created a tool for Lululemon’s SEO team to organize the product catalog into targeted advertising buckets.
+● Helped transition the Adobe Launch EDDL system to Google Tag Manager.
+● Worked across the stack with Node, Python, Java, React, TypeScript, AWS Cloud, Akamai Edge, CI/CD, and unit testing.
+Senior Technical Consultant, Perficient
+Sept 2019 – Jan 2022
+Perficient is a leading consulting firm where I held multiple roles, including team lead and individual contributor. My favorite aspect of my time at Perficient was traveling to our clients to work directly with them.
+● Led frontend development for a financial services client, reducing loan issuance time from 30 minutes to 5 minutes through workflow automation.
+● Directed daily team meetings and coordinated cross-functional teams to meet expectations and deliverables.
+● Led the development of ‘RETower,’ a d3.js/canvas-based visualization tool used to assess and apportion risk in the Reinsurance industry.
+● Worked with a team to modernize BCBS Florida’s payment processing system. Developer, Cambia Health Solutions
+2011 - 2019
+Cambia is part of the Blue Cross Blue Shield family of health insurance companies. This role introduced me to the power of data science in uncovering hidden insights within large datasets.
+●Developed a fuzzy market segmentation engine for targeted email campaigns, combining behavior data with insurance claims.
+●Explained complex mathematical concepts to stakeholders, ensuring alignment and clarity.
+●Built a Java & Python Microservices API to merge data streams and used KNN to organically group customers.
+●Built and deployed any number of Docker containers up in AWS EC2 instances
+●Created an interactive data visualization UI and testing mechanisms for ML processes using canvas and d3.js.
+●Implemented PHI/PII-compliant communication tools using AWS, and developed a React front-end for market-segmented messaging.
+●Automated QA processes, including log parsing for error-trending graphs and site-wide crawlers to check for broken links and content issues, using SpringBoot
+●Led the development of a shared decision-making tool using Sankey diagrams (d3.js) to visualize health outcomes, collaborating with cross-functional teams.
+Contact this candidate

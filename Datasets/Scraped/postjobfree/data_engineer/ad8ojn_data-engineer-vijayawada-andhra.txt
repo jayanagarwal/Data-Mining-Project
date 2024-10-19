@@ -1,0 +1,154 @@
+Data Engineer
+Name: Nishitha
+Email: ad8ojn@r.postjobfree.com
+Phone No: +1-224-***-****
+LinkedIn: https://www.linkedin.com/in/vinishitha/
+SUMMARY
+Data Engineer with 8+ years of experience in Agile and Waterfall methodologies. Adept at leading data teams and making significant contributions to efficient data engineering.
+Proven expertise in Java, Python, Scala, SQL, Git and R with a track record of implementing, testing, and documenting major components of the Spark and Hadoop Ecosystem
+I have good experience in spark core, spark SQL and spark streaming.
+Familiar with data processing performance optimization techniques such as dynamic partitioning, bucketing, file compressions and cache management in Hive, Impala and Spark.
+Proficient in managing data science project life cycle and actively involved in all phases of project life cycle including data acquisition, data cleaning, engineering, feature scaling, feature engineering, statistical modelling (decision trees, regression models, neural networks, support vector machines, clustering), dimensionality reduction using Principal component Analysis and Factor Analysis, testing and validation using TOC plot, k-fold cross validation and data visualizations.
+Experience in using data from multiple sources and creating reports with Interactive Dashboards using power BI and Tableau.
+Experience in developing Hadoop based applications using HDFS, MapReduce, Spark, Hive, Sqoop, HBase and Oozie.
+Hands on experience in Architecting Legacy Data Migration projects on - premises to AWS Cloud.
+Wrote AWS Lambda functions in python for AWS's Lambda which invokes python scripts to perform various transformations and analytics on large data sets in EMR clusters.
+I have good experience in writing Python scripting language and using its various packages like Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, pytest.
+Experience in building and optimizing data pipelines, architectures, and data sets.
+Hands on experience on tools like Hive for data analysis and Sqoop for data ingestion and Oozie for scheduling.
+Experience in using object-oriented programming (OOP) concepts in Python, Java and Scala.
+
+SKILLS
+Programming Languages Python, Java, Scala, R, SQL, MySQL, SAS, Bash/Shell, Linux/Unix
+Big data Stack Spark, Hadoop, Kafka, Airflow, Pig, Yarn, Zookeeper, Oozie, Hive,
+Technologies AWS, GCP, Azure, Git, Bitbucket, Jenkins (CI/CD), JSON, Confluence, Sentry.
+Software/Tools Terraform, Jenkins, Docker, Kubernetes, JIRA
+Visualization Stack Tableau, Python (matplotlib, seaborn), R (plotly, ggplot2), MS Excel, Power BI, QlikView, Informatica
+Databases Oracle (PL/SQL, SQL), DB2, Netezza, PostgreSQL, Mongo DB, Snowflake
+
+PROFESSIONAL EXPERIENCE
+Data Engineer, PayPal, Chicago, IL. Dec 2020 - Present
+Designed full stream data engineering ETL pipelines for data ingestion, transformation, and analysis with Spark SQL in AWS EMR.
+Designed and implemented big data ingestion pipelines to ingest multi-TB data from various data source using Kafka, Spark streaming including data quality checks, transformation, and stored as efficient storage formats into S3 buckets from internal servers and snowflake data warehouse.
+Performing data wrangling on multi-terabyte datasets from various data sources for a variety of downstream purposes such as analytics using PySpark.
+Built, maintained, scaled and supported 20+ data pipelines automated by Airflow and schedule log collection, monitoring, and alerting for data pipelines and reports, improving reliability for historical and incremental loads.
+Implemented various data checks for pipelines ensuring clean/transformed data which is ready for analysis or reports. Experienced in turning business requirements into a demonstrable proof of concept, packaging, deploying and discussing its added value to the organization
+Experienced in using best practices to understand the data and develop statistical and analytical techniques to build models that address business needs.
+Perform data manipulation, data preparations, normalizations and predictive modelling. Improve efficiency and accuracy by evaluating models in Python and R.
+Worked on customer segmentation based in machine learning and statistical modeling effort including building predictive models and generating data products to support customer segmentation.
+Performed fee analytics on fee data for merchants by applying machine learning techniques.
+To analyze the data vastly used Athena to run multiple queries on processed data from Glue ETL Jobs and then used Quick Sight to generate Reports for Business Intelligence
+Created data visualization reports for the management using Matplotlib, Tableau and help business to take critical decisions.
+Fine-tuned Spark applications to handle large volumes of data to reduce processing time by 30% and improve processing speed. Provided on-call support for critical issues ensuring compliance with SLAs, identify and conducted postmortems to troubleshoot data incidents.
+Analyzed transactional data and deployed various validations to proactively identify anomalies and improved discrepancy suppression by 100% ensuring on time merchant reconciliation with funding sources written in Scala and Python using Spark.
+Worked on CI/CD and Jenkins changes to introduce SonarQube code analysis to the Repositories. Created Jenkins shared components library to introduce DRY concept in CI/CD pipelines
+Design and Develop ETL Processes in AWS Glue to migrate data from external sources like Amazon Simple Storage Service (Amazon S3), Parquet/Text Files into AWS Redshift and Dynamo DB
+Led multiple data migration projects and actively contributed to a culture of continuous improvement by sharing best practices, conducting code reviews, and mentoring junior team members
+Created AWS Glue crawlers for crawling the source data in S3 and RDS. Created multiple Glue ETL jobs in Glue Studio and then processed the data by using different transformations and then loaded it into S3, Redshift and RDS.
+Written PySpark job in AWS Glue to merge data from multiple tables and in utilizing Crawler to populate AWS Glue data Catalog with metadata table definitions.
+Used AWS glue catalog with crawler to get the data from S3 and perform SQL query operations using AWS Athena. Used AWS Glue for transformations and AWS Lambda to automate the process. Used AWS EMR to transform and move large amounts of data into and out of AWS S3.
+Used AWS EMR to transform and move large amounts of data into and out of other AWS data stores and databases, such as Amazon Simple Storage Service (S3), Amazon DynamoDB, Redshift.
+Created monitors, alarms, notifications and logs for Lambda functions, Glue Jobs using CloudWatch.
+Worked on migrating data from data lake to GCP cloud storage. Extracted meaningful insights using Big Query and executed the pipelines in Data Flow. Scheduled allocated resources to run the jobs using Data proc.
+Hands in experience with GCP services in Database, containers, compute, Store etc., with comfort in GCP serverless technologies.
+Scheduled 3-way monthly reconciliations in GCP Cloud Dataproc to handle tera bytes of transactional data and its fee associated to perform transformations and deployed Airflow DAG’s that runs on 4th business day/IC Day of each month.
+Loading Paypal’s transactional data every 15 min on incremental basis to big query raw and UDM layer using SOQL, Google DataProc, GCS bucket.
+Environment: Java, Python, Scala, SQL, Spark, SQL, MySQL, Bash/Shell, Linux/Unix, Oracle, Hive, Data Lake, PostgreSQL, MongoDB, NoSQL, Hadoop, HBase, Kafka, SQL server, UNIX Shell Scripting, AWS Services, Redshift, EMR, S3, Glue, Athena, GCP BigQuery, Pub/Sub, Dataproc, GCS bucket, git, Github, Terraform, Jenkins, Machine Learning (ML).
+
+Data Engineer, Verizon Communications, Ashburn, VA. Mar 2020 – Nov 2020
+Identified data gaps and developed data quality frameworks and automated data validation processes to ensure data accuracy, completeness, and consistency up to 90%
+Developed 3 Machine Learning models and statistical modelling platforms
+Designed and setup Enterprise Data Lake to provide support for various uses cases including Storing, processing, Analytics and reporting of voluminous, rapidly changing data.
+Conducted exploratory data analysis and data visualizations using Python (Matplotlib, NumPy, pandas, seaborn).
+Using Azure PaaS service, analyze, create and develop modern data solutions that enable data visualization.
+Using Linked Services/Datasets/Pipeline created pipelines in ADF to extract, transform and load data from various sources such as Azure SQL, Blob storage, Azure SQL data warehouse, write back tool and backwards.
+Extract Transform and Load data from Sources Systems to Azure Data Storage services using a combination of Azure Data Factory, T-SQL, Spark SQL and U-SQL Azure Data Lake Analytics. Data Ingestion to one or more Azure Services - (Azure Data Lake, Azure Storage, Azure SQL, Azure DW) and processing the data in Azure Databricks.
+Developed ETL pipelines in and out of data warehouse using a combination of Python and snowflakes snow SQL, by writing SQL queries against Snowflake.
+Created Linked service to land the data from different sources to Azure Data Factory. Created different types of triggers to automate the pipeline in Azure Data Factory.
+Created, provisioned different Databricks clusters needed for batch and continuous streaming data processing and installed the required libraries for the clusters.
+Very Good experience working in Azure Cloud, Azure DevOps, Azure Data Factory, Azure Data Lake Storage, Azure Synapse Analytics, Azure Analytical services, Azure Cosmos NO SQL DB, Azure HD Insight Big Data Technologies (Hadoop and Apache Spark) and Data bricks.
+Ingested data in mini-batches and performs RDD transformations on those mini-batches of data by using Spark Streaming to perform streaming analytics in Data bricks.
+Automated jobs using different triggers (Event, Scheduled and Tumbling) in Azure Data Factory.
+Created numerous pipelines to get the data from disparate source systems by using different Azure Activities like Move &Transform, Copy, filter, for each, Databricks etc.
+Maintain and provide support for optimal pipelines, data flows and complex data transformations and manipulations using ADF and PySpark with Databricks.
+Automated jobs using different triggers like Events, Schedules and Tumbling in Azure Data Factory. Created, provisioned different Databricks clusters, notebooks, jobs and autoscaling.
+Performed data flow transformation using the data flow activity. Used Polybase to load tables in Azure synapse. Implemented Azure, self-hosted integration runtime in Azure Data Factory.
+Developed real-time streaming applications integrated with Oracle DB to handle large volume and velocity data streams in a scalable, reliable and fault tolerant manner for Confidential Campaign management analytics
+Design and developed batch processing and real-time processing solutions using ADF, Databricks clusters and stream Analytics
+Created numerous pipelines to get the data from disparate source systems by using different Azure Activities like Move &Transform, Copy, filter, for each, Databricks etc.
+Automated jobs using different triggers like Events, Schedules and Tumbling in ADF.
+Designed and developed a new solution to process the NRT data by using Azure stream analytics, Azure Event Hub and Service Bus Queue.Created Linked services to connect the external resources to ADF.
+Worked with complex SQL views, Stored Procedures, Triggers, and packages in large databases from various servers.
+Used Azure DevOps & Jenkins pipelines to build and deploy different resources (Code and Infrastructure) in Azure.
+Worked on data collection from various sources and moved it to storage and processing units to perform analysis, data validation and data extractions.
+
+Environment: Scala, Java, Python, SQL, R, Snowflake, Machine Learning Models, Bash/Shell, Linux/Unix, Oracle, Hive, Data Lake, Azure Cloud, Azure Cosmos DB, Azure Event Hub, Azure Cosmos DB, Azure Stream Analytics, Azure Event Hub, Spark, Hadoop Azure Databricks, Blob Storage.
+
+Data Engineer, Cox Communications, Atlanta, GA. Jan 2017 – Feb 2020
+Located, extracted, manipulated, built and deployed various time series models to predict future utilization capacity of customer-nodes, outperformed existing statistical method (Compounded Annual Growth Rate) with an overall 3% MAPE, which indeed advocated to upgrade using ML model over statistical model
+Deployed various live Tableau dashboards and data visualization reports by Matplotlib for stakeholders
+Developed Spark -Scala based Analytics and Reporting platform for the Confidential and Fido Customer Cross Channel Analytics with daily incremental data upload.
+Implemented a batch process to load the heavy volume data loading using Apache Dataflow framework using Nifi in Agile development methodology.
+Implemented Data Lake to consolidate data from multiple source databases such as Exadata, Teradata using Hadoop stack technologies SQOOP, HIVE /HQL.
+Written Oozie classes for moving files and deleting the files. Configured the Jar’s in the oozie workflows.
+Validated Hadoop jobs like MapReduce, Oozie using CLI. Able to handle the jobs in HUE too.
+Deployed these Hadoop applications into the Development, Stage, and production Environments.
+Created Databases and tables in Netezza for storing the data from Hive. Used Spark for aggregation data from Netezza.
+Extensively used Spark and created RDD’s and Hive Sql for the Aggregating the data. Excellent understanding of Spark Architecture and framework, Spark Context, APIs, RDDs, Spark SQL, and Data frames, Streaming.
+Used Putty for connecting to Hadoop cluster and running the different jobs in CLI.
+Given demos to client on this application. We have used Agile Methodology for developing this application, participated in daily stand ups and actively involved in client review meetings and Sprint/PSI Demo’s.
+Developed Scala scripts, UDFs using both Data frames/SQL and RDD/MapReduce in Spark for Data Aggregation, queries and writing data back into HDFS system through Sqoop.
+Developed Spark data pipeline jobs to perform transformations and to pre-process files which can handle large number of small files.
+Data discovery and validation using Zeppelin, Presto and data direct Stylus Studio tools
+Implemented ETL jobs using Nifi to import from multiple databases such as Exadata, Teradata, MS-SQL to HDFS for Business Intelligence (Micro Strategy and SAS), visualization and user report
+Developed complex integration of external sources such as Google API, Salesforce API, and Environics to land the data into Hadoop platform using different data ingestion tools such as SQOOP, Nifi, and Informatica BDM.
+Worked on resolving big file OOM and performance issues by optimization executor and driver memory on EMR.
+Worked extensively on Kafka producer and consumer to split the data depending on individual customer and consume using Spark Streaming to process the customer’s transaction data on daily basis.
+Designed and implemented Big Data analytics platform for handling data ingestion, compression, transformation and analysis of 30+ Internal and external sources.
+Designed highly efficient data model for optimizing large-scale queries utilizing Hive complex datatypes and Parquet file format.
+Environment: Python, R, Scala, Hive, Druid, Unix shell, Apache Spark 2, Spark Streaming, Machine Learning (ML), Nifi, Kafka, Hortonworks 2.2, Docker, Atlas, Apache Ranger, Spring, Spring Boot, Druid, Jira, confluence, Google Cloud, GITHUB, SourceTree, Eclipse IDE, IntelliJ IDE, Maven, SBT, Micro Strategy, SAS, Informatica, Zeppelin, Presto.
+
+Concise Technologies- Hyderabad, India Oct 2014 to Jul 2016
+Python Engineer
+Responsibilities:
+Gathered, analyzed, and translated business requirements to technical requirements, communicated with other departments to collect client business requirements and access available data in Oracle using SQL.
+Acquiring, cleaning and structuring data from multiple sources and maintaining databases/data systems. Identifying, analyzing, and interpreting trends or patterns in complex data sets
+Develop, prototype and test predictive algorithms. Filtering and cleaning data, review reports and performance indicators
+Developing and implementing data collection systems and other strategies that optimize statistical efficiency and data quality
+Create and statistically analyze large data sets of internal and external data
+Kafka was used as message broker to collect large data and to analyze the collected data in the distributed system.
+Used Machine Learning (Liner Regression) to extrapolate the driver’s interface curve to be used for final emission calculations.
+Implemented and enhanced CRUD operations for the applications using the MVC architecture of Django framework and conducted code reviews.
+Involved in peer code reviews and performed integration testing of the modules.
+Written PL/SQL Packages, Stored procedures, Views and Functions at the Oracle database.
+Deployed Django web application in Apache webserver and carpathia cloud web deployment. Used Python Data structures like lists, dictionaries, tuples
+Created tables, data manipulation and retrieval using Oracle and DB2.
+Developed API modularizing existing python module with the help of pyyaml libraries.
+Designed and configured database and back-end applications and programs.
+Designed and developed middleware, using RESTful web services based on a centralized schema which is consumed by thousands of users. Worked on Python Modules and Packages.
+Deployed Django web application in Apache webserver and carpathia cloud web deployment.
+Created/maintained application developed on Java. Created API’s using Spring boot/ J2EE.
+Developed user interface using CSS, HTML, JavaScript and JQuery. Created entire application using Python, Django, MySQL and Linux.
+Designed and implemented a dedicated MYSQL database server to drive the web apps and report on daily progress.
+Developed the CRM website by developing prototypes for commercial use for NSN operations for their customers to interact through their website which helped the company to increase productivity by 59% by using Django framework and python.
+Analyzed the customer and sales order data by performing statistical analysis, using propensity modeling and customized the marketing campaign using Python (numpy/scipy/matplotlib, sk-learn). Provide data-driven insights to key-decision makers regarding customer purchase decisions, buying behavior and patterns, understanding product gaps and driving decision making in these areas.
+Participated in Designing databases (schemas) to ensure that the relationship between data is guided by tightly bound Key constraints.
+Writing PL/SQL stored procedures, function, packages, triggers, view to implement business rules into the Application level.
+Extensive used Python in Data Definition, Data Manipulation, Data Query and Transaction Control Language
+Implemented extensive set of features in the application using PyGTK, Python
+Technical experience with LAMP (Linux, Apache, MySQL, PYTHON) architecture.
+Implemented version control from scratch for the application using GIT.
+Involved in various phases of the project like Analysis, Design, Development, and Testing.
+Wrote scripts in Python for Extracting Data from HTML file and used Git for the version control.
+Designed and developed components using Python/ Redhat Linux.
+As a Python Developer, I designed and developed Use-Case Diagrams, Class Diagrams, and Object Diagrams using UML Rational Rose.
+Performed bash scripting to automate the data loading into the database.
+Experienced in writing JUnit test cases for testing.
+Helped in creating Splunk dashboard to monitor MDB modified in the project.
+Written Spark applications using Scala to interact with the PostgreSQL database using Spark SQL Context and accessed Hive tables using Hive Context.
+Involved in designing different components of system like big-data event processing framework Spark, distributed messaging system Kafka and SQL database PostgreSQL.
+Implemented Spark Streaming and Spark SQL using Data Frames.
+I have integrated product data feeds from Kafka to Spark processing system and store the order details in PostgreSQL database.
+Created multiple Hive tables, implemented Dynamic Partitioning and Buckets in Hive for efficient data access. Worked on scheduling all jobs using Oozie.
+Environment:Python 2.7, R, Flask, SQL, MySQL, SQLite, Windows, Linux, HTML, CSS, JQuery, Apache, Linux, Javascript, UML, Multithreading, HTTP, bash/Shell Scripting, PL/SQL, Python, Django, JavaScript, XML, Web services, IBM MQ, PL/SQL, WebSphere, RAD 7.0, Oracle 10g, DB2, MySQL, ORM, SVN, GIT.
+Contact this candidate

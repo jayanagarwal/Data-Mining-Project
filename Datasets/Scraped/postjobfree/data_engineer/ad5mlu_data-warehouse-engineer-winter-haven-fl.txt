@@ -1,0 +1,61 @@
+Keiny J. Grau-Ortiz
+Data Engineer
+Winter Haven, FL 33884 863-***-****
+ad5mlu@r.postjobfree.com https://www.linkedin.com/in/keiny-grau-8b548014a Work Experience
+SQL ETL Developer Apr 2018 - Apr 2024
+Citigroup [Tampa FL]
+● Analyze data using tools like tableau and Power Bi to build data solutions for Senior Management to make decisions.
+● As a SQL database developer, optimized queries, created new ones, and maintained the database structure using ETL strategies via SSIS, SQL Server, and Azure.
+● Create data warehouses from beginning to end, including getting the business requirements, analyze the data sources, build the models, choose the best schema for the data warehouse, ETL tools, databases, metadata and access tools to use. - Work in Azure SQL databases retrieving information through T-sql queries Create jobs in Azure Data Factory to copy data and other activities between various sources to the database. Migrate existing ETL from on-premise data warehouse to the cloud.
+● Identify master data distributed in multiple databases and use MDS to keep the data up to date. Use the Configuration manager to specify the setting during the installation and create the web application used by administrators and users. Use SSIS to load data into the staging tables in the MDS database.
+● Use SSIS to load and transform data to the data warehouse, keep records up to date. Use SSAS to build necessary cubes and Power BI for visualization of the data.
+● Reports in Citi go to thousands of people daily. I was in charge of attending users' requests for specific needs based on the reports sent, I needed to discuss the reports with Senior management. All this interaction was done thru a ticket system
+● Create an SSIS solution to import information from different sources. SSIS solution consist of complex solution integrating not only common SSIS task but also complex scripts written in C# or VB.net and external processes. Extract information using T-Sql queries to be used in the creation of different reports. - The reports contain sensitive information, and are presented to Senior Management. Based on these reports senior management make decisions that impact the rest of the company in various countries.
+● Use Batch Processing process to create files to be use in accounting applications and keep track of the records selected in a history tables, this process was implemented using sql queries and SSIS
+● Our work was done through Jira as a ticket system and integrated with github. SQL ETL Developer Oct 2017 - Apr 2018
+RMS Computer (Citigroup Client) [Tampa, FL]
+● Citigroup (Client) - SQL database developer in charge of query optimization, creating new queries, establishing database structure and maintenance plan. Establish ETL strategies using Microsoft tools like SSIS, SQL Server
+● Create an SSIS solution to import information from different sources. SSIS solution consist of complex solution integrating not only common SSIS task but also complex scripts written in C# or Powershell and external processes. Extract information using T-Sql queries to be used in the creation of different reports
+● The reports contain sensitive information, and are presented to Senior Management. Based on these reports senior management make decisions that impact the rest of the company in various countries
+● Use Power Bi and Report Builder to create reports and show visualizations in order for Senior Managers to have a better understanding of the information. SQL DEveloper Mar 2017 - Aug 2017
+Massey Services, Orlando, FL
+● SQL database developer/Administrator in charge of query optimization, creating new queries, establishing database structure and maintenance plan. Create an SSIS solution to import information from different sources.
+● Extract information using T-Sql queries to be used in the creation of SSRS reports. Create an SSRS report based on the different department needs. Analyze business rules and create a plan to create a Data Warehouse solution.
+● Create data warehouse structure and import the information using SSIS, create SSAS cubes to be use in data analysis.
+● Create Power Bi solution with data warehouse information for the user, using rich visualizations.
+● Use Batch Processing process to create files to be use in accounting applications and keep track of the records selected in a history tables, this process was implemented using sql queries and SSIS
+SQL Developer June 2015 - Mar 2017
+Triple S Advantage Healthcare Insurance [San Juan, PR]
+● SQL database and DB2 data integration process. Analyze current manual process Excel spreadsheets, and Access applications, create a strategy to migrate to an automatic process, implement the automatic process using SSIS, SQL server and C#.
+● Write simple and complex queries in order to extract data from the database and use that data as an input for other sql process or Reports (SSRS)
+● Create Data migration and data extracts projects using different sources Flat files, excel spreadsheet, databases in order to process the information received from various client's, transform data to comply with different layouts.
+● Create SSRS (Reporting services) complex reports using direct sql or stored procedures, These reports include information that needs to be handled using expression.
+● Use SSAS to create Cubes for business intelligence projects for different departments. The data warehouse was created from scratch and uses SSIS for data manipulation insert and/or update dimension tables and fact tables.
+● Create, modify and optimize SQL queries statements. Program Sql stored procedures to implement different logics in the database in order to create the information to be used by reports or other applications.
+● Create maintenance plan for SQL Server, This maintenance plan consist of Administration task. Back Up, Restore, Run Statistics, Projection of database grow across time, Indexes creation.
+● Analyze and Migrate applications created in MS Access to C# Web, Console, and Windows applications and SQL Server as a data repository.
+● The projects created in Triple S must conform to CMS Centers for Medicare & Medicaid Service regulations.
+SQL Developer Jun 2008 - Jun 2015
+MMM Holding [San Juan, PR]
+● Create, modify and optimize Sql queries statements created in T-SQL. Program Sql stored procedures to implement different logics in the database in order to create new data to be used by reports. Write and use sql functions to be implemented as standard to be used in future deployments.
+● Create and implement and schedule maintenance plans for different databases using SQL Agent. Establish strategist to improve performance in the database using different tools like Sql Profiler and Database tuning advisor
+● Retrieve data from multiple sources Databases, Flat Files, Web Services, Excel Spreadsheet, make the necessary transformation in order to comply with the design specification and create the output required (File, Database Table) for data extracts using Microsoft SSIS. Teach other programmers the basic knowledge required in the use of multiple software for them to edit existing projects and/or create new ones.
+● Create a Data warehouse for a business intelligence project. Analyze and create data warehouse schemas. Regular meetings with the operational areas were needed in order to understand the business Process. Create the data warehouse from scratch, design the schemas, dimension tables, fact tables, use SSIS to gather the data from different sources, update or insert the information in the data warehouse and process existing cubes and create new ones using SSAS
+● Manage every aspect for the SQL Server administration task : maintenance plan for databases, analyze the resource consumed for the server and recommend strategies in order to achieve better performance, BackUp, Restores, Create Indexes, Run statistics.
+● Analysis and Design of Web Application C#, Asp.Net, Java Server Faces, Windows application using Sql Server 2008 and Visual Studio 2012, 2010, 2008, 2005. These applications were created following industry recommendations for best practices like the use of Microsoft Enterprise Libraries (Exception) . All these applications use different levels of security based on users roles or group roles (depending on specifications) based on the different groups of active directory. For some applications the role based security was completely programmed as part of the specifications. These projects were created as part of a group or as a stand-alone project following programming life cycle. The projects created in MMM must conform to CMS Centers for Medicare & Medicaid Service regulations.
+● Automatic Deployment - Implement dynamic builds and deployments using Rational Build Forge as the main engine. This engine must be integrated with different environments use in the developments (Rational Team Concert, Team Foundation, Microsoft SSIS, Reporting Services, Sql Server, etc) . In order to have the final results multiple scripts and applications using different programming languages must be created.
+Consultant Jan 2002 - Dec 2008
+Excellere Consulting Associates [Location]
+● Analysis and Design of desktop application and Web application for client's of different industries
+(distribution, finances, insurance) based on the client's specifications using Visual Basic.Net, ASP.Net, Sql 2000 server, Java, Jsp and DB2.
+● Create different proposals based in the analysis of the client's needs in order to recommend the best approach taking in consideration the business type, budget, time and other constraints.
+● Create detailed technical documentation for the different projects. Create the user documentation and training for the specific project.
+Core Skills
+- Python, T-SQL,Microsoft SSIS, Microsoft SSAS, Microsoft SSRS, Power BI, Excel, C# (console, win apps, web apps), MVC 4.0 up, Java, Visual Basic.Net, Visual Basic 6, ASP, JSP, HTML, Vbscript, Javascript, PL/SQL, Operating System, - Windows Server 2016/Windows Server 2012/Windows 10/Windows XP, Databases, - Azure, SQL Server 2016/2014/2012/2008/2005/2000, DB2, MySQL, Oracle 8i, Software, - Microsoft SSIS, SSRS, MDS, Azure Data Factory, RedGate Source Control, SQL Compare, Github,, Eclipse, IBM Datastage, Visual Studio.Net, WTX, IIS 7.0/6.0/5.0, IBM Rational Build Forge, WebSphere Application developer, Visual Studio 6, Crystal Reports, MS Office (Excel, Access, Word), Communications, - Bilingual (Read, Write) English and Spanish, Professional Development, Requirement Analysis, SQL Data Warehouse, Requirement Analysis, SQL Server Integration Services, Technical Systems, Encouraging, Inclusive, Data Management, Data Products, Continuous Integration, Data Architecture, Data Products, Root Cause Analysis, Production Deployment, Product Management, New Technology, Enterprise Strategy, Data Quality, Test-Driven Development, Test Plans, Technology Roadmaps, Technical Design, Scheduling Tools, Collaboration, Troubleshoot
+Education
+Polytechnic University Aug 2010 - May 2013
+Master of Computer Engineer [Software Architecture] University of Puerto Rico Aug 1997 - May 2001
+Bachelor of Computer Science
+Languages
+English (fluent), Spanish (fluent)
+Contact this candidate

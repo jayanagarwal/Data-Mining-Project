@@ -1,0 +1,35 @@
+Vinayak Gangaraju
+● ac4seg@r.postjobfree.com ● Phone +1-704-***-**** ● LinkedIn ● GitHub
+****, ***-*, ********* ******* Drive, Charlotte, North Carolina -28262 EDUCATION
+Master of Science, Electrical and Computer Engineering Aug 2016 - May 2018 GPA: 3.7/4
+University of North Carolina at Charlotte
+Bachelor of Engineering, Electronics and Communication Engineering July 2012 - July 2016 Visvesvaraya Technological University, India
+TECHNICAL SKILLS
+Programming Languages: C, Embedded C, Java, SQL
+Microcontrollers/Microprocessors: Raspberry Pi, Renesas RX63N, TI MSP430, Arduino.
+Packages/Tools: Multisim, Matlab, Gem5, Code Composer Studio, Eclipse IDE, HEW, Simulink.
+Communication Protocols: I2C, SPI, USB, UART and CAN.
+Operating System: Debain, Windows, Ubuntu, FreeRTOS . RELEVANT COURSES
+Embedded System Design, Internet of Things, Embedded Operating Systems, Advanced Embedded operating systems, Computer Architecture, Heterogeneous Computing.
+PROJECTS
+Linux Ext4 file system Tail latency analysis
+Chopper, a file system analysis tool was used to find behaviors in the ext4 file system that lead to costly performance problems.
+Four internal design issues in the block allocator of ext4 which form a large tail in the distribution of layout quality were analyzed.
+Patched the newer kernel versions to produce consistent and satisfactory file layouts that reduce data access latencies. JOS Operating System and Kernel Development GitHub JOS-MIT6.828
+The operating system built has functions similar to Unix, but implemented in an exo-kernel style.
+Understood the features of the BIOS and bootstrapping to initialize boot loader startup and transfer control to kernel.
+Implemented memory management and paging mechanism.
+Wrote handlers to implement system calls and implemented round robin scheduler for pre-emptive multitasking.
+Created API to implement Inter process communication (IPC) and a file system, which is based on IPC for data flow was implemented.
+Wrote a driver for the network card based on the Intel E1000 chip for the exo-kernel based on x86 platform. System Software Development Using QEMU
+Programmed Bare metal on emulated ARM926EJS Versatile Platform Baseboard,
+Cross compiled and booted Linux kernel with BusyBox file system on the target hardware using UBoot Autonomous Automobile simulation
+An android app to simulate the working of a semi-autonomous car. The user interface (car controls) remains on the Mobile Device and computation engine for simulating the Physics of the car is implemented on the RPi.
+The RPis in the same WiFi network will communicate with each other and dynamically exchange information about their cars in Real time. This information will be used by all the cars to know relevant details about the other cars. A priority based pre-threaded image processing server GitHub
+The goal of the project was to develop an image processing server that takes a color image and returns the gray-scaled image to the client
+The multi-threaded server employs a manager thread to establish connections with the client through sockets and worker threads to service the client request.
+The manager thread inserts connection descriptors in a bounded buffer and worker threads service requests by extracting the descriptor from the buffer in a producer consumer paradigm. CAN communication
+Establish CAN communication between RX63N boards and transmit the data back to the PC.
+The data received will be added to a Queue which is a First-In-First-Out. The data from the Queue will be transmitted to the UART port connected to a PC.
+At the transmission end the Queue is filled by the data received from the UART port connected to the PC.
+Contact this candidate

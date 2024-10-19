@@ -1,0 +1,36 @@
+VU HUYNH
+631-***-**** ad6drt@r.postjobfree.com linkedin.com/in/tan-vu-huynh github.com/tanvu10
+EDUCATION
+Virginia Polytechnic Institute and State University (Virginia Tech) August 2024 - May 2029 Incoming PhD, Statistics
+Stony Brook University - SUNY August 2022 - May 2024 Master's, Statistics, GPA: 4.0/4.0 (Rank: 1)
+Vietnam National University August 2018 - May 2022 Bachelor's, Applied Math, GPA: 88.4/100 (Rank: 3)
+Honors:
+Gold Medalist - Vietnam National Econometrics and Application Olympiad 2021. Bronze Medalist - Vietnam National University Annual Scientific Conference 2021. First-class Scholarship For Academic Excellence 2021. Best paper award at 15th International Conference of the Thailand Econometric Society. Courses: Deep Learning, Time Series Analysis, Mathematical Statistics, Categorical Data Analysis, Statistical Computing, Regression Theory, Big Data Analysis, Stochastic Models, Machine Learning, Optimization. EXPERIENCE
+Business Blockchain Lab - Stony Brook University Stony Brook, NY Data Engineer (Research Assistant) Oct 2023 - Present Technology: Python, PySpark, SQL, Github, Conda
+• Transformed and optimized the lab’s database storage with a comprehensive data lake architecture, transitioning from CSV to Parquet file format, thereby significantly accelerating data querying with up to 5x speed improvement.
+• Utilized API-driven strategies to efficiently crawl large-scale Bitcoin historical data from various sources to the raw zone in Python, streamlining real-time data acquisition and significantly expanding the capabilities of our data repository.
+• Automated ETL processes and integrated dynamic partitioning with PySpark, enhancing query efficiency and enabling targeted updates for specific error dates, thereby improving data flow and substantially optimizing data maintenance. Imperative Execution New York, NY
+Quantitative Analyst Intern May 2023 - August 2023 Technology: Python, R, KDB
+• Built a Volume Prediction model by integrating the statistical Bayesian method, facilitating clients to execute large stock quantities at optimal VWAP prices, with the new model showing an 80% improvement over previous methods in MAPE metrics, leading to its deployment in the execution system.
+• Conducted hypothesis statistical testings to validate the Bayesian model’s results, conclusively demonstrating its enhanced performance over existing models with a 95% statistical significance.
+• Optimized stock selection strategy by analyzing both new and existing volume prediction models on the S&P 500 using liquidity metrics, allowing stock segmentation and ensuring the most suitable model was aligned with each stock selection.
+• Utilized the KDB database to transform and partition high-frequency tick trading data, resulting in efficient data retrieval and enhancing engineering features for the volume prediction model. VietQuant Hedge Fund Ho Chi Minh City, Vietnam
+Quantitative Researcher July 2021 - July 2022
+Technology: Python, R, SQL, Github, Conda
+• Achieved nearly 20% improvement in investment efficiency ratio and company’s quarter return by upgrading the portfolio optimization process with statistical Copula simulation models in Python.
+• Initiated and automated the portfolio analysis process by implementing the statistical Multi-factor model from scratch and processing raw data from over 100 companies’ financial reports with Python and R, resulting in the successful decomposition of risk factors from portfolio returns and enabling the manager to build a new efficient portfolio with new risk constraints.
+• Developed and implemented statistical processing and transformation techniques to detect optimal trading signals from tick and daily trading data, creating single and multi-stock algorithmic alpha in Fundamental and Futures financial markets that contribute directly to the company’s profits.
+PUBLICATIONS
+• Bao Q. Ta, Vu T. Huynh, Khai Q H. Nguyen, Phung N. Nguyen and Binh H. Ho - Maximal predictability portfolio optimization model and applications to Vietnam stock market - ”Studies in Systems, Decision and Control” Series - ”Credible Asset Allocation, Optimal Transport Method and Related Topics’, ISSN 2198-4182, Springer 2022.
+• Vu T. Huynh, Bao Q. Ta - Black-Litterman portfolio optimization based on GARCH-EVT-Copula and LSTM models - Annals of Operations Research (Submitted).
+PROJECT
+NanoGPT for Shakespears’s poems generation Python, Pytorch, Transformer Decoder, NLP
+• Employed Transformer Decoder architecture to build and fine-tune a GPT model to generate text resembling Shakespeare's style. Emphasized on character-level tokenization and efficient batch processing. BERT for Sentiment Classification Python, Pytorch, Transformer Encoder, NLP
+• Developed and fine-tuned a Transformer Encoder model for the sentiment classification task on the NTC-SCV dataset.
+• Utilized a custom tokenizer and vocabulary builder to convert text into a suitable format, ensuring efficient handling of unknown tokens. Achieved a test accuracy of 87.55%, demonstrating the model's effectiveness in capturing and classifying textual nuances. ResNet Model for CIFAR-10 classification Python, Linux, Pytorch, CNN, Computer Vision
+• Initially implemented a standard ResNet block architecture, training on 80,000 images across 10 classes, achieving 81% accuracy.
+• Improved model performance to 88% accuracy by integrating bottleneck block architecture, leading to optimal model performance and deep learning proficiency demonstration.
+Banking Data Lake Architecture & ETL Development Python, PySpark, SQL, AWS, Docker
+• Data Lake Design & Management: Engineered a scalable data lake architecture with AWS S3. Utilized Slowly Changing Dimensions (SCD) with dynamic partition overwrite to ensure accurate data change management and streamlined data updates.
+• Advanced ETL Pipeline: Developed an ETL process with PySpark on AWS Glue, integrated AWS Lambda for event-driven processing, and orchestrated ETL tasks using AWS Step Functions for enhanced efficiency.
+Contact this candidate

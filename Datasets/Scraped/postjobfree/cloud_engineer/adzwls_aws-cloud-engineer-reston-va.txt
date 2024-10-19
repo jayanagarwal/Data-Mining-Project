@@ -1,0 +1,185 @@
+Deepak Sharma adzwls@r.postjobfree.com
+Green card holder linkedin/deepaksharma214
+Looking for AWS Cloud Engineer or AWS DevOps Engineer Roles 405-***-****
+
+Summary
+·Results-driven software professional with 10+ years of comprehensive IT experience, specializing in AWS Cloud Engineering, DevOps, and Java/J2EE application development, experienced in all stages of the SDLC, including analysis, design, development, testing, and implementation, across Banking, Insurance, and Healthcare domains.
+·Seasoned software professional proficient in Java/J2EE, Spring, Hibernate, SOAP and RESTful web services, skilled in database management across Oracle, DB2, PostgreSQL, and NoSQL databases like MongoDB and DynamoDB, experienced in build automation with Ant, Maven, and version control using SVN, CVS, and Git.
+·Highly skilled AWS Cloud Engineer with proven expertise in cost-efficient cloud migrations, process optimization, and resource allocation. Excelled in automating EC2 instance rightsizing and IAM role transitions, achieving significant operational savings. Adept at Infrastructure-as-Code and multi-account AWS management, consistently delivering innovation and efficiency.
+·Excelled in administering Jenkins for streamlined CI/CD pipelines and accelerated software releases. Demonstrated expertise in container management via AWS ECS Fargate and log analytics through AWS CloudWatch. Skilled in Microservices architecture, utilizing Java and Spring Boot for scalable solutions and seamless API integrations.
+·Excellent critical thinking, creative problem solving, quick learning, and interpersonal skills, adept at debugging and resolving production issues in a timely manner.
+·Driven and proactive within any team environment, step up to mentor teammates in cloud engineering and DevOps methodologies, fostering a culture of knowledge sharing.
+
+Technical Summary
+Category
+Technologies/Tools/Frameworks
+Programming Languages
+Java, Groovy, Shell, JavaScript, jQuery, Python, PL/SQL,, HTML5
+Frameworks
+Spring, Spring Boot, Hibernate, JPA, AngularJS, Backbone.js, Underscore.js, Require.js, Mustache.js, Jasmine, Camunda
+Web Technologies
+J2EE, Servlets, JSP, AJAX, REST API, Rest Assured, SOAP, WSDL, JAX-WS API, SOA, Web Services, JMS
+Build & Deployment
+Maven, Gradle, Docker, Jenkins, Nexus, Artifactory
+Monitoring
+AWS CloudWatch, Kibana, Splunk
+AWS Services
+EC2, ECS, ECR, RDS, S3, EFS, ELB, CloudWatch, VPC, Certificate Manager, AWS Backup, F5 BIG-IP, OpenVPN, SES, GuardDuty, AWS Config, Audit Manager, Security Hub, Elasticache, SNS, KMS, Secrets Manager, Systems Manager, Route 53, CloudTrail, Cost Explorer, Compute Optimizer, SQS, API Gateway
+Version Control
+Git, CVS, SVN
+Infrastructure As Code(IaC)
+Cloudformation, Terraform
+Database
+Oracle, DB2, PostgreSQL, MySQL, MongoDB, DynamoDB
+Testing
+JUnit, Log4J, Jasmine
+IDEs
+Eclipse, IntelliJ Idea
+Other Tools
+JIRA, GitHub, BitBucket, Log4J, Entrust, OpenVPN, JumpCloud, PagerDuty, Xymon, Solarwinds Pingdom, Keystore explorer, DBeaver
+Operating Systems
+Linux, UNIX, Windows
+Methodologies
+Agile: Scrum, Kanban, SAFe
+
+Education
+Masters, Information Systems Texas A&M International, 2014
+Bachelor of Technology JNTUH, Computer Science, 2012
+
+Professional Experience
+AWS Cloud Engineer/DevOps Engineer
+Grants.gov, Washington, D.C. Oct 2021 – Present
+Contributed to the successful migration of Grants.gov system from on-premise to AWS Cloud using the Lift-and-Shift strategy. This led to a 20% reduction in operational costs.
+Solely orchestrated the shift from manual AWS resource management to an Infrastructure-as-Code (IaC) approach, utilizing the Former2 tool for resource discovery and CloudFormation for scalable deployments across 6 unique environments.
+Proficiently managed and provisioned 15 AWS accounts within the organization's AWS master account, ensuring efficient resource allocation and cost tracking.
+Engineered a comprehensive cost-optimization strategy that automated EC2 instance rightsizing via custom scripts, achieving a 30% annual cost reduction in AWS expenditures without compromising on performance or reliability.
+Managed Jenkins infrastructure, including server health and plugin updates, while automating and refining CI/CD scripted pipelines, resulting in accelerated software deployments and enhanced operational efficiency.
+Evaluated diverse strategies for effective secrets management and implemented them within Jenkins pipelines, enhancing security and automation practices.
+Deployed containerized applications using AWS ECS Fargate, eliminating the need for server management.
+Expertly diagnosed and resolved container failures in ECS Fargate for Webforms application on Grants.gov, used a combination of AWS ECS Console insights, CloudWatch Logs, and ECS Exec, enhancing system stability and uptime.
+Utilized AWS CloudWatch Logs to aggregate and analyze application and infrastructure logs, while also creating custom dashboards and log insight queries, thereby streamlining troubleshooting, compliance reporting, and providing actionable insights for development and operations teams.
+Scheduled automated backups and retention policies for data protection.
+Utilized AWS Systems Manager and AWS Resource Groups service to achieve centralized operational control and resource organization, streamlining fleet management on EC2 instances and enabling unified monitoring, automation, and access control across multiple AWS services.
+Automated IAM role renaming for AWS EC2 instances using AWS Systems Manager, the script seamlessly updates IAM roles without interrupting instances by generating new profiles that inherit the same policies as their predecessors. Thereby, improving operational efficiency and reducing manual execution risks across multiple environments.
+Implemented AWS S3 access logs analysis for request identification, enhancing visibility into object-level interactions and contributing to robust data governance practices.
+Championed comprehensive documentation of application components that helped knowledge sharing and cross skilling.
+Mentored teammates to enhance their skills in cloud engineering and DevOps practices.
+Stepped beyond role duties by keeping an open line of support and communication, naturally helped foster a productive team environment and bolster morale.
+Environment: AWS, Java, Groovy, Bash Scripts, Jenkins, Docker, Maven, Git, Entrust, OpenVPN, Jumpcloud, PagerDuty, Xymon, Solarwinds Pingdom, Keystore explorer, DBeaver, MongoDb compass.
+AWS Services: EC2, ECS, ECR, RDS, S3, EFS, ELB, CloudWatch, VPC, Certificate Manager, AWS Backup, F5 BIG-IP, OpenVPN, SES, GuardDuty, AWS Config, Audit Manager, Security Hub, Elasticache, SNS, KMS, Secrets Manager, Systems Manager, Route 53, Cloudtrail, Cost Explorer, Compute Optimizer, SQS, API Gateway
+
+Software Engineer
+Capital One Financial, Tysons, VA July 2018 – Sep 2021
+•Worked on the automation of Bank Case Management application– an internal facing app used by the associates to resolve different issues reported by the customers.
+•Worked on Small Business applications called Proactive Credit Line Increase Program (PCLIP) and Reactive Credit Line Increase Program (RCLIP) to modernize from on-premises to AWS cloud.
+•Involved in implementing business rules to data-gather, exclusion, inclusion and segmentation modules.
+•Created quick cases component to display multiple case types by dynamic routing.
+•Implemented Business features using Quantum (Spark) workflows and in-house frameworks like Alexandria.
+•Involved in Data bricks Testing for business features.
+•Implemented status rules for Exclusion and Data gather workflow.
+•Set up Jenkin jobs with stages to checkout code from GitHub, build it, deploy the artifact to a binary repository manager called Artifactory, and copy to S3 as per the application requirement.
+•Designed and Implemented Restful web services.
+•Implemented Lambda Functions, SNS Topic and EMR Clusters to trigger workflows.
+•Implemented S3 buckets to store outputs of features.
+•Implemented Quantum workflow to send filtered data to Kafka topic.
+•Involved in implementing CI/CD process and created end to end pipeline covering all stages from deploying the code to dev till deploying the code to production.
+•Involved in Code Review.
+•Created Application Dashboard using Kibana for Debugging and Analytics.
+Environment: Java, Spring boot, REST API, Rest Assured, Camunda, Docker, AWS Services, Groovy, Shell, Jira, Maven, IntelliJ, Jenkins, Git, Python
+
+Software Developer
+Accenture Federal Services, VA Nov 2017 – June 2018
+•Developed and maintained primary public customer-facing website for CMS (Centers for Medicare and Medicaid services).
+•Worked with business to gather requirements.
+•Worked in an Agile development environment.
+•Used Scala in combination with JAVA to implement the business logic to create REST API’s.
+•Developed Unit test cases based on Scala Test, Junits.
+•Used Jenkins for Continuous Integration and Continuous deployment (CI/CD).
+•Worked on software enhancements and was part of major software upgrade cycles.
+•Worked on developing HTML and JavaScript for client-side presentation and, data validation on the client side within the forms.
+•Used Splunk for monitoring the health of the application and to fix the critical bugs.
+•Extensively worked on generating the web services classes using WSDL and SOAP.
+•Worked with Quality Engineers to fix regression issues and other defects.
+•Wrote unit test cases by using JUnit framework.
+Environment: Java, XML, JIRA, Spring, Gradle, Junit, IntelliJ, Jenkins, Oracle, Git.
+
+Full Stack Developer
+Capital One Financial, Rolling Meadows, IL Jan 2016 – Nov 2017
+•Worked in agile environment and involved in analysis, design, and development of the project.
+•Developed application by using J2EE architecture, Spring, REST API.
+•Designed and developed web pages using HTML and JavaScript and AngularJS.
+•Migrated on-prem frameworks to cloud based solutions using Amazon Web Services (AWS)
+•Provisioned EC2 instances, utilized S3, Route 53, IAM, CloudFront, etc., services.
+•Utilized Chassis framework (internal Capital one framework built on top of Spring)
+•Worked on a spring boot application for Rapid Application Development that requires very little spring configuration.
+•Worked on several pipelines (Bogie, which triggers on code commits and deploys the code to different environments.
+•Experience and understanding of Microservices architecture and building cloud native microservices using Spring boot framework.
+•Consumed Web Services-WSDL and SOAP.
+•Knowledge of XSLT, XPath, XQuery, XML Parsers.
+•Produced REST APIs following several standards and guidelines.
+•Used Log4j logging framework to debug the code.
+•Used Git as the version control and GitHub for code repository.
+•Setup several Splunk dashboards for application monitoring.
+•Understanding and exposure to Kafka which is a scalable pub/sub message delivery system and other JMS and messaging tools/software.
+•Used JMeter for performance testing.
+•Have written ATDD test cases using Ruby scripting.
+•Setup standalone wire mocks for mocking the service request and responses.
+•Involved in regression testing, evaluating the response times, and resolving the connection pooling issues.
+Environment: Java, J2EE, Spring, Spring Boot, Maven, Git, AngularJS, PL/SQL, WSDL, SOAP, Eclipse, IntelliJ, Linux, log4J, Jenkins, AWS.
+
+Java Developer
+Blue Cross Blue Shield, Michigan Jan 2015 – Dec 2015
+·Used Agile methodology during the development of the project.
+·Worked on Message Center Module of the application.
+· Involved in all the phases of SDLC including requirements collection, design & analysis of the customer specifications, development, and application customization.
+·Designed presentation pages using JSP, JavaScript, jQuery, Ajax, CSS, Spring MVC.
+·Used JSON/XML as the data transfer methods.
+·Developed and Implemented Web Services and used Spring Framework.
+·Made AJAX calls using backbone.js for retrieving and parsing data on webpage.
+·Extensively worked on generating the web services classes by using WSDL and SOAP.
+·Developed Asynchronous means of retrieval of data from the Server and Database using AJAX as well as JavaScript.
+·Communicating with external systems using Web services (JAX-WS) and consuming services and exposing the XML response as Java objects using JAXB framework.
+·Developed and Implemented Web Services and used Spring Framework.
+·Tested web services using SOAP UI.
+·Exposure to databases like DB2, MS SQL and NoSQL databases such as MongoDB.
+·Used JUNIT for unit testing of the system and Log4J for logging.
+Environment: Java JDK1.6, JEE, Spring, JPA, HTML5/ CSS3, Java Script, JQuery, Maven, XML, JAX-WS Web Services, MySQL, Mongo DB, JUnit, Log4J, IntelliJ Idea, Backbone.js, Underscore.js, Require.js, Node.js, Mustache.js, Jasmine
+
+Graduate Research Assistant - Information Systems
+Texas A&M International University Sep 2013 – Dec 2014
+·Involved in development and maintenance of Virtual Teaching Assistant System (VITAS) which is an efficient online homework submission and peer grading system. Information Systems performs event registrations which manage the University’s events.
+·Gathered requirements, analyzed, designed, and developed using Agile Methodology
+·Developed intuitive web pages and designed database.
+·Assisted professor in variety of roles which includes various research, innovative works and have made presentations in other campus.
+·Involved in data validation on the client side using Java Script.
+·Wrote SQL queries to perform CURD operations on the database.
+·Debugged the front-end side of the application using Chrome developer tools.
+·Maintained and scheduled upgrades.
+·Trained high school students to use the application.
+Environment: Java/J2EE, Spring, Hibernate, Oracle 9i, JUnit, JSP, Servlets, HTML, AJAX, CSS, Log4J.
+
+Java Developer
+Srikari Impetus Solutions, HYD Jan 2012 – Jul 2013
+·Used Agile methodology during the development of the project.
+·Used the use cases, interaction diagrams and class diagrams in development of the application.
+·Implemented Model View Controller (MVC) architecture for an efficient implementation of the view level customizations and interface with the application logic.
+·Designed and implemented the User Interface using JavaScript, HTML5, XHTML, XML, CSS3, JSP, AJAX.
+·Used JSP, Servlets, and HTML to create web interfaces. Developed Java Beans and used custom tag libraries for embedding dynamic views into JSP pages.
+·Worked on creating responsive website for smart devices using Responsive design and media queries.
+·Successfully handled JSON/XML data
+·Implemented design patterns like MVC, Singleton, Factory, DAO, DTO and Spring IOC.
+·Used Spring IOC for providing object factories, service objects and DAO objects.
+·Used Spring AOP’s declarative transaction management.
+·Used spring for Dependency Injection (DI) and AOP (AspectJ).
+·Used Spring Hibernate template to access relational DBMS via Hibernate.
+·Used jQuery java script library for developing interactive web application.
+·Wrote unit test cases by using JUnit framework.
+·Used Maven for build automation.
+·Developed JSP’s, Servlets, JavaScript, XML which formed the UI component.
+·Created Servlets and Java Server Pages, which route submittals to the appropriate Enterprise Java Bean (EJB) components and render retrieved information.
+·Developed both entity and session beans in EJB Components, modeling the business logic.
+·Wrote stored procedures in Oracle to validate data and ensure system integrity for various tests based on different specifications.
+·Involved in deployment components on WebLogic application server.
+·Performed unit testing of all modules.
+Environment: J2SE API, J2EE API, JAX-WS API, SOA, Web Services, JMS, XML, HTML5, CSS3, JavaScript, jQuery, Java, Servlets, JSP, HTML, CSS, Spring, Hibernate, JNDI, LDAP, JMS, JMX, MQ, JNDI, XML, XSLT, SAX, DOM, Log4j, CVS, JUnit, Agile Methodology, Eclipse, SOAP, WebLogic Application Server, UNIX, Windows.
+Contact this candidate

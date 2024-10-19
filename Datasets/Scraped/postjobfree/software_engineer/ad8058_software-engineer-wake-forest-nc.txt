@@ -1,0 +1,215 @@
+HUMAYUN KABIR
+
+(Sr. Software Engineer Architect)
+
+Raleigh, NC, USA ad8058@r.postjobfree.com +1-650-***-****
+
+PROFESSIONAL SUMMARY
+
+Seasoned Retail IT professional with over 10 years of experience in JAVA/J2EE software development and 5+ years in Solution Architecture. Expertise in Agile Methodologies, specializing in cross-functional collaboration, system stress testing, and performance tune up. Recent focus on RESTful services and database migration. Proficient in J2EE, front and back-end technologies, Webservices SOAP/REST, Spring Boot, and MVC architecture. Successfully architected data migration mechanism and executed the project for A&F from scratch. Orchestrated and developed webservices between SAP and WCS to move product data. Currently pursuing AWS Solution Architect Certification.
+LinkedIn: https://www.linkedin.com/in/humayun-k-385b367b/
+
+AREAS OF EXPERTISE
+
+IDE
+IntelliJ, Eclipse/RAD, NetBeans
+Databases
+MYSQL, DB2, Oracle, MongoDB, AWS RDS
+User Interface
+HTML5, JSON, CSS, XSL, XSLT, DTD, Dojo, Ajax
+Server side
+JSP, Servlets, XML, Java Bean, EJB, Web Services, WSDL, SOAP
+Frameworks
+Struts, Spring Boot, MyBatis
+Programming Language
+Core Java (J2EE) v8 & 11, JavaScript, jQuery
+SQL Editor
+Squirrel, DBVisualizer, TOAD
+Utilities
+Putty, WinSCP, WinMerge, MobaXterm, Postman, SOAPUI, Grafana, DynaCache, DataLoader, Apache Solr, Jenkins
+Version Control
+CVS, SVN, Git, GitHub, SourceTree
+AWS
+S3, LAMBDA, EC2, CloudFront, ELB, EBS, RDS, Cloud9, Terraform, Ansible
+3rd Party Integration
+Bazaarvoice, Whatcounts, Fedex, Vertex
+Analysis & testing tools
+Junit, Mockito, Firebug, Kibana, UserReplay, AppDynamics, Splunk, DynaTrace
+Build & deploy
+Quickbuild, Jenkins, Openshift, Docker, Gradle, CI/CD Pipeline, Kubernates
+Story tracking system
+Jira, Remedy, SharePoint
+
+WORK EXPERIENCE
+
+SUNSHINE AMERICA INC, RALEIGH, NC, USA
+
+Architect (Contract) Dec 2022 - Present
+
+In my role at Sunshine America Inc., I lead and direct the development of several customer-facing applications. These projects spanned various domains and technologies, demonstrating my versatility and expertise. Let’s delve into the specifics:
+
+1.Sunshine (Donation App):
+Developed a Native Android app using Android Studio, Java, MySQL, and Spring.
+Simplified the donation collection process for participating churches.
+2.Alo (Telemedicine App):
+Created a comprehensive telemedicine platform to manage patient records and connect with health experts.
+Utilized Flutter, MySQL, Twilio, SendGrid, Zoom, and Digital Ocean.
+3.Shonali (Musical Event App):
+Engineered a React Native app with technologies such as Laravel, MySQL, Twilio, and VideoSDK.
+Similar to AGT (America’s Got Talent) to host live-streamed competitive musical events.
+
+4.Fashion Market (Ecommerce App):
+Designed a versatile ecommerce application catering to both B2B and B2C markets.
+Manufacturers could create customized menus for businesses to purchase.
+Businesses, in turn, curated unique menus for their clients and buyers.
+
+These projects collectively utilize my skills to address diverse challenges, collaborate with cross-functional teams, and deliver impactful solutions.
+
+ABERCROMBIE AND FITCH, OH
+
+Sr. HCL Commerce Engineer/Architect (Contract, HCL Commerce V9.1) Mar 2021 – Nov 2022
+
+As a Sr. HCL Commerce Engineer and architect at Abercrombie and Fitch, I worked in a dynamic Agile development environment under strict deadlines, collaborating with multiple teams to enhance the e-commerce experience. My contributions were multifaceted, including achievements and responsibilities:
+
+Service Redesign: Using Spring Boot, I developed 7 REST APIs for Apple Wallet Web services, aligning with modern architectural standards.
+Headless Commerce: Spearheaded projects emphasizing headless commerce and cloud infrastructure, prioritizing scalability and efficiency.
+Microservices Architecture: Authored a technical architecture design document for new microservices interacting with Apple Wallet and cloud-based MongoDB, ensuring seamless integration and data migration of user data from DB2.
+Presented the technical design documentation to DART (a group comprising developers, architects, directors, and business analysts) to communicate the process flow in greater details and answer many relevant questions.
+Led data migration successfully for over a million users from DB2 to MongoDB using Shell Script.
+Validated the new Application through performance, and stress testing to ensure scalability & coding best practices are applied
+Ensured upcoming requirements for compliance with Apple by developing an API to delete a user’s account.
+Optimized caching mechanism by reducing over 300 redundant caching subcategories and through fine-tuning.
+Collaborated UX team to deliver a very user-friendly interface of the Application.
+Agile Collaboration: Worked closely with various teams in two-week sprints, focusing on troubleshooting and resolving production issues.
+Coordinated and engaged in group troubleshooting efforts for production-critical defects and performance issues. Maximum 15-minute response time turn around in place.
+Analysed performance issues utilizing Splunk, AppDynamics, and Dynatrace. During triage meetings, estimated story points and assisted others with the estimation.
+Configured and corrected code flaws in Grafana Dashboard with proper data sources via NorthStar Metrics Application (a performance ranking application)
+I investigated the feasibility of converting APIs to GraphQL by participating in multiple demos to explore adoption and put together an impact analysis document with detailed recommendations.
+Docker containers: Built and configured PODS in OpenShift to automate CI/CD process for new applications on Kubernates.
+Kept track of code changes using SourceTree and Git in the repository and have colleagues approve the changes in GitHub.
+
+The new microservices based on the modern Spring Boot framework and Cloud-based DB (Mongo DB) will make the app more resilient and scalable in the future. With Caching optimization, the page load time was reduced to under 30ms.
+
+SPORTS ENDEAVORS INC., NC
+
+Sr. Ecommerce Software Engineer Architect (FTE, WCS V7) Jul 2016 – Mar 2021
+
+As a Sr. Ecom Engineer & Architect at SPORTS ENDEAVORS INC, I played a pivotal role in the pre-rollout phase of SOCCER.COM’s commerce platform. Collaborating closely with internal WCS, SAP teams, and vendors, I ensured site stability after a four-year development and SAP integration period. Architected data transfer mechanism between SAP and WCS systems for production ready product related data. Built many Rest End points to interact between DX portal and WCS in the back end. My contribution and work encompassed technical excellence, innovation, and effective collaboration, contributing significantly to the success of SPORTS ENDEAVORS INC. and spanned Catalog, Member, & Order subsystems.
+REST Endpoints:
+oDeveloped over a dozen custom endpoints based in MyBatis framework for PlayerPass admins within soccer.com.
+oIncorporated endpoints to feed data to the front-end DX Portal.
+oImplemented REST caching mechanisms for performance optimization.
+oTechnologies used: Java, Struts, jsp, Webservices(xml,soapui,wsdl)
+
+SAP-WCS Webservices:
+oLed a challenging project to simplify data flow with new Webservices between SAP and WCS.
+oCreated mechanisms to transfer contract-related data from SAP to WCS.
+oDeveloped endpoints for seamless data extraction and integration with the DX Portal in the front end.
+E-sites:
+oMaintained both front-end and back-end aspects of up to 6 sports-related websites owned by SEI.
+oCustomized Solr configuration to extract most popular products.
+
+3rd Party integration:
+oIntegrated FEDEX into order management, enhancing order status visibility for users, &
+oWhatCounts to modernize, and replace all OOB email Correspondents from the WCS with failsafe mechanism in place.
+
+Performance Tuning and QA Support:
+oConducted performance tuning using tools like UserReplay, AppDynamics, and query optimizations.
+
+Collaboration and Code Integrity:
+oCollaborated with SAP teams to create and maintain service calls between systems.
+oParticipated in complex branch merges during the development phase of IBM-DX portal.
+Production Support:
+oParticipated in rotational production support duties alongside development tasks.
+DICKS SPORTING GOODS, PA, USA
+Conducted impact analysis by analyzing and documenting code bases and Management center using Jira Tickets before migration to HCL Commerce V9.1.
+Customized and developed over a dozen endpoints to incorporate custom tables in response data.
+Architected the entire flow using WSDL, SOAPUI from WCS with a new schema of tables to import data into DB2, followed by the development of endpoints to extract this data for the Portal.
+Customized Solr configuration to include new sort functionalities for displaying new products to customers through the search result page.
+Assisted QA with documentation and testing efforts by setting up data in lower environments.
+Participated in complex branch merges during the development phase of IBM-DX portal to ensure code integrity and purpose retention.
+
+DICKS SPORTING GOODS, PA
+
+Sr. Commerce Engineer (Contract, WCS V7) Apr 2014 – May 2016
+
+As a Sr. Commerce Engineer, my responsibilities spanned various areas within e-commerce development and maintenance. I collaborated on platform creation, optimized performance, customized features, and ensured seamless integration with other systems. Additionally, I contributed to UI
+enhancements and played a key role in SEO optimization. My work encompassed technical expertise, cross-functional collaboration, and continuous improvement. Here are the highlights of my accomplishments:
+
+Golfgalaxy.com Development:
+oCollaborated with Crossview and DSG’s core developers to create Golfgalaxy.com.
+oLeveraged extended site/multi-tenancy concepts for scalability and flexibility.
+
+FieldandStreamShop.com Project (Project Eagle):
+oJoined the Project Eagle team to develop FieldandStreamShop.com.
+oUtilized the extended site concept and UI-provided comps and wireframes.
+
+Taxonomy and Views Enhancement:
+oContributed to the development of taxonomy and various views using comps and wireframes.
+oFollowed Agile methodologies for efficient project execution.
+
+Technical Expertise:
+oUtilized Ajax, jQuery, dojo, and JavaScript within JSPs to create different views using the Struts framework.
+oCustomized SOLR for Clearance products, and integrated Bazaarvoice.
+
+Performance Optimization:
+oCustomized Dynacache configuration to enhance Product Display Pages (PDP) by passing additional parameters.
+oConducted performance tuning, including changing scene7 references and upgrading WebSphere Commerce Server (WCS).
+
+Functional Enhancements:
+oImplemented gift card reversals in the Order and Payment subsystems.
+oIntegrated and customized Myjoys products within Golfgalaxy.com.
+
+SEO Optimization:
+oManaged Stopwords.txt and Protwords.txt for effective search engine optimization.
+
+Enhanced Functionality:
+oImplemented Canonical and Size Charts.
+oIntegrated Price Matrix and Foresee for an improved user experience.
+
+Upgraded WebSphere Commerce Server (WCS) to FEP8 and accumulated Fix pack1, including APAR installation.
+Implemented ACPolicy for new role creation for reporting purposes & Implemented SearchDex in Field and Stream.
+Customized commands based on new tax rules provided by the business.
+
+HP, CA
+
+Sr. WCS Developer/Architect (Subcontract-TCS, WCS V7) Apr 2013 – Nov 2013
+
+As a Sr. WCS Developer, my scope of work encompassed various critical aspects of e-commerce development. I collaborated on design documents, developed components for the order management system, and created shipping mechanisms from scratch. Additionally, I provided architectural guidance, integrated systems seamlessly, and led offshore development teams. My role was pivotal in ensuring efficient operations and enhancing user experiences across the platform.
+
+Design and Development:
+oCollaborated on design documents for the presentation layer and developed key components of the order management system.
+Shipping Mechanisms:
+oEngineered shipping mechanisms from scratch, enhancing the checkout process with multiple shipping options.
+Solution Architecture:
+oProvided detailed design documents as a solution architect, establishing best practices and creating various site elements in WCS V7.0.
+oFormulated E-Spots, widgets, source of contents, and ensured adherence to High-Level Design (HLD) and Low-Level Design (LLD) for various pages.
+
+Integration and Collaboration:
+oConfigured shipping methods in Accelerator and databases for multiple environments.
+oPassed data seamlessly between WCS, Sterling Commerce, Tibco, and SAP systems.
+oCollaborated closely with business users and Business Analysts (BAs) to ensure compliance with business requirements.
+oAssisted in creating user stories and acceptance criteria within an Agile framework.
+
+Team Leadership and Demos:
+oLed offshore development teams, effectively coordinating work between offshore and onsite teams.
+oConducted weekly demos of newly developed functions to the business, ensuring transparency and alignment with stakeholder expectations.
+
+Installed and configured WCS 7.0, Fix Pack7, Feature Pack 6, DynaCache, SOLR, and Coremetrics in the local system multiple times.
+Uploaded catalogs using XML, CSV, and XSD for price and inventory data using DataLoader.
+Participated in meetings for creating design documents, specifications, documentation, code reviews, issue identification, and execution from technical and business perspectives.
+Actively participated in end-to-end testing in a war room-like atmosphere prior to product release.
+Conducted numerous onsite and offshore meetings to coordinate development tasks and validate business requirements with the business and BA team.
+Managed and corrected numerous defects in the new site following Beta release, utilizing ALM for defect tracking.
+
+EDUCATION
+
+Bachelor of Science in Electrical Engineering Michigan State University, East Lansing, MI
+
+ADDITIONAL INFO.
+
+Training - Enrolled into Multi Cloud Bootcamp through "The Cloud Bootcamp"
+Sports - Soccer, Badminton, Golf
+Professional Groups- Java developers and architects, HCL Commerce professionals,
+Websphere commerce professionals, Websphere user groups
+Contact this candidate

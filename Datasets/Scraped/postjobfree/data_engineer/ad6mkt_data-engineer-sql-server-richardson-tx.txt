@@ -1,0 +1,104 @@
+GARY GARBER
+SENIOR DATA ENGINEER 214-***-****
+DETAILS
+214-***-****
+ad6mkt@r.postjobfree.com
+LINKS
+LinkedIn
+SKILLS
+MS SQL Server up to 2019
+Azure SQL Database (and
+managed instance)
+Azure Databricks
+Azure Functions/KeyVault
+Azure Data Factory
+Azure DevOps CI/CD
+T-SQL expertise
+ETLs (SSIS/ADF) and reporting
+(SSRS, Synapse, Fabric)
+Python / PySpark
+Scala programming language
+Apache Spark
+Data Lake Architecture
+(Hadoop/Hive/Spark)
+FHIR / HL7/CPT
+HEDIS/Stars measurements
+Medallion Lakehouse Architecture
+Data Modeling (3NF, Dimensional,
+Vault, and OBT)
+C# Core, .NET 6.0 and earlier
+Agile and Scrum Methodogies
+(Jira)
+LINQ, APIs, web services
+Azure EventHub/EventGrid
+RESTful APIs and JSON/XML
+PROFILE
+Results-driven data engineer with over 12 years of database design, development, coding and deployment with MS SQL Server and cloud native technologies such as Azure SQL and Databricks with Apache Spark, most notably devoted to the healthcare domain. Proven track record of leveraging advanced database constructs to drive efficiency and solve complex business challenges using Python, T-SQL and Scala. Proficient in designing, implementing, and optimizing SQL Server databases, with a keen eye for performance tuning and scalability. Skilled in crafting intricate SQL queries, stored procedures, triggers, and views to streamline data retrieval and manipulation processes. Adept at database administration, ensuring data integrity and security while implementing backup and recovery strategies. Excels in analyzing database structures and optimizing queries for optimal performance. Seeking opportunities to apply my expertise in SQL Server to contribute to innovative projects and drive organizational success.
+EMPLOYMENT HISTORY
+Azure Data Engineer at Guidestone Financial, Dallas October 2023 — March 2024
+• Served as data architect for a short-term project focused on modernizing the platform and architecture for the CRM system migration (MS Dataverse/Dynamics 365) from its existing Synapse data lake (ADLS2) to an Azure SQL Database. Required extensive knowledge of advanced T-SQL constructs as well as native cloud services
+(KeyVault, ADF, Azure functions, linked services, etc)
+• Followed industry standard medallion lakehouse architecture to facilitate the migration process and ensuring data integrity and consistency throughout the migration process
+• Created REST API consumer for the LinkedIn advertising campaign to provide insights on the performance of LinkedIn ads, including demographics and key metrics
+• Collaborated closely with the team to ensure seamless integration of architectural changes
+Database Engineer III at Signify Health, LLC, Dallas April 2020 — August 2023
+• Designed and implemented comprehensive solutions for extracting partner-specific data extracts including membership, physician, and claims data, utilizing dynamic SQL and table-driven design patterns.
+• Engineered backend processes using PySpark notebooks, Jars for cloud data, and SQL Server integration services (SSIS) with C# scripting, front-end developed in ASP.Net MVC.
+• Led the data transmission initiative for a Tier I client, Humana, leveraging CMS FHIR Interoperability (REST API) and HL7 FHIR Foundation Module, ensuring seamless integration of member, provider, and questionnaire data.
+• Orchestrated Azure Data Factory for incremental SQL extracts using Python from Snowflake data warehouse, supporting C# assemblies for data transformation and delivery.
+• Architected and implemented mission-critical ETL pipelines in Azure Databricks, transforming in-home assessment files from Azure Data Lake (ADLS2) to Databricks Delta Live Tables (DLT) using autoloader and schema inference.
+• Developed and implemented mechanized file transfer integrations using Azure Data Factory and MoveIT, enhancing data mart ingestion capabilities via XML/XSD.
+• Automated Jira story creation and management using C# REST API, enabling seamless integration with Azure Data Factory and SQL Agent environments.
+• Implemented team alerts using Slack Notification API based on thresholds and specific use cases, employing a table-driven approach for flexibility and scalability.
+• Mentored new team members on architectural standards, data ingestion methodologies, and API consumption, facilitating smooth onboarding and knowledge transfer.
+• Established and maintained an operational mail-house for member communication, achieving significant cost savings through automation and process optimization.
+• Utilized Agile Kanban SDLC methodology, managed project workflows using Jira, and implemented Azure DevOps Pull Request process for code deployment to production environments.
+SQL Developer/DBA at Talus Payments, Dallas
+October 2017 — December 2018
+• Developed and maintained internal applications facilitating the onboarding and risk assessment of new merchants, leveraging ASP MVC pattern with SQL Server for transactional data capture and schema design.
+• Implemented new SQL schemas to efficiently capture and manage merchant sales and boarding data, utilizing SQL Server stored procedures, functions, triggers, and SQL Agent for orchestration.
+• Managed SQL Integration Services to successfully load over 2 million leads monthly into the call center system, ensuring data integrity and operational efficiency.
+• Designed and implemented a robust production process involving complex SQL queries to generate quarterly and annual reports for Visa, American Express, and Mastercard bankcard associations, facilitating compliance and reporting requirements.
+• Configured cross-region SQL Server mirroring with a witness database to enhance data availability and disaster recovery capabilities across multiple geographic locations.
+• Implemented audit logging using SQL triggers and automated file archival using SQL Agent triggered jobs, enhancing data governance and compliance with regulatory requirements.
+• Developed backup and pruning plans for SQL Server databases using SQL Agent maintenance plans, ensuring data availability and optimizing database performance.
+Programmer/DBA at North Texas Behavioral Health Authority (NTBHA), Dallas July 2016 — October 2017
+Consumer Encounters and Payment Reconciliation
+• Managed processing, editing, and warehousing of 80,000 HL7 ADT/ORU transactions monthly from ten providers using SQL Server, ensuring accurate reconciliation of pre-paid subcontracted provider payments for indigent community services.
+• Interacted continuously with Department of State Health Services to implement Medicare service array specifications, HCCs, procedure codes, and other regulatory requirements.
+• Maintained ongoing communication with 11 subcontracted providers, utilizing C# GUI, business rules, and programmatic SFTP for mission-critical data warehouse applications.
+PIGEON (Provider Integration Gathering Eligibility Online)
+• Led the initiation, planning, execution, monitoring, and control of a web application under the State of Texas Department of Information Resources (DIR) framework, facilitating providers to enter financial eligibility information for the indigent community.
+• Implemented nightly feeds to Pharmacy Benefits Manager (PBM) from MongoDB database collections for non-relational document uploads.
+• Designed the system using MVC architecture with .Net Identity authentication, managing over 200 users and handling 8,500+ hits per day.
+• Developed a Rules Engine to validate consumer poverty level eligibility and SSIS-fed state assessments for authorized levels of care, utilizing Entity Framework and SQL Server instance as the backend repository. OSAR (Outreach Screening Assessment and Referral)
+• Architected and implemented an MVC intranet system for outreach counselors to screen and assess indigent community members, export data to Excel, and provide data analytics on a monthly basis.
+• Implemented within the State DIR project delivery framework, ensuring compliance with state guidelines and templates.
+Contract Programmer at Freelancer.com, Houston (remote) March 2015 — January 2016
+Collaborated remotely with project leads in South America to develop an ASP.NET Web Forms project aimed at matching individuals needing babysitting or specialized private care with potential caregivers.
+Project Highlights:
+• Integrated criminal background verification for babysitters and care providers using JSON web services from www.beenverified.com.
+• Implemented complex pattern matching algorithms including SOUNDEX, elastic search, and Levenshtein distance to enhance caregiver matching capabilities.
+• Designed the website with fluid CSS layouts tailored to user preferences, ensuring optimal user experience across different devices.
+• Utilized extensive features of MS SQL Server 2014 Enterprise for robust data management and integration.
+Lead Programmer at The Weston Group, Houston
+October 2014 — January 2015
+• Acted as the primary contact for a subcontracted IT provider at Fondren Orthopedic, leveraging SQL triggers and stored procedures to streamline operations and enhance efficiency.
+• Collaborated directly with the Chief Medical Officer to successfully integrate Aspyra radiographic images into the Centricity EMR system using SQL Server Integration Services (SSIS).
+• Achieved monthly cost savings of $10,000 by consolidating physician workflows and preventing the use of disparate systems, optimizing operational processes and enhancing data integration.
+Lead Applications Programmer at Family Physician Group, Orlando November 2012 — March 2014
+• Gaps in Care – Complete development of application providing our physicians a single source of truth to acquire patient diagnoses, active medications, hospitalization history from the Centricity EMR. Additional data also included MAPD risk scores, HEDIS Stars metrics met and unmet (NCQA defined standards) and HCC models. This application consolidated data from three disparate systems thus saving our providers valuable time from retrieving data from each system.
+• Service Fund Membership Reporting – Complete development of application which provided our Medical Economics Department statistics on patients joining and leaving each of our service funds (PUP, Freedom/Optimum, CarePlus) membership. Utilized SSIS, SSRS, and an ASP.Net wrapper.
+• Diabetes Dashboard – Utilized data from our EMR in order to show from an enterprise, clinic, physician drill-downs (via SSRS) the average HgbA1C for the diabetic population.
+• Accounts Receivable Dashboard – Provided a graphical interface for our accounting department in order to view AR changes in a fluid display. Included aging, charges, payments. Utilized ASP.Net and Telerik controls (3rd party controls for the .Net environment). – Utilized data from our EMR in order to show from an enterprise, clinic, physician drill-downs (via SSRS) the average HgbA1C for the diabetic population.
+EDUCATION
+Bachelor of Business Administration, Stephen F. Austin State University, Nacogdoches, TX
+• GPA 3.7 in Major (Information systems and Economics)
+• Dean's List
+CREDENTIALING/ASSOCIATIONS/USER GROUPS
+IEEE Membership (#98303220), Institute of Electrical and Electronics Engineers (IEEE) January 2024 — December 2024
+REFERENCES
+Excellent References Available upon Request
+Performance Review, SignifyHealth
+"Gary's positive attitude and helpful nature allow him to present himself as a great collaborator and team member. He exudes a sense of passion and joy for what he does every day, and his ability to communicate effectively and in great detail has made him the go-to guy for teaching team members on new processes. His overall reliability and attention to detail are one of the things I most appreciate in Gary. It is so helpful to be able to trust that a project is being reviewed and every piece scrutinized with the highest level of precision. I am grateful to have Gary on this team. His passion for this job is inspiring and has a palpable affect on the teammates around him. It has been great to see him grow and take on more things as needed. It's rare to find a developer that has such a knack for communicating directly with the business. I am able to trust that he is providing the utmost level of customer service on any project."
+Contact this candidate

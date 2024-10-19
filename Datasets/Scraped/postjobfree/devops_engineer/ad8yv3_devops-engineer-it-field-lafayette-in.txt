@@ -1,0 +1,140 @@
+PROFESSIONAL EXPERIENCE
+Client: Eli Lilly and Company, Indianapolis, Indiana, U.S. Feb. 2022 - Present
+Role: Azure DevOps Engineer
+Description: Eli Lilly and Company is an American pharmaceutical company. It is engaged in the discovery, development, and marketing of human healthcare products. As a DevOps Engineer at Eli Lilly and Company, I play a crucial role in bridging the gap between software development and IT operations to improve the efficiency, reliability, and scalability of the company's software systems.
+Responsibilities:
+Created Azure DevOps pipelines for build automation and deployment as part of CI/CD.
+Developed/deployed data pipelines as part of production DW/DB implementation using Azure DataFactory.
+Automated the provisioning, modification and maintenance of Azure infrastructure services using Terraform and GitHub actions to enable automated deployments.
+Designed and configured Azure Virtual Networks (VNets), Subnets, Azure Network Settings, DHCP Address Blocks, DNS Settings, Security Policies and Routing.
+Created and managed Virtual Machines in Windows Azure and set up communication with the help of Endpoints and VM. Deployed applications to multiple destination servers and VMs using deployment groups.
+Managed Azure Active Directory and created new groups for users.
+Deployed instances on Azure environments and in Data Centers and migrated to Azure using Azure Site Recovery.
+Implemented containerized based applications by using Azure Kubernetes Service (AKS).
+Written Templates for Azure Infrastructure as a Code using Terraform to build staging and production environments.
+Integrated Azure Log Analytics with Azure VMs for monitoring the log files, store them and track metrics.
+Provisioned containerized solutions centered on tool such as Docker and Kubernetes.
+Provisioned Azure Kubernetes Cluster as well as Azure Container Registry.
+Managed Kubernetes charts using Helm, created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed releases of Helm packages.
+Designed installed and implemented Ansible configuration management system and in writing playbooks for Ansible and deploying applications.
+Monitoring infrastructure and service monitoring using Prometheus to pull metrics and Grafana dashboard to display.
+Designed and implemented Database Schema import data and build stored procedures on AzureSQL.
+Configured Jenkins to build and deploy by setting up SonarQube, Maven, Nexus to build CI/CD pipeline.
+Integrated GIT into Jenkins to automate the code check-out process.
+Designed disaster recovery strategies, backup, and retention architectures on Azure.
+Environment: Microsoft Azure, Azure Data Factory, Azure Databricks, Azure Kubernetes Service (AKS), Azure Site Recovery, Azure Log Analytics, Azure VMs, Azure Container Registry, AzureSQL, Azure DevOps, Terraform, Docker, Kubernetes, Ansible, Apache, SonarQube, Maven, GIT, Jenkins, Nexus, Bash Shell Scripting, Python, Linux
+Client: Key Bank, Indianapolis, Indiana, U.S. Feb. 2021 - Jan. 2022
+Role: Senior DevOps Engineer
+Description: Key Bank is the largest locally-owned national bank. It delivers a full range of banking services to professionals, executives, closely-held businesses and non-profit organizations. Integrating security best practices into CI/CD pipelines and infrastructure configurations to ensure compliance with regulatory requirements and protect sensitive data.
+Responsibilities:
+Developed a third-party service for Instagram followers and engagement to automate their growth using Python, TensorFlow, MongoDB and REST APIs, improved consumer service rates by 15%.
+Rebuilt a new reporting system for Instagram users to gain a better understanding of the followers' posts with their engagement score using Python, Django, PostgreSQL, TypeScript, React.js, and improved user retention rates by 18%.
+Updated the existing infrastructure architecture for each Kickstart service to scale up or down as needed and to handle sudden increases or decreases in demand using CI/CD pipeline, Kubernetes, Docker and AWS microservices, saving ~10% of cost and work hours. Architecture and Integrated in Infrastructure Development and Operations involving AWS Cloud platforms, EC2, EBS, S3, VPC, RDS, SES, ELB, Auto scaling, Cloud Front, Cloud Formation, Elastic Cache, Cloud Watch, SNS. Strong Experience on AWS platform and its dimensions of scalability including VPC, EC2, ELB, S3 and EBS, ROUTE 53.
+Managed AWS design architectures with AWS IaaS/PaaS, DevOps, Storage, Databases Components also Work with Cloud Platform Teams on implementing new features on AWS platform and Design and Development work on building scripts and automations for AWS cloud.
+Set up the scripts for creation of new snapshots and deletion of old snapshots in Amazon S3 and worked on setting up the life cycle policies to back the data from AWS S3 bucket data.
+Created and enforced Configuration Management policies and procedures, project configuration management, adhere to the Company policy and was successful in implementing it.
+Developed automated solutions to monitor and support software development and release processes.
+Implemented Continuous Delivery using Jenkins, Chef, SVN and Maven in Windows/Linux environment.
+Worked on public cloud infrastructure preferably using AWS Product and Services Ec2, virtual private cloud (VPCs), IAM, Security groups, Elastic Beanstalk, S3, VPC, CloudFormation, RDS, Lambda, Redshift, SQS, SNS, cloud watch and Security Services AWS Shield, AWS Trusted Advisor, cloud front, Cloud Trail’s.
+Analysed application performance using Dynatrace APM and Integrated Dynatrace with Jira and PagerDuty.
+Provisioned EC2 instances into AWS by using Terraform scripts from scratch to pull images from Docker and performed AWS S3 buckets creation, policies on IAM role-based policies and customizing the JSON template.
+Environment: Docker, Kubernetes, Chef, Jenkins, SVN, Maven, Amazon Web Services (AWS)–EC2, S3, Lambda, Cloud Formation, Cloud Watch, Terraform, Python, Shell Scripts, Apache Tomcat, Jira, Windows, Linux.
+Client: PNB MetLife India Insurance Co. Ltd., Mumbai, India Jan. 2019 - Sep. 2020
+Role: DevOps Engineer
+Description: PNB MetLife India Insurance Co. Ltd. is a life insurance company. It provide a wide range of insurance products and services to individuals and businesses. I worked on containerization technologies like Docker and container orchestration platforms like Kubernetes for deploying and managing containerized applications at scale.
+Responsibilities:
+Updated the existing infrastructure architecture for each Kick-start service to scale up or down as needed and to handle sudden increases or decreases in demand using CI/CD pipeline, Kubernetes, Docker, and AWS microservices, saving ~10% of cost and work hours. Maintained the monitoring and alerting of production and corporate servers using CloudWatch service and Site 24x7/Nagios and used Cloud Trail’s to track.
+Created Log collection in ELK (Elastic Search, Logstash) installed on all nodes in cluster to send log data.
+Created and deployed web interfaces reporting on multi-platform automated build and test suites (TFS build reporting, SharePoint Server, Cruise Control and IIS) experience using Agile Scrum methodology.
+Experience in knowledge of DB mirroring in SQL server and fail over clustering on high availability SQL server also responsible for SQL server edition upgrades and SQL server patch management. Review firewall policies on regular basis for compliance and ensure to follow best practice for firewall deployments using security Management tools.
+Created and enforced Configuration Management policies and procedures, project configuration management, adhere to the Company policy and was successful in implementing it.
+Developed automated solutions to monitor and support software development and release processes.
+Implemented Continuous Delivery using Jenkins, Chef, SVN and Maven in Windows/Linux environment.
+Installed the application on AWS EC2 instances and configured the storage on S3buckets. Migrated an existing legacy infrastructure and recreated the entire environment within AWS.
+Supported/enhanced Lambda functions in AWS that queries elastic search cluster for producing servers.
+Environment: AWS –EC2, S3, Lambda, Python 3.8, Cloud Formation, Cloud Watch, Ansible, Kubernetes, Docker, Jenkins, GIT, DNS, Jira, Windows, Linux.
+Client: Vodafone Idea Limited, Mumbai, India Apr. 2016 - Dec. 2018
+Role: DevOps Engineer
+Description: Vodafone Idea Ltd (VI) is a provider of telecommunication services. The company provides mobile services, broadband and passive infrastructure services. Demonstrated ability to diagnose and resolve complex technical issues across distributed systems and microservices architectures.
+Responsibilities:
+Configured Power Shell scripts to automate the Azure cloud system creation including end-to-end infrastructure, VMs, storage, firewall rules. Worked with PowerShell to automate SQL tasks, environment management related tasks and procedures on Windows machines.
+Automated the Word Press and MySQL container deployment in Docker using Python.
+Worked with Configuration Management automation tool Ansible and has worked on integrating Ansible YAML Scripts. Developed Build & Deployment Scripts using build tools MS Build in Azure Pipelines to migrate from one environment to another environment and utilized Nexus, SonarQube.
+Written various Power Shell scripts to do Patching, Imaging and Deployments in Azure and integrated Power Shell to automate Azure DevOps Services set up using the Azure DevOps Rest API.
+Integrated Prometheus and Configured the Agent by exposing the endpoints through pods to collect Prometheus data, querying, and using the data on Azure Monitor for containers.
+Integrated on premise active directory with azure active directory and established SSO connections using SAML2.0 and OAuth2.0 protocols in AD. Created the automated build and deployment process for application, re-engineering setup for better user experience, and leading up to building a continuous integration system.
+Building and Installing servers through azure Resource Manager Templates or azure Portal. Migrating an On-premises virtual machine to azure Resource Manager Subscription with azure Site Recovery.
+Involved in setting up JIRA as a defect tracking system and configured various workflows, customizations, and plugins for the JIRA bug/issue tracker. Written automation scripts like Bash, JSON, Groovy, Python and MAVEN for build automation.
+Working as a DevOps for multiple development teams, system analysis team to establish a build schedule, provide a guideline for deployment in higher environments and with troubleshooting build system failures.
+Monitoring of Application and Servers through Nagios. Web Servers Administration on Apache and Nginx.
+Environment: Azure, MAVEN, Chef, Python, Bash, JSON, Groovy, WebSphere, DNS, LDAP, NFS, NIS, PostgreSQL, JIRA, Git, Yaml, Puppet, Ansible, Jenkins, Kubernetes, Docker, PowerShell, SonarQube, VM Ware, Windows Server, MS Office Suite.
+Client: Carwale, Mumbai, India Aug. 2014 - Mar. 2016
+Role: Cloud Engineer
+Description: Carwale is one of the India's leading source of new car pricing and other cars related information. It offers a complete consumer-focused service that includes content and tools to simplify car buying in India.
+Responsibilities:
+Developed an inventory management tool to support the international restaurant system using Python, Django, PostgreSQL, and Docker, generating ~$1M of revenue annually.
+Created a dedicated microservices-based architectures to manage the inventory levels, ordering and receiving new stock, tracking food expiration dates, and generating reports using Kubernetes, AWS Lambda, AWS EC2, S3, RDS, SQS, SNS, and API Gateway, enabling businesses to get more efficient inventory management system that supports their growth and success over time.
+Experience in automating AWS infrastructure provisioning and management using tools such as AWS Cloud Formation.
+Configured Amazon S3 to store, retrieve and serve static website content utilizing all storage classes such as S3 Standard, S3 Intelligent-Tiering, S3 Standard-IA, and S3 One Zone-IA. Configured VPC’s with multiple subnets and CIDR ranges for new environments, managed traffic through configuration of route tables and inbound and outbound NACL rules.
+Managed IAM roles, policies, permissions, groups, for security and access management, ensuring data integrity and confidentiality. Utilized Route 53 to manage DNS settings for services and virtual machines. Routed traffic and user requests to ELB, EC2 instances, S3 buckets, and other infrastructure running on AWS.
+Understanding of managing Ansible inventories of hosts and defining their roles and responsibilities.
+Environment: Java, Azure, GCP, Python, AWS Lambda, VPC, Java, Kubernetes, Terraform, JSON, YAML, Docker, Bash, Perl, Cron jobs, Git, Jenkins, MySQL, Nagios, SQL, NOSQL, Puppet, LINUX, Ansible, Bit bucket, JFrog, YAML, SonarQube, Splunk, Jira.
+
+AKASH MI
+DevOps/ Cloud Engineer
+TECHNICAL SKILLS
+Cloud Environment:
+Microsoft Azure, Amazon Web Services (AWS)
+CI/CD Tools:
+Jenkins, Azure DevOps
+IaaC:
+Terraform, Cloud Formation
+Container Tools:
+Docker, Kubernetes, AKS
+Monitoring Tools:
+Azure Monitoring Service, CloudWatch, Dynatrace Grafana
+Automation Tools:
+Ansible, Chef, Puppet
+Build Tools:
+Maven, Ant
+Version Control Tools:
+GIT, SVN
+Scripting:
+Perl, Bash, Shell, Python
+Web & Application Servers: Apache, Apache Tomcat, JBOSS, WebLogic
+Ticketing Tools:
+JIRA
+Package Repository:
+Nexus, Artifactory
+Code Quality Analysis Tools: SonarQube
+Databases:
+Oracle, MySQL, SQL Server
+Operating Systems:
+Windows, Linux, Unix
+EDUCATION
+ad8yv3@r.postjobfree.com
+706-***-****
+CONTACT
+OBJECTIVE
+A seasoned DevOps Engineer with 9+ years of extensive experience in designing, implementing, and optimizing CI/CD pipelines, automating infrastructure provisioning, and enhancing system reliability and scalability. Proven track record of leveraging cloud technologies and containerization to drive efficiency and improve deployment processes.
+PROFILE SUMMARY
+Master of Science in Information Studies from Trine University, Angola, IN, USA
+9+ years of Insightful IT experience, 6+ years in Azure/AWS Cloud, DevOps Engineering, Build/Release Management, and automating, building, releasing of code from one environment to other environment and deploying to servers.
+Experience on complete software development lifecycle (SDLC) with software development models like Agile, Scrum Model, and Waterfall models.
+Extensive experience in Docker, Kubernetes, GIT, Azure, AWS, DevOps, Terraform, Build/Release Management, Cloud Management, Containerization and Databases.
+Hands on experience in installing and dealing with troubleshooting Ansible on central nodes and managed hosts.
+Good experience in setting up Kubernetes (k8s) Clusters for running microservices.
+Experience working on deployment automation of all the microservices to pull image from the private Docker registry and deploy to Docker Swarm cluster using Ansible.
+Good experience with DevOps architecture, Serverless Computing and Microsoft Azure.
+Experience working on Data Ingestion to one or more Azure Services - (Azure Data Lake, Azure Storage, Azure SQL, Azure DW) and processing the data in Azure Databricks.
+Experience in Azure Platform Development, Deployment concepts, hosted cloud services, platform services and close interface with Windows Azure Multi-Factor Authentications.
+Experience in migrating on-premises applications to Azure and configured VNETs and Subnets as per the project requirement.
+Proficient in writing Azure Resource Manager (ARM) templates to deploy, update and delete multiple resources in Azure. Expertise in migrating on-premises resources to Azure with Azure Site Recovery (ASR) and Azure Backups.
+Extensive experience in Azure Backup, Azure policies, Azure Key Vault, Salt Stack and Tagging. Experience in implementing CI-CD (Jenkins) pipeline for AWS Cloud services and deployed code to AWS services like EC2, S3, AWS Lambda, CloudFormation, CloudWatch and Elastic Beanstalk.
+Expert in configuring monitoring for Azure VMs using Azure Monitor, Log Analytics and AppInsights. Experience in writing Infrastructure as a Code (IaaC) in Terraform to deploy Azure resources and services.
+Expertise in Querying RDBMS such as Oracle, PL/SQL and MySQL by using SQL for Data integrity.
+Great experience in Dynatrace APM end to end implementation.
+Skilled in installing, configuring and troubleshooting on Windows/Linux/Unix servers using enterprise standards.
+Good experience in implementing CI/CD pipeline using Azure DevOps in both cloud and on-premises with GIT, Maven along with Jenkins plugins.
+Experience in using JIRA to keep track of all the ongoing tasks and maintain bug resolutions.
+Contact this candidate

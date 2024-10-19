@@ -1,0 +1,82 @@
+RICHARD LEAL
+Sr. Network Engineer
+
+Certified Cisco professional with years of experience working with Cisco routing switching, problem-solving external and internal connectivity, wireless security including wireless channel plan, Access Point placement for a strong signal, and roaming deployment.
+
+SUMMARY OF QUALIFICATIONS
+Solid skills in Cisco routing and switching. Achieved CCNA, CCDA and CCNP certifications, as well as pursing the CCIE routing and switching certification. Cisco wireless controllers and access points, Cisco Prime
+Solid skills configuring, implementing, and supporting routing protocols., BGP, OSPF, IPsec, SSL EIGRP, OSPF, BGP and Load balancing. Ripv2 Cisco and Juniper switches and routers
+Cisco, Palo Alto, and Juniper firewalls NetScaler
+Solid skills with layer 1 Data Center cabling installs and layer 2 protocols, STP, VLANs and subnetting.
+Proficient in Microsoft networking, which includes Microsoft, server configuration, server administration, client administration, peer to peer, network interface peripherals, resource sharing, all cabling, security, and system customization.
+Excellent customer service skills. Regularly recognized and requested by customers for consistently creating a high level of customer satisfaction.
+Strong Knowledge of MPLS and supporting connectivity with vendors as well as the edge network connection. Analytics and troubleshooting routing skills with VPN using IPsec to create site to site tunnels as well as remote user AnyConnect access. Configuring BGP connectivity to the internet.
+Light Experience with Azure, AWS and other cloud services.
+Strong knowledge with TCP/IP OSI model.
+Configured, installed, and supported hardware platforms both Catalyst and Nexus series 3800, 3700, 6500, 2960 series, Nexus 4500, 5500 and 7000
+Experienced with virtualization technologies, with ACI as SDN solution for automation and spine leaf design.
+
+PROFESSIONAL EXPERIENCE
+CITY OF HOPE IRVINE, CA OCTOBER 2021 – JULY 2023
+SENIOR NETWORK ENGINEER
+Supported Network related solutions for LAN, WAN, VPN, WiFi, ISE, and DDoS attacks and provided support for Tier-2 and Tier-3 escalated issues relating to networks
+Replaced/upgraded from Aruba wireless infrastructure to new Juniper platform for wireless management of Mist APs with the ability to view and troubleshoot issues as well as replaced Mist Access Points using Mist Juniper portal cloud
+Ordered multiple 10 Gig circuits to the main campus in Duarte and Irwindale and brought up Mist wireless and wired patching for Operating Room and ultrasound
+Supported 300+ hospital cancer patients by ensuring network connectivity, ensuring patients that their treatment and medication are not impacted by network issues
+
+VOLT CONSULTING ORANGE/IRVINE, CA SEPTEMBER 2020 – SEPTEMBER 2021
+SENIOR NETWORK ENGINEER
+Resolved 100’s of network tickets using ticketing system
+Worked on Up down interfaces, tracing outages using IP ARP and CDP neighbors
+Troubleshot WAN/LAN Connectivity dealing with EIGRP and BGP MPLS and point to point circuits for normal business.
+Moved the Data Center from Orange, CA to and Irvine, CA colocation center using P2P circuit for 100 G file transfers into the Azure Cloud and MPLS/BGP for connectivity to transfer remaining data center server data into the COLO access for Cisco Catalyst L3 switches configuration.
+
+CITY OF HOPE IRVINE, CA SEPTEMBER 2019 – AUGUST 2020
+SENIOR NETWORK ENGINEER
+Supported City of Hope Hospital network. Working in data center and onsite deploying new networks and supporting existing. Primary devices are Cisco along with Palo Altos, ASA firewalls for both site to site and client cisco any connect.
+Palo Alto’s primary for outer DMZ Cyber Security support using BGP connectivity and equal cost path load balancing inbound outbound to and from the Internet.
+Routers and switches are the Nexus, Catalyst platforms used internally running EIGRP.
+NetScaler Load balancers were used in this environment.
+Separate ASA 5500 firewalls used internally for site to site and user VPN access.
+
+SAIC Anaheim, CA JANUARY 2019 – SEPTEMBER 2019
+SENIOR NETWORK ENGINEER
+Brought onboard as a contractor for a couple of months to assist with site surveys and Network monitoring and troubleshooting any outages. We worked on call 24 hours and dispatched out to sites to resolve any network issues.
+I was also responsible for going out to multiple sites and documenting network devices, serial numbers, and asset tags. I also provided detailed pictures of racks according to order and what equipment was in each rack.
+Responsible for creating spreadsheets consisting of hardware model, modules, number of power supplies as well as location of MDF and IDF for ease of location to the sites to support and resolve any router, switch issues if or when there is an outage.
+Supported Cisco 3900 L3 Cisco hardware running EIGRP internally and BGP to the internet.
+VPN access was managed by separate team running Cisco concentrators.
+
+WELLS FARGO DEALER SERVICES IRVINE, CA SEPTEMBER 2009 – DECEMBER 2018
+NETWORK ENGINEER
+Monitored Wells Fargo for vulnerability remediation and site issues while also performing on-call duties
+Upgraded over 20 sites to dual router configuration for a dual-router project for redundancy
+Assisted with SSH security remediation project, using a packet sniffer to help troubleshoot the TCP/IP stack from the physical layer to the application layer
+Assisted in VSS HA installation for Pasteur data center
+Assisted with a two-tier firewall upgrade in Texas to improve network security and reduce vulnerability to viruses and hackers
+Performed monthly network services operational report in addition to monthly SLA report
+
+APRIA HEALTHCARE, LAKE FOREST, CA JULY 2006 – AUGUST 2009
+NETWORK ENGINEER
+Responsible for design, configuration and supporting Apria corporate data center, DR site and over 600 site networks. Support and maintain firewall and VPN access.
+Redesigned and upgraded core data center, upgrade involved replacing Apria core switches with a fully redundant HA design. This was accomplished with zero downtime to the business.
+Moved acquisitioned data center into existing data center. Included switching design, branch and VPN remote access.
+Upgraded and redesigned Apria Internet edge. Replacing the VPN Nortel solution with HA pair of Cisco ASA 5540. This involved the migration of over 30 site to site connections as well as over 500 client connections with a fail over to DR site. Implemented new DMZ design using 3750 stack solution for the edge I DMZ. Upgraded Internet hardware to dual 7200 Cisco routers taking full BGP routes and peering with dual ISP's for Internet load balancing.
+Migrated existing frame relay network to MPLS network. Implemented OC3 connections using 7200 Cisco routers at the core data center and DR sites. Redesigned enterprise BGP configuration for automatic core, DR and branch fail over.
+Implemented NAC for remote VPN user access. Designed for single sign on using radius auditing between Cisco ASA and AAA server. Configured access policy to check for OS security and Norton A/V updates.
+Implemented MARS and designed to handle syslog and NETFLOW from core and branch devices as well as the firewall and IPS to provide a full view into the Apria network.
+Implemented WASS at the branch and core sites to provide increased network performance over the WAN. This achieved an 80% increase in network performance.
+Cisco ACE module load balancer installed and designed to load balance web server production and nonproduction environment. Source NAT was implemented to overcome layer 2 limitations. The design was for least connection, round robin and sticky according to specs for the servers.
+Installed Cisco 4255 IPS on DMZ as well as the firewall inside entry point to capture all Internet traffic to from DMZ as well as the traffic to from inside network.
+Implemented Cisco hardware and network design for Nortel, Avaya VOIP solution. Configuring QOS end to end to handle voice quality.
+
+EAST WEST BANK, Pasadena, CA JUNE 2004 – July 2006
+NETWORK ENGINEER
+Responsible for network configuration, maintenance and maximum network uptime for over 70 branches and the corporate data centers.
+Designed and implemented new data center for corporate office with 8 floors using the Cisco safe design.
+Designed and implemented MPLS network and built back up frame-relay network to DR site for over 70 branches.
+Configured and Managed Cisco VPN for internal customers and vendor access using ACS for TACACS. Ran Mars and CSA with IDS sensors internal to the 6500 switches as well as configuring and managing the firewall switch module for vendor access using Tl or ISDN access into the data center.
+Helped manage APC equipment, AC units and UPS equipment in the new data center, also helped maintain the UPS equipment at the branches.
+Helped build and maintain Microsoft and Novell server.
+Converted multiple bank acquisitions into the East West Bank network.
+Contact this candidate

@@ -1,0 +1,137 @@
+MICHAEL J. GRAZIANO, Ph. D.
+(***) *** – ****
+ad8w0s@r.postjobfree.com
+https://www.linkedin.com/in/mike-graziano-8609097/
+
+HARDWARE/OS: WINDOWS, LINUX/CENTOS, VAX/VMS, TANDEM/GUARDIAN
+SOFTWARE: PYTHON, J2SE, J2EE, JSPs, SERVLETS, JSTL, STRUTS MVC, SPRING, HIBERNATE, MYBATIS, PONY, C++, STL, C, FORTRAN, VB, VBA, PERL, PHP, JAVASCRIPT, HTML, JSON, XML, XSLT, CSS, IMSL, JDBC, POSTGRES, MYSQL, ORACLE, DB2, RDO, ADO, TSQL, SQL SERVER, ACCESS, CORBA, EMACS, TEX, EXCEL, WORD, POWERPOINT, VISIO, MAVEN, ANT, JENKINS, GIT, SVN, CVS, PVCS, CYGWIN, POWERSHELL, MATLAB, TOMCAT, WEBLOGIC
+EMPLOYMENT
+HISTORY:
+IBM THOMAS J. WATSON RESEARCH CENTER, YORKTOWN HEIGHTS, NEW YORK
+JUN 2019/PRESENT Independent Consultant
+Assisted researchers by writing custom ETL applications to load EDC and other medical data in CSV and JSON format into Postgres tables. Applications were written in Python and run on a Linux server using CentOS. Bash scripts were developed to acquire data from a remote server using rsync. Separate scripts ran the Python applications which converted the JSON to CSV and loaded them into the database using Postgres’ bulk copy utility. JSON was also often ingested in its raw state and views were created to provide information in a relational format for researchers to consume. Both approaches significantly improved the speed with which large files could be loaded and used by researchers. Some data also resided on Amazon S3 and were downloaded using Python’s Boto3 AWS SDK, whereas others were maintained with a Kafka message broker pipeline that was integrated with Apache Storm and ran in a Docker container.
+
+NORWALK COMMUNITY COLLEGE, NORWALK, CONNECTICUT
+JAN 2003/DEC 2003 Full Time Assistant Professor
+SEP 1997/PRESENT Adjunct Professor
+Taught intermediate and advanced courses in C++ and Java programming, design and analysis of data structures and web development to full-time students and industry professionals.
+
+ACE+ CONSULTING, LLC, BEDFORD, NEW YORK
+DEC 2009/PRESENT Independent Consultant
+Assisted in the review and claim charting of several patents related to statistical pattern classification based on neural network and other technology. Wrote MATLAB code to demonstrate the features of the pattern classifying methods.
+Developed, deployed and maintained a web-based patent assistant application. The application allowed users to upload Excel spreadsheets containing a list of patents associated with a specific intellectual property violation research assignment. The dollar amount attributed to consultants investigating the violation was tracked and the tool provided numerous query capabilities. The application was written in Java and used all open-source solutions including Hibernate, Spring, Struts2, jQuery and MySQL.
+
+TRANSAMERICA RETIREMENT SOLUTIONS, HARRISON, NEW YORK
+JUN 2011/APR 2019 Sr. Software Engineer
+Developed, deployed and maintained a multi-vendor pension remittance and census reporting system based on the SPARK Institute Best Practices. Data from multiple vendors was consolidated into a report that was FTP-ed to users to facilitate compliance with 403(b) regulations. The application was written in Java and used MyBatis as the persistence framework and Flatworm to generate the reports.
+Wrote a Java-based web service to process payroll remittance uploads from a fellow retirement solutions provider that merged with the company. These services were deployed on Tomcat and used Apache CXF, Spring and MyBatis. As such, the solution was completely open source thereby providing a significant savings to the company without compromising availability and reliability.
+LAMONT-DOHERTY EARTH OBSERVATORY, PALISADES, NEW YORK
+DEC 2010/JUN 2011 Sr. Software Engineer
+Completed a re-write of the sedimentary database web site using Struts and CSS. The re-write improved the look and feel of the application markedly over its original implementation in addition to providing context-sensitive help for users.
+Worked on bug fixes and new feature enhancements for a variety of geochemical databases and associated websites.
+Improved existing stored procedures to load Excel spreadsheets maintained by data analysts. The improvements reported data entry errors, thereby saving time during the debugging of failed loads.
+Wrote numerous Unix scripts to monitor Weblogic operations that were impacting system CPU and disk resources.
+
+QUARTET FINANCIAL SYSTEMS, HAWTHORNE, NEW YORK
+APR 2010/DEC 2010 Independent Consultant
+Worked on bug fixes, product enhancements and general support of Markit Clear, a Java-based, electronic loan trade processing platform for efficient settlement of primary issuance and secondary trading of par and distressed loans in both the U.S. and European markets.
+Designed and implemented a borrower’s email consent feature enhancement that generated emails using the JavaMail API for loan trades requiring the borrower’s consent.
+Developed an application load balancing solution based on the Apache web server
+Wrote build scripts that started jobs on the Hudson continuous integration server and deployed end products to Linux test platforms.
+
+OMGEO LLC, BOSTON, MASSACHUSETTS
+JUL 2008/OCT 2009 Independent Consultant
+Provided technical assistance in the form of bug fixes and product enhancements to CrossCheck, a webbased, OTC derivative trade reconciliation system. The application was written in Java/Javascript and used XSL styling of server-generated XML messages and an Oracle / MySQL data engine that was accessed using JDBC.
+Developed an automatic break notification system that employed servlets written with the JavaMail API to generate emails to all users who were assigned breaks after match processing.
+
+SDS CAPITAL PARTNERS, OLD GREENWICH, CONNECTICUT
+AUG 2004/MAY 2008 Senior Software Engineer
+Designed, developed, implemented and maintained the entire software infrastructure for a 400 million dollar long-short equity hedge fund. Systems were primarily developed in core Java and J2EE with some C++ to accommodate a COM-based API available from FactSet and the Bloomberg C-API. Multi-threaded database loaders developed exclusively using core Java / JDBC formed the core of the system. Open source Java tools such as Jakarta Commons where heavily leveraged in the implementation.
+Developed Java software and shell scripts for regularly scheduled downloads of data files via FTP ( both command line and open source Java FTP solutions ) or web site downloads via CURL.
+Managed a SQL Server database that was the primary repository for the company’s data. Wrote stored procedures and triggers to support trading and other activities. BULK INSERT, bcp and Java / JDBC applications were used to both load and scrub vendor data. Some data was also housed in MySQL on Windows 2003 servers and FAME databases on a Sun Solaris server.
+Created a portfolio tracking and rebalancing systems. Both systems were capable of handling any number of portfolios and provided e-mail reports and well as having a web interface based on the Javabased Struts framework and Java / JDBC for control and reporting purposes.
+Implemented a wide variety of procedures ranging from nightly builds, backups and data scrubbing utilities. Developed these processes largely using Ant and batch scripts making use of Cygwin tools on Windows 2003 servers. Used PGP to encrypt key trade files for transmission to outside entities.
+Interacted routinely with quantitative analysts and traders to gather requirements. Documented requirements, storing them in a VSS repository along with other Java software products.
+
+EARLIER NEW PALTZ HIGH SCHOOL, NEW PALTZ, NEW YORK
+EMPLOYMENT: Leave Replacement
+Taught sophomores, juniors and seniors New York State Regents Math A, B and AP Calculus.
+
+TELEKURS USA, STAMFORD, CONNECTICUT
+Senior Software Engineer
+Consultant
+Provided hands-on technical leadership to programmers, data analysts, marketing/product managers and network/system administrators in the research, development and ongoing maintenance of diverse financial services software and systems for a large, multi-national, financial information services organization.
+Managed and participated in the ongoing development and support of FinSource, a portfolio pricing and corporate action reporting system serving both domestic and international customers. Responsible for daytoday development activities as well as long-term strategic software planning and implementation. Improved the efficiency of legacy C++ and VB components of the system through the introduction of newer technologies such as ADO and stored procedures in a MS SQL Server environment, thereby saving money on hardware upgrades.
+Researched the design and developed a prototype for a Java/J2EE-based corporate action reporting system. Made use of Java servlets / JSPs running on Tomcat and accessing a MS SQL Server database via JDBC Type IV drivers. This approach was extremely responsive and saved the company significant money through the use of open-source solutions.
+Wrote C++ and Java-based tools for the operations wing of the organization to monitor system resource utilization and provide JavaMail notification of outstanding help desk tickets.
+
+REUTERS ANALYTICS GROUP, STAMFORD, CONNECTICUT
+Sr. Programmer Analyst
+Managed and worked side-by-side with a staff of programmers in the development of fixed income analytical software.
+Implemented a treasury monitoring system that provided real-time price, yield and related analytical updates for the benchmark securities of the G24 government bond markets. Based on an object-oriented design, the system was written in C++ and served as the prototype for all future development.
+Researched, designed and implemented in C an option adjusted analysis system to value domestic and international corporate bonds with embedded options. Based on Monte Carlo simulation methods and in-house developed theoretical term structure models, the system calculated spot rate spreads, option value and effective duration and convexity.
+Developed in C a term structure analysis system capable of estimating spot and implied forward interest rates for US and non-US bond markets. Nonlinear optimization was performed on daily prices that were retrieved from various market sources. This resulted in instantaneous forward rate estimates that were both maximally smooth and yielded a minimal weighted sum square mispricing error for benchmark securities. The estimates served as input to other systems that performed bond valuation, credit rating and option-adjusted analysis.
+Wrote a derivative hedge strategy calculator that allowed users to hedge the interest rate and foreign exchange exposure of bond, mortgage-backed security or futures positions with any desired combination of bonds, options, futures, options on futures and foreign exchange rates. Using duration-based hedging, the calculator computed and displayed the amounts of interest and F/X exposure for the position security. The hedge ratio was presented for as many as five possible securities in addition to the number of contracts required to hedge the position security by various percentages.
+Completely revamped a price history display application enhancing its capabilities to include the simultaneous textual and graphical display of prices, yields and/or rates for up to six different securities.
+
+BLOOMBERG FINANCIAL MARKETS, NEW YORK, NEW YORK
+Programmer/Analyst
+Developed applications in Fortran to support the activities of portfolio traders. Wrote software to implement a menu driven portfolio ticket entry system. The code interfaced with existing utilities to display a portfolio allocation ticket, accept user input, perform consistency and other error checking and update the firm's position summary database.
+Coordinated the activities between the trading/pricing systems and ticker groups. Enhanced existing pricing system software to accept real time feed data from a variety of domestic and international exchanges and perform database updates for fixed income instruments. Assisted customers in establishing, testing and maintaining online pricing feeds. Responded to customer and in-house inquiries regarding pricing systems. Updated system documentation.
+
+BROOKVILLE ANALYTIC INVESTMENT COMPANY, GREENWICH, CONNECTICUT
+Senior Programmer Analyst
+Developed software to execute program trading based on a seasonal assumption of commodity price action. The system was designed to place long term trades and required sophisticated statistical analysis software modules in order to identify, rank and sort most effective trade combinations. C programs yielding maximum likelihood estimates of ARIMA time series parameters were custom made in order to forecast the effect of backwardation and make suitable price adjustments.
+Implemented a volatility-based, daily trading system. The system, written in C, read daily contract price data files, calculated breakout and breakdown price bands, signaled trades, tracked profit and loss on a per trade, daily, monthly and annual basis and reported anomalous price activity and resulting system response. These statistics served as input to money management and risk assessment systems.
+Created simulation software in C to test the performance of components of the trading systems using Monte Carlo methods. Generated pseudo-random deviates for a generalized t-distribution with non-integer degrees of freedom. Determined the t-distribution parameter via a least squares error analysis.
+Designed and installed a low cost, reliable, high speed LANTASTIC local area network of 486s to support the research, development and production activities of the firm. Such activities included program development/testing and daily updating of multiple contract price databases.
+Wrote/debugged C routines to manipulate tick price data files. The programs corrected rounding errors, reduced file size by removing unwanted fields and eliminated inordinate price jumps between closing and next day opening prices for the purpose of continuous tracking.
+
+WANG FINANCIAL INFORMATION SERVICES CORPORATION, NEW YORK, NEW YORK
+Senior Technical Support Analyst
+Managed system performance on a geographically distributed, seven node network of 88 TANDEM processors supporting the SHARK financial service. This multi-faceted, real time service provided quotations, analytics, historical data and graphics to over 3,000 users located at 426 major institutional and retail investment firms.
+Developed regression models to predict effect of user activity on X.25 and EXPAND processing. These models served as guidelines for managing system performance as well as providing thresholds for decision making in capacity planning issues. Instructed management on the use of such models.
+Researched the impact of C10 operating system upgrade on memory consumption, application performance and system processing. Recommended major modifications to system memory configuration and disc process structure that reduced upgrade costs by circumventing the need to install more CPU memory.
+Successfully implemented results of extensive study to access feasibility of deploying CLX systems to remote locations in New York, Los Angeles and Cleveland. Such deployment resulted in distributed front-end processing, improved network reliability, reduced hardware costs and decreased user perceived response time.
+COVIDEA CORPORATION, JERICHO, NEW YORK
+System Performance Analyst
+Executed performance analysis and capacity planning functions on a four node, 29 processor TANDEM system that served as the host for a major videotex service vendor.
+Implemented a CMI/CUP trace analysis utility to monitor production environment, alert operators of potential response time problems and serve as a source of data for long-term studies.
+Applied multivariate statistical methods to:
+Model the relationship between system resources, network parameters and user activity
+Forecast the effect of increased session duration and/or session number on resource utilization
+Study the adverse effects of a new disc process (DP2) on main memory locking
+Integrated MEASURE, PEEK, ENFORM and external analysis routines written in FORTRAN to collect and process system measurement data.
+
+SPERRY CORPORATION, GREAT NECK, NEW YORK
+Systems Engineer
+Generated maneuver model for TRIDENT II class submarines applying autocorrelation and power spectral density approaches.
+Coordinated sensitivity study to forecast effect of maneuvers and motions on navigation/weapon systems accuracy.
+Determined stability of gravity-measuring instrumentation platform via root-locus analysis.
+Wrote/debugged FORTRAN covariance analysis programs to evaluate navigation system performance.
+Actively participated in the publication of classified documents pertaining to risk management.
+Lectured in-house, continuing education courses in communication theory.
+
+ACADEMIC
+BACKGROUND:
+POLYTECHNIC UNIVERSITY, BROOKLYN, NEW YORK
+SEP 1990/JUN 1995 Ph.D. (Post Graduate G.P.A. - 3.82)
+Developed a novel multivariate statistical training algorithm for pattern discriminating neural networks. This procedure yielded nets with low misclassification errors in significantly less time than conventional methods.
+
+EARLIER POLYTECHNIC INSTITUTE OF NEW YORK, BROOKLYN, NEW YORK
+EDUCATION: M.S.E.E. (Summa Cum Laude)
+Primary focus on statistics, optimization, mathematical modeling and simulation.
+
+THE COOPER UNION, NEW YORK, NEW YORK
+B.S.E.E. (Summa Cum Laude)
+Advanced undergraduate Electrical Engineering curriculum with strong interdisciplinary emphasis.
+
+PROFESSIONAL
+ORGANIZATIONS:
+ETA KAPPA NU HONOR SOCIETY
+Member
+
+TAU BETA PI HONOR SOCIETY
+Member
+President (1980/1981)
+Contact this candidate

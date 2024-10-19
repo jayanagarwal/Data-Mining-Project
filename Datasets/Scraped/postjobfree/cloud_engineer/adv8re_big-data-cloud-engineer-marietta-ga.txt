@@ -1,0 +1,205 @@
+Sam Tekle
+Big Data & Cloud Engineer
+E: adv8re@r.postjobfree.com
+P: 202-***-****
+
+PROFILE SUMMARY:
+•A seasoned Professional with 8+ years of experience in Big Data development along with Data administration and the delivery of effective solutions through creative problem solving with a track record of building large-scale systems using Big Data technologies.
+•Excellence in using Apache Hadoop to work with Big Data and analyze large data sets.
+•Add value to Agile/Scrum processes such as Sprint Planning, Backlog, Sprint Retrospective, and Requirements Gathering, and provide planning and documentation for projects.
+•Skilled at writing SQL queries, stored Procedures, Triggers, Cursors, and Packages
+•Apply in-depth understanding/knowledge of Hadoop architectures and various components such as HDFS, MapReduce, Yarn, Spark, and Hive.
+•Create Spark Core ETL processes to automate using an Oozie workflow scheduler.
+•Use Apache Hadoop to work with Big Data and analyze large data sets efficiently.
+•Hands-on experience in ecosystems like Hive, Sqoop, MapReduce, Flume, Oozie, Airflow, and Zookeeper.
+•Strong knowledge of Hive's analytical functions, extend Hive functionality by writing custom UDFs.
+•Work with Data Lakes and Big Data ecosystems (Hadoop, Spark, Hortonworks, Cloudera).
+•Hands-on experience developing PL/SQL Procedures and Functions and SQL tuning of large databases.
+•Track record of results in an Agile methodology using data-driven analytics.
+•Load and transform large sets of structured, semi-structured, and unstructured data working with data on Amazon Redshift, Apache Cassandra, and HDFS in Hadoop Data Lake.
+•Experience handling XML files as well as Avro and Parquet SerDes.
+•Performance tuning at source, Target, and DataStage job levels using Indexes, Hints, and Partitioning in DB2, ORACLE.
+•Skilled with BI tools like Tableau and PowerBI, data interpretation, modeling, data analysis, and reporting with the ability to assist in directing planning based on insights from Data warehouses.
+•Transformational Strategist with expertise in transforming business concepts and needs into mathematical models, designing algorithms, and deploying custom business intelligence software solutions, knowledge of building models with deep learning frameworks such as TensorFlow, PyTorch, and Keras
+•Gained experience in applying techniques to live data streams from big data sources using Spark and Scala, possess cloud platform experience using Azure, AWS, and GCP
+•Compiling the available and relevant data, including internal and external data sources, leveraging new data collection processes such as geo-location information.
+•Possess excellent communication skills with the ability to perform at a high level, meet deadlines, and be adaptable to ever-changing priorities.
+
+TECHNICAL SKILLS
+•Languages: Python, Scala, SQL, Visual Basic, R, Command Line, Markdown
+•Python packages: NumPy, TensorFlow, Pandas, Scikit-Learn, SciPy, matplotlib, Seaborn
+•Programming & Scripting - Spark, Python, Java, Scala, HiveQL, Kafka, SQL
+•Databases/Data warehouses - Hive, HBase, Redshift, DynamoDB, MongoDB, MS Access, SQL, MySQL, Oracle, PL/SQL, SQL, RDBMS, Snowflake
+•Cloud: Amazon Web Services (AWS), Google Cloud Platform (GCP), Azure
+•SPARK – Spark, Spark SQL, PySpark, Scala, Spark Streaming, Spark Structured Streaming
+
+PROFESSIONAL WORK EXPERIENCE
+
+Sr. Data Engineer
+Vox Media Inc., Washington DC
+June 2020 to Present
+
+Vox Media, Inc. is an American mass media company based in Washington, D.C., and New York City. As a part of the data engineering team, we are scaling a modern data stack composed around Meltano, dbt, and BigQuery to tackle large-scale problems across digital subscriptions, affiliate commerce, and web analytics among others.
+
+•Designed and executed robust data storage and processing systems leveraging AWS platform capabilities.
+•Configured AWS data services such as S3, Redshift, RDS, DynamoDB, and EMR to facilitate scalable data solutions.
+•Ensured data security during transmission and storage using AWS IAM, KMS, and S3 encryption.
+•Monitored and enhanced performance of data workflows and infrastructure using AWS CloudWatch, Metrics, and Tracing.
+•Automated data processing and maintenance tasks via AWS CloudFormation, Terraform, and related automation tools.
+•Swiftly resolved data-related incidents and issues, ensuring minimal impact on operations.
+•Developed ETL pipelines utilizing AWS Glue, Data Pipeline, and Lambda to ingest and transform diverse data.
+•Enabled access to reliable, scalable data for a broad spectrum of analytical and operational applications.
+•Led the architecture and scaling of a data stack composed primarily of BigQuery, dbt, Meltano, and Airflow.
+•Utilized dbt models to address various data modeling challenges, including web sessionization, conversion journeys, MRR, and customer engagement.
+•Developed a survival analysis-based framework to evaluate retention curves for subscriber cohorts.
+•Prototyped a SQL framework for identity resolution on cross-device, cross-domain web analytics data.
+•Designed and implemented a BI web application for performance analytics.
+•Executed a proof of concept for testing mocked data processing using an EMR cluster and PySpark, with performance monitoring via CloudWatch logs.
+•Automated weekly, monthly, and quarterly reporting ETL processes using Python-based notebooks.
+•Presented regular data-driven updates to stakeholders, utilizing PowerPoint, Tableau, and Excel for data visualization.
+•Scripted PySpark routines to ingest data from sources like Snowflake, processed with AWS Glue, Athena, and EMR, and stored in AWS S3 in Parquet and Avro formats.
+•Operated within a Git development environment for version control.
+•Defined Spark/Python (PySpark) ETL best practices within a QA Test environment prior to production deployment.
+•Managed interdependent Hadoop jobs using Oozie workflow engine.
+•Authored transformation scripts using Scala and developed custom Hive UDFs for date functions.
+•Configured Spark Streaming to receive real-time data from Apache Kafka and store it into HDFS.
+•Created and scheduled Airflow scripts to automate data pipeline operations.
+•Managed multi-node Hadoop clusters using Cloudera Manager.
+•Utilized Flume and HiveQL for ETL operations into the database.
+•Implemented AWS Fully Managed Kafka streaming to facilitate real-time data streaming from company APIs to Spark cluster in AWS Databricks.
+
+Big Data Engineer
+Open Knowledge Foundation - Transparency International
+Washington DC, July 2019 to June 2020
+
+Developed a self-service tool for internal employees. Worked to establish cloud controls for identity governance and assess risks associated with cloud service providers.
+
+•Extracted data from different databases and scheduled Oozie workflows to execute the task daily.
+•Worked with Amazon Web Services (AWS) and was involved in ETL, Data Integration, and Migration
+•Implemented AWS Secrets Manager into Gue jobs to help encrypt account numbers and other private information for client hashing and protection.
+•Designed a data warehouse and performed the data analysis queries on Amazon Redshift clusters on AWS creating a comparison benchmark versus Snowflake to migrate data from disparate sources (Snowpipes).
+•Documented the requirements including the available code which should be implemented using Spark, Amazon DynamoDB, Redshift, and ElasticSearch
+•Designing and implementing data governance policies and procedures to ensure compliance with regulatory requirements and data privacy laws.
+•Collaborating with data scientists and analysts to provide them with the necessary data and tools to support their analysis and modeling needs.
+•Consuming data from Snowflake into AWS data lake (s3) using Glue jobs with PySpark scripts, boto3, and JDBC connectors, then trigger AWS Lambda functions to format files.
+•Created SNS topics for email notifications to get updates on several Lambda functions, Glue jobs, and Crawler tables using python as a programming language.
+•Moved data from Data Warehouse to Amazon DynamoDB for storage and to be consumed by the Mobile team.
+•Managed version control setup for the phantom platform using Git.
+•Perform analysis of user-profiles and current application entitlements based on user profiles, organization, departments, and groups.
+•Built a recommending system to auto-provisioning applications and platform access to new employees/contractors so they are productive as soon as they are onboarded.
+•Selected and built dashboards for internal usage.
+•Developed multiple Spark Streaming and batch Spark jobs using Python on AWS.
+•Implemented advanced procedures of feature engineering for the data science team using in-memory computing capabilities like Apache Spark written in Python.
+•Implemented Rack Awareness in the Production Environment.
+•Collected data using REST API, built HTTPS connection with client-server, sent GET request, and collected response in Kafka Producer.
+•Built continuous Spark streaming ETL pipeline with Spark, Kafka, Scala, HDFS, and MongoDB as a NoSQL solution.
+•Installed and configured Kafka cluster and monitored the cluster.
+•Architected a lightweight Kafka broker and integrated Kafka with Spark for real-time data processing.
+•Wrote Unit tests for all code using PyTest for Python.
+•Designing and implementing data streaming solutions using Apache Kafka.
+•Setting up and configuring Kafka clusters to support high-throughput data ingestion and processing.
+•Developing and implementing data pipelines to stream data from various sources and formats into Kafka using Kafka Connect and other Kafka APIs.
+•Designing and implementing data processing pipelines to consume and transform data from Kafka topics using Kafka Streams, Spark Streaming, and other stream processing frameworks.
+•Implementing security measures to protect Kafka data and infrastructure using SSL/TLS, ACLs, and other security mechanisms.
+•Used Python Boto3 for developing Lambda functions in AWS.
+•Used the Pandas library and Spark in python for data cleansing, validation, processing, and analysis.
+•Created Hive external tables and designed data models in Apache Hive.
+•Assist the Data Science team to migrate hive jobs into Snowflake using UDFs.
+•Used NoSQL databases like MongoDB in implementation and integration in our main ETL data pipeline.
+•Implemented and cleans datasets for network accesses based on user profiles.
+
+Cloud Data Engineer
+Kraken Digital Asset Exchange
+San Francisco, CA, July 2017 to June 2019
+
+Worked with manufacturing equipment datasets to provide complex data extracts, programming, and analytical modeling. This was performed to support the automation of various routine manufacturing processes by predicting time-to-failure to prevent extended downtime and scheduling appropriate preventative maintenance. Incorporated IoT data for up-to-date predictions.
+
+•Designing and implementing data storage and processing solutions on the Azure cloud platform.
+•Setting up and configuring Azure data services such as Blob Storage, Azure SQL Database, Cosmos DB, and Data Lake Store.
+•Developing and implementing ETL pipelines to extract, transform, and load data from various sources and formats using Azure Data Factory, Databricks, and Azure Functions.
+•Implementing security measures to protect data in transit and at rest using Azure security services such as Azure Active Directory, Key Vault, and Azure Storage Service Encryption.
+•Monitoring and optimizing data workflows and infrastructure performance using Azure Monitor, Metrics, and Logging.
+•Designing and implementing data governance policies and procedures to ensure compliance with regulatory requirements and data privacy laws.
+•Collaborating with data scientists and analysts to provide them with the necessary data and tools to support their analysis and modeling needs.
+•Automating data processing and maintenance tasks using Azure Resource Manager templates, PowerShell, and other automation tools.
+•Troubleshooting and resolving data-related issues and incidents in a timely and efficient manner.
+•Set up and implemented Kafka brokers to write data to topics and utilize its fault tolerance mechanism.
+•Leading the Azure data team to ingest all data from disparate sources such as data warehouses, RDBMS, and JSON files into our Azure Data Lake
+•Created and managed Topic creation inside Kafka
+•Extract Transform and Load data from Sources Systems to Azure Data Storage services using a combination of Azure Data Factory, T-SQL, Spark SQL, and Azure Data Lake Analytics in Azure Databricks
+•Configured a full Kafka cluster with a multi-broker system for high availability.
+•Used Spark Streaming to consume from Kafka topics and transform the data processed.
+•Adopted both cloud platforms, AWS, and Azure to support over 500 engineers concurrently configuring and deploying over 200 critical services in the cloud.
+•Presented using PowerPoint, Tableau, and Excel for data work and charts.
+•Used Python to create a semi-automated conversion process to generate a raw archive-linked data file.*+
+•Provided software training and further education about model applications to the incoming team.
+•Initial findings reported for conversion of Excel to CSV, text to CSV, and image to CSV.
+•Team communication over MS Teams with project tracking on Azure DevOps environment.
+•Supported Hadoop Cluster infrastructure by performing ongoing monitoring, preventative maintenance, and upgrades to the infrastructure.
+•Used Oozie for coordinating the cluster and programming workflows.
+•Re-worked knowledge from tables to HDFS and HBase tables.
+•Wrote Spark UDFs to support the Data Science team.
+•Wrote Spark SQL queries and optimized the Spark queries in Spark SQL
+•Used a REST API to extract real-time financial data of bitcoin, and alt-coin prices every minute.
+•Set up and implemented Kafka brokers to write data to topics and utilize its fault tolerance mechanism.
+•Created and managed Topic creation inside Kafka.
+•Configured a full Kafka cluster with a multi-broker system for high availability.
+•Used Spark Streaming to consume from Kafka topics and transform the data processed.
+•Monitoring and optimizing Kafka performance using Kafka metrics and monitoring tools like Prometheus and Grafana.
+•Collaborating with data scientists and analysts to provide them with the necessary data and tools to support their analysis and modeling needs.
+•Automating Kafka infrastructure provisioning and configuration using tools like Ansible, Puppet, or Chef.
+•Troubleshooting and resolving Kafka-related issues and incidents in a timely and efficient manner.
+•Staying up to date with the latest trends and best practices in data engineering, data streaming, and Kafka.
+•Writing clear and concise technical documentation, including design documents, runbooks, and troubleshooting guides.
+•Participating in agile development methodologies, including sprint planning, daily stand-ups, and retrospectives.
+
+Data Engineer
+Jacobs Engineering Group Inc.
+Dallas, Tx, October 2015 to June 2017
+
+Part of the team to establish the ETL at II to research ways to better interact with service partners in written form.
+
+•Implemented Agile Methodology for building an internal application.
+•Use of knowledge databases and language ontologies.
+•Design, develop and produce reports that connect quantitative data to insights that drive and change business.
+•Handling ETLs, and data analysis with billions of records.
+•Designing and implementing data storage and processing solutions using Cloudera, Hadoop, and Hortonworks.
+•Setting up and configuring Hadoop clusters and related technologies such as YARN, HDFS, and MapReduce.
+•Developing and implementing ETL pipelines to extract, transform, and load data from various sources and formats using tools like Sqoop, Flume, and Oozie.
+•Designing and implementing data processing pipelines to consume and transform data using Hive, Pig, and Spark.
+•Implementing security measures to protect Hadoop data and infrastructure using Kerberos, LDAP, and other security mechanisms.
+•Monitoring and optimizing Hadoop performance using Hadoop metrics, monitoring tools, and performance tuning techniques.
+•Collaborating with data scientists and analysts to provide them with the necessary data and tools to support their analysis and modeling needs.
+•Automating Hadoop infrastructure provisioning and configuration using tools like Ambari, Cloudera Manager, or Hortonworks Data Platform.
+•Troubleshooting and resolving Hadoop-related issues and incidents in a timely and efficient manner.
+•Designing and implementing disaster recovery and high-availability solutions for Hadoop using replication, mirroring, and other techniques.
+•Developing and implementing data quality checks and data validation mechanisms to ensure the accuracy and integrity of data in Hadoop.
+•Staying up to date with the latest trends and best practices in data engineering, Hadoop, and related technologies.
+•Writing clear and concise technical documentation, including design documents, runbooks, and troubleshooting guides.
+•Used Requirements Capture with the management team to design reports to make decisions.
+•Designed and performed web applications with C# ASP.NET framework, SQL Management, and UI
+•Predictive user analysis for advertising campaigns
+•Construction and customization of integration systems using technologies such as SaaS, API, and web services.
+
+PREVIOUS EXPERIENCE
+
+Country Coordinator for Ethiopia
+INASP
+ET Sep’12- Oct’14
+
+•Developed and implemented organizational strategies and plans in the country, and ensured alignment with the overall mission and vision of the organization.
+•Led the implementation of programs and projects in the country, and executed programs effectively, and efficiently following the organization's standards and procedures.
+•Developed and maintained relationships with key stakeholders, including government agencies, donors, partners, and local communities, to enhance the organization's reputation and influence in the country.
+•Strategized the budget and was involved in the financial management of the organization in the country, ensured compliance with local laws and regulations, and reported to management on financial performance.
+•Managed the recruitment, selection, and performance of staff in the projects, providing coaching, training, and support to ensure high-quality performance and retention.
+•Identified and mitigated risks to the organization's operations and reputation in the country, and ensured that appropriate risk management strategies are in place.
+•Involved in the organization's programs and projects monitoring and evaluation.
+
+Assistant University Librarian, Technical Processing - Addis Ababa, ET, Dec’11- Nov’13
+Head Education Librarian - Addis Ababa University, Dec’10-Nov’12
+System Librarian - Addis Ababa University, Mar’05- Aug’07
+
+EDUCATION
+Ph.D. in Information Systems - University of South Africa, Pretoria, Gauteng in 2018
+MSc in Information Science - Addis Ababa University - Addis Ababa, ET in 2010
+Contact this candidate

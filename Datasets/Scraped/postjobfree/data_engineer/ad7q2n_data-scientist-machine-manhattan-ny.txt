@@ -1,0 +1,98 @@
+Anders Kiss
+
+// LINKS
+
+https://www.github.com/anderche
+https://www.linkedin.com/in/anders-kiss-92740a25/
+https://public.tableau.com/profile/anders#!
+
+// PROFILE
+
+A Data Scientist skilled in Large Language Models (LLM’s), Retrieval-Augmented Generation (RAG), machine learning, deep learning neural networks, data visualizations, and building data pipelines that solve business challenges. I have a Master of Science in Artificial Intelligence and a Master of Science in Biomedical Technology Development & Management with experience utilizing Python, Generative-AI frameworks LangChain & Llama- Index, Computer Vision (CV), Natural Language Processing (NLP), time-series forecasting, fullstack app development, and model development from data cleaning/preprocessing to feature engineering and hyperparameter-tuning.
+
+// SKILLS
+
+AWS, Azure, Databricks, Django, Docker, FastAPI,
+Flask, Git, GitHub, HTML5, JavaScript, JSON, Keras, MLflow, Neo4j, NLP, NumPy, Pandas, Power BI,
+PySpark, Python, R, Ruby on Rails, SageMaker, Scikit- Learn, Snowflake, Spark, SQL, Streamlit, Tableau,
+Tensorflow
+
+// EMPLOYMENT
+
+Data Scientist
+06/2024 to Present
+Baxter – remote
+- Short term contract assignment
+- Built a frontend interface for a RAG-based LLM utilizing Python, Redis vectorstore, AzureOpenAI, HuggingFace embeddings, and Databricks Model Registry for logging and serving the API endpoint.
+- Deployed LLM in Power BI dashboards to help technicians troubleshoot medical devices errors.
+
+Data Scientist
+01/2024 to 06/2024
+Booz Allen Hamilton – remote
+- Built a RAG-based LLM with the LangChain framework to summarize vectorized text datasets (e.g. National Institutes of Health grants and publications), technologies included Python, LangChain, AWS Bedrock (Llama-2, Claude, ChatGPT foundation models), embeddings (AWS Titan/HuggingFace) for text vectorization, Amazon RDS with PGVector, LangChain vectorstore, and Gradio/Streamlit frontends
+- Utilized pretrained LLM (HuggingFace) and NLP (e.g. sentiment analysis) for severity level labeling of vaccine adverse events for pharmacovigilance purposes visualized within Power BI
+- Presented management with results, data visualizations, and impact to business use-cases
+- Wrote government proposals regarding AI Data-Readiness frameworks
+
+Data Scientist
+10/2022 to 01/2024
+Gemological Institute of America – remote
+- Built machine learning (ML) and neural network models for valuing diamonds, steps included hyperparameter tuning, architecture comparisons, and evaluation metrics (accuracy/precision for classifiers, RMSE and R-Squared for regressors)
+- Designed deep learning neural networks for Computer Vision object detection for diamond clarity as well as time-series forecasting of instrumentation failure with algorithms: CNN’s, ResNet, DenseNet, Long Short-Term Memory (LSTM’s), Gated Recurrent Unit (GRU’s)
+- Built numerical models with ML algorithms (Random Forest, XGBoost, Support Vector Machine, and ensemble methods)
+- Built Power BI / Tableau dashboards to track performance across regions the organization (Month- over-Month charts, matrix tables, filters, date slicers, etc.)
+- Extracted data from Snowflake and IBM Cloudant API’s before preprocessing data, boto3, S3, and SageMaker for model development
+- Performed exploratory data analysis to identify outliers, NaN values, statistical measures, and data visualizations (aggregations, barplots, heatmaps, Pearson correlations, etc.)
+- Presented management with findings (evaluation metrics, features, algorithms, architectures, graphs)
+
+Consultant, EU Medical Device Regulation
+11/2020 to 09/2021
+Varian – remote
+- Tracked international medical devices registrations (oncological, embolization nanoparticles) using Python to identify shared requirements and expedite country-specific requirements (regarding Supply Chain, Engineering, Safety/Complaint data, and Marketing documentation)
+- Licensed the nanoparticles in the European Union (CE-Mark registration) collaborating alongside Engineering, Operations, Marketing, Product Management, and Sales departments
+
+Consultant, EU Medical Device Regulation
+09/2019 to 03/2020
+Medtronic – remote
+- Submitted European Medical Device Regulation (MDR) and technical file (CE-Mark) dossiers for nerve-monitoring spinal products
+- Provided regulatory support in New Product Development meetings pertaining to IEC 60601-1 Basic Safety and Essential Performance, IEC 60601-1-2 EMC, IEC 62366 Usability, IEC 62304 Software deliverables
+
+Regulatory Affairs Specialist
+02/2017 to 09/2018
+Johnson & Johnson – Irvine, CA
+- Submitted 30x registrations for Europe, China, Japan, Russia, and Brazil for entire product lines
+- Drafted European Technical Files for Sterilizers and Disinfection capital equipment
+- Worked with Engineering, Marketing, Quality, and Operations to finalize registration deliverables Senior Regulatory Affairs Specialist 03/2014 to 10/2015 PENTAX Medical – Montvale, New Jersey, U.S.A.
+- Wrote Clinical Evaluation Reports for endoscopes, colonoscopes, video processors and ENT devices
+- Licensed 50+ international product registrations
+- Performed gap analysis of European CE-Mark compliance (e.g. Restriction of Hazardous Substances) and advised team on remediation
+- Contributed to successful FDA Inspections & TÜV audits
+
+// EDUCATION
+
+Master of Science, Artificial Intelligence
+09/2021 to 09/2022
+Dublin Business School - Dublin, Ireland
+* Coursework
+o Machine Learning & Pattern Recognition, Deep Learning, Reinforcement Learning, Recommender Systems, Natural Language Processing (NLP), Programming for Data Analysis, Graph Theory, Cognitive & Ethical Dimensions of AI Dissertation
+o A comparison study of LSTM and GRU algorithms and a feature analysis of multivariate macroeconomic features pertaining to their capacity to improve accuracy of Bitcoin price predictions. https://anders-kiss.gitbook.io/modeling- digital-assets-with-deep-learning/
+* Projects
+o A data acquisition / preprocessing pipeline script to obtain stock market data, create technical indicator, with data persisting to a database (Microsoft SQL Server). https://github.com/Anderche/data-acquisition-and-preprocessing- pipeline
+o A Content-based recommender system (RS) script is for a content-based recommender system (RS) that I built. This basic system recommends an Airbnb listing to a User based on the description fields of a their historical stays. The code implementation compares recommendation accuracy of the BERT and TF-IDF algorithms. https://github.com/Anderche/content-based-recommendation-system o An NLP topic modeling application to better understand the major themes for that day’s news headlines by ingesting the Python API, NewsAPI. It can be found here: https://github.com/Anderche/Natural-Language-Processing_Topic- Modeling
+A Python script that utilizes that targets communities from the MovieLens database (containing ~38,000 movies) via the graph theory (machine learning) algorithms, Label Propagation (Community Detection Algorithm), and K-Nearest Neighbors (Similarity Algorithm). https://github.com/Anderche/graph-theory-profitable-movie-ideas o A Tensorflow / Keras image classification model compared the accuracy of three image classification models: ResNet50, VGG16, and a custom deep learning, neural network. For each model above, first a baseline model was trained and evaluated. Afterwards, a dropout layer was added to each model and compared in terms of the baseline models. https://github.com/Anderche/image_classification
+
+Data Analytics Bootcamp
+08/2020 to 10/2020
+WeCloudData Online - online - https://www.wedlouddata.com
+- Power BI, Tableau, SQL, Python (financial analysis, web scraping), Marketing Analytics, Digital Analytics, Supply Chain Analytics, Healthcare Analytics, Business Analytics
+
+Fullstack Web Development Program
+01/2019 to 03/2019
+Le Wagon - Milan, Italy - https://www.lewagon.org
+- Ruby on Rails, React.js, HTML5, CSS3, JavaScript, Flexbox, CSS Grid, jQuery, Authentication & Authorization mechanisms, Geocoding (MapBox), Search (Algolia), UX/UI design Master of Science, Biomedical Technology Development & Mgmt. 08/2009 to 05/2011 Georgetown University - Washington, D.C., U.S.A.
+- Bioinformatics, Biomaterials, Project Management, Immunology, Pharmacology, Molecular Biotechnology, Preclinical Product Evaluation, Design & Conduct of Clinical Trials, Product Leadership, Legal & IP Issues, Commercial Development, Leadership & Innovation in a Tech Environment
+
+Bachelor of Science, Biological Sciences
+08/2005 to 05/2009
+Virginia Polytechnic Institute & State University - Blacksburg, VA
+Contact this candidate

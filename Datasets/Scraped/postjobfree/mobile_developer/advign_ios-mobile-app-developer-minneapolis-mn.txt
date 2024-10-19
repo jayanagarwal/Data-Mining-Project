@@ -1,0 +1,201 @@
+Jaafar Zubaidi
+iOS Mobile App Developer
+Phone: 612-***-**** Email: advign@r.postjobfree.com
+/
+PROFILE SUMMARY
+
+iOS professional with 6+ years of experience in native mobile development, 4 apps published to Apple Store.
+Skilled in iOS development with the latest versions of Swift and Swift UI and upcoming changes in the open- source language, as well as the latest XCode / iOS versions, and beta builds...
+Skilled programming in Objective-C and migrating Objective-C to Swift
+Applied architectures MVC, MVP, and MVVM
+Experienced in reactive programming using SDKs such as Combine and RxSwift
+Worked with Git via command line and GUI tools like Tower, GitHub
+Implement Delegation/Protocols, Observer, Singleton, Block, and more
+Knowledgeable of storing data persistently via various routes: CoreData, SQLite, Documents Directory, NSCoding protocol (archiving and unarchiving), NSUserDefaults, and Keychain, also worked with cloud-based storage
+Comfortable with memory management under ARC, dealing with retain/release/autorelease
+UI/UX design following Apple H.I.G. with CoreGraphics, CoreAnimation, UIDynamics, UIViewAnimateWithDuration
+Comfortable consuming all kinds of webservices, mainly REST and SOAP based. Native experience with NSURLConnection, and NSURLSession, with 3rd-party experience with RestKit, AFNetworking
+Works with the iOS creative team and UX designers to develop interfaces according to specification and following best practices
+Good hands-on experience with Frameworks such as iPhone SDK, UIKit, MapKit, Speech, AVFoundation, CoreData, CoreLocation, Social, XCTest, Alamofire, SDWebImage, QuartzCore, Crashlytics, CoreBluetooth, CoreGraphics, and CoreMotion
+Committed to ongoing learning and growth and development
+Good at processing crash logs/reports, using the debug console, breakpoints, instruments, and similar tools
+Good with computing problem resolution using best approaches, diagramming, acknowledgment of time complexity gains
+In-depth knowledge and practical experience implementing OOP principles such as encapsulation, abstraction, inheritance, and polymorphism
+Experienced in design and development for frontend UI/UX utilizing Storyboards, XIBs, and programmatic means in conjunction with Size Classes and Auto Layout Constraints
+Fluent with data persistence through means including User Defaults, Core Data, Cloud Storage, and other databases
+
+TECHNCIAL SKILLS
+Programming
+Swift, Objective-C, Java, Python
+App interface design
+SwiftUI
+XCode
+StoryBoard, XIB
+Interface Builder
+Programmatic UI
+Size classes
+Property, size, constraints inspectors
+Project, issue, debug, breakpoint navigators
+
+Networking
+REST, SOAP API
+URL Session
+DataTask
+Result type
+Error type
+JSON Serialization
+Codable
+
+Source Control
+GitHub
+Bitbucket
+GIT
+
+Testing
+XCTests, XCUITests
+Jenkins
+
+Design Patterns
+Protocols
+Delegation
+Singleton
+Extensions
+Generics
+MVC, MVVM
+GCD, MVP, NSOperations
+
+Frameworks
+Combine
+RxSwift
+Alamofire
+User Defaults
+CoreData
+Firebase
+CoreLocation
+MapKit/GoogeMaps
+CoreBluetooth
+AVFoundation
+
+PROFESSIONAL EXPERIENCE
+Dairy Queen
+Senior iOS Engineer
+Minneapolis, MN 01/2021 - Present
+
+Client: Darden Restaurants, Inc.
+App Name: Longhorn Steakhouse
+Link: https://apps.apple.com/ca/app/longhorn-steakhouse/id1253213026
+Description: Welcome to the official LongHorn Steakhouse® iPhone app that makes it simple to browse our lunch or dinner menus, order your food To Go, add your name to the wait list, and use our mobile payment option.
+
+Implemented Apple iPhone stereoscopic 3D application.
+Participated in and contributed to Agile meetings (e.g., Scrum, Sprint, etc.) with multiple cross-functional teams for getting specific customs SDK definitions.
+Communicated with offshore teams to coordinate work and testing.
+Applied Combine framework to Swift API development.
+Programmed in Swift with Combine in MVVM architecture using various design patterns.
+Used UIViewControllers, UITableViewControllers, custom UITableViewCell with Interface Builder to design and develop user interface pre-migration to SwiftUI.
+Worked on SwiftUI development.
+Implemented Auto Layout constraints to ensure graceful orientation handling and adapting to different screen sizes, including adapting the app for the iPhone X.
+Developed custom navigation between views using Navigation Controllers, Gesture Recognizer, and custom View Controller transitions.
+Made modifications to Jenkins’ configuration – added automation of builds upon Pull Request.
+Utilized Carthage to manage integration of third-party dependencies.
+Utilized Codable to decode and encode models, and to convert to and from JSON files.
+Worked on the UI using Storyboards with Auto Layout and Interface Builder.
+Utilized Size Classes and programmatic adaptations for graceful orientation handling.
+Handled issue tracking, tasks, and backlog using Jira.
+Implemented a continuous integration system on GitHub with Jenkins to ensure quality code base and reduce issues.
+
+Priceline.com
+Senior iOS Mobile Developer
+Norwalk, CT 05/2019 – 12/2020
+
+Link: https://apps.apple.com/us/app/priceline-travel-book-save/id336381998
+
+This travel app features in-app-only deals on hotels, flights, and rental cars. Features include search filters, saving favorites to compare, and booking with payment online. The app also has a trips feature to keep bookings, itinerary, and plans in the app.
+
+Worked in an Agile Scrum environment with daily scrums and bi-weekly sprints
+Worked on the development team with 5 other iOS developers and 4 service developers
+Updated architecture from MVP to MVVM-C
+A key contributor to hotel and car checkout processes to find, rent, and check out utilizing the Stripe SDK for payments
+Applied design patterns such as adapters, factory, singleton, and delegation
+Facilitated back-end asynchronous communications with RxSwift, Alamofire, and Codeable protocol for parsing and serializing data
+Implemented CoreLocation with GoogleMaps SDK to find local hotels and accommodations as well as mapping plans for road trips
+Applied Grand Central Dispatch to facilitate multithreading and manage concurrency issues, using dispatch barriers to protect against race conditions
+Used a Git code repository with SourceTree GUI for version control
+Managed GitHub repository creating branches doing merge, pull request, and releases
+Utilized Jenkins CI server for continuous integration integrated with SwiftLint and SonarQube for code analysis, nightly builds, automation
+Customized UIElements, UIActionsheets, UIAlertViews, UITableViews, UICollectionViews, and UIScrollViews to build the user interface of the application
+Implemented Dependency Injection for the database helper instance to the action objects through initializer injection
+Conducted unit testing and scenario testing using Charles Proxy, HockeyApp, and TestFlight
+Applied Jira for user epics and stories, task assignments, and issue tracking
+Used Atlassian Confluence for documenting the iOS mobile app development where I documented Code Snippets, reference applications, SDK, and API level changes
+
+Sensoria
+Mobile iOS Engineer
+Redmond, WA 07/2018 – 04/2019
+
+Link: https://apps.apple.com/us/app/sensoria-run/id900720180
+
+Sensoria provides wearable devices that can help fitness-minded users with bettering their workout or run, monitoring user performance and metrics via a Bluetooth Connection with various articles of clothing. (Shirt, Socks, etc.) The application is designed to help them improve over time with better/correcting fitness and health with a specifically tailored approach from the data given over time.
+
+Worked with a team of 3 developers to overhaul the entire UI/UX of the application
+Used bridging header files to establish interoperability between Objective-C and Swift on the iOS platform
+Refactored legacy Objective-C code to Swift
+Set up views in the dashboard in Swift to show new wearables that were being designed
+Utilized Core Blue tooth to communicate with various Bluetooth receiver wearables
+Established communications between the application, with wearables sending data and storing the information in a data-persistent container
+Adhered to HIPPA guidelines by keeping user data secure by storing information locally in HealthKit
+Utilized AV Foundation for audio processing of the tailored virtual Coach Mara
+Applied GET and POST calls to the cloud database for receiving up-to-date and tailored voice audio feedback for Virtual Coach
+Fixed bugs in the display to show the correct feedback to users
+Worked with Data Scientists to facilitate metrics for the user in meaningful views
+Discussed proper techniques with the backend developers and the data scientists to send only data as needed
+Assisted designers come up with views that facilitated optimized data use after learning about constraints from the back end and data science teams and presenting them in a meaningful way
+Applied Core Location and MapKit to track user location and distance for running workouts
+Used MK Annotation to enhance performance and gather Latitude and Longitude coordinates
+Utilized Carthage to maintain 3rd-party dependencies
+
+Razer
+iOS Mobile App Developer
+Irvine, CA 01/2017 – 06/2018
+
+Link: https://apps.apple.com/us/app/razer-game-deals/id968583813
+
+The Razer Game Deals Mobile app is the fastest, easiest, and best way to keep track of online gaming deals and game prices on the go! Razer Game Deals is now available in app form, so you will never miss the best online gaming deals again! Take charge of your wishlist and ensure you always get your favorite game titles at the lowest possible price, anytime, anywhere.
+
+Collaborated with internal and external teams - Product Managers, Engineers, Designers, and Marketers to conceptualize, build, test, and deploy new features
+Project managed using Agile/SCRUM techniques, code delivered in 3-week sprints
+Worked on the app with MVP architecture to apply a strong separation of responsibility
+Implemented logic to connect to the server to download document data using GCD.
+Designed UI and application flow created using UIKit and Core Graphics
+Worked with Objective-C and Swift hybrid code bases, practical experience working with bridging header files and minor issues with a dual language code base
+Utilized BitBucket Git repository for source control and followed GitFlow branching strategy
+Added custom UI elements to make it easier to service providers to access customer information and location
+Wrote unit tests to validate logic and ensure resolved issues were not reintroduced.
+Used GCD for concurrency and used Core Data and SQLite for data persistence
+Asynchronously fetched server data while maintaining a responsive user experience
+Used Storyboards and AutoLayout constraints, coded UI programmatically in Xcode to conform to UI diagrams provided by the design team
+Backend communications parsed with NSJSONSerialization and placed into model objects
+AVFoundation was used to handle audio playback and video streaming
+Wrote Unit Tests for code using the XCTest library
+Utilized Core Data to store persistent user information
+Made some adjustments to improve the map view and navigation functions.
+
+Ministry of Higher Education
+Programmer
+Baghdad, Iraq 11/2009 – 01/ 2016
+
+Troubleshooting for programs including Adobe Acrobat, Creative Suite, Microsoft Office, Access, Excel, Outlook
+Analyzing, troubleshooting, and repairing problems of computer elements such as desktop computers, laptops, and various components/peripherals of an IT network.
+Performing computer installation and operating system configuration in designated networks
+Administering and monitoring the performance of LAN/WAN network using remote connection tools
+Managing the purchasing of all software, hardware, and other IT supplies.
+
+EDUCATION
+Bachelor of Science – Information Technology (Computer Science)
+
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Microsoft 365 Certified: Fundamentals
+Meta Back-End Developer Professional
+Google IT Support Professional Certified
+Udacity Nano Degree: Business Analyst
+Contact this candidate

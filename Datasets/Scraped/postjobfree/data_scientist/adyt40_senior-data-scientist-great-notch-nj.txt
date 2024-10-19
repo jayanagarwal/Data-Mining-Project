@@ -1,0 +1,135 @@
+Jacob Appia
+Data Scientist
+Phone: 862-***-**** Email: adyt40@r.postjobfree.com
+
+Summary: Data Scientist with 9+ Years of experience and a total of 11 Years of experience in Information Technology..
+
+Accomplished Data Scientist and AI Engineer. Expertise in the whole data science workflow including ETL and Data Ingestion as well as Exploratory Data Analysis, Feature Engineering, Model Selection and Validation. I have experience in productionizing, deploying, monitoring, and maintaining machine learning models for real time and batched inference. Experience leading analytics teams and architecting predictive solutions. Proficient with analytical methods, deep learning, artificial intelligence, large language models, generative adversarial networks and Generative Ai in general.
+Profile Summary
+•Technical expertise with Data modeling skills, SQL with Oracle, MySQL, and Columnar Databases.
+•Experience applying Naïve Bayes, Regression, and Classification techniques as well as Neural Networks, Deep Neural Networks, Decision Trees, and Random Forests
+•Familiarity in working on machine learning, statistics, NLP, deep learning, recommendation systems, dialogue systems, information retrieval, XGBoost, LightGBM, and ElasticNet.
+•Proficient in implementing ML/DL models across multiple domains, driving business expansion, operational efficiencies, and process optimization in areas such as IT, Marketing, and Operations.
+•Demonstrated skills in using 3rd-party cloud resources, including AWS, Google Cloud, and Azure, to leverage scalable computing power and storage for data analytics projects.
+•Developed statistical models, conducting statistical hypothesis testing to enable accurate performance execution of machine learning projects.
+•Understanding the latest trends in the data analytics landscape, ensuring the adoption of relevant technologies for delivering cutting-edge solutions.
+•Well-versed in working within the Agile framework and leading cross-functional teams and team building capabilities with excellent communication skills, both verbal and written.
+•Experience in handling projects from ideation and experiment to full deployment, ensuring seamless integration into production environments.
+•Skillfully developed computer vision models for object classification and image recognition, leveraging deep learning architectures such as Convolutional Neural Networks (CNNs), Long Short-Term Memory (LSTM), and Transformers.
+•Worked on data with machine learning algorithms, including Linear Regression, Logistic Regression, Support Vector Machines, Random Forests, XGBoost, and Survival Modeling.
+•Worked on NumPy stack, encompassing NumPy, SciPy, Pandas, and Matplotlib, along with expertise in Sklearn regression for efficient data manipulation, analysis, and visualization.
+•Expertise in working with TensorFlow and PyTorch, enabling the building, validation, testing, and deployment of reliable deep learning algorithms tailored to specific business challenges.
+•Gained insightful understanding of algorithm techniques, such as Bagging, Boosting, and Stacking, and well-versed in Natural Language Processing (NLP) methods, including BERT, ELMO, word2vec, sentiment analysis, Name Entity Recognition (NER), and Topic Modeling.
+•Proficient in Time Series Analysis, utilizing techniques such as ARIMA, SARIMA, LSTM, and RNN to effectively model and forecast time-dependent data patterns.
+•Bagged Second Position in Illinois State University Predictive Analytics Competition
+•Analytical Thinker and communicator with problem-solving skills to analyze the business requirement and deliver solution ideas to team members and non-technical stakeholders
+Technical Skills
+Analytic Development
+Python, R, Spark, SQL
+Python Packages
+Numpy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, Fastai, SciPy, matplotlib, Seaborn, Numba
+Programming Tools
+Jupyter, RStudio, Github, Git
+Cloud Computing
+Amazon Web Services (AWS), Azure, Google Cloud Platform (GCP)
+Machine Learning
+Natural Language Processing & Understanding, Machine Intelligence, Machine Learning algorithms
+Analysis Methods
+Forecasting, Predictive, Statistical, Sentiment, Exploratory, and Bayesian Analysis. Regression Analysis, Linear models, Multivariate analysis, Sampling methods, Clustering
+Applied Data Science
+Natural Language Processing, Machine Learning, Social Analytics, Predictive Maintenance, Chatbots, and Interactive Dashboards.
+Artificial Intelligence
+Classification and Regression Trees (CART), Support Vector Machine, Random Forest, Gradient Boosting Machine (GBM), TensorFlow, PCA, Regression, Naïve Bayes
+Natural Language Processing
+Text analysis, classification, chatbots, BERT, ELMO, word2vec, sentiment analysis, Name Entity Recognition (NER), and Topic Modeling
+Deep Learning
+Machine Perception, Data Mining, Machine Learning, Neural Networks, TensorFlow, Keras, PyTorch, Transfer Learning
+Data Modeling
+Bayesian Analysis, Statistical Inference, Predictive Modeling, Stochastic Modeling, Linear Modeling, Behavioral Modeling, Probabilistic Modeling, Time-Series analysis
+BI Tools
+Power BI, Tableau Desktop/Server, MS Excel
+Soft Skills
+Excellent communication and presentation skills. Ability to work well with stakeholders to discern needs. Leadership, mentoring
+
+Professional Experience
+
+Senior Data Scientist/NLP Specialist
+Anthem Oct 2022 – Current
+Clifton, New Jersey
+
+At Anthem I lead a team tasked to deal with scanned documents and converted them to usable, queriable, and actionable data. The main task was divided into three sections, first, the individual documents had to be organized by type and page. This was done using a series of computer vision models, including convolutional neural networks to identify the documents and object detection models to find the specific text and handwritten entries. Second, all the identified fields had to be segmented and processed by OCR APIs such as AWS Textract. Finally, the processed entries were compared and spelling corrected using NLP techniques like fuzzy matching and libraries like pyspelling. The finished mined text was delivered to the AWS Redshift database. The job entailed creating a document processing pipeline for future use that ran on a scheduled basis using Apache Airflow, Docker, ECR, and AWS batch.
+
+•Developed automated data extraction and processing workflows using Apache Airflow to schedule and manage document processing tasks.
+•Developed and implemented data augmentation techniques, such as rotation, flipping, and zooming, to increase the diversity and size of the training dataset for the computer vision models, resulting in improved accuracy.
+•Leveraged natural languages processing techniques, such as fuzzy matching and pyspelling library, to identify and rectify spelling discrepancies in the extracted text data.
+•Integrated the document processing pipeline with the AWS Redshift database to store the extracted and processed text for further analysis.
+•Implemented object detection models, such as YOLO (You Only Look Once) or Faster R-CNN (Region-based Convolutional Neural Networks), to accurately identify and extract relevant text and handwritten entries from scanned documents.
+•Collaborated with cross-functional teams to gather requirements, understand business needs, and deliver tailored document processing solutions.
+•Performed statistical analysis on the extracted data to identify correlations and relationships between different fields, providing valuable insights for decision-making processes.
+•Conducted performance optimization of the document processing pipeline, including algorithmic improvements and infrastructure scaling, to handle increasing data volumes.
+•Organized Scanned Classified sub-documents into appropriate folder substructure.
+•Leveraged AWS Batch to efficiently process large volumes of scanned documents in parallel, ensuring high throughput and reduced processing time.
+
+Model Architect, Analytics Team Lead
+Wafric Jan 2020– Sep 2022
+Spring, TX
+
+As a Senior Data Scientist, I led a specialized team within the WAfric manufacturing department. Our focus was on predictive maintenance and preventive measures to avoid process failure, leveraging techniques like survival analysis and algorithms such as the Accelerated Time to Failure model. The team is a diverse mix of a data engineer, two modelers, and a specialist in Machine Learning Operations (ML-Ops).
+I am entrusted with coordinating the team and participating in all roles with a distinctive emphasis on solution architecture and model training. Formed a vital part of a project team that aimed to construct a comprehensive solution to boost the efficiency and effectiveness of manufacturing operators. Our solution is designed to enhance process monitoring, make accurate predictions, and substantially reduce failure rates.
+Spearheaded the data engineers, offering guidance and assistance in tasks like data extraction from the manufacturing data management platform, as well as data processing and cleaning. Assigned the tasks to the engineers to create automatic data pipelines, design efficient dashboards, and deploy analytical models for data visualization and analytics.
+
+•Led a specialized team within the WAfric manufacturing department, with a primary focus on predictive maintenance and pre-emptive measures to prevent process failure.
+•Applied statistical techniques such as survival analysis and predictive algorithms like the Accelerated Time to Failure model to optimize manufacturing processes.
+•Coordinated and actively participated in various roles within the team, with a special emphasis on solution architecting and model training.
+•Being an integral part of a project team developed a comprehensive solution to enhance operational efficiency and effectiveness for manufacturing operators.
+•Implemented strategies to optimize process monitoring, increase the accuracy of predictions, and significantly reduce failure rates.
+•Supervised data engineers, offering support in tasks like data extraction from the manufacturing data management platform and data processing and cleaning.
+•Overseeing the creation of automatic data pipelines and the design of efficient dashboards by the data engineers.
+•Managing the deployment of analytical models for data visualization and analytics.
+•Collaborating with the team to ensure the successful application of machine learning operations (ML-Ops) strategies.
+•Balancing strategic leadership and hands-on participation to ensure the success of the project.
+
+Data Scientist
+Walmart Feb 2017 – Dec 2019
+Columbus, OH
+
+In the market data division, I concentrated on market segmentation and forecasting. Our team was devoted to supplying insightful customer information to the member companies, assisting them in developing marketing strategies to retain their loyal customers. As a Data Scientist, I constructed a machine learning model that utilized survival analysis techniques to predict Customer Lifetime Value and customer churn rate. This model was built using historical transactional data available in the client database. Additionally, we integrated an unsupervised learning model to categorize customers into different segments based on their characteristics and purchasing behavior.
+
+•Worked in the market data division, focusing on market segmentation and forecasting.
+•Supplied valuable customer information and insights to member companies, assisting them in creating marketing strategies to retain loyal customers.
+•Built a machine learning model that predicted Customer Lifetime Value (CLV) and customer churn rates, using survival analysis techniques.
+•Leveraged historical transactional data present in the client database for the construction of these predictive models.
+•Integrated an unsupervised learning model to classify customers into various segments based on their characteristics and purchasing behavior.
+•Utilized Python and R programming languages for statistical analysis and the development of machine learning models.
+•Employed SQL for efficient data management and complex query handling in large databases.
+•Utilized Apache Hadoop/Spark for distributed data processing of large data sets.
+•Leveraged cloud platforms like AWS, Google Cloud, and Azure for handling large datasets, model training, and deployment.
+•Implemented machine learning models such as regression models for CLV, classification models for churn prediction, and clustering algorithms for market segmentation.
+•Conducted comprehensive feature engineering and model tuning to enhance the effectiveness of the machine learning models.
+•Assessed model performance using specific metrics such as accuracy, precision, recall, F1 score for classification models, Root Mean Squared Error (RMSE) for regression models, and silhouette score for clustering models.
+
+Data Analyst
+Albertsons Mar 2014 – Jan 2017
+Boise, Idaho (remote)
+
+Albertsons is a large food retailer in the US and Canada. Their produce division sells organic versions of most of their products in addition to the regular versions. I was tasked with finding a strategy to determine how many more people are willing to pay for organic produce. My primary tool was the Linear Regression model to find how much more the average person would be willing to pay for the organic version of the same product.
+
+•Utilized statistical methods to analyze pricing and sales data to determine the value-added of organic labeling on produce products.
+•Built linear regression models in R-Programming to determine statistically significant coefficients.
+•Outlined a prescriptive plan to improve sales profits by using more accurately targeted pricing.
+•Performed data visualization in the data exploration phase using ggplot2.
+•Utilized a Tobit Regression model to adjust the results for a high amount of censored data.
+•Presented my findings to stakeholders and decision-makers to better inform future decisions.
+•Performed feature engineering to clean and process the data to feed to my model.
+•Used outside resources to supplement the data we had already gathered.
+
+Education
+
+Master of Science in Applied Statistics
+
+Illinois State University, Normal, Illinois
+
+Bachelor of Science in Actuarial Science
+
+Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
+Contact this candidate

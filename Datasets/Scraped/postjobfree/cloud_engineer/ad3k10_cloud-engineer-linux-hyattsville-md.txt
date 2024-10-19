@@ -1,0 +1,124 @@
+Aniekan Essiet
+Cloud Engineer
+Email: ad3k10@r.postjobfree.com Phone: 240-***-****
+Silver Spring, MD 20904
+A result driven Linux Systems and AWS Certified Engineer with over 8 years of experience and broad knowledge in the installation, configuration and management of Linux servers and services in line with operational requirements. Maintaining best practices documentation for operations, security and efficiency. Building cloud infrastructure on the AWS platform to meet AWS recommended best practices for a secure, reliable, performance efficient, cost optimized and operational excellent infrastructure.
+Professional Experience, Education and Skills Summary:
+8+ years of experience as a Linux Systems Administrator
+8+ years of experience in Computer software and hardware configuration
+8+ years of experience in enterprise information technology operations
+8+ years of experience in Data Center Virtualization Technologies
+8+ years in Application Security Management
+8+ years in User Administration and Role Based Access Control
+8+ years in Linux and Networking and Patch management
+5+ years managing resources in Amazon Cloud
+5+ years Docker
+2+ years Kubernetes
+2+ years Terraform
+8+ years of experience in bash scripting
+Master of Information Systems with Concentration in Information Security Management (Strayer University)
+AWS Certified Solutions Architect - Associate (https://www.credly.com/badges/58f34336-d6f8-403e-8068-efdeb678a106/public_url)
+AWS Certified SysOps Administrator – Associate (https://www.credly.com/badges/80b03c3e-8d4b-4601-baca-34d766ea126c/public_url)
+Google Cloud Certified Cloud Digital Leader - https://www.credential.net/22d121d3-5fd2-4443-8f7d-78a84476fb60
+
+WORK EXPERIENCE
+Cloud Engineer
+Essex Management – June 2020 – Present
+Set up CI/CD Pipleline using Travis-CI to build and test developer code and integrating with AWS Cloud resources for seemly deployment of code in a highly scalable manner.
+Utilized AWS CodePipeline. to store code in AWS CodeCommit, while using AWS CodeBuild to test code and AWS CodeDeploy to deploy the code to EC2 instances, Lambdas or AWS ElasticBeanstalk.
+Utilized AWS Parameter store to store credentials and have resources retrieve these credentials to access other AWS resources.
+Created Lambda function to ping application URLs every 5 minutes and send notifications to administrators via SNS if the ping does not return a 200-status code.
+Enabled AWS GuardDuty to monitor resources within the environment and ensure security requirements and best practices are met.
+Used AWS CloudFront for content delivery with integration with Amazon S3 to store static files.
+Enabled AWS config and Inspector to monitor configurations and resources respectively to ensure all configuration requirements and settings continue to meet security standards.
+Enabled AWS Macie to monitor data stored within our AWS environment to ensure no PII or other sensitive data is being exposed and to monitor user activities on data stored within AWS S3.
+Configured Load Balancers and auto scaling for elasticity and high availability for instances within both public and private subnets.
+Experience with storage services such as EBS, S3, EFS etc.
+Set IAM permissions, rules and policies for controlled user and AWS resources access, based on least privilege.
+Familiarity with AWS Cli.
+Familiarity with AWS WAF rules to prevent access to applications from certain regions and IP addresses as required.
+Familiar with AWS databases i.e Dynamodb, Aurora etc
+Setting up applications to run on Amazon ECS with auto-scaling integrated to enhance high availability.
+Used Okta to setup SSO for users’ access to various applications to include role-based access to AWS console.
+Hosting numerous applications in Docker containers as standalone and using Docker-compose.
+Deploy applications using API Gateway and Lambdas through CloudFormation.
+Utilized multi-cloud (Amazon Cloud & Google Cloud) resources to deploy infrastructure to host decoupled applications (micro-services) on Kubernetes using terraform to deploy the infrastructure as code.
+
+Cloud Engineer
+Booz Allen Hamilton/ ARL – December 2018 – June 2020
+Set up CI/CD Pipleline using Travis-CI with integration with AWS resources.
+Utilizing AWS Parameter store to store credentials and have resources retrieve these credentials to access other AWS resources.
+Enabled AWS GuardDuty to monitor resources within the environment and ensure security requirements and best practices are met.
+Enabled AWS config and Inspector to monitor configurations and resources respectively to ensure all configuration requirements and settings continue to meet security standards.
+Enabled AWS Macie to monitor data stored within our AWS environment to ensure no PII or other sensitive data is being exposed and to monitor user activities on data stored within AWS S3.
+Configured Load Balancers and auto scaling for elasticity and high availability for instances within both public and private subnets.
+Experience with storage services such as EBS, S3 etc.
+Set IAM permissions, rules and policies for controlled user and AWS resources access based on a need-to-know bases.
+Familiarity with AWS CLi. Amazon ECS.
+Administering Gitlab such upgrading, managing users and configuring Gitlab to use Docker Container Registry.
+Created Lambda functions to perform numerous tasks such as starting and stopping instances at specified hours of the day and configured Lambda to send notifications of changes via Amazons SNS.
+Configured Cloudwatch to monitor resources such as Disk usage, and CPU utilization on instances.
+Hosting numerous applications in Docker containers as standalone and using Docker-compose.
+Installation, upgrading and administering Jenkins.
+Carried out scheduled monthly maintenance on GitLab application and EC2 host machines.
+Configured Single Sign-on (SSO) using Amazon’s AWS SSO for access to AWS Console and other applications like Gitlab and Jenkins.
+Comfortability managing various flavors of Linux/Unix to include redhat, centOS, ubuntu etc
+Successfully migrated GitLab application hosted on AWS EC2 instance to on-premises VM machine. This involved meetings with stakeholders to discuss requirements/expectations, migration planning, execution plan and the actual migration.
+
+Linux/AWS System Administrator
+Navstar/FinCEN -April 2018 – Dec. 2018
+Installation, configuration and patching of RHEL 6 & 7 servers both virtual and physical machines.
+Monitoring and maintenance of Unix/Linux systems to include RHEL 6 & 7, SUSE, Solaris.
+Monitoring system performance using Solawind.
+Managing update RHEL 5, 6 and 7 Servers using RHEL Satellite Server version 6.0.
+Provided recommendations for baseline security requirements for AWS Gov Cloud.
+Created SOP for building RHEL 7 EC2s on AWS Gov Cloud.
+Provide recommendations on AWS best practices for building high availability and cost-effective infrastructure within AWS Gov cloud.
+Built VPC containing public and private subnets, to include EC2s and RDS instances. This also included RDS replicas for high availability and redundancy.
+Configured a NAT gateway for EC2 instances in the private subnet to access the internet for updates.
+Hosting highly scalable, fault tolerant applications on the AWS cloud
+Configured network access permissions including security groups, NACL and routing tables for required access to resources within a VPC.
+Configured Load Balancers and auto scaling for elasticity and high availability for instances within both public and private subnets.
+Experience with storage services such as EBS, S3 etc.
+Set IAM permissions, rules and policies for controlled user and AWS resources access based on a need-to-know bases.
+Set up S3 bucket polices for access to resources within the S3 buckets.
+User access management using IAM.
+Troubleshooting issues in AWS and general Linux system administration.
+Configuration and user management using Ansible.
+
+Linux System Administrator
+The Johns Hopkins University - Applied Physics Lab May 2015 – April 2018
+Installation, configuration and patching of RHEL 6 & 7 servers both virtual and physical machines.
+Monitoring and maintenance of Unix/Linux systems to include RHEL 6 & 7, SUSE, Solaris.
+Installation and maintenance of software for scientists to carry out their research such as, DOORS-NG, gforge, Atlassian Bamboo, fisheye and Jira on RHEL 6 &7 servers.
+Performing backups using tape drives and external Hard Disk Drives (HDD).
+User Management using Active Directory i.e. BMC FootPrints, and ldap.
+Using configuration management tools such as cfengine for configuration automations.
+Bash shell scripting for process automations.
+Monitoring system performance through system monitoring tools such as splunk and Nagios.
+Virtualization using VMware’s VSphere Web Client.
+AWS.
+
+Linux System Administrator
+Windward IT Solutions – Herndon, VA –June 2014 to May 2015
+Produced baseline documentation on installation / reconfiguration of SNMP on various platforms to include, RHEL 4, 5 and 6, centos 5,6, windows 2000, 2008, 2012 R2 STD, VMware ESX, ESX 2.5.1, 3, 3.5, ESXi 5, BSD, Debian, Solaris 9 and 10, IRIX, AIX, and SunOS.
+Reconfigured SNMP to send traps to designated target servers on 27000 servers via VPN access.
+Enabled ACL access on RHEL, Centos, and windows hosts.
+Performance management using Solarwind Network Performance Manager.
+Produced PowerShell script to enable SNMP on windows servers.
+Perform installation and configuration of multiple Linux Servers.
+Perform troubleshooting to isolate and diagnose common Linux system problems, document system events to ensure continuous functioning. Recommends corrective actions and ensure implementation of actions on change request approval.
+Diagnose performance problems related to network issues, and memory/CPU utilization.
+Install, test, upgrade and configure system files and services to enhance application security and operational performance.
+Used Remote Desktop and Virtual Private Network Appliances for Server Configuration.
+Used puppet for configuration management on RHEL servers.
+
+Software and Operating System Environments: VMware ESXI, VSphere, Vcenter Converter, Oracle Virtualbox, Oracle Enterprise Linux, KVM, SSH, FTP, SAMBA, Tomcat and APACHE web server, Nagios, Solarwind, Wireshark, LVM, VERITAS Volume Manager, Red hat Enterprise Linux 5, 6 and 7, Bash Scripting, Backup and Recovery, Enterprise Servers, Server and User Provisioning, Resource Management.
+
+Networking: TCP/IP, SWITCHES AND ROUTERS, DNS, HTTP HTTPS, DHCP, IPTABLES, PING, NETSTAT, BOUNCING SERVERS, INTERFACE CONFIGURATIONS, TELNET, SSH, MOBA XTERM, VPN, DRAC, TCPDUMP, WIRESHARK, NMAP NACL, VPC
+
+Enterprise Hardware: Dell PowerEdge Servers T620, T20, R210, 2950, 1850, HP Proliant Servers, CICSO Routers, Switches, Firewall Appliance. Performed Datacenter Capacity planning, developed Continuity of Operations Plans (COOP). HP Blade Servers, Nutanix.
+
+References:
+All professional references are to be provided on demand.
+Contact this candidate

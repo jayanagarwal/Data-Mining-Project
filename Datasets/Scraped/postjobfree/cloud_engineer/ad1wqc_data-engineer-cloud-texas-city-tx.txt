@@ -1,0 +1,122 @@
+Srikanth Mundru
+Cloud Data Engineer
+224-***-**** ad1wqc@r.postjobfree.com
+
+Professional Summary:
+
+A highly motivated technical consultant with around 9+ years of experience in information technology and a wealth of knowledge in projects requiring data warehousing, data integration, analysis, design, development, and implementation as a Cloud Data Engineer.
+Expert at building efficient data pipelines, ensuring data accuracy, and enabling real-time analytics. Dedicated to staying up to date on the latest Snowflake features for improved insights and decision-making.
+Worked on DataStage production job Scheduling process using the Scheduling tools and Data stage scheduler.
+Hands on experience with scheduling tools Autosys and Apache Airflow.
+The ability to develop modern data platform using Spark Framework and Python (PySpark).
+Strong experience in data migration from RDBMS to Snowflake cloud data warehouse
+Worked with processes to transfer data from AWS S3 data base and flat files common staging tables in various formats to meaningful data into snowflake.
+Skilled in utilizing Snowflake's distinct capabilities for handling diverse data types, real-time analytics, and efficient query processing.
+Hands on experience in big data project implementations with Hadoop, PySpark, Hive, HDFS, SQOOP and NoSQL HBase.
+Hands on experience in Databricks and PySpark to design and optimize data pipelines for efficient ETL processes.
+Expertise in using Pyspark, Pandas and Numpy for sort, transpose, append, import, Export, copy, freq, percentile, mean, mode, variance, standard deviation, Correlation etc
+Designed and implemented OLTP databases with a focus on ensuring seamless execution of schema changes and maintaining database integrity. Closely collaborated with developers and database administrators.
+led the ERwin-based creation of thorough logical and physical data models for OLTP databases, making sure they complied with industry norms and business requirements.
+Developed and maintained Python scripts for various data processing tasks in the data pipeline.
+Strong Experience in implementing Data warehouse solutions in confidential Redshift.
+Had knowledge in various AWS services such as S3, RDS, IAM, AWS Glue, Athena, and EMR
+Worked on different file formats like JSON, XML, CSV, ORC, Paraquet. Experience in processing both structured and semi structured Data with the given formats.
+Designed and executed comprehensive testing strategies for end-to-end data pipelines. Conducted data validation and integrity checks at various stages of the pipeline to ensure data accuracy.
+Experience in Big Data Ecosystem in ingestion, storage, querying, processing, and analysis of Big Data.
+Good Knowledge and experience on SQL queries and creating database objects like stored procedures and functions using SQL for implementing the business logic.
+Experienced with Git and demonstrated ability to resolve merge conflicts and maintain code integrity during the development process.
+Hands on experience in monitoring and troubleshooting PROD jobs in PRODUCTION environment.
+Creating Project documentation in Confluence page and make available these documents to respective stakeholders like business users, analytical user, and data scientists.
+Developed reliable Extract, Transform, Load (ETL) processes to efficiently move and transform data from various sources into the Data warehouse.
+Collaborated with cross-functional teams to plan and execute comprehensive testing strategies
+Proficient in creating ETL pipelines, data modeling, and ensuring data quality within data warehousing environment.
+Facilitated effective communication between development, testing, and business teams
+Technical Skills:
+
+Big Data : HDFS, SQOOP, Spark, Hive, Kafka
+Cloud Platforms : Snowflake, AWS, GCP, AZURE
+Languages : PYTHON, SQL, JAVA SCRIPT
+NOSQL Database : Mongo DB, Azure Sql DB, Cassandra
+Databases : Microsoft SQL Server, Teradata, Oracle 12c
+Tools : Tableau, Power BI, UNIX, Git
+
+Professional Experience:
+Treehouse foods
+Chicago, IL
+Cloud Data Engineer Oct 2021- Sep 23
+
+Responsibilities:
+
+Prepared mapping document between existing DW (Hadoop - HIVE) and Snowflake tables
+Using Snowflake, extracted, loaded, and transformed data from various heterogeneous data sources and destinations.
+Prepared Scripts for table’s creation, views, UDFs, UDTFs and Stored procedures.
+Executed Create table scripts in Snowflake DEV environment for Raw Layer and Consumption Layer.
+Creating batch jobs using the Snowflake Task objects to load data from S3 to Snowflake raw layer using COPY into command.
+Transfer data from the raw layer to the consumption layer within Snowflake
+Prepared and executed Views, Materialized Views, UDTFs and Stored Procedures to for analytical users to load the data into BI Reports.
+Written UDTFs in Snowflake for the hive tables that are having static data,
+Developed ingestion patterns (Batch and NRT).
+Process location and Segments data from S3 to Snowflake by using Tasks, Streams, Pipes, and Stored Procedures.
+Included automated testing into the pipeline for continuous integration and delivery (CI/CD) to execute tests automatically on every push of code. Early issue detection throughout development allowed for speedy bug fixes and fast feedback.
+Developed a detailed project plan and helped manage the data conversion migration from the legacy system to the target snowflake database.
+Worked on developing PySpark script to encrypting the raw data by using hashing algorithms concepts on client specified columns.
+Following prod readiness checklist while scripts moving from DEV to PROD.
+Creating the integration object to load the data in to staging (AWS- S3) from HIVE using ETL tool AWS Glue.
+Writing Python scripts to pull data from Snowflake tables and populate Excel reports and then sending email to business users.
+Creating Airflow DAGs for operations that interact with Snowflake, such as pulling data from various sources, altering it, and loading it into Snowflake tables.
+Airflow includes operators created expressly for working with Snowflake, allowing us to perform SQL commands and manipulate data within Snowflake.
+We are using Snowflake Operator to run SQL statements or call stored procedures in Snowflake as DAG jobs.
+Coordinating/Communicating with business users.
+Created the best practices confluence page and make sure team follows the same.
+
+Macy’s Inc
+Atlanta, GA
+Data Engineer ` Mar 2019-Aug 2021
+Responsibilities:
+
+Evaluate Snowflake Design considerations for any changes in the application
+Define the roles and rights needed to access certain database objects.
+Define Snowflake's virtual warehouse sizing for various workload types.
+Design and coding are necessary Database structures and components.
+Experience with working with multiple Hadoop distributions such as CloudEra, HortonWorks, and Map.
+Design, develop, and test dimensional data models using Star and Snowflake schema methodologies under the Kimball method.
+Designed and executed comprehensive testing strategies for end-to-end data pipelines.
+Creating Excel reports using Python scripts that retrieve data from Snowflake tables and transmit them to business users via email.
+Set up the system with the help of a cloud architect.
+
+Hyundai
+Data Engineer Oct 2015- Mar 2019
+Responsibilities:
+Creating a technique for gathering business requirements based on the project's scope and the SDLC process.
+Setting up pipelines in ADF to extract, transform, and load data from a variety of sources, including Azure SQL, Blob storage, Azure Synapse, write-back tool, and backwards.
+Created a Data Dictionary and a Mapping from Sources to the Target in the MDM Data Model.
+Involved in all phases and project scope.
+Knowledgeable of the interact Azure Services including experience with Azure Data Lakes (ADLS) and Data Lake Analytics.
+Created numerous pipelines in Azure using Azure Data Factory to get the data from disparate sourcesystems by using different Azure Activities like Move Transform, Copy, filter, for each, Databricks etc. Maintain and provide support for optimal pipelines, data flows and complex data transformations and manipulations using ADF and PySpark with Databricks.
+Implemented Azure Data Factory (ADF) extensively for ingesting data from different source systems like relational and unstructured data to meet business functional requirements
+Created pipelines for continuous integration and continuous deployment (CI/CD) with Azure DevOps. As a result, the processes for development, testing, and deployment were streamlined, increasing the overall effectiveness of software delivery.
+Creating UNIX shell scripts to automate tasks and planning CRON jobs for task automation using Crontab commands.
+Developed Mappings using Transformations like Expression, Filter, Joiner, and Lookups for better data messaging and to migrate clean and consistent data.
+Data Integration ingests, transforms, and integrates structured data and delivers data to a scalable data warehouse platform using traditional ETL (Extract, Transform, Load) tools and methodologies to collect of data from various sources into a single data warehouse.
+Use Python scripts to automate the cleansing of data that was a blend of unstructured and structured data from various sources.
+
+Mphasis
+SQL Developer Aug2014 - Sep2015
+Responsibilities:
+Used Import/Export Utilities of Oracle.
+Created the External Tables in order to load data from flat files and PL/SQL scripts for monitoring.
+Writing Tuned SQL queries for data retrieval involving Complex Join Conditions.
+Extensively used Oracle ETL process for address data cleansing.
+Responsible for developing, support and maintenance for the ETL (Extract, Transform and Load) processes using Oracle and Informatica PowerCenter.
+led the ERwin-based creation of thorough logical and physical data models for OLTP databases, making sure they complied with industry norms and business requirements.
+Created common reusable objects for the ETL team and overlook coding standards.
+Reviewed high-level design specification, ETL coding and mapping standards.
+Designed new database tables to meet business information needs. Designed Mapping document, which is a guideline to ETL Coding.
+Used ETL to extract files for the external vendors and coordinated that effort.
+Migrated mappings from Development to Testing and from Testing to Production.
+Performed Unit Testing and tuned for better performance.
+
+Education:
+Master’s in “Data Science”, Lewis University, IL, USA
+Bachelors in computer science, Acharya Nagarjuna University, Guntur, India
+Contact this candidate

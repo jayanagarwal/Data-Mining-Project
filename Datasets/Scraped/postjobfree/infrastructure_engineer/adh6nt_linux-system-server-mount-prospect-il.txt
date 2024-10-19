@@ -1,0 +1,118 @@
+AREAS OF EXPERTISE:
+
+Ansible
+RHEL *, *,*,*
+Red Hat Satellite 6
+Monitoring Solutions Architect
+Docker Enterprise Operations
+Satellite based Patch Automation
+HPC & GPU Cluster Administration
+Incident Troubleshooting & Solving
+Documentation & Technical Writing
+Process Improvement & Cost savings
+Public & Private Cloud Administration
+Software Install & Patch-Management
+Team Leadership, Training, & Mentoring
+Root Cause Analyses & Resolution Implementation
+HTML5, CSS3, JavaScript, PHP Web Development
+Automation, Programming, Application Development
+PROFESSIONAL EXPERIENCE - RESULTS
+Robert Bosch Corporate Information Sector 2+ Years (05/2018 – Present) Mount Prospect, IL
+Title: Linux Server Engineer Roles: System Admin (Unix/Linux), CI/OS Monitoring Operations Lead
+Automated enterprise-wide patching to streamline system updates utilizing Ansible, Puppet, and Satellite 6, ultimately saving over 20 hours of work each quarter and ensuring patch completion within maintenance window.
+Experience on RHEL 8/7/6/5(.x) implementation & Solaris 10/9/8/7 and Administration, Installation & Maintenance.
+Volunteered to provide support for short-staffed German branch, spent 4 months in Germany training with experts in: HPC & GPU Cluster Design, Administration, and maintenance Enterprise Monitoring solutions including Icinga2, Nagios, vROps and NetIQ, Docker and enterprise containerization service rollout.
+Upon return to the US, I assumed my current roles: HPC System Administrator, Global Topic Owner of CI Linux Monitoring, And Regional-Lead in Container Services for North and South America.
+Consult on new server requests to ensure resource specifications meet application requirements without surpassing reasonable need, thus ensuring highly stable performance while reducing cost by reducing underutilized resources.
+Improved performance and reduced cost of live productions servers by analyzing Icinga2 and Grafana performance data. When servers showed patterns of overutilization or underutilization of critical resources, actions were taken to address the issue (i.e.: Increase disk size, grow LVM, add or remove CPU, allocate additional swap space, add custom monitoring plugins in Icinga2 to alert users when resources reach warning or critical thresholds, etc.)
+Co-Administered 8 HPC clusters ranging from 120 node clusters to 600 node clusters
+Perform administrative tasks and monthly maintenance for all Bosch HPC’s globally including BIOS and Firmware updates, ISO Distribution across all nodes, and DDN Maintenance
+Establish, configured, and managed monitoring solutions across all regions, network security layers, and multiple clouds utilizing Icinga2, Splunk, vROps, NetIQ and Nagios
+Led incident ticket management and infrastructure roll-out for all departments utilizing Docker
+Providing support and training for new hires on all department platforms
+Administered trainings for all CI/OSR 3.3 associates on all knowledge acquired in Germany
+Architect and build out ready-to-use back-end Server Platforms for user-specific applications and security protocols
+Design and implement streamlined high-efficiency processes, including system-wide Legacy Server migrations
+Automation of repetitive/redundant tasks, Firmware Upgrades & Datacenter Consolidation/Modernization efforts
+Support company Business Continuity and Disaster Recovery Initiatives
+Headed Configuration management Playbook development for Ansible in AWS and Private Cloud
+Gleason Cutting Tools 8 Months (09/2017 – 05/2018) Loves Park, IL
+Title: Associate Engineer Roles: Infrastructure Admin (Unix/Linux), Developer (Web & C#/WPF)
+Seasoned Open Systems Engineer & Web Development Lead responsible for managing core Infrastructure components (RHEL Server, Microsoft Windows Server 2012/2016, SysOps, VSphere 6.0) along with implementing visual and interactive end-user elements for Gleason’s core business & manufacturing applications.
+Member of Programming and Automation team which included responsibilities of participating in enterprise wide initiatives to reduce cost through automation and tool development.
+Escalation point of contact for all Tier 1, 2, & 3 RHEL/UNIX work orders and customer support tasks
+Sunset Legacy IBM AS2 database by implementing custom-written PLM/File Gateway WPF Application (C#, XAML) with embedded Microsoft PowerShell Batch routines thereby significantly reducing vendor support & licensing costs.
+Act as a technical liaison between Business/Ops teams and Engineering team providing critical insight on upcoming implementations and Infrastructure Modernization initiatives.
+Redeveloped Storage platform to electronically file and version control all engineering and sales documents via PowerShell, BATCH, and C# and automated the migration from the legacy platform.
+Deployed 150+ RHEL 7 VMs via PXE/Kickstart thereby improving operational efficiency
+Upgraded Oracle WebLogic Application server from 12.2.1.0 to 12.2.1.1 and integrated automated BASH scripts, resolving lead time delays and eliminating human error
+Managed Server Refresh task to migrate production workloads from EOL RHEL 4 & AIX 6 to N-1 and later OS
+Integrated Microsoft AD on all new Linux servers via LDAP/Kerberos Authentication
+Configured DHCP Server on internal VLAN to auto-assign IP to in-house applications
+Installed and configured Rundeck App Server for centralized administrative control point
+Automate log rotation policies and schedules via rsyslog and cronjobs.
+Collaborated with Security Team Initiatives to enhance Infrastructure Security by way of Server Hardening checklists, standardizing SELinux target and Boolean configuration, and refining User/Group ACL and Access Management policies.
+Belcan Corporation 5 Years (09/2012 – 09/2017) Rockford, IL till 08/2015 then transferred to Peoria, IL
+Titles in contract Positions: Group Lead, System Administrator, Electrical/Mechanical Designer Roles: Manage & Report Team Workload, OS Support (RHEL), Automation (Creo, C++, Python)
+Full-time direct employee of Belcan Corp. for 5 years. Responsibilities included traveling to customer facilities and working remotely to provide technical services.
+Positions at Belcan: 1.5 years as System Administrator of the JLTV for Oshkosh Defense, 6 months as infrastructure & environment developer for trucks at Caterpillar, 3 years as team lead of Linux Admin group at UTC Aerospace systems
+Oshkosh Defense Feb 2016 to Sep 2017
+Provided 24/7 Level 1, 2 & 3 on-call support for Red Hat Enterprise Linux & AIX Production Servers including Physical & Virtual system builds, application/software installs, monthly patch cycles & Performance Monitoring
+Collaborate with Application/Development teams to refine CI/CD Release process and successfully maintain 99.8% uptime during code-rollout
+Create & Maintain Technical SOP Documentation & Runbooks pertaining to core UNIX (AIX 5.1 & RHEL 4) Application Support
+Deployed RHEL Server Probes to support Nagios suite for SNMP-based Server & Network monitoring for entire Infrastructure Landscape
+Coordinate with SAN Team to optimize storage needs of the UNIX server farms via LVM re-architecture and GFS2 File system configuration & disk partitioning
+Responsible for Ansible Configuration Management POC
+Caterpillar Inc. Aug 2015 to Feb 2016
+Assisted Caterpillar Inc. with a massive migration from a Windchill server to a Teamcenter Engineering PLM server.
+Utilized strong engineering background to facilitate the SFTP transfer of data between servers (total elapsed time: less than 6 months), surpassing all expectations from Executive Leadership and driving $750,000 in cost savings.
+Configuring Enterprise NAS, Red Hat GFS2 Clusters, vSAN and SAN storage and provisioning to end users on as needed basis as well as configuring RAID 6 and RAID 10 (1+0) storage.
+Provisioned hardware, operating systems, storage, physical memory, and virtual memory and carving out physical volumes, Volume groups and Logical Volumes (LVM) & provided helpdesk incident ticket solutions for all the above.
+Developed SAP user interface for engineers on a project with Microsoft SQL, C#, and HTML5. This became a useful tool for project management and data querying.
+Implemented Server Virtualization Initiative in which a 60% of the RHEL/Solaris/Microsoft Windows Server 2012 Servers were migrated (P2V) with the VMWare Converter Tool
+Assisted with a massive Datacenter refresh project which included re-warehousing tasks and Server/Network (Rack & Stack) gear setup as well as re-cabling in conjunction with complete architecture topology diagrams.
+Lead Automotive Electrical Designer for Caterpillar's on highway grade semi-truck
+United Technologies Corporation Aerospace Systems (Now Collins Aerospace) Sep 2012 to Aug 2015
+Supervised a 6 person Linux System Admin team and a 10 person design and drafting team at UTC. Responsible for hiring, supervising, and technical leadership for the diverse teams of System administrators, developers, programmers, design engineers, and Drafting checkers. Reported workload metrics to customer weekly.
+Inherited core IT responsibilities from Senior System Engineer including but not limited to administering automated AIX/RHEL/Ubuntu server-side routines, performance tuning, establishing system monitoring, and ensuring that IT systems are in-tune with defined ITAR and EAR compliance regulations.
+Served as 1st point of contact for IT System solution while on-call 24/7 for 1 week per month.
+Trained designers in UGNX & oversaw all aircraft electric system work orders from project management standpoint.
+Increased quality in products with high failure rates using ACE tools such as Relentless Root Cause Analysis, standard work, and fault trees. This increase in quality resulted in a 30% decrease in production returns.
+Maintained updated inventories of all Engineering assets via LanDes
+Administered Microsoft IIS WEB Server for Design Team enterprise applications
+Maintain MS SQL systems supporting UTC applications
+Able to successfully learn and master core IT Infrastructure administrative tasks (RHEL Linux, Windows AD, Exchange, Active Directory, SQL) in a short amount of time.
+Frantz Manufacturing 2 Years (10/2010 – 08/2012) Sterling, IL
+Title: Designer Roles: Mechanical Designer, Technical Writer
+R&D Test equipment design
+Utilized GD&T knowledge to design precision roller bearing housings and adapters
+Trained multiple other drafters/interns in Solidworks and CADMAX.
+Made 2D drawings and 3D artistic renderings for production, presentation, and customer use. Hundreds of these renderings can be viewed at www.Frantz-MFG.com.
+Managed gauge calibration and maintained quality records for quality and precision.
+FORMAL EDUCATION
+Schooling
+Morrison Institute of Technology - Morrison, IL September 2010 - April 2012
+Coursework: Network Administration and Engineering Technology
+Rock Valley College - Rockford, IL September 2012 - April 2013
+Coursework: Computer Science, Digital Electronics & Communication
+Certification Training
+Docker Fundamentals Course - April 2019 - ExitCertified
+Docker for Enterprise Operations - April 2019 - ExitCertified
+AGMA Fundamentals of Gear Geometry and Inspection - February 2018 - Gleason Gear School
+TECHNICAL PROFICIENCIES:
+Administrative tasks: LVM, SMB/SAMBA, NFS, FTP, SSH/RDP, Deploy/Maintain/Dispose Bare Metal & Virtual Servers, Monitoring Solutions, Kernel Updates And Panic Handling, Patch Management, Security Monitoring, Docker Trusted Registry (DTR) Administration, Resolve Level 1/2/3 Linux Incident Tickets, 24/7 On Call Support, Migrations, User Support, Develop Automation Tools, Datacenter Activities, Server Refreshes, Troubleshooting, Security, Back-Ups, Disaster Recovery, Performance Monitoring, Configuration/Administration, SSH/SSH Key-Pair Generation & distribution, Service & Process Management, Create & Delete Partitions On MBR & GPT Disks, Add New Partitions / Logical Volumes & Swap, Configure Ipv4 & Ipv6 Addresses, Configure Hostname Resolution, Configure Network Services To Auto-start At Boot, Restrict Network Access Via Firewall-Cmd, Manage Users/Groups Permissions, User account management, Structured Query Language (SQL), Network traffic packet capture, VIM & VI editor, Backup and restore, Hardware setup and troubleshooting, Network routers & firewalls, Network Switches, Monitoring Systems, Docker Installation/Configuration/Maintenance, High Availability And Fault Tolerance, RHEL HA Clusters, MariaDB, MySQL, PostgreSQL, Microsoft SQL database, GitLab
+Automation/Languages: Python, BASH, C#, XAML, JSON, YAML, HTML5, CSS3, JavaScript, PHP, Pearl, C++, PowerShell, Batch, VB/VBA, CLI & GUI Application Development, Shell Scripting, Ansible, Develop Ansible Playbooks, Scvenus Methods, vRO Workflow, SQL, Automate Redundant Tasks, Windows Forms, WPF
+Communication: Native English Speaker, Learned To Speak German For Work 1200+ words, Strong Presentation & Public Speaking Skills, Client Relations & End-User Support, Team-oriented & Collaborative
+Hardware: HP DL580 (Gen10), DL380 (Gen9), DL580 (Gen8), DL980 (Gen7) & HP BL460cc Blade Servers, iLO, BMC/SuperMicro, iRMC/Fujitsu, iDRAC/Dell, EMC, ESXi, PXE booting with UEFI hardware, Cable Routing
+Hypervisor: vSphere, Oracle Virtual Box, vRealize Automation (vRA) & Orchestrator (vRO), KVM, Hyper-V
+HPC/GPU: NVidia, GPU / Deep Learning, GPFS, XCAT, Infiniband, Fujitsu, HP, DDN
+Monitoring Tools/Applications: Icinga2, Nagios, Tivoli (TSM), Dynatrace, NetIQ, vRealize Operations (vROps)
+Networking: TCP/IP, NIS, NFS, DNS, DHCP, Cisco Routers/Switches, WAN, SMTP, LAN, FTP/TFTP
+OS: RHEL 4.X-8.X, AIX 6.1, Sun, Solaris, Microsoft Windows Server 2008/2012R2/2016
+RDBMS: Veritas, Oracle 11G/12C, Oracle RAC, Oracle SOA, Oracle Enterprise Manager (OEM)
+Security: Linux Hardening, SELinux, Application Security Vulnerability & Red Hat Security Advisory Patching.
+Storage: Qlogic, Enterprise NAS, Red Hat GFS2 Clusters, RAID, vSAN, SAN, EMC, and Sharpoint
+Web/Application Servers: Apache, XML, Active Directory, JBOSS, Tomcat 8, Apache Zookeeper, Kafka, Git, Jenkins CI/CD Tools, BitBucket, GitLab, MariaDB / MySQL, PHP, SQL, LAMP Stack, BMC Remedy SMT & CMDB, Jira/Confluence
+
+Hobbies - woodwork, outdoors sports, working on cars, web development, travel with wife and three daughters
+Contact this candidate

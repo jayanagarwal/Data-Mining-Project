@@ -1,0 +1,256 @@
+Name: ADITYA T
+Mobile: +1-210-***-****
+Email: ad2w5v@r.postjobfree.com
+Current Location: Austin, Texas
+
+PR O F I L E HI G H L IG H T S
+Technical skills
+Cloud
+AWS, Azure, Digital Ocean
+
+Scripting Languages
+Ansible, Terraform, Bash, PowerShell, Gradle, Python, JobDSL
+
+DevOps Tools
+Jenkins, ArgoCD, Github Actions, Kubernetes, Docker, Podman, Artifactory, SonarQube, Bitbucket, Virtual Box, ICINGA, ELK, Grafana, Prometheus
+
+API Management
+IBM APIC, CA API
+GATEWAY (Layer 7), Kong
+
+Programming Languages
+Core Java, Groovy
+
+Database
+MYSQL, SQL Server, Postgres SQL
+
+Other/Support Tools
+Jira, Confluence, OpenAPI specification, Kafka, Helm charts, Lens, Jscape, Jmeter, TFS, PasswordState, TIBCO BW, EMS
+
+Networking
+WAF, NLB, DNS,
+Subnets, Firewalls,
+SSL,TCP, Certificates
+
+
+Skilled DevOps and Platform Engineer with 13 years of hands-on experience on infrastructure as code (IAC), automation frameworks, monitoring tools and integration. Develop and deployment of services/policies in various API management tools using CI/CD and DevOps process.
+Experienced in AZURE public cloud services. Such as Virtual machines, V-Net, Subnets, Azure Networking, Active Directory, Storage Accounts, Function App, Azure AKS, Key vaults, Manage Identities, Load balancers. Developed Azure function apps in Python to monitor DMZ applications.
+Managed public cloud Amazon Web Services like EC2, S3 bucket, RDS, EBS, ELB, Auto-Scaling, AMI and IAM through. Responsible for creating multi-region, multi-zone AWS cloud infrastructure and certified AWS solutions architect.
+Experience in deploying and configuring applications in Kubernetes clusters and performed end to end testing of the solution.
+Written Terraform modules to provision required infrastructure. Designed and Implemented disaster recovery plan for various applications.
+Implemented end to end monitoring for applications performance running in Kubernetes clusters. Developed dashboards for visualization and created alerting mechanism.
+Experience in creating and managing APIs in IBM APIC and Azure APIM
+Create and maintain fully automated pipelines in Jenkins using Groovy and JobDSL. Actively manage and monitor Linux servers and applications using Ansible and Icinga/Nagios.
+Written scripts for configuration management, software deployments and daily maintenance tasks on servers using Ansible, Bash, PowerShell and Python.
+Experience in design, development and implementation of Middleware Oriented Systems in on-premise environment and implemented best practices for optimizing IT infrastructure, security policies and SDLC standards
+Configured build and release pipelines in Azure to deploy function apps and applications. Incorporate approval and review steps within CICD pipelines to follow Standard SDLC. Followed release management for production changes.
+Created and configured custom Jenkins docker image for CICD. Automate builds and deployments using Jenkins, Gradle and Groovy to reduce human error and speed up production processes.
+Implemented zero downtime deployments and upgrades using strategies like failover and blue/green deployments.
+Integrated Jenkins, Azure DevOps and AWS DevOps pipelines with SonarQude for code quality. Used Artifactory to store software files and docker images. Performed Xray scan to find vulnerabilities.
+Participated in sprint planning using Jira and Miro and followed agile methodology for continuous collaboration and improvement.
+Worked on various protocols like FTP, SFTP, HTTP, HTTPS, JAVA API, JDBC.
+Experience in working with cross functional teams like Software developers, QA, product managers to deliver. Provided production support. Excellent written and verbal communication
+
+ED U C A T I O N
+
+B. Tech (Computer Science Engineering) from JNTUH University, Hyderabad, Telangana, India.
+
+CA R E E R GR A P H
+
+Working as Senior DevOps Engineer at State of Wisconsin from February 2023 – Till date
+Worked as Senior IT Specialist at DSV, South Africa from March 2017 – January 2023
+Worked as an Integration Specialist at AMERIS TECHNOLIGIES, South Africa from May 2010 to February 2017
+
+KE Y PR O J E CT S
+
+PROJECT # 9:
+Project Title: AZURE KUBERNETES ADMINISTRATOR/DEVOPS ENGINEER
+Client: State of Wisconsin
+Role: Senior Platform/DevOps Engineer
+Duration: Feb 2023 – Till Date
+Responsibilities:
+Administrating and supporting company’s Azure Kubernetes infrastructure, ensuring it is secure, resilient and performance and responsible for complete DevOps activities and coordinating with development team.
+Setting up the complete Kubernetes Dev Environment from scratch to deploy latest tools using helm charts for different team.
+Responsible to configure alert notification to monitor CPU metrics, VM health’s and events logs.
+Successfully created Kubernetes pipeline of deployment operation activities where all code is written in python stored into bit bucket, for staging testing purpose. Written terraform scripts to create required resources and objects.
+Preferable Azure by creating multilevel hybrid pipeline of CI CD helped clients to achieve Kubernetes platform.
+Automated various infrastructure activities like Continuous Deployment, Application Server setup, stack monitoring using Asible Playbooks using Jenkins.
+Implemented cluster services using Docker and Azure Kubernetes services (AKS) to manage local deployments in Kubernetes by building a self-hosted Kubernetes cluster using Jenkins CI/CD pipeline.
+Maintained and automated the scripts by using Python for automated deployments.
+Developed Ansible playbooks to manage Web Applications, Environments configuration files, Users, Mount, points and packages. Implemented Continuous Integration using Jenkins and GIT.
+Familiar with helm charts for deployment manager to use of charts and templates for listed file names.
+Implemented Pod security policies (PSP) in AKS for required best practices and the ability to control what pods to be controlled, scheduled in AKS cluster prevents some possible security vulnerabilities or privilege Escalations.
+Familiar with all objects and components in Kubernetes like ingress controller, kube-system and deploying pods in selected nodes without any downtime for Dev and Prod Kubernetes clusters.
+Implemented scanning and logging for Docker and Kubernetes containers to scan monitor events, runtime, vulnerabilities, Compliance for containers, images, Hosts, Registry, Jenkins Jobs.
+Implemented HTTPS Ingress controller and use TLS certificate on AKS to provide reverse proxy, configurable traffic routing for individual Kubernetes services.
+Moved all Kubernetes container logs, application logs, event logs and cluster logs, activity logs and diagnostic logs into Azure Event Hubs and then into Prometheus for monitoring.
+Daily monitoring production servers using Grafana and Prometheus which is integrated with Kubernetes, exceptions and report to the team if something happen during standups.
+Managing Azure DevOps build and release pipeline. Setting up new repos managing the permissions for various GIT branches. Deployed microservices, including provisioning AZURE environment.
+Extended support for existing product teams on how to integrate CI/CD into development life cycle.
+Gather new requirement with product owner and create tasks in the backlog, help with groom prioritize and estimations. Once in every two weeks perform deployment to production environment.
+
+PROJECT # 8:
+Project Title: IBM APIC Installation and configuration
+Client: DSV Air and Sea
+Role: DevOps Engineer
+Duration: November 2017 – January 2023
+Description: IBM APIC is an API management tool. APIs enable organizations to share information with external developers, business associates, and other teams within the same organization. DevOps team is responsible to install, configure and manage clusters.
+Responsibilities:
+Installed IBM APIC in AWS Public Cloud and On-premise vms.
+Actively involved in solution architecture design and followed agile methodology for development and improvements.
+Implemented continuous integration and continuous delivery pipelines for deployment of the application and followed agile principals
+Written terraform modules to provision EKS cluster.
+Written terraform scripts to provision Amazon AWS Cloud Services and administration which include EC2, ELB, EBS, IAM, S3, Route 53, Lambda, Amazon VPC
+Written Ansible scripts to deploy IBM api-connect into AWS EKS.
+Configured yaml files to deploy subsystems like management, gateways, portal and analytics.
+Prepared yaml definitions to configure namespaces, secrets, services, storage classes, ingress rules.
+Deployed application-level device gateways, communication gateways, and exposed gateways using containerization and orchestration technologies like Docker and Kubernetes.
+Deployed multiple ingress controllers with different subnets and ingress classes for network segregation.
+Automated the configuration of organizations, catalogs, mail-servers, users, tls profiles and topology in APIC.
+Developed automated life-cycle framework to deploy products and apis into different environments using Jenkins, Gradle.
+Integrated Sonarqube and Artifactory with CICD pipelines for DevSecOps best practices
+Exported logs onto observability using filebeat to monitor cluster health.
+Worked on taking regular backups for Amazon cloud instances and setting up of environments for the application launching and Release process for projects early in SDLC
+Maintained and administered GIT source code tool and Created Branches, Labels and performed Merges.
+Researched and implemented an Agile workflow team to deliver an end-to-end continuous integration and testing of applications using Jenkins.
+Used Ansible server and workstation to manage and wrote Ansible Playbook roles for continuous deployment
+Created Log collection in ELK (Elastic Search, Logstash) installed on all nodes in cluster to send log data
+
+PROJECT # 7:
+Project Title: Microsoft Azure API management Deployment Automation
+Client: DSV Air and Sea
+Role: DevOps Engineer
+Duration: January 2017 – November 2017
+Description: Automating Azure API deployment into Azure portal.
+Responsibilities:
+Configured automated build and release pipelines
+Created policies and development standards for APIs SDLC.
+Used configuration management and release management to deliver APIs.
+Created docker container to backup and restore APIM developer portal for disaster recovery.
+Configured Jenkins jobs to maintain developer portal content life cycle.
+Investigating Azure DevOps resource kit functionality.
+Implemented data pipelines and ETL processes to collect, process, and analyze data generated by the AI/ML solution.
+Created virtual machine with framework to generate ARM templates from swagger files.
+Implemented visualizations, dashboards alerts in monitoring systems. Analyzed APIs performance using metrics.
+Automated API testing using Jenkins, postman collection and scripts like Python and PowerShell.
+Prepared support documentation and troubleshooting pages for non-technical persons.
+
+PROJECT # 6:
+Project Title: Microsoft Biztalk Application Deployment Automation
+Client: DSV Air and Sea
+Role: DevOps Engineer
+Duration: June 2016 – December 2016
+Description: Automating Microsoft Biztalk Applications deployment into different environments.
+Responsibilities:
+Configured WinRM on Biztalk servers to run Ansible scripts.
+Used agile methodology and Jira for improvements and bug fixes.
+Written Bash scripts to execute Ansible playbooks.
+Maintain Ansible inventory for Biztalk servers.
+Written Gradle and Groovy scripts to export and imports resources from Biztalk servers.
+Used git plugin to store resources in repository.
+Integrated Sonarqube and Artifactory with CICD pipelines for DevSecOps best practices
+Written Curl commands for API call to artifactory to store builds.
+Witten JobDSL scripts for Jenkins jobs (PreBuild, Build and Deploy) to initiate deploy process.
+Written PowerShell scripts to stop and start Biztalk applications.
+Written PowerShell code to create windows forms to help developers to configure files
+
+PROJECT # 5:
+Project Title: Elastic Stack Installation and Configuration
+Client: DSV Air and Sea
+Role: DevOps Engineer
+Duration: January 2016 – June 2016
+Description: Installing and Configuring Elastic stack for application logs.
+Responsibilities:
+Written ansible roles to install applications like elastic search, curator, logstash, kibana, kafka, filebeat, metricbeat, nginx.
+Written bash scripts to start and stop applications
+Written ansible scripts to add cron jobs to servers for start applications after restart
+Maintained yaml configuration files as templates using ansible.
+Configured filebeat to fetch logs and send to kafka topics.
+Created and maintained topics and partitions in kafka manager
+Created kibana dashboards and indexes.
+Written logstash json pipelines to filter logs.
+Installed and configured ngnix for authentication and authorization to log into kibana.
+Maintain artifactory to install latest releases.
+
+PROJECT # 4:
+Project Title: API Gateway Deployment Automation and maintenance
+Client: DSV Air and Sea
+Role: DevOps Engineer
+Duration: Feb 2014 – January 2016
+Description: Automating API Gateway services/policies deployment into different environments and maintain servers.
+Responsibilities:
+Used agile methodology and Jira for development, improvements and bug fixes.
+Written Gradle and Groovy scripts to export and imports objects from gateway.
+Integrated Sonarqube and Artifactory with CICD pipelines
+Used git plugin to store code in repository.
+Configured API call to artifactory to store builds.
+Written Groovy scripts for Jenkins jobs to initiate deploy process.
+Created ssh keys for identification.
+Written/ Configured Icinga checks to monitor gateway servers.
+Written Ansibles role to update system user passwords on servers.
+Written bash scripts to purge logs in gateway servers.
+Monitoring ports and connection between gateways using Icinga checks.
+
+PROJECT # 3:
+Project Title: Health Care Consolidation
+Client: UTI Pharma
+Role: Senior Integration Developer
+Duration: March 2013 – Feb 2014
+Description: DSV HealthCare Business unit has over 50 clients. All these client integrations were running in legacy tibco environment. This project is designed to re-develop and deploy all services according to new standards to improve processing speed, CPU utilization and logging process.
+Responsibilities:
+Analyzing the legacy Tibco services and preparing design documents like Integration Requirements specifications, mapping specs and Visio diagrams.
+Participating in minutes of meeting to discuss dependencies with other teams
+Developing Tibco processes in new life cycle.
+Adding external jar references to class path for JAVA API calls.
+Doing Unit and integration testing with dependent/End Systems.
+Shared and Requested URLs, WSDL, Schemas between different teams.
+Creating policies in Layer7 for rest and soap services.
+Creating Queues, Topics and EMS Routing between servers.
+Configuring CLE for logging and exceptions.
+Working with DevOps to configure services for auto deployments.
+Involved in debugging of various defects reported in QA and Production
+Involved in UAT testing with clients.
+Working with DevOps to configure services for auto deployments.
+Preparing support documents for support team handover.
+
+PROJECT # 2:
+Project Title: Infor 10.2 WMS Integration
+Client: UTI Pharma
+Role: Tibco Developer
+Duration: April 2011 – March 2013
+Description: Infor 10.2 is a Warehouse Management System. This project was designed to integrate clients KENWOOD, DAIKIN, SHARP, IVECO, SAMSUNG with WMS system. Each integration has messages like ItemMaster, Sales Order, Advance Ship Notice, Inventory Balance. Responsibilities:
+Gathered requirements from business users and converted them into functional and technical requirement.
+Requested/Provided resources from/to clients like Sample files, XSD’s, WSDL, Certs/Keys, Endpoints,
+connections details.
+Requested Firewall team to open ports for client communication.
+Imported framework libs to services for common life cycle processes.
+Developed processes based on technical specs.
+Developed mappings for EDM and Native formats.
+Developed XSDs and web services for clients.
+Written SQL queries for data extraction for WMS or back end systems.
+Configured CLE logging services.
+Integrated with common systems like staging and MDM.
+Created EMS queues and Topics.
+Configure the TIBCO ADB Adapter services.
+Worked with DevOps to configure services for auto deployments.
+Prepared support documents for support team handover.
+
+PROJECT # 1:
+Project Title: 3rd level Support
+Client: UTI Pharma
+Role: Junior TIBCO Developer
+Duration: May 2010 – April 2011
+Responsibilities:
+Production Support for over 100 SOA services integrated with several interfaces.
+Redeploying services in Administrator for configuration changes
+Configured CLE logging services.
+Written SQL scripts to extract CLE logs to help tracing messages flow.
+Developed XSDs and web services for clients.
+Worked on GEMS for monitoring Queues and Topics.
+Created EMS queues, Topics and Bridges.
+Monitor ICINGA to check health of services.
+Worked with administrator to configure and restart services
+Worked with senior developers to trace and fix issues
+Assisted in preparing downtimes for path fixing and configuration changes.
+Involved in retriggering/reprocessing failed messages.
+Contact this candidate

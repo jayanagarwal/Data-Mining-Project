@@ -1,0 +1,39 @@
+Jake, Xu
+617-***-**** ad5h4y@r.postjobfree.com https://github.com/easy11-xy Seattle, WA
+EDUCATION
+Northeastern University EXPECTED 12/2024
+Master in Analytics GPA: 3.7/4.0 Seattle
+Guangxi University of Science and Technology 9/2017 - 6/2021 Bachelor in Computer Science Liuzhou, China
+Courses: Data Structure, Computer Networks, Operating System, Database system, Data Mining, Introdution of AI SKILLS
+Programming Skills: Java, Python, JavaScript, Go, Kotlin
+Web/Mobile Development: Java Servlet, Node.js, React, Git, HTML && CSS, MySQL
+Data Track: Machine learning models, Computer vision, Data mining, Pytorch, Spark, Hadoop WORK EXPERIENCE
+Xiaohongshu Technology ShangHai, China
+Software Engineer Intern 11/2020- 4/2021
+Responsible for designed and build a Spring Boot application for users to search resources(stream/video/clip) and get recommendations.
+Build a web page with rich+ user friendly experience using React and Ant Design.
+MySQL database hosted on AWS RDS, respository based CRUD operations with Spring Data JDBC.
+Implemented RESTFUL controller APIs, retrieved resources using Video API with OpenFeign HTTP client.
+Support register/login/logout with Spring Security using session-based authentication.
+Designed algorithms (e.g., content-based recommendation) to implement twitch resources recommendation.
+Developed unit test by Junit and Mockito, improved test coverage from 60% to 85%.
+Containerized application deployed to AWS App Runner. Deep Blue Technology ShangHai, China
+Software Engineer Intern 6/2019- 9/2021
+Responsible for developed a vehicle license recognition system. Including:
+Processed image data by OpenCV package using flip, color enhancement methods.
+Use Pytorch APIs to build a yolov5 model to extract the the vehicle license. Use OCR (VGG combines LSTM) to recognize the license number and report to the system. Optimize accuracy to 99% by model transfer.
+Build a user friendly website for car license recognition using HTML && CSS and Javascript.
+Store the vehicle information in system and support CRUD operation by MySQL, implement RESTFUL controller APIs on the website using Flask.
+VOLUNTEERING
+Research Assistance in Guangxi University of Science and Technology 6/2021 - 8/2021 Responsible for build machine learning models to coop with instructor of computer vision area.
+Study some ideas from academic paper on semi-supervised learning using Pytorch APIs. Test and compare the accuracy of teacher-student network by Tensorboard.
+Problem Solving: It is difficult to get more image data that have labels in the real world. Generate pseudo image data by teacher-student network.
+PROJECTS
+MiniSpotify
+Designed a Kotlin Spotify favorite app by fully leveraging Android Library and Hilt Dependency Injection.
+Implemented the BottomBar & App Navigation using JetPack Navigation component.
+Create a mock RESTFUL Api json-server and used the Retrofit to handle requests.
+Built the feed/album/favorite UI in Jetpack Compose following MVVM architecture.
+Enabled the local cache ability for favorite feature by using Room database.
+Integrated the Google Exoplayer to handle the global music playback.
+Contact this candidate

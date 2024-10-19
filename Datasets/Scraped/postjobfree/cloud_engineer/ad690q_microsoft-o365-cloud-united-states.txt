@@ -1,0 +1,271 @@
+Patrick Ekanga
+Microsoft Exchange/Windows ****/Cloud Engineer
+
+Phone: 213-***-**** Gmail: ad690q@r.postjobfree.com
+
+SUMMARY
+
+•Over 22 years of dedicated experience in the IT field, specializing in Microsoft Exchange technologies.
+•Proficient hands-on experience with Microsoft Exchange Server versions 2007, 2010, 2013, 2016, 2019, and Office 365, including Outlook and OWA.
+•Expertise in Windows Server 2008R2 and Windows Server 2012R2, encompassing installation, configuration, and administration.
+•Configuration and deployment of messaging server infrastructures in highly available scenarios utilizing clustering, DAG, load balancing, pools, and pool pairing.
+•Extensive hands-on involvement with Microsoft Exchange messaging systems and comprehensive computer center operations and support.
+•In-depth knowledge and practical experience with SaaS applications, including Exchange, Teams, OneDrive, SharePoint, and Yammer.
+•Expert in private and public cloud integrations and transitions, with a focus on Azure, Exchange Online, and Office 365 coexistence and migration.
+•Design and implementation of high availability and disaster recovery solutions for messaging infrastructure using CCR/SCR and DAG.
+•Installation and configuration of firewalls, networks, and perimeter applications, leveraging solutions like Barracuda, Meraki, IronPort, and Proofpoint.
+•Configuration of single sign-on, seamless sign-on, token authentication, and passthrough/password authentication.
+•Configuration and verification of Active Directory Federation Services as primary domain sources.
+•Proficient in configuring DHCP, DNS, WSUS, and DFS services in enterprise environments.
+•Experience with server monitoring tools and a comprehensive understanding of Active Directory DC design, schema, OU design, AD replication topology, and DC backup/restore procedures.
+•In-depth knowledge of Service Center for task allocation and approval, and SCOM for monitoring and alerting.
+•Familiarity with change management and ITIL processes for incidents, change, and requests.
+•Experience with virtualization deployment and management via VMware, V-Sphere, and Hyper-V.
+•Proven ability to interact effectively with customers and stakeholders for requirements analysis, validation, specification, verification, documentation, and management.
+•Proficient management of Active Directory, Microsoft Identity software (ILM, FIM, MIM), Azure AD Connect, and ADFS, as well as Microsoft Federation.
+•Application of networking protocols and components expertise, including TCP/IP, DNS, SIP, MAPI, and SMTP.
+•Hands-on experience with SQL Server, including its installation alongside Lync and Skype-for-Business.
+•Proactive troubleshooting of technical issues across Exchange and Windows 0365 and related technologies.
+•Demonstrated strong technical aptitude and excellent communication skills, showcasing effectiveness in diverse, cross-functional Agile teams.
+
+TECHNICAL SKILLS
+
+•Exchange – DAG, CAS ARRAYS, Load Balancing, Continuous Cluster Replication (CCR), Standby Cluster Replication (SCR), Local Copy Replication (LCR), Hub Transport Server, Exchange management console (EMC)), Transport pipeline, Managed Availability, Exchange Admin Center (EAC), Outlook Web App (OWA)/Outlook On the Web (OOTW) for 2016, Exchange Online Protection (EOP), Exchange Admin Center (EAC), Active Directory Federation Services (ADFS), DirSync, Azure AD Connect, Hybrid, Staged, Cutover
+•Servers - Microsoft Exchange Server 2007, 2010, 2013, 2016/Exchange Online/Office 365/Outlook Web App (OWA), Windows Server 2008R2, 2012R2, 2016 Microsoft PowerShell 5.0, 4.0, Microsoft Active Directory, Lync Server, Hub Transport Server, Oracle Virtual Box, Virtual Machine, Microsoft Hyper-V, CAS Servers, Mailbox Servers, Client Access Server, Edge server, Dial-In/Dial-Out, Lync Online, Front End Server, Back End Server, Director Server, Mediation Server, Proxy Server, Cloud Servers
+•Tools - Database Availability Group (DAG), DAC Mode, CAS Array, Exchange management console (EMC), PowerShell scripting, Visual Basic Scripting, Microsoft ADFS, DirSync, SCCM and SCOM, Microsoft Identity software (ILM, FIM, MIM, ILM 2007 to MIM 2016), Azure AD Connect and ADFS, Microsoft Federation
+•Protocols - TCP/IP, DNS, SIP, MAPI, SMTP. DHCP/DNS/VPN/TCP/IP, POP, IMAP
+•Administration - Email Services, User management, Permissions and authentication, Managed Availability, Critical Access, Mobile Device Management, Exchange Aware Proxy Server, Storage LDAP, Domain Management, Load Balancing, Database availability, Role-based access control, Namespaces, Requesters, Migration, Registry management and editing, Disaster Recovery, Backup Restore, Coexistence, Process Testing, Policy Administration, Distributed Groups, Dynamic Groups, Identity Management
+
+PROFESSIONAL EXPERIENCE
+
+Microsoft Exchange (on-prem and online) and Active Directory Expert
+Metro Water District of South California, Los Angeles, CA
+Mar 2024 – Present
+The Metropolitan Water District of Southern California is a regional wholesaler and the largest supplier of treated water in the United States
+Project Summary: I was assigned to a comprehensive remediation project focused on break-fix tasks. This involves resolving synchronization issues with shared mailboxes and distribution lists, ensuring consistent object synchronization across systems, addressing global address list inconsistencies, and managing the export of e-discovery mailboxes to PST for compliance and archival purposes. Additionally, I resolved mail flow issues in the hybrid on-premises and Exchange Online environment, where native connectors still relied on the default remote domain, causing cloud-only mailboxes to not receive emails from internal applications. I am also developing and implementing Exchange Online management best practices tailored to the organization's needs. While the project is ongoing, the tasks are being executed commendably, and we are on track to meet the deadline. This effort aims to enhance email system performance, compliance, and user satisfaction across the organization.
+
+•Analyze Existing Mailboxes and Identify Gaps and Issues:
+•Conduct a thorough analysis of existing shared mailboxes to identify synchronization, configuration, and usage issues.
+•Detect any discrepancies between on-premises and cloud-based mailboxes.
+•Identify Sync/Update Issues Between On-Prem and Cloud Versions:
+•Diagnose and resolve synchronization problems between on-premises and Exchange Online environments.
+•Ensure consistent updates and data integrity across both platforms.
+•Suggest Improvements in Comparison with Exchange Best Practices:
+•Evaluate the current setup against Microsoft Exchange best practices.
+•Provide recommendations for enhancing mailbox configuration and performance.
+•Prepare a Process Document for Mailbox Creation and Modification:
+•Develop a comprehensive process document for the IT support team.
+•Include detailed steps and best practices for creating and modifying shared mailboxes.
+•Identify and Help Clean Up Redundant Mailboxes:
+•Identify unused or redundant shared mailboxes.
+•Assist in the cleanup and decommissioning of these mailboxes to optimize resources.
+•Reporting Automation of Unused Mailboxes:
+•Implement automated reporting solutions to track and report on unused mailboxes.
+•Ensure regular monitoring and maintenance of mailbox usage.
+•Migrate On-Premises Distribution Lists (DLs) to Cloud:
+•Plan and execute the migration of distribution lists from on-premises Exchange to Exchange Online.
+•Ensure a smooth transition with minimal disruption to end-users.
+•Identify and Compile a List of Unused Distribution Lists:
+•Identify distribution lists that have not been used in the past year.
+•Compile and analyze the list to determine which DLs can be retired or need re-evaluation.
+•Develop a Process Document for Creating and Modifying Distribution Lists:
+•Create a detailed process document for the IT support team.
+•Include best practices for the creation and modification of distribution lists.
+•Develop a Self-Service Guide for DL Owners:
+•Create a user-friendly guide for distribution list owners.
+•Enable DL owners to manage membership autonomously, including adding or removing members.
+•Explore and Implement Dynamic Distribution Lists:
+•Research and implement dynamic distribution lists to streamline communication.
+•Ensure the dynamic DLs are set up according to organizational needs and best practices.
+•Address List and Global Address List (GAL) Automation:
+•Provide expert advice on automating the maintenance of address lists and the global address list.
+•Integrate IAM solutions to enhance address list management and synchronization.
+•Migrate eDiscovery Mailboxes to Exchange Online:
+•Plan and execute the migration of eDiscovery mailboxes from on-premises servers to Exchange Online.
+•Ensure compliance with legal and archival requirements during the migration process.
+•Additional Work:
+•Ensure that all processed documents and guides are in line with the latest security and compliance standards.
+•Tailor best practices to fit the specific needs and infrastructure of the organization.
+•Maintain clear communication with stakeholders throughout the remediation process to manage expectations and provide updates on progress.
+•Provide training and support to the IT support team and end-users to facilitate a smooth transition and ongoing management of the Exchange environment.
+
+Microsoft O365 Cloud Engineer Expert
+City University of New York (CUNY), New York City, NY, Brentwood, TN
+May 2022 – Feb 2024
+It is the largest urban university system in the United States, comprising 25 campuses
+•Actively participated in the design, planning, implementation, securing, and operation of Microsoft Azure and Office 365 cloud technology solutions ensuring the effective integration of these solutions within the infrastructure.
+•Collaborated with multiple CIS teams, such as IMS and Systems, as well as external vendors, to perform complex incident triage within the hybrid Office 365 stack offering swift issue resolution.
+•Addressing and resolving Office 365 issues for Staff, Faculty, Students, and Retirees across various University college entities, demonstrating a high level of expertise.
+•Providing mentorship on Office 365 and Azure to college IT administrators and internal CIS staff, sharing knowledge and insights to empower them in their roles, and engaging in consultations with business process owners, executive staff, and end users to enhance application lifecycles and ensure consistency.
+•Creating and maintaining crucial documentation, including MS Office 365 cloud-specific Standard Operating Procedures, baseline build guides, runbooks, infrastructure diagrams, and process automation scripts to streamline operations and ensure compliance.
+•Responding to confidential litigation, eDiscovery, FOIL requests, and content investigations as directed by authorized University entities, safeguarding data and information as required.
+•Working as a knowledge and consulting escalation resource for other CIS Collaboration Team tiers, providing guidance and expertise as needed.
+•Successfully migrated 15 colleges to Teams Only, which involved the meticulous design of Teams Phone solutions and licensing strategies.
+•Played a key role in configuring and deploying 1,500 Teams-certified devices in collaboration with vendors.
+•Designed and supervised the configuration and implementation of direct routing in the global tenant for four colleges.
+•Designed, configured, and implemented baseline security requirements across the global tenant, encompassing over a million objects.
+•Crafted custom security policies including anti-spam, anti-phishing, anti-malware, and advanced threat policies.
+•Functioned as the primary architect for eDiscovery requests from all colleges and provided expert guidance on data governance and information protection policies.
+•Designed and configured migration tasks and processes, ensuring seamless transitions.
+•Mastered the use of third-party migration tools, particularly Bit Titan, and served as the primary contact for implementation, with over 30,000 users migrated.
+•Acted as the primary contact and engineer for the university, complementing Bit Titan's usage to migrate the remaining cloud users.
+•Designed conditional access policies that incorporated Multi-Factor Authentication (MFA) to enhance tenant security.
+•Actively supported engineers in readiness efforts post-basic authentication deprecation, including policies disabling legacy protocols and providing training to administrators for a smooth transition to modern authentication, while also supporting affected users.
+•Orchestrated the architecture of the current MDM framework for the entire university.
+•Collaborated closely with Microsoft Intune Engineers to design the comprehensive CUNY implementation framework across all 25 colleges.
+•Delivered extensive training to administrators and devised rollout plans tailored to each college.
+•Designed and configured Role-Based Access Control (RBAC) and tags for each college, simplifying device enrollment and management, with over 30,000 devices enrolled to date.
+
+Microsoft Cloud Engineer
+Brookdale Senior Living Solutions, Brentwood, TN
+October 2020 – May 2022
+Brookdale Senior Living Solutions owns and operates retirement homes across the United States.
+•Orchestrated the meticulous migration of mailboxes and user personal store data to O365, ensuring a seamless transition.
+•Prepared the on-prem Active Directory environment, leveraging IDFix and PowerShell scripts to enhance efficiency and accuracy.
+•Formulated comprehensive SharePoint and OneDrive data policies, refining sharing and access protocols for heightened security.
+•Played a pivotal role in the creation and maintenance of distribution lists and O365 groups, fostering efficient communication channels.
+•Configured and executed e-Discovery searches within Exchange Online, enhancing the organization's investigative capabilities.
+•Spearheaded the configuration of free/busy sharing for organizations utilizing cloud services, streamlining scheduling processes.
+•Implemented robust security measures, safeguarding mail, mail flow, identities, and connections through Azure Information Protection, VPN connectivity, and EOP services.
+•Successfully deployed Azure Sync for user identity synchronization into the Azure AD space, ensuring seamless integration.
+•Executed the implementation of Azure Threat Protection and Information Protection, fortifying the organization's defense against evolving threats.
+•Applied conditional access rules, encompassing network location, device compliance, and multi-factor authentication (MFA), coupled with Azure Identity Protection for enhanced security.
+•Expertly migrated users' stored data to OneDrive for Business, optimizing data management and accessibility.
+•Conducted rigorous testing of mail flow and authentication measures with Azure and AD, validating system integrity.
+•Classified and categorized data for labeling, contributing to a structured and organized data environment.
+•Proficiently managed rights and permissions in OneDrive and SharePoint, ensuring appropriate access control.
+•Adhered to incident response procedures in handling attacks and data leakage cases, mitigating potential risks.
+•Executed mailbox migrations from on-premises Exchange 2016 to Exchange Online, minimizing disruptions.
+•Conducted troubleshooting on hybrid deployment connectors, swiftly resolving deployment-related issues.
+•Identified, created, and managed mailbox and calendar permissions, optimizing resource utilization.
+•Reviewed and enhanced email security settings, implementing additional measures such as SPF, DMARC, and DKIM.
+•Evaluated quarantine message queues, determining and implementing action strategies for mitigation.
+•Completed domain and user whitelisting, blacklisting, and policy configuration for email integrity, fortifying email security.
+•Effectively managed mobile devices through Intune, configuring conditional access policies for enhanced device security.
+•Facilitated the transition of users to Teams, enabling seamless collaboration and communication within the organization.
+•Conducted thorough testing of Azure VM creation, ensuring the successful implementation of Azure servers.
+•Established data policies on document repositories in SharePoint, optimizing data management and compliance.
+•Linked permissions to security groups in Azure and automated group memberships for streamlined access control.
+•Conducted comprehensive reviews of threat analytics, proactively identifying and addressing vulnerabilities such as ransomware and phishing.
+•Led advanced threat hunting based on events and applications, staying ahead of potential security threats.
+•Conducted detailed threat investigations on malicious emails, links, and attachments, ensuring a secure digital environment.
+
+Microsoft Teams Administrator
+Vector Group Ltd., Miami, FL
+June 2018 – October 2020
+Vector Group Ltd. is an American diversified holding company with two major businesses: Liggett Group LLC and New Valley LLC,
+•Calculated network bandwidth capacity for Microsoft Teams, covering voice, video, meetings, and Live Events.
+•Specified outbound network ports and protocols requirements for Microsoft Teams.
+•Provided recommendations for WAN optimizer, proxy, and load balancer configurations for optimal Microsoft Teams performance.
+•Configured Tenant Data Upload in Microsoft Call Quality Dashboard for efficient monitoring.
+•Identified and applied licensing for compliance features, advanced lifecycle management, guest access, calling/phone system/resource accounts, Microsoft Teams Rooms, Common Area Phones, and apps within Microsoft Teams.
+•Implemented policies for Microsoft 365 Groups creation, expiration, and naming, ensuring streamlined governance.
+•Configured reporting labels for Microsoft Teams to enhance data classification.
+•Managed organizational-level sharing settings for SharePoint and OneDrive, including external file-sharing settings for OneDrive users.
+•Configured meeting settings, policies, conference bridges, live events settings, and live events policies for seamless collaboration.
+•Applied security measures and identified management policies for Microsoft Teams.
+•Selected appropriate administration roles and threat policies to enhance security.
+•Planned and configured retention policies and sensitivity labels for effective data management.
+•Implemented Data Loss Prevention (DLP) policies, conditional access, MFA for Microsoft Teams, and information barrier policies.
+•Managed Microsoft Teams preview features through Microsoft Teams update policies.
+•Created and managed policy packages in Microsoft Teams, ensuring proper policy assignments for users and groups.
+•Conducted restoration and troubleshooting of Microsoft 365 Groups.
+•Managed Azure AD access reviews for both members and guests.
+•Executed bulk user operations using PowerShell for efficient administrative tasks.
+•Oversaw external file-sharing settings for SharePoint sites, maintaining data security.
+•Managed guest users for Microsoft Teams from the Microsoft Teams Admin Center and configured guest access from the Azure AD Admin Center.
+•Planned and configured emergency services for prompt response and resolution.
+•Conducted troubleshooting of Microsoft Teams sign-in issues using Azure AD sign-in logs.
+•Utilized Call Analytics for efficient troubleshooting of Microsoft Teams issues.
+
+Exchange Engineer
+Murphy USA, El Dorado, AR
+March 2015 – June 2018
+Murphy USA is an American corporation operating a chain of retail gas stations that are primarily located in proximity to Walmart stores.
+•Designed and implemented robust Microsoft Windows and Exchange farms within a network infrastructure.
+•Updated and optimized Windows servers and virtual environments, facilitating the seamless integration of Exchange 2016 servers alongside Exchange 2013 in a side-by-side migration scenario.
+•Configured and deployed high-availability messaging server infrastructures using clustering, DAG, load balancing, pools, and pool pairing methodologies.
+•Developed custom PowerShell scripts for process automation, showcasing a commitment to efficiency and streamlined operations.
+•Utilized PowerShell extensively in both Exchange and Skype-for-Business environments, demonstrating proficiency in scripting for task automation.
+•Implemented critical roles in the Microsoft Exchange environment, including Edge Transport and Mailbox roles.
+•Effectively addressed Office 365 tasks using PowerShell, ensuring smooth and efficient operations within the cloud-based environment.
+•Designed, tested, and executed PowerShell batch processes for seamless migration from Exchange 2013 to Exchange 2016.
+•Ensured the Azure Active Directory Connector was current and seamlessly integrated with the internal Active Directory domain.
+•Applied expertise in networking protocols, encompassing TCP/IP, DNS, SIP, MAPI, and SMTP.
+•Demonstrated proficiency in Office 365 migrations and hybrid solutions, resolving tenancy technical issues and automating procedures using PowerShell.
+•Formulated and enforced policies for Skype-for-Business online on O365, establishing federation and conference policies in the cloud.
+•Acted as a Subject Matter Expert (SME) and liaison between operations, helpdesk, and networks, ensuring uninterrupted service to the user community.
+•Operated within Exchange Management Console and Exchange Management Shell, showcasing proficiency in Microsoft Exchange administration.
+
+Messaging Engineer
+T. Rowe Price Group, Inc., Baltimore, MD
+January 2013 – March 2015
+T. Rowe Price Group, Inc. is an American publicly owned global investment management firm that offers funds, advisory services, account management, and retirement plans and services for individuals, institutions, and financial intermediaries.
+•Administered and fortified the Exchange 2010 environment, ensuring seamless functionality for end users.
+•Implemented Database Availability Groups (DAG) to establish high availability for mailbox databases.
+•Offered Level I and Level II IT support on-site, addressing user queries and technical issues promptly.
+•Developed PowerShell scripts to efficiently query Active Directory distribution groups, extracting user email addresses for streamlined processes.
+•Executed monthly database maintenance operations to uphold optimal database health and functionality.
+•Conducted routine maintenance of telephone and communication channels, guaranteeing uninterrupted communication pathways.
+•Established user accounts, security groups, and organizational units, ensuring a secure and organized IT environment.
+•Configured transport rules, addressing compliance requirements and fulfilling key staff requests.
+•Collaborated with the firewall team, utilizing DNS, DHCP, and WSUS for modifications and enhancements.
+•Applied troubleshooting skills to resolve complex technical issues arising from hardware limitations, services, Group Policy Objects (GPOs), and misconfigurations.
+•Configured Threat Management Gateway (TMG) for an added layer of protection to the internal network.
+•Actively participated in projects and equipment/software testing, contributing to future deployment strategies within the organization.
+•Identified and rectified issues with computer equipment, printers, and communication devices, leveraging monitoring and diagnostic tools for efficient resolution.
+•Played a key role in the purchasing process for computers and communication equipment, ensuring optimal specifications and compatibility.
+•Installed, configured, and provided support for specialized software, meeting diverse organizational needs.
+•Configured PBX voice gateway for secure media traversal into the internal network, enhancing overall communication capabilities.
+
+Exchange Administrator
+Anthem, Inc., Indianapolis, IN
+September 2010 – December 2012
+Anthem, Inc., is a provider of health insurance in the United States.
+•Managed Windows Server 2008 and 2012 environments, ensuring seamless functionality.
+•Oversaw the maintenance of Exchange 2007/2010 systems, handling tasks such as user mailbox management, security group administration, shared access configurations, delegation, and permissions.
+•Installed and configured Exchange Online on client machines, facilitating smooth email migrations, and implemented configurations for Lync Online.
+•Played a key role in configuring and implementing Directory Synchronization and Forefront, providing troubleshooting support as needed.
+•Configured DirSync and ADFS for Active Directory synchronization, enabling efficient single sign-on with Office 365.
+•Implemented and configured new Anti-Malware policies for System Center Endpoint Protection (SCEP).
+•Utilized SharePoint for maintaining backup processes and improving migration feedback for Office 365 Managing Distribution Lists.
+•Managed clustered server scenarios through CCR/SCR, conducting regular reports and validation checks.
+•Orchestrated the seamless migration of mailboxes from Exchange 2007 to Exchange 2010.
+•Conducted user training sessions on Microsoft Outlook 2010 following its deployment to end clients.
+•Set up voice policies in accordance with the company's requirements.
+•Worked proficiently with Lync server logging tools and snooper tool, providing support for end users and addressing server-related issues in the Lync 2010 environment with a single front-end pool.
+
+IT Support Technician
+Allegiant Air, Las Vegas, NV
+May 2004 – September 2010
+Allegiant Air is an American ultra-low-cost airline that operates scheduled and charter flights.
+•Established Exchange mailboxes, shared mailboxes, and distribution groups, ensuring seamless communication infrastructure.
+•Proficiently reset printers within the AS400 environment to address operational needs.
+•Accounted for creating user accounts in Active Directory, maintaining an organized and secure user management system.
+•Expertly managed group memberships, swiftly adding or removing users as dictated by organizational requirements.
+•Provided technical troubleshooting for computer hardware, software, and IT issues both on-site and through remote support.
+•Administered user accounts, demonstrating efficiency in password resets and account management.
+•Oversaw backups on designated Exchange servers, ensuring data integrity and system reliability.
+•Reset passwords across various platforms, including network, VPN, email, and SAP, contributing to a secure IT environment.
+•Tracked and managed support tickets through the Remedy system, ensuring a systematic and organized resolution process.
+•Diagnosed and resolved Outlook and VPN issues, contributing to improved user experience and system functionality.
+•Proactively escalated priority issues to on-call personnel for swift and effective resolution.
+•Efficiently created tickets from the customer care mailbox, initiating a structured problem-solving process.
+
+Database Administrator
+Home Services of America, Minneapolis, MN
+July 2003 – May 2004
+Home Services of America (a Berkshire Hathaway affiliate) is a residential real estate services company that provides real estate brokerage services, mortgage loan origination, franchising, title insurance/escrow and closing services, home warranties, property insurance, casualty insurance, and relocation services.
+•Implemented and ensured robust procedures for log shipping and nightly backups, safeguarding data integrity and availability.
+•Monitored database performance, consistently optimizing system functionality for peak efficiency.
+•Provided strategic recommendations to upper management for enhancing system reliability and aligning technology with business continuity policies.
+•Meticulously maintained databases, intricate diagrams, and comprehensive documentation.
+•Developed SQL scripts tailored to meet client application requirements.
+•Resolved inefficiencies in developers' SQL statements to enhance overall database responsiveness.
+•Implemented and managed daily backup procedures to mitigate the risk of data loss.
+•Developed and executed replication procedures to ensure data consistency and availability
+
+EDUCATION
+
+Bachelor of Arts - Economics
+Contact this candidate

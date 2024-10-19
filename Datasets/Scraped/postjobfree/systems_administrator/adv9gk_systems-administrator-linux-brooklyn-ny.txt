@@ -1,0 +1,61 @@
+SUMMARY
+A Linux Systems Administrator working in the IT industry for about 4 years now, I have extensive experience in designing, implementing and maintaining highly scalable and highly available Linux-based infrastructure. Expertise includes automation of deployments, configuration management, monitoring and troubleshooting of various applications and services. Proficient in utilizing various DevOps tools such as Ansible, Docker, Kubernetes, and Git to ensure smooth and efficient delivery of software products. With excellent communication and collaboration skills, worked effectively with cross-functional teams to improve software development processes and enhance the overall quality of the infrastructure. SKILLS HIGHLIGHT
+Operating System: RHEL, CentOS, Debian, Ubuntu
+Version Control Tools: GIT, Gitlab
+User Authentication: Active Directory, LDAP
+Servers: PXE, DHCP, Apache, DNS, NFS, FTP, TFTP
+Containerization: Docker, Docker compose, Kubernetes Network Troubleshooting: netstat, nslookup, tcpdump, route, ping, traceroute Cloud (AWS): IAM, EC2, S3, Glacier, EBS, EFS, ELB, Cloudwatch, Cloudtrail Monitoring and Logging Tools: Nagios, Splunk, Grafana, Prometheus, Jira Storage & Disk Management: SAN, NAS, NFS, LVM, Ext4, XFS Virtualization Technology: VMware, ESXI host, Vmotion, vCenter, vSphere Networking/ Protocol: DNS, DHCP, NIS, NFS, SSH, UDP, FTP, TFTP, TCP/IP, HTTP Scripting: Yaml, Bash Scripting
+Documentation & Communication: Jira Confluence, Slack, Microsoft Excel, Matter Most, Google meet, Google Docs
+EXPERIENCE
+Linux Systems Administrator - 06/2021 - 02/2023
+Dupont, Delawre, DE
+Responsible for the Installation, Upgradation, Configuration, Maintenance, Management and Troubleshooting of the Operating systems such as RHEL, Ubuntu, CentOS.
+Experience with building, configuring and deploying PXE boot server and configured kickstart file for a customized and automated server deployment with configured packages.
+Managing VMWare where installed ESXi hypervisor, provisioning VMs and updating the servers. Migrating VMs across hosts within a HA cluster to perform maintenance tasks on ESXi hosts.
+Managing users and groups, setting permissions, ACL, also set restricting permissions on need basis.
+Strong experience in Ansible for orchestration, automation, app deployment, and configuration management.
+Creating and using Ansible playbooks to orchestrate a deployment of different tools across multiple environments including dev, test, and production. Mainly deploying web servers, managing configuration of web servers, deploying software and patching of servers.
+Used GIT as source code repositories and managed GIT repositories for branching, merging, and tagging.
+Collaborated with cross-functional teams, including development, operations, and QA, to ensure smooth Git operations.
+Managed and deployed instances on AWS environment and used cloud formation to deploy and manage EC2, VPC, Route53, Cloud Watch, EBS and assigning roles and policies via IAM.
+Experience in provisioning, configuring, monitoring, troubleshooting and managing various storage such as AWS S3 for object based storage, glacier for backup and archiving data, and EBS to attach black storage with EC2 instances.
+Experience in creating policies, managing users and groups in IAM, assigned roles and managed access by setting policies.
+Performed patching and decommissioning of physical and virtual Linux servers in my environment.
+Allocating storage resources, allowing users to add or remove disk space to a volume group as needed by configuring LVM manager.
+Exposure to kernel tuning to modify and improve speed and performance of a system.
+Utilized Nagios monitoring tools to observe system processes, load averages, and overall system health.
+Achieving better traffic flow and improve network performance by setting up NICs.
+Worked with Docker to run multiple applications on the same server without incurring the performance overhead of a full virtual machine.
+Worked with container-based deployments using Docker, working with Docker images, Docker hub and Docker registries, installation and configuration of Kubernetes and clustering them.
+Deployed and managed microservices-based applications using Kubernetes.
+Resolved incidents with BMC-Remedy and recorded the documentation and RCA to the management.
+Jr. Linux Admin - 09/2019 - 04/2021
+Nvidia, Nvidia, San Francisco, CA
+Designed, configured, and maintained Linux servers and related infrastructure.
+Collaborate with the development team to implement and oversee the operation of applications within a Linux-based system.
+Experience in using automated approaches like PXE with kickstart to set up and configure servers.
+Proficient in configuring RAID disks on Linux servers and provided best suites with cost effective, redundancy and performance.
+Promptly addressed server downtime alerts and utilized ILO/IDRAC to bring the servers back online.
+Performed administration of log file rotation in accordance with the corporate backup policy, utilizing log rotate.
+Used Zabbix on Linux systems to monitor, manage and tune the systems performance.
+Collaborated closely with incident management teams to investigate reports and preemptively identify resolutions.
+Implemented NFS as a client/server application for accessing, storing, and updating files in the environment.
+Created Bash scripts to streamline routine processes, like backups and system activity reports.
+Performed troubleshooting and resolved issues related to system performance, networking, and security.
+Assured data and system availability, perform system backups and disaster recovery planning.
+Responsible for adding and deleting users, creating user accounts, handling, privileges and permissions.
+Worked with a secure shell to access remote servers and troubleshoot issues remotely.
+Managed various types of servers, including but not limited to DNS, DHCP, NIS, NFS, Apache, and MySQL.
+Jr. Linux Analyst - 12/2018 - 08/2019
+Bloomberg, Orangeburg, NY
+Performed data restores on Linux/Unix servers.
+Creating and keeping up with system configuration, process, and policy documentation.
+Delivered end users and other IT personnel technical assistance to fix system-related problems.
+Reviewed system and security logs and resolved and escalated where found any issue beyond approach.
+Monitored system performance on CLI and through monitoring tools.
+Participated in on-call rotation to provide support to clients to resolve issues.
+Scheduled Cron jobs to run repetitive routine tasks.
+Updated and upgraded packages with YUM and RPM and managed 3rd party software. EDUCATION
+Bachelors of Accounting - 2022
+Cuny York College
+Contact this candidate

@@ -1,0 +1,184 @@
+Jiaqi Mai
+Senior Data Scientist
+
+ad2esr@r.postjobfree.com
+347-***-****
+
+•PROFILE OVERVIEW.
+•Senior Data Scientist with 9+ years of experience building applications and analytics using Data Science and Machine Learning techniques.
+•Experienced in Analysis Methods such as Forecasting, Multivariate analysis, Sampling methods, MMM (S Curves & Adstock), Bayesian Modelling (MCMC, Bayesian Networks), Clustering Predictive, Statistical, Sentiment, Exploratory, and Bayesian Inferences, Regression Analysis, Linear models.
+•Applied advanced statistical and predictive modeling techniques to build, maintain, and improve real-time decision systems.
+•Good knowledge of executing solutions with common NLP frameworks and libraries in Python (HuggingFace, NLTK, spaCy, pytorch). Familiarity with the application of LangChain framework, Neural Networks, Support Vector Machines (SVM), and Random Forest.
+•Developed an integration layer that connects the LLM to existing automation tools and systems. It involved creating APIs, scripts that facilitated communication between the LLM and the automation infrastructure.
+•Experienced in Text Analytics, developing different Statistical Machine Learning, Data Mining solutions to various business problems, and generating data visualizations using R, Python, and Tableau.
+•Proven ability to design, implement, and optimize cloud-based solutions for scalability and performance.
+•Stays up to date with the current research in data science, operations research, and Natural Language Processing to ensure we are leveraging best-in-class techniques, algorithms, and technologies.
+•Used Transfer learning for advanced computer vision algorithms (MobileNet V2, Resnet50, AlexNet, VGG19, etc.) and applications
+•Experienced in applying a variety of NLP methods for information extraction, speech/intent recognition, topic modeling, parsing, and relationship extraction
+•Programmed in Java, R and Python and wrote advanced SQL queries.
+•Used popular Machine Learning libraries and frameworks such as NumPy, SciPy, Pandas, Theano, Caffe, SciKit-learn Matplotlib, Seaborn, Theano etc.
+•Experienced in industrial and manufacturing environments around Operations Analytics, Supply Chain Analytics, and Pricing Analytics.
+•Experienced in process automation on-premise and cloud environments (AWS, GCP, and Azure)
+•Skilled in evaluating datasets and building complex data models.
+•Experienced in designing stunning visualizations using Tableau software. Published and presented dashboards and Storylines on web and desktop platforms.
+•Experienced in working with relational databases (Teradata, Oracle, Redshift, BigQuery) with advanced SQL programming skills.
+•Documented new data to help source to target mapping. Also, updated the documentation for existing data and assisted with data profiling to maintain data sanitation and validation.
+•Experienced in conducting Joint Application Development (JAD) sessions for requirements gathering, analysis, design, and Rapid Application Development (RAD) sessions to converge early toward a plan/design acceptable to the customer and feasible for the developers and to limit a project's exposure to the forces of change.
+•Identified what data is available and relevant, including internal and external data sources, leveraging new data collection processes such as geo-location information.
+•Closely worked with product managers, Service development managers, and the product development team in productizing the algorithms developed.
+•Knowledge of Apache Spark and developing data processing and analysis algorithms using Python.
+•Expertise in transforming business requirements into analytical models, designing algorithms, building models, and developing data mining and reporting solutions that scale across a massive volume of structured and unstructured data.
+•Hands-on experience in business understanding, data understanding, and preparation of large databases.
+
+•TECHNICAL SKILLS
+•Languages: Python, SQL, Visual Basic, R, Command Line, Markdown
+•Python packages: Numpy, TensorFlow, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn
+•Machine Learning: Natural Language Processing and Understanding, Machine Intelligence, Machine Learning algorithms
+•Deep Learning: Machine Perception, Data Mining, Machine Learning algorithms, Neural Networks, TensorFlow, Keras, GAN
+•NLP: Sentiment Analysis, Sentiment Classification, Sequence to Sequence Model, Transformer, RAGs, BERT, GPT 3.5, 4
+•
+•Analysis: Advanced Data Modeling, Statistical, Sentiment, Exploratory, Stochastic Forecasting, Regression, Predictive
+•Data Modeling: Bayesian Analysis, Stochastic Modeling, Linear Modeling, Behavioral Modeling, Inference, Predictive Modeling, Probabilistic Modeling
+•Communication: Reporting, Documentation, Presentation, Collaboration. Clear and effective with a wide variety of colleagues and audiences.
+•Cloud: Amazon Web Services (AWS), Google Cloud Platform (GCP), Azure
+
+•PROFESSIONAL WORK EXPERIENCE
+Lowes Brooklyn, NY
+Lead Data Scientist / January 2023 to Present
+Lowe’s is an American retail company specializing in home improvement. Headquartered in Mooresville, North Carolina, the company operates a chain of retail stores in the United States. As a data scientist I have worked on Virtual Assistants, Visual Search for Image Database, Screenshot Detection Algorithm, Addressed Memory Issues of Deployed Model, Performance Regulation for Deployed Model, Generate Quality Static Images for Webpages and Addressed Painting Issues on Tiled Walls
+
+•Developed a virtual assistant by setting up an environment, defined the conversation flow, integrating with LangChain, and incorporating related functionalities.
+•Selected a vector database that supports the storage and retrieval of high-dimensional vectors such as Elasticsearch, Faiss etc.
+•Used a pre-trained language model BERT/GPT4.0 to generate vector embeddings for the data to capture semantic similarities between items using cosine similarity.
+•Used Sentence Transformer Framework for transforming sentences or text passages into fixed-dimensional vectors using such as semantic similarity, clustering, and search.
+•Spearheaded the integration of Gen AI into applications, leveraging LangChain and LangIndex to enhance natural language processing capabilities for text data.
+•Text Data Processing by developing and implementing machine learning models using PyTorch to process and analyze text data, contributing to improved support to customers.
+•Extend the conversation flow to handle specific queries.
+•Trained the retrieval model on the retrieval dataset to learn how to retrieve relevant information. Fine-tune the generation model on the paired data, incorporating the retrieved information to improve context-awareness. Integrated the trained retrieval and generation models into a RAG framework and deploy in prod environment on AWS.
+•Implemented robust security measures within the Gen AI system, safeguarding customer confidentiality and adhering to industry standards.
+•Implemented the final solution on the cloud using SageMaker SDK, optimizing scalability and facilitating secure storage and retrieval of sensitive customer information.
+•Drove the development and enhancement of machine learning models, algorithms, and image processing techniques to address critical issues and improve the overall functionality and user experience of the Lowe’s project system.
+•Developed and trained a state-of-the-art model to analyze the vast image database.
+•Created a mechanism that extracts image features and translates them into searchable vectors.
+•Implemented efficient search algorithms to enable visual search within the database.
+•Continuously improved and fine-tuned the model's accuracy and search capabilities.
+•Designed and developed a specialized algorithm to detect and differentiate screenshots from genuine photos.
+•Utilized image analysis and machine learning techniques to identify characteristics unique to screenshots.
+•Implemented robust and efficient detection methods to reduce the submission of irrelevant content.
+•Investigated and identified memory-related issues in the currently deployed model.
+•Optimized memory usage and performance to ensure smooth operation.
+•Implemented fixes and improvements to resolve memory constraints and enhance overall system stability.
+•Defined performance benchmarks and restrictions for the deployed model.
+•Developed load-balancing mechanisms to handle high volumes of incoming requests.
+•Ensured that the model operates efficiently without compromising accuracy, even during peak usage.
+•Enhanced the image generation process to produce high-quality static room images.
+•Addressed issues related to image shape and lighting to improve the visual appeal.
+•Employed image processing techniques and automation to generate web-ready images suitable for display.
+•Identified and understood the challenges associated with painting.
+•Devised innovative solutions or techniques that ensure a seamless finish.
+•Collaborate with relevant teams to implement and test these solutions, optimizing the painting process.
+•
+Deloitte New York, NY
+Sr. Data Scientist / June 2020 to January 2023
+Deloitte is an international professional services network that operates a US division from New York. I worked on a Data Science team mandated to develop state-of-the-art computer vision algorithms to solve different client use cases. Using transfer learning techniques, I developed a model for a manufacturing company to recognize various body parts to avoid employee injuries in their distribution centers. Another use case was an algorithm for a central parking lot to automate the check-in process and parking spot violations. In addition, for several clients, I developed a model for Gesture Recognition using WiFi signals. I created all my models from conception to coding, deployment, and monitoring across different platforms On-premise and GCP
+•Decreased employee injuries by 95% and significantly reduced the severity of missed injuries by enhancing the fail-safe procedure with Machine learning.
+•Recovered an estimated 20% of the revenue with the improved check-in process and the automated detection of parking spot violations.
+•Enhanced the building coverage to 97% from 50% using the new gesture recognition system.
+•Created a semantic segmentation model using the latest computer Vision techniques to train the dataset, CelebAMask-HQ, with a custom UNet.
+•Worked regularly with technical and non-technical stakeholders to understand project requirements and present deliverables with clear and informative visualizations and reports.
+•The model could successfully recognize the different parts of human faces, such as noses, glasses, mouths, and hair, with an accuracy of over 98.5%.
+•Developed a state-of-the-art object detection algorithm for an R&D department of a manufacturing client based on Box/Point Detector and Cascade-RCNN.
+•Used Transfer learning techniques (MobileNet V2, Resnet50) to reach high accuracies.
+•Created a model for car image segmentation with TinyImagnet and Cars 196 using PyTorch to train the data with Resnet 18 and Resnet 18 with different CUBS Blocks.
+•Analyzed the WIFI signal data through Channel State Information (CSI). We collected 10-30 samples of each gesture detected because of the Doppler effect, and with machine learning, we could classify these gestures after training the model on the collected data.
+•Differentiated the gesture through a machine learning algorithm. For example, linear perceptron and state vector machine (SVM).
+•Used RNNs, GAN, CNNs, and Autoencoders according to each client use case.
+•Used Google Colab, BigQuery, Kubernetes Engine, and other GCP services.
+•Leveraged object detection with Fast RCNN using PyTorch and TensorFlow to generate datasets from a large customer database.
+•Used a pre-trained model to segment frame images into objects for identification and removal/replacement.
+•Stitched two images together with SIFT (scale-invariant feature transform) and RANSAC (Random sample consensus) algorithm in Python.
+•Found key points and features with SIFT detector and descriptor.
+•Estimated Homography matrix with the feature found based on the formula which calculates the preliminary.
+•Wrapped and stitched the two images with the maximum x and y coordinates.
+•Analyzed the data (pictures), which has been collected by other members in the lab, with MATLAB tool.
+•Improved the process of analyzing pictures. The first step of the process was to frame the position of useful information on the images. Lab members could use my code to pick the area of interest instead of zooming in and typing in the four positions of the pixels of the rectangular area. The calculation code mostly used the previous writer's code.
+•Utilized Python libraries such as Pandas, NumPy, and Plotly to preprocess and clean image data.
+•Tested various computer vision architectures such as VGG16, Resnet, Inception, and EfficientNet, among others
+•Constructed a Rest API using Flask to deploy the models.
+•Designed part of an ETL pipeline for data ingestion and feature engineering.
+•Worked in a Git development environment.
+•Gained extensive experience in simulation modeling to build digital models of real-world systems.
+•Applied expert-level Python and SQL Server development skills.
+•Using AI Platform, upload the model files to a Cloud Storage bucket for AI Platform deployment.
+•Used containerization (e.g., Docker) and container orchestration tools (e.g., Kubernetes) for deploying and managing machine learning models in production environments.
+•Implemented monitoring and logging mechanisms to track model performance, detect anomalies, and capture relevant metrics. Tools like Prometheus and Grafana were used.
+•Configured the model version and set runtime parameters and deployed on Kubernetes Engine by creating a Kubernetes cluster.
+•Configured autoscaling and endpoint details such as URL, authentication, and access control. Also, used Stackdriver for logging and monitoring services.
+
+Aerie Pharmaceuticals Inc., Bedminster, NJ
+Sr. Data Scientist - Machine Learning Engineer / October 2018 to June 2020
+Aerie Pharmaceuticals Inc. is a publicly traded, clinical-stage pharmaceutical company focused on the discovery, development, and commercialization of first-in-class therapies for the treatment of patients with glaucoma and other diseases of the eye. I was part of the team that created several NLP models for customer interaction and automated order requests and diagnosis through an Object Character Recognition (OCR) process, which I developed and implemented from scratch. I performed several NLP techniques for the CRM department using Sentiment analysis, Name Entity Recognition (NER), Topic Segmentation, and others. I created a chatbot for customer interaction on our social media.
+•Cut the processing time in half and decreased manual processing cost by 35%
+•Worked with business partners to understand the business objectives, explore data sources, and build NLP/ML solutions.
+•Built predictive modeling using Machine Learning algorithms such as Random Forests, Naive Bayes, Neural Networks, MaxEnt, SVM, Topic Modeling/LDA, Ensemble Modeling, and GB, among others.
+•Implemented the information extraction steps using various models Google Tesseract, AWS text Extract, and Convolutional Neural Networks.
+•Utilized an AWS infra e-structure.
+•Used standard NLP techniques, such as preprocessing (tokenization, part-of-speech tagging, parsing, stemming).
+•Reduced the data entry time exponentially by a power of 3
+•Performed OCR on images of order requests to extract the wanted information and then stored it in AWS Redshift.
+•Used various NLP methods for information extraction, topic modeling, parsing, and relationship extraction.
+•Implemented both Elmo and BERT embeddings to encode text correctly.
+•Performed semantic analysis (named entity recognition, sentiment analysis), modeling, and word representations (RNN / ConvNets, TF-IDF, LDA, Word2vec, Doc2vec).
+•Synthesized analytical results with business input to drive measurable change.
+•Wrote a Flask app to call CoreNLP for parts-of-speech and named entity recognition on natural English queries.
+•Performed data visualization and developed presentation material using Tableau.
+•Used time-series analysis techniques using RNN, CNN, LSTM, Prophet, and NLP techniques to analyze news and social media sentiment. The goal was to provide the company analysis, insight, and suggestions for the future. Since time series analysis can be easily applied to different use cases, this model can be used in many other applications.
+•Used NLTK, Spacy, Gensim, BERT, and ELMO libraries, among others.
+•Built text-based LSTM deep-learning framework with TensorFlow and Keras to give recommendations to sales, given the call history.
+•Used Amazon Web Services (AWS) EC2 for model training.
+•Provided data visualizations for multiple metrics of project success. (Python, Matplotlib, Seaborn).
+•Applied clustering algorithms, Mixture Models, DBSCAN, K-Means, Gaussian, and Hierarchical Agglomerative, to discover patient groups.
+•Used AWS SageMaker, Redshift, S3, EKS, ECS, Qicksight Athena, and other services.
+•Abided by HIPPA regulations throughout the project, including Anonymizing the data from the production database before converting it to a development database using SQL.
+•Utilized Gradient boosted trees and random forests to create a benchmark for potential accuracy.
+
+The Procter & Gamble Company, Cincinnati, OH
+Data Scientist / April 2016 to October 2018
+The Procter & Gamble Company is a multinational consumer goods corporation. The company wanted to garner increased insight into the anatomy of trends that dominated certain aspects of its business product lines. To effectuate the objective, I worked with a team that applied time-series analysis and linear regression models in conjunction with unsupervised customer segmentation methods like K-Means. These models were built in Python using the Scikit-Learn package and deployed in a docker container. Marketing managers could access the models through an API to get real-time insights on strategizing their upcoming projects.
+•Increased business revenue by 15% by identifying a previously undetected trend with the new model.
+•Applied various machine learning algorithms and statistical modelings such as decision trees, regression models, neural networks, and clustering using the Scikit-learn package in Python.
+•Reviewed customer consuming behaviors, discovered customers' value with RFM analysis and applied customer segmentation with clustering algorithms such as Hierarchical Clustering and K-Means Clustering.
+•Adopted feature engineering techniques, such as sequential feature selection, with hundreds of predictors to find the features with the highest linear and non-linear correlation with the target variable.
+•Used Python to create Statistical algorithms involving Multivariate Regression, Linear Regression, Logistic Regression, PCA, XGBoost, and Random forest models.
+•Interacted with Google BigQuery using SQL for analysis of customer behavior.
+•Performed Data Cleaning, features scaling, and features engineering using pandas and Numpy packages in Python.
+•Directed analysis of data and translated the derived insights into revenue growth strategies and actions.
+•Produced a variety of models and algorithms for analytic purposes.
+•Engaged with data investigation, discovery, and mapping tools to scan every data record from many sources.
+•Used GCP environment for deployment, using Google BigQuery, and Kubernetes Engine, among other services.
+•Developed connectors to plug machine-learning software into data pipeline architectures.
+•Identified and assessed available machine learning and statistical analysis libraries (including statistical tests, clustering algorithms, regressors, and classifiers).
+•Tested classification models such as Random Forest, Logistic Regression, and Gradient Boosting.
+•Performed Cross Validation for hyper-parameter tuning to optimize the models for unseen data.
+
+@WalmartLabs (Remote)
+Data Scientist (Intern)/ July 2014 to April 2016
+@WalmartLabs, now Walmart Global Tech, develops and manages the foundational technologies on which Walmart Inc.'s customer experiences are built, including cloud, data, enterprise architecture, DevOps, infrastructure, and security. The tech organization powers Walmart Inc. and its business units and is also an enterprise services organization. I worked on enhancing Polaris, @WalmartLabs' own in-house search engine, which uses semantic search technology to populate relevant search results based on predicting a shopper's intent.
+•Applied NLP methods to clean, tokenize, lemmatize and vectorize data
+•Used Bag of Words, TF-IDF, word2vec, and GloVe for word embeddings
+•Implemented Latent Semantic Analysis to produce a set of concepts related to the product descriptions and other terms. These concepts tie together similar products through product descriptions and other content to enable indexing.
+•Applied Fuzzy matching to build a robust search engine in Python.
+•Tested classification methods such as Random Forest, Logistic Regression, and Gradient Boosting.
+•Performed Cross Validation for hyper-parameter tuning to optimize the models for unseen data.
+•Interacted with large relational databases using SQL for analysis.
+•Performed Data Cleaning, features scaling, and features engineering using pandas and Numpy packages in Python.
+•Directed analysis of data and translated the derived insights into revenue growth strategies and actions.
+•Produced a variety of models and algorithms for analytic purposes.
+•Developed connectors to plug machine-learning software into data pipeline architectures.
+•Researched Azure as a potential cloud provider and shared the insights of the research with decision-makers.
+•Identified and assessed available machine learning and statistical analysis libraries (including statistical tests, clustering algorithms, regressors, and classifiers).
+
+EDUCATION
+•Masters in Artificial Intelligence, University at Buffalo - Buffalo, NY
+•Bachelor of Science in Electrical Engineering, University at Buffalo - Buffalo, NY
+Contact this candidate

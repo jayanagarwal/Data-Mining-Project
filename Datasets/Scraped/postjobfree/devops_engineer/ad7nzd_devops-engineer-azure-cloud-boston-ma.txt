@@ -1,0 +1,254 @@
+Vikram Baddam
+Senior DevOps Engineer
+Phone: +1-469-***-****
+Email: ad7nzd@r.postjobfree.com
+LinkedIn: https://www.linkedin.com/in/vikram-reddy-b-40826031a/
+SUMMARY:
+Over 11+ years of professional experience in IT. Experience in installation, configuration and troubleshooting of RedHat Linux, Ubuntu and Windows on various hardware platforms and over 7 years in DevOps tools like SVN, GIT, ANT, Maven, Jenkins, Ansible, Docker, Terraform, Kubernetes and AWS/Azure cloud.
+Good knowledge of DevOps management methodologies and production deployment configurations.
+Skilled at Software Development Life Cycle and Agile Programming Methodologies.
+Experience in Continuous Integration (CI) and Continuous Deployment (CD) using Jenkins.
+Experienced in all areas of Jenkins like setting up CI for new branches, build automation, plugins installations and management and securing Jenkins and setting up master/slave configurations.
+Extensive experience in using MAVEN and ANT as build tools for building deployable artifacts (jar, war & ear) from source code.
+Experience working with release and deployment in Java/J2EE, Android and web application environments.
+Experience in providing support for technical requirements in automating the deployments on cloud environments using Jenkins, AWS, Docker, and Kubernetes.
+Experience in AWS services such as EC2, ELB, EKS, ECS, Route53, Subnets, Auto-Scaling, S3, IAM, VPC, RDS Postgre, DynamoDB, Cloud Watch, Cloud Trail, Lambda Functions, Elastic Cache, Glacier, SNS, SQS, Cloud Formation, CloudFront, Elastic Beanstalk, AWS Workspaces.
+Experience in Azure Cloud Services such as Storage, Web Apps, Active Directory, Azure Container Service, VPN Gateway, Content Delivery Management, Traffic Manager, Azure Monitoring, OMS, Key Vault, Visual Studio Online & Azure SQL/Cosmos DB, Azure Multi-Factor Authentications, Load Balancing, and Application Gateways.
+Hands on experience on backup and restoring Azure services and configure Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing. Azure cloud services, Blob storage, Active directory, Azure Service Bus, Cosmos DB.
+Expertise in Azure Scalability and Azure Availability - Build VMs availability sets using the Azure portal to provide resiliency for IaaS based solution and Virtual Machine Scale Sets (VMSS) using Azure Resource Manager (ARM) to manage network traffic.
+Experienced with Docker container service and Docker consoles for managing the application lifecycle. Virtualized the servers using Docker for the test environment and dev-environment needs, also configuration automation using Docker containers.
+Worked on Kubernetes to orchestrate Docker containers of new and existing applications as well as deployment and management of complex runtime environments.
+Experience in Monitoring server performance using tools like Nagios, Splunk, New Relic and resolved network related issues with manual commands and built Splunk Cluster environment with high availability resources.
+Experience in writing the Playbooks in Ansible integrating them to the source code repository and deploying them onto the servers to reduce the downtime.
+Experience with bug tracking tools like JIRA, Remedy.
+Vast knowledge of utilizing cloud technologies including Amazon Web Services (AWS), Microsoft Azure and Pivotal Cloud Foundry (PCF)
+Administered and configured ELK Stack (Elasticsearch, Logstash) on AWS and performed Log Analysis and created monitoring charts and performed log management using log entries and ELK stack.
+Experience in writing bash and python shell scripts.
+Experience in writing Terraform scripts to create VPC subnets and spin-up multiple instances with defined configuration within the VPC created utilizing public and private subnets based on requirement.
+Good knowledge and experience in using Elasticsearch, Datadog, Kibana, CloudWatch, Nagios, Splunk, Prometheus and Grafana for logging and monitoring.
+Experience in Microsoft Active Directory Extensive experience with version control systems like Git and their use in release management, branching, merging and integration strategies.
+Hands-on experience in integrating various version control tools like GIT, SVN, build tools (Maven), nexus and deployment methodologies (scripting) into Jenkins to create end-to-end orchestration build cycles.
+Troubleshooting and finding resolutions to complex technical problems across multiple tiers (web servers, application servers, database, search cluster, integrations, automation platform).
+Monitored Linux servers round the clock and identified, troubleshooting the system issues, and finding the optimal solution. Created Crontab to run a job at scheduled time.
+Collaborating with development teams, operations teams, and other stakeholders to understand requirements, provide support, and share knowledge. Documenting processes, configurations, and best practices for future reference.
+Keeping myself up-to-date with the latest developments in containerization, Kubernetes, and OpenShift technologies, and evaluating new features and tools that could benefit the organization.
+
+EDUCATION:
+Bachelors in Computer Science from Jawaharlal Nehru Technological University
+
+CERTIFICATIONS:
+Microsoft Certified Azure administrator
+Certified Kubernetes Administrator
+AWS Developer - Associate
+
+TECHNICAL SKILLS:
+Ticketing tool
+Jira, Remedy, ServiceNow
+Server Operating System
+Red Hat Enterprise Linux, CentOS 5 and 6, Ubuntu, Windows Server
+Virtualization & containerization
+VMWARE, Docker, Kubernetes, ESXI
+Web Server
+Apache, Nginx, IIS, Oracle
+Cloud
+AWS, Azure
+Version Control Tools
+SVN, GIT, GitLab, Bitbucket
+CI/CD
+Jenkins, Azure Pipelines, GitLab
+Configuration Management
+Ansible, Terraform, Chef
+Build Tool
+Maven, Gradle, ANT
+Testing/Scanning Tools
+SonarQube, Veracode, X-Ray, Selenium
+SDLC
+Waterfall, Agile, Scrum
+Monitoring Tool
+Splunk, Nagios, Cloud Watch, Grafana, Prometheus, Datadog, Dynatrace
+Database
+SQL Server, Data Lake, Cosmos DB, MySQL, MongoDB, DynamoDB
+Scripting Languages
+Shell Scripting, bash, Yaml, Python, Groovy, PowerShell
+Languages
+Java, Python, Golang
+Networking
+DNS, TCP/IP, LDAP, DHCP, SMTP
+AWS Services
+EC2, S3, Lambda, RDS, DynamoDB, ECS, EKS, Cloud Formation, IAM, VPC, Cloud Watch, Kinesis, Elastic Beanstalk, Autoscaling, CloudTrail
+Azure Services
+Azure VM, App Services, AKS, ACR, Azure Functions, Azure Blob Storage, DevOps Services, SQL Database, Azure Monitor and Log Analytics, Networking Services.
+
+WORK EXPERIENCE:
+
+Client: Toyota, Plano, TX April 2022 - Till date
+Role: Senior Site Reliability Engineer
+Responsibilities:
+I am responsible for enabling monitoring for critical applications and related services to ensure availability during critical business hours and after hours.
+Collaborated with development and operations teams to integrate security practices into the CI/CD pipeline, resulting in early detection and remediation of vulnerabilities.
+Conducted comprehensive market analysis and research to identify trading opportunities and formulate trading strategies.
+Monitored and analysed currency trends, economic indicators, and geopolitical events to assess potential impacts on FX markets.
+Gathered and analysed metrics from both operating systems and applications to assist in performance tuning and fault finding.
+Apart from that I worked on terraform module, ansible script, Kubernetes deployment scripts, Helm chart if any new business requirement that we got.
+Used Blue-Green Deployment strategy for zero downtime.
+Implemented and maintained CI/CD pipelines using AWS Code Pipeline, CodeBuild and CodeDeploy, automated infrastructure, and ensured compliance with healthcare industry regulations to enhance system reliability and security.
+Created reusable Ansible roles and modules to standardize configuration management tasks.
+Configured and managed data replication across Kafka brokers to ensure data durability and availability in case of broker failures.
+Reduced Mean Time To Restore (MTTR) by implementing proactive monitoring and automated alerting systems.
+Designed and implemented CI/CD pipelines using tools such as Jenkins, GitLab CI, CircleCI, and GitHub Actions to automate the build, test, and deployment processes.
+Integrated automated testing frameworks (e.g., JUnit, Selenium, pytest) into CI/CD pipelines to ensure code quality and reliability.
+Implemented incident response procedures and runbooks to streamline troubleshooting and resolution processes, minimizing downtime.
+Automated log rotation, system monitoring, and backup processes using Bash scripts.
+Implemented monitoring solutions like Prometheus and Grafana for containerized Java applications running on Kubernetes, ensuring real-time visibility into performance metrics.
+Set up and maintained alerting and monitoring dashboards in Dynatrace and Splunk to track key performance metrics and detect anomalies.
+Conducted root cause analysis (RCA) for application errors using Dynatrace and Splunk, collaborating with development teams to implement fixes.
+Conducted performance profiling and optimization of Java applications using monitoring data, improving resource efficiency and response times.
+Implemented Ansible Tower/AWX for centralized management and scheduling of Ansible playbooks.
+Implemented cron job and scheduled tasks to automate routine maintenance and monitoring activities.
+Integrated Ansible with CI/CD pipelines to automate deployment processes.
+Planned and executed rolling upgrades of Kafka clusters to minimize downtime and ensure continuous availability during version upgrades.
+Developed and tested disaster recovery plans for Kafka clusters, ensuring minimal data loss and quick recovery in the event of a failure.
+Diagnosed and resolved issues related to Kafka brokers, zookeepers, and client applications to ensure smooth operation of Kafka clusters.
+Managed and maintained Linux/Unix servers, ensuring optimal performance and security.
+Conducted root cause analysis (RCA) and post-mortem reviews to identify and resolve underlying issues.
+Automated cluster deployment, configuration, and maintenance tasks using tools like Ansible, Terraform, and Kubernetes.
+Implemented automated regression testing using tools like Selenium, JUnit, or Postman to validate changes across the application stack.
+Automated incident response and remediation processes using tools like Prometheus, Grafana, and Dynatrace.
+Developed dashboards and reports to visualize SLIs, SLOs, and Error Budgets, enabling proactive monitoring and decision-making based on real-time data.
+Performed system administration tasks, including user management, disk management, and network configuration.
+Performed performance tuning of Kafka clusters by optimizing producer and consumer configurations, as well as adjusting broker settings for better throughput and lower latency.
+Worked with Terraform for automating VPCs, ELBs, security groups, SQS queues, S3 buckets, and continuing to replace the rest of our Infrastructure.
+Optimized and managed MySQL, MongoDB, DynamoDB, Oracle and PostgreSQL databases, ensuring high availability, performance, and data integrity across cloud and on-prem environments.
+Managed IAM roles and policies to enforce least privilege access, ensuring secure and compliant access management across cloud infrastructure.
+Implemented SLAs to formalize agreements with internal and external stakeholders regarding service availability, response times, and support commitments.
+Configured API Gateway, NAT Gateways, VPCs, and subnets to enable secure and efficient communication and networking within cloud environments.
+Implemented AWS Cloud Watch and Cloud Trail for real-time monitoring, logging, and compliance auditing, enhancing system visibility and security.
+Ensured compliance with HIPAA and ISO 27001 standards, implementing security measures to protect patient data and maintain information security management systems.
+Automated deployment processes and provided on-call production support, enhancing system reliability and reducing downtime through continuous monitoring and incident resolution.
+Created custom Splunk dashboards to visualize key metrics and KPIs, facilitating real-time monitoring and quick decision-making.
+Troubleshooted and resolved issues related to Linux/Unix system performance, networking, and hardware failures.
+Developed custom instrumentation in New Relic to monitor specific application components and business transactions, providing detailed insights into performance.
+Automated routine operational tasks using scripting languages like Python or Bash, freeing up valuable time for strategic initiatives and project work.
+Mentored junior team members and provided technical guidance on complex infrastructure and reliability challenges, fostering their professional growth and development.
+
+Environment: Terraform, Docker, Ansible, Kubernetes, S3, EC2, EKS, ELB, Auto Scaling Groups, Elastic Beanstalk, Prometheus, Grafana, API Gateway, IAM, Cloud Watch, DynamoDB, Lambda, shell scripting, GIT, Maven, Jenkins, JFrog, Nexus, CloudFormation, Helm Charts, Python, Apache Tomcat 6.x/7.x, Windows, and Linux environment.
+
+Client: Citi Group, Irving, TX Nov 2019 - Mar 2022
+Role: Site Reliability Engineer
+Responsibilities:
+Enabling customers to better manage software development, deployments, and infrastructure with tools such as Jenkins and GitHub.
+Extensively used the Maven tool to do the builds, converted java projects into Maven projects by creating POM files and ensured all the dependencies are built.
+Integrated ArgoCD with CI/CD pipelines, enabling end-to-end automation from code commit to production deployment.
+Responsible for designing, implementing, and managing CI/CD pipelines, automating cloud infrastructure, and ensuring high availability and performance of applications.
+Expertise in deploying applications and managing OpenShift and Kubernetes(AKS)(K8s) clusters using Helm charts, enabling efficient and reproducible configurations, streamlined updates, and simplified rollbacks.
+Architected and implemented high-availability Kafka clusters to support real-time data streaming and processing across multiple environments.
+Have experience in containerizing applications using Docker (ACR), managing images with Docker Hub, and orchestrating multi-container environments with Docker Compose and Kubernetes(K8s).
+Skilled in using Terraform and Cloud Formation for infrastructure as code to provision cloud resources and Ansible for configuration management and automation, ensuring efficient and consistent deployments.
+Implemented Kafka security features, including SSL encryption and SASL authentication, to ensure data protection.
+Implemented monitoring solutions using tools like Prometheus and Grafana to track the health and performance of Kafka clusters, and set up alerting for key metrics.
+Managed Kafka clusters, ensuring optimal configuration and performance by tuning parameters related to brokers, topics, and partitions.
+Monitored financial KPIs such as revenue growth, profit margins, and return on investment (ROI) to assess business profitability and financial health.
+Implemented blue-green deployments to minimize downtime and risk, and utilized Agile Scrum boards to enhance team collaboration and project tracking.
+Enhanced in utilizing Azure services such as Azure DevOps, Azure Kubernetes Service (AKS), Azure Functions, and Azure SQL Database to build scalable and resilient cloud solutions.
+Skilled in scripting with Shell Scripting, Bash, YAML for configuration, Python for automation, Golang and Groovy for Jenkins pipelines, ensuring robust and efficient DevOps workflows.
+Configured and enforced security measures, including SSL/TLS encryption, SASL authentication, and ACLs (Access Control Lists) to secure Kafka clusters.
+Conducted capacity planning and scaling of Kafka clusters to accommodate growing data volumes and increased throughput requirements.
+Developed and maintained Ansible inventories for managing infrastructure across multiple environments.
+Automated configuration management and application deployment using Ansible playbooks and roles.
+Spearheaded the migration from on-premises infrastructure to AWS Cloud, optimizing performance, scalability, and cost-efficiency while ensuring minimal downtime.
+Decreased change failure rate by implementing robust testing strategies, including unit tests, integration tests, and end-to-end tests.
+Have experience with IIS for configuring the .Net and PHP applications and installation of SSL certificates and binding the URL with specific domains.
+Leveraged S3 for scalable storage, SNS for messaging, SQS for queuing, Lambda for serverless computing, VPC for secure networking, and ALB for traffic management to enhance system performance and reliability.
+Increased deployment frequency by implementing CI/CD pipelines and automation, accelerating release cycles while maintaining code quality.
+Optimized development cycle time by implementing Agile methodologies (Scrum/Kanban) and continuous improvement practices.
+Utilized SonarQube for continuous code quality inspection and Veracode for comprehensive application security testing, ensuring high standards of code integrity and vulnerability management.
+Developed and maintained shell scripts for automating system administration tasks and processes.
+Deployed AppDynamics Application Performance Monitoring (APM) to monitor application performance, identify bottlenecks, and optimize response times.
+Deployed and configured Splunk to centralize logging across multiple systems, enhancing log visibility and enabling proactive monitoring and troubleshooting.
+Automated infrastructure provisioning using Infrastructure as Code (IaC) tools like Terraform, CloudFormation, and Ansible, ensuring consistent and reproducible environments.
+As a site reliability engineer developed and maintained SLIs, SLOs, and error budgets to manage system performance and reliability.
+Implemented Prometheus for metrics collection, Grafana for visualization, AppDynamics for application performance monitoring, Splunk for log management, and Dynatrace for comprehensive observability, ensuring proactive monitoring, troubleshooting, and optimization of complex systems in real-time.
+As a Site Reliability Engineer maintained high availability and reliability of production systems by implementing SRE best practices.
+As a Site Reliability Engineer provided on-call support for critical application issues, ensuring timely resolution and minimal downtime.
+Integrated ServiceNow to automatically raise the incidents based on the thresholds and alerts.
+Participated in 24/7 On-Call Support. Provided RCA with recommendation and solutions.
+Supported application development team in setting up the automation environment for the successful execution of build and release of the application.
+Managed Clusters using Kubernetes and worked on creating many pods, replication controllers, services, deployments, labels, and health checks.
+
+Environment: Azure DevOps, Azure Web Applications, Azure Container Service, Azure Kubernetes Service, Azure Container Registry, Azure Monitor, Azure Virtual Machines, Azure Functions, Azure SQL Database, Azure Storage, Azure Active Directory, Solaris, Azure cloud/PCF, GIT, Docker, Maven, Jenkins, Kubernetes, Splunk.
+
+Client: Northwestern Mutual, WI Jul 2017 - Oct 2019
+Role: DevOps Engineer
+Responsibilities:
+Orchestrated infrastructure provisioning and management using Terraform, ensuring adherence to infrastructure as code principles for Western Mutual's insurance services.
+Implemented Docker containers within AWS ECS, facilitating efficient deployment and scaling, and optimizing resource utilization for Western Mutual's applications.
+Automated configuration management tasks across AWS EC2 instances using Ansible playbooks, ensuring consistency and reliability in infrastructure setup.
+Managed Kubernetes clusters on AWS EKS, deploying and scaling containerized applications effectively, providing high availability and reliability for Western Mutual's insurance services.
+Generated custom reports and dashboards in JIRA using built-in tools or plugins (e.g., JIRA Query Language, JIRA Software Reports) to track project progress, monitor team performance, and identify bottlenecks or areas for improvement.
+Set up and maintained Elastic Load Balancers (ELB) and Auto Scaling Groups in AWS, ensuring dynamic scalability and high availability for Western Mutual's applications.
+Deployed and managed applications using AWS Elastic Beanstalk, simplifying deployment and management processes while ensuring scalability and reliability.
+Implemented security best practices for Helm charts, including vulnerability scanning, image signing, and RBAC configuration, to ensure secure deployment of Kubernetes applications in compliance with organizational policies and regulations.
+Implemented monitoring and alerting solutions using Prometheus and Grafana, providing real-time insights into AWS infrastructure performance and enabling proactive issue resolution.
+Configured API Gateway in AWS to securely expose Western Mutual's insurance services to external clients, ensuring reliability and security of API endpoints.
+Managed IAM policies and roles to enforce least privilege access control for Western Mutual's AWS resources, ensuring security best practices are followed.
+Implemented serverless architecture using AWS Lambda functions for specific use cases, optimizing cost and resource utilization for Western Mutual's insurance applications.
+Collaborated with cross-functional teams to design and implement scalable and resilient AWS architectures tailored to Western Mutual's business needs.
+Conducted regular performance analysis and optimization of AWS resources to enhance efficiency and reduce operational costs for Western Mutual.
+Provided technical guidance and mentoring to junior team members, fostering skill development and knowledge sharing within the team.
+Acted as a subject matter expert for AWS services and best practices, contributing to the continuous improvement of Western Mutual's cloud infrastructure.
+Demonstrated strong problem-solving skills and a proactive approach to addressing technical challenges, ensuring uninterrupted operation of Western Mutual's critical systems.
+Involved in DevOps automation processes for build and deploy systems and increased the deployment frequency across various environments using spinnaker.
+Consulted and recommended client in Build and Release Management Implementation.
+Used SCM/Build tools for Developers. Helping to resolve all SCM/Builds issues like merge conflicts, compilation errors, missing dependencies, Branching/Merging/Tagging.
+Worked with Ansible playbooks for virtual and physical instance provisioning, Configuration management and patching through Ansible.
+Automated using Ansible, Python, Perl or shell scripting with attention to detail, standardization, processes and policies.
+Worked in an agile(Scrum, Kanban) development team to deliver an end-to-end continuous integration/continuous delivery (CI/CD) product in an open-source environment using tools like Puppet, Jenkins.
+Configured and monitored distributed and multi-platform servers using Ansible.
+Created a fully CI/CD process. Automated Build and Deployment Platform and coordinating code build promotions and orchestrated deployments using Jenkins/Hudson and GitHub.
+Build Java, python and ReactJs code on to different Jenkins’s servers as per the schedule.
+Experience in working in .Net application and branching, tagging, release activities on Version Control Tools like GIT and Subversion (SVN).
+Experience in resolving issues of merge conflicts and developing custom Scripts to monitor repositories and Server storage.
+Installed Nexus repository tool to maintain the artifacts/dependencies jars.
+Involved in development of test environments on Docker containers and configuring the Docker containers using Kubernetes.
+Monitored the Application and Infrastructure health by analyzing the logs and observing the user dashboard using Splunk.
+Configured Splunk forwarders to detect SSL certificate expirations, analyze the system logs and index the data from various database types.
+Deployed code updates into test and production environments.
+Created and maintained the PowerShell scripts and Perl scripts deployment scripts for Tomcat application servers.
+Performed and deployed Builds for various Environments like Dev, QA, UAT, Stage and Production Environments.
+Performed Appdynamics post Deployment monitoring and Validation reports.
+Researched and implemented code coverage and unit test plug-ins like find bugs, check style and with Maven/Hudson.
+Manage releases to make sure the code goes to live with Quality and security.
+
+Environment: Cloud Formation, Terraform, Ansible, IAM, Java, Maven, ANT, Gradle, Groovy, GIT, SVN, Puppet, Jenkins, Ruby, Splunk, JMeter, Tomcat, SonarQube, Bugzilla, Shell and Perl Scripts, Ansible, PowerShell, Lambda, Nexus, RHEL 5.x/6.x
+
+Client: State of Maryland, MD, USA Jan 2016 - Jan 2017
+Role: Build & Release Engineer
+Responsibilities:
+Developed build and deployment scripts using ANT and Apache MAVEN as build tools in Jenkins to move from one environment to other environments.
+Extensive experience in using Version control systems includes Subversion (SVN), GIT, and ClearCase. Involved in migrating from SVN to GIT. Connected continuous integration system with GIT version control repository and continuously built as the check-inn's came from the developer.
+Analyze and resolve conflicts related to merging of source code for GIT. Performed all necessary day-to-day Subversion/GIT support for different projects.
+Worked on Continuous Integration System i.e. Jenkins. Used Jenkins for official nightly build, test and managing change list. Installed Multiple Plugins for smooth build and release build pipelines.
+Proficient with Jenkins and Bamboo for continuous integration and for End-to-End automation for application build and deployments.
+Having production experience supporting and deploying to web application servers such as IIS, WebLogic, JBOSS, Apache, Tomcat, and Apache HTTPD servers.
+Build and maintain SQL scripts and execute different scripts for different environments.
+Getting the list of issues from the components (project, module, file etc.) with the help of SonarQube. Involved in identifying build errors in the system and identifying the build issues and escalating it to the concerned team after careful analysis. Work and coordinate with the Dev Team to get the fix in the release.
+
+Environment: Ant, Maven, Java/J2EE, Bash Scripting, Jenkins, Puppet Master, SVN, GIT, Apache, Tomcat, Apache HTTPD, IIS, SonarQube, CI/CD, Ansible.
+
+Client: General Motors, Detroit, MI Feb 2013 - Dec 2015
+Role: Linux System Administrator
+Responsibilities:
+Installation of Web sphere, upgraded service pack updates, installed IBM patches, configuring and creation of new admin & managed servers, start & stop Web sphere server.
+Installed, Deployed Red Hat Enterprise Linux 6.\x/7.x, CentOS and installation of packages and patches for Red Hat Linux Servers.
+General Linux administration, operating system, upgrades, security patching, troubleshooting and ensuring maximum performance and availability.
+Mounting and unmounting the net app storage LUNs to the Red Hat Linux servers and troubleshooting the issues encountered. Responsible for reviewing all open tickets, resolving and closing any existing tickets.
+Document solutions for any issues that have not been discovered previously. Setup secured password less ssh authentication on servers using ssh keys.
+Managed day-to-day ticket resolution of Ubuntu Linux issues.
+Automated some jobs by deploying the CRON tool for job scheduling processes. Updating YUM Repositories and RPM.
+Installed and configured Subversion server on Linux via the Apache web server to provide access over the HTTP protocol.
+Monitored and Performed system logs administration to detect, resolve issues and activity on all servers.
+Monitored system activities like CPU, Memory, Disk and Swap space usage to avoid any performance issues.
+Performed OS upgrades and patching when required.
+
+Environment: Red Hat, Ubuntu Linux, JIRA, Bash Scripts, Pearl Scripts, UNIX/LINUX, SQL, Oracle, Shell, Bash, VMWare, Networking.
+Contact this candidate

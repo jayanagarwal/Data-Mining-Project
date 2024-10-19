@@ -1,0 +1,294 @@
+Douglas Byrd
+720-***-****
+
+ad8wki@r.postjobfree.com
+
+Experience Summary:
+
+A results driven engineer with over 30 years of demonstrated success in Business Analysis, design, development, QA and Test disciplines. Experience with full SDLC (Software Development Life Cycle) projects, using RUP, Agile, UML and meeting CMMI-3, ISO-9000 guidelines. Over 30 years of software Object Oriented (OO) Design / Development using multiple languages. Requirements / Software developed according to ISO-9001, ISO-13485, DO-178B, FAA-200A & FDA standards.
+
+As a Project Manager/Team Lead, no schedule has been missed that I was involved in planning. Systems and/or applications are designed to meet/exceed critical requirements of the customer.
+
+●Embedded systems in the avionics, transportation, medical fields.
+●Realtime development: Aviation, Agricultural, NASA (Ground System Control), DOD and Traffic Control (Air/Ground).
+●Operating systems:
+●RTOSs (vxWorks, pSOS, QNX, OS9), Windows (Desktop & embedded), different flavors of Unix/Linux.
+●Primary Language skills (Last Used):
+Python( Current),
+C/C++ (Current),
+MFC (Current),
+Assembler,
+Ada (Current),
+C#/.NET (2018),
+Fortran (1996)
+●Databases worked with: Access, SQL Server, Informix, Progress, Oracle, NoSQl, Postgres
+●Test/QA tools used:
+VectorCast, AdaCast, TestComplete, AQTime, Rally, HP Quality Center / ALM, Rational (ClearCase / ClearCase),,JIRA, JAMA, DOORS, SVN, GIT. Exposure with Jenkins, Selenium
+●Data Busses/Protocols: RS-232/422, Mil-1553, ARINC-429, TCP/IP-UDP, CANBus, J1939
+●MS Windows has been a development target from Windows NT (1990) to Windows 10 and WinCE
+●RedHat Linux has been used as a base operating system for three projects with KDS as the IDE on top of the OS. Embedded Linux has been targeted for applications
+●Clear Case/Clear Quest has been used on large projects along with DOORS since 2008
+
+General Atomics, Centennial CO
+S/W Engineer
+
+Aug 2020 – Present
+Responsible for team developing Ground Systems Software for satellite control using Python and C++ running on a Windows system. Realtime displays used a browser with data fed from a SQL data base. Python was used for parsing telemetry JSON messages received from the satellite into the database. Separate Python scripts used to distribute raw and processed data to external stake holders.
+Ground software allowed user interaction with mission planning and monitoring as well as setting up autonomous handling of defined mission commands for a selected pass. Information captured within the GSW is available to distribution to external sources/stakeholders.
+Testing of the satellite software used Python scripts to issue commands via the Ethernet connection and process returned data.
+Supporting a cross system conversion of GNC/Flight Software from an existing satellite system for new satellites being designed. Software is based on NASA cFS and is written in C/C++, running on VxWorks, Linux or other real time OSes.
+JIRA is used to track development status and issues.
+Agile concept is used with 3 week sprints
+
+Suez / Boulder, CO
+S/W Test Engineer
+
+Apr 2018 – Jun 2019, Feb 2020 – May 2020
+Responsible for testing sensor equipment used in water purification analysis systems. Designed and implemented test cases/steps for positive verification of enhancements and bug fixes. Also designed/ implemented test cases for negative testing/error handling. HP ALM is used for test result recording.
+Testing of the equipment used Python scripts to issue commands via a USB connection and process returned data. Data was analyzed and results documented using HP ALM.
+Equipment was using embedded Linux.
+
+Advanced Energy / Ft Collins, CO
+Lead QA/Test S/W Engineer
+
+Aug 2019 – Jan 2020
+Responsible for developing testing methodologies, test protocols and test implementation for high frequency power generation equipment used for lithographic systems. Design and implement test cases/steps for positive verification of enhancements and bug fixes. Also design implement test cases for negative testing/error handling. TestComplete and VectorCast was used for whitebox testing as well as to verify code coverage for interface commands.
+JIRA is used to track development status and issues.
+
+NavSys / Colorado Springs, CO
+S/W Development Engineer
+
+Sept 2017 – Jan 2018
+Responsible for the development of software used by radios for location triangulation in a GPS denied
+environment. Code is in C++ running on Linux and interfaces with a Postgres SQL database. Database was built/maintained from FCC information (needed continual cleanup)
+
+Rockwell Collins / Cedar Rapids, IA
+S/W Requirements Engineer
+
+Jun 2016 – Oct 2016
+
+Part of a team responsible for the evaluation of requirements for avionics software and merging existing divergent branches of code (military/civilian) to match the updated requirements. Code was written in ADA. Requirements were controlled in JAMA
+
+Hill-Rom / Cary, NC
+Lead S/W Test Engineer
+
+Nov 2015 – Aug 2016
+
+Responsible for the evaluation of requirements for the GUI interface used for a next generation medical bed. Developed and executed test scripts in Python (PyTest/PyWin) to verify requirements against delivered software and FDA 820.30 standards/guidelines. Scripts were able to verify requirements and also inject faults into the data stream to determine fault handling. UI was developed with QT. Code tested was written in C++. Requirements were controlled in DOORS.
+JIRA is used to track development status and issues.
+Team consisted of 5 test engineers.
+Agile concept was used with 3 week sprints
+
+DRS / Milwaukee, WI
+Lead S/W Test Engineer
+
+Feb 2015 – Sept 2015
+
+Responsible for the evaluation of requirements used for electric power generation. Requirements were controlled in DOORS. Created test protocols for project related to software testing per SS-473(US Navy). Developed and executed test scripts using VectorCast (embedded/FPGA) and TestComplete (embedded/UI). Code tested was written in C.
+Team consisted of 3 test engineers.
+
+Cobham / Prescott, AZ
+S/W Design Engineer
+
+Nov 2014 – Feb 2015
+
+Responsible for the development of software used to control the configuration of avionics boxes. Code was written in C++ using Borland/Embarcado IDE.
+
+Natus / Mundelein, IL
+S/W Test Engineer
+
+Sept 2014 – Nov 2014
+
+Responsible for the evaluation of requirements and developed test protocols/cases for next generation infant incubator. Design specs were verified against FDA 820.30 standards/guidelines Test reports were prepared for FDA and other regulatory bodies.
+
+Medallion / Spring Lake, MI
+S/W Design Engineer
+
+May 2013 – Aug 2014
+
+Responsible for the design and development of software and user interface (GUI) controlling next generation agricultural planters. Platform was WinCE6.0 using VC++. Data is transferred using multiple threads via CANBus and Ethernet between controlling 32 bit micro-controller modules and the realtime displays. Testing of S/W was done using emulations built on requirements, test beds containing critical operational equipment/electronics and the final full equipment used in the field by customers. C# was used for offline data analysis.
+
+Honeywell / Lincolnshire, IL
+Lead S/W Design Engineer
+
+Dec 2012 – March 2013
+
+Responsible for the design and development of emulation software using object oriented design concepts, for next generation hardware used by Health and Safety of industrial manufacturing. Software interfaces with the User Interfacing programs. Internals of the multi-threaded GUI are also being designed and validated against the emulator. Platform was WinCE6.0 using VC++ and Silverlight. OOD was used for field equipment control and interfaces.
+
+Syncro Medical / Philadelphia, PA
+Lead QA/Test S/W Engineer
+
+Nov 2011 – Dec 2012
+
+●Responsible for the validation of the VL120 next generation digital pathology tissue scanner. Documents were created per FDA 820.30 guidelines, describing testing procedures for each subsystem. Test cases were written against software requirements. Requirements verified to be accurate, concise and testable. Test control & analysis software written for Win-7 using C#/.NET and WFP for the user interface (GUI).
+●Develop & Test software with robotic interface having 5 axis control
+●Responsible for development of software requirements and validation procedures per FDA 820.30 guidelines for the image acquisition system for InCell 2000 scanners next generation tissue scanner used for digital pathology. Testing was done against the GUI and the application control of the workflow process.
+
+Terumo / Ann Arbor, MI
+QA/Test S/W Engineer
+
+May 2011 – Sept 2011
+●Responsible for the validation of the interface software controlling the DuraHeart 2 next generation heart pump. Test cases were written against software requirements. Requirements were developed and verified to be accurate, concise and testable and validated against per FDA 820.30 guidelines. DOORS was used to track requirements.
+●Test tools used: TestComplete and AQTime. Provided training to other Test Engineers on the use of SmartBear software.
+●Designed a mobile interface to supplement the PC Win7 interface used by medical personnel. Bluetooth communication to equipment.
+
+John Deere / Urbandale, IA
+S/W Engineer (Test/Maintenance) - Contract
+
+Oct 2010 – Apr 2011
+●Team member having the responsibility to identify root cause of code failures in new production unit software running on WinCE on 32 bit micro-controllers. Failures reported had to be reproduced, cause analyzed and a determination made if correctable by the team or need to be sent to the responsible group for proper repair. Teams were followed Agile processes. HP Quality Center was used to track test procedures completion. Other HP tools were used for code reviews allowing engineers to see/markup comments as needed.
+●Worked with John Deere applications that used GPS and inter-vehicle communication for coordinated movement of agricultural machinery.
+Agile concept is used with 3 week sprints
+
+Jeppesen / Denver, CO
+PM/BA, S/W Development
+
+Aug 2007 – Sep 2010
+●Responsible for creating requirements and development/enhancement of ARInc 424 data used for ground processing preparation of avionics data displayed in aircraft. Support optimization of application code for airborne interfacing to the displays. Data prep tools and application APIs are written in C and VC++ and meets DO178B level C standards. Validation software written in C#/.NET.
+●Responsible for subsystems displays of data (GUI) used for embedded Enroute map displays in aircraft including requirements/documentation and support to SQA & Test teams. Software is written in C for 32 bit micro-controller and meets DO178B level C and FAA 200A standards. Clear Case and Clear Quest were used to track issues and requirements.
+Agile concept is used with 3 week sprints
+
+Becton, Dickinson Bio Sciences / San Jose, CA
+PM, S/W Systems Design
+
+Jun 2008 – Feb 2009
+●Responsible for a team of S/W engineers developing embedded firmware for new series of blood analysis medical instruments (FACSVerse flow cytometers). Fine-tuning/rewriting of system requirements documents (SRS), developing software requirements documents (SDD) and interface control documents (ICD) between the instrument and an external user interface application. Documentation was done according to FDA 820.30 guidelines. UML was used for developing use cases for application features.
+●Developed the multi-threaded design used in controlling the flow of information/data/control between the user application and the underlying drivers to the hardware. Operating system was embedded XP. Data from the instrument was designed to support 10K data blocks per second collection and transfer rate over Ethernet using WCF. Object oriented design used to minimize actual data flow within the system and support interfaces to subsystems and support functionality. Proof of concept was designed in VC++ and converted to C#/.NET for the application and WFP for the user interface (GUI).
+Team consisted of 4 SW engineers.
+
+DRS / Huntsville, AL
+Lead S/W Design Engineer
+
+Feb 2007 – Aug 2007
+●Responsible for a team of S/W engineers developing a set of communication APIs using VC++ for a new motherboard running WinCE 5.0 on a ARM7 processor. Communication devices include Ethernet, CANBus (J1939), 1553B, RS232 & RS 422 serial ports. The development of this set of APIs using OO concepts, allows future developers to ignore the hardware dependencies inherent with new products. The motherboard also allows selection of RS170 video input sources and an API allows overlaying of graphical information on the video stream.
+●Project was developed as full life cycle from Project Management Plan, Software Requirement, Software ICD documents, Software Design Documents and Test Plans according to DOD 178B standards. StarTeam was used for version control
+●Bluetooth communication to equipment was designed to control security access and then enable WiFi for data transfer at depot.
+Team consisted of 3 test engineers.
+
+Rockwell Collins / Cedar Rapids, IA
+S/W Design Engineer – S/W QA/Test
+
+Feb 2006 – Jan 2007
+●Developed embedded application prototype in VC++ for WinCE 5. 0 on a ARM7 processor to display (GUI) video and data from cameras and GPS units. Inputs from multiple sources are fed to the unit via USB and Ethernet connections, formatted and then displayed based on user selections that allow a full screen or tiled displays along with thumbnails for each data stream.
+●Developed interfaces for autonomous vehicle control using commands from remote control telemetry as well as onboard sensor data
+●Led a team of 2 junior engineers in redesigning a user interface (GUI) in VC++ that supports editing/formatting of pilot checklists prior to being installed in the aircraft.
+●Responsible for developing S/W Requirements documentation, S/W Test documents, and S/W Users manual for the S70 Avionics Display system according to DOD 178B and FAA-200A standards
+●Responsible for the development of testing applications in ADA for avionics Flight software (FSW) and displays using Remote Services functionality. Test scripts were developed using Python
+●Member of the V & V team for the upgrades to the HH60M displays (GUI).
+
+Bally-Alliance Gaming / Las Vegas, NV
+S/W Design Engineer
+
+Jun 2005 – Aug 2005
+On the development team for G2E Alpha gaming platforms. Project was developing advanced embedded applications to support generic interfacing with host systems. Systems communicated with the host systems using SOAP/XML and the application was responsible for the ability to interface with the different sub-systems on a gaming platform. This allowed reconfiguration of the game and internal systems on the fly as needed along with interfacing with other vendor’s equipment that interacted with the gaming platform. Code was developed under Linux using C++. Each functional area required object oriented design and implementation.
+
+Smart Systems International / Las Vegas, NV
+S/W Design Engineer
+
+Jun 2004 – Feb 2006
+Developing models for HVAC building controls used within large hotels/casino properties to expedite energy efficiency upgrades. Controls use RF to communicate with each other and the master central system. Models are being developed with OO concepts with a real-time user interface written with VC++. Designed/developed core host system that interacted with the user, field units (that were previously modeled) and internal SQL database. Embedded SQL commands allowed data to be retrieved and updated based on user requests and/or data received from the field units. Each control was designed to acts as an independent object for control and display for the system level design and UI. Physical controls were written in C for a 32 bit micro-controller. Requirements were defined based on the overall capabilities of existing control units and the requirements on the interactions between the unit and the central system. These were then translated into Use Cases.
+
+Boeing / Philadelphia, PA
+S/W Design/Test Engineer
+
+Nov 2003 – Apr 2004
+Comanche RAH-66 project, Targeting Control subsystem.
+Develop S/W requirements for interfacing with new H/W being developed and other Flight Software subsystems. Develop testing procedures and actual test scripts using Vector AdaCast for testing FSW being developed for sub-system. The project used DOORS for tracking the requirements from high-level specs through actual unit testing and delivery.
+
+Hospitality Networks / Las Vegas, NV
+S/W Design Engineer
+
+Aug 2003 – Nov 2003
+Developed supporting applications for the Hotel/Casino industry for VOD (Video on demand) systems. S/W was written using VC++. COM objects were developed for Web interfacing with the primary application
+
+Lockheed / Rockville MD
+QA Engineer
+
+July 2003 – Aug 2003
+Assigned to the QA team for a FAA Air Traffic Control project. S/W was written in ADA. Responsibilities were to ensure that processes used by S/W development groups met CMMI Level 3 requirements. UML and RUP were specified by the processes and verified by the QA team.
+
+Arcata / N Las Vegas, NV
+S/W Design Engineer
+
+June 2001 – Mar 2003
+●Supporting Air Traffic Control applications for Nellis AFB Test Ranges using ADA language. Some data from aircraft utilized Link-11 and Link-16 (TADIL-J) protocols.
+●Supervised new proposed release of Air Traffic Control written in Java on Windows platforms (GUI).
+●Developed technical proposals for project needs for USAF. Responsible for the development of project system and detailed requirements. Standards were ISO9000, CMM-I (3) and DOD 178B. The constructs of RUP were used in the systems and detailed design process. Detailed test plans and requirements tracking were implemented for projects that I was responsible for.
+●Proposed and delivered a video control package (GUI) controlling 30 digital recorders using Visual C++.
+●Supported the development of a technical proposal and was responsible for preparing system and detailed level requirements for a communications project for ground-to-air missile threats using Unix/ADA and Windows (Delphi & VC++)
+
+Cummins Engine / Columbus, IN
+S/W Design Engineer
+
+Apr 2000 – Apr 2001
+Team member for the development and support of engine electronic control module software for embedded application written in C. Sun Unix was being used for the development platform, application runs on a Motorola chip in a master/slave configuration with the capability of multiple engines being controlled through a single interface. J1939 Automotive protocol across a CANbus.
+
+Professional Development of Educators of Young Children (IPDS) - Indianapolis, In
+PM/BA Systems/Software Consultant
+
+Nov 1998 – Jun 2001
+●Developed technical and business proposal for project requested to support non-profit organization. Systems requirements were developed and project split into deliverable phases with testing and acceptance criteria. Responsible for monitoring and tracking of the project schedule and making adjustments to the work load as required. Tracked and implemented change orders. Some of the design & prototypes followed the RUP constructs.
+●Designed and developed the database application to allow the registration and professional development tracking of individuals within the child care organization and providers within the state of Indiana. The database uses MS Access on a local laptop and MS SQL server when the laptops are not running in a stand alone mode. The user interface was custom designed for the requirements of the organization. The user front end to the application allows the exporting of data from the SQL server database to the local MS Access database for remote “field” usage. When the laptop front end detects the SQL server database, synchronization of data then occurs to handle changes made in the “field.”
+●Researched and developed an interface in VC++ to display (GUI) database information and statistics as graphical overlays. These allowed coordinators to identify area within the state where efforts need to be focused to assist in improving childcare opportunities.
+
+Logicon - Indianapolis, IN
+S/W Design Engineer
+
+March 1998 – Jan 2000
+●Developed requirements to allow aircraft cockpit display (GUI) emulation applications of aircraft cockpit instrumentation display written in ADA/Unix to utilize Windows platforms. Application also simulated Link-16 interfacing. Developed testing procedures and test scripts for validated application.
+●Lead engineer in developing new application interfaces to utilize the operating systems (Windows 9x & NT) and implemented the user interface from a lookup table handler to object oriented Windows APIs. Responsible for developing and managing the schedule to meet delivery requirements.
+●Training provided by Purdue University on UML and the Rational Unified Process was then used to control System requirements and translate/control system design throughout the project.
+●Developed User I/F for front end control of the emulation packages and training tutorials using VC++.
+●Developed proposal for use of the application to support the overall testing environment by using the application and utilizing an automated test tools for the V&V team for the complete project.
+●Researched and evaluated automated testing tools for Flight Software provided by Boeing handled by Quality Assurance and Testing group
+SW team consisted of 3 engineers.
+
+Dept of Public Works, Dade County (Miami) Fl
+Software Consultant
+
+July 1996 – March 1998
+●Responsible for the development of system and detailed level requirements for a PC based Traffic Signal Control application using VC++. PCs were networked and using DCOM to processing telemetry data from 10,000 sensors every second. The field units’ software was written in C doe 32 bit micro-controllers and designed to use a SONET network to communicate back to the central PC network.
+●Developed systems and detailed requirements, delivery schedule for the User I/F phase (GUI), testing procedures, test scripts and training. Actual development and deployment had to be concurrent with operations utilizing the existing mainframe.
+●Developed handheld interfaces (GUI) for PocketPC using Windows CE for field technicians to interface with system.
+●Developed GIS I/F for user of traffic signal control application to allow visual status (GUI) of traffic conditions and current problems. Developed requirements and design for use of a GPS tracking system for emergency vehicles to allow traffic flow to be optimized in advance along the travel route of an emergency response vehicle. Database was originally designed and tested using MS Access prior to converting to MS SQL Server.
+
+Alpine Engineering - Pompano Beach, Fl
+S/W Design Engineer
+
+Nov 1994 – April 1996
+Ported a DOS based CAD objected-oriented application (GUI) for the housing industry to Windows.
+Existing DOS code was written in C. Windows codes to support the DOS code was also written in C. Requirements were to NOT impact developers, yet replace the DOS based interface with Windows, using the DOS based design. Re-engineered the OS and Graphical APIs to utilize the Win32 APIs using OO concepts. Responsible for the code redesign to allow multi-threading of the application.
+
+Frederick R Harris - Fairfax VA
+Lead S/W Design Engineer
+
+Aug 1990 – Nov 1994
+●Responsible for the development of system and detailed level requirements for Traffic Signal Control Systems running on mini-computers. Lead engineer for a team of engineers, each responsible for separate projects. Schedules were developed and maintained for delivery of operational S/W across multiple concurrent projects. Responsible for developing training materials and providing user training on delivered systems.
+Systems supported 200-400 signalized intersections with 8-24 sensors providing telemetry data every second at each intersection. Project manager for the design of a GUI GIS interface to allow real-time display of signal and systems operational status to be displayed on PCs networked to the main-frames using TCP/IP.
+●Responsible for engineering technical proposals and cost estimates for projects for the FHA, Departments of Transportation for CA, FA, FL, TX, VA, and other government entities in Australia and Europe
+Team consisted of 4SW engineers and 1 test/field engineer
+
+Sperry Corporation
+Software Engineer
+
+Mar 1983 – Aug 1990
+●Developed S/W for Air Traffic Control (USN), Ground Control of Satellites (NASA), War Gaming monitoring (USN), Weather Radars (NOAA), and GIS mapping of intelligence data (USMC)
+●Most work was done on specialized commercial mini-computers doing real-time data collection and analysis. Link-11 protocols were used within the Air Traffic Control system and the War Gaming/Monitoring projects.
+●Responsible for proposals to customer for enhancements, create system, high level and detailed specifications, developing schedules, leading S/W development, monitoring delivery tests and end-user training. Work was done according to established DOD 2167/178 S/W standards for documentation and development.
+●Lead Engineer for some projects contain from 3-7 engineers. Accepted responsibility as the liaison with other project teams, customers and contractors.
+●NASA required the integration of 5 separate teams from 3 different organizations. Acted as the Lead integration/systems engineer. Advised on efficient use of the hardware to support requirements and developed prototypes of system reconfiguration when a recommendation was needed to minimize cost creeps of project upgrades. System was designed to support 3 separate satellites using common software. Status of continuous integration of development work and resulting detected issues were presented to NASA and project management in weekly briefings.
+
+Raytheon - Burlington, MA
+S/W Design Engineer
+
+March 1981 – Jan 1983
+Lead Software engineer coordinating 4 software engineers in developing applications for energy efficiency at military bases. Responsible for presenting status to Raytheon management and Army Corp of Engineers as well as coordinating testing with hardware and training operators
+
+USAF
+F15 Weapons Test Officer
+
+Education:
+BSEE – Lowell Technological Institute
+MS Computer Engineering - Lowell Tech/MIT (Not Completed – activated by USAF)
+Officer Candidate School / Squadron Officer School - USAF
+Contact this candidate

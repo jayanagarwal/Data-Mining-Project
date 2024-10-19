@@ -1,0 +1,77 @@
+Madhavan Akande
+**** **** ****** ** ******** Hyattsville, MD 20785 • 240-***-**** • Email: adjdfv@r.postjobfree.com
+• LinkedIn
+
+Experienced AWS Cloud/DevOps Engineer with over 6 years of experience with technology consulting, IT management, business development, technical writing, and collaborating with technical teams. Strong analytical skills in assessing business requirements at the enterprise level and designing efficient and effective technology solutions for clients. Current interest is in cloud strategy, cloud migration, and data analytics.
+
+TECHNICAL SKILLS
+Network: VPC, VGW, TGW, CGW, IGW, NGW, Client VPN
+Data Protection: AWS Certificate Manager, AWS KMS, AWS Cloud HSM, SSL Certificate lifecycle management, Snapshot Lifecycle Manager.
+AWS Security: AWS Security Hub, AWS Guard Duty, AWS Shield, AWS Firewall Manager, AWS Inspector, MFA, access key rotation, security groups and NACLs, data encryption using KMS, S3 bucket policies, mitigating DDOS attacks etc.
+Database Design: RDS, Amazon Aurora, DynamoDB etc.
+Monitoring & Event Management: AWS CloudWatch (Events & Logs), AWS SNS, AWS SQS, AWS S3
+Application Delivery ( CI/CD) : Jenkins, Bitbucket, AWS Code Pipeline, AWS Code Commit, AWS Cloud9
+Identity & Access Management: AWS Organization, AWS IAM, AWS AD Connector, Active Directory, AWS Workspaces, AWS Secrets Manager
+Governance & Compliance: AWS Config Rules, AWS Control Tower, AWS Organization, AWS Control Tower, AWS Trusted Advisor, AWS Well Architected Tool, AWS Budgets, AWS License Manager
+Programming Languages: Bash, JSON, YML,
+Cloud Orchestration/Automation: AWS CloudFormation, AWS Lambda, AWS Systems Manager, AWS SSM Parameter Store, Ansible, Docker, Microservices.
+Image & Patch: AWS SSM Patch Manager, AWS Golden AMI Pipeline
+AWS Platform: AWS CloudFormation, AWS Lambda, AWS Systems Manager, S3, VPC, EC2, ELB, SNS, SQS, SES, Route53, CloudFront, Service Catalog, AWS Auto Scaling, Trusted Advisor, CloudWatch Kinesis, Direct Connect, etc.
+EXPERIENCE
+
+AWS Solution Architect DevOps Engineer Washington DC Area.
+JJTech-Inc (Phone2Action Inc) October 2019 – Present
+•Used CloudFormation and terraform to provision, manage and configure AWS services
+•Design and Built multi-AZ deployment of EC2 instances, Auto Scaling and other disaster recovery models.
+•Optimized cloud infrastructural cost and performance using Autoscaling, Intelligent start and stop of EC2 instances and the AWS pricing calculator.
+•Work with security division to design and manage IAM roles for users in different divisions.
+•Deployed applications with docker containers using Jenkins, AWS Code commit and Code Deploy.
+•Used infrastructure management tools to write playbooks and execute ad-commands using Ansible.
+•Built and monitored CI/CD pipelines to standardize the infrastructure and automate the DevOps process using AWS CodeDeploy Blue/Green Deployments.
+•Leveraged elastic load balancing and Auto scaling groups of EC2 instances to meet infrastructural demands and improve costs performances.
+•Used AWS system manager for patch management and automation of operational task across AWS resources multi-region and multi account execution.
+•Leveraged elastic load balancing and Auto scaling groups of EC2 instances to meet infrastructural demands and improve costs performances.
+•Used AWS system manager for patch management and automation of operational task across AWS resources multi-region and multi account execution.
+•Configured S3 bucket for website hosting and secured it using IAM policies.
+•Design highly availability environments with Route53, elastic load balancing, auto scaling and S3 for storage.
+•Built and deploy Multi-AZ, Multi-Region highly available MYSQL databases and it’s read replica in the private subnet for backup, disaster recovery and fault tolerance.
+•Developed a Static website hosting solution that is versioned to quickly and easily undo any data destruction and accidents.
+•Configured S3 bucket for website hosting and secured it using IAM policies.
+•Design highly availability environments with Route53, elastic load balancing, auto scaling and S3 for storage.
+•Built and deploy Multi-AZ, Multi-Region highly available MYSQL databases and it’s read replica in the private subnet for backup, disaster recovery and fault tolerance.
+•Developed a Static website hosting solution that is versioned to quickly and easily undo any data destruction and accidents
+
+HCL America Inc (Irvine, CA) Business Strategist & Cloud Engineer Nov 2016 – May 2019
+Designed secured, cost optimized, highly available and fault tolerant architecture designs and infrastructure in AWS.
+Implemented security best practices in AWS including multi factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs.
+Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling.
+Leveraged EC2 Life Cycle Manager to create snapshots of EBS Volumes on scheduled intervals for backup and define a retention period as a cost saving measure.
+Configured CloudWatch alarm rules for operational and performance metrics for our AWS resources and applications.
+Leveraged STS to generate and provide temporal credentials to users.
+Setup and configured logs files for detail monitoring and alerts notification.
+Configured S3 events to set up automated communication between S3 and other AWS services.
+Designed highly available infrastructure using Elastic load balancer and auto-scaling for Web servers which Scale in and Scale out automatically, also isolated environment by having security groups and NACL across subnets for EC2 instances.
+Architected and Implemented AWS Cloud cost effective solution for Non-Production environment such as Development, and Test.
+Managed tools like JIRA, Confluence, Jenkins and their usage / process ensuring traceability, repeatability, and quality.
+
+Ericsson (Plano, TX) AWS Systems Administrator. June 2014 – August 2016
+Designed and implemented Cloud solutions with AWS Virtual private cloud (VPC), Elastic Compute Cloud (EC2), Elastic Load Balancer (ELB), S3, Auto scaling, RDS, Cloud watch, and other AWS services.
+Setup and configured Security Groups, NACL for VPC specific to environment.
+Created AMI images of critical EC2 instances as backup using AWS CLI and Console.
+Created and managed DNS records in AWS Route53.
+Created SSL/TLS certificate using ACM and implemented the same using ELB and Route53.
+Understand security best practices, policies, and standards to design highly secure cloud architectures for internal and external cloud solutions.
+Architected a highly secure infrastructure with public and private subnets for multi-tier web applications.
+Experienced on AWS compute services (EC2, Lambda, Elastic Beanstalk, autoscaling).
+Designed highly scalable resources (horizontal and vertical scaling).
+Provision secured resources in VPC subnets with security groups and NACLs.
+Architect a secure infrastructure with a NAT Gateway to allow instances in a private subnet to access the internet for updates.
+Leveraged data migration services (Snowball, Direct Connect etc.) for data migration.
+Created IAM users, roles, and granting required access permissions and privileges to the users.
+
+Education
+Institute of Industrial Reformation June 2013-2015
+Diploma in Information Technology
+University of Yaounde II
+Masters in Business Laws June 2013
+Contact this candidate

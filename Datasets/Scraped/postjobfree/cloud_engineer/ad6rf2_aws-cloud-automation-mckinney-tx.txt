@@ -1,0 +1,218 @@
+Rahul Kossireddy
+Cloud DevOps Automation Engineer
+● Build & Release Engineer ● Linux Administrator ●Software Configuration Management
+Email ID: ad6rf2@r.postjobfree.com
+Linked in: https://www.linkedin.com/in/rahul-k-6bab4b1aa/
+PROFESSIONAL SUMMARY
+IT professional with over 8+ comprehensive experience in the areas of DevOps, AWS Cloud, CI/CD pipeline, Build/Release Management and Linux/Windows Administration, Configuration, Production support, in-depth knowledge of cloud computing strategies.
+Hands on Experienced AWS Cloud platform and its features which includes EC2, VPC, EBS, AMI, Cloud Watch, Cloud Trail, Cloud Formation AWS Config, Autoscaling, IAM, S3, R53.
+Experienced in designing AWS cloud models for Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS).
+Experience in working with continuous integration using Jenkins, setting up the build pipeline and security to Jenkins environment.
+Worked in CM tools – ANSIBLE and chef for Deployment on Multiple platforms.
+Planning and implementation of data and storage management solutions in Azure (SQL Azure, Azure files, Queue storage, Blob storage). Implementing scripts with PowerShell.
+Experience in Running Ansible ad-hoc commands, automate few actions with ansible playbooks, creating ansible roles for the setup of a simple machine type, roll out of the first machines completely managed, migration of all machines to ansible.
+Experience in assigning the azure services on locations specific to integrate with web-apps and key-vaults
+Had a great experience on Kubernetes and Docker from containerization and container management side.
+Worked on JIRA Agile projects like Creating Scrum/Kanban boards, configured columns, Filters and Reports for Sprints.
+Experience installing/upgrading Jenkins/Bamboo/Team City infrastructure on multiple servers.
+Design Terraform/Ansible templates to create custom sized VPC, subnets, NAT to ensure successful deployment of Web applications and database templates.
+Automated several processes by developing utilities in Shell and Python scripting
+Responsible for on boarding application teams to build and deploy their code using GitHub, Jenkins and Ansible
+Experienced using different log monitoring tools like Splunk, ELK (Elasticsearch, Logstash, Kibana) for to see logs information, monitor, get the health & security notifications from nodes.
+Created custom policies using IAM (Identity Access Management) for AWS Cloud resources and Groups and maintained IAM roles and User credentials
+Deployment of Cloud service including Jenkins and Nexus on Docker using Terraform.
+Building/Maintaining Docker container clusters managed by Kubernetes also Used Kubernetes to orchestrate the deployment, scaling and management of Docker Containers.
+Experienced with principles and best practices of Software Configuration Management (SCM) in Agile, scrum, and Waterfall methodologies.
+
+Technical Skills
+
+Cloud Computing
+Amazon Web Services VPC, EC2, S3, EBS, IAM, RDS, ELB, Route 53, Auto Scaling, Cloud Watch, GCP, Azure, MuleSoft, Anypoint Containers, Monitering
+Operating system
+Linux (RHEL (Red Hat 4/5/6/7), CENTOS & SUSE), Solaris 11/10/9/8, HP-UX 11.0, 11.11, 11.23, 11.31, HPUX11i V1, V2 & V3, Ubuntu 12/13/14, Windows NT /2000/2003, DEBIAN.
+Application Servers
+WebLogic Application server 9.x, 10.x, Apache Tomcat 5.x/7.x, Red Hat JBoss 4.22. GA Web Sphere 6.x/7.x/8.x
+Version Control
+GIT, Subversion (SVN), Bitbucket, GitHub, GITlab
+IDE/Build Tools
+Maven, NodeJS, ANT
+Binary Repositories
+
+Nexus, Artifactory.
+Configuration Management Tools
+
+Ansible, terraform, Chef
+
+Code Review Tool
+SonarQube.
+CI/CD Tools
+Jenkins, Team city
+Monitoring
+Dynatrace, Splunk, ELK stack
+Infrastructure Code:
+Cloud Formation, Python Boto3, Terraform
+Containers
+Kubernetes, Docker
+Languages
+C, C++, SQL, PL/SQL, Shell Scripting, Java script, Python, Ruby JSON, XML, YAML
+Database
+MongoDB, Oracle, SQL server, MySQL
+Web servers
+Tomcat, APACHE 2.x, 3.x, JBOSS 4.x/5.x, Web Logic (8/9/10), Web Sphere4.0/5.0 and nginx
+Networking/Protocol
+DNS, DHCP, CISCO Routers/Switches, Palo alto, WAN, TCP/IP, NIS, NFS, SMTP, LAN, FTP/TFTP, Juniper, Cisco
+Platform
+Linux/Unix, Windows
+Bug Tracking Tools
+Bitbucket, JIRA, Confluence.
+
+Education Details:
+Master’s in Computer Science,
+University: Southern University, Baton Rouge, Louisiana, USA Year: 2020
+
+Bachelor’s in mechanical engineering,
+University: JNTUH, Hyderabad, INDIA, Year: 2011
+
+Client: US bank, Dallas, TX OCT 2023- Till date
+Role: Devops Automation Engineer
+Responsibilities:
+
+Automate, configure and deploy instances on GCP, Azure cloud environments.
+Created Azure Automation Assets, Graphical runbook, PowerShell runbook that will automate specific tasks, deployed Azure AD Connect, configuring Active Directory Federation Service (ADFS) authentication flow, ADFS installation using Azure AD Connect, and involved in administrative tasks that include Build, Design, Deploy of Azure environment.
+Creating, validating and reviewing solutions and effort estimate of converting existing workloads from classic to ARM based Azure Cloud Environment
+Created Azure services using ARM templates (JSON) and ensured no changes in the present infrastructure while doing incremental deployment.
+Acted as build and release engineer, deployed the services by VSTS (Azure DevOps) pipeline. Created and Maintained pipelines to manage the IAC for all the applications
+Developed a comprehensive disaster recovery plan that reduced system restoration time by 40% under the high-stress scenarios by implementing automated backup solutions
+Authored internal documentation for best practices in system scalability, leading to a 20% reduction in onboarding time for new engineers and enhancement in cross-team functionality.
+Orchestrated a continuous integration/continuous deployment (CI/CD) pipeline for Twitter's development team, resulting in a 50% acceleration of deployment cycles and improved code quality.
+Designed and implemented proactive monitoring solutions that led to a 45% reduction in severity-1 incidents, significantly enhancing system stability.
+Infrastructure design for the ELK Clusters.
+Provide initial assessment and possible workaround of production issues
+Used simple storage services (S3) for snapshot and Configured S3 lifecycle of Application logs, including deleting old logs, archiving logs based on retention policy of Apps.
+Setting up the (ELB) to send traffic to all instances in the availability zone
+Used Elasticsearch for powering not only Search but using ELK stack for logging and monitoring our systems end to end Using Beats.
+Implementation of cloud services IaaS on ASW platform
+Experience with container-based deployments using Docker and working with Docker images, Docker hub and Docker Registries.
+Developed Templates for AWS infrastructure as a code (IAAS) using Terraform to build staging and production environments.
+Used Terraforms to launch EC2 instances by writing a configuration file and destroy them if not required.
+
+Environment: Azure, Iaac, Logstash and monitoring, Terraform, YAML, ELK Slack, Shell script, AWS, GitLab, GitHub
+
+Client: SunTrust/Truist, Atlanta, Georgia Aug 020- OCT 2023
+Role: Devops Automation Engineer
+
+Responsibilities:
+
+Planning and implementation of data and storage management solutions in Azure (SQL Azure, Azure files, Queue storage, Blob storage). Implementing scripts with
+PowerShell for Runbooks.
+Experienced in various SDLC project phases: Requirement/System gathering, Requirement/System Analysis, Functional Specification, Business Logic's, Design, Layered
+Architecture, Test plans, Coding, Code review, Testing, Performance tuning, Documentation, Implementation and Maintenance.
+Experience in VSTS, TFS, Gated Check - ins, Build Definitions, Release Management, PowerShell, Power Bl.
+Created Azure ADO dash board for metrics and monitoring purposes
+Migrated an On-premises virtual machine to Azure Resource Manager (ARM) Subscription.
+Configure continuous integration from source control, setting up build definition within Visual Studio Team Services (VSTS) and configure continuous delivery to automate the deployment of ASP.NETMVC applications to Azure web apps.
+Hands on experience in Azure cloud services, Azure storage, Azure active directory, Azure Service Bus. Create and manage Azure AD tenants and configure application integration with Azure AD.
+Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+Monitoring on the Elastic Logstash Kibana (ELK) Stack with the heartbeat monitoring
+Work closely with the team on creating the Router ID’s for the OpenStack environment for created Ingress nodes
+Build servers using importing volumes, launching EC2, RDS, creating security groups, auto-scaling, load balancers (ELBs) in the defined virtual private connection.
+Hands on Experience with API architecture, design, build, and deployment
+Work in cloud computing (iPaaS/SaaS) including on-premise Infrastructure
+Naming of the Ingress Nodes and the cluster specific information with all the Master and the Worker nodes on OpenStack for automation purpose
+Experienced in Mule 3 & 4, by creating POCs environments
+Daily Maintenance activities with OpenStack, AnyPoint monitoring and the MuleSoft Application.
+Versioning on the Github for documentation, Uploading the VM SSH Keys and data sizing requirements updates from the team
+Troubleshooting of the Business Group Controller 0 if in case the cluster is in the Degraded State.
+Monitoring the Alerts for all the Business groups and act if in case any of the clusters go down.
+Operationalizing Mule Platform with the merger related activities and help the team with various activities.
+Work with building the Clusters Using Terraform scripts and setting up the Kubernetes architecture with Master, Worker and ingress nodes
+Setting up the Anypoint RTF (Run Time Fabric) Containerization in accordance with the cluster setup
+Set up the YAML configuration on the Gitlab CI/CD in accordance to the Terraform state file
+Work with the GitLab CI/CD pipelines for building the clusters on OpenStack environment.
+Writing JSON scripts on Anypoint, OpsCenter to created Read Only user accounts to access the specific business group cluster.
+Monitoring on the Elastic Logstash Kibana (ELK) Stack with the heartbeat monitoring
+Work closely with the team on creating the Router ID’s for the OpenStack environment for created Ingress nodes
+Troubleshooting of the Business Group Controllers if in case the cluster is in the Degraded State.
+Monitoring the Alerts for all the Business groups and act if in case any of the clusters go down.
+Allocate OpenStack Network Routing allocation to the ingress nodes for the internal clustering.
+Dynatrace monitoring of the CPU usage, alerting, performance, and make Custom Alerting.
+Check on Splunk Logs for the Log Forwarding to the AnyPoint Monitoring system.
+Worked on MuleSoft API Gateway with the RESTFUL services
+Experience in Mule Clustering, Load Balancing & MuleSoft MMC
+Hands on Experience with API architecture, design, build, and deployment
+Work in cloud computing (iPaaS/SaaS) including on-premise Infrastructure
+Naming of the Ingress Nodes and the cluster specific information with all the Master and the Worker nodes on OpenStack for automation purpose
+Experienced in Mule 3 & 4, by creating POCs environments
+Daily Maintenance activities with OpenStack, AnyPoint monitoring and the MuleSoft Application.
+
+Environment: Mulesoft, RTF(Run time Fabrics), Anypoint monitoring, Dynatrace Alerting and monitoring, Terraform, YAML, ELK Slack, Shell script, OpenStack, GitLab, GitHub
+
+Client: Springer Nature (SNTPS), Pune, India June 2014 – Nov 2018
+Role: DevOps/Build and Release Engineer
+
+Responsibilities:
+
+Installation, configuration and Operating System upgrade on Red Hat Linux
+Release Engineer for a team that involved different development teams and multiple simultaneous software releases and implemented Continuous Integration Process
+Migrated an On-premises virtual machine to Aws cloud platform.
+Troubleshooted Production issues pertaining to AWS Cloud Resources and Application Infrastructure (Iaas) point of view
+Infrastructure design for the ELK Clusters.
+Provide initial assessment and possible workaround of production issues
+Involved in cloud migration from physical data center towards Amazon Web services (AWS) and had a good understanding of Public, Private and Hybrid Cloud Environments.
+Worked on XLR workflow lead generation while using Jenkins
+Troubleshooting any build issue with ELK and work towards the solution
+Responsible to designing and deploying new ELK clusters (Elasticsearch, logstash, Kibana, beats, Kafka, zookeeper etc.
+Involved in DevOps migration/automation processes for build and deploy systems
+Experience with automation on Linux/Unix servers using shell scripting
+Created multiple Python, Bash, Shell and Ruby Shell Scripts for various application level tasks.
+Manage internal and external build, packaging, and release projects
+SPOC for all ELK related requests/issues.
+Build, manage, and continuously improved the build infrastructure (Iaas) for global software development engineering teams including implementation of build scripts, continuous integration infrastructure and deployment tools.
+Build Java code on to different Jenkins servers as per the schedule.
+Worked in all areas of Jenkins setting up CI for new branches, build automation, plugin management and securing Jenkins and setting up master/slave configurations.
+Installation of patches and packages using RPM and YUM in Red hat Linux
+Implement various codes in software programs to integrate with build environment
+Provide the support of building the server, patching, user administration tasks, deployment, software installation, performance tuning and troubleshooting.
+Worked in areas of Jenkins setting up CI for new branches, build automation, plugin management and securing Jenkins and setting up master/slave configurations.
+Disk and File system management through Solstice Disk Suite on Solaris and other logical volume manager.
+Monitoring system performance, tune-up kernel parameter, adding /removing /administering hosts, users, disks on DNS / NIS domain.
+Automated the Build & Deployment environment end -to-end using Jenkins
+Monitored overall system performance, performed user management, system updates and disk & storage management
+Design develop build and packaging tools for continuous integration build and reporting. Automate the build and release cycles.
+Wrote bash shell scripts for getting information about various Linux servers
+Created and maintained user accounts in RedHat Enterprise Linux (RHEL)
+Experience in working with monitoring tools like Nagios to trigger the event handlers to send a notification and act according to the script.
+Configuring distributed file systems and administering NFS server and NFS clients and editing auto-mounting mapping as per system user requirements.
+Experience working on Splunk Environments and Clustered Splunk Environments on Linux and Windows operating systems.
+
+Worked as a certified internal auditor for ISMS 27001(Information security Management System) for cross-security and infrastructure teams.
+
+Also worked as a certified internal auditor for ISO 9001 Quality management system for Cross functional teams for Technology, R&D and administration teams.
+
+Environment: RedHat Enterprise Linux, Bash, Apache, Tomcat, XLRelease, YUM, RPM, Python Nagios, Splunk, Git, Aws on-premise migration.
+
+Client: Kevin Enterprise, Hyderabad, India Sep 2011-May 2014 Role: Linux administrator
+
+Responsibilities:
+Experience in LINUX/UNIX Administration, Shell Scripting with expertise in Red-hat/CentOS Linux 4/5/6, Solaris 8/9, VMware ESXi 4.5/5.5, WebLogic and WebSphere.
+Planned and performed the upgrades to Linux operating systems and hardware maintenance like changing memory modules, disk devices, SAS, SATA & SCSI devices.
+Managed systems routine backup, scheduling jobs, enabling Cron jobs, enabling system logging and network logging of servers for maintenance.
+Utilizing SAR, Netstat, Iostat and Vmstat for performance analysis, tuning and capacity planning, problem prevention, detection and resolution.
+Use of Logical Volume Manager (LVM), creating volume groups, logical volumes and disk mirroring in HP-UX and Linux.
+Created virtual server on VMware ESX/ESXi and Oracle Virtual box-based host and installed operating system on guest Servers.
+Experience in writing UNIX shell scripts using commands like awk, sed, tcsh, bash, ksh and perl to automate system admin jobs.
+Experience working on User admin groups, maintaining account and monitoring system performance using Nagios.
+Troubleshooting and analysis of hardware and software failures for various Solaris servers (core dump and log file analysis).
+Production support of Apache, Apache HTTPD, JBoss, Tomcat including installation, configuration, management and troubleshooting.
+Troubleshooting user SSH and user authentication. Configuring OpenSSL.
+Updating kernel parameters.
+Writing shell/Bash scripts for Automated Back- ups and Cron Jobs.
+Installed and configured Apache Web-servers and troubleshoot problems arising from Apache functionality.
+Creating, extending and reducing LVM's for managing the disk storage space.
+Overseeing migrations from physical to virtual.
+Used Maven (POM.xml) and Ant scripts (build.xml) as build frameworks/scripts.
+Utilized Linux Terminal Server for removing fat client management, save on administration Provide users with a more reliable & secure environment.
+Utilize commands and utilities such as iptable, netstat, ping to implement operating system and network security.
+
+Environment: YUM, RPM, RedHat Enterprise Linux, Bash, Apache, Volume Groups, ANT, MAVEN Git, Jboss, Tomcat, VMware, TCP/IP, Nagios.
+Contact this candidate

@@ -1,0 +1,207 @@
+Vaishnavi M
+Sr. Cloud DevOps Engineer Site Reliability Engineer
+Email: ad466c@r.postjobfree.com
+Phone: +1-417-***-****
+
+With over 8 years of experience in the IT industry, my skills encompass DevOps tools, Data Analytics, Build Engineering, and Release Management. I excel in automating software configuration management (SCM), deploying applications via continuous integration (CI) and continuous deployment (CD), and proficiently managing cloud services, including Azure, AWS, and GCP. My expertise is heavily rooted in cloud technologies and practices.
+TECHNICAL TOOLS & TECHNOLOGIES:
+
+Cloud Environment
+Amazon Web Services (AWS), Azure, Google Cloud Platform (GCP)
+Platforms
+C, C++, Java/J2EE
+Scripting
+Shell, Python, Ruby, PowerShell, YAML, Groovy, Bash, Golang
+Web Technologies/Frameworks
+HTML, JSP, JSTL, JavaScript, CSS, Servlets, Nginx
+Version Control Tools
+SVN (Subversion), Git, GitLab, GitHub, BitBucket
+Build Tools
+Ant, Maven
+Configuration Management
+Chef, Puppet, Ansible, Terraform
+Continuous Integration Tools
+Jenkins, Circle CI, Azure-DevOps
+Containerization Tools:
+Docker, Docker Swarm, Kubernetes, AWS ECS, Apache Mesos, OpenShift
+Monitoring Tools
+Nagios, Splunk, Cloud Watch, ELK Stack
+Artifactory Repositories
+Nexus, JFrog, SonarQube
+Methodologies
+Agile, Scrum, Waterfall
+Operating Systems
+Unix/Linux (Red Hat, CentOS, SUSE), Ubuntu, Windows (All Major Versions)
+Databases
+Oracle, MS SQL Server, MySQL, DynamoDB, MongoDB, NoSQL, PostgreSQL
+Virtualization
+Virtual Box, VMWare, Windows Hyper-V
+Ticketing Tools
+JIRA, Bugzilla, and Confluence
+
+PROFESSIONAL SUMMARY:
+
+Worked in managing and optimizing AWS infrastructure, including features such as EC2, VPC, EBS, AMI, RDS, EBS, Cloud Watch, Cloud Trail, Cloud Formation, Beanstalk, Auto scaling, CloudFront, IAM, S3, and R53.
+Experienced in implementing CI/CD pipelines with AWS services such as AWS CodePipeline and AWS Code Deploy, enabling automated software delivery and deployment.
+Monitored and logged with AWS CloudWatch alarms to monitor AWS resource metrics and trigger automated actions. Collected & analyzed logs from AWS services and applications using CloudWatch Logs.
+Managed object storage with Amazon S3 (Simple Storage Service), implementing versioning and lifecycle policies for data management.
+Worked in deploying and managing Azure services like Virtual Machines, App Service, SQL Database, and Azure Kubernetes Service (AKS), building scalable and resilient Cloud solutions. Experienced in implementing CI/CD workflows with Azure DevOps, ensuring efficient software development and deployment.
+Monitored and optimized Azure infrastructure performance and health utilizing Azure Monitor, Log Analytics, and Application Insights, while continuously tuning services for maximum efficiency and cost-effectiveness.
+Designing and deploying highly available and scalable infrastructure using Azure Resource Manager (ARM) templates and managing Azure virtual networks, subnets, and security groups to ensure network isolation and security compliance.
+Implemented Azure API Management for exposing, securing, and managing APIs, enabling seamless integration.
+Designed, implemented, and managed APIs using Azure API Management, ensuring scalability, security, and performance.
+Designed, deployed, and managed GCP services such as Compute Engine, Cloud Storage, Cloud SQL, and Google Kubernetes Engine (GKE) for Cloud-native applications.
+Created and managed Kubernetes clusters on GCP using GKE, enabling efficient container orchestration and deployed containerized applications to GKE clusters, managing workload scaling and orchestration for enhanced performance.
+Leveraged GCP's managed services like Cloud Pub/Sub, BigQuery, and Dataflow for data processing and analytics pipelines and Implemented infrastructure automation using Google Cloud Deployment Manager.
+Worked with Docker for containerization and Kubernetes for orchestrating containerized workloads, ensuring improved efficiency and resource utilization.
+Established CI/CD pipelines integrated with Kubernetes, automating the deployment process for application updates and rollbacks.
+Adopted GitOps principles to manage Kubernetes configurations declaratively using version-controlled repositories, ensuring consistency and traceability across environments.
+Designed, implemented, and maintained Docker-based containerization strategies for microservices and monolithic applications and developed Docker files and Docker Compose configurations to define container images and multi-container applications.
+Utilize Cloud Build's integration with Docker and Kubernetes for container image building and deployment workflows, ensuring consistency and efficiency in application delivery.
+Hands-on experience in Terraform for provisioning, managing, and automating Cloud infrastructure resources across various providers, promoting consistency and scalability.
+Skilled in designing and maintaining Terraform modules and templates for streamlined provisioning processes Designed and implemented Terraform scripts to automate the provisioning and management of Kubernetes clusters and engineered Terraform configurations to integrate with Configuration tools.
+Worked in configuring and customizing monitoring solutions with Splunk, Nagios, and Datadog for real-time visibility and proactive issue detection, minimizing downtime and optimizing system performance.
+Orchestrated comprehensive CI/CD pipelines using Azure DevOps, encompassing source control, build automation, testing, and deployment processes.
+Implemented and maintained Jenkins-based CI/CD pipelines to streamline software development workflows and improve release cycles.
+Conducted performance tuning and optimization of Jenkins infrastructure, fine-tuning parameters such as build executors, build retention policies, and build queue management.
+Troubleshot and resolved issues in CircleCI pipelines, ensuring uninterrupted and efficient CI/CD processes.
+Skilled in using Chef and Ansible to automate provisioning, configuration, and management of infrastructure and applications, ensuring consistency and efficiency.
+Developed Python, Golang scripting and Python APIs, leveraging its robust libraries and frameworks to design and deploy scalable and efficient web services, facilitating seamless integration.
+Experienced in Shell scripting with Bash and Ruby for Automation of routine tasks and system administration.
+Experienced in managing diverse database technologies including DynamoDB, Cosmos DB, PostgreSQL, MongoDB, and MySQL, ensuring efficient data storage, retrieval, and management in DevOps environments.
+Proficient in building Automation tools such as Ant and Maven for automated compilation, testing, packaging, and deployment of applications, fostering consistency and efficiency.
+Experienced in managing source code repositories with Git, GitHub, SVN, and Bitbucket, ensuring versioning integrity and traceability in software development projects.
+Proficient in implementing DevOps practices within Agile frameworks, promoting collaboration and iterative improvement across cross-functional development teams for enhanced product quality.
+Skilled in managing the Software Development Life Cycle (SDLC) processes, ensuring alignment with business objectives and stakeholder requirements for the timely delivery of high-quality software solutions.
+Experienced in utilizing Nexus Repository Manager, SonarQube, and JFrog Artifactory for managing artifacts, analyzing code quality, and facilitating dependency management, ensuring enhanced productivity and reliability of software delivery pipelines.
+EDUCATION:
+Wichita State University- Master’s in Business Analytics (Data Science and Management) Dec 2023
+PROFESSIONAL EXPERIENCE:
+
+UNFI (United Natural Foods Inc.), Kansas City, MO(Remote) June 2023- Present
+Sr. Cloud DevOps Engineer/SRE
+Description: In the UNFI project, I served as an Azure DevOps Engineer, instrumental in designing and managing a robust Azure-based DevOps environment. My key responsibilities included automating operations using Azure DevOps, building CI/CD pipelines using Azure Pipelines, implementing Infrastructure as Code (IaC) using Azure Resource Manager (ARM) Templates and Terraform, ensuring system uptime and scalability using Azure Monitor and Azure Application Insights and enforcing security controls using Azure Security Center and Azure Policy. Orchestrated containerized applications with Docker and Kubernetes, enhancing resource allocation and fault tolerance. Integrated real-time monitoring and alerting with Datadog and Nagios to ensure high availability and optimal performance.
+Roles and responsibilities:
+Designed and implemented Azure infrastructure components such as virtual machines, storage accounts, and virtual networks using Azure Resource Manager (ARM) templates and Azure CLI.
+Configured Azure Availability Sets and Availability Zones to ensure high availability and fault tolerance of critical applications.
+Developed API policies, including rate limiting, caching, and authentication, to enhance API functionality and security & Integrated Azure API Management with various Azure services, such as Azure Functions, Logic Apps, and Azure Active Directory.
+Configured Azure Active Directory for single sign-on (SSO) and user authentication across applications, implemented Azure Kubernetes Service (AKS) clusters, and managed containerized applications.
+Integrated Azure Key Vault for secure storage and management of sensitive information such as secrets and certificates.
+Managed and optimized Azure Virtual Machines (VMs) for various workloads, and Implemented Azure Storage solutions such as Blob Storage, File Storage, and Azure Disk Storage for scalable and durable storage of data and files.
+Architected & implemented a Docker-based microservices infrastructure, orchestrating containerized applications with Docker Compose and Kubernetes for efficient resource allocation, horizontal scaling, & fault tolerance.
+Developed Docker images and Docker files to encapsulate applications and dependencies, ensuring consistent and reproducible environments across development, testing, and production stages, thereby enhancing the reliability and portability of software deployments.
+Deployed and configured JFrog Artifactory as a centralized repository for storing and distributing binary artifacts, Docker images, and third-party dependencies.
+Configured Kubernetes clusters according to workload requirements, including node sizing, networking, and storage configurations, and Configured Kubernetes services and ingress controllers to enable service discovery and load balancing for containerized applications running within the cluster.
+Implemented Security best practices such as RBAC (Role-Based Access Control), Pod Security Policies, and Network Policies to enforce security policies within the cluster.
+Implemented Horizontal Pod Autoscaling (HPA) and Cluster Autoscaler to automatically scale resources based on application workload and demand.
+Developed Terraform modules and configurations to define and provision infrastructure resources across multi-cloud and hybrid environments.
+Employed Terraform workspaces and state management strategies to facilitate collaboration and maintain infrastructure as code in version control.
+Implemented CircleCI for continuous integration and deployment, enhancing the development workflow and reducing the release cycle time.
+Integrated Docker with Azure DevOps to containerize applications, improving deployment and configuration using Azure DevOps and Terraform, improving operational efficiency, and reducing manual errors.
+Integrated Azure Container Registry (ACR) and Helm charts with DevOps pipelines for streamlined container image management and deployment.
+Monitoring and Alerting with Datadog and Nagios is done by Configuring Datadog agents and monitors to collect and visualize real-time performance metrics and logs from distributed applications and infrastructure components.
+Involved in setting up Nagios plugins and checks for proactive monitoring of server resources, services, and network devices, with customizable alerting and escalation policies.
+Integrated Ansible with CI/CD pipelines to automate the deployment of application artifacts and configurations, ensuring seamless delivery of updates across development, testing, and production environments.
+Developed Python & Golang scripts for automating routine tasks such as log rotation, database backups, and resource provisioning on Cloud platforms.
+Created Bash and Shell scripts for system administration tasks, file manipulation, and cron job scheduling in Linux environments & Implemented Jira automation rules and scripts using Jira Query Language (JQL) to automate issue transitions, notifications, and assignments.
+Implemented and optimized Azure Cosmos DB as a managed NoSQL database service for MongoDB workloads and Configuring Azure Cosmos DB to provide MongoDB-compatible APIs. Fine-tuned MongoDB configuration parameters, indexes, and shard keys to optimize query performance and enhance database scalability and throughput.
+Managed Maven project configurations and dependencies for Java-based applications, ensuring consistent and reproducible builds across development environments.
+Integrated Maven with CI/CD pipelines for automated artifact generation, unit testing, and code quality analysis using SonarQube.
+Configured Azure Repos for version control, implementing branching strategies, code reviews, and Git hooks to ensure code quality and collaboration among development teams, while effectively managing Azure Boards for project management, Sprint planning, backlog grooming, and facilitating Agile practices such as Scrum and Kanban to streamline development workflows and enhance team productivity.
+Integrated SonarQube with CI pipelines to automate code analysis and provide timely feedback to developers for continuous improvement.
+
+Vanguard, Overland Park, KS May 2022-May 2023
+DevOps Cloud Engineer/Infrastructure Engineer
+Description: At Vanguard, Managed a cloud migration project, transitioning digital assets from Azure to AWS using CloudEndure Migration and AWS Migration Hub seamless lift-and-shift process. Ensured data synchronization and executed a successful cutover using Amazon EC2 and EBS. Implemented security measures and conducted post-migration testing for optimal application functionality. Promptly addressed migration challenges and minimized downtime during the process. Employed Docker, Kubernetes, and AWS ECS for containerization and orchestration, ensuring scalability and portability. Automated infrastructure provisioning and CI/CD processes using GitLab, Bitbucket, Ansible, and Jenkins. Managed database migration with AWS DMS and optimized PostgreSQL for performance. Executed phased migration with a blue-green deployment strategy.
+Roles and Responsibilities:
+Conducted a thorough assessment of existing Azure infrastructure and applications to identify migration objectives, risks, and dependencies.
+Implemented Azure DevOps and AWS Code Pipeline for continuous integration and delivery. Utilized Azure Monitor and AWS CloudWatch for monitoring and alerting.
+Replicated Azure virtual machines (VMs) to AWS EC2 instances using AWS Server Migration Service (SMS) for efficient lift-and-shift migration.
+Utilized Terraform for infrastructure discovery and analysis, ensuring a comprehensive understanding of resource dependencies.
+Collaborated with stakeholders to define a migration strategy, including timeline, scope, and success criteria.
+Designed target architecture on AWS, leveraging AWS CloudFormation templates and Terraform configurations.
+Utilized Docker for containerization of applications, ensuring portability and scalability in the new Cloud environment.
+Implemented Kubernetes for container orchestration, enabling automated deployment and scaling of containerized workloads.
+Leveraged Terraform to provide AWS infrastructure components including VPCs, EC2 instances, RDS databases, and S3 buckets.
+Integrating monitoring solutions such as Prometheus and Grafana to collect cluster and application metrics and set up alerts for critical events.
+Deploying logging solutions like Elasticsearch, Fluentd, and Kibana (EFK) or Loki for centralized log aggregation and analysis, aiding in troubleshooting and debugging.
+Configured and optimized AWS Elastic Load Balancing for distributing incoming application traffic across multiple targets.
+Implemented disaster recovery and high availability solutions, leveraging AWS services such as AWS Backup, Amazon Route 53, and AWS Elastic Load Balancing, to ensure business continuity and resilience in the AWS environment.
+Automated infrastructure provisioning using GitLab CI/CD pipelines and configured Bitbucket webhooks, triggers to automate CI/CD processes, triggering builds and deployments whenever changes are pushed to designated branches.
+Configured CircleCI pipelines to automate build, test, and deployment processes, ensuring code quality and accelerating product delivery.
+Integrated Ansible for configuration management, automating the setup and configuration of AWS resources.
+Implemented AWS Database Migration Service (DMS) for seamless migration of databases from Azure SQL Database to Amazon RDS.
+Utilized Docker containers for temporary data storage and transfer, minimizing downtime during the migration process.
+Implemented data validation and integrity checks using Jenkins pipelines, ensuring the accuracy and completeness of migrated data.
+Containerized applications using Docker, ensuring compatibility and consistency between Azure and AWS environments.
+Automated application deployment using Kubernetes, leveraging Helm charts for packaging and versioning.
+Utilized Jenkins pipelines for continuous application code integration and deployment, enabling rapid iteration and feedback.
+Integrated AWS services with existing Azure systems and third-party APIs using Ansible playbooks, ensuring seamless interoperability.
+Configured CloudWatch Events and Event Bridge rules for automating remediation actions and triggering workflows, CloudWatch Synthetics for monitoring application endpoints and user interactions.
+Implemented automated testing pipelines using Jenkins and GitLab CI/CD, enabling continuous validation of application and infrastructure changes.
+Executed a phased migration approach to minimize downtime and disruption to business operations.
+Utilized blue-green deployment strategy with Kubernetes for gradual cutover of traffic from Azure to AWS.
+Managed PostgreSQL databases within DevOps environments, including installation, configuration, and ongoing maintenance tasks.
+Implemented performance-tuning strategies such as index optimization, query optimization, and resource allocation adjustments to ensure optimal database performance.
+Implement advanced Shell scripting techniques such as process management, file manipulation, and system resource monitoring to optimize resource allocation and improve overall system performance, minimizing waste and maximizing efficiency.
+Utilized Maven profiles to define environment-specific configurations and dependencies for builds and integrated Maven with artifact repositories like Nexus and Artifactory to store and share project artifacts.
+Develop sophisticated Shell & Go scripts to automate configuration management tasks across diverse environments, including server provisioning, package installations, and system configurations.
+
+Accolite Digital, London, UK (offshore, Hyderabad) Jan 2020-Dec 2021
+Cloud DevOps Engineer
+Description: Led the design and implementation of a cutting-edge hybrid and multi-cloud architecture, seamlessly integrating AWS and Google Cloud Platform (GCP) services for optimal performance, resilience, and cost-efficiency. Developed cloud-native solutions leveraging AWS EC2, S3, Lambda, and Google Cloud Compute Engine, Storage, and Functions, achieving diverse business objectives across multi-cloud environments. Implemented Kubernetes for container orchestration, ensuring portability and interoperability between AWS EKS and GCP GKE. Established cloud-native security controls across multi-cloud environments, leveraging AWS IAM, GCP Identity Platform, and third-party tools for unified identity management and access control. Orchestrated configuration management with Ansible playbooks, deployed monitoring, and logging solutions like Prometheus, Grafana, and ELK stack, and designed robust backup and disaster recovery strategies using AWS Backup, Google Cloud Disaster Recovery, and Google Cloud Storage.
+Roles and Responsibilities:
+Designed and implemented hybrid and multi-cloud architectures, integrating AWS and Google Cloud Platform (GCP) services to optimize performance, resilience, and cost-efficiency.
+Developed cloud-native solutions and workloads leveraging AWS services such as EC2, S3, Lambda, and Google Cloud services such as Compute Engine, Cloud Storage, and Cloud Functions to achieve business objectives across multi-cloud environments.
+Implemented cloud-agnostic solutions using Kubernetes for container orchestration, ensuring portability and interoperability between AWS EKS (Elastic Kubernetes Service) and GCP GKE (Google Kubernetes Engine).
+Implemented cloud-native security controls and best practices across multi-cloud environments, leveraging AWS Identity and Access Management (IAM), GCP Identity Platform, and third-party tools for unified identity management and access control.
+Implemented multi-cloud security and compliance solutions leveraging Google Cloud IAM and AWS Identity and Access Management (IAM) for centralized access control and identity management across GCP and AWS.
+Configured AWS VPC (Virtual Private Cloud) for isolated networking environments, defining subnets, route tables, and security groups to control traffic and ensure secure communication within the cloud infrastructure, enhancing network security and isolation.
+Managed and optimized cloud resources using GCP's monitoring and logging tools, ensuring high availability and performance.
+Developed and deployed applications on GCP using services like App Engine, Cloud Functions, and Cloud Run.
+Orchestrated configuration management tasks with Ansible playbooks and Ansible Vault. Experienced in creating Ansible roles for managing complex configurations and utilizing Ansible Vault for secure storage of sensitive data.
+Deployed monitoring and logging solutions like Prometheus, Grafana, and ELK stack. Experienced in setting up Prometheus for metric collection, Grafana for visualization, and ELK stack for log aggregation and analysis.
+Designed backup and disaster recovery strategies using AWS Backup, Google Cloud Disaster Recovery, and Google Cloud Storage. Skilled in implementing automated backup schedules, cross-region replication, and disaster recovery plans.
+Orchestrated Docker containers with Docker Compose for local development environments and Docker Swarm for production deployments and Optimized Docker images for size and performance, leveraging multi-stage builds and minimal base images.
+Utilized Terraform to modularize infrastructure provisioning through reusable modules, integrated with Git for efficient infrastructure as code collaboration, and automated CI/CD pipelines to ensure continuous deployment and streamline infrastructure updates.
+Engineered Terraform configurations to leverage cloud-native services and features, such as AWS Lambda functions or Azure Functions.
+Managed Kubernetes clusters for container orchestration, including deployment, scaling, and service discovery.
+Implemented Kubernetes resource manifests for defining and managing applications, pods, services, and ingress rules and Orchestrated rolling updates and canary deployments with Kubernetes deployments to minimize downtime and ensure zero-downtime updates.
+Collaborated with cross-functional teams using Agile methodologies and tools like Jira and Proficient in Agile practices such as Scrum and Kanban, facilitating sprint planning, backlog grooming, and retrospectives using Jira.
+Leveraged Automation and scripting like writing Bash scripts for Automation tasks, Python scripts for infrastructure Automation, Golang, and PowerShell scripts for Windows environments.
+Developed Chef cookbooks using Ruby DSL (Domain-Specific Language) to define resources, attributes, and recipes, orchestrated complex workflows and dependencies with Chef templates and data bags, enabling dynamic and adaptive configuration management.
+Managed Git version tools like Git branching strategies, managing repositories, and implementing Git hooks for automated actions upon repository events.
+Integrated CircleCI with version control tools like Git and SVN for seamless code integration and deployment.
+Utilized CircleCI Orbs to reuse configurations and reduce redundancy in the CI/CD pipeline.
+Configured Jenkins agents (nodes) for distributed builds and parallel execution of jobs in AWS and GCP environments and platforms and Utilized Jenkins pipeline plugins such as Blue Ocean, Pipeline Utility Steps, and Pipeline Multi-branching.
+Managed multi-module Maven projects, ensuring proper dependency management and versioning across modules, and Implemented the Maven release plugin to automate versioning, and tagging of release builds, ensuring consistency across releases.
+Implemented fine-grained access control and IAM policies for DynamoDB tables to enforce least privilege principles, ensuring secure data access and compliance and Configured DynamoDB auto-scaling policies and CloudWatch alarms to dynamically adjust read and write capacity units.
+Utilized CloudWatch Metrics and AWS SDKs to programmatically collect, publish, and analyze custom metrics and telemetry data & Configured CloudWatch Events and Event Bridge rules for automating remediation actions.
+
+Fission Labs, Hyderabad, India Oct 2018-Dec 2019
+DevOps Engineer
+
+Led large-scale network migrations to Google Cloud Platform (GCP), integrating components such as Google Cloud Load Balancing, DNS, Interconnect, CDN, Compute, Networking, Storage, Disaster Recovery (DR), Security, and Monitoring.
+Automated software delivery through CI/CD pipelines using GCP's Cloud Build, GitHub Actions, or Jenkins, reducing application time-to-market and enhancing deployment efficiency.
+Implemented CI/CD pipelines using Google Cloud Build and Jenkins, automating the build, test, and deployment processes for applications deployed on Google Cloud Platform (GCP).
+Orchestrated infrastructure provisioning and management on GCP using Terraform, ensuring consistent and scalable deployment of resources such as Compute Engine instances and Kubernetes clusters.
+Developed reusable Terraform modules to standardize infrastructure components and improve deployment.
+Spearheaded GitLab CI/CD pipeline orchestration for streamlined build, test, and deployment workflows, enhancing release cycles and code quality.
+Implemented Chef recipes and cookbooks to automate configuration management, deployment, and provisioning of infrastructure and applications in heterogeneous environments and managed Chef environments, roles, and nodes to define and organize infrastructure components.
+Developed Docker files and Docker Compose files to define container images and multi-container applications, specifying dependencies, environment variables, and runtime configurations.
+Orchestrated Docker containers with tools like Docker Swarm and Kubernetes for automated deployment, scaling, and management of containerized workloads in production environments.
+Expertly managed Kubernetes clusters, facilitating seamless application deployment and scaling while enforcing robust access controls.
+Implemented SonarQube for continuous code quality assessment, integrating with CI/CD pipelines to enforce stringent quality standards, while efficiently managing artifact repositories with JFrog Artifactory, ensuring secure and efficient storage and distribution of artifacts.
+Designed and implemented Grafana dashboards for comprehensive system monitoring, enabling proactive issue identification and resolution.
+Collaborated with cross-functional teams to establish Git workflows and best practices, enhancing version control efficiency.
+Orchestrated Kubernetes deployments, leveraging Helm charts and YAML manifests for streamlined application management & Conducted regular code quality assessments using SonarQube, identifying and mitigating technical debt and code smells.
+Established and enforced access controls and permissions within JFrog Artifactory, ensuring artifact security and compliance & Implemented high-availability solutions for PostgreSQL databases using streaming replication, hot standby, or clustering techniques.
+Integrated Ant with version control systems to trigger builds automatically upon code commits.
+Utilized Splunk Enterprise Security (ES) for analyzing security events to detect and respond to threats. Also developed, and optimized complex Splunk searches, reports, and dashboards to visualize and analyze log data, enabling real-time monitoring.
+
+XT Global, Hyderabad, India May 2016- May 2018
+Data Analyst
+Utilized Google BigQuery extensively for data warehousing and analytics, querying large datasets efficiently to extract valuable insights and support data-driven decision-making processes.
+Designed and implemented data pipelines using Google Cloud Dataflow (Apache Beam), enabling real-time and batch processing of streaming and historical data for analysis and visualization.
+Developed and optimized SQL queries and data manipulation scripts in Google BigQuery and Google Cloud Data prep to clean, transform, and prepare raw data for analysis and
+Contact this candidate

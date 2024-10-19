@@ -1,0 +1,56 @@
+Tharun Kumar Bandaru
++1-470-***-**** ad6ser@r.postjobfree.com GitHub LinkedIn
+SUMMARY
+• Data scientist with 4+ years of experience in Healthcare and Finance industry, skilled in developing LSTM, Transfer learning, imaging methods for healthcare research and GLM, Anomaly Detection, Demand Forecasting for finance.
+• Data Science and Analytics graduate with a focus on Big Data and Machine Learning with a GPA of 3.9.
+• Experienced in Python, Machine Learning, Data Science, SQL, ETL pipelines, CI/CD, EDA, Azure, AWS. 2x Winner of hackathons, certified in Tableau, Azure AI. Plays with Large Language Models (LLM), QLoRA, LoRA, Vector Databases, Fine-tuning LLMs, RAGs, Generative AI.
+TECHNICAL SKILLS
+• Programming Languages: Python, R, SQL, C, Java, HTML, CSS, Javascript, Matlab.
+• Frameworks and ML Skills: PyTorch, Tensorflow, Keras, Scikit, NLTK, SpaCy, Numpy, Pandas, MLOps, OpenCV, Time Series Modeling, NLP, Transformers, BERT, Cosmos DB, ETL, LLM, Langchain, LLaMA index, QLoRA, LoRA, RAG, Vector Database. Statistics (Hypothesis testing, ANOVA), Regression (Linear, Logistic, Ridge, Lasso), Decision Tree, Random Forest, XG Boost, K-Means, KNN, Support Vector Machine, A/B Testing, NLP, Scikit, Seaborn, Plotly.
+• Tools and others: Tableau, Power BI, Spark, Hadoop, Git, GitHub, Docker, RASA, Graph Database, Databricks, PySpark/Spark, Azure, AWS, Streamlit. Jenkins, Docker, CI/CD, Git, Kubeflow, Airflow. EXPERIENCE
+ELEPHAS BIO SCIENCES, ATLANTA, GA May 2024 – Present Data Science Intern
+• Utilizing the MPM (Multi Photon Microscopy) data to find out the performance of medical immunology treatment.
+• Using PCA to reduce dimensionality reduction and Binning to create custom buckets of similar values.
+• Experimenting with multiple feature selection techniques like Recursive Feature Elimination with Random Forest and Gradient Boosting.
+• Using Azure Auto-ML for data preprocessing, Ensemble models to help in feature selection, feature importance.
+• Performing Data analysis on cytokine data. Clustering the assay sample’s response to drugs based on the protein levels. HONEYWELL, ATLANTA, GA May 2023 – Aug 2023
+Data Science Intern (Skills: MS SQL Server, Tableau, Python, Hugging Face, Azure Event Hubs, Power BI, Azure Data Factory, Azure Data Lake Storage)
+• Utilized MS SQL Server to analyze diverse data tables within industrial repair solutions, pinpointing faults, errors, and potential improvement opportunities. Leveraged Tableau to visualize and communicate insights to cross-functional stakeholders, enhancing collaboration and decision-making processes.
+• Support Vector Machines (SVMs) to detect anomalies in smoke sensor data. Implemented LSTM models for accurate demand forecasting in critical sensor markets, facilitating proactive inventory management and cost optimization.
+• Leveraged Falcon 7B LLM through Hugging Face to build a responsive answering system, delivering data-driven repair suggestions based on historical records, resulting in streamlined customer support interactions. TRENDS Lab (GEORGIA TECH UNIVERSITY) Aug 2022 – Apr 2024 Machine Learning Research Assistant - Healthcare (Skills: Python, Advanced Predictive Modeling, MATLAB, R language, Statistics, Neuroimaging, LSTM, ICA, U-Net)
+• Researched on ICA, brain disorders using fMRIs Functional Connectivity, StaticFNC, DynamicFNC. Designed, analyzed, and visualized high-dimensional time-series data to understand neurobiology for neurological diseases.
+• Built a LSTM model for the classification of Alzheimer’s (AD) and Schizophrenia (SZ) on rs-fMRI Time Series.
+• Employed stratified k-fold on an imbalanced dataset finding best hyperparameters and model, achieving an accuracy of 80%, sensitivity of 79%, and specificity of 78% with the best model.
+• Utilized ensembling methods for finding models with better performance.
+• Accepted paper at OHBM 2023 Canada.
+• Built a U-Net model leveraging ImageNet models like ResNet and DenseNet as encoders on mammographic images.
+• Optimized model performance through extensive hyperparameter tuning, achieving an AUC-ROC score of 0.94. ACCENTURE, Bangalore, India Jun 2021 -Jul 2022
+Senior Data Scientist (Skills: XGBoost, Neural Networks, Advanced Predictive Modelling, Time Series, Azure ML)
+• Developed regression models to predict the time of recovery of a patient and Customer Lifetime Value using Lasso, Ridge, Support Vector Regression (SVR), and XGBoost.
+• Designed and implemented ETL pipelines leveraging Azure Data Factory and Azure Data Lake Storage Gen2 for automated data cleaning and transformation, ensuring high-quality data for model training and analysis.
+• Established CI/CD pipelines with Docker containers for seamless model deployment and monitoring, guaranteeing efficient scaling and reproducibility on Azure Monitor.
+• Developed and deployed GLMs and XGBoost models achieving 90% accuracy in predicting claim costs.
+• Implemented a K-Nearest Neighbors with anomaly detection, identifying 95% of fraudulent claims.
+• Built a CI/CD pipeline integrating GitLab and Jenkins with Azure DevOps for automated model deployment.
+• Annotated physician notes with corresponding medical codes to train BERT-based NLP models for accurate extraction, ensuring meticulous labeling accuracy crucial for model fine-tuning.
+• Integrated BERT-based NLP models into the claims processing pipeline on Azure Databricks, achieving 92% accuracy in extracting medical codes from physician notes, significantly reducing manual workload and errors.
+• Built a real-time fraud dashboard using Power BI and Azure SQL Database, providing insights into suspicious activity patterns.
+TECHCITI TECHNOLOGIES, Bangalore, India Nov 2019 – Jun 2021 Data Scientist (Skills: Apache Spark, Apache Airflow, Python, Machine Learning, ETL pipelines, Git, REST API, Jenkins)
+• Developed a personalized news recommendation system using collaborative filtering techniques, including user-based and item-based methods, to offer tailored content suggestions.
+• Implemented advanced similarity algorithms, such as cosine similarity and Pearson correlation, to enhance the accuracy and relevance of recommendations.
+• Managed ETL workflows with Apache Airflow and utilized Apache Spark for scalable model training and recommendation generation.
+• Built CI/CD pipelines using Jenkins and Git, resulting in a 30% reduction in deployment time.
+• Managed relational and non-relational databases, MongoDB, to enable real-time updates to the recommendation engine.
+• Implemented real-time data streaming using Azure Event Hubs for continuous recommendation model updates.
+• Conducted rigorous A/B testing to optimize recommendation strategies, leading to a 20% increase in article click rates.
+• Leveraged Azure Synapse Analytics for comprehensive data analysis and Azure Databricks for scalable model deployment and monitoring.
+• Incorporated SHAP (Shapley Additive explanations) for interpretability and understanding of the recommendation model's decision-making process, enhancing transparency and trustworthiness in recommendations. PROJECTS
+Enhanced LLAMA 2 with Custom Insurance Q&A Dataset: Successfully fine-tuned the LLAMA 2 large language model using Low- Rank Adaptation (LoRA) and Quantized Low-Rank Adaptation (QLoRA) techniques. Leveraged a custom dataset of human- annotated question-answer pairs from an insurance company database, significantly improving model performance on specific domain. Real-Time Face Emotion Detection: Captured and segmented real-time face emotions video using the haar-cascade classifier, implemented deep learning model to classify various emotions such as sad, angry, happy, neutral, and surprised. LLM PDF Chatbot: Developed an end-to-end chatbot application utilizing the Mistral-7B and Flask, fine-tuned using TRL and Hugging Face. Fine-tuning was performed on the Alpaca dataset to optimize the model's performance for generating contextually responses.
+Electricity Load Forecasting: Built ETL pipeline in PySpark to ingest time series data. Developed LSTM model on Databricks to forecast electricity load.
+End-to-end Healthcare application: Integrated OpenAI-Whisper for speech transcription, Gaussian Naive Bayes for diagnosis, and Haar-Cascade Classifier for heart rate monitoring. The app addressed pain points, such as provider shortage and burnout. Won 1st place.
+Sentiment Analysis on Yelp data: Performed sentiment analysis using LSTM with word embedding and TF-IDF. Implemented LDA for comprehensive topic modeling to extract insights from review data. Building a RAG Application Using Python, LangChain, and OpenAI API: Developed a Retrieval Augmented Generation (RAG) system using Python, LangChain, and the OpenAI API. Utilized GPT 3.5 turbo model for intelligent question-answer generation from video transcripts. Integrated Pinecone as a vector storage database for efficient text retrieval. Implemented tokenization, embeddings, and similarity search algorithms for accurate response generation. RESEARCH PUBLICATIONS
+• Design and analysis of attention-based mechanisms for intent recognition and classification: [ Paper Link]
+• A Survey on recent advances in pneumonia detection using ChexNet: [ Paper Link ]
+• Classification of Alzheimer’s and Schizophrenia using rs-FMRI: [ Paper Link ]. EDUCATION
+Georgia State University - Master of Science in Data Science and Analytics (GPA: 3.9/4.00) JNTU Hyderabad - Bachelor of Technology in Electronics and Computer Engineering (GPA: 3.6/4.00)
+Contact this candidate

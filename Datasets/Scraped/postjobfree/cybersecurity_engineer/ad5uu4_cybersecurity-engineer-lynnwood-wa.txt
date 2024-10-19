@@ -1,0 +1,209 @@
+Curriculum Vitae
+Contact and General Information
+Applicant Name: Anthony J. Bustamante
+Most recent job: Security Engineer Intern at Amazon Inc. Location: Lynnwood, WA 98037
+Age: 28
+Phone: 425-***-****
+Email: ad5uu4@r.postjobfree.com, ad5uu4@r.postjobfree.com LinkedIn: Linkedin link
+Google Scholar: Google Scholar link
+Researchgate: Researchgate link
+GitHub: GitHub link
+Languages: Spanish – Native, English – Second Language, Portuguese - Third language CGPA: 3.7 / 4
+Years of Professional Experience: +6 years.
+Summary
+I am a versatile engineer who can work in several tech areas, and I aim to construct sanitized com- puter systems. As I approach the culmination of my graduate studies in Cybersecurity Engineering (Ms degree) with a concentration in software at the University of Washington this June, I am seeking new opportunities in the field, starting from July of this year. My track record includes leading-edge research and practical experience in network security, applied machine learning for cybersecurity, and developing innovative software solutions to secure digital landscapes. I am driven by a relentless pursuit of tech- nological advancement and a commitment to excellence in my field. My passion for solving complex problems and engaging in technical projects has been a constant drive and underscores my readiness and eagerness to contribute to complex tech projects. Currently, I am working on Deep Packet Inspection for Software-Defined Networking, and I aim to make significant contributions to the field. IT Certifications
+• NSE 7: Network Security Architect (ID GSgU1YqQsR)
+• NSE 4: Network Security Professional (ID o2opELLsmG)
+• NSE 3, 2 & 1: Network Security Associate (ID 82MGEq478M, R79wpJHd3f & ZzarzzYQxb)
+• CCNA: Cisco Certified Network Associate (ID CSCO13325164)
+• ITIL Foundations (ID GR671136950AB)
+• Scrum Foundations (ID JLSRKFRRSP-VVKBTTCH-YBJDSDTRTQ)
+• YSCT: Yeastar Certified Technician (IDCT26200200555) References
+1. Name: Brent Lagesse
+Title: Doctor, Professor at UW Bothell
+Phone: +1-425-***-****
+Email: ad5uu4@r.postjobfree.com
+Relationship: Course instructor and advisor at UW Bothell, I worked under his supervision on a Smart City project in Bamberg, Germany. Thesis and Internship advisor. 2. Name: Tummuluri Srinivas
+Title: Security Engineering Manager
+Email: ad5uu4@r.postjobfree.com
+1
+Relationship: Manager in the security group at Amazon, oversaw my work at Amazon Inc. Fa- miliar with my performance and skills.
+3. Name: James Kotwal
+Phone: +1-805-***-****
+Title: Sr. Security Engineer
+Email: ad5uu4@r.postjobfree.com
+Relationship: Leader of the cryptography sub-group at Amazon Inc., direct supervisor of my work at Amazon Inc.
+Skills
+• Advanced-Intermediate: Kali OS, Parrot OS, Ubuntu client/server, Microsoft server OS, Python, C++, C, Wireshark, Infrastructure as Code, AWS, P4, Machine Learning, Data Networks, FPGAs, ASICs, VMware, etc.
+• General knowledge of programming languages like TypeScript, Java, JavaScript, Matlab, PHP, SQL, HTML, CSS, DB SQL, among others.
+Research Experience
+1. A Dual-Model Anomaly Detection Algorithm for non-linear stream data in Smart City Environments. Paper presented at the 5th International Workshop on Security and Reliability of IoT - DCOSS-IoT 2024, Abu Dhabi, UAE. Link to paper Description: This paper introduces a novel anomaly detection approach for smart cities, using a dual regression model system. The primary model generates accurate predictions, while the secondary model introduces controlled noise. Together, they detect outliers by comparing the alignment cost or Euclidean distance of actual traffic against the high-quality model’s predictions. This approach effectively identifies anomalies, particularly in defending against DoS and Flood- ing attacks, by setting a threshold based on these comparisons. Experimentation with various regression algorithms, including linear regression and support vector regression, demonstrated the method’s effectiveness, outperforming traditional models in smart city datasets. 2. Identifying Smart Strategies for Effective Agriculture Solution Using Data Mining Techniques. Hindawi, Journal of Food Quality. Link to publication Description: In this project, we used Data Mining Techniques (CART and random forest al- gorithms) to identify key factors that play a role in the development of crops in India so as to increase agricultural output. The Study was done with the help of some Universities in India that provided the dataset of local farms. The Data Mining process was done with R Studio, Matlab, and Scikit-Learn Repository.
+3. Advantages of Machine Learning in Networking-Monitoring Systems to Size Network Appliances and Identify Incongruences in Data Networks. Trends in Artificial Intelligence and Computer Engineering. ICAETT 2021. Link to publication Description: We demonstrated two uses of Machine Learning (with Regression Algorithms) in Data Networks.
+1. We used machine learning for planning and assignment of resources in network components, we demonstrated that it is easy to do this task as long as we have a good monitoring repository like Nagios(Dataset) and good machine learning algorithms. 2. We used machine learning to identify flood attacks (DOS, DDoS, etc.) in Data Networks (In- congruences), the project involved making ML algorithms to learn the normal traffic patterns in Data Networks and take decisions based on the anomalies that can be discovered. This project was done with private dataset and by using Python, Anaconda, Jupyter Notebook, Google Colab, and Scikit-Learn Repository.
+4. Optimal Combination of Multivariate Filter Feature Selection and Classifier for Speech- Based Depression Detection. Artificial Intelligence Evolution. Link to publication Description: In this project, we made use of Multivariate filter features and Classification Ma- 2
+chine Learning algorithms to detect depression in people based on their speech. We use public dataset for this purpose as well as Python, Anaconda, Jupyter Notebook and, TensorFlow, and Scikit-Learn.
+5. An Empirical Evaluation of Machine Learning for Hardening Security Devices in Data Networks. IEEE CHILECON 2021. Link to publication
+Description:In this project, we have weighted the advantages of Machine Learning (Classifica- tion Algorithms) for Hardening Security Devices, we used ICAP protocol to download traffic from network security devices and be processed by Machine Learning Algorithms playing different cy- bersecurity roles. In this project, we developed different cybersecurity engines based on Machine Learning, like:
+- IDS, IPS, and AntiDDoS Engines (For traffic like DNS, LDAP, MSsql, NetBios, NTP, UDP, etc).
+- Antivirus engine to classify malign MD5 Hashes.
+- URL filtering/Domain Filtering engine to classify malign and benign traffic.
+- WAF engine/Reverse-proxy engine.
+This project was done with private dataset(find in paper) and by using Python, Anaconda, Jupyter Notebook, Google Colab, and Scikit-Learn Repository. 6. A Novel Framework to Determine Micro-level Population Figures Using Spatially Dis- aggregated Population Estimates and Artificial Intelligence. Link to publication Description: This study done in tandem with the University of Lagos, Nigeria. We proposed a framework for aggregating population figures at micro levels within a larger geographic jurisdiction using high-resolution spatially disaggregated population data estimates. QGIS, Python program- ming language, and machine learning techniques were used for spatial and raster analysis, data visualization, and zonal statistics. Lagos Island, in Lagos, Nigeria was used as a case study to demonstrate how to calculate a more precise population estimate and resolve the ambiguity in population estimates arising from the use of antithetical parameters in the calculations. We also showed how the population data obtained can be used for estimating the carrying capacities of urban basic services such as healthcare, water, sanitary facilities, education, etc. The proposed framework would help urban planners and government agencies to plan and manage cities better using more accurate data.
+7. Design of a V2V Communications Antenna Based on LTE Technology and IEEE802.11p Standard. IEEE INTERCON 2017. Link to publication
+Description: In this project, we developed a microstrip antenna for V2V, LTE, and VANET Net- works, the antenna is able to perform well for all these technologies’ RF spectrums and offers the simplicity of being a small component. This projects was done by using HFSS software, Solidworks, and Matlab programming Language, as well as, after the construction, it was tested with several RF devices.
+You can see and judge my publications here: Published Papers - Google Drive For more information, visit my ResearchGate Profile.
+Work Experience
+UW Bothell – Thesis student
+Greater Seattle Area, WA (06/2023 to Currently)
+Currently working on my research thesis under Phd Prof. Brent Lagesse’s supervision.
+- Researching Southbound protocols that can support up to L7 Analysis. Improving Openflow protocol and working with data-plane programmability languages like P4 .
+- Working on Deep Packet Inspection for SDN environments.
+- Working with different SDN controllers like POX, Ryu, ODL, etc.
+- Working with virtual environments like Mininet, VMware, Containers, GNS3, etc. for testing.
+- Leveraging coding languages like C++, Python, and P4 for the development.
+- Leveraging concepts like Cryptography, Networking, Data inspection for security, etc.
+- Developing Applications for DPI like Web application filtering and SQL command injection filtering.
+- Research project to be defended on May 28th.
+3
+Amazon Inc. – Security Engineer - Fall Internship
+Seattle, WA (09/2023 to 12/2023)
+Part of the Cryptography sub-group in the Security group of the corporation.
+- I was working in all the scope of Certificate Transparency Logs to extract sensitive information corre- sponding to digital certificates in Internet.
+- Developing the complete architecture for this project with AWS, e.g., Deploying Databases (Dy- namoDB), S3 buckets, serverless components (Lambda, Fargate, SQS), etc.
+- Analysis of Datalakes with Athena, Redshift, QuickSight, etc.
+- Project based on the study of the RFC 6962 (Certificate Transparency Logs) and RFC 5280 (X.509 Certificate).
+- Working with programming languages like Python and Typescript.
+- Deep use of Data Structures.
+- Development of efficient code to process billion of certificates.
+- Working with Data lakes.
+UW Bothell – Seasonal Researcher
+Bamberg, Germany (06/2023 to 08/2023)
+Part of the research cohort of the University of Washington, Bothell at the University of Bamberg(Otto- Friedrich-University Bamberg).
+Functions:
+Research and development of software solutions for smart cities, cybersecurity, etc. Research cohort led by Prof. Brent Lagesse, Ph.D.
+- One notable aspect of my work involved spearheading the development of Anomaly Detection Al- gorithms aimed at preempting injection attacks, including but not limited to SQL injection, Cross-Site Scripting (XSS), and command injection. In pursuit of this objective, I leveraged Machine Learning Algorithms dedicated to anomaly detection, such as the Isolation Forest, One-class Support Vector Ma- chine (SVM), and autoencoders.
+- Additionally, I undertook the creation of an innovative methodology designed to identify anomalies within streaming data. This methodology has the potential to significantly enhance our capability to detect flooding attacks, Denial of Service (DoS) incidents, and Distributed Denial of Service (DDoS) at- tacks, and a combination of Times Series and Non-Linear problems in general. This proposed approach advocates the utilization of regression algorithms for establishing a threshold value. This threshold is established through pattern recognition techniques, including Alignment Cost and Euclidean Distance, which facilitates the evaluation of incoming network traffic. By analyzing the corresponding Alignment Cost (AC) or Euclidean Distance (EC) and comparing it against expected spectrums, anomalies are promptly identified.
+Read about the project HERE.
+Tivit Latam – Security Specialist
+South America Region - Remote (04/2020 to 08/2022) Main Functions:
+- Design of security solutions for clients.
+- Administration of different security appliances such as Firewall, NGFW, Antispam, IPS, IDS, An- timalware, Proxy, Load Balancer, WAF, NAC, EDR, XDR, URL Filtering, AntiDoS, DLP, Security Orchestrators, SOAR, Drive Encryption, Virtual Patching, SIEM, etc.
+- Senior troubleshooter in network security devices.
+- Technical leader in security projects, implementations, migrations, etc.
+- Penetration and security testing for most appliances working in our clients’ networks to assure our configuration and scripts inserted in the devices are working correctly, and without security flaws.
+- Work closely with SOC engineers and Cybersecurity researchers to close new security gaps (e.g. IoCs, 4
+IoAs), it involves patching network devices, virtual patching of legacy devices, and virtual patching in the perimeter of the network. Always keeping in mind policies and recommendations given by those areas and based on CVE releases, standard OWASP top 10, and frameworks like MITRE ATT&CK.
+- Use of Tracing, Sniffing, and Debugging in multiple technologies to troubleshoot problems.
+- Threat hunting, detection and incident response. Working with technologies, like:
+- Cisco, Fortinet, Palo Alto, Juniper, WatchGuard, Forcepoint, Citrix, Clear Pass Aruba, Cisco Fire- power, Symantec, Mcafee, Broadcom, Blue Coat, TrendMicro, Kaspersky, CyberArk, Microsoft 365 Defender, Azure Defender, Microsoft Endpoint Manager, Darktrace(Antigena, Enterprise Immune Sys- tem), etc.
+- Monitoring tools, like Zabbix, Splunk, Nagios, Solar Winds.
+- Security test tools like Kali, Parrot, Metasploit, Cymulate, Burpsuite, Scout Suite for cloud auditing, among many other security tools.
+- Usage of Python and Java to customize security tests, examples: flood attacks, Spoofing, Phishing, WAF testing, etc.
+- Working with actual appliances and VM versions.
+- Working on real hardware appliances, VM, and Docker infrastructure.
+- Wireshark, TCPdump, PingPlotter, etc. to troubleshoot network security problems. Projects:
+- Design and implementation of High Availability solution for Proxy devices, and balancing of traffic with Citrix balancers and DNS records.
+- Integration of Cloud solutions like Azure and AWS to interconnect, migrate, and place IT resources, this is done most times with VPN IPsec solutions over Firewalls or ExpressRoute and IP VPN solutions.
+- Implementation of Home office security infrastructure to integrate the vast number of users working from home to our security infrastructure, project entirely done with Mcafee Technology and to protect the users with solutions like ENS, EDR, ATP, DLP, Drive Encryption, URL Filtering, among others.
+- Integration of Security devices and tools with databases for management.
+- Design of segregated DMZ Firewall solutions to prevent the propagation of malware in case a zone is compromised, we looked for having different application layers in different DMZ zones to lessen the possibility of infection and propagation.
+- Integration of Security devices like firewall, proxy, etc. with AD servers, DNS servers, ICAP servers in multiple types of infrastructures, VPN, On-Premise, On-Cloud, etc.
+- Design and implementation of email authentication by using SPF, DKIM, and DMARC records, as well as for validation of email traffic based on the latter record policies and Sender ID, so as to prevent phishing and spoofing attacks.
+- Integrations and scanning of NAS servers (Unity technology) with AV solutions, like Mcafee, TrendMi- cro, and Kaspersky, by using, ICAP protocol, SMB protocol, or EMC CAVA software.
+- Work in tandem with tech providers like Cisco, Mcafee, Symantec, etc. to migrate, upgrade, or imple- ment new solutions in the security infrastructure.
+- Automation of attack-response policies in security infrastructures with Ansible and other automation solutions.
+- Implementation of Multi-factor authentication with MFA.
+- Among other projects.
+Optical Networks – Network, Security, Wireless, and VoIP Engineer Lima, Peru (02/2019 to 02/2020)
+Part of the TAC area of this important Peruvian Provider, my role was completely operational, config- uring (CLI, Scripting), troubleshooting, and suggesting solutions in an operational infrastructure. I used to get and serve at least 20 tickets a day to configure requests from our clients, analyze and troubleshoot problems, and propose the best solution for each situation and case. The TAC center of this provider is recognized in Peru for being extremely energy-demanding and requir- ing high troubleshooting abilities.
+Among my functions I can cite:
+5
+- One of the main security administrators and troubleshooters in the group, Fortinet and Arbor Edge Defense technology: Configuration of VPNs, Two-factor authentication, integration with AD, LDAP servers, security groups, among multiple other tasks.
+- Networking administrator and troubleshooter, technologies Cisco, Mikrotik, Huawei, Juniper, etc.
+- Switching administrator and troubleshooter, technologies Cisco, Planet, Huawei, etc.
+- Balancing administrator and troubleshooter, technologies Fortinet and Exinda.
+- VoIP telephony administrator and troubleshooter, technologies Yeastar, Elastix, and Metaswitch.
+- Wireless administrator and troubleshooter, technologies Ruckus, Fortinet, Mikrotik, and Unifi.
+- DNS and email administrator and troubleshooter: Configuration of emails, and all types of DNS records. In this position, I worked doing multiple tasks, with multiple technologies, and using several tools for troubleshooting, testing, and assessment of our client’s networks. Telef onica del Peru – Grupo Fractalia – Network and Security Engineer Lima, Peru (05/2017 to 02/2019)
+Telefonica and their partners (Fractalia) offer multiple services, during my time as an On-site engi- neer, I had to look after the network and perimeter security of multiple clients that I was assigned. Telefonica as a multinational provider has a huge infrastructure in which an engineer has to deal with multiple technologies and a big variety of cases, in the time I was there I acquired immense experience in networking and network security.
+Among my functions:
+- Design of networking solutions for assigned clients.
+- Administrator and troubleshooter in networking, security, and wireless technologies.
+- Responsible for ensuring good functioning of our clients’ WAN and LAN networks.
+- Responsible for solving any problem in the network, not just logically, but also delegation and super- vision of reparations in hardware, and other L1 components when needed. Working with technologies, like:
+- Fortinet, Cisco, Telecom, Huawei, Aruba, and Alcatel, among many others. Some projects:
+- Design and implementation of an extranet among the multiple companies of Grupo Sandoval S.A.
+- Design the compatibility of Spanning Tree Protocol between Cisco and Alcatel switches.
+- Migration of analog telephony towards VoIP solutions over SIP trunks (Ethernet technology).
+- Among others.
+Measuring Engineer Group – Junior Engineer(Transmission systems and Networking) Lima, Peru (02/2017 to 05/2017)
+I was hired as an apprentice in the wireless and transport area of the company. Functions:
+- Assistance in wireless network designs and implementations.
+- Assistance in traffic engineering measurements like MER and BER tests.
+- Responsible for Attenuation tests, Reflection tests for the integration of diverse L1 components (An- tennas, cables, connectors, etc.).
+- Among other testing functions.
+Projects I in which I participate entirely:
+- Design of BER tests in different network layers, commonly BER tests are done only in L1, however, during this time we looked to make tests in L2, L3, and superior layers to evidence the response of the networks we implemented for our clients.
+INICTEL-UNI – Research Internship
+Lima, Peru (03/2016 to 12/2016)
+Inictel-Uni is one of the main research institutions on engineering here in Peru, as an intern I was 6
+quite involved with several projects this institution was doing, I was hired for the wireless access network and electromagnetic waves propagation department, and some of the functions I had were:
+- Research in antennas (construction and measurement) with HFSS and Matlab.
+- Research in the propagation of electromagnetic waves with Pathloss, Atoll, and Radiomobile software.
+- Research in SDR (software defined radio) with USRP, GNU Radio, and Simulink.
+- Writing research articles.
+Among my projects there are:
+- Design of a V2V communications antenna based on LTE technology and IEEE802.11p standard, link: Seepublication
+- Early Warning Systems and Disaster Risk Management, link: Seepublication Education
+University of Washington, Bothell
+Master of Science, Cybersecurity Engineering
+STEM School, currently enrolled in my fifth quarter. Duration: September 2022 to June 2024.
+San Luis Gonzaga National University of Ica
+Bachelor in Electronic Engineering
+Department of Mechanics, Electric and Electronic Engineering Duration: 2012 to 2017.
+- Title obtained: Bachelor in Electronic Engineering. National University of Engineering, INICTEL-UNI
+Specialization in Wireless Communication Engineering Duration: February 2015 to March 2022.
+- Diploma obtained: Specialist in Wireless Communication Engineering. National University of Engineering, INICTEL-UNI
+Specialization in Telecommunication Engineering
+Duration: February 2015 to December 2016.
+- Status: Dropped out after completing half of the program. Additional Courses and Training
+• DevSecOps – Kubernetes DevOps & Security – Udemy
+• Ultimate DevSecOps with Real World Scenarios – Udemy
+• IBM AI Engineering – Coursera
+• Advanced Deep Learning with TensorFlow - Udemy
+• Machine Learning A-Z – Udemy
+• Artificial Neural Network for Regression – Udemy
+• Deep Learning A-Z – Udemy
+• Artificial Intelligence A-Z – Udemy
+• Network Automation – Python 3 and Ansible – Udemy
+• Data Science – Udemy
+• End Point Protection – Cybersecurity – Udemy
+• Certified Ethical Hacker – CEH – EC-Council
+• Perimetral Security – TECSUP, Peru
+• CCNA Security – Network Faculty
+• CCNP Security – Network Faculty
+• CCNA VoIP – Network Faculty
+• CCNA Wireless – Network Faculty
+• VMWare and Virtualization – Network Faculty
+7
+• Microsoft Azure and Cloud Computing – Network Faculty
+• CCNP R&S – Network Faculty
+• Linux and Microsoft Operating Systems – Network Faculty
+• Optical Fiber Engineering – INICTEL-UNI
+• Access and Transport Networks – INICTEL-UNI
+• Architecture of Data Networks – INICTEL-UNI
+• Technology of Data Networks – INICTEL-UNI
+• Design and Implementation of 4th Generation Networks – INICTEL-UNI
+• Design of Mobile Cellphone Systems – INICTEL-UNI
+• Regulation in Telecommunications – INICTEL-UNI
+• Environment Management of Electromagnetic Fields in Telecommunications – INICTEL-UNI
+• Antennas and Propagation of Electromagnetic Waves – INICTEL-UNI
+• Design of Radiolinks – INICTEL-UNI
+• Satellital Communication Systems – INICTEL-UNI
+• Industrial Automation (SCADA) – Senati, Peru
+• Industrial Instrumentation – Senati, Peru
+• Programming of Industrial PLC – Senati, Peru
+• Programming of Microchips with C and C++ - ICABOTS, Peru
+• Design of Electric Energy Distribution Networks and Lines – Esolutions, Peru
+• Design in AutoCAD 2D and 3D – Data System’s Engineers 8
+Contact this candidate

@@ -1,0 +1,148 @@
+Name: Gowtham Thota
+ad7yf7@r.postjobfree.com
+Phone: +1-647-***-****
+Data Engineer ETL Developer BI Engineer Data Analyst MLOps Engineer
+With over 7+ years of experience in data warehousing, data engineering, feature engineering, big data, ETL/ELT, and business intelligence, I excel in developing and deploying scalable data architectures. I leverage Azure and AWS services, frameworks along with tools like Databricks and Snowflake to build robust and Secure data pipelines. As a data engineer, specialize in Python, SQL, Spark/PySpark, Scala, Databricks, Hive, Redshift, Airflow, Data DevOps Frameworks/Pipelines with strong Programming/Scripting Skills. With excellent Coding (Java, Python,Pyspark, Unix Scripting) skills, business acumen, I have a solid understanding of cloud-native/on-premise technologies, and best practices and broadly proven knowledge of the AWS/Azure/GCP platform and services.
+
+PROFESSIONAL SUMMARY
+
+Hands-on experience in setting up Azure Data Factory to create ingestion pipelines for pulling data into Azure Data Lake Storage and Blob Storage, with expertise in Azure Data Analytics Services, ADLS Gen2, Azure SQL DW, and optimizing large data transformations using Pyspark/spark in Azure Databricks.
+Migration of on-premises databases to Microsoft Azure environment (Blobs, Azure Data Warehouse, Azure SQL Server, PowerShell Azure components, SSIS Azure components).
+Implemented control flow architecture for developing secure end-to-end big data application using ADF V2, Azure Databricks, Azure Synapse Analytics, Azure Data Lake Storage, Azure SQLDB and Azure Key Vault.
+Implemented Slowly Changing Dimension (SCD) Types to the data in the delta tables in the Azure Databricks.
+Strong experience in Data analysis, Data migration, Data Wrangling, Data Cleansing, Transformation, integration Data import and Data export through the use of multiple ETL tools such as Informatica PowerCenter, Apache Airflow, AWS Glue, Azure Data factory, Google cloud dataflow and airbyte.
+Established monitoring with Elasticsearch and implemented serverless execution using AWS Lambda. Designed and deployed high-availability applications across the AWS stack, including EC2, RDS, DynamoDB, EMR, focusing on fault tolerance and auto-scaling and leveraging S3, Redshift, Glue, EMR, Athena, Kinesis, Athena.
+Implemented encryption for data at rest and in transit using AWS Key Management Service (KMS) and enable encryption for Amazon S3, EBS, and RDS.
+Expert in designing ETL data flows using creating mappings/workflows to extract data from SQL Server and Data Migration and Transformation from Oracle/Access/Excel Sheets using SQL Server SSIS.
+Conducted data analysis using SQL and Cloud SQL, generating reports in Power BI and Tableau.
+Experience in writing complex SQL Queries using stored procedure, common table expressions (CTEs) temporary table to support Power BI.
+Skilled in data modeling, including relational and dimensional approaches, and building Enterprise Data Warehouses from scratch using both Kimball and Inmon's methodologies. Proficient in optimizing machine learning models using Python and Spark.
+Skilled in real-time analysis with Kafka and Spark Streaming, and handling data acquisition, feature engineering, and modeling with SQL, Scala, Python, and Spark.
+Utilized SageMaker for ML model development and MLOps pipelines, with exposure to AI and deep learning platforms like TensorFlow, Keras, AWS ML, and Azure ML Studio.
+Proficient in Python data science packages such as Scikit Learn, Pandas, NumPy, and PyTorch for data preprocessing, including cleaning, correlation analysis, imputation, visualization, feature scaling, and dimensionality reduction. Experienced in building and automating ML pipelines on AWS and Azure, leveraging Databricks with PySpark for ETL and transformations, and using AWS Glue for efficient ETL processes.
+Experienced with Big Data tools including Hadoop-HDFS, MapReduce, Hive, Sqoop, and Apache Spark.
+
+EDUCATION:
+Post Graduate Degree – Big Data Analytics Georgian College – Canada, April 2023
+Bachelors – Bachelor of Technology in Electronics and Communication Engineering – India, 2017
+
+Technical proficiency and Skill Set:
+
+AWS
+
+AWS EC2, ELB, S3, EBS, VPC, Route 53, RDS, Auto-Scaling, IAM, SNS, SES, SQS, Cloud Front, Cloud Formation, Cloud Watch, Elastic Beanstalk, API Gateway, AWS Elastic Container Service.
+Azure
+Azure Data Factory / ETL / ELT / SSIS, Azure Data Lake Storage, Azure Data bricks,Azure Synapse Analytics, Azure SQL data warehouse, Logic apps, key vault,
+GCP
+BIG query, Cloud Data Proc, Google Cloud Storage
+Big Data
+HDFS, MapReduce, Hive, Pig, Sqoop, Flume, HBase, Kafka Connect, Impala, Oozie, Spark, Nifi, Amazon Web services, Zookeeper.
+Programming/Scripting Languages:
+Java 8, Python, Shell, Spark, Scala, SQL, PL/SQL, jQuery, JavaScript
+Python
+NumPy, Scipy, Pandas, nltk, Matplotlib, BeautifulSoup, TextBlob
+Operating Systems:
+Windows, Unix, Linux, Solaris
+Version Control Tools
+SVN, GIT, GitHub, Git lab, Bit bucket
+Build/Release (CI/CD)
+Chef, Puppet, Ansible, Jenkins, Kubernetes, Azure, Cloud Foundry, Circle CI, TeamCity, Maven, ANT, Git, SVN, TFS, Atlassian Jira, Nexus, J Frog, Docker
+Visualization and Reporting
+Power BI, Tableau
+Data modelling
+Erwin and PowerDesigner
+RDBMS/NOSQL Databases
+Oracle, MYSQL, Microsoft SQL Server, Hbase, MongoDB, Cassandra
+Bug Tracking Tools
+JIRA, Azure DevOps, Confluence, ServiceNow, Bugzilla, Red Mine
+SDLC
+Agile, Waterfall, SCRUM, Extreme Programming
+Messaging Services
+JMS, Active MQ, Rabbit MQ, IBM MQ, Apache Kafka
+
+Professional Experience / Projects
+Client: TD Bank Canada November 2023 – till now
+Role: Data Engineer
+Project Description: The primary objective of this project is to modernize the legacy automated billing and transaction system to accommodate additional types of financial and payment transactions. Leveraged microservices architecture to enable the system to support a variety of new payment options. Deployed these enhanced features to Azure for unified management. Developed and implemented automated ETL/ELT pipelines utilizing Azure Databricks, Delta Lake, Azure Data Lake Storage (ADLS), and Azure Synapse Analytics. Automated data management within ADLS using Azure Functions and Azure Logic Apps.
+
+Key Contributions:
+oOrchestrated the migration of on-premises clusters to Azure, reducing production costs by 65% through efficient utilization of Azure services and implementation of autoscaling
+oImplemented a “Serverless” architecture using Azure Functions and deployed Azure Functions code from Data Lake.
+oAutomated data management in Azure Data Lake Storage Gen2 (ADLSg2) using Azure Functions and Azure Logic Apps. Configured Azure Data Lake Storage to trigger Azure Functions upon the arrival of new files, automating data processing tasks. Utilized Azure Logic Apps to orchestrate workflows, ensuring seamless integration and efficient data management. Troubleshot integration issues between Azure Functions and ADLSg2 to maintain optimal performance.
+oDeveloped stored procedures to facilitate full and incremental data loads from Azure Data Lake Storage into tables within Azure Synapse Analytics.
+oI was involved in developing and implementing automated ETL/ELT pipelines using Databricks/Delta Lake, ADLSg2, Azure Synapse Analytics.
+oOrchestrated notebooks as steps in Azure Data Factory pipelines, integrating them with other processing steps in Azure Databricks.
+oWorked with Azure Data Lake Storage (ADLS), Azure Synapse Analytics, and Azure SQL Database for big data processing and management. Created ETL pipelines to and from the data warehouse using a combination of Pyspark, Python and Azure Databricks, writing SQL queries against Azure Synapse and Azure SQL Database.
+
+Responsibilities:
+oCreated numerous pipelines in Azure using Azure Data Factory v2 to get the data from disparate source systems by using different Azure Activities like Move & Transform, Copy, filter, for each etc. Designed and developed batch processing and real-time processing solutions using ADF, Databricks clusters, and Stream Analytics.
+oMaintained and provided support for optimal pipelines, data flows, and complex data transformations using ADF and PySpark with Databricks.
+oPerformed data flow transformations using the data flow activity in ADF and implemented Azure Self-Hosted Integration Runtime (SHIR)
+oManaged Azure Data Lake Storage Gen2 (ADLSg2) and Azure Data Lake Analytics, ensuring efficient data storage and processing. Integrated ADLSg2 with various Azure services, such as Azure Synapse Analytics and Azure Databricks, to create seamless data workflows.
+oUtilized Azure Key Vault as a central repository for securely storing and managing all secrets. Integrated these secrets into Azure Data Factory and Azure Databricks, ensuring secure access during data processing tasks. Addressed and resolved integration issues to maintain seamless and secure operations across the platforms
+oAutomated jobs using different triggers like Events, Schedules, and Tumbling in ADF
+oImproved performance by optimizing computing time for streaming data processing and cluster run time
+oCreated, provisioned, and managed different Databricks clusters, notebooks, jobs, and autoscaling.
+oCreated linked services to connect the external resources to ADF.
+oWorked with complex SQL views, stored procedures, triggers, and packages in large databases from various servers
+oDeveloped and deployed data engineering solutions across multiple environments using Azure DevOps CI/CD pipelines. Configured and managed build and release pipelines to automate the building, testing, and deployment of data processing applications. Ensured seamless integration and continuous delivery of data workflows, enhancing deployment efficiency and reliability through Azure DevOps services.
+oWorked closely across teams (Support, Solution Architecture) and peers to establish and follow best practices while solving customer problems.
+oCreated infrastructure for optimal extraction, transformation, and loading of data from a wide variety of data sources.
+
+Environment: Azure, Hadoop, Python, Pyspark, SQL, Azure Data Factory (ADF v2), Azure Data bricks/Delta Lake, ADLSg2, Azure EventHub, Blob Storage, Azure SQL DB, Azure Synapse Analytics, Azure Devops.
+
+Client: Staples- Canada June 2023 – November 2023
+Role: Data Engineer (Digital Transformations)
+Project Description: Project majorly focuses on expanding and optimizing data and data pipeline architecture, as well as building and maintaining data workflow, designing optimal ETL data pipeline and infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources (SAP, Oracle ERP, Salesforce) As a Data Analyst, involved in maintaining the huge data and designing developing predictive data models for business users according to the requirement
+Key Contributions / Responsibilities:
+Developed tools using Python, Java, Shell scripting, XML to automate some of the menial tasks.
+Automated python scripts to pull the data from 300k servers, cleaned and inserted that data to MySQL RDS instance in AWS account. Added support for Amazon AWS S3 RDS to host static/media files and the database into Amazon Cloud. Managed AWS resources including EC2, Redshift, S3, Glue, EMR.
+Worked on connecting Cassandra database to the Amazon EMR for storing the database in S3.
+Implemented usage of Amazon EMR for processing Big Data across a Hadoop Cluster of virtual servers on Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3).
+Deployed the project on Amazon EMR with S3 connectivity for setting a backup storage.
+Worked on implementing Data warehouse solutions in AWS Redshift, worked on various projects to migrate data from one database to AWS Redshift, RDS, ELB, EMR, Dynamo DB and S3
+Worked on connecting Cassandra database to Amazon EMR File System for storing the database in S3.
+Working experience with NoSQL databases such as Cassandra and HBase, as well as developing real-time read/write access to very large datasets using HBase. Developed custom the Unix SHELL scripts
+Creation of Python scripts for data access and analysis (Scripts, Data Feeds, XLS, FIXML) to aid in the process and system monitoring, and reporting.
+Hands on experience on scheduling tools Autosys, Tivoli and Control - M.
+Python to build data transformation pipelines (ETL) with libraries such as pandas and NumPy.
+Optimize data types of ingestion, storage, processing, and retrieval from real-time events, IoT, to unstructured data as images, audio, video, documents, and in between.
+Responsible for Setup and build AWS infrastructure using resources VPC, EC2, S3, Dynamo DB, IAM, EBS, Route53, SNS, SES, SQS, CloudWatch, CloudTrail, Security Group, Autoscaling and RDS using CloudFormation templates.
+Backing up AWS PostGRE to S3 on daily job run on EMR using Data Frames.
+Deployed application which is containerized using Docker onto a Kubernetes cluster which is managed by Amazon Elastic Container Service for Kubernetes (EKS). Configured ‘Kubectl’ to interact with Kubernetes infrastructure and used AWS Cloud Formation Templates (CFT) to launch a cluster of worker nodes on Amazon EC2 instances. Built/deployed custom Docker images from Artifactory into EKS K8s cluster as part of a Gitlab CI pipeline
+Maintaining the Elasticsearch cluster and Logstash nodes to process around 5TB of Data Daily from various sources like Kafka, Kubernetes, etc.
+Involved in designing and deploying applications utilizing almost all the AWS stack (Including EC2, Route53, S3, ELB, EBS, VPC, RDS, DynamoDB, SNS, SQS, IAM, KMS, Lambda, Kinesis) and focusing on high-availability, fault tolerance and auto-scaling in AWSCloud Formation, deployment services (Ops Works and Cloud Formation) and security practices (IAM, CloudWatch, CloudTrail).
+
+Environment: Spark, Oracle, GitHub, Tableau, UNIX, Cloudera, Kafka, Sqoop, Scala, NIFI, HBase, Amazon EC2, S3. Python, Java
+
+Client: GEICO, India July 2019 – Aug 2022
+Role: Azure Data Engineer
+Project Description: Client is a digital automation technology-consulting firm with deep expertise in Data Analytics, Application Development, Robotic Process Automation, AI, DevOps, and Test Automation Services. Objective of the project is to create database for a New Program and design the schemas in the data warehouse relational and dimensional.
+Key Contributions / Responsibilities:
+oDevelop a data set process for data mining and data modeling and also recommend the ways to improve data quality, efficiency and reliability.
+oExtract Transform and Load data from Sources Systems to Azure Data Storage services using a combination of Azure Data Factory, T-SQL, Spark SQL and U-SQL Azure Data Lake Analytics Data Ingestion to one or more Azure Services - (Azure Data Lake, Azure Storage, Azure SQL, Azure DW) and processing the data in In Azure Databricks.
+oInvolved in data warehouse implementations using Azure SQL Data warehouse, SQL Database, Azure Data Lake Storage (ADLS), Azure Data Factory v2
+oInvolved in creating specifications for ETL processes, finalized requirements and prepared specification documents
+oMigrated data from on-premises SQL Database to Azure Synapse Analytics using Azure Data Factory, designed optimized database architecture
+oCreated Azure Data Factory for copying data from Azure BLOB storage to SQL Server
+oImplement ad-hoc analysis solutions using Azure Data Lake Analytics/Store, HDInsight/Databricks
+oWork with similar Microsoft on-prem data platforms, specifically SQL Server and SSIS, SSRS, and SSAS
+oCreate Reusable ADF pipelines to call REST APIs and consume Kafka Events.
+oUsed Control-M for scheduling DataStage jobs and used Logic Apps for scheduling ADF pipelines
+o
+oDeveloping and configuring Build and Release (CI/CD) processes using Azure DevOps, along with managing application code using Azure GIT with required security standards for .Net and java applications.
+oSupporting the Application team in making them analyze about the automation implementation and other related issues (if any). Coordinating with QA/DEV/Project/Delivery/Production support/Managers and performance teams to investigate concerns, issues and addressing those aspects to meet the delivery dates.
+
+Accenture, India May 2017 – June 2019
+Role: Data Engineer
+Project Description: Various Advertising and Marketing groups reach out to Merchants for information to support upcoming events. Merchants do not have any tools to help with this submission or population of data. The new tool will pre-populate data, allow for the re-use of previous submissions and streamline the submission process. This will optimize Merchant time spent on these tasks.
+Key Contributions / Responsibilities:
+oDesigned AWS CloudFormation templates to create custom sized VPC, subnets, NAT to ensure successful deployment of Web applications and database templates.
+oCreated environment on AWS platform, Sagemaker, AWS Hadoop EMR cluster, Kafka Cluster, Cassandra Clusters and implemented system alerts on Data Dog.
+oWorked in AWS environment, instrumental in utilizing Compute Services (EC2, ELB),
+oStorage Services (S3, Glacier, Block Storage, Lifecycle Management policies), CloudFormation (JSON Templates), Elastic Beanstalk, Lambda, VPC, RDS, Trusted Advisor and Cloud Watch. Implemented Control Tower Preventive and Detective guardrails and leveraged Account. Factory, integrated with Lambda for new AWS account creation
+oDesign multiple resilient and fault tolerant 3 tier architectures for high availability and business continuity using self-healing-based architectures, fail-over routing policies, multi-AZ deployment of EC2 instances, ELB health checks, Auto Scaling, and other disaster recovery models.
+oCreated ETL Mapping with Talend Integration Suite to pull data from Source, apply transformations, and load data into the target database.
+oInvolved in scheduling jobs and workflows to automate the various Inbound/Outbound transactions using Autosys
+oWorked on scripting with Python in Spark for transforming the data from various files like Text files, CSV and JSON.
+Contact this candidate

@@ -1,0 +1,88 @@
+SURYA YERRAMILLI
+***** ** ****** ** *** #***, Sterling VA-20165 ● 703-***-**** ●aczpjk@r.postjobfree.com
+OBJECTIVE: Seeking a challenging career position in the field of Validation and emulation, Computer Architecture and Digital VLSI/ASIC Design.
+
+EDUCATION:
+MS, Electrical & Electronics Engineering California State University, Sacramento Dec 2009
+BS, Electrical & Electronics Engineering AITAM college aff to JNTU,INDIA May 2006
+
+SKILL SET:
+HDLs : Verilog, VHDL, SystemVerilog, UVM
+Languages and Scripts : C, C++, Assembly, PERL, Python, TCL, Primetime, MATLAB
+Tools : Oscilloscope, Logic Analyzer, Protocol Analyzer, Xperf, Perfmon, NETDAQ, NI -DAQ, SEP, GPUVIEW, P Spice, ModelSim, XILINX ISE tool, JTAG ITP, Vtune, Labview
+Synopsys Design Analyzer, VCS compiler, L-edit and Platune, Wireshark and Microsoft
+Network Monitor, spectrum and Network analyzer
+Operating Systems : Windows, Linux.
+
+WORK EXPERIENCE:
+
+Big data Engineer: North Dome Solutions July 21’2016- present
+Doing predictive analysis and what if big data analysis for business solutions for client Maxwell. The environment is HDFS, Spark, mapreduce, hive, pig, Kafka and Sqoop.
+
+Senior Engineer: Client: Qualcomm, Bangalore Sep28’2015- May13’2016
+Generating vectors, evcd files and converting them to bin files for ATE testers. Running RTL, RTL+VECTOR, GLS and VT simulations on pre-silicon environment. This involves RTL validation, running simulations, loading waveforms and debugging if there was an issue. Was responsible for 180 vectors of total.
+
+BIOS Debug Engineer (BIOS Validation Engineering): Client: Intel, Bangalore July 21’2014- May 20’2015
+Part of BIOS validation team. Ramped up on BIOS source code to debug the BIOS sightings.
+Also responsible for building a power measurement capability for BIOS debug.
+Created a mind-mapping diagram of BIOs and a high-level document for doing exploratory testing of BIOS. It includes all the features in Silicon, platform and devices.
+Enabled Pre-silicon BIOS automation environment, so that the BIOS test case automation can be done in Pre-silicon environment. This work was Demo’ed in Intel Oregon Demo day.
+Worked on SGX execution and automation of test cases.
+Ramped up on PCH, ME and responsiveness test cases and worked on automation acceptance.
+Worked on developing firmware workarounds for Post silicon validation for certain bug fixes.
+Debug failing tests and then work with developers and architects to resolve bugs.
+
+Post Silicon Validation Engineer (Platform Validation Engineering): Intel, Folsom, CA August 12- October 2013
+Was part of the Memory controller Validation team. Ramped up on SOC Validation Methodologies and Memory controller debug. Familiar with DDR and LPDDR3 protocol. Worked with Pre-silicon Team for RTL bugs and closing/solving sightings. Worked on DDR debug, DDR training and PVT execution. Ran regression tests as well. Used JTAG based debug tools (ITP).
+Developed some stand-alone python scripts which will set DDRCTS triggers for various states on ACC bus.
+Worked on POWER-ON i.e. silicon bring-up and enabling.
+Debugged low-level software and hardware issues and implemented drivers and test content.
+Worked in solving bugs on memory controller and system agent.
+Worked in executing test cases on emulation platforms generation over generations and also worked on emulation development as well.
+Familiar with PCIe and Ethernet protocol.
+
+Mobile Platform Hardware Engineer (Platform Architecture): Intel, Jones Farm, OR Feb 2010 –August 2012
+Worked on Media Playback power &performance characterization and presented the findings at cross functional forums at Intel.
+Worked on third party NEC& FRESCO usb3 power & performance evaluation on Intel platforms.
+Worked in developing a bulk camera prototype in embedded C (CYPRESS Company) to showcase the power benefit.
+Worked on analyzing network (LAN & Wifi) interrupts for doing power & performance evalutions. Used protocol analyzer to analyze the network traffic. Ramped up on TCP-IP protocol.
+Developed, tested and validated a emulation platform. Validated PCIe OBFF feature on slim-river board using Greenspond FPGA. Made changes in RTL in modifying the path (PM Req and PM sync messages) using GPIO’s and with BLA tool.
+Characterized and presented HTML5 power & performance impact on Intel Platforms.
+
+Internship at Intel Corporation (Platform Architecture) Intel, Folsom, CA June 9th-2008-Jan 2010
+Worked on HD-Media Power & Performance optimizations for SKYLAKE CPU (2015). Was responsible for defining the Test-Plan & Methodologies, which laid the foundation for Architecture data and providing Proof of concept. The Architecture data in detail consists of CPU C & P-state residencies and unhalted CPU Clock cycle distribution over processes, DMI Link state residencies, DRAM Traffic (bandwidth) numbers, Platform and component Power numbers and GT & CPU overlap percentages. Conducted these experiments on Existing and next Generation Platforms with different Windows Operating Systems & various configurations of Interest and all with HD-Media Playback.
+Contributed to the efforts of showcasing power savings on the platform using READ-AHEAD driver for Blu-ray. Further validated the RA-driver on existing Platforms with different Windows OS and identified bugs which helped in optimizing the RA driver.
+Working on Audio-Input path workload characterization for Power and Performance optimizations for next generation platforms.
+Laid the foundation in majoring the initial architecture data for LPD experiments on ATOM-based Platforms. Developed Menlow & Montevina based systems for conducting Power & Performance measurements to showcase the power savings on LPD Vs HPD Platforms.
+Developed Montevina-based system to conduct DRAM compression and Partial DRAM power down experiments, to understand the CPU power and time consumed in compressing and decompressing the memory dump of one of the DIMMs.
+Developed VI’s in Labview to monitor multiple Voltage rails on Platform at a rate of 2u secs and also developed Perl scripts for post processing the data.
+Gained valuable hands-on experience with the tools like ITP, NOA Tool, LA, GPUVIEW, NETDAQ, NI-DAQ & LABVIEW,
+Xperf, Platune, SEP, Vtune and Perfmon.
+
+RECOGNITIONS:
+Received Divisional Recognition Award (Media power & performance characterization), Spontaneous Recognition Awards (3), and Spontaneous Level II Award from MPG-MPHD-APA and Kudos awards from TMG NAND Product groups at Intel.
+
+ACADEMIC PROJECT EXPERIENCE:
+
+Certification in System Verilog and UVM: Maven Silicon, Bangalore November 13- April 2014
+Got trained on System Verilog concepts and UVM methodologies. Training includes classes, labs, mini project and final project. Designed a router and verified its functionality with UVM. Also verified AXI bus with UVM as final project.
+
+Micro Computer System Architecture
+Designed a Look-Through cache system for a 32 Bit Pentium processor with 32-bit wide data bus. The cache controller is designed for 2-way set associative memory with cache size of 8KB.The cache had snooping capability and also LRU algorithm is used.
+Designed a PCI device with a master and a target and designed all the signals required for read and write transaction and performed write cycles.
+
+Hierarchical Digital Design
+Member of a three-person team that designed, simulated, and synthesized a Parallel-to-Serial interface (PSI) capable of receiving a packet data, appending start and end delimiters the packet, converting it to serial data, and transmitting it through a serial output. The PSI receives data from DMA master based on a 250MHz clock and it must transmit the serial data at a clock rate of 450 Megabits per second. Designed an internal FIFO and the size of the FIFO was carefully chosen to balance latency and size of the design.
+
+Advanced Logic Design
+Integrated SRAM and ADC on a Virtex FPGA board in such a way that the data converted by ADC is continuously collected on to the SRAM and it is verified by displaying onto the LCD. Downloaded the design onto the Virtex FPGA board using Xilinx ISE tool.
+Programmed Flash memory using a Galep programmer. The contents of the Flash memory’s data bus and addresses bus are displayed on Logic analyzer and LCD.
+Designed a sequence detector in VHDL and Verilog using Mealy and Moore state machines. Compiled and simulated the design using Xilinx ISE tool. Downloaded the simulated design onto the board and displayed the results using LEDs.
+
+Static Timing Analysis Using Prime time
+Performed Static timing analysis using prime time for best case and worst case setup and hold slacks.
+
+Advanced VLSI Design:
+Focus on CMOS processing technology, CMOS layout, CMOS circuit design and CMOS logic design. The layout editor used is L-edit. Designed a 3-bit Flash ADC using bubble suppression Logic.
+Presented a Research Paper on “Boundary Scan and JTAG”, which explains the methodology and design involved in the boundary scan testing.
+Contact this candidate

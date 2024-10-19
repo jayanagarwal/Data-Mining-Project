@@ -1,0 +1,89 @@
+Chris Romero ad8fal@r.postjobfree.com
+Senior Full-Stack Software Engineer San Jose, CA
+Machine Learning Engineer U.S. Citizen
+408-***-****
+SUMMARY
+Experienced senior full-stack web application engineer, machine learning engineer, and mathematician/R&D engineer skilled in developing intricate data-driven API-based applications with various languages, frameworks, libraries, and APIs. Development includes Python (FastAPI), Java (Spring / Spring Boot), PHP (Laravel & Codeigniter). Skilled in leveraging modern front-end frameworks and technologies such as React.js, jQuery, JavaScript, HTML, CSS, and mobile responsive frameworks. Proficient in SQL (MySQL, Postgres) as well as RESTful API development. Formal background in mathematical modeling and numerical implementation
+(scientific computing / simulation) of dynamic non-linear systems and data analysis. Previous roles include R&D engineer at Los Alamos National Lab in the Theoretical Division in the Fluid Dynamics Group (DOE cleared), computer scientist on the AI Planning-Scheduling Team working on the constraint network for the Mars Rover Mission at NASA Ames, and machine learning engineer at Makai Ocean Engineering, Azure Sky Research, and Viza Data.
+EDUCATION
+M.S. Mechanical Engineering (University of New Mexico) Emphasis: Fluid Dynamics, Continuum Mechanics, Modeling of non-linear dynamic systems B.S. Applied Mathematics (New Mexico State University) B.S. Mechanical Engineering (New Mexico State University) SOFTWARE SKILLS
+Tech-Stacks: Python, PHP, Java, JSP/Servlet.
+Front-end: Javascript, React.js, Vue.js, jQuery, Axios/AJAX, JSON, HTML, CSS, Bootstrap, Zurb Foundation. Frameworks: FastAPI, Laravel, CodeIgniter, Symfony, Spring / Spring Boot, Hibernate, Struts. APIs: Microservices, RESTful development, Paypal, Stripe, Zoom, Youtube, IEX Trading, Yahoo Finance, AlphaVantage, Facebook, Google, WeatherAPI, MapQuest, ChatGPT, more. Libraries: Charts.js, HighCharts.js, D3.js, TradingVue.js, Datatables.js Database: SQL, MySQL, Postgres, MongoDB, DynamoDB
+GITHUB https://github.com/chriscr
+MATHEMATICAL SKILLS
+Equation Based Modeling (ODE, PDE, Non-Linear, Initial Conditions, Boundary Conditions, Numerical Methods), ML / AI (Regression, Dimensionality Reduction, Ensemble, Neural Nets and Deep Learning), Time Series (Autocorrelation, Seasonality, Stationary, Moving Averages, Autoregression), Predictive Modeling, Statistical Modeling & Stochastic Processes, Monte Carlo Methods, Mathematical Programming, Computational Fluid Dynamics (Modeling & Code), Heat Transfer, Thermodynamics, Operations Research, Agent Based Modeling, Data Structures, Data Modeling & Visualization. ANALYTIC TOOLS & LIBRARIES
+Tensorflow, Pytorch, Keras, Numpy, Scipy, Pandas, SciKi, Fortran, Matlab / Octave, R, Google Colab, Jupyter Notebook.
+ENVIRONMENTS
+Windows, Linux, Git, Github, Subversion, CVS, Eclipse, PHPStorm, PyCharm, Visual Studio, Jira, Apache, Tomcat, JBoss, Jetty, Resin. Coming Up to Speed On: AWS, Docker, CI/CD Pipelines, Databricks, GraphQL. WORK EXPERIENCE - DETAILS
+Senior Full-Stack Software Engineer - The Von Wolf Group Aug 2020 - Current / Los Angeles, CA
+Responsibilities:
+1. Led the design and development of a mobile responsive web application platform catering to admin, instructors, and clients, facilitating user authentication, and dashboard utilization for live streaming video classes with payment integration.
+2. Spearheaded the project from conception to production, achieving rapid user adoption with over 5,000 users within six months.
+3. Developed React SPA authentication against backend Laravel (Sanctum) and FastAPI APIs (JWT). 4. Implemented client-facing features such as user authentication, profiles, dashboard functionalities, payment flows, and live streaming capabilities.
+5. Designed and implemented payment flows for subscriptions and class package purchases, including integration with Paypal's IPN.
+6. Built instructor-facing features including dashboards, class creation, scheduling, client tracking, class control functionalities, and transferring recorded videos to YouTube. 7. Developed administrative features including dashboards, entity tracking, reporting (HTML, PDF, Excel), and a comprehensive tracking system for primary actions. Technologies Used: PHP, Laravel, Python, FastAPI, PyPDF2, Pandas, NumPy, Matplotlib, MySQL, React.js, JavaScript, jQuery, Datatables.js, Axios/AJAX, HTML, CSS, Foundation Mobile Responsive, Paypal API, Zoom API, Youtube API.
+Machine Learning Engineer - Viza Data
+2018 - 2020 / Boston, MA
+Responsibilities:
+1. Played a pivotal role as an individual contributor in the development of the Machine Learning API, enabling remote access to the Automodeler and facilitating the generation of models from training data, enhancing efficiency in model deployment and production data scoring. 2. Designed and implemented the API as a standard REST API, utilizing HTTP status codes and JSON responses to convey success or failure.
+3. Developed Vue SPA authentication against the Python backend, ensuring secure access to the API using web tokens.
+4. Spearheaded the development of the Auto-modeler and Predictor using Python and associated libraries, leveraging the capabilities of Pytorch, Keras, Numpy, Scipy, and Pandas to deliver robust machine learning functionalities.
+5. Designed and implemented the presentation layer for results and rankings utilizing Java frameworks, seamlessly integrating with the REST API to fetch and display results to users. Technologies Used: Python, Pytorch, Keras, Numpy, Scipy, Pandas, SciKit Learn, Java, Spring, Hibernate, Tomcat, MySQL, Vue.js, JavaScript, jQuery, Datatables.js, AJAX, HTML, CSS. Senior Full-Stack Software Engineer - Brand Theory Group 2017 - 2018 / San Francisco, CA
+Responsibilities:
+1. Spearheaded the development of multiple mobile responsive web applications, overseeing the entire lifecycle from conception to production within 2-3 month cycles. 2. Designed and implemented various customer-facing features such as registration, authentication, dashboard functionalities, shopping experiences, and payment flows, optimizing user engagement and satisfaction.
+3. Engineered robust payment flows, including the integration of Paypal's IPN for seamless transaction processing, ensuring secure and efficient checkout experiences for users. 4. Developed comprehensive admin-facing features including dashboards, entity tracking, and reporting functionalities in PDF and Excel formats, facilitating efficient management of all entities. 5. Successfully delivered projects for prominent clients including fratelliorsini.com, toughgloves.com, prattandhart.com, leatherglovesonline.com, and brandtheorygroup.com. Technologies Used: PHP, Codeigniter, Laravel, MySQL, React.js, JavaScript, jQuery, Datatables.js, AJAX, HTML, CSS, Foundation Mobile Responsive, Paypal API, Stripe API. Machine Learning Engineer - Makai Ocean Engineering 2015 - 2018 / Kailua, HI
+Responsibilities:
+1. Led the development of machine learning models for multivariate time series analysis on deep sea sensor arrays, tracking various parameters crucial for oceanic research and monitoring. 2. Utilized time series decomposition techniques to gain insights into trends, stationarity, and noise within the sensor readings, enhancing the accuracy of data analysis. 3. Developed autocorrelations within array sensor readings and across arrays, enabling the identification of time lags and correlations between different parameters. 4. Implemented spectral analysis using FFTs to analyze the spectrum of sensor readings, providing valuable frequency-domain insights.
+5. Engineered classical models including autoregression, moving average, and autoregressive moving average models, as well as supervised models such as linear regression and multiple linear regression, to predict and analyze oceanic phenomena.
+6. Designed and developed deep learning models, including feed forward neural networks, to uncover complex patterns within the sensor data.
+7. Created visualization tools for both raw and processed sensor readings, facilitating intuitive data interpretation and analysis for oceanographers and researchers. Technologies Used: Java, Spring, Python, Octave, FFTs, Sensor Data. Machine Learning Engineer - Azure Sky Research
+2011 - 2015 / Oakland, CA
+Responsibilities:
+1. Spearheaded the development of a machine learning engine and application tailored for analyzing complex graphs with various logical statements (nodes) and implications (edges), aimed at quantifying
+"topic truthfulness" within the data.
+2. Utilized Java, Spring, Hibernate, and MySQL to architect and implement the machine learning engine, incorporating advanced algorithms and methodologies such as Monte Carlo methods, tautologies, and conditions to infer node depth and logical information propagation within the graph. 3. Developed the application layer, providing intuitive features for creating, editing, and managing graphs with nodes and edges carrying quantitative properties, enhancing user flexibility and interaction. 4. Designed and implemented a context layer to support high-level functionalities including adding, saving, deleting, editing, updating, and moving elements within the graph, ensuring seamless user experience and data management.
+Technologies Used: Java, Spring, Hibernate, MySQL, Javascript, jQuery, Graph-Node-Edge library, machine learning methods, Monte Carlo methods, tautologies, conditions, axiomizations. Senior Software Engineer - Ziba Group / Visa
+2007-2010 / Foster City, CA
+Responsibilities:
+1. Led the development and refactoring of components for an in-house financial reporting tool, optimizing performance and functionality for enhanced usability and efficiency. 2. Developed a new reporting tool by leveraging components from an existing tool, utilizing Java, Struts, MySQL, Javascript, HTML, CSS, Excel, and PDF technologies. 3. Redesigned and parameterized reporting input fields, streamlining user interaction by implementing a unified user interface for enhanced user experience. 4. Enhanced reporting capabilities by incorporating excel spreadsheet template upload and export functionality, empowering users with greater flexibility in data manipulation and analysis. 5. Implemented calculations for lift-shift and generated reports in HTML, PDF, and Excel formats, ensuring comprehensive reporting capabilities for users.
+Technologies Used: Java, Struts, MySQL, Javascript, HTML, CSS, Excel, PDF. E4 Software Engineer (Clearance) - Lockheed Martin (Integrated Systems & Solutions) 2004-2007 / San Jose, CA
+Responsibilities:
+1. Spearheaded the development of a backend EJB – JNI interface to legacy math models and simulation systems written in Fortran, Pascal, and C++, enabling seamless integration with the front-end dashboard platform.
+2. Implemented EJB services for accessing a Factory and its objects in a multi-threaded environment, ensuring efficient and scalable operation.
+3. Threaded objects and implemented a Java Native Interface to connect with legacy math models, facilitating interoperability between modern Java-based systems and legacy codebases. 4. Developed a timing performance measurement package to gauge EJB access time and JNI interfacing, optimizing system performance and reliability.
+5. Enhanced platform compatibility by adding OS checking for Windows and Solaris environments, ensuring proper loading of dynamic-link libraries (.dll) or shared objects (.so). 6. Designed and developed test drivers, facilitating rigorous testing and validation of system components. 7. Contributed to the development of Use Cases, Class Diagrams, and Sequence Diagrams, providing clear documentation and guidelines for system architecture and functionality. 8. Utilized Agile Methodology with daily scrums and two-week iterations, ensuring efficient collaboration and rapid development cycles.
+Technologies Used: Java, JNI, EJB, Weblogic, Oracle. Senior Software Engineer - Collaborative Server Engineering - GeoViz 2001-2004 / San Jose, CA
+Responsibilities:
+1. Led the development of a 2-tier architecture for a collaborative platform tailored for geographical collaboration in command and control scenarios, utilizing Java, Struts, Tomcat, and MySQL. 2. Implemented design patterns including the Factory Method and Façade to create and manage collaborative sessions, and broker HTTP requests to appropriate sessions, enhancing system modularity and efficiency.
+3. Engineered a collaborative platform capable of receiving XML data from various clients, maintaining client lists, source lists, and collaborative information, enabling seamless collaboration across multiple sessions on the same server.
+4. Developed an administrative tool for managing collaborative sessions, inspecting and maintaining client lists, source lists, and collaborative information, ensuring smooth operation and data management. 5. Designed and implemented a collaborative information generator to communicate directly with the server, enabling users to control collaborative information and parameters effectively. Technologies Used: Java, Struts, Tomcat, MySQL.
+Computer Scientist IV Software Synthesis & AI Scheduling Team - NASA Ames 2001 2003 / Mountain View, CA
+Responsibilities:
+1. Developed constraints and constraint networks for the Planner/Scheduler engine of the Mars Rover Mission, utilizing C/C++, MATLAB, and Simulink.
+2. Modified the Planner/Scheduler into a Heuristic Based Planner/Scheduler, enhancing its decision-making capabilities based on pre-assigned priority and statistical priority. 3. Designed and implemented a Kalman Filter decompiler for translating Simulink block diagrams into differential equations and phase variables, facilitating Kalman Filter analysis for mission-critical systems. Technologies Used: C/C++, MATLAB, Simulink.
+Senior Software Engineer Intelligence Commerce Group - Electron Economy 1999 2001 / Cupertino, CA
+Responsibilities:
+1. Led the development of optimization algorithms for Supply Chain Event Management, utilizing Java, Weblogic, and Oracle technologies.
+2. Designed and implemented an inventory management module to optimize warehouse operation costs, considering factors such as fixed cost, holding cost, and shortage cost, based on forecasted demand and predictive lead-time.
+3. Led a team in the design and development of an order management module aimed at optimizing costs related to truckload capacity and ordering from multiple suppliers/vendors. 4. Integrated the developed modules into larger supply chain and ecommerce systems, ensuring seamless operation and data flow.
+5. Developed core applications and GUI utilities for handling costs of base products from multiple vendors, enhancing operational efficiency and cost-effectiveness. 6. Created User Cases, Class Diagrams, and Sequence Diagrams to document system functionalities and architecture.
+Technologies Used: Java, Weblogic, Oracle.
+Mechanical Engineer / Modeling Consultant - G.J. Research 1996 1997 / Albuquerque, NM
+Responsibilities:
+1. Developed a gas-spring shock-absorber simulator with a user interface and graphical visualization using Java and Matlab.
+2. Designed and implemented a user interface for inputting gas and spring parameters, including the gas chamber design.
+3. Developed a calculation engine for gas dynamics, spring dynamics, heat conduction, and heat convection, ensuring accurate simulation results.
+4. Implemented initial and boundary conditions, including forced frequency on the shock absorber, to simulate real-world scenarios.
+5. Calculated heat conduction in materials over multiple cycles of gas compression and implemented internal gas equations within the gas chamber for comprehensive analysis. 6. Implemented constant airflow over the gas chamber to simulate convective heat transfer, enhancing simulation accuracy.
+Technologies Used: Java, Matlab.
+R&D Engineer (Clearance) - Los Alamos National Lab. Theoretical Division Fluid Dynamics Group (Group T-3) 1989 1999 / Los Alamos, NM
+Responsibilities:
+1. Developed mathematical models, numerical algorithms, and simulations to characterize and simulate various fluid flow phenomena including laminar and turbulent flows, compressible and incompressible flows, high-speed flows, gas dynamics, two-phase flow, aerodynamic flows, and heat transfer due to convection and conduction.
+2. Utilized Fortran and the Graphical Analysis System (GAS) for numerical computation and visualization. 3. Pioneered the development of a three-tier turbulence transport model, describing the emergence of turbulence in complex systems (spherically convergent systems) with material non-homogeneities, leading to a publication in Physics of Fluids.
+4. Researched and implemented one-point, two-point, and spectral models for describing constant density and variable density turbulence.
+5. Transformed complex partial differential equations into discretized time and space components in preparation for numerical implementation.
+6. Implemented Computational Fluid Dynamics (CFD) algorithms for 1-D, 2-D, and 3-D flows based on Navier-Stokes governing equations, addressing various fluid flow phenomena including Karman Vortex Street, Rayleigh-Taylor instability, Kelvin-Helmholtz instability, shock waves, and rarefactions. Technologies Used: Fortran, Graphical Analysis System (GAS). Mathematics Instructor - Northern New Mexico College (Math and Science Department) 1998 1999 / Espanola, NM
+Responsibilities:
+1. Taught a variety of mathematics courses including Beginning Algebra, Intermediate Algebra, College Algebra, Trigonometry, and Calculus.
+Note: Due to the nature of the role, specific technologies were not utilized.
+Contact this candidate

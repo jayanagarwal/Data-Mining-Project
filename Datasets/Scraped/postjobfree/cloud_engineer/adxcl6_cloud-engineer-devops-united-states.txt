@@ -1,0 +1,109 @@
+PRADEEP KUMAR
+adxcl6@r.postjobfree.com
++1-512-***-****
+PROFESSIONAL SUMMARY:
+● Experienced DevOps/Cloud Engineer dedicated to automation and optimization for Around 7 years, Understands and manages the space between operations and development to quickly deliver features to customers, has experience with the cloud, as well as DevOps automation development for Linux systems and Windows, brings maturity, enthusiasm, and a drive to learn new technologies along with real-world experience.
+● Experience working with Amazon Web Services (AWS) infrastructure tools and services, such as Amazon Cloud Formation, Amazon EC2, Amazon VPC, and AWS Identity and Access Management (IAM), to support and manage ECS, EKS clusters and services.
+● Experience in Implementing Azure Active Directory for single sign-on, authentication, authorization, and Azure Role- based Access Control (RBAC) and configured Azure VNets, subnets, DHCP, DNS settings, Security policies, and routing.
+● Experienced in creating and managing pipelines using Azure Data Factory, copying data, AKS, ACR, configuring data flow in and out of Azure Data Lake Stores according to technical requirements and MS Azure Cloud Architecture (MS Azure Pack (Private Cloud), PaaS and IaaS) assessments.
+● Hands on experience in Azure Development, Worked on Azure Web Application, App services, Azure Blob, Azure SQL Database, Azure Event Hub, VM’s (Virtual Machines), Fabric Controller, Azure AD, Azure DevOps, and ARM templates.
+● Experience setting up and managing ECS environments for high availability and fault tolerance, including configuring redundancy and failover for containerized applications.
+● Experience with other containerization platforms and tools, such as Kubernetes, Docker, and Docker Compose, and the ability to compare and contrast their features and capabilities with ECS.
+● Experience in writing Cloud Formation templates to automate AWS environment creation along with the ability to deploy on AWS, using build scripts (AWS CLI) and automate solutions using Shell and Python.
+● Hands on Experience in using AWS cloud services like EC2, EBS, AMI, IAM, RDS, Route 53, Cloud Front, AWS Cloud Watch, Cloud Formation, Security Groups, SQS, SNS, VPC, ELB, ECS, EKS, Elastic Beanstalk, Auto Scaling, Amazon EMR, Elastic ache, and AWS S3.
+● Experience with AWS Lambda, AWS Code Pipeline and Using Python included Boto3 to supplement automation provided by Ansible and Terraform for tasks such as encrypting EBS volumes backing AMIs and scheduling Lambda functions for routine AWS tasks.
+● Extensively used Docker for virtualization, build, run, and deploy the application securely for fastening the build/release engineering. Expertise in setting up Docker environments Docker Daemon, Docker Client, Docker Hub, Docker Registries, Docker Compose and handling multiple images by storing them in containers to deploy.
+● Experience in creating Puppet Manifests and modules to automate system operations. Worked on installation and configurations of Puppet Agent, Puppet Master and deployed Puppet Dashboard and Puppet DB for configuration management to existing infrastructure.
+● Extensively worked on Jenkins and Bamboo, Gitlab by installing, configuring, and maintaining the purpose of Continuous Integration (CI) and End-to-End automation for all build and deployments implementing CI/CD for the database using Jenkins.
+● Experience deploying and managing Kubernetes clusters using Amazon EKS, including the ability to create, configure, and launch EKS clusters, nodes, and pods.
+● Ability to collaborate with cross-functional teams, such as Developers, DevOps engineers, and infrastructure teams, to design, deploy, and manage EKS-based solutions.
+● Expertise in using build tools like Maven and ANT for the building of deployable Artifacts such as war and ear from Source Code also experienced in deploying the artifacts to Nexus Repository Manager and Artifactory.
+● Experienced in Branching, Merging, Tagging, and maintaining the version across the environments using SCM tools like GIT and SVN, perforce on UNIX and Windows environments, migrated SVN repositories to GIT and Proficient in using different Bug tracking tools like Jira and ServiceNow.
+● Experience in working on web servers like Apache and application servers like Web logic, Tomcat, WebSphere, JBoss to deploy code & deployment in DevOps through automation using scripting languages such as Golang, Shell, Bash, JSON, Groovy and Python.
+● Experience in Firewall management, OS security, scheduling job using Cron and a strong understanding of advanced network protocols like TCP/IP, UDP, IPv4, IPv4 Sub Netting, IPv6, DHCP, PXE, SSH, FTP.
+● Exposed to all aspects of the Software Development Life Cycle (SDLC) and In-depth understanding of the principles and best practices of Software Configuration Management in Agile, Scrum and waterfall methodologies.
+● Expertise in Linux/UNIX system builds, administration, Installations, Upgrades, Troubleshooting on different distributions such as Ubuntu, CentOS, Red Hat.
+TECHNICAL SKILLS:
+Cloud Platforms AWS, Azure, Oracle Cloud Infrastructure (OCI) AWS Services RDS, EC2, ECS, EKS, VPC, IAM, KMS, Cloud Formation, EBS, S3, ELB, Auto Scaling, Cloud Trial, SQS, SNS, SWF, Cloud Watch.
+Azure Services App Services, Key vault, function app, Blob storage, Azure Active Directory (Azure AD), Service Bus, Azure Container Registry (ACR) and Azure Kubernetes service
+(AKS), Azure SQL, Azure Cosmos DB.
+Scripting Python, Bash
+Configuration Management Ansible, Puppet
+Containerization Kubernetes, Docker, Pod man
+CI/CD Tools Jenkins, Ant, Maven, Bamboo, AWS Code Build, Code Deploy, Code pipeline, Argo CD, Azure Pipelines
+Code Scanning Sonar Qube, Jfrog X Ray, ECR Inspector Repository Mangers Nexus, Artifactory, Jfrog
+Monitoring and Logging Tools ELK, AWS CloudWatch, Azure Monitor, Datadog, Prometheus, Grafana Framework Django, Flask
+Database PostgreSQL, MySQL, SQL Server
+Version Control Tools Gitlab, GitHub, Bitbucket, AWS Code Commit Web Servers Nginx
+PROFESSIONAL EXPERIENCE
+McKesson Specialty Health, Virginia Nov 2021 - Present AWS/DevOps Engineer
+Responsibilities:
+● Worked on AWS S3 and IAM services, created S3 buckets, and configured them with permissions, logging, versioning, and tagging and created new IAM users and groups, defined roles, policies and identify providers.
+● Configured AWS cloud IAC using terraform and continuous deployment through Jenkins and automated the cloud formation using Terraform.
+● Worked with Terraform for automating VPC's, ELB's, Security groups, SQS queues, S3 buckets and continuing to replace the infrastructure as a code from scratch and created Terraform Scripts for EC2 instances, Elastic Load balancers and S3 buckets.
+● Wrote Ansible Playbooks with Python SSH as the Wrapper to Manage Configurations of OpenStack Nodes and Test Playbooks on AWS instances using Python.
+● Worked with Container management using Docker by writing Docker files and set up the automated build on Docker HUB and installed, configured Kubernetes. Deploying cluster on AWS with Jenkins, Docker pipeline implementation.
+● Designed multiple VPC’s and public/private subnets with required number of IP’s using CIDR blocks, Route Tables, Security groups and Elastic Load Balancer. To grant granular permissions to specific AWS Users, Groups and Roles created IAM policies. Automated AWS deployment and configuration tasks using Lambda.
+● Created Python scripts to totally automate AWS services which include web servers, ELB, Cloud Front distribution, database, EC2 and database security groups and application configuration, this script creates stacks, single servers, or joins web servers to stacks.
+● Configured AWS Route53 to manage DNS zones globally, create record sets, DNS failover and health checks of domains, assign domain names to ELB and CloudFront.
+● Assisted developers with establishing and applying appropriate branching, naming conventions using GIT source control, implemented GIT mirror for SVN repository to enable users to use both GIT and SVN.
+● Worked on integrating AWS DynamoDB using AWS Lambda to store the values the items and backup the DynamoDB streams.
+● Involved in complete cycle on migrating physical Linux/Windows machines to cloud (AWS) and configured Apache webserver in the Linux AWS Cloud environment using Chef automation.
+● Configured Docker containers by creating Docker Compose files and pushed the Docker Images onto EC2 instances from Docker-Registry to deploy the applications using both Kubernetes and Docker Swarm.
+● Created Docker Swarm using Docker CLI to Orchestrate, schedule and deploy the services to Swarm and managed the Swarm behavior and created virtual networks to connect Docker containers across multiple hosts using Docker weave.
+● Built end to end CI/CD Pipelines in Jenkins to retrieve code, compile applications, perform tests and push build artifacts to Nexus and Orchestrate changes across servers and components and configured SonarQube for code analysis in Jenkins.
+● Created, tested, and deployed an end-to-end CI/CD pipeline for various applications using Jenkins as the main Integration server for Dev, QA, Staging and Prod environments.
+● Deployed and configured Elasticsearch, Log Stash and Kibana for log analytics, full text search, application monitoring in integration with AWS Lambda and CloudWatch.
+● Served the ELK stack community with use cases and Logstash plugin and Deployed applications using Jenkins server and Troubleshoot build & release job failures, resolve, work with developers on resolution. Environment: AWS, Jenkins, Ansible, Docker, Docker Swarm, Kubernetes, Terraform, Maven, Ant, SonarQube, Packer, Python, Shell, WebLogic, DynamoDB, Windows, ELK, Git, SVN, Linux, Nexus. Hanmi Bank, Los Angeles, CA Feb 2019 – July 2021
+Azure/DevOps Engineer
+Responsibilities:
+● Configured Azure Backup Service for taking backup of Azure VM and data of on premise to Azure, built and installed servers through Azure Resource Manager (ARM) templates or Azure Portal.
+● Worked in migrating on-premises applications to Azure.
+● Performed PowerShell scripting to do Patching, Imaging, and Deployments in Azure.
+● Used Azure Terraform to deploy the Azure infrastructure necessary to create development, test, and production environments for a software development project.
+● Worked with Ansible for Orchestration of Deployments for various servers and managed Ansible Playbooks with Ansible modules, implemented CD automation using Ansible, also involved in managing existing Tomcat Webserver and automated the configuration of new servers.
+● Major focus on Configuration, SCM, Build/Release Management, Infrastructure as a code (IAC) and as Azure DevOps operations Production and cross platform environments.
+● Involved in configuring continuous integration (CI) from source control, setting up build definition within Visual Studio Team Services (VSTS) and configure continuous delivery (CD) to automate the deployment of ASP.NET MVC applications to Azure web apps.
+● Used Kubernetes to manage containerized applications using its nodes, Config-Maps, selector, Services, and deployed application containers as Pods.
+● Deployed Azure IaaS virtual machines and Cloud services (PaaS role instances) into secure Virtual Networks and subnets. Designed and configured Azure Virtual Networks, subnets, DHCP address blocks, Azure network settings, DNS settings, security policies and routing.
+● Implemented auto environment creation using ansible and Azure.
+● Developed PowerShell scripts to automate the project creation, setting permissions for users, groups in TFS.
+● Analyze, troubleshooting, and resolve RedHat Linux and Server HW, Network problems in a Production Server environment.
+● Worked on Docker container snapshots, attaching to a running container, removing images, managing directory structures, and managing containers.
+● Included Vulnerability Detection as part of the CI/CD workflow using Azure Pipelines, SonarQube Quality Gates. Installed Azure DevOps for GIT Repository, Setup SCM Polling for Immediate Build with Maven and Maven Repository (Nexus Arti factory).
+● Maintained the GIT source repositories and builds. Build tool, Maven used it on Java projects for the development of build artifacts on the source code.
+● Defined and managed release planning and branching strategy of GIT servers. Also, helped educate engineering community on the appropriate use of GIT.
+Environment: Azure, Terraform, Ansible, Shell, Python, Linux, Maven, My SQL, Jenkins, Apache Tomcat 7.x, Docker, Virtualization, Kubernetes, ELK, LDAP, JDK1.7, XML, Git. Trigyn technologies, Mumbai, India Nov 2016 – Jan 2019 DevOps Engineer/AWS Developer
+Responsibilities:
+● Involved in DevOps migration/automation processes for build and deploy systems.
+● Consulted and recommended client in Build and Release Management Implementation.
+● Used SCM/Build tools for Developers. Helping to resolve all SCM/Builds issues like merge conflicts, compilation errors, missing dependencies, Branching/Merging/Tagging.
+● Automated using Ansible, Python, and shell scripting with attention to detail, standardization, processes and policies.
+● Worked in an agile development team to deliver an end-to-end continuous integration/continuous delivery (CI/CD) product in an open-source environment using tools like Puppet, Jenkins.
+● Involved in writing Puppet manifests and modules to automate the deployment process and to integrating Puppet manifests into Jenkins jobs for a continuous delivery (CD) framework.
+● Configured and monitored distributed and multi-platform servers using chef.
+● Setup and build AWS infrastructure using various resources, VPC EC2, RDB, S3, IAM, EBS, Security Group, Auto Scaling, SES, SNS and RDS in Cloud Formation yaml templates, Route53, Lambda.
+● Worked on AWS for deploying EC2 instances consisting of various flavors viz., Oracle Linux, RHEL, CentOS, Ubuntu and Solaris in both Linux and Windows.
+● Created a fully automated CI/CD process. Automated Build and Deployment Platform and coordinating code build promotions and orchestrated deployments using Jenkins/Hudson and GitHub.
+● Build Java code on to different Jenkins servers as per the schedule.
+● Installed Nexus repository tool to maintain the artifacts/dependencies jars.
+● Involved in development of test environment on Docker containers and configuring the Docker containers using Kubernetes.
+● Deploy code updates into test and production environments and work to roll environments forward
+● Knowledge of Splunk content development with the ability to create queries and dashboards.
+● Maintained and managed assigned systems, Splunk related issues and administrators. Environment: Java, Maven, ANT, Gradle, groovy, GIT, SVN, Puppet, Jenkins, Ruby, Splunk, JMeter, Tomcat, Sonar Qube, Bugzilla, Shell and Perl Scripts, Ansible, PowerShell, Nexus. Intex Technologies, India Jan 2016 – Oct 2016
+Linux Administrator,
+Responsibilities:
+● Created and maintained user accounts in Redhat Enterprise Linux (RHEL)and other operating systems.
+● Troubleshooting and maintaining of TCP/IP, Apache HTTP/HTTPS, SMTP and DNS applications.
+● Configuration of NIS, DNS, NFS, SAMBA, SENDMAIL, LDAP, TCP/IP, Send Mail, FTP, Remote access Apache Services on Linux & UNIX Environment.
+● Migrated different projects from Perforce to SVN
+● Diagnosed and resolved problems associated with DNS, DHCP, VPN, NFS, and Apache.
+● Created Bash/shell scripts to monitor system resources and system maintenance.
+● Installed and monitored Splunk Forwarders on Windows, UNIX, and LINUX servers.
+● Used XML, Advanced XML and Search Processing language (SPL) for creating Dashboards, views, alerts, reports and saved searches.
+● Responsible for the basic administration tasks related to LDAP and WebSphere Portal.
+● Worked in Server builds and automating the provision of OS by using Jumpstart for Solaris and Kickstart for Redhat
+(RHEL).
+● Installed and configured servers using Redhat Linux Kickstart method.
+● Worked in remote access and application virtualization technologies such as XEN, VMware, ESX, ESXi, etc on Linux. Environment: RHEL, Windows, Shell Script, VMware servers, XEN, ESX, ESXi, WebSphere, Perforce, Splunk Enterprise Server 5.x,SVN, Windows 2003 server, Kick Start, Solaris.
+Contact this candidate

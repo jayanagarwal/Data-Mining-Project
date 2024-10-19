@@ -1,0 +1,118 @@
+Bhanu Reddy Cloud Engineer advykx@r.postjobfree.com +1-647-***-****
+
+: SUMMARY :
+
+1.Azure Cloud Engineer with 6+ years of experience in System Design, Deployment & Cloud Implementations, Development, Analysis, and Implementation using Microsoft Technologies for enterprise applications.
+2.Experience with Azure Cloud Services (PaaS & IaaS), Azure Storage, SQL, Azure Active Directory, Application Insights, and Logic Apps.
+3.Experience deploying Infrastructure as Code (IoC) applications using ARM Template (JSON).
+4.Utilized Kubernetes service to deploy a managed Kubernetes cluster in Azure and created an AKS cluster in the Azure portal.
+5.Worked with ARM templates and scripts using Azure PowerShell during Automation and Build Process.
+6.Configured VMs in Availability Sets using Azure Portal to provide resiliency for IaaS based solution and scale sets using Azure Resource Manager to manage network traffic.
+7.Experience in Designing ARM Template and extensive experience in designing custom build steps using PowerShell.
+8.Experienced with VMs, Cloud and App Services, Web Application Gateway, Storage and Networking services in Microsoft Azure and CloudFormation, CloudFront, Cloud Watch.
+9.Extensive experience using MAVEN and ANT as build tools for the building of deployable artifacts from source code.
+10.Experienced with automation tools like Terraform, CloudFormation and ARM template.
+11.Extensively worked on Jenkins and Bamboo for continuous integration (CI) and for End-to-End automation for all build and deployments.
+
+: TECHNICAL SKILLS :
+
+1.Operating System : UNIX, LINUX, Windows, Mac OS.
+2.Cloud Environments : Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
+3.Scripting Languages : PowerShell scripting, Python.
+4.Ticketing Tool : JIRA, ITServiceNow portal, Azure Boards
+5.Version Control Tools : Git, GitHub
+6.Build Tools : Ant, Maven, MS Build
+7.Config management Tools : Ansible, Chef, Puppet.
+8.Web/ Application Servers : Apache Tomcat, JBOSS, Web sphere, Web logic.
+9.SCM Tools : AzureDevops, Team Foundation Server (TFS).
+10.Automation Tools : Terraform, CloudFormation, ARM Templates
+11.SDLC : Agile & Waterfall Methodologies.
+12.Platforms : Linux and Windows family
+13.CI/CD tools : Bamboo, Jenkins, AzureDevops
+14.Monitoring Tools : Azure Monitoring Service, Newrelic, Grafana, Splunk.
+15.Azure : ARM, Automate Deployments, PaaS, IaaS
+
+: WORK PROFILE :
+
+Cibc Banking, Toronto, Canada. Jan/2022-Present
+
+Cloud Engineer
+
+1.Involved in Planning, Solutioning, Architecting and Implementation for the whole Infrastructure.
+2.Led the migration of on-premise workloads to Azure cloud, resulting in reduction in infrastructure costs.
+3.Designing and implementing a scalable, highly available, and secure Azure infrastructure.
+4.Automated the deployment of virtual machines and services using ARM templates and PowerShell scripting.
+5.Improved disaster recovery time through the implementation of Azure Site Recovery and Backup services.
+6.Implemented continuous integration and deployment pipelines using Azure DevOps.
+7.Deployed and managed virtual machines and services on Azure.
+8.Designed and implemented infrastructure as code (IaC) using ARM Templates and Terraform.
+9.Improved application reliability and scalability through the implementation of auto-scaling and load balancing.
+10.Worked on multiple projects including migrating on-premise workloads to Azure, designing and implementing scalable and secure cloud infrastructure, automating deployment, optimizing cloud costs, and improving disaster recovery.
+11.Design and configure Virtual Networks (Vnets), Subnets, Network Security Groups(NSGs), Route tables(UDRs) and Virtual Network Peerings to onPrem and within Azure Cloud.
+12.Deploying Azure VM’s, Keyvaults, Azure Storage Accounts, Azure Data Lake Storage, SQL Managed Instances, Data Bricks, Load Balancers, Vnets, Nsgs, Udr etc..,
+13.Involved in troubleshooting the connection issues between OnPrem and Azure Services, working with other teams, such as security and network teams, to resolve issues.
+14.Worked closely with other teams, such as development teams, project managers, security teams, and network administrators, to ensure that cloud solutions meet business needs and requirements.
+15.Participated in project planning and scoping sessions to ensure that cloud solutions are aligned with business objectives and technical requirements.
+16.Reviewing and providing feedback on infrastructure design documents, including network diagrams, security plans, and disaster recovery plans.
+17.Providing technical support and guidance to development teams during the application development and deployment process.
+18.Sharing knowledge and best practices with other teams to improve overall cloud competency and expertise.
+19.Collaborating effectively with other teams, to ensure that cloud solutions are integrated, scalable, secure, and aligned with business needs and help to improve the overall quality and reliability of cloud infrastructure and services.
+
+Environments : Azure migration, Cloud deployment, Network security, Infrastructure design, Cloud cost optimization, Virtual machine management, Disaster recovery, Azure Resource Manager (ARM) templates, PowerShell, Bash Scripting, DevOps practices, SSMS, Azure CI/CD, Azure artifacts, Git, SQL, Kubernetes, AAD groups, Azure Devops, CI/CD, Rbac, IAM.
+
+Scotia Bank, Toronto, Canada. June/2019-Dec/2021
+
+Cloud Engineer
+1.Involved in Planning, Architecting, Implementing the Security and Disaster Recovery processes for infrastructure.
+2.Used Azure artifacts for storing the build artifacts where versioning is solid and accurate, also used JFROG artifactory for storing Docker images.
+3.Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing.
+4.Setup security groups in VPC to manage the inbound and outbound traffic where all the rules get evaluated.
+5.Configuring and Controlling the Scale Up and Scale Out of the App Service Plans and Pricing tier (scale DTUs) while migrating the Databases and Applications from on-premises to Azure Cloud Platform.
+6.Integrating Azure Active Directory for user authentication/authorization and organization profiles.
+7.Implemented Azure DevOps Pipelines for CI/CD setup, deployed applications automatically by enabling the triggers to deploy.
+8.Migrate Database Services from on-premises to Azure Cloud Environments using DMA and SSMS, updating the connection strings, collaborating with development and QA teams to maintain high-quality deployment.
+9.Setup Network ACL’s on VPC which blocks the inbound and outbound explicitly.
+10.Setup VPC peering between 2 different VPC’s.
+11.Created ARM template to join VM to existing domains, Create a sandbox setup of Azure Firewall with Zones.
+12.Configured IAM policies to create users, roles and groups and gave access to users-based roles in a team.
+13.Implemented Security, Auto Scaling, Disaster Recovery and Monitoring.
+14.Configured Internet facing load balancers and Internal load balancers.
+15.Worked on ARM templates to automate the provisioning and deployment process
+16.Configured DNS with Route53 to route users to internet-based applications by using Hosted Zones. Restrict the users to route to their application with Private Hosted Zones.
+17.Deployed application secrets and sensitive configuration data like tokens, passwords, certificates, encryption keys etc., into AWS Secrets Manager.
+18.Integrated JMeter Performance Testing into the release pipeline so that every build after it is deployed into DEV, UAT, or PROD it will do a performance test automatically. Depending on the threshold that I set up, it will check and break the release if the performance is below threshold value.
+19.Updated runbooks, tools, and documentation to help prepare on-call teams for future incidents.
+20.Worked on System and application Monitoring setup with Icinga, Newrelic, Grafana etc.
+21.Worked on Azure Site Recovery, PowerShell Scripts and ARM templates.
+
+Environments : Azure CI/CD, Azure artifacts, AWS, S3, Cloud Watch, Kibana, API Gateway, Terraform, AKS, Ansible, Docker, Git, Jenkins, CI/CD, Azure Devops, Keyvault, AAD groups, Log analytics, Azure Monitor, ACS, Service principals, AWS, PowerShell, Python, Bash, Shell, Kubernetes, Docker, Ansible Tower, Splunk, SQL, ARM Templates
+
+HFDC Bank, Banglore, India. May/2016 - April/2019
+
+Cloud DevOps Engineer
+1.Setup logs streaming into Kibana and setup indexes to search for application logs when there is an issue.
+2.Configured VMs in Availability Sets using Azure Portal to provide resiliency for IaaS based solution and scale sets using Azure Resource Manager to manage network traffic.
+3.Implemented CI/CD builds and releases of our software and infrastructure and Monitoring and alerting of our production environment.
+4.Enabled developers with good practices and helped with containerization efforts for production systems.
+5.Setup API gateway for services and included a load balancer and add an entry in F5 pointing to our API gateway since some of env’s are publicly accessible.
+6.Created docker images and stored under ACR and deployed the build artifacts and docker images onto AKS as a container service with ARM template where infrastructure is provisioned automatically with ARM template.
+7.Created AKS cluster with advanced networking where It makes Pods first class citizens in our network with Azure CNI, Every Pod will get an Ip address from the Virtual Network.
+8.Created external and internal ASE in azure which is a deployment of Azure App Service into a subnet in an Azure virtual network (VNet).
+9.Internal ASE is deployed into a private subnet within our private VNET which will allow access to the app service internally.
+10.Created AKS clusters with basic and advanced networking where Basic Networking Model Called Kubenet which is default configuration when creating an AKS cluster and k8s cluster is separate from Azure network and on-prem network Suitable if you are deploying in an Isolated Environment.
+11.Collaborated with cross functional teams (firewall team, database team, application team) in execution of this project.
+12.Added Azure CDN to an Azure App Service web app and Accessed storage blobs using an Azure CDN custom domain over HTTPS.
+13.Integrated our ILB App Service Environment with the Azure Application Gateway.
+14.Enable customers to elastically scale throughput and storage based on demand, globally with Azure Cosmos DB.
+15.Used Ansible to Remediate faster-automating actions like blacklisting attacking IP addresses or domains, whitelisting non-threatening traffic, or isolating suspicious workloads for further investigation.
+16.Created AKS internal load balancers and external load balancers to communicate the traffic between the pods internally and externally.
+17.Migrate TFS CI/CD pipeline into AzureDevops pipeline and restore the artifacts into azure artifacts.
+
+Environments : Azure CI/CD, Jenkins, TFS, Bitbucket, Kafka, Fargate, Newrelic, AppDynamics, Azure artifacts, AWS, S3, Cloud Watch, Kibana, API Gateway, ECS, Fargate, Terraform, AKS, Ansible, Docker, Git, Jenkins, CI/CD, Azure Devops, Keyvault, AAD groups, Azure Monitor, ACS, Service principals, AWS, PowerShell, Python, Bash, Shell, Kubernetes, Docker Compose, Docker Swarm, Ansible Tower, Splunk, Sensu, SQL.
+
+: EDUCATION :
+
+Post-Graduation in Internet Programming and Database Management – Ontario, Canada.
+
+*References available upon request.
+Contact this candidate

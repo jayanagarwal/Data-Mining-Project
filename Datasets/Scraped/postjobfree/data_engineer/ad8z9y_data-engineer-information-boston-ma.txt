@@ -1,0 +1,27 @@
+Harshada Bagal
+Boston, MA 914-***-**** ad8z9y@r.postjobfree.com linkedin.com/in/harshadabagal github.com/harshadaabagal Education
+Northeastern University Sep 2022 - Dec 2024 (Expected) Master of Science in Information Systems Boston, MA Vishwakarma Institute of Technology Aug 2017 - Oct 2020 Bachelor of Technology in Computer Engineering Pune, India Professional Experience
+Data Engineer Co-op – Global Infrastructure Partners – New York, NY Jul 2023 - Dec 2023
+• Designed and implemented a dimensional data model in Snowflake for investor reporting and orchestrated an ETL pipeline to transfer data from AWS S3 to Snowflake, enhancing query performance by 25%
+• Implemented a data integration solution with AWS Glue and Python, integrating financial data from AWS S3 into Amazon RDS, and leveraged Athena for real-time analysis, boosting efficiency by 30%
+• Authored and optimized 20+ SQL scripts in AWS Redshift (using window functions, CTEs, and joins), employed partitioning and indexing strategies that reduced query runtimes from 15 minutes to under 5 minutes
+• Built a series of Tableau dashboards to assist 5 portfolio managers in tracking key metrics such as portfolio valuation, facilitating data-driven decisions and reducing reporting errors by 20% Data Engineer – Aress Softwares – Nashik, India Sep 2020 - Jun 2022
+• Developed a Python-based ELT web scraping solution to extract 25K+ EHS incident reports, stored them on Cloud Storage, and performed analysis in Databricks using PySpark, delivering actionable insights to stakeholders
+• Collaborated with cross-functional agile teams, including business SMEs and data architects, to migrate an on-premises MySQL relational database to Google Cloud SQL, reducing infrastructure costs by 32%
+• Successfully developed serverless pipelines in Google Cloud Platform (Dataflow, Cloud Functions) to efficiently move structured, semi-structured, and unstructured data from multiple sources to BigQuery, achieving 27% faster analytics
+• Led a team of 3 developers in resolving and documenting 50+ data quality issues through detailed root cause analysis, implementing validation checks and cleansing processes, which improved data accuracy from 80% to 90% Academic Projects
+IMDB Data Modeling Python, Tableau, Power BI, Talend, Alteryx, ER/Studio June 2024
+• Devised star schema with 6 fact and 19 dimension tables in Talend, ensuring 100% referential integrity across schema
+• Accomplished data profiling on 50K records in Alteryx and queried business questions in SQL as part of a sanity check
+• Executed an ETL workflow in Talend to load 30+ tables in a scheduled manner and visualized data in Power BI Market Data Stream Python, REST API, S3, Glue, Athena, Lambda, Apache Kafka December 2023
+• Formulated a real-time data processing pipeline to ingest 2,000+ records per day from REST API into Kafka on EC2
+• Managed Kafka cluster for data gathering, storing, and initial analysis, ensuring efficient processing and throughput
+• Deployed Airflow DAGs for data distribution to S3, employing AWS Glue and Crawler for querying 2TB of data Movie Recommendation Platform Azure Databricks, Azure Data Factory, PySpark ML, Logic Apps October 2023
+• Constructed data pipeline in Blob Storage, Azure Data Factory, and Azure Databricks to handle 20K+ movie records
+• Crafted a filtering recommendation system with PySpark ML on Azure Databricks, achieving RMSE of 0.814
+• Automated workflows with Azure Logic Apps and Azure Key Vault for secure integration and movie data processing VoteWave Tracker Python, Kafka, Spark Streaming, Postgres, Streamlit, Docker, Airflow March 2023
+• Dockerized a scalable election voting system and orchestrated 2+ Kafka topics, enhancing data streaming efficiency
+• Created data processing workflows with Python scripts to manage data ingestion, processing 60+ votes per second
+• Engineered a Streamlit app to visualize election trends, integrating Kafka streams and Postgres data for insights Technical Skills
+Languages: Java, Python, SQL, PySpark, Spark SQL, HTML, CSS Databases: MySQL, Microsoft SQL Server, NoSQL, Snowflake, MongoDB, PostgreSQL Analytical Tools: Power BI, Tableau, Looker, MS Excel, Salesforce ETL Tools: Talend, Alteryx, Google Cloud Dataflow, Google Cloud Data Fusion, Azure Data Factory GCP Cloud Services: Cloud Dataproc, Cloud SQL, Cloud Composer/Airflow, Cloud Pub/Sub, BigQuery, Cloud Shell AWS Cloud Services: EC2, S3, Athena, Glue, RDS, Redshift, Lambda, Quicksight, IAM Big Data: Databricks, Apache Spark, Apache Hive, Apache Kafka, Apache Airflow Other Tools: Docker, Kubernetes, Git, CI/CD (Continuous Integration/Continuous Deployment), Jupyter Notebook Certifications: Google Certified Data Analytics Professional, Alteryx Designer Core Micro-Credential
+Contact this candidate

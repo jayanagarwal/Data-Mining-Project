@@ -1,0 +1,51 @@
+Ishan B. Vaidya MSEE
+Tampa, FL ***** • 312-***-**** • ac38mt@r.postjobfree.com • www.linkedin.com/in/ishan-vaidya-577b28a1
+
+Qualifications Profile
+Dedicated and knowledgeable young technical professional with recently completed Master of Science in Electrical Engineering degree. Highly prepared to join the development team to design and build software, firmware, and systems to solve functional challenges.
+Resourceful, with the talent for identifying, designing and implementing innovative solutions that integrate electronic and mechanical systems, software, firmware, RTOS and robotics.
+Proficient at writing code, and programming to create, fix and upgrade applications.
+Experienced at projects to create specialized applications, hardware systems and interfaces for specific purposes, including a robotic vehicular traffic-control system, and a treadmill that links health monitoring to mechanical controls to ensure safe operation.
+Strong interpersonal skills. A collaborative worker, with proven ability to lead teams on projects.
+Adept at all phases of projects, from requirements through development, testing, and quality assurance.
+Core Technologies
+Hardware Languages:
+VHDL, System Verilog
+Synthesis/Simulation:
+Cadence, Xilinx ISE Synthesis Tool, Adept (Digilant), AutoCAD
+Programming Software & Languages:
+MPLAB IDE(XC8), AVR studio, eclipse, Assembly, C, C++, Embedded C
+Communications Protocols:
+UART, SPI, I2C
+
+Professional Experience
+University of South Florida, Tampa, FL
+MS in Electrical Engineering Candidate, 2016 –2017
+Conducted comprehensive studies and developed projects in electrical engineering with the orientation to firmware development, as a full-time graduate student. Created prototypes and simulations with practical applications, individually and as member and leader of teams.
+Key Projects
+Platooning & Coupling of Line-Follower Robots - Engineered an embedded-systems project and robotic demonstration of a method to avert congestion on highways, utilizing a PIC microcontroller. Created a line-following mechanism representing vehicles moving at a constant speed. To keep the traffic moving smoothly, vehicles are automatically coupled by an electromagnet when the distance between them is less than a specified value. Vehicles contained LED sensors and ultra-sonic distance sensors (HC-SR04), and a Bluetooth (HC-05) communication system, Distance to adjacent vehicles was displayed continuously on LCD, with I2C protocol. The motors were driven using L293D driver.
+FPGA Based Remote System for Temperature Monitoring using Bluetooth. Member of a team that developed a system to display data sent serially from Maxim DS18B20 temperature sensors onto a computer screen. Sensors sent data to Spartan 6 board FPGA. The VHDL code was synthesized with XILINX ISE 13.4 and Digilant Adept configuration software. Manipulated data was transferred serially to Bluetooth interface module (PmodBT2) using UART protocol to transfer it wirelessly to a personal computer.
+32x32-Bit Multiplier. Simulated a VHDL program CLA. Calculated product component bits with AND2. Utilized XOR3 and MAJ (majority function) to calculate the sum and the carry output of the full adders at each row of the shifted product component table. Calculated the sum and carry outputs at each stage of the ripple adder implemented after the final row.
+32-Bit Carry Look-Ahead Adder. Created VHDL program to multiply two binary numbers using structural and behavioral approach. Designed standard cells using STMicroelectronics 65nm standard to calculate delay, Instantiated components to build each hierarchical level of the design. When tested with the different set of inputs, the sum out was obtained after different delay values. Bit carry out was obtained after a delay of the same value for all set of inputs.
+
+Babaria Institute of Technology and Science, Vadodara, Gujarat, India
+BE in Electrical Engineering Undergraduate Student, 2010 –2014
+Pursued undergraduate studies in electrical engineering on a full time basis.
+Key Project
+Heart-Rate Controlled Treadmill. Modified an exercise treadmill to reduce speed by 25% whenever the heart rate of the user rises beyond 100 beats per minute, to minimize the risk of cardiac arrest. Utilized IR LED sensor to constantly monitor the heart rate, and feed data to ATMega 16 microcontroller, PWM input is passed to MOSFET motor driver (Infineon D2PAK), which reduces the speed of the machine by a predefined value.
+
+Schneider Electric India Private Limited, Vadodara, India
+Quality Control Intern (2013)
+Conducted tests of make-and-break switches in the component assembly plant. Compiled and analyzed results and presented a report on conclusions.
+Key Project
+Identified and solved an issue of higher failure rates of manual switches on certain work shifts. Researched possible causes, and identified physical factors of hand-size of workers assembling very small components. Findings prompted adjustment in workforce assignments.
+
+Education
+Master of Science in Electrical Engineering, IC Technology (2017)
+University of South Florida, Tampa, FL
+GPA: 3.6/4.0
+Coursework: Introduction to VHDL, Rapid System Prototyping (FPGA), System on a Chip, IC Technology, Advanced IC Technology, Embedded Systems
+Bachelor of Engineering in Electrical Engineering, Electrical Engineering (2014)
+Babaria Institute of Technology and Science, India
+GPA: 3.68/4.01
+Contact this candidate

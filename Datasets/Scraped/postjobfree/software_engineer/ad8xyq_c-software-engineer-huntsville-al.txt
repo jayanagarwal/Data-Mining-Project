@@ -1,0 +1,151 @@
+Robert J. Freeman
+Phone: 256-***-****
+
+AREAS OF SPECIALIZATION
+RF design, evaluation and testing of communication electronics
+Evaluation and testing of analog and digital avionics
+Programming of micro controllers, PICs, and PLDs
+Programming and control of electronic instrumentation for automated Test and evaluation
+Development of instrumentation control and data acquisition software in C, C++, C#
+Experienced in the following software languages and software tools:
+oVisual C++ 6.0, C#.Net, Java, Visual Basic.Net, Python
+oVHDL, Verilog, Intel QuartusPrime, ModelSim, AMD Vivado
+oPSPICE, MATLAB, MATHCAD,
+oRF Simulation program software.
+
+WORK HISTORY
+Davidson Technologies, Huntsville Alabama. 2020-2024
+Senior Electrical Design Engineer supporting Boeing GMD
+Perform analysis to ensure that the upgraded GMD Ground System (GS) hardware meets all specified requirements, including generation of objective evidence in support of product Critical Design Reviews (CDRs)
+Primary software developer for on-going upgrade of three Special Test Equipment (STE) systems supporting Interceptor Production and Test, including software/hardware interface.
+Authored checkout test procedure for Electronic In-Flight Disconnect (IFD) system, which electrically simulates GBI separation events in the GMD Development and Integration Lab (GDIL), the programs highest fidelity hardware-in-the-loop test lab.
+
+Leonardo Electronics, Huntsville Alabama. 2019-2020
+RF/Radar Systems Engineer
+Provide product support for radar deception jamming devices using up-to-date knowledge of modern radar emitters along with applicable jamming techniques
+Apply an Electronic Counter Measure (ECM) jamming techniques via the jammer’s programmable application software requiring the understanding of digital signal processing techniques at the radar receiver
+
+SCI/SAMINA in Huntsville Alabama. 2018 - 2019
+Embedded Software Engineer, Electronic Engineer, and Test Engineer
+Develop and execute automated acceptance testing for the communication system product line.
+Troubleshoot, redesign and correct existing hardware problems.
+Maintain and revise existing software.
+Knowledge base includes
+oC++ embedded software programming
+oIn depth understanding of digital and analog communication systems along with high speed digital busses.
+oAutomated software test of manufactured electronic hardware performed to certify hardware is functioning and deliverable to customer.
+oResponsible for the design of automated test fixtures and measurement station solutions, as well as test software (embedded or running on host computer) as part of the automated test development process.
+Completed Test Requirements Document (TRD) for testing frequency agile digital radio network communication system for U.S Army aircraft communications. Designed factory acceptance test fixture (PIC processor controlled) to test radio communication system.
+Completed electrical design of acceptance test fixture (PIC32 processor controlled). Currently working on embedded PIC32 hardware.
+Completed analysis of digital modulator, DDS (direct digital synthesizer), for transmitter. worked on down converter and digital IF analysis.
+Completed electrical design and evaluation of board level test fixture.
+Currently assisting station software engineer in developing calibration routines for board level and module level testing.
+
+Lockheed Martin Corp., Orlando, Fl 2004 - 2018
+Systems Integration and Test Engineer (Staff)
+Design test fixtures and adapters for automated test.
+Develop automated test software for LMSTAR avionics test and measurement instruments.
+Software Engineer (Staff)
+Provide technical support and analysis to solving LMSTAR customer hardware and software problems. This includes automated measurement support of production electronics so customers can better utilize the LMSTAR ATE development environment.
+Test, evaluate, troubleshoot and repair electronic measurement equipment as part of automated test systems for aircraft avionic equipment.
+Development of system software in C++ for F22 Avionics ATS (Automated Test System). These software layers provided the support handler and instrument driver wrapper software
+Electronic Engineer (Staff)
+Development of diagnostic software in LabView to perform functional testing and diagnostic evaluation of RF hybrid assemblies for space applications.
+These assemblies included RF/IF signal processing hardware for operation in the microwave region.
+Job entailed circuit analysis using measured s-parameter data
+Electronic Engineer (Staff)
+Development of Automated Test (ATE) software and hardware to perform functional testing and diagnostic evaluation of electronic assemblies within aircraft radar sets
+These assemblies included RF/IF amplifiers, VCO’s, hybrid splitters and delay lines, and multistage log/video amplifiers, and aircraft antenna system (ALQ 142)
+Job entails extensive circuit analysis and performing component failure analysis predictions
+Software tools such as PSPICE, MATHCAD, and Microsoft EXCEL were used to perform these tasks
+ATE software modules were written to control measurement electronics and command avionic hardware
+
+Lockheed Martin Corp., Ft. Worth, TX (10/03 – 2004)
+Electronic Engineer
+Integration of Advanced IFF avionics unit with ATE software program
+Job involved troubleshooting and evaluation of RF hardware and writing software patches to produce an end-to-end performance test for the F16 CIT (Combined Interrogator Transponder)
+Knowledge of RF avionic equipment utilizing PPM (pulse position modulation) and IFF transponder modes of operation was required develop CIT control software
+Integration of F2 aircraft Radar Altimeter unit with ATE software program on F2 specific test platform. This task involved knowledge of swept CW altimeter techniques and aircraft 1553 bus hardware and software. Troubleshooting and evaluation of test interface test hardware was also performed.
+
+Northrop Grumman Corporation, Rolling Meadows, IL (2003) Sr. Embedded Software Test Engineer / Contract
+Develop instrument databases for test language compiler and CEM (CIIL Emulation Module) layer interface software in C++
+CEM layer captures native messages from test language object modules and translates them into instrument commands that can be understood by modern instrument drivers
+The device database simulates the legacy test platform that the test language program was originally developed for
+COM objects written in C++ provide the interface for the RPC (remote procedure call) that enables the link between the VXI based instrument bay, that hosts the CEM layer and compiler, and the DEC alpha computer that drives the host test platform instrumentation
+Program was developed for the U.S Navy to allow older ATE software to run on top of a newer more up to date test platform
+CEM layer software instantiates a COM server object interface used as a stub to communicate with host platform instrument API
+CEM layer software also obtains CEM KERNEL DATAUM pointers to obtain test language nouns, verbs and modifiers to parse currently executing test language command primitives and data in order to setup test platform instruments correctly
+Validation test cases were developed to show that “wrapper” called CEM functions are called correctly and in the right order
+
+DME Corporation, Tinker AFB, Oklahoma City, OK (2001 - 2002) RF/ATE Engineer
+Design and develop ATE (Automatic Test Equipment) hardware and software for diagnostic testing and evaluation of the B2 Bomber Radar Transmitter.
+Hardware included microwave amplifier and isolator, 1553 Bus interface and signal conditioning circuitry residing in Personality Module
+ATE software development is in HP VEE (visual engineering environment) along with a Teradyne L200 language interface
+Design and develop ATE (Automatic Test Equipment) hardware and software for diagnostic testing and evaluation of the B2 Bomber IFF Radar Transponder.
+Hardware design included L band duplexer, pin diode modulator, directional couplers and pulse detectors residing, in the Personality Module, to facilitate interrogations of both antenna ports and capture coded transponder replies
+ATE software development is in HP VEE along with a Teradyne L200 language interface
+
+Boeing Company, Marshal Space Flight Center Huntsville, AL (1999-2001) Electrical Engineer
+Responsible engineer for the video digitization and compression circuit card (VDCC)
+Involved specification and Acceptance Testing development, integrating the CCA into the end item (Rack Interface Controller) for the U.S. Space Lab
+Board evaluation and circuit analysis was performed to ensure sub-contractor was developing the VDCC to Boeing specifications
+Software development in C++ was required for capturing data streams at system level
+Responsible engineer for the audio video digitization circuit card (AVDCC)
+Required modification of the VDCC to incorporate audio compression by DSP using a SHARC digital signal processor
+Specification and Acceptance Testing development along with end item integration was also part of duties and responsibilities
+Effort included integration and testing of MPEG stream analyzer software with audio/video hardware
+Assist in development effort to build and integrate a computer controlled test set for Rack Interface Controller (RIC) module for the U.S. Space Station
+End item to be integrated with the test set is a communication control and switching center that handles analog and digital video
+Compressed video is made available on a 10 Base-T Ethernet Bus in MPEG-2 format
+Other data communication ports include a high rate data link (HRDL) and optical pulse frequency modulated (PFM).
+Development of up-screening and testing spec for High Rate Data Link transmitter
+This microcircuit provided the interface between the host microprocessor and the fiber optic output bus
+
+Advanced Electronics Company, King Khalid Industrial Estate Riyadh, K.S.A. (1991-1998) Sr. Electrical Engineer
+Design and development of ATE Software and hardware to support manufacturing of military electronic equipment
+Includes product evaluation and troubleshooting, development of product test specifications and acceptance testing requirements
+Development of proprietary bus controller software in C++ to command M1A1 tank LRU to receive setup data packets and to output system sensor data for diagnostic evaluation
+Designed and developed computer controlled test fixtures for product testing of SLICS (subscriber line interface cards)
+These circuit cards provided the interface between the telephone Local loop circuitry and the European equivalent (CEPT) of T1 Multiplexed trunk line
+Note: This was for commercial electronic manufacturing and repair
+Designed telephone line interface for voice recognition system that was to be used in a controlled entry system
+Lead test station development engineer for AEC built LRU (Line Replaceable Unit) automatic test station
+Test station was developed for both acceptance testing and environmental testing of electronic modules that went on the M1A1 Abrams tank, and on the F15-S aircraft
+Test station featured a VXI instrument bus, 1553 communication bus, and a multi drop high speed serial bus (RS485) for communication with LRU
+Additional duties and responsibilities were to act as a technical liaison between electrical engineering and AEC program management
+
+ITT Aerospace and Defense Electronics Division, Ft. Wayne, IN (1984-1991) Sr. Software Engineer
+Evaluation, analysis and establishment of testing requirements for RF (Radio Frequency) circuit card assemblies that populated the SINCGARS frequency hopping radio set
+Development of ATE software and hardware to provide automated testing of these circuit card assemblies
+Part of team to design and develop portable radio test set for SINCGARS radios manufactured for the U.S. Army
+Responsible engineer for ATE test and evaluation of exciter power amplifier module, intermediate frequency demodulator cca, and radio digital switching module
+
+Keltec Electronics, Ft. Walton Beach, FL (1982-1984) Design Engineer
+Design and development of swithcmode power supplies
+This included board level design and layout, component evaluation, specification and testing of power magnetics
+Design and development of pulse and switching electronic circuit cards to go in a telephone central office mainframe
+Development of an automatic test station to support product testing during manufacturing and environmental testing
+Design and development of test fixtures for component evaluation and EMI (Electromagnetic Interference) testing
+Analog filter design for servo controller with multiple feedback Paths
+
+EDUCATION, LICENSES
+Bachelor of Science in Electronic Engineering Technology, Troy University, Troy, AL
+Bachelor of Science in Computer Science, Troy University, Troy, AL
+
+PROFESSIONAL LICENSES
+FCC Radio Telephone License (GROL) with Radar Endorsement
+Military Technical Training:
+Radio Navigation Systems, Electronic Counter Measure Systems
+
+INDUSTRY TRAINING
+Flight Data Recorder Systems (Factory School)
+RFAD ATE System Training – training on the Teradyne L393
+RF, analog, digital test system (This course specialized in RF measurements)
+Advanced HPVEE (Visual Engineering Environment) programming training on RFAD test platform for U.S. Air Force B2 bomber
+VLSI Design (In house course conducted at ITT Aerospace and Defense)
+RF Design (In house course conducted at the Advanced Electronics Co.)
+Analog Devices Design Seminar for DDS (Direct Digital Synthesis0
+
+REFERENCES
+Available upon request
+Contact this candidate

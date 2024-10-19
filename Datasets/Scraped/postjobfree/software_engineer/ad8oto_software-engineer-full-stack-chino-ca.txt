@@ -1,0 +1,36 @@
+Weilin Yang
+Address **** *** **, ** *****, CA ***50 Cell 747-***-**** ad8oto@r.postjobfree.com
+SUMMARY
+Seeking a full-time or intern software engineer position. Solid software engineer with strong programming, analytical and mathematical skills, Has a wide range of software development internship and project experience, including Android, iOS, recommendation system, full-stack web application development with Java, React, Spring, Go, Hibernate, 5+ years of programming experience for large-scale system development. EDUCATION
+University of Laverne La Verne US
+Master of Data Analytic (M.A) Aug 2023 - May 2024
+Course Content: Data Mining and Predictive Analytics, Marketing Analytics, SAS Programming Essential Management of Information Technology etc.
+Zhejiang University of Technology Hangzhou, China
+Bachelor of Architecture (B.A) in Architecture Design Aug 2016 - May 2021 Course Content: Liangzhu Theater Design, Old theater Renovation, Urban Design, Future community Design, High-rise Building, Village health Center etc. INTERNSHIP
+Institute of Landscape Architecture, China Academy of Art HangZhou, China Designer Assistant Aug 2021 - Nov 2021
+Work Content: Assist in Data Exploration,Data analysis, Text Design, Model Digitization, Coordinate and deal with the division of labor and cooperation between various departments etc PROJECTS
+Twitch+ : A Personlized Twitch Search and Recommendation Engine
+· Designed and Development a Full-Stack Spring Boot application that allows users to search real twitch resources ( stream / videos / clip ), also providing personlized recommendations.
+· Created a web page with engaging and intuitive user experience by leveraging React.js and Ant Design.
+· Utilized Twitch’s RESTful APIs and leveraged Spring’s declarative HTTP client to retrieve resources.
+· Implemented user registration, login and logout functionality with Spring Security to provide secure authentication.
+· Investigated various recommendation algorithms and used Twitch resources to extract pertinent game information, which then utilized to develop a Content-based recommendation algorithm.
+· Implemented high-performance Data Caching by Caffeine and performed related Unit Tests by mocking repositories.
+· Containerized an image build and deployed it to AWS AppRunner for better performance. Appstore : A Cloud and React-based App Purchase Platform
+· Designed and developed a web platform for purchasing software with React.js.
+· Developed a friendly and responsive user interface using Ant Design and added support for file uploads.
+· Implemented functionality for users to create and browse software, and implemented a search feature for easy discovery using ElasticSearch, which was deployed on Google Cloud Engine.
+· Enhanced authentication on the platform by implementing Token-Based registration, login, and logout, and implemented server-side user authentication using JSON Web Token.
+· Launched a microservice in Golang to handle registration, login, logout, file uploads, and checkout processes, And developed it on Google Cloud using Google App Engine.
+· Integrated with Stripe APIs for checkout and viewing historical information. 2
+MiniSpotify : A Spotify-like favorite Recommendation Android Application
+· Designed a Kotlin Spotify favorite app by fully leveraging Android JetPack Library and Hilt Dependency Injection.
+· Implemented the BottomBar and App Navigation by using JetPack Navigation component.
+· Created a mock RESTFUL Api json-server and used the Retrofit to handle requests .
+· Build the feed/album/favorite UI in JetPack Compose following MVVM architecture.
+· Enabled the local cache ability for favorite features by using Room Database.
+· Integrated the Google Exoplayer to handle the global music playback. NFT Price Visualization : A Dashboard to Search And Analyze NFT Assets
+· Leverage Antd UI Component Library to boost client side development.
+· Leverage Moralis NFT API to fetch NFT relevant data( price, name, description etc).
+· Build NFT trade/price chart UI with recharts.
+Contact this candidate

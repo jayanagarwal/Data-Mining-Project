@@ -1,0 +1,68 @@
+Ngo Huu Nhat Thanh
+Ngo Huu Nhat Thanh
+Data Engineer
+Contact mail: ad7jbz@r.postjobfree.com Phone number: 090******* Tan Phu District, Ho Chi Minh City, VietNam Date of Birth: May 6, 2002 BRIEF INTRODUCTION
+As a passionate data enthusiast, I thrive in collaborative environments where I can continually evolve and excel. Eager to deepen my understanding and contribute positively, I actively seek out opportunities to enhance my skills and embrace new challenges. Though I may be at the beginning of my journey, my unwavering dedication and commitment to growth drive me to strive for excellence every day. With each opportunity, I aim to expand my knowledge and make meaningful contributions to the field of data science.
+EDUCATION
+University of Science – VietNam National University Ho Chi Minh City, VietNam Sep 2020 – Present
+Major: Information of Technology, Data Science.
+GPA : 3.27/4.0
+TECHNICAL SKILLS
+Programming Languages: Python, C++
+Framework: FastApi,Flask (Python), TensorFlow, Selenium, PySpark Database: MySQL, MongoDB, Redis
+Other: Docker, AWS Cloud, Google Cloud, Git, Jenkins, Airflow Tool : Postman, Jira, Slack, Gitlab
+WORK EXPERIENCE
+BlueReport (Germany) June 2023 to Now:
+Fresher Data Engineer :
+As a data engineer:
+• Collected data from various sources, then built data models for data scientists and data analysts, with a focus on the ETL process.
+• Providing the automation extracting and collecting data from website by Selenium, making the workflow faster than manual download
+• Ensure data accuracy,security and consistency.
+• Performed data transformations and quality checks in .
+• Ensured data quality and validated data from the data warehouse to meet end-user satisfaction everyday.
+• Processed tickets regarding data pipeline problems.
+• Implemented CI/CD pipelines with Jenkins for automated deployment and testing.
+• Analyzed data to extract insights and improve processes. Ngo Huu Nhat Thanh
+PROFRESSIONAL EXPERIENCE
+Detected disaster of Farm base on picture April 2024 – May 2024 Backend developer, Data science, MLOps
+The project aims to develop a system for disease classification in agricultural settings. With the increasing demand for sustainable and efficient farming practices, early detection and management of plant diseases are crucial. This project utilizes machine learning algorithms (CNN) to classify diseases affecting crops based on visual symptoms.
+Responsibility:
+• Dataset Collection: Get image of potatoes and tomatoes disaster from google images and Kaggles .
+• Data Processing and feature engineering: Clean data and do Image Augmentation: Techniques such as rotation, flipping, scaling, cropping, translation, brightness adjustment, contrast adjustment, and adding noise are applied to images.
+• Model Development: Build and Train machine learning models, such as convolutional neural networks (CNNs), on the pre-processed dataset to accurately classify crop diseases.
+• Deployment: deploying our trained model onto Google Cloud Platform, creating an API endpoint for seamless integration with backend systems. Leveraging the scalability and reliability of Google Cloud, we ensure our model is readily accessible for backend calls, enabling real-time predictions with minimal latency.
+Technologies and Tools used:
+• Programming Languages: Python, Tensorflow
+• Framework: FastApi, TF Serving
+• Cloud and Storage: Google Cloud Platform(GCP)
+• Database: MySql,
+• Tools: Postman, Github
+Resource: Source code for project
+Simulator Trip With Real-Time data May 2024 - June 2024 Data Engineer, Data Analytics
+This project demonstrates the end-to-end responsibilities of a Data Engineer, including data ingestion, real-time processing, data transformation, and deployment of a trip simulation model. It highlights the use of modern data engineering tools and cloud platforms to build a scalable and efficient real-time trip simulation system.
+Responsibility:
+• Data Generation and Ingestion: includes data such as trip start and end times, locations, distances, vehicle data, and trip durations and environmental data: includes real-time traffic conditions, weather data, and road conditions.Using .
+• Real-Time Data Processing: data transformation with spark Streaming consumes data from Kafka, processes it in real-time. This includes cleaning, filtering, and transforming the raw data into a structured format.
+• Real-Time Analytics: Data Analysis: The data is analysed to identify patterns and correlations that affect trip times and conditions.
+• Simulation Models: Models are built to simulate trip conditions, predict trip durations, and provide optimal route recommendations based on real-time data. Technologies and Tools used:
+• Programming Languages: Python
+• Framework: Pyspark
+• Cloud and Storage: AWS S3
+• Database: MySql
+• Tools: Docker,AWS Glue,AWS Redshift
+Ngo Huu Nhat Thanh
+• Resource: Source code for project
+Computer Vision: Football Analyst System Feb 2024 –April 2024 Image Processing, Computer Vision, Machine Learning Working on the "Football Analyst System" has been a profound learning experience in the realm of image processing. Through this project, I delved deep into various image processing techniques, data crawling methodologies, and machine learning algorithms. Utilizing OpenCV and YOLOv8, it served as a comprehensive platform for honing my skills and expertise in this domain. This project provided valuable insights and practical knowledge that have significantly enriched my understanding of image processing principles and applications.
+Responsibility:
+• Object Detection: Used YOLO, a state-of-the-art object detector, to detect players, referees, and footballs. Additionally, trained a custom object detector to enhance the performance of the state- of-the-art models.Data Processing: Initial data cleaning image by OpenCv. Ignore noise image and then creating black and white image for training model later.
+• Object Tracking: Implemented trackers to follow detected objects across frames.
+• Team Assignment: Applied KMeans clustering for pixel segmentation to accurately assign players to teams based on the colors of their t-shirts.
+• Camera Movement Measurement: Used optical flow to measure camera movement between frames, ensuring precise player movement tracking.
+• Perspective Transformation: Employed OpenCV's perspective transformation to represent scene depth and perspective, allowing measurement of player movement in meters rather than pixels.
+• Speed and Distance Calculation: Calculated player speed and distance covered. Technologies and Tools used:
+• Programming Languages: Python
+• Framework: OpenCv, Sklearn
+• Cloud and Storage: AWS Cloud EC2,S3
+• Tools: Docker
+Resource: Source code for project
+Contact this candidate

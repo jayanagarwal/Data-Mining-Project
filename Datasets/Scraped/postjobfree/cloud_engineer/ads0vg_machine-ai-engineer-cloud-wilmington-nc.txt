@@ -1,0 +1,96 @@
+Steve Kim
+(contact : ads0vg@r.postjobfree.com, cell : 847-***-****, Wilmington, NC)
+EXPERIENCE SUMMARY
+Total 20 plus years of IT experience as Application Developer/Engineer/Architect
+Specialized in AI/ML Engineer, Data Science, Predictive Analytics, Azure Cloud Platform Engineer, AI/ML DevOps, MLFlow, AutoML, Rest API Development
+Lead Entire Lifecycle (Design/Development/Test/Deployment) of AI/ML Pipeline
+Strong analytical and problem solving skills, result driven work approach
+Fluent to use Agile/Jira
+Technology SUMMARY
+Algorithms/AI Technologies: Scikit-learn, Random Forest, XGBoost, Deep Learning/Neural Networks, NLP(Natural Language Processing), Computer Vision, MLFlow, AutoML, Supervised/Unsupervised Learning, Keras, Tensorflow, Pytorch, RNN, CNN, LSTM
+Cloud Environment(Azure Platform Architect/Engineer) :
+- Azure : Azure Synapse Analytics, Azure Data Factory, Azure Function App, Storage Accounts(ADLS Gen2, Blob), Log Analysis, Azure ML, AzureSql Server, AzureDevOps, Azure Kubenetes, Cognitive Service
+- AWS : EC2, S3, SageMaker, Lambda
+- Databricks, Nifi
+Development Environment :
+- Databricks : Data Engineering, Machine Learning, Delta Live Tables, Auto-loader, Experiments, Model Serving Endpoints, etc
+- Data Engineering : Nifi, Airflow, Azure Synapse Analytics, Azure Data Factory
+- AI/ML :
+DevOps Environment: Jenkins(Groovy), AzureDevOps, Ansible, Teraform, Kubernetes, HAProxy, Azure Kubernates, Docker
+Rest-API : Python Tornado, Python Flask, .Net, Angular
+Database : MySql, MS Sql Server, Oracle, Teradata, MongoDB
+AI/ML : H2O Platform, Databricks Machine Learning, Azure ML
+Repository : Git, BitBucket, Azure Repository
+Search Engine : Elasticsearch, Kibana, Logstash
+Languages: Python, C#, Asp.Net, Bash, Ksh, Groovy, Ansible, Teraform Technical SKILLS
+AI/ML Engineer/Architect/Data Scientist(for 4 years)
+- Algorithms/AI technologies: Scikit-learn, Random Forest, XGBoost, Deep Learning/Neural Networks, NLP(Natural Language Processing), Computer Vision, MLFlow, AutoML, Supervised/Unsupervised Learning, Keras, Tensorflow, Pytorch, RNN, CNN, LSTM
+- Technologies: Python(2.7, 3.x), Hadoop/Spark/Yarn, Numpy, Pandas, Spark Dataframe, Delta table, NIFI, Azure Synapse Analytics, Azure Data Factory, Azure Function
+- Environment/Platforms/Tools: Databricks, Azure Cloud, Storage Accounts(Blob Storage, ADLS Gen2), H2O, Elasticsearck/Kibana/Logstash, Pycharm, Notebook
+- Data Types : Database(MySql, SQL Server, Parquet, Delta Table, CSV, etc.)
+- Major Projects:
+. Basic implementation process(ML Pipeline) : Data gathering from data sources(databases, real-time events data, etc.), Transformation, Feature Engineering, Training/Generate Model, Model Evaluation, Deploy models to Rest API endpoints
+. churn prediction for Telco customers: gather customer related data(plans, networks, price, customer call history, escalation history, etc., Analyze data duration, data elements for feature engineering, simulate models using AutoML, pick best models, train models, deploy models
+. Customer Sentiment Analysis Realtime basis: when customer calls customer, grab all customer events data, and analyze and predict customer sentiment
+. Estimated Repair Time Prediction : When ticket is created for an incident, provides repairdatachurn data from internal data sources from databases via ETL/ELT, Data transformation via pipeline, Feature Engineering, Training with Label data, Deploy models to Rest API via MLFlow
+. Image Classification : with company repair site Images, we classified them by category utilizing Transfer Learning with RESNET50(Feature Maps classified) and KMeans Algorithms for unsupervised Learning with Keras
+. NLP projects : Spam Classifier, Language translation, voice-to-text
+. Computer Vision projects : Day-Night Image Classifier, Image Captioning, Sattlenite- Image-Classification
+Data Engineer(for 8 years)
+- Technologies: Python(2.7, 3.x), Hadoop/Spark/Yarn, NumPy, Pandas, Spark Dataframe, Delta table, NIFI, Azure Synapse Analytics, Azure Data Factory, Azure Function
+- Environment/Platforms/Tools: Databricks, Azure Cloud, Storage Accounts(Blob Storage, ADLS Gen2), H2O, Elasticsearch/Kibana/Logstash, Pycharm, Notebook
+- Data Types : Database(MySql, SQL Server, Parquet, Delta Table, CSV, etc.)
+- Major Projects:
+. Basic implementation process(ML Pipeline) : Data Ingestion using NIFI, Azure Synapse Analytics, Azure Data Factory, Azure Function App from many different data sources(databases, real-time events data, flat-files, csv, ftp, etc.)
+Azure Cloud Platform Architect/Engineer(for 4 years)
+- Environment/Platforms/Tools: Azure DevOps, Databricks, AKS(Azure Kubernetes)Azure Cloud, Storage Accounts(Blob Storage, ADLS Gen2), Azure Cognitive Service, Azure ML
+,Delta table, NIFI, Azure Synapse Analytics, Azure Data Factory, Azure Function, ElasticSearch/Kibana/Logstash
+- Data Types : Database(MySql, MS SqlServer)
+-Technologies: ADO(Azure DevOps), Azure DevOps Repository, ADO Pipeline
+- Azure Cloud Migration Project:
+. Projects Overview : We migrated On-prem entire AI/ML Environment/Platforms/Components into Azure Clouds via terraform and manual deployment. On-prem environment : VMs(Edge Nodes), Hadoop/Spark/Yarn Clusters echo systems(Hortonworks), MySql/MSSQL databases, Elasticsearch/Kibana/Logstash, all python codes into Databricks Notebooks
+. Roles : As a lead Architect/Engineer, I created Azure Cloud Topology, build All resources in PROD and NPRD subscriptions including the resources below:
+. Implemented Resources
+- 2 Subscriptions
+- Common resources : resource group, Vnet, Bastion, Private DNS, Private Endpoints, Active Directory, Virtual Network Links
+- Resources : Storage Accounts(Blob, ADLS Gen2), Azure Synapse Analysis, Azure Function Apps, Azure Data Factory, Azure Cognitive Service, Databricks, Azure Kubernetes Service(Elasticsearch/Kibana), SqlServer Database, MySql database
+- Platform migration : all resources into Azure Cloud
+- Code Migration : into Databricks
+- Repository : Git/Bitbucket into ADO Repositor
+- Job migrations : Databricks jobs/Airflow
+- Data Migration : Hadoop(parquet, csv, etc) into ADLS Gen2 via AZ Copy and other tools
+AI/ML DevOps/Life-Cycle Engineer(for 5 years)
+- Algorithms/AI technologies: MLFlow, AutoML, Scikit-learn, SHAP(SHapley Additive exPlanations)
+- Environment/Platforms/Tools: Azure DevOps, Jenkins, Databricks, AKS(Azure Kubernates)Azure Cloud, Storage Accounts(Blob Storage, ADLS Gen2), Notebook
+- Technologies: Python(2.7, 3.x), Hadoop/Spark/Yarn, Numpy, Pandas, Spark Dataframe, Delta table, NIFI, Azure Synapse Analytics, Azure Data Factory, Azure Function
+- Data Types : Database(MySql, SQL Server, Parquet, Delta Table, CSV, Pickle, etc.)
+- DevOps Types Implemented:
+. Implement AI/ML Deployment Process via Jenkins: Deploy new release codes(python) for the AI/ML Pipeline(Training and Inference Pipeline) from Git Repository including from ingestion to model build, deploy all data ingested as data-source, rerun all pipeline jobs by registering cron jobs, execute pipeline jobs and build model, validate models and deploy models(pickles, parquets) to Rest API for inference pipeline
+. Deploy AI/ML via MLFlow/MLOps in Databricks and H2O : Using MLFlow, model is trained and registered as Experiments in Databricks Machine Learning Frameworks, Validate ML Models using SHAP analysis, Generate deployment projects in H2O and deploy models as model serving api(Kubernates). By using Model Serving Endpoints provided by H2O, we simplified Inference deployment process and be able to manage model versions in Databricks.
+Rest API Development (10+ years)
+- Environment/Platforms/Tools: Azure DevOps, Jenkins, Databricks, AKS(Azure Kubernates)Azure Cloud, Storage Accounts(Blob Storage, ADLS Gen2), Notebook
+- Technologies: Python(2.7, 3.x), Tornado, Flask, ASP.Net, Azure Function, Databricks, HA Proxy
+- Web Application Frontend : C3, D3, Javascript, JQuery, JQPlot, JVector, Angular, Bootstrap, Html5, CSS, Scss
+- Backend : Python(2.7, 3.x), Tornado, Flask, ASP.Net, Azure Function
+- Rest API Projects :
+. Python Projects: more than 20 API endpoints have been implemented using Tornado/Flask/Python. These endpoints have been used for AI/ML Model serving endpoints. It has 3 VMs and Load Balanced round-robin via HA Proxy
+. Databricks/Azure Projects:
+we migrated Tornado/Flask APIs into Azure Functions HTTP Trigger in Azure Cloud. The way we implemented is Azure function runs as HTTP gateway for client, and invoke Databricks jobs that contains all business login including preprocessing, and model prediction from stored models or Model serving endpoints in H2O, and finally send predictions back to Azure function, and Azure function back to clients
+. ASP.Net Projects: I’ve implemented many(10+) Web applications using ASP.Net MVC/Angular frameworks/NodeJS
+Data Visualization (5+ years)
+- Technologies: Power BI, Tableau
+- Dashboards/Reports:
+. implemented Power BI, Tableau, Business Intelligiance more than 50 reports/dashboards. Setup Power BI dataset, build reports and Dashboards. Most of reports/dashboards are for validating AI/ML models and tracking model performance
+Other Experience (5+ years)
+- EDI Technologies, B2b XML(Rossetanet), TestNG, Ordering System, Ariba Network PROFESSIONAL Careers
+Application Developer/Software Engineer/Architect, AT&T, 08/2002 ~ Current
+IT Manager, LG Electronics, USA Inc. New Jersey, USA 2000 ~ 2002 PROFESSIONAL QUALIFICATIONS
+Certificates:
+- Java Developer,
+- HDPCD (Hortonworks Hadoop Certified Developer, Big Data)
+- Several Machine Learning Nano Degrees from Udacity
+. Deep Learning-120 hours, NLP(Natural Language Processing, 120 hours), Computer Vision(120 hours)
+- Azure Cloud/Databricks Qualifications
+Degree : BA of Computer Science, graduated in Seoul, Korea Work Status : US Citizen
+Job Location : Remote or Wilmington NC
+Contact this candidate

@@ -1,0 +1,135 @@
+PROFESSIONAL SUMMARY
+As a seasoned IT professional with over 11 years of experience, specializing in Azure and AWS middleware infrastructure, and proficient as a DevOps Engineer, I bring valuable expertise in troubleshooting, installation, administration, and ensuring compatibility.
+Proficient in Middleware Technologies across various web applications, encompassing WebSphere Application Server (V7.x, 8.x, 9.x), IBM HTTP Server, ActiveMQ, Message Queuing (V7.x, 8.x, 9.x, 12.x), MessageBroker-IIB/ACE (V7.x, 9.x, 12.x), ACE, DataPower WSRR (XI52.x/XI54.x), and WebLogic-12C. Skilled in server setup across diverse environments, including development, testing, and production.
+Well-versed in troubleshooting Middleware issues, leveraging DevOps tools such as Jenkins, Docker, Kubernetes, Ansible. Experienced in implementing Infrastructure As Code (IaC) practices for automating deployment and scaling of Middleware solutions.
+Proficient in Agile/Waterfall methodologies, utilizing tools like Jira/Kanban and test management tools such as Confluence or HPQC. Extensive experience in AWS/DevOps, employing CI/CD techniques and Jenkins orchestration for various deployments (WAR, JAR, EAR) across Development, System Test, QA, and Production environments, on multiple WebSphere and operating system platforms.
+Skilled in designing and implementing robust monitoring and logging solutions for Middleware applications using tools like Prometheus, Grafana, Kibana and Azure Monitor.
+Experienced in supporting and maintaining enterprise middleware infrastructure, including server support, operations, performance tuning, and load balancing techniques for highly available optimized environments.
+Skilled in installation, configurations, upgrades, and patching/interim on Middleware Infrastructures across various WebSphere Applications Services (WAS, HTTP/HTTPS), MQ/MB/ACE, WebLogic, utilizing Confluence and SDLC methodology. Proficient in Ticketing and Incident Management, handling L2 level tickets based on SLA and working with various ticketing tools to resolve and troubleshoot changes, service requests, and incident tickets.
+Proficient in utilizing DevOps tools for infrastructure management on Azure and AWS, including EC2, S3, SNS, EKS, AKS focusing on High Availability, Fault-Tolerance, and Auto Scaling methods for Middleware infrastructure.
+TECHNICAL SKILLS/TOOLS
+Operating Systems:
+UNIX, LINUX, Z/OS, Windows NT/2000, 2003, 2008 Server, AIX, AS400
+Middleware Products / Application Servers:
+IBM MQ V(7.x,8.x,9.x,12.x), MessageBroker/IBM Integration Bus-IIB, ACE, WAS V(7.x,8.x)-MDM/BPM/BAW, FileNet, RuleExecutionServers, Tomcat, Apache, JBoss, DataPower (XI52.x/XI54.x), Weblogic-12C, IHS/OHS.
+WEB Technologies & Data exchange:
+JSP, HTML, EJB, XML, JSON, WSDL
+Application Servers:
+IBM MQ 7.x/8.x/9.x, IIB 9.x, ACE 12.x, WAS, BPM, Process Portals, MDM, BAW, WebLogic.
+Management Tools:
+Grafana, Zabbix, Prometheus, Dynatrace, Connect Direct, Kibana, Ansible, CloudWatch.
+Ticketing Tools:
+ServiceNow, BMC Remedy-6/7, Maximo, Citrix.
+Databases:
+IBM DB2/UDB, Oracle DB.
+Networking Protocols:
+TCP/IP, HTTP/HTTPS, SSH, SSL, SCP, FTP, SFTP, DNS.
+Load Balancers/ Security:
+F5 / SSL/TLS, VIP, Firewalls.
+Logging and Monitoring Tools:
+GITHUB, CloudWatch, Ansible, Splunk, Kibana.
+Cloud Platforms:
+Azure CI/CD, AWS, CI/CD tools, Maven, Jenkins, GitHub, Ansible, Docker, Docker Swarm, Kubernetes.
+Scripting:
+Shell, BASH, PowerShell, MS Office Suite, MS Visio, PuTTY
+
+Certifications
+●MS Azure900
+●MS Azure204
+●AWS Practitioner
+
+Professional Experience
+DaVita – Arytic Inc May 2023 - Current
+Middleware DevOps Engineer
+At DaVita Diagnosis, a dynamic healthcare IT industry player, I lead as a Middleware DevOps Engineer. Within DaVita's evolving IT infrastructure, I oversee Middleware systems, which act as crucial intermediaries facilitating seamless communication and data exchange among various applications and systems.
+
+Responsibilities:
+●Middleware Infrastructure Management: Spearheading the management and maintenance of DaVita's middleware infrastructure, ensuring high availability and optimal performance of critical business applications.
+●DevOps Integration: Infusing DevOps practices into middleware management activities, streamlining processes and promoting collaboration across teams.
+●CI/CD Implementation: Utilizing Jenkins and other DevOps tools for continuous integration and continuous delivery, enhancing software development and deployment pipelines.
+●Infrastructure Automation: Employing Ansible and other automation tools to automate routine tasks and configuration management, ensuring consistency and efficiency.
+●Backup and Recovery: Establishing robust backup and recovery procedures for middleware systems, ensuring data integrity and minimizing downtime during failures or disasters.
+●Disaster Recovery Planning: Developing and executing comprehensive disaster recovery plans for middleware infrastructure, ensuring seamless business continuity in case of system failures.
+●Change Management Coordination: Actively participating in change management processes, collaborating with development teams to deploy software updates and patches to middleware systems while minimizing disruptions.
+●Cloud Infrastructure Security: Experience in securing AWS infrastructure using EC2, S3, SNS, EKS with a focus on high availability, fault tolerance, and auto-scaling. Proficient in migrating on-premises MQ infrastructure to the cloud environment.
+●Monitoring Tools Integration: Implementing and integrating monitoring tools such as Prometheus, Grafana for robust performance monitoring and logging solutions.
+●High Availability and Load Balancing: Implementing strategies for high availability, performance tuning, and load balancing within environments to minimize disruptions.
+●SSL Configurations and Troubleshooting: Working on SSL configurations, troubleshooting, and installations to ensure secure data exchange.
+Environment: IBMWeb Application Server (V8.x)-BPM/BAW/MDM, ACE-MQ/MB(V11.x,12.x), AWS-CI/CD-Maven-Build, Jenkins-Orchestration, Ansible, Bitbucket, Grafana, Dynatrace.
+
+Scotia Banking Jan 2018 – April 2023
+Sr. Middleware DevOps Engineer
+During my tenure at Scotia Bank with roles at IBM and Kyndryl, I ensured seamless communication and integration among diverse banking applications, leveraging Middleware. This facilitated efficient data exchange and interoperability, enhancing operational reliability. Additionally, I applied AWS DevOps practices to optimize infrastructure management, streamlining automation and deployment processes.
+
+Responsibilities:
+●Proficient in administering, designing, implementing, and monitoring performance of WebSphere Application Server, Message-Based Business Systems utilizing IBM WebSphere MQ 7.0, 8.0, and 9.0, Message Broker IIB 6.x, 7.x, and ACE 12.x, along with WebLogic-12C across diverse platforms like Windows NT/2000, 2003 server, and Linux.
+●Successfully migrated applications from WebLogic to JBoss and performed upgrades of application servers to newer versions, ensuring seamless transitions and enhanced system performance.
+●Implemented Continuous Integration/Continuous Deployment (CI/CD) pipelines using Jenkins for daily deployments on Github, automating deployment processes and boosting efficiency.
+●Incorporated Agile methodologies to ensure proper quality assurance and testing practices, analyzing logs/snapshots, and conducting root cause analysis of issues for continuous improvement.
+●Proficient in deploying and managing Oracle WebLogic Server 12C instances, addressing memory/cache issues, and employing monitoring techniques using Grafana and Zabbix for proactive health checks.
+●Continuously Integrated using DevOps techniques in Continuous Deployments using Infrastructure as Code and followed Version controlling – deploying feature and release branches as per the infrastructure requirements.
+●Managed the end-to-end lifecycle of WebSphere technologies, including installation, configuration, maintenance, upgrades, patch management, troubleshooting, and support, ensuring robust operation of MQ, WebSphere Message Broker, and WebSphere Application Server components.
+●Implemented SSL certificates and secured web server interfaces, managed session management, JDBC resources, connection factories and JMS resources to fortify security across middleware servers.
+●Configured JDBC Providers, Data Sources, Virtual Hosting, Global Security, and LDAP integration to bolster security and performance.
+●Worked with various web servers such as Apache HTTP, Tomcat, and application servers like IBM WebSphere, Oracle WebLogic, JBoss, and Kafka for streamlined deployment processes.
+●Proficient in creating and configuring Brokers with Queues and Topics in Amazon MQ, monitoring flows and logs using AWS CloudWatch, and utilizing Ansible for deploying BAR files and administrating Execution Groups and Messages Flows in IIB.
+●Expertise in shell scripting, Crontab scripting, PowerShell for automating tasks including recycling of IBM MQ, IIB services, and other routine operations.
+●Leveraged AWS DevOps practices and tools for infrastructure management, including deployment on Github, Kubernetes, and containers, enhancing automation and deployment processes.
+●Proficient in Server Technologies such as Java, JSP/Servlets, EJB, Java Security, Web Services, JVM, Cluster Technologies, configuring using XML, JSON, EJB, HTML.
+●Conducted daily health checks, analyzed statistics with timestamps, and utilized Grafana monitoring tool to plot, set alarms, create heat maps, generate tables, and analyze database stats, including IBM DB2/UDB status in the WebSphere consoles-WAS.
+Environment:IBMWebSphereApplicationServer(V7.x,8.x),Weblogic-12c,MQ/MB/IIB,ACE(9.x&11.x),AWS-CI/CD-GitHub, Maven, Jenkins Orchestration, Ansible, Amazon-MQ, Container-JSP/EJBs, Kubernetes.
+
+NASCO – Health Care Jan 2017 - Dec 2017
+Azure Middleware Administrator
+During my full-time role at IBM within Nasco, I contributed to providing healthcare training solutions,equipment, and simulations. Leveraging Azure, these offerings were designed to prepare frontline personnel for various healthcare scenarios, enhancing their skills and readiness. The programs aimed to equip healthcare professionals with the necessary tools to tackle diverse challenges effectively.
+
+Responsibilities:
+• Installed, configured, and administered WebSphere Application Server ND 6.1/7.0.0.x on AIX and Oracle-Weblogic using GUI platform for all Dev, QA, Staging & Production environments. Additionally, created DMGR, application server, and custom profiles in Linux platform for Dev, QA, Staging, and production, and federated application server and custom profile to DMGR using add Node.sh command, leveraging Azure DevOps tools.
+• Migrated the automated deployment process and was-admin scripts for production/Test/Development from WebSphere Application Server ND 6.x to WebSphere Application Server ND 7.x, employing Kafka.
+• Designed and implemented the Clustering Topology in WebSphere Application Server ND (V6.x/7.x) to achieve Workload Management (WLM), High availability, Load Balancing and Hardware failover, integrating Azure DevOps tools(VSTS) for seamless deployment.
+• Implemented Azure CI/CD to seamlessly configure web server plug-ins for dynamic request routing in clustered setups, enhancing load balancing efficiency and ensuring peak performance.
+• Installed EAR’s and configured application-specific JVM settings, Web container parameters using the Admin Console and WSADMIN, while utilizing Azure DevOps tools(Visual Studio Team Services or VSTS)- for efficient management.
+• Worked on the Continuous Integration and Continuous Deployment pipelines-Azure DevOps on comprehensive suite of tools for version control, build automation, release management and team collaboration, making it a popular choice for software development projects.
+• Application Insights, integrated with Azure Monitor, offered application performance monitoring (APM) capabilities for web applications, allowing to identify and diagnose performance issues, track user interactions and monitor application dependencies.
+• Proficient in Installing, configuring, and maintaining J2EE Applications on WebSphere Application Server 6.x/7.x, HTTP Server in a multi-clustered, multi-platform, and high availability environment, integrating Azure DevOps for streamlined operations.
+Environments: WebSphereApplicationServer-ND-V(6.1,7.x), IBMHTTP, Weblogic-12C, Kafka, Azure CI/CD-DevOps(VSTS), APM-Application Monitor, Azure Log Analytics, Git.
+
+Walmart Jun 2013 - Dec 2016
+Walmart Inc is a retailer that operates grocery stores, supermarkets, hypermarkets, department and discount stores, and neighborhood markets and Sam’s Club. It is a prominent player in the retail industry and has expanded its presence through various formats, including supercenters and e-commerce. Walmart is recognized for its commitment to providing low prices and has a significant impact on the retail landscape.
+
+Middleware Administrator - IBM (Fulltime)
+Responsibilities:
+●Implement and support the WebSphere MQSeries, Message Broker (6.1 and 7), ActiveMQ and DataPower- XI(52.x,54.x) infrastructure in the Production, Staging and Development Environment.
+●Working experience on Integration Services -Azure tools for deployment.
+●Experience supporting technologies including AMQ, IBMMQ, WebSphereMessageBroker and WebSphere Application Server.
+●Experienced in Development, Administration, Design, Implementation and Performance Monitoring of Message Based Business Systems using IBM WebSphere MQ 6.0 and 7.0, MWMB 6.x, 7.x on various platforms Windows NT/2000, 2003 server, Unix and Z/OS.
+●Administered Linux servers for several functions including managing Apache/Tomcat server, Mail server and MySQL databases in both development and production environments, associated in installing DataPower-XSLT process policies-application-deployment Also deployments using WAR, JAR and EAR files across all environments.
+●Working experience on SSL configuration, troubleshooting the SSL related issues, generating the CSR requests using GUI as well as CLI.
+●Experience with MQSeries Clustering, MQ Client-Server setup, tasks including developing, deployments, writing MQScript Commands for defining queues, process definitions, communication channels, designing clusters, Experienced in deploying solutions in High Availability HA, Load Balancing Configurations eliminating single points of failure.
+Environments: WebSphere- WAS V(6.x,7.x), MQ/IIB (6.1,7.x), ActiveMQ, DataPower XI(52.x,54.x).
+
+Linux Administrator - IBM(Fulltime)
+Responsibilities:
+●Associated with Walmart Project (US & International) working for Unix environment.
+●Performing technical and application support in the administration, installation, Monitor Clients Servers and Database Constantly and troubleshooting on down servers in both command line and graphical user interface through SSH, Telnet
+●Installing Linux-BIOS Configuration, Hard disks, CD-Rom Drives, NIC cards, Backup Switch, filesystems and creating RAID with backups taken on servers and installation of hardware peripherals.
+●Worked on Virtual Machines configuring the ILO or the IMMs for server remotely, Worked on
+●Blade Center-E Series & S-series through various environments in Nortels, Backup’s, storage through
+●Remote Consoles, Citrix, Remedy versions7 and LOTUS9.
+●Experience in IBM Blade Chassis (E-chassis and S-Chassis) and other IBM hardware also Experience in DRBD based Cluster environment in Linux.
+●Configuring and maintenance of VLAN’s and Network & Troubleshooting of Network switches (NORTEL – 6 port & Cisco 2950).
+●Level 1 Troubleshooting Storage (IBM -N5200, 3700, 3300), EMC (CX-300, AX-4's, VNX boxes) and Troubleshooting File system issues, performing FSCK's.
+●Firmware Up-gradations on standalone & Blade servers remotely on both AIX and Linux by taking TSM/NAS backups on the servers timely manner.
+●Maintenance of Virtualization technologies like XEN, VMWare using vSphere Client, Windows servers through remote access/reflection-X using 2003 and 2008.
+Environments: Navisphere, E/S/Blade-Chassis, Cisco Switches /Routers, DS&N-Storage Systems, TSM, Virtual Machines, Linux Administration.
+Schneider Electric Sept 2010 – Aug 2011
+Automation Associate
+Schneider Electric is a French multinational company that specializes in digital automation and energy management.It addresses homes, buildings,data centers,infrastructure and industries,by combining energy technologies, real-time automation, software, and services
+Responsibilities:
+●The Order management system is an automated method of manufacturing process where this System is used to optimize the production into single line flow and also helps to control the reference-based manufacturing.
+●In this system the complete line is automated & a Unique barcode system will also be implemented for the packing system and a Weighting system will be provided to avoid the wrong quantity packing of the secondary packing line which helps to avoid the mix up of references & same time helps to identify the products with respect to voltage levels.
+
+Education
+●Masters in Mechatronic from JNTUH-Campus, India, Year 2011.
+●Bachelors in Electronics and Communication Engineering from JNTUH, India, Year 2009.
+Contact this candidate

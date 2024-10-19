@@ -1,0 +1,30 @@
+Chuhan Zhang
+213-***-**** Los Angeles, CA ad29r6@r.postjobfree.com LinkedIn
+EDUCATION
+University of Southern California – Los Angeles, CA September 2021 – December 2023 Master of Science in Applied Biostatistics and Epidemiology Relevant Courses: Machine Learning, Database Management, Hypothesis Testing, Data Visualization Minjiang University – Fuzhou, Fujian, China September 2016 – June 2020 Bachelor of Science in Applied Chemistry
+WORK EXPERIENCE
+USC Norris Comprehensive Cancer Center – Los Angeles, CA Data Scientist Intern May 2022 – August 2022 Explore the relationship between neutrophil-to-lymphocyte ratio (NLR) and SBP:
+• Targeted 5K+ patient data to conduct feature selection through a forward search method to filter meaningful features related to cancer prevention and cancer care.
+• Compared the effectiveness for extending life with two medicines through survival analysis (Kaplan-Meier), summarized the key finding that BMI has a positive relationship with the lethality rate.
+• Utilized the KM curve to evaluate the survival probability based on different stages, leveraged the logistic regression model to analyze and validate the relationship between NLR and SBP Research Factors Associated with Breast Cancer:
+• Conducted research on 4024 breast cancer cases, applying six ML models (Logistic Regression, SVC, Decision Tree, Random Forest, AdaBoost, Gradient Boosting) to predict patient outcomes.
+• Evaluated random oversampling and SMOTE techniques for handling imbalanced data, with SMOTE demonstrating a 10% increase in accuracy.
+• Identified Gradient Boosting as the top-performing model with 90% accuracy.
+• Utilized cross-validation and grid search for hyperparameter tuning, ensuring balanced recall and precision through precision-recall curves for improved model assessment. ACADEMIC PROJECTS
+The Purchase and Redemption Forecasts-Challenge the Baseline – Los Angeles, CA January 2022 – June 2022
+• Aggregated and processed 100k+ users' historical purchase and redemption data from 4 data sources into a MySQL database
+• Led a team of 3 to build forecasting models to predict future cash flows based on users' historical purchase and redemption data to help Ant Financial Services Group (AFSG) improve its funds management abilities
+• Leveraged Python to conduct data validation, processing, transformation, and integration in pipeline to reduce the model execution time by 4 mins/epoch.
+• Developed 10+ systematic forecasting univariate & multivariate models for predictive analysis based on the weighted average of purchase and redemption error (Best model: LSTM) UI Change Implementation for Product Recommendation – Los Angeles, CA January 2022 – June 2022
+• Designed and implemented A/B testing experiments for shopify e-commerce platform website products to verify the strategy effectiveness on user preferences, improved product usage rate by 5%
+• Delivered customer insights by model optimization and result interpretation resulting in 8% increase in operational efficiency. Business Data Analysis Based on YELP Dataset – Los Angeles, CA December 2022 – February 2022
+• Conducted data processing on 1.32 million yelp review data, integrated 6 data sources into one master table through MySQL
+• Performed sentiment analysis using Python over 5.26 million reviews by feature vectorization and text mining to adjust business staring, resulting in a 17% lift in staring precision.
+• Developed root cause reports decomposed of 3 dimensions to address problems with elite user retention, successfully revealing insights that boosted retention by 12%
+Data Science for Public Health and Biomedicine – Columbia University. February 2022 – August 2022
+• Conducted correlation analysis through Linear Regression to identify the key factors associated with lung cancer and supported to classify the lung cancer patients.
+• Implemented state-of-the-art (SOTA) classification techniques for lung cancer classification branched from CART, Random Forest, GBDT, and XGBoost via Python, achieved the best model performance with 95% accuracy.
+• One paper has been accepted by the International Conference on Bioinformatics Engineering. SKILLS & ACTIVITIES
+Computer Skills: Python (Scikit-learn, TensorFlow, Keras, Pandas, Seaborn, Matplotlib), SQL, R, MATLAB, SAS, Power BI, Tableau, Stata.
+Data Analysis Techniques: Machine Learning Models (Logistic regression, SVM, Decision Tree, Random Forest, K-means, KNN, Neural Network/CNN, Lasso regression, XGBoost), Hypothesis Testing, Data Visualization, Exploratory Data Analysis
+Contact this candidate

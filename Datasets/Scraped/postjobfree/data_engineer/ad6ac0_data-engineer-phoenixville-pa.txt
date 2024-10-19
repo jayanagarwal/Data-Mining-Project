@@ -1,0 +1,151 @@
+ShivaRam Kothapally
+484-***-****
+PROFESSIONAL SYNOPSIS:
+Certified Associate Databricks Data Engineer with 5+ years of experience in Data Analysis and Data Engineering across various domains. Proven ability to extract data from OLTP (PostgreSQL) databases while ensuring data integrity and security. Skilled in transforming and loading data into OLAP Datamarts, implementing Change Data Capture (CDC) tools, and optimizing ETL processes for performance, scalability, and reliability. Strong problem-solving skills, attention to detail, and ability to collaborate effectively in a team environment.
+Experience in the IT industry comprising delivery management, design, development, release & deployment, and
+cloud implementation.
+Designed and implemented Modular and Reusable ETL processes and associated data structures for Data Staging, Change Data Capture (CDC), Data Balancing & Reconciliation, Data Lineage Tracking, ETL Auditing, etc.
+Experience in writing SQL queries to obtain filtered data for RDBMS such as SQL Server, MySQL, PostgreSQL, Oracle, Teradata, No SQL databases such as MongoDB, Cosmos-DB, H-Base, and Cassandra to handle unstructured data from Data Lake.
+Expertise in configuring and maintaining Amazon Web Services (AWS Cloud) which include services like Amazon EC2, ELB, Auto-Scaling, S3, Route53, IAM, VPC, RDS, Amazon Redshift, Step Functions, Security Groups, Load Balancers, Target Groups, Cloud Watch, SNS, Lambda, ECS, Cloud Formation, and EMR.
+Datacenter migration to Amazon Web Services (AWS Cloud) infrastructure and provided initial support to Applications and Database teams.
+Worked in exporting of data from different sources and integrating with cloud data using Data bricks.
+Worked in configuring Microsoft Azure resources including services like compute, storage, network, function apps development, and deployment of services.
+Hands-on work experience with Branching strategy, Merging, Tagging, and maintaining the version across the environments using SCM tools like GIT and Subversion (SVN) on Linux platforms.
+Worked on miss value imputation, and outlier identification with statistical methodologies using Pandas, and NumPy.
+Ability to develop ETL pipelines in and out of data warehouse/data lake and data flow using a combination of
+Python and Snowflake’s Snow SQL.
+Experience in Agile, SCRUM, Waterfall, and Software Engineering Methodologies and working on all the phases of the software development life cycle (SDLC), including System testing and Client support.
+Spark Developer in Big data application development through frameworks Hadoop, Spark, Hive, Sqoop, Flume, and Airflow.
+Experience in working with Hadoop and Spark distributions – Cloudera, Hortonworks (HDP) & Splunk.
+Experienced at performing read and write operations on HDFS file system.
+Experience in Implementing Spark with the integration of the Hadoop Ecosystem.
+Experienced in working with data architecture including pipeline design of data ingestion, Architecture information of Hadoop, data modelling, machine learning, and advanced data processing.
+Experience in data cleansing using Spark Map and Filter Functions.
+Experience in designing and developing Applications in Spark using Scala.
+Experience Scheduling Jobs and Pipelines in AWS Glue using Python.
+Experience migrating Map Reduce programs into Spark to improve performance.
+Worked with Spark RDD for parallel processing of datasets in HDFS, MySQL, and other sources.
+
+TECHNICAL SKILLS:
+
+Cloud Data Platform
+AWS Cloud and MS Azure Cloud.
+Big Data Technologies
+Apache Spark, Apache Hadoop, Hue, Map Reduce, Apache Hive, Apache Sqoop, Apache Kafka, Apache Flume, Apache Airflow, Apache Zookeeper, HDFS, Cassandra, Amazon S3, EC2, EMR.
+Development Tools
+Visual Studio, Xcode and PyCharm
+Languages/Scripts
+HTML, Shell, Bash, Python, SQL, PySpark, Scala, Java, Kotlin, Pig.
+Methodologies
+Agile, SDLC, Waterfall.
+Operating Systems
+Linux, Windows 7/10, MacOS, Cloudera, and Ubuntu.
+Data analysis and Visualization
+Tableau 9.x/10.x, Python (Matplotlib, Pandas, and NumPy), Power BI, MicroStrategy.
+ETL and Data Modelling Tools
+Alteryx Designer, Alteryx Server, Talend, Informatica,, Erwin Data Modeler
+Database
+RDBMS (MySQL, Oracle, PostgreSQL, MS SQL Server), NoSQL (Cassandra, Mongo DB, Cosmos DB, and HBase), Redshift
+Other Tools
+Jupyter, GitHub, Jenkins, UDeploy, Remedy, Bit Bucket, Splunk, Android Studio (Bumble Bee).
+
+PROFESSIONAL EXPERIENCE:
+SEI, Phoenixville Sep 2023- Present
+Data Engineer
+Leveraged Alteryx Designer and Server to design, develop, and deploy data workflows for ETL processes, improving data processing efficiency by 30%.
+Efficiently extracted data from PostgreSQL databases, ensuring data integrity and security.
+Designed and implemented data transformations and loading procedures to populate OLAP DataMart, enhancing analytics and reporting capabilities.
+Utilized CDC tools to capture and propagate data changes in real-time, ensuring data consistency and accuracy.
+Continuously optimized ETL processes for performance, scalability, and reliability, resulting in a 25% reduction in data processing time.
+Collaborated with cross-functional teams to gather requirements and translate them into technical solutions.
+Performed data quality assessments and implemented data governance best practices to maintain high-quality data.
+Monitored and troubleshooted data pipelines to ensure smooth and uninterrupted data flow.
+
+Amazon Web Services (AWS), Virginia Jun 2022- Jul 2023
+Data Engineer/AWS Developer
+
+Responsibilities:
+Perform ETL using Python and Apache Spark using Scala.
+Designed and implemented ETL jobs for data processing using various AWS services, including Glue Crawlers for automatic schema discovery, S3 buckets for storage, and Athena for data transformation which led to a 90% reduction in processing time for the application.
+Created a serverless AWS Glue ETL pipeline to transform and load data from S3 buckets into Amazon Redshift, using CloudWatch events to trigger scheduled Lambda functions that automate the ETL process, which was monitored with CloudWatch Metrics.
+Converted and delivered 300M+ CSV records to 3.5M Parquet files using AWS Glue Jobs and Python scripts.
+Redesigned an architecture and changed the triggering of long-running ETL jobs from Lambda functions to Workflows.
+Developed and maintained ETL pipelines to extract data from various sources and load it into Redshift.
+Troubleshooting and resolving issues related to Redshift cluster performance, capacity, and security.
+Designed various dashboards for the Code Quality team to have insights into developer's productivity based on the number of code reviews, number of bugs logged, number of bugs resolved, and number of bugs reopened using Metabase and Python.
+Developed generic framework by using spark and bash scripts which involves data ingestion, processing of different data formats (CSV, JASON, PARQUET), and feeding the data into Hive tables.
+Chunking the data to convert them from larger data sets to smaller chunks using Python scripts which will be useful for faster data processing.
+
+Created the AWS cloud data pipeline using Amazon Elastic Map Reduce (Amazon EMR).
+Designed and implemented Python scripts to fetch build data and test results from Jenkins to pull into AWS S3and Redshift to enable faster reporting.
+Used Data bricks for integration of large quantities of customer data to AWS Cloud.
+Predictive analytics and machine learning algorithms to forecast key metrics in the form of designed dashboards on AWS Cloud (S3/EC2 CLOUD PLATFORMS) and Django platform for the company's core business.
+Created a real-time data streaming process with help of Kafka from the cloud data.
+Profiled 500+ data tables from various data sources to understand the business value of each source’s data.
+Created a data dictionary to provide detailed information about the contents of each data source & data flow.
+Cleansed and wrangled data from each of the data sources to improve data quality in the data lake.
+Identified 50+ potential use cases for future data analysis with the data flow.
+Used machine learning and natural language processing techniques, such as topic modelling, to increase the analytics value of free text fields.
+Joined data tables from sources to provide meaningful insights based on different data sets using Kafka.
+Amazon Redshift Integration for Apache Spark to read and write from the data warehouse and monitor the performance issues.
+
+Quadrant Resources, India Jan 2019 – Dec 2020
+Data Engineer
+Responsibilities:
+Responsible for analyzing using Spark SQL queries result with Hive queries.
+Implemented Spark using Scala and Spark SQL for faster testing and processing of data by optimizing the performance.
+Ensured data integrity and cleanliness in a relational database environment, maintaining 99.9% data accuracy for
+analytics, and reporting purposes.
+Led the design and development of multiple web applications for a learning and teaching center, resulting in a 95%
+Improvement in productivity and efficiency using Python, Angular.js, Flask, and MSSQL.
+Developed extensively with RESTful web services and utilized Python libraries including Requests, NumPy, SciPy,
+Matplotlib, and Pandas for data analysis and visualization, resulting in 50% faster data processing and analysis, and
+enhanced data visualization capabilities.
+Automated nightly build to run quality control using Python with BOTO3 library to make sure pipeline does not fail
+which reduces the effort by 70%.
+Experience in developing/consuming Web Services (REST, SOAP, JSON) and APIs (Service-oriented architectures).
+Built Chef based CI/CD solutions to improve developer productivity and rapid deployments.
+Troubleshooting Linux network, security related issues, capturing packets using tools such as iptables, firewall.
+Worked extensively with importing metadata into Hive and migrated existing tables and applications on Hive.
+Used Tableau to create stories and interactive dashboards for detailed insights.
+
+Identifying anomalies and other new sources necessary for analysis thus improving data collection, data flow analysis to data lake.
+Performed data wrangling to clean, transform and reshape the data utilizing panda’s library.
+Used R and Python for Exploratory Data Analysis to compare and identify the effectiveness of the data in data lake.
+Created statistics out of data by analyzing and generating reports.
+Parsed the unstructured data into the semi-structured format by writing complex algorithms in Spark.
+Loaded the transformed Data into the hive tables and performed analytics using Hive.
+Integration of cloud data in AWS cloud by using the Databricks.
+Used Kafka for the data streaming process for the real time data access with Kafka clusters.
+Involved in working with Sqoop to export the data from Hive to S3 buckets cloud data.
+Created custom workflows to automate Sqoop jobs weekly and monthly.
+Performed data Aggregation operations using Spark SQL queries.
+
+Tek Friday, India Jun 2018 -Dec 2018
+Data Analyst/Engineer
+
+Responsibilities:
+Worked on database design, relational integrity constraints, OLAP, OLTP, Cubes and Normalization (3NF), and De-normalization of the database.
+Tuned and coded optimization using different techniques like dynamic SQL, dynamic cursors, and tuning SQL queries, writing generic procedures, functions, and packages.
+Experienced in GUI, Relational Database Management Systems (RDBMS), designing of OLAP system environments as well as Report Development.
+Analyzing data for data quality, data flow, and validation issues in the data lake.
+Analyzing the websites regularly to ensure site traffic and conversion funnels are performing well.
+Creating and maintaining automated reports using SQL.
+Analyzed of data reports were prepared weekly, biweekly, and monthly using MS Excel, and SQL using Teradata.
+Developed the code as per the client's requirements using SQL, PL/SQL, and Data Warehousing/Data Lake
+concepts.
+Worked with Data Warehouse Extract and load developers to design mappings for Data Capture, Staging, Cleansing, Loading, and Auditing in the data lake along with data flow.
+Analyzed and designed best-fit logical and physical data models and relational database definitions using DB2. Generated reports of data definitions.
+Involved in Normalization/De-normalization, Normal Form, and database design methodology.
+Identifying inconsistencies, correcting them, or escalating the problems to the next level.
+Assisted in the development of interface testing and implementation plans.
+Conducted safety checks to make sure that my team is feeling safe for the retrospectives.
+
+EDUCATIONAL DETAILS:
+
+Master’s in applied computer sciences Jan 2021 to May 2022
+Northwest Missouri State University
+
+Certifications:
+•Certified Databricks Data Engineer
+Contact this candidate

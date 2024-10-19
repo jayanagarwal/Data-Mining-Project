@@ -1,0 +1,195 @@
+VANIMA B
+DevOps Engineer / Azure.
+Email: ad6e3x@r.postjobfree.com
+Mobile: +1-813-***-****
+PROFESSIONAL SUMMARY:
+Over 11+ years of IT industry as which includes 7+ years of experience on DevOps Engineer comprising of Linux and System Administration with major focus on Azure, OpenStack, Continuous Integration, Continuous Deployment, Configuration Management, Build/release Engineer and 3+ years Linux Systems Administrator/ EMC Storage with expertise in Private, Public and Hybrid Cloud platforms along with using various tools like Docker, Kubernetes, ANSIBLE, Chef, Jenkins, GIT, Maven.
+
+Expertise in Architecting and Implementing Azure Service Offering, such as Azure cloud services, Azure storage, IIS, Azure Active Directory (AD), Azure Resource Manager (ARM), Azure VMs, SQL Database, Azure Functions, Azure Service Fabric, Azure Monitor and Azure Service Bus.
+Worked in deploying desktop applications, web applications, websites and console applications to the Microsoft Azure Cloud.
+Implemented a CI/CD pipeline using Azure DevOps (VSTS, TFS) in both cloud and on-premises with GIT, MS Build, Docker, Maven along with Jenkins plugins.
+Worked on version controls and have end to end knowledge in integration of TFS and VSTS.
+Experienced in Administration of Production, Development and Test environments carrying different operating system platforms like Windows, Ubuntu, Red Hat Linux, Centos and Solaris servers.
+Profusely worked on Version control tools like Subversion, GIT, clear case to track changes made by different people in source code.
+Expertise with designing and deploying container-based production clusters using Docker, Kubernetes, Docker weave, Docker composer, Docker file. worked on container snapshots, removing Images, managing Docker volumes and Docker Weave for Network communication between containers.
+Experienced in Building and deploying the application code using CLI of Cabernets called kubectl, kubelet, kubeadm, kubespray and scheduled the jobs using Kube-scheduler. Managed cabernets charts using Helm and created reproducible builds of the Kubernetes applications.
+Expertise in automating deployments, scaling, and operations of application containers across clusters of hosts, provided container-centric infrastructure by Kubernetes. Used Jenkins and pipelines to drive all micro services builds out to the Docker registry and then deployed to Kubernetes, Created Pods and managed using Kubernetes.
+Experienced in Azure Kubernetes service to produce production-grade Kubernetes that allow enterprises to reliably deploy and run containerized workloads across private and public clouds.
+Experienced in writing yaml files with best practices and created Pods, deploying services in pods and monitoring Kubernetes cluster activity, good at trouble shooting the Pod issues by looking at Pod logs, API server logs.
+Managing major architecture changes from single server large software system to a distributed system with Docker and Kubernetes orchestration.
+Profoundly did Continuous integration using Hudson's/Jenkins, Anthill pro, Team city and Bamboo, which requires developers to integrate code into a shared repository several times a day.
+Experienced in working on DevOps/Agile operations process and tools area (Code review, unit test automation, Build & Release automation, Environment, Service and Change Management).
+Expertise in Database Design and Database Programming (Stored procedures, Triggers, SQL) using SQL Server.
+Hands on experience on Backup and restore Azure services and in Design and configure Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing. Azure cloud services, Blob storage, Active directory, Azure Service Bus, Azure Logic Apps, Azure Functions, Cosmos DB.
+Experience in Kubernetes to deploy scale, load balance, and manage Docker containers with multiple names spaced versions using Helm charts.
+Experience in using the monitoring tools like Azure monitoring, Dynatrace to setup the desired alerts to avoid disruption.
+Hands on experience in writing Azure Resource Manager (ARM) to deploy, update and delete multiple resources in Azure and migrating the on-premises resources to Azure with Azure Site recovery (ASR) and Azure backups.
+Developed and designed Azure DevOps pipeline to manage the resources across multiple subscription in Azure.
+Designing and implementing Azure Solutions across a range of cloud models like Saas, Paas, laas, and integrated on-premises, on-demand workloads with the Azure public cloud
+Proficient in creating Docker images using Docker File, worked on Docker container snapshots, removing images, and managing Docker volumes and implemented
+Good knowledge on implementing Symmetric encryption in SQL Server 2012.
+Used AGILE methodologies as software development life cycle models (SDLC).
+Highly adaptable in quickly changing technical environments with very strong organizational and analytical skills.
+Excellent communication and interpersonal skills with ability to interact with individuals at all levels and can work as a part of a team as well as independently.
+
+CERTIFICATIONS & TRAINING:
+AWS Certified Solution Architect – ASSOCIATE 2023
+AWS Certified Developer – ASSOCIATE 2024
+
+TECHNICAL SKILLS:
+Operating Systems
+Linux (Red Hat 6.x/7.x/8.0, CentOS), Windows
+Version Control Tools
+Perforce.SVN, GIT
+Build Tools
+Maven, Gradle
+Continuous Integration
+Jenkins, Bitbucket, GitLab, GitHub
+Configuration Management
+Ansible, Ansible Tower
+Databases
+Oracle, MySQL
+Application/Web Servers
+httpd, Nginx, WebSphere, WebLogic
+InfraStructure as Code
+Terraform
+Cloud
+AWS.
+Scripting Languages
+Shell, Python
+Web
+Tomcat, HTML, Java Script, JQuery, Kibana
+Code Quality
+SonarQube
+Virtualization
+Docker, Kubernetes, Docker Swarm
+Atlassian Tools
+Jira, Jira Service Desk, SharePoint
+
+PROFESSIONAL EXPERIENCE:
+
+Client: BKFS, FL Sep 2022 to Present
+Role: Sr. Azure DevOps Engineer.
+Responsibilities:
+In this project we worked majorly implementing CICD pipelines from end to end using azure DevOps and worked on implementing ARM and yaml files to integrate with pipeline creation.
+Worked on creating pipelines to automate the processes like provisioning and deploying Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) such as Azure Virtual Machines, Azure Virtual Networks, Azure Service principles, Azure App registrations, provisioning Azure worker role, configuring and setting up Private Static IP Address and Public IP address.
+Worked implementing pipelines for Deploying Azure virtual machines (VMs) into secure Azure V-Nets and subnets and Configured Azure Traffic Manager to build routing for user traffic Infrastructure Migrations and performed Operational efforts to deploy all legacy services to a fully Virtualized Infrastructure.
+Worked on creating and managing Azure Active directory tenants, manage Azure user roles and resource groups, and configure application integration with Azure AD. Worked on Integrating on-premises Windows AD with Azure AD, configure multi-factor authentication (MFA) and federated single sign-on (SSO).
+Performed configuration of Azure Web Apps, App services, function apps, Application insights, Azure DNS, Azure Network Watcher and implementing Azure site recovery, Azure stack, Backup and Automation.
+Written runbooks in PowerShell and deployed using CICD Azure DevOps to Automation Accounts. Release pipelines use Azure AD, azure Application Registration, azure service principal in the Azure DevOps service connections for authentication to Azure. Runbook uses these connections for Authentication.
+Worked on implementing CICD pipelines in Azure devops, implementing build pipelines, release pipelines and automated provision and deployment processes.
+Worked extensively on Azure DevOps services such as Repos, Test Plans, creating agent pools and creating custom agents like VMs from azure portal, CICD Pipelines, Web Apps, and Application Insights. And Written many CICD pipelines using classic UI and Yaml code to deploy and provision any resources on azure portal.
+Had good experience in writing the Terraform templates for provisioning virtual networks, subnets, VM Scale sets, Load balancers and NAT rules and by using Terraform graph module we visualize execution plan for analyzing the plans. Along with writing the terraform I was involved in writing new plugin scripts which supports the new functionalities in Terraform.
+Also, Developed Ansible Playbooks to simply and automate some tasks, manage Web applications, environment configuration files, Mount points, and Packages. Customized Ansible modules as per the project for identify the facts about Azure Monitoring alarms and respond to manage those alarms during deployments and maintenance.
+Experienced in managing the Kubernetes to deploy, load balance using ingress, scale and managed docker containers with multiple name-spaced versions.
+Developed a greenfield project leveraging Docker and Azure Kubernetes Service (AKS), including configuration standards, designing infrastructure with secure networking, and CI/CD pipelines. Used Azure Kubernetes Service to deploy a managed Kubernetes cluster in Azure.
+Implemented Blue Green/Canary Deployments nodes with Zero downtime where the current environment is replicated to latest version with Kubernetes to work on bug fixes, patch fixes, patch releases and redirect the traffic to it, once the issues are resolved.
+Implemented globally distributed platform using Azure Cosmos DB and Redis, providing low-latency and high-availability for users in different regions.
+Worked on azure log analytic workspace where we there are chances of getting more logs from Kubernetes and we will filter those logs and transfer logs to Splunk and monitoring dashboards.
+implemented a scalable data processing pipeline using Azure Cosmos DB and Azure Functions, allowing for real-time data analysis and insights for our application.
+Worked with azure key vault and Hashi Corp vault to create, manage secret, keys, and certificates. azure key vault used for pipeline and automation related key and certificates and Hashi Corp vault used for applications secrets.
+Implemented cloud security controls in devSecOps tools to encryption, tagging, container, security, NSG Management, service endpoints.
+Worked on setting up Splunk to capture and analyze logs from various layers such as Load Balancers, Web servers and application servers.
+Used Splunk to monitor the system logs as well as notify the incident management system upon exceeding thresholds.
+Experience working with an application performance monitoring tool, i.e., Dynatrace and log analytic tools, i.e., Splunk. And Engineering, Implementation, Installation, Integration, version upgrade and patch installation of APM applications: Dynatrace, Triage of APM: Dynatrace and CA Wily Introscope monitoring environment events.
+For monitoring and analyzing the network loads on the individual machines we implemented the use of Nagios and Splunk tools for and automated the testing of web applications using Selenium Web driver.
+Used GIT as a source code management tool for creating local repo, cloning the repo, adding, committing, pushing the changes in the local repo, saving changes for later (Stash), recovering files, branching, creating tags.
+Implemented Self-service solutions to ease the process of deployment or triggering build using customized html pages.
+
+Environment: Microsoft AZURE, Azure AD, Azure SQL, Azure Network, Kubernetes, Ansible, Jenkins, Docker, Terraform, Microsoft Azure Storage, dev SecOps, SonarQube, Groovy, Maven, Git, Gitlab, ELK, Splunk, Jira, Nexus, Tomcat, GitHub, Linux, Filebeat, Elastic search, Logstash, Kibana, Graylog, ElastAlert, Buildkite.
+
+Client: AAA, Coppell, Texas July 2020 to Aug 2022
+Role: Sr. DevOps Engineer / Azure.
+Responsibilities:
+Written various Automation Scripts to automate manual tasks, deploy applications, application build scripts/versioning etc. Using many popular open-source libraries with different languages like Shell and Python based scripting.
+Managing IAM (Identity Access Management) on azure portal to give access to developers or groups.
+Used Helm charts to integrate the application with different ports and it contains service, deploy and ingress files in YAML.
+Used go language to maintain Deployment files for application.
+Used Azure DNS zone to maintain URLs. Bought open networks DNS zone for application.
+Hands on experience on Backup and restore Azure services and in Design and configure Azure
+Experienced in Azure DevOps Continuous Integration & Continuous Delivery, Azure DevOps
+Experience in writing Terraform (TFS) scripts from ground for Developing, Staging, Production, and Disaster Recovery for cloud infrastructure.
+Experience in creating and designing the Terraform (TFS)templates to create custom sized Resource groups, Kubernetes cluster, Container, blob storages, IOT hub, Event hub. Infrastructure as a code deployment of Web application templates to secure the environment.
+Worked on Serverless services, created and configured HTTP Triggers in the Azure Functions with application insights for monitoring and performing load testing on the applications using the Visual Studio Team Services (VSTS) also called as Azure DevOps Services.
+Development of automation of Kubernetes clusters with using Terraform (TFS)scripts.
+Developed and Automated the Tests to validate the correctness of the Servers Configuration. Expressed in YAML Code and Used GITLAB to update GIT repository.
+Implemented a Continuous Delivery pipeline with Docker, Microservices, Gitlab, Maven, azure.
+Automated CI/CD with Gitlab, build-pipeline-plugin, Maven. Used J-frog Artifactory
+Worked with Docker and Kubernetes on multiple cloud providers, from helping developers build and containerize their application (CI/CD) to deploying either on public or private cloud.
+Prepared capacity and architecture plan to create the Azure Cloud environment to host migrated IaaS VMs and PaaS role instances for refactored applications and databases.
+Collaborate to development of main Web Applications to provide invoicing emission services, Responsible of web application deployments over cloud services on Azure, using VS and PowerShell.
+Configuring the Load Balance Sets Azure Load Balancer, Internal Load Balancer and Traffic Manager and worked on Application Gateway.
+Worked on Power Shell scripts to automate the Azure cloud system creation of Resource groups, Web Applications, Azure Storage Blobs & Tables, firewall rules.
+Created and Configured Azure Cosmos DB and exposed the service as Web API.
+Provisioned Azure data lake store and azure data lake analytics, and leverage U-SQL to write federated queries across data stored in multiple azure services.
+Tracked infrastructure changes and Optimized resources using Cloud Health.
+
+Environment: Azure, IaaS, PaaS, Terraform, Auto-scaling, CloudFormation, Json, YAML, Java, C#, Docker, Kubernetes, Gitlab, SonarQube, Nexus, Maven, MYSQL, Azure Resource Groups, IOT HUB, Terraform, nginx, Windows and IAM.
+
+Client: Penfed Credit Union, McLean, Virginia April 2018 to June 2020
+Role: DevOps Engineer.
+Responsibilities:
+Worked Extensively on Configuring and Provisioning of Virtual Machines, Storage accounts, App Services, Virtual Networks, Azure SQL Database, Azure Search, Azure Data Lake, Azure Data Factory, Azure Blob Storage, Azure Service Bus, Function Apps, Application Insights, Express Route.
+Have Worked on Setting up Azure Monitor Dashboard for various Azure Services by enabling Diagnostic settings and writing queries in Log Analytics Workspace to send the logs to Azure storage accounts and stream the logs to Azure Event Hubs.
+Created and configured HTTP Triggers in the Azure Functions with Application Insights for monitoring and performing load testing on the applications using the VSTS and used Python API for uploading all the agent logs into Azure blob storage.
+Data was transferred from On-Premises SQL Database servers to Azure SQL Database servers via Azure Data Factory Pipelines created with the Azure Data Factory copy tool and Self-Hosted Runtimes.
+Created and maintained Continuous Integration (CI) using tools Azure DevOps (VSTS) over multiple environments to facilitate an agile development process that is automated and repeatable, enabling teams to safely deploy code in Azure Kubernetes Services (AKS) using VSTS by YAML scripting.
+Worked on Integrating Azure-DevOps Boards with Microsoft Teams and Pipelines for Notifying Sprint Boards and Teams respectively.
+Well versed in using Terraform templates for provisioning Virtual Networks, Subnets, VM Scale sets, load balancers, and NAT rules. Configured BGP Routes between on-premises data centers and Azure cloud to enable ExpressRoute connections.
+Performed Azure Scalability configuration that sets up a group of Virtual Machines (VMs) and configures Azure Availability and Azure Scalability to provide High Application Availability and can automatically increase or decrease in response to demand.
+Used Azure Kubernetes Service (AKS) to deploy a managed Kubernetes cluster in Azure and created an AKS cluster in the Azure portal using template-driven deployment options such as Azure Resource Manager (ARM) templates and terraform.
+Used Azure Kubernetes Service (AKS) for Implementing Jenkins pipelines into Azure pipelines to drive all microservices builds out to the Docker registry and then deployed to Kubernetes, Created Pods, and managed them.
+Maintained Bitbucket Repositories, including Jenkins for integration, building new repositories, enabling GIT to ignore, branching, merging, creating pull requests, and Bitbucket and JIRA access control schemes.
+Involved in integrating Azure Log Analytics with Azure VMs for Monitoring, Storing, tracking Metrics, resolving and investigating Root cause issues.
+PowerShell runbooks were written and deployed to Automation Accounts using CICD Azure DevOps. PowerShell scripts were also written to make API calls to Azure DevOps and find Users who had not accessed Azure DevOps in more than 90 days.
+
+Environment: Azure, Terraform, Kubernetes, Ansible, Shell, Python, Linux, Jira, Bitbucket, My SQL, Jenkins, Apache Tomcat 7. x, Azure-DevOps, Docker, NoSQL, ARM, Virtualization, Kubernetes, Nagios, Splunk, App Dynamics Nginx, LDAP, JDK1.7, XML, SVN, Git, Windows, Maven.
+
+Client: Vendeep Technoidentity, Hyderabad, India Feb 2016 to Jan 2018
+Role: Build & Release Engineer
+Responsibilities:
+Worked as a Build and release engineer to automate the companies Build and release process.
+Implemented the Branching Strategies on Bit Bucket for each project repository to maintain the consistency on the release process for every environment.
+Created, Merged, Developed the branches in the Bit Bucket repositories for the assigned projects as per the client requirements.
+Automated the process of CI/CD using Bit Bucket, Maven, Docker, Ansible, WebSphere, Tomcat
+Hands-on experience on Ansible as Configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change.
+Created couple of remote roles for the Ansible for using the repetitive logic in the Shared Remote Repositories
+Installed/Configured/Managed Jenkins plugins for CI Automation.
+Worked on creating the Shared Libraries for Jenkins to use the pipeline2 code for the existing builds as part of the compliance.
+Continuous delivery of artifacts to multiple environments using IBM Urban Code Deploy.
+Automation of the creation of IBM urban code deploy components using UCD API’s and integrated it with Jenkins.
+Automated the process for creating the containers on the fly for every build which is triggered through Jenkins using the Jenkins workspace mounted to the new created container, and entire build is processed in the container itself.
+Good working experience on creating the Ansible Vault for encryptions on the configuration files.
+Installed and configured IBM Http Server, installed WebSphere plug-in, involved in generating plug-in file and solving plug-in related issues.
+Configured WebSphere resources like JDBC providers, JDBC data sources, Queues, Queue Connection Factories, and connection pooling and tuning it and Enabled monitoring on using PMI and Dyna Traces
+Documented the day-to-day changes/issues and uploaded to the SharePoint to create the better transparency/Consistency between the teams.
+Implemented all the above strategies using Agile and Kanban Methodologies.
+Provided On Call Support 24x7 on rotation basis.
+
+Environment: Web Sphere, Tomcat, LINUX RHEL 7x, Dynatrace, SharePoint, Confluence, Docker, Ansible, Jenkins, Bitbucket, Python/SHELL, Groovy, XML
+Client: Idhasoft, Hyderabad, India Oct 2013 to Jan 2016
+Linux Administrator.
+Responsibilities:
+Created repositories according to the structure required with branches, tags, and trunks.
+Created hooks and managed permissions on the branches for GIT.
+Responsible for designing and deploying best SCM processes and procedures.
+Provided 24x7 on-call supports in debugging and fixing issues related to Linux, Solaris,
+HP-UX Installation/Maintenance of Hardware/Software in Production, Development & Responsible for maintenance of source control systems Subversion and GIT.
+Installed and configured SSH server on Red hat/Cent OS Linux environments.
+Created and maintained several build definitions and publish profiles to handle automated builds in an Agile / SCRUM environment.
+Attended sprint planning sessions and daily sprint stand-up meetings. Configured application servers (JBOSS) to deploy the code.
+Used Apache Tomcat as application server for deploying the artifacts.
+Installed, administered, and configured Jenkins/Bamboo Continuous Integration tool.
+Used Ant, Maven to perform daily and weekly Software Builds.
+Helped developers and other project teams to set views and environments.
+Replicated the Jenkins build server to a test VM using Packer, Virtual Box, Vagrant, Chef, Perl brew and Server spec.
+Wrote shell scripts for automated installations to extract logs.
+Releasing code to testing regions or staging areas according to the schedule published.
+Used Jira as ticket tracking and workflow tool.
+
+Environment: SVN, GIT, ANT, MAVEN, Chef, Windows/Linux, C#, Jenkins, JIRA, JBOSS, Apache Tomcat, VM ware, Virtual Box, Perl Scripts, Shell Scripts, Unix/ Linux environment.
+
+EDUCATION:
+Bachelor of Commerce from Osmania University (2007)
+Completed PGDBA (Finance) from Symbiosis University (2013)
+Contact this candidate

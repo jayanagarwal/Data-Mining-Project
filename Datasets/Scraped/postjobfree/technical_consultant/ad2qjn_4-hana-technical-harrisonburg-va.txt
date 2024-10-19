@@ -1,0 +1,179 @@
+Santhoshi Kumari Patnam
+ad2qjn@r.postjobfree.com 224-***-**** Harrisonburg, VA
+www.linkedin.com/in/santhoshi-kumari-patnam-5201bb2a Professional Summary:
+Having more than 13+ years of experience as an SAP ABAP and HANA Technical Consultant involved in SAP Implementations, Migration, Upgrade and Support projects in SD, PP, PM and MM modules. An effective communicator with excellent relationship, management skills and strong analytical, problem solving and organizational abilities. Experience in supporting the Integration and user acceptance testing, test documents and detailed knowledge transfer documents for Post Implementation support tasks.
+.
+Technical Skills:
+SAP Versions: Worked on 4.6C, 4.7, ECC 5.0, ECC 6.0, SAP S/4 HANA ON PREMISE 1511 and 1610.
+DDIC (Data Dictionary): Worked extensively in ABAP Dictionary Objects (Domain, Data element, Tables, Table types, Structures), Table Maintenance Generator, Views, Search Helps, Lock Objects.
+Reports: Worked extensively in creating Classical reports, Interactive reports, ALV reports and OOPS ALV.
+Forms: SAP Scripts, Extensive experience in working with smart forms, adobe forms.
+Conversions: Experience in BDC (Call Transaction and Session Methods) and LSMW.
+Interfaces: Worked on BAPI / RFCs, IDOCs.
+Enhancements & Modifications: Worked on Enhancements, Customer Exit, BADI and User Exits.
+Module Pool: Worked on screen painter, menu painter and different components in Dialog/Module Pool programming.
+File Handling: Strong knowledge of File handling in Presentation server and in Application server
+Transport organizer: Extensive experience in Create various types of Transports.
+Modularization Techniques: Worked on Includes, Function Modules and Subroutines.
+Performance: Used various tools like SQL Trace, Runtime Analysis, Extended program check, Code Inspector to check the performance of the code and Dump analysis, Strong Debugging skills.
+Web Dynpro for ABAP: Experience in UI technology for developing web applications
+ABAP OOPS: Developed various objects using Object Oriented Programming.
+Experience in Job scheduling.
+Worked on ODATA services in SAP NetWeaver gateway.
+CDS Views: Worked on CDS views using different Templates.
+S/4 HANA: Implementation, Conversion and Technical analysis. Employment History:
+SAP Technical Lead at TATA Consultancy Services (TCS), April 2022 - July 2023.
+SAP ERP Senior Analyst at NTT DATA, November 2009 - April 2022 Achievements:
+1. Outstanding Contribution Awards
+NTTDATA - Recognized for exceptional contributions across multiple projects. 2. Spot Awards
+NTTDATA - Acknowledged with Spot Awards for excellence in various projects. 3. Star Award
+TCS - Honored with the Star Award for outstanding performance in the Ericsson project. Experience:
+Project #6 - Ericsson, Plano, TX (USA) Apr 2022 – Jul 2023 Environment: SAP Version ECC6.0 Ehp7 and S/4 HANA ON PREMISE 1610 Project Type: Development and Migration
+Role: SAP Technical Lead
+Contributions:
+Worked as a technical architect of onapsis, which includes design, development, and implementation of onapsis components in SAP applications. Provided high quality customer support throughout the project.
+Collaborate with functional owners, architects, and other personnel to develop dynamic and flexible systems to meet the emerging demands of the market.
+Responsible for Estimations, Understanding of Functional specifications, Prepared technical specifications as per the Ericsson quality standards.
+Worked on Code review and performance optimization.
+Worked on technical analysis of objects in various applications and executed code profiler by VF tool. It is a value- based service to identify vulnerabilities like Security, Compliance and Data loss prevention issues in ABAP Code. Based on the test scenarios, cleared all the flaws in the custom code.
+Responsible for developing the objects and Prepared Test Documents.
+Interaction with onsite coordinator/client.
+List of applications for which executed code profiler tool: ONE, EWM, EBW, GTS, BPC, SOLMAN, MDG. Project #5 - Honeywell, North Carolina (USA) Sep 2020 – Apr 2022 Environment: SAP Version ECC6.0 Ehp7 and S/4 HANA ON PREMISE 1610 Project Type: Development and Migration
+Role: SAP ERP Senior Consultant
+Contributions:
+Created a standalone report which uses classes, methods, RFC function modules, BAPI’s.
+Identified the Gaps for RICEF.
+Worked on smart forms, interfaces, reports and enhancement framework.
+Created smart forms and sent smart form PDF as an email attachment.
+OSS notes Implementation (Prerequisite and Issue fixing)
+Addition of Custom fields to standard transactions and modified some standard fields data based on the requirement.
+Preparation of UTP and Involved in Unit Testing
+Worked on interface programs to push the data from SAP to SFDC, SAP to APPIAN and Vice versa.
+Involved in audit documents preparation and Audit processes. Honeywell Aerospace: ISC HUB Automation
+Created various interface programs to modify Basic Start date and Basic Finish Date of production order and Planned order using standard BAPI’s.
+Created Interface to update MD04 Part notes from Appian and Update in SAP MD04 with details
+Custom filed addition to production orders (CO01/CO02/CO03) Honeywell PMT: HPS Services Salesforce Advance Automation Created various interface programs as a part of this project
+Quoted Order: Interface created to push the SAP Service Order to SFDC to generate a Work Order. A job will be scheduled in background which will have a program with the data extraction logic and call to proxy, immediate feedback will be expected from Salesforce with the work order number and status. Program needs to be updated the service order with the status and the work order number
+Project Work Order: Interface created to trigger the creation of a Work Order in SFDC from a Network Object within the Project on SAP. The interface will have a manual trigger but is expected to be a near-real time push. Once the Work Order is created in SFDC the WO Number should be captured back against the Network Object for reference.
+WOLI Cancellation: If the WOLI is cancelled in SFDC, it should cancel the record in SAP as well. Once cancelled the WOLI in SFDC the user should not be able to do any modifications. SAP will confirm if the cancellation is successful or not. WOLI will remain in cancelled status and read-only.
+WO Close-Network TECO: Interface between SAP and Salesforce to facilitate the automatic closure of Work order in SFDC when a network is TECO’s in SAP
+Honeywell HBT/SPS: SKU Rationalization – Product Segmentation Created a program to get the dissociated characteristics and values of given Full model number of Material.
+Input should allow single input/Multiple and excel template used to upload the file as input.
+Output file moved to application server folder via AL11. Project #4 - Exxon Mobil, Huston (USA) May 2019 – Aug 2020 Environment: ECC 6.0, Ehp7
+Project Type: Development and Support
+Role: ABAP Technical Consultant
+Contributions:
+Providing estimations for the requirements.
+Participating in Internal calls and weekly calls with client and the team.
+Maintaining task documentation based on task type and complexity.
+Performing code reviews.
+Providing trainings to internal team on critical objects
+Presenting the teamwork status in the client visits
+Have been effectively and actively communicating with the clients, COEs and Onsite coordinators. Always ensured that there is a flow in communication without any gap either through mails, calls.
+OSS notes Implementation (Prerequisite and Issue fixing)
+Worked on Sales order confirmation print output.
+Created BDC program to upload Sales order header text.
+Created ALV report to display Sales operation with list of customers and sales partners.
+Developed a report to show incomplete sales order documents
+Transferred data from legacy system to SAP R/3 system using BDC for purchase order.
+Developed a report to list of sales orders based on the sales organization, distribution channel and division.
+Worked on Web Dynpro application for Address details.
+Create entity types and implemented GET, PUT and POST methods
+Created CDS views to display delivery and billing details.
+Actively participated in daily stand-up meetings and Sprint refinement meetings. Project #3 - NTTDATA SAP Tools & Services Jul 2010 – Apr2019 Environment: SAP Version 46c to ECC6.0 Ehp7 and S/4HANA ON PREMISE 1511 Project Type: Development, Support and Implementation Role: SAP ABAP and HANA Consultant
+Contributions:
+Performed Tool executions for various clients using different Proprietary tools and managed several customers simultaneously.
+Developed Many new Tools from the scratch.
+Development of applications for proprietary tools was always challenging since developments should be downward compatible as well as upward compatible in order to deploy on any SAP version.
+Developed many utilities within very short deadlines. The requirement was always quick while performing tool executions for customers and was always challenging to understand the customer requirements and to deliver them on time.
+Competent in presentation, documentation, user-training, support and knowledge transfer skills.
+Worked on ABAP on HANA - Inline declarations and ABAP 7.40/7.50 new syntaxes.
+Worked on ODATA - CRUD operations, Associations & Navigation, Different Query operations
+As a part of R&D, Worked on Custom code Adaptation for S/4 HANA which includes Simplification Database, Check the custom code with ATC, Adapt the custom code with SAP S/4 HANA using ADT – ABAP in Eclipse/SAP HANA Studio
+Worked on CDS Views – with join, with Input parameters, with Association, with Table function The Tools & Innovations team at NTT DATA develops, enhances, executes and maintains the proprietary tools and accelerators
+Proprietary Tool #1: QCERTIFIER: It is a value-based service to identify vulnerabilities and improve performance in ABAP Code.
+Created a report to show the graphical dashboard using Business graphics in Web Dynpro’s to showcase graphical dashboard in Web UI.
+Created a report to show the graphical dashboard using the SAP’s graphical framework which needs to be displayed as the output of the report.
+Created a BAPI to restrict the release of transports as to check few things mandatorily in the tool before releasing the transports from SE10.
+Developed a report to show the output in tree format with icons at SAP side and Web UI
+Created Data Dictionary objects like tables, domains, data elements, structures, table types, Search helps etc.
+Created Standard texts for maintaining information help in the tool.
+Developed a Smart form in order to generate certificate document in the tool.
+Developed a report which downloads the data into PDF document.
+Created tool transports from versions ECC 6.0 to ECC 6.0 Ehp7
+Performing executions for various clients like Honeywell, Exxon Mobil, UTCL etc. Proprietary Tool #2: Hanalyst: Upgrade Accelerator for HANA system
+Worked on Web Dynpro developments for Hanalyst Tool.
+Developed Web Dynpro Application with different UI Elements like: Tab Strip, ALV, Tree, View Container, Drop Down, etc.
+Creation of components & designing interactive views
+Providing Communication between different WD Components
+Maintaining the repository of HANA Enabled Tcodes/Reports in the tool
+Developed ALV tree reports in Hanalyst tool using classes
+Developed Class to upload PPT to Application Server
+Created a framework for the GUI of the tool
+Proprietary Tool #3: IFIX: Automation of ABAP Code Correction, this tool has the capability of replacing obsolete function calls with the new ones, thereby accelerating the delivery process.
+Developed a program to display the preview of the code before and after changes. The code was displayed in an editor using classes
+Intensive study on obsolete function modules and their replacements for ECC 6.0 upgrades
+Developed a program to display the function module calls that can be replaced. The objective of the program is required to check the program code for CALL FUNCTION statements and checking the repository for availability of replacements
+Developed a program to replace the OPEN DATA SET and DESCRIBE statements with new replacements.
+Intensive Unit test to check replaced code and created various test cases to test the tool proficiency. Proprietary Tool #4: Uptimizer: Upgrade Accelerator
+Developed many utilities and reports which required the use of dynamic internal tables, field symbols, ALV reporting framework (function modules + classes), OLE, macros etc.
+Involved in the enhancement of the upgrade analysis programs to handle the various upgrade issues across all the versions.
+Created RFC Function modules.
+Involved in the enhancement of GUI of the tool.
+Involved in maintaining/updating the metadata repository for upgrade analysis.
+Worked on fetching the usage statistics from remote system using RFC standard function modules for lower versions and higher versions as well.
+Worked on report which uses OLE’s for downloading the data in to different worksheets in an excel workbook.
+Executions performed on different SAP systems like ECC, BW, CRM, SRM, SCM.
+Executions performed on more than 30 customers using Uptimizer tool
+List of customers for which I have performed upgrade assessments using Uptimizer:
+Stanley Black & Decker, Omnicell, Fitch rating, T-Mobile, CommScope, Pearson Publications, G.E, Daimler etc. Proprietary Tool #5: Hotpac Analyser: Assesses the impact of SAP Support packs and Enhancement Packs
+Developed utility in which we can upload a required code into the particular program.
+Developed Code to download/Upload all source code of programs under particular development class
+Developed code to maintaining/updating the metadata repository of support packs, Enhancement packs and stacks data in HPA tool from service market place.
+Assigned documentation (i.e. standard text) in HPA tool
+Developed custom objects capture program and also upgrade analysis to handle the various upgrade issues across all the versions.
+Worked on various Layout Elements in Module pool programming like Text field, I/O fields, Tab Strip, Table control, Push button, Radio button, check box, Drop Down, etc.
+Worked on DDIC Objects
+Developed various tree reports
+Developed to download the data into excel workbook using OLE
+Maintaining the updated repository with transports from 46C to ECC 6.0 EHP7
+Created RFC Function modules to get the support packs and enhancements pack data from higher version of SAP system.
+Created a program to delete particular Development class related programs, data elements, domains, tables etc from the SAP system.
+Involved in the enhancement of GUI of the tool.
+Involved in creation/modified of various documents related to HPA tool
+Executions performed on more than 20 customers using HPA tool
+List of customers for which I have performed executions using Hotpac Analyser:
+Murray Energy, Lawson Products, Care Fusion, Boehringer Ingelheim, Meda, Bumblebee, Tellabs, Meda, Aruba etc. Proprietary Tool #6: Speed: It is an integrated service used to identify poor code quality, refine and maximize the performance of primarily custom developed ABAP programs
+Created ALV report to display Obsolete function calls in custom objects
+Developed ALV tree program to display list of custom objects and active objects
+Added buttons to existing GUI of the tool
+Performing executions for various clients like Essar Steels, UTCL etc. Proprietary Tool #7: Testimizer: It is to identity all the screens and screen elements for all active transactions along with the number of users.
+Created a report which required use of dynamic program processing of source code using SCANABAP-SOURCE statement, Dynamic program processing of screens using Import DYNPRO statements to find out the attributes/elements of the screen and also used various dynamic select statements and where conditions.
+Created ALV tree report using classes, added checkboxes, icons and buttons in the tree output.
+Prepared User manual of Testimizer tool.
+Proprietary Tool #8: Extractor: Extractor Program for Upgrade Accelerator
+Created a standalone report which uses classes, methods, macros, RFC function modules and ABAP File interface Project #2 - Varian Medical Systems, Palo Alto, CA (USA) Apr 2010 – Jun 2010 Environment: ECC6.0
+Project Type: Support
+Role: Associate Consultant
+Contributions:
+Carried out Code Optimization and Performance Tuning of the custom programs using SPEED tool and various SAP standard tools like SQL trace, Runtime Analyzer, Extended Program Check, Code Inspector and Code Optimization techniques
+Project #1 - CommScope, Hickory, NC (USA) Dec 2009 – Mar 2010 Environment: 4.6C, ECC6.0
+Project Type: Upgrade
+Role: Associate Consultant
+Contributions:
+The main objective of the project is to rectify the errors and warnings shown by the Uptimizer which is a tool used by us to list out the errors while upgrading.
+Worked as Team member in the project for upgrading SAP version 4.6c to ECC 6.0.
+Worked on more than 100 objects having syntax errors.
+Replaced the Function Modules which are obsolete in the target version with a similar Function Module or a Method with respect to functionality.
+Replaced the Obsolete statements in the Target Version.
+Tested the programs and prepared the test documents.
+Analyzed the 46c version objects and learnt the functionality of the code.
+Fixed the errors with Unicode compatibility for the newer version and resolved the Syntactical errors and was a member of code-review team whose job was to ensure that the best and most efficient code was used across all the objects and suggest alternate coding methods to increase program efficiency. Certifications:
+Fundamentals of Web Dynpro for ABAP (NLCI)
+Build your own SAP Fiori App in the Cloud – 2016 Edition (open SAP)
+ABAP Development for SAP HANA (open SAP)
+Implementation of SAP S/4HANA (open SAP)
+System Conversion to SAP S/4HANA (open SAP)
+Education:
+MCA (Master of Computer Application), Kakatiya University, INDIA
+Contact this candidate

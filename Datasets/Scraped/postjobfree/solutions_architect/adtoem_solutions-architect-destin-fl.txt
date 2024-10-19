@@ -1,0 +1,78 @@
+Michael T Kelly
+Miramar Beach, FL ***** · adtoem@r.postjobfree.com · 732-***-****
+https://www.linkedin.com/in/michael-kelly-a51a10216/
+
+Enterprise Infrastructure Solution Architect
+Results-driven and business savvy consultant with twenty plus years’ experience architecting on-prem and cloud next-generation data solutions to maximize the business needs of global data organizations and DoD workforces. Trusted exceptional communication, presentation, leadership and interpersonal skills with proven pre/post engineering experience in:
+Enterprise operational engineering
+Strategic CAPEX and OPEX budgeting
+Full life cycle management
+COOP DR planning and execution
+Technology application growth forecasting
+Regulatory compliance
+Performance and process optimization
+Data migration
+Documentation (5000+ pages)
+Data automation tools
+
+Certifications – Google Cloud Certified Professional Cloud Architect, Designing Microsoft Azure Infrastructure Solutions, AZ-900 Microsoft Azure Fundamentals, NCDA 7-Mode, NCIE 7-Mode SAN Specialist, NCDA Cluster Mode, NCIE Cluster Mode Backup Specialist, NCIE Cluster Mode SAN Specialist, EMCISA Information Storage Associate, NPP Nutanix Platform Professional, Nutanix Certified Professional-MCI 5.2, Nutanix Certified Master-MCI 5.15, CompTIA Security +, MCP, MCSE, MCT, MCSA, CXE Certified Xiotech Engineer. Active DoD Top Secret Clearance.
+
+Professional Experience Highlights
+Independent Consultant, Supporting IBM US Army PD ALTESS Contract – Radford, VA. 8-2022 to present.
+Enterprise Operational Storage/Virtualization Infrastructure Architect, supporting US Army’s Premier Data Center providing:
+IT Infrastructure (network, security, servers, storage, communications, cloud), Application Migration, Application Management, and End User Support services to multiple Department of Defense (DOD) customers and other government agencies.
+Team lead driving command mandated 2023 transition to Agile workplace environment on storage/virtualization side. Improvements to include DevOps process, SRE strategies, STIG implementation and documentation methodologies.
+In process CAPEX/OPEX consolidation study migrating from diverse, multi-vender storage environment to single vender, cloud based SaaS/IaaS/PaaS customer support environment.
+Operational engineering sustenance/provisioning with daily 2.5M customer base.
+Independent Consultant, Supporting Deloitte US Treasury FinCEN (Financial Crimes Enforcement Network) Contract – Vienna, VA
+Enterprise Nutanix AHV/ESX/Hyper-V HCI, NetApp Storage and Commvault Backup Infrastructure Architect, 3-2022 to 6-2022:
+Responsible for analysis and implementation of best practice of entire HCI, data and backup infrastructure.
+Increased NetApp storage utilization in 1 month by 36%, implementing thin provisioning, dedup, compaction, compression, LUN space allocation, and aggregate reconfiguration.
+Responsible for Nutanix cluster consolidation and hypervisor uniformity by moving from ESX and Hyper-V to 100% AHV, thereby reducing multivendor operational/troubleshooting time and increasing amount available for HCI proposed CAPEX 2023 budget by 26%.
+Redesign of Commvault backup environment including using VSA agents and replacing NDMP CIFS/NAS backups with NetApp file system agents. Increased Commvault SLA from 82% to 92% and reducing large share backup windows by 60%.
+Independent Consultant, Supporting PNC Financial Site Reliability Center (SRC) – Pittsburgh, PA
+Enterprise Operational Storage Infrastructure Architect, 2-2020 to 4-2021:
+Lead Operational SAN Engineer supporting PNC NetApp Site Reliability Center NAS enterprise environment of 272 AFF/FAS controllers, 21+PB, and 47 sites.
+Provisioning, automation, and operational performance troubleshooting for the entire 22 PB NAS storage environment utilizing OCUM, WFA, OCI, Ansible, ServiceNow and BMC TrueSight.
+Slashed NetApp ServiceNow and BMC TrueSight ticket resolution times by 35% using WFA.
+Implement storage preventive maintenance strategy increasing overall uptime sustainability by 20%.
+Identify and implement improvements to maximize PNC current data storage operations and workflows.
+Independent Consultant, Supporting IBM’s United States Agency for International Development (USAID) Federal Migration Contract - Crystal City, VA
+NetApp Cloud Volumes/AWS Commvault Backup Architect, 2-2018 to 9-2019:
+Perform daily OnCommand 9.3 Cloud Manager/Cloud Volumes enterprise storage network activities and administration including management, provisioning, operational troubleshooting, and reporting.
+Design and architect AWS Commvault backup infrastructure for 1000+ Windows/RHEL servers migrated to AWS including file/block and VSA IntelliSnap agents resulting in 70% reduction in backup time window.
+Migrate 100 physical servers’ NetBackup date to Commvault via Commvault ObjectStore.
+Utilize AWS/AWS GovCloud EBS storage and S3/Glacier archiving buckets for federal data requirements.
+Reduced Commvault backup window on AWS Instances by 75%.
+Restructured AWS CIFS backups by replacing NDMP with Commvault FS iDataAgents leading to 70% reduction backup window.
+Independent Consultant, Supporting Raytheon GPS OCX Air Force Contract - Aurora, CO
+Storage/Backup/VDI Architect for Raytheon DoD USAF Contract, 4-2017 to 11-2017:
+Responsible for optimizing diverse enterprise physical/virtual environment consisting of NetApp FAS controllers, EMC VNX/Unity/XtremIO arrays, Nutanix HCI AHV Hypervisor, ESX 5.5/6x VMware vSphere Hypervisors, Horizon VDI, and NetBackup/Avamar/DataDomain backup appliances. Communicated effectively with the customer to demonstrate technologies and solution options. Increased project effectiveness by organising training sessions for team members on storage infrastructure support.
+Engineered the migration of NetBackup data- approx. 100TB - to Commvault using the ThirdParty Migration apps and Commvault ObjectStore.
+Team with Actifio onsite consultant to install/configure/administer Actifio CDP for SQL and Oracle databases.
+Utilized Chef to automate RHEL 6.8 application server builds/COTS and transform into VMware 6.0 templates for test/development lab RHEL upgrades resulting in 30% faster deployment.
+Supported NetApp AWS Cloud ONTAP 9.0 NFS environment with Raytheon AWS engineers.
+Increased storage efficiency by 70% using Data Domain/NetBackup/Avamar deduplication, compression, and thin provisioning.
+Collaborated with VMware team to support VDI Horizon running on XtremIO in development environment reducing equipment costs by 45%.
+Independent Consultant, Supporting U.S. Military Entrance Processing Command (USMEPCOM) - North Chicago, IL
+Lead Storage Operational Architect for USMEPCOM and 65 Military Entrance Processing Stations (MEPS) 4-2015 to 9-2016:
+Responsible for analyzing/optimizing growing storage infrastructure consisting of NetApp cluster mode/ 7-mode controllers, EMC arrays, and Nutanix HCI.
+DISA Nessus STIG scans and resolution for enterprise storage/backup environment extending successful Authority to Operate (ATO) for Army command .
+Design migration of 300+ TB file and block data from legacy EMC and NetApp 7-mode controllers to multiple 2 node NetApp 8040 SAN/NAS clusters using 7MMT, WFA, and SecureCopy.
+Disaster Recovery and COOP design for 65 MEPS to headquarters USMEPCOM utilizing clustered data protection mirrors.
+VMware SRM design with virtualization team for DR of 400+VMs.
+Enterprise-wide implementation of aggregate redesign, thin provisioning, and deduplication resulting in 400% increase in storage efficiency.
+Generate RFI, RFQ, and RFP for multiple 8040 controllers as well as Flash Cache modules for budget process. CAPEX reduced 28% for Base Command.
+
+Prior Professional Experience
+Independent Consultant, Supporting Freeport-McMoRan Inc - Phoenix, AZ. Lead SAN and Backup Architect, 1-2015 to 4-2015.
+Independent Consultant, Supporting Olam International Limited - College Park, GA. NetApp SAN Architect 4-2013 to 8-2013 and 12-2013 to 1-2014.
+Independent Consultant, General Dynamics/USAF CITS Block 30 Project ($2B) - Needham, MA. Co-Lead NetApp SAN/NAS and Veritas NetBackup Architect, 12-2004 to 1-2012.
+Full-Time Employee, Commvault Systems - Oceanport, NJ. Senior Customer Trainer and Pre/Post Sales Engineer, 5-2001 to 12-2004.
+Detailed technical skills list
+Windows 2008 - 2019, Active Directory, LDAP, RHEL 5/6/7, Chef, Puppet, Solaris 8/9/10, CA ArcServe, Veritas Backup Exec, Actifio CDP, Veritas NetBackup 6/7/8x, NetBackup Operations Manager, Norton Ghost, Commvault Galaxy/QiNetix/Simpana 6/7/8/9/10/11x, Commvault IntelliSnap, Commvault ObjectStore, SCCM, VMware vSphere4x/5x/6x, VDI Horizon, Oracle 8/9/10/11, SQL 2005/2008/2008 R2/2012/2014/2016, Exchange, ServiceNow, Remedy, Datadobi, Komprise Elastic Data Migration, Novell, NetScaler, Ansible automation with NetApp, NetApp AFF, FAS, and Cloud Manager, Cloud Volumes, NetApp Data ONTAP 7x/8x/9x 7-mode and cluster mode, NetApp Data Fabric Manager/Operations Manager/Protection Manager/Provisioning Manager, OnCommand System Manager, OnCommand Insight, WFA,, SnapDrive, SnapManager, SnapMirror, SnapRestore, SnapVault, SnapLock, OSSV, MultiStore, vFilers, Data Migration, Data Motion, FlexShare, FlexPod, NetApp Active IQ, VSC, Cisco MDS Fabric Manager/Device Manager, Cisco Nexus, Cisco UCS, APTARE StorageConsole, Symantec CommandCentral, IBM N Series, Symantec Storage Foundation, SecureCopy, ArcSight SIEM, EMC VNX/XtremIO/CLARiiON/Data Domain/Avamar/Unity/UnityVSA, EMC UNISPHERE, Nutanix HCI AOS and AHV/ESX, ServiceNow, BMC TrueSight, Jira, AWS, AWS GovCloud, EBS, S3, EC2, Glacier, Azure, Google Cloud, DISA ACAS/NESSUS, STIGs, Unify360, Ivanti HEAT, and others.
+
+Hardware- EMC, Hitachi, XioTech, NetApp, Nutanix, Pure, HP, Dell, Cisco MDS/Nexus, Riverbed SteelFusion, Brocade, McData, Crossroads, Nutanix, IBM N Series, QLogic, Emulex, Adaptec, Alacritech, and others.
+
+Libraries – Dell, HP, StorageTek, Quantum, ADIC, EMC, IBM, Overland and others.
+Contact this candidate

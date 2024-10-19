@@ -1,0 +1,90 @@
+SOUMYA MANJUNATH
+DATA SCIENTIST • MTECH • ML/CV EXPERIENCE (2 YEARS ) • TOTAL EXPERIENCE ~13Y
+SYNOPSIS
+Enthusiastic and skilled Computer Vision Scientist with passion for developing cutting edge computer vision solutions. Proficient in designing and implementing Machine learning algorithms, utilizing the Image processing for image, video and point cloud datasets. Looking forward to implement solutions for challenging machine learning problem statements to understand and extract the underlying patterns in data.
+EDUCATION
+MASTERS OF TECHNOLOGY in MACHINE LEARNING AND INTELLIGENT SYSTEMS • M S Ramaiah University of Applied Sciences, BANGALORE, INDIA • CGPA – 9.09
+BACHELOR OF ENGINEERING in ELECTRONICS AND COMMUNICATION • MS RAMAIAH INSTITUTE OF TECHNOLOGY, BANGALORE • PERCENTAGE- 72.9%
+HIGHLIGHTS OF MACHINE LEARNING EXPERIENCE:
+Achieved 90% accuracy in detection of signboard object detection using by training Yolov5 model
+Achieved 85% accuracy in tracking signboards and traffic signals by fine tuning StrongSORT object tracking model (Also worked on DeepSORT, ByteTrack and other tracking algorithms)
+Achieved mean IOU of 77.5% in Semantic Segmentation of linear assets from the aerial satellite images.
+Implemented text extraction from the Signboard images with 70% accuracy
+Implemented PointCloud segmentation of Terrestrial and Mobile Lidar PointCloud with an accuracy of 85%
+Performed preprocessing data, training of the Yolov5, UNet, LinkNet, LaneNet, PointNet, PointNet ++, PointNext, KPConv and other Deeplearning models
+Extract assets from images and Point cloud data, post processing of the results using Python libraries like Numpy, Pandas, Pytorch, Tensorflow, Keras, matplotlib, seaborn and other libraries.
+ACCOMPLISHMENTS:
+Received Spot Award for best contribution during a critical release in LG Soft India Ltd, Bangalore
+Received Award of Appreciation for best contribution towards project management and delivery of Airtel Money Phase 2 Project in Infosys Ltd, Bangalore
+ACADEMIC ACCOMPLISHMENTS
+Filed for Patent Application for the Wearable Impulsivity Detection System
+Patent details: “Smart Wearable Emotion Support System”, Indian Patent Application: 020********, Filing date: 22th Dec, 2020.
+Represented MSRUAS in the Smart India Hackathon at the National Level
+Represented MSRUAS in the MS Ramaiah Technology Business Incubator
+PUBLICATIONS:
+oJournal Paper on Wearable Impulsivity Detection using CNN submitted to Springer
+http://link.springer.com/article/10.1007/s13748-020-00229-9
+oJournal Paper Wearable Impulsivity Detection using Regression submitted to IETE (under review)
+PROJECTS COMPLETED DURING MTECH
+DISSERTATION: Detection and Classification of diabetic retinopathy using deep learning.
+GROUP PROJECT: Wearable Device of the detecting Impulsiveness and alerting device
+TECHNICAL SKILLS:
+DOMAIN: Expertise in Computer Vision, Machine Learning, Image Processing, Object Detection, Object Tracking, Segmentation, Image and Point Cloud Data Processing, Design and Architecture, Generative AI, LLM Fine tuning, Visualization
+LANGUAGES: Python, C, C++, R
+DATABASE: MySQL, SQL Programming
+LIBRARIES: Pandas, Numpy, Scikitlearn, Pytorch, Keras, Tensorflow, matplotlib, seaborn
+Analysis Software: PowerBI, Excel Visualization
+SOFT SKILLS: Client Interfacing, Requirement Analysis, Team management, Leadership, Good Mentoring skills, Good Written and Verbal Communication, Effort Estimation, Resource planning, Fast Learning Curve, Good Team player, Blend of Individual Contributor and Team player
+EXPERIENCE
+DATA SCIENTIST • DATA COLLECTION INFOTECH India Ltd • AUG 2021 To OCT 2023
+As a data scientist, my role included designing tasks of a diverse range of computer vision applications, showcasing proficiency in various domains of intelligent systems.
+Object detection of traffic signboards (Yolov5)
+Object tracking of traffic signboards (StrongSORT, DeepSORT, ByteTrack, etc.)
+Text extraction from the traffic sign boards. (EasyOCR, Pytesseract, Google cloud vision API)
+Image Processing using OpenCV
+Sign pole detection using YoloNAS
+Traffic Signal Detection to identify: This project involved the following sub components
+oType of Traffic Light (Signalized/ Flash beacon/ Traffic Pole/Railway Pole etc.)
+oType of Traffic Arms (Single/Double/Span Wire)
+oNumber of Traffic Lights on Pole
+oPresence of Pedestrian Signal on Pole
+oPresence of Pedestrian Push Button on Pole
+For this project we initially experimented with a combination of Object Detection of lights and Semantic Segmentation of Poles, but we got better results with Object Detection of all assets and Post Processing after Object Tracking.
+Detection of Road Markings from Aerial Satellite Images:
+oSemantic Segmentation of Linear Road markings using (UNet/LaneNet/LinkNet). After thorough comparison UNet model was chosen as it gave us the best results.
+oObject Detection of Point Assets from Road markings in Aerial Satellite images (Pedestrian crosswalks, traversals, arrows, merge arrows, etc.). Object Detection of Hatch Acceleration/Deceleration road markings from satellite images using Quadtree Stitched Tile images
+oPreprocessing of the tile images using OpenCV and other image processing libraries
+Projects using Point Cloud Data Processing
+oThe extraction of a Canopy Height Model from PointCloud data in the Virginia dataset using LidR library.
+oTree Segmentation and extraction of the tree trunk height and width from LiDAR point cloud data using Dalponte, Silvia, Watershed and other algorithms.
+oIndoor Point Cloud Segmentation to classify the building PointCloud data into 13 indoor classes using PointNet, PointNet++ and PointNext models
+oOutdoor Point Cloud segmentation of Lidar Point Cloud data for 8 classes using KPConv model by training the model with DALES dataset. Training multiple models of KPConv Model with custom dataset to classify building, vegetation, power lines, poles, automobiles and other outdoor assets.
+Prototype of Augmented image generation tool using Generative AI diffusion models
+The image dataset used for training the object detection of signboards is heavily imbalanced and certain signboards are represented with very less number of samples. Augmented images were generated using this tool to generate a balanced dataset.
+
+Prototype of Annotation tool using Segment Anything Model (SAM)
+A prototype annotation tool was developed based on the segment anything models to generated labeled data with mask images as well as label files in json format.
+
+Annotation tool to generate labels for text in images
+A tool was developed using Python using Tkinter library. The user could select a section of image where text is present. On selection of this region, a widget with input textbox would popup where the text could be entered and this would crop the selection section of image and save the image with the text entered as name of the image. These images were then used to train a Siamese Network to identify the text in the image.
+
+My role in DCIL involved client interaction to perform requirement analysis, exploratory data analysis, effort estimation, interaction with the annotation team, validation and verification of the annotated data, selection of backbone architecture, selection of pre-trained weights, hyper parameter tuning, training, validation of training results, inference on the unseen data, analysis of the results and post processing.
+PROJECT MANAGER • INFOSYS LTD • MARCH 2011 TO OCTOBER 2013
+As the Project Manager of the development team for the mWallet project, my role included Client interfacing, Requirement Analysis, Design the Architecture of the Modules, Staffing of the development team, Effort Estimation, Mentoring, Version controlling, Good Quality and Timely releases, interaction with partner teams, third party interface teams (Bookmyshow interface, Utility bill payment interface etc.)
+MWallet product had multiple modules interacting with each other, server and 3rd party interfaces to service the request obtained from the user. The user could send request from different channels namely web, sms, USSD and mobile application to perform financial transactions.
+
+As an individual contributor, I actively participated in the design, development, and implementation phases of the My Favorites feature for the mWallet product. Meanwhile, as the project manager and development team lead, my responsibilities extended to overseeing design processes, ensuring the refinement of deliverable quality, and facilitating seamless interactions with clients, partner teams, and testing teams to ensure timely project deliveries.
+
+To foster continuous improvement and keep the team abreast of the latest technologies, I organized monthly training schedules. Additionally, intra-team knowledge transfer sessions were conducted regularly to equip all members with the necessary skills to address any potential issues effectively.
+
+Key Responsibilities: Design, Development, Code Review, Client Interaction, Interaction with Partner teams and internal teams, Effort Estimation, Staffing, Appraisals
+
+SYSTEMS ANALYST • LG Soft India • December 2009 TO FEBRUARY 2011
+As the lead of the LGSI’s Messaging team, my work focused on improving the quality of the Messaging applications by reducing the number of defects raised and arresting the defects in the historical defect DB and implementation of new ideas and country specific adaptation in more than eight mobile phones released in various regions across the globe.
+LEAD ENGINEER • JATAAYU SOFTWARE PVT LTD • AUGUST 2004 TO AUGUST 2008
+As the lead of the Core Messaging team at Jataayu Software, I was responsible for design and development of the Core messaging framework to provide interfaces to send and receive SMS, EMS, MMS and EMAIL. As an individual contributor I was responsible for design and develop the Email Core framework.
+SOFTWARE ENGINEER • SASKEN COMMUNICATION TECHNOLOGIES LTD • FEBRUARY 2004 TO AUGUST 2004
+I was part of the Qualification and Release Team and was involved in writing Perl Scripts to qualify and release the deliverables.
+ENGINEER • RAMAN RESEARCH INSTITUTE, BANGALORE• AUGUST 2001 TO JANUARY 2004
+Design and Implementation of Data Acquisition System for ISRO’s Satellite Astrometry project using VHDL on 40K GATE CPLDs and 300K-800k Gate FPGA and the device drivers using C.
+Contact this candidate

@@ -1,0 +1,224 @@
+Satish
+Sr. AWS/ DevOps Engineer
+ad34qv@r.postjobfree.com
+331-***-****
+
+SUMMARY
+
+An AWS Certified Solution Architect and Developer with around 8 years of experience working in AWS/Linux/Cloud/DevOps Engineer roles.
+Having hands on experience in Amazon Web Services including EC2, VPC, S3, EBS, ALB, NLB, Cloud-Front, IAM, RDS, Cloud Watch, Cloud trail, Cloud formation Template, API Gateway, Dynamo DB, Auto scaling Group, Lambda, Security Groups, Glue, Athena, EMR, AWS Code Pipeline.
+Created SCM Process, Policies, Procedures and Release Notes to follow Development and allow SQA teams to Release or deploy highest quality product for the enterprise.
+Develop CI/CD Pipelines for automated Dev/Prod deployments in AWS by integrating with other systems like Jenkins and GITLAB CI/CD, GITHUB ACTIONS, TeamCity, Harness, AWS Code Pipeline.
+Created Dev and Prod environment using Terraform scripts. Created own Resources Modules using terraform for AWS Resources.
+Created start to end infrastructure using Terraform and made use of different modules for the resource creation in AWS environments and also created 3-tier Architecture using Terraform.
+Created functions and assigned roles in AWS Lambda to run python scripts, and integrated API Gateway with Lambda.
+Experience in working with Aurora Server less, MSSQL, PostgreSQL databases.
+Experienced in keeping up and looking at log archives using monitoring tools like Cloud Watch, Splunk.
+Experience in working with cluster management and orchestration features embedded in Docker Engine and worked on creation of custom Docker container images, tagging, pushing the images and Dockers consoles for managing the application of life cycle.
+Created Multi-stage Docker file for the applications by exporting the base image of the applications.
+Worked with Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts and managed containerized applications using its nodes.
+Worked with Kubernetes, Amazon EKS, Docker, Amazon ECS, AWS Fargate, Spot Instances, AWS Lambda, Step Functions, ECR, AWS X-RAY, Amazon CloudWatch.
+Hands on experience with Source Control Management tools like GIT, GITHUB, BITBUCKET, GITLAB, Subversion to track changes made by different servers in source.
+Ability to deploy, manage, and operate scalable, highly available, and fault-tolerant systems.
+Experience in working with various Python integrated Development Environments like VIM, PyCharm, VSCode and Atom.
+Experience in using GIT on UNIX, Linux and Windows environment. Good experience on Linux environments.
+Handled environments DEV, SIT, QA, UAT and PROD for various releases and designed instance strategies.
+Used scripting languages like Python, PowerShell, Ruby, Perl, Bash and configuration management tools Chef, Puppet.
+Installed and Configured - NFS, NIS, DNS, Mail Server, Apache Web Server on Linux.
+Experience in setting up Baselines, Branching, Merging and Automation Processes using Shell/bash Scripts.
+Coordinated with the Offshore and Onshore teams for Production Releases. Strong ability to troubleshoot any issues generated while building, deploying and in production support.
+Ability to work successfully as part of small to medium sized team or independently.
+Excellent communication, interpersonal, analytical and quick problem-solving skills.
+
+CERTIFICATIONS
+
+AWS Certified Solution Architects- Associate. (Active) Validation Number F3P2B5C2324E1GG1
+AWS Certified Developer- Associate. (Active) Validation Number BT2TPEXJD2VEQ299
+HashiCorp Certified: Terraform Associate (003) (Active) Validation Number z09NkKjeM2r90gnaCk5uHw
+
+TECHNICAL SKILLS
+
+Cloud Environment
+AWS, Azure, Google Cloud platform
+AWS services
+EC2, ELB, VPC, RDS, AMI, IAM, S3, Cloudwatch, SNS, SQS, EBS, Route53
+Containerization Tools
+Kubernetes, Docker, ECS, EKS, ECR
+Configuration Management Tools
+Chef, Ansible, Puppet
+Continuous Integration Tools
+Jenkins, Teamcity, Harness, GITHUB ACTIONS, GITLAB CI/CD
+Build Tools
+Maven, Ant, Gradle
+Version control tool
+Subversion (SVN), GIT, GIT Hub, Git Lab, Bitbucket
+Artifactory repositories
+Docker Hub, JFROG Artifactory (AY)
+Bug Tracking Tools
+Jira, Bugzilla
+Monitoring Tools
+Nagios, ELK, Splunk, Datadog
+Databases
+SQL, DYNAMODB, RDS, AURORA SERVERLESS
+Scripting tools
+Python, Perl, Bash, Power shell, YAML, Groovy
+Web/Application Servers
+WebSphere, Apache, Tomcat, JBOSS, WebLogic
+Network Services
+FTP-Vsftpd, SSH, TELNET, TCP/IP, HTTP, SMTP, WinSCP, Raid Levels
+Operating Systems
+UNIX, Linux, Solaris, Red Hat 4.x, Windows Server 2008.
+
+PROFESSIONAL EXPERIENCE
+
+Renew Financial, Oakland, California Feb’23 – Present
+Role: Sr. AWS DevOps Engineer
+Responsibilities:
+Automated the front-ends platform into highly scalable, consistent, repeatable infrastructure using CloudFormation.
+Setup AWS Code Pipeline (CI/CD) using AWS Code Commit, Code Build, Code Deploy and GitHub to automatically build and deploy the changes into the AWS environments.
+Deployed serverless React App application using AWS Code pipeline and helped engineers to maintain the code securely in GitHub and AWS Code Commit.
+Created frontend applications using AWS services like S3, CloudFront, IAM Roles and Policies. Created S3 bucket policies to give permissions to CloudFront. Spin up all these services using CloudFormation template.
+Experience involving configuring S3 version and lifecycle policies to and backup files in glacier.
+Setup the AWS Code Pipeline to deploy applications into AWS Cloud environments by following the best securities practices.
+Deployed backend serverless project using the CloudFormation and Terraform templates. Created CI/CD pipeline to automate the deployment into multiple environments when code is merge to specific branches.
+Good understanding of Git Workflow, Bitbucket, Gitlab, Github and its branching strategies and documented each step on Confluence workspaces.
+Engaged with Developers team to have the clear understanding of the requirements of the new projects and provided least privileges to other team members based on the working roles.
+Created terraform modules for various AWS services and shared with the team to make use of the module into the existing code.
+Automated all the infrastructure using the CloudFormation scripts and helped various engineers into the team to fully understand the its working functionalities.
+Strong experience of Terraform and CloudFormation for creating and managing resources using IAC tools.
+Develop CloudFormation scripts for the existing manually created AWS Resources into the various environments.
+Managing AWS services like EC2, Route 53, IAM, S3, CloudFront, Load Balancers, ACM, DynamoDB, RDS, SNS, AWS Developer tools, Subnets, Security Groups Lambda, API Gateways etc for various applications.
+Created CloudWatch log group for various applications and integrated with the EC2 servers to keep regular logs update into our teams.
+Created cost effective EC2 servers for the environments and have setup regular snapshots backup for the dev and prod servers.
+Integrated ALB and NLB to servers and pointed it to Route 53 records using its subdomain. Can create multiple records into Route 53 public and private hosted zone.
+Used AWS ECR to store the docker build images as repository and used Github/Bitbucket/Gitlab to setup docker image build pipeline that builds docker image and push the image to AWS ECR target repository.
+Having good working experience in AWS with EKS by using CloudFormation and deployed web apps and services using AWS ECS.
+Experience in Kubernetes to deploy, Scale, Load balance, and managing Kubernetes.
+Deployed application which is containerized using Docker onto a Kubernetes cluster which is managed by AWS EKS and also have experience creating pods and clusters in Kubernetes.
+Worked on managing containers in AWS ECS and integrated AWS ECR to ECS.
+Worked on AWS ECS Cluster configuration with Fargate/EC2 instance and managing ECS services with auto scaling, application load balancer (ALB).
+Create and maintain build and deploy CI/CD pipelines using both AWS tools and other CI/CD tools and maintain the AWS Resources for multiple environments.
+Used Elastic Beanstalk for deploying and scaling web applications developed within Ruby platform in AWS Environments and managed multiple Linux and Windows EC2 servers.
+Created scripts in Python which integrated with Amazon API to control instance operation. Used python package called Boto to call the AWS resources.
+Managing all aspects of the end-to-end Build/Release/Deployment process for multi projects.
+Documented all post-deployments issues in a log and assist in resolving these issues where applicable and ensured all steps are successfully completed and document their completion times and issue logs.
+
+Tyler Technologies, Yarmouth, ME May’20 – Feb’23
+Role: AWS DevOps Cloud Engineer
+Responsibilities:
+Worked as DevOps and AWS engineer in Automating, Configuring and Deploying instances on AWS cloud environments and also responsible for maintaining and expanding AWS infrastructure using AWS stack especially worked with database setup.
+Able to create scripts for system administration and AWS using languages such as BASH and Python, created Lambda functions to upload code and to check changes in S3, DynamoDB table.
+Created monitors, alarms and notifications for EC2 hosts using CloudWatch.
+Worked on creation of source code in Git and branching, creating labels, merging of codes on Git for QA testing and release. Built Continuous Integration environment and Continuous delivery environment.
+Integrated Harness with GitHub for continuous integration and deployment of code by enabling Git hooks.
+Created GitHub workflows for the applications to deploy into AWS environment. Configured CI/CD tools Harness and GitHub repository for the continuous smooth build.
+Working with AWS services such as EC2, VPC, RDS, CloudWatch, CloudFront, Route53 etc.
+Configuring and Networking of Virtual Private Cloud (VPC).
+Implemented Automate the Environment provisioning Using Terraform and Docker.
+Setup the scripts for creation of new snapshots and deletion of old snapshots in S3 using S3 CLI tools.
+Worked on creating users and storing the credentials inside the AWS Secret Manager Secrets.
+Written lambda function to automatically update the AWS user credentials by setting up the crone job.
+Used Cloud watch logs to move application logs to S3 and created alarms based on applications' exceptions.
+Creating AWS Lambda functions using python for deployment management in AWS and designed, investigated and implemented public facing websites on Amazon Web Services and integrated it with other applications infrastructure. Implementing and setting up AWS security groups for AWS Instances on AWS Environment.
+Creating different AWS Lambda functions and API Gateways, to submit data via API Gateway that is accessible via Lambda function. Worked with Amazon IAM console to create custom users and groups.
+Responsible for Building Terraform templates for SNS, SQS, Elastic search, Dynamo DB, Lambda, EC2, VPC, RDS, S3, IAM, Cloud Watch services implementation and integrated with Service Catalog.
+Implemented a CI/CD pipeline with Docker, Harness and GITHUB and AWS.
+Experience in working with Docker, Kubernetes, ECR, ECS container services and successfully deployed the images in the cloud environment for managing application.
+Worked on ECS, EKS and ECR deployment to an application server hosted in containers using cloudformation to create IAC.
+Implementing and setting up Route 53 for AWS Web Instances & ELB & Cloud Front on AWS Environment.
+Created cross reference service accounts for different AWS Services to work with each other seamlessly.
+Setup datadog monitoring across different servers and aws services.
+Created datadog dashboards for various applications and monitored real-time and historical metrics.
+Created system alerts using various datadog tools and alerted application teams based on the escalation matrix.
+Hands on experience in automating builds and deployment process using python and Shell scripting.
+Responsible for designing and deploying best SCM processed and procedures.
+
+American Hospital Association, Chicago, IL May’19 - May’20
+Role: Sr. AWS Developer
+Responsibilities:
+Setup Continuous integration with Jenkins and make use of wide range of plugins available to setup smooth developer friendly workflows.
+Educate developers on how to commit their work and how can they make use of the CI/CD pipelines that are in place.
+Setup full CI/CD pipelines so that each commit a developer makes will go through standard process of software lifecycle and gets tested well enough before it can make it to the production.
+Helped individual teams to set up their repositories in bit bucket and maintain their code and help them setting up jobs which can make use of CI/CD environment.
+Worked on the creation of custom Docker container images, tagging and pushing the images and Docker consoles for maintaining the application of life cycle.
+Created RDS Read replicas for Database read throughput and used MultiAZ deployment for high availability.
+Created alarms and trigger points in Cloudwatch based on thresholds and monitored logs via metric filters, utilized AWS Cloudwatch to monitor the performance environment instances for operational and performance metrics during load testing.
+Configured RDS instances using Cloud formations and terraform, also used Terraform to map more complex dependencies and identify network issue.
+Strong Knowledge on Source Controller concepts like Branches, Merges and Tags.
+Extensively involved in infrastructure as code, execution plans, resource graph and change automation using Terraform, Managed AWS infrastructure as code using Terraform, Expertise in writing new plugins to support new functionality in Terraform.
+Responsible to Manage IAM Policies, providing access to different AWS resources, design and refine the workflows used to grant access.
+Scheduled, deployed and managed container replicas onto a node cluster using EKS.
+Experience in Docker and Kubernetes on multiple cloud providers, from helping developers build and containerize their application (CI/CD) to deploying either on public or private cloud.
+Experienced in writing terraform templates that can spin up infrastructure for multi-tier application and provisioned boot strapped software on cloud with terraform.
+Deployment (CI/CD) pipeline in different environments such as Dev/QA and prod.
+Written Templates for AWS infrastructure as a code using Terraform to build staging and production environments.
+Extensive experience on Jenkins, Harness, Code Pipeline for continuous integration and end-to-end automation for all build and deployments and implemented a Continuous Delivery pipeline with Docker, Jenkins, Bit bucket and GIT.
+
+State Farm, Bloomington, IL Sep’18 – May’19
+Role: AWS DevOps Engineer
+Responsibilities:
+Responsible for configuring and build complete Cloud infrastructure for Public and Private Network.
+Creation of AWS Glue jobs, catalog tables creation with Crawler and manual database/table creation.
+Creation of S3 data lake infrastructure and automate the entire process using AWS Lambda function and API Gateways and further ETL process for Analytics.
+Created GitLab CI/CD pipeline for test and prod environment.
+Creation of Role based permission and creation of bucket policies to appropriate access to user.
+Spin up and build scalable architecture based on client requirement and configure the instances and creation of Security group /Firewall groups, KMS Keys, attach those right instances.
+Creation of catalog database tables for Athena for fast querying S3 data and setting up for query performance at Athena.
+Define the scope and responsible for AWS infrastructure and creation of AWS set of service instances based on user stories for regions.
+Worked on creating EMR cluster using terraform and also worked with Athena, AWS Glue, Data lake.
+Worked in container-based technologies like Docker, Kubernetes.
+Deployed automation framework for Application Deployments to the cloud environments using CloudFormation and maintained Docker as Elastic Container Service (ECS).
+Experience in AWS Lambda function and API Gateway, to submit data via API Gateway that is accessible via Lambda function.
+Integrated the AWS S3 bucket with AWS GLUE and also setup glue crawlers to run periodically and scans the data and populates in Glue Catalog.
+Athena query performance and creation of metadata catalog tables for ETL jobs.
+Created the jobs and workflows in AWS GLUE using terraform scripts.
+Integrated the API Gateway with Athena to make it more secure while querying any queries.
+Created detailed AWS Security Groups which behaved as virtual Firewalls that controlled the traffic allowed to reach one or more AWS EC2 instances.
+
+United Health Group Hyderabad, India Jun’16 – Jul’17
+Role: DevOps Consultant
+Responsibilities:
+Working with AWS services such as EC2, VPC, RDS, CloudWatch, CloudFront, Route53 etc.
+Focus on continuous integration and deployment, promoting Enterprise Solutions to target environments.
+Configuring and Networking of Virtual Private Cloud (VPC).
+Creating S3 buckets and also managing policies for S3 buckets and Utilized S3 bucket and Glacier for storage and backup on AWS and written Cloud formation templates and deployed AWS resources using it.
+Implemented Continuous Integration using Jenkins and GIT.
+Designed AWS Cloud Formation templates to create custom sized VPC, subnets, NAT to ensure successful deployment of Web applications and database templates.
+Setup and build AWS infrastructure various resources, VPC EC2, S3, IAM, EBS, Security Group, Auto Scaling, and RDS in Cloud Formation JSON templates.
+Provide highly durable and available data by using S3 data store, versioning, and lifecycle policies.
+Maintained the user accounts IAM, RDS, Route 53, VPC, RDB, Dynamo DB, SES, SQS and SNS services in AWS cloud and implemented automated local user provisioning instances created in AWS cloud.
+Designed and implemented scalable, secure cloud architecture based on Amazon Web Services.
+Written python scripts to create topics in AWS SNS and send emails subscriptions links to various members within the organization.
+Built Continuous Integration environment Jenkins and Continuous delivery environment.
+Worked on Containerizing the Infrastructure using Docker container and their orchestration by deploying and configuring Kubernetes Cluster. Experience creating pods and clusters in Kubernetes.
+Deployed application which is containerized using Docker onto a Kubernetes cluster which is managed by Amazon Elastic Container Service for Kubernetes (EKS).
+Developed custom Jenkins jobs/pipelines that contained Bash shell scripts utilizing the AWS CLI to automate infrastructure provisioning.
+Initiated and troubleshoot Continuous Delivery builds in Jenkins via JIRA tickets.
+Deployed and configured JIRA on both hosted and local instances for issue tracking, workflow collaboration and tool-chain automation.
+Documented release, builds and source control processes and plans and documented work done, skills required and mitigated in future projects.
+Provided deployment support for several releases in finance and corporate business area.
+
+SunGard Technology Services Pune, India Sep’15 – May’16
+Role: DevOps/AWS Engineer
+Responsibilities:
+Worked as Build and release engineer in field of release automation for applications to achieve continuous integration (CI) and continuous delivery (CD).
+Review/Merge/Remove Git Pull Requests to GITHUB. Hands on with GIT/GITHUB for code version control using Branching, Tagging, and Release Activities.
+Implemented AWS Code Pipeline and created Terraform templates to automate provisioning of AWS resources.
+Configured AWS ECS for deploying and orchestrating containers by defining tasks and services.
+Built Docker images using related base image that encapsulates different applications versions which is deployed on AWS by configuring task and Services.
+Implemented security best practices in AWS including multifactor authentication, access key rotation, role-bases permissions, configured security groups, S3 bucket policies.
+Implemented majority of AWS configuration management and orchestration via Terraform, Cloud Formation and Code Deploy.
+Utilized Git repositories such as Bit Bucket, GitHub, Gitlab, and AWS Code Commit.
+Developed procedures to unify, streamline and automate application development and deployment procedures with Linux container technology using Docker.
+Involved in deploying the content cloud platform on Amazon Web Services using EC2, S3 and EBS.
+Deployed the Java applications into Apache Tomcat Application Servers using Jenkins, Git, Docker, Cloud formation and provided assistance for management of AWS storage infrastructure systems.
+Executed user administration and maintenance tasks including creating users and groups.
+Built Python apps that allowed developers to build proprietary solutions without requiring standard components.
+Worked as a system administrator for the build and deployments process on the enterprise server.
+Developed, Maintained, and Distributed release notes for each scheduled release.
+Skilled to write, debug maintain scripts in Shell, Perl etc.
+Create develop and test environments of different applications by provisioning Kubernetes clusters on AWS using Docker, and Terraform.
+Integrated Jenkins to do auto build when code is pushed to GIT.
+Achieved the Continuous Integration and Continuous deployment (CI/CD) process using GIT, Jenkins, Puppet and Custom Repositories.
+Developed and maintained Python/Shell PowerShell scripts for build and release tasks and automating tasks.
+Contact this candidate

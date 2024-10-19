@@ -1,0 +1,156 @@
+TU LE – Senior Cloud Database Engineer
+ad8y88@r.postjobfree.com
+510-***-****
+HIGHLIGHTS
+I have excelled in all aspects of database and system activities, including performance tuning, backup and recovery, disaster recovery planning, and data replication, both remote and local. I have played a crucial role in supporting development and engineering teams, ensuring the seamless functioning of applications. With more than 20 years of total IT and Data Center experience, I have contributed significantly to SaaS architecture, design, and development, crafting customized business applications and infrastructure solutions. My responsibilities have encompassed virtualization, storage management, database design, administration, tuning, and performance optimization.
+
+Furthermore, I bring over 8 years of expertise in database and system cloud migration, having architected migrations to major cloud platforms such as AWS, GCP, Oracle Cloud and Microsoft Azure.. I am proficient in utilizing tools like Terraform, Packer, Jenkins, Puppet, saltstack, Powershell and Ansible to streamline the migration process and ensure seamless integration with various cloud environments. My skill set extends to containerization and orchestration technologies such as Kubernetes and Docker.
+
+CAREER ACHIEVEMENTS
+
+Avalara – Senior Cloud Database Engineer Jan 2022-Present
+Successfully execute the entire application migration project, transitioning from AWS to GCP. This encompasses migrating accounts, ensuring security measures, configuring network settings, transferring PostgreSQL databases, migrating Elasticsearch setups, transitioning Kubernetes environments, and relocating application images.
+Incorporate GitLab, Terraform, ansible, saltstack and Kubernetes Helm into our daily operations for seamless provisioning, updates, upgrades, version control, rollback capabilities, and migration tasks
+Monitoring thousands of servers using Grafana and Prometheus, ensuring the continuous health and performance of critical systems. Utilizing these tools, I meticulously track performance metrics and promptly respond to any out-of-range indicators, guaranteeing optimal system
+Spearheaded the implementation of GitLab CI/CD pipelines to manage database DDL changes across diverse platforms, including MySQL, MSSQL, PostgreSQL, and Snowflake, seamlessly integrated with Flyway for streamlined version control.
+Innovated by amalgamating Terraform, SaltStack, Powershell, bash script and GitLab to establish robust version control mechanisms for database provisioning, feature incorporation, and configuration adjustments, ensuring enhanced collaboration and traceability
+Expanded the functionality of CloudFormation to automate repetitive tasks, facilitating efficient and scalable infrastructure management across multiple environments.
+Develop Python scripts that connect to multiple database technologies, enabling large-scale data transformation and transfer between sources and targets. Most of these scripts are automatically generated and dynamically configured, making them easy for DBA staff or advanced analysts to operate.
+Create python scripts to automate the creation of Django ORM models from a predefined schema, making the setup process more efficient. Script python modules can be added to further customization or additional features, and easily extended as needed.
+Pioneered the development of a comprehensive backup and restore protocol for MSSQL databases, specifically engineered to safeguard against ransomware attacks, thereby fortifying data integrity and resilience in the face of evolving cybersecurity threats.
+
+Tesla Inc – Senior Database Engineer Oct 2018-Jan 2022
+Lead the neo4j team to implement neo4j database cluster on Google Cloud for global Tesla application project. All steps from installation, configuration, administration, operating, monitoring and alert, cross training were completed with detail documentations as the sole author of all confluence documents. All works are checked in and validated on version control system git
+Orchestrate using Terraform to create database cluster and automate database administration tasks of backup, restore, clone, upload using Jenkins integrated with gcloud commands
+Use ansible to help 1,000+ MySQL servers to check for and change fatal configuration errors to prevent downtime. Before having my tool, database failover sometimes did not work and DBA team took 1 or 2 hours to troubleshoot the problem, now there is no more down time due to misconfiguration.
+Stabilize monitoring process icinga and single handedly help global monitoring program leader to successfully migrate outsource team to in-house. This saves Tesla millions of dollars on outsourcing expense and at the same time provides Tesla staff the control that they sought for
+Establish foundation for new monitoring tool Prometheus/Grafana and automate the configuration from inventory database and alert when database issues arise. Integrate with Jira ticket system, pagerduty, opsgenie
+Automate all database technologies by using automation tools to install and set configuration. This project saves Tesla countless manual labor hours. The manual process took days to complete and it takes only minutes to perform the same process without any re-work or error
+Create guidelines, automate, and lead new version of ElasticSearch Opendistro to success. This process was failed many times by other team members. Application team very much appreciated my timely effort and impact to help them accomplish their project on time
+Stabilize home grown ETL tool Maxwell by re-organizing the flow of actions, documenting the operational process to clarify each steps, settting monitor threshold and alerts for warnings/errors, and writing installation scripts to avoid error by manual process
+Write custom Python programs and coordinate with application team members to migrate tape archive backup to Tesla homegrown system in a very challenging time limit. This saved Tesla millions of dollars in licensing
+Lead the Customer 360 Neo4j database upgrade to improve the upgrade progress from 3 days to 12 hours
+Automate PostgreSQL installation with extension PostGIS for geospatial data progress and install streaming progress from OLTP GeoJSON data to NoSQL in real time
+Play an instrumental role in leading other DBA team members at critical points and resolving issues
+Standardize and set criteria on database essential parameters, environment setting, startup, shutdown
+Advise engineering staff on system architect and storage
+Assist database engineering on system performance and tuning
+Assist Kafka engineering to extend features and better topic management
+
+Tivo Inc – Senior Database Engineer May 2016-Oct 2018
+Automate migration process from on-premise to AWS using bash shell, python, CloudFormation scripts to:
+oIdentify active databases, RabbitMQ, ElasticSearch in term of CPU usages, memory usages, and disk IO activities
+oTable disk usages for capacity storage plan on new server
+oCreate database reports and send to Project Managers to help them plan and prioritize database and application migration project tasks
+oClone application environments
+Develop scripts to backup individual dormant and legacy databases among active databases
+Install and configure to optimize ElasticSearch cluster with multiple nodes of millions of documents in Production/Devops/Testing environments
+Add and upgrade ElasticSearch nodes and improve performance
+Monitor ElasticSearch for cluster health and bottlenecks: slow log, slow index log, hot threads
+Replicate ElasticSearch production data in development or testing environments using snapshot API
+Install and configure RabbitMQ multiple node cluster in multiple environments with mirrored queue and preserving messages, multiple plugins including management plugin
+Create RabbitMQ users and manage user privileges and permission on both local and LDAP
+Add nodes and troubleshoot node communication/startup with Erlang nodes, Mnesia, SSL certificates
+Write nagios/icinga health check scripts using AMQP and REST API to monitor RabbitMQ and alert on cluster status, consumers consume, queue count and level, message size usage
+Perform stress and bench mark tests on test and staging environments
+Backup RabbitMQ configuration and alert on critical changes
+Standardize and set criteria on database essential parameters, environment setting, startup, shutdown
+Advise engineering staff on system architect and storage
+Advise engineering staff on operating release, backup, and security
+Assist database engineering on system performance and tuning
+
+Lending Club – Senior Database Engineer Aug 2015-Apr 2016
+Migrated existing on premise MySQL servers 5.x to Amazon RDS with Amazon EC2 and master/replication along with Amazon RDS MySQL stored procedures
+Migrated MySQL database filesystems from legacy EMC SAN to Pure Flash Storage
+Validated and trouble shoot essential key performances after migration to ensure no data loss and no performance problem
+Managed, maintained and performed backup and capacity planning for MS SQL
+Installed and implemented MySQL Enterprise backup and backup scripts on newly migrated servers
+Installed and implemented MySQL Enterprise Manager and agent to monitor and manage MySQL
+Completed Oracle Goldengate database replication and configuration to achieve these goals
+oPerformance improvement
+oAccurate documentation
+oProcess improvement
+
+Tesla Motors Inc. – Senior Database Administrator Feb 2015-Aug 2015
+Implemented and enhanced performance on GoldenGate data transformation processes between Oracle databases
+Enforced Oracle and MySQL database installation procedure and installation process standardization
+Integrated data in mixed database environments Shareplex
+Implemented setting server options for optimization and environment fittings
+Performed database tuning and enhancements for all database types Oracle, MS SQL server, mysql, mongodb
+Performed patching, backup and recovery and handle database crashes as well as disaster recovery
+Setup MySQL Master and multiple slaves
+Troubleshot replication issues and implement resolutions
+Automated release/refresh processes to export/import data between environments
+Monitored database performance and security monitoring with OEM Cloud, Ignite (Solarwinds) and take appropriate actions
+Setup and reviewed database content policy and privileges
+Setup audit reports
+Took action on security or unusual activity alerts
+Configured and setup scheduling jobs using various methods including cron, Oracle scheduling
+Created mongodb clusters, backed up and suported
+
+Intuit Inc. – Senior Database Consultant 2014 – Feb 2015
+Provided guidelines and documents to install and configure high available MySQL, Oracle 12c veridata and GoldenGate in QA, Pre-prod and production environments
+Implemented and enhanced performance on GoldenGate data transformation processes between MySQL and Oracle databases
+Assisted other DBAs in problem troubleshooting operation issues in replication, backup, restore and tuning performance
+Upgraded Oracle ETL environments to new version to work with consolidated monitoring process
+Created POC environment on NoSQL Cassandra
+Installed and managed Oracle Fusion and Microsoft environment including Weblogic, OHS, Goldengate, SSIS, Tungsten, Fusion Middleware
+Initiated the process to migrate on premise database servers to Oracle Cloud and AWS
+
+E2open – Senior Database Administrator 2014
+Led and managed global DBA team to develop and maintain database architecture and project plans
+Enhanced and maintained a backup and recovery strategy for database systems and performs random drills to test disaster recovery scenarios and failover test in Veritas VCS, Oracle Real Application Cluster and Oracle Dataguard environments
+Provided leadership during the development and enhancement of production applications, including
+working with engineering, and technical support during the design, development, and implementation of applications
+Worked with vendors in evaluating and implementing new technologies in storage and database
+Forecasted database department expense budget and annual capital investment based on database capacity planning
+Developed and implemented SOPs and other procedures to streamline workflow of team
+
+Supported and maintained legacy DB2 databases
+
+Xactly Corporation – Senior Database Administrator 2013 – 2014
+Coordinated database systems planning, upgrading, monitoring, testing, and servicing for the SaaS platform
+Responsible of all database related software components, including the database alarming and
+instrumentation sub-system and its integration within the service monitoring solution
+Developed and maintained the database backup strategy and disaster recovery
+Troubleshot and resolved problems as required 24x7 and serve as an escalation point for database issues
+Researched new database technologies NoSQL Cassandra and Hadoop for use within the SaaS platform to continuously improve performance, scalability and operational effectiveness
+Interacted with product development and management, professional services, and product support groups to provide and fulfill database service requirements for each departments
+
+Responsys (Oracle) – Senior Database Administrator 2009 – 2013
+Participated 24x7 on call support on a weekly rotating schedule
+Responsible for performance, capacity planning and HA solution
+Evaluated new database features and make recommendations
+Developed complex database administration automation and monitoring scripts
+Monitored and troubleshot Percona MySQL and replication, MSSQL, and Oracle Database performance
+Shared knowledge and mentored other DBAs as needed
+Developed and maintained Standard Operating Procedures for DBA tasks and projects
+Deployed new SaaS database and ETL environment
+Performed database upgrades and database account migrations
+Periodically performed backup/recovery to validate the backup/recover procedures
+Monitored and troubleshot ETL processes in Oracle database and MSSQL OLAP server
+Provided escalation support for database related issues
+
+Globalware Solutions Abovenet/DataPipe – Database Administrator 1999 – 2009
+
+CORE TECHNICAL COMPETENCIES
+Summary:
+Operating systems: Unix and Linux: Sun Solaris, HP-UX, RedHat/CentOS, Microsoft Server, Silicon Graphics, cisco IOS, VAX/VMS
+Database: Oracle 7/8i/9i/10g/11g/12c, Sybase 10/11, SQL Server 6.5/7/2005/2008/2012/2019 Always On Percona Oracle MySQL 4/5/8 InnoDB engines, PostgreSQL, DB2, Hadoop, MongoDB, Redshift
+Security & Networking: CheckPoint, Netscreen, PIX, ASA, ssh, RSA/DSA, PGP
+Installation/Maintenance: EMC Legato,Jumpstart, Kickstart, Ghost, Chef, Veritas Cluster, Veritas Volume Replicator, Oracle Backup and Recovery RMAN, DataGuard custom scripts, Oracle Grid and Enterprise Manager, ASM+RAC
+Database Language: SQL with multiple variants Oracle PL/SQL, SQL Server and Sybase T-SQL, CQL Expert on triggers, procedures integrity and business database rules
+Programming Language: Unix scripts with multiple variants Bourne, Korn, C shells. Perl. Unix tools awk, sed, Ruby, Python, Java, Powershell
+Storage Systems NetApp F800 Series, FAS3000 Series, EMC CX4 Series, Dell
+1000i/3000i, Sun DiskSuite Veritas, Flash Array Pure Storage, Hybrid Nimble Storage, Sun ZS series
+Alert and Monitoring: OEM, Nagios, Zabbix, Cacti, MRTG, Grafana, Prometheus
+Application: Apache, IIS, tomcat, Java, GoldenGate, SSIS, OBIEE Analytics, Informatica ETL and Data Masking, Microsoft Cube, Oracle OLAP, Weblogic, OHS, SOA, Fusion Middleware, Tungsten, SSIS
+Virtualization: VMWare ESX, Xen, SmartOS, AWS, Oracle Cloud, Google Cloud, docker, Kubernetes
+Configuration Management: Puppet, ansible, CloudFormation, terraform, saltstack
+
+EDUCATION & CERTIFICATIONS
+Education:
+Oracle University Continuing Education Certificates, Administrator and Developer
+Sun Education Continuing Education Certificates, System Administrator
+Cal State University Hayward, BSCS
+Contact this candidate

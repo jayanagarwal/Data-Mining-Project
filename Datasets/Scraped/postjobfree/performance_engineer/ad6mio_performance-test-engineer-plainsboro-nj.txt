@@ -1,0 +1,84 @@
+Abhiram Chinthapalli
+Plainsboro, NJ ***** 609-***-**** ad6mio@r.postjobfree.com
+
+Performance Test Engineer Visa: US Citizen
+Rutgers University, New Brunswick, NJ
+B.S Computer Science Honors
+
+Overall, 8+ years of performance testing experience on Web and API Web Services. Involved in all stages of Software Development & Testing Lifecycle and have a good Knowledge in various testing techniques. Worked on Google Cloud environment and had exposure in auto scaling and instances up & down. Good reasoning, problem solving, analytical skills, and leadership qualities.
+
+Worked on POCs, workload models, on-premises to GCP Cloud migration work, volume-based tests in data centers, DB indexing issues, and ad-hoc tests like machine type changes, oracle patches & upgrades, auto scaling, managed vs. unmanaged drivers etc.
+
+TECHNICAL EXPERTISE
+Tools: JMeter, Blaze Meter, Load Runner, SoapUI, Oracle Ignite, QC, Jira, Rally
+Monitoring Tools: Splunk, App Dynamics, Database AWR reports, Stats from GCP, Dynatrace
+Languages: Java, Groovy, C, SQL, TSL, and Java Script
+Tests Performed: Performance, Load, Soak, Spike, Scalability, Stress, Volume, and Distributed tests.
+Covered Web applications, JMS queues, Web Services (rest/wsdl), and bulk pdf generations.
+Test Planning: System requirements, user workflows, test methods, test scenarios, monitors & their targets,
+pass-fail criteria, test schedules, environments, test objectives, escalation process, and exit criteria.
+Management Tasks: Budget planning, resource allocation, estimations (LOEs), PE standards,
+on-boarding docs, results publication, status & task tracking in Rally.
+Server-Side: Monitored CPU, memory, and disk utilizations of app/ web/ db/ solr(search)/ agent and wsv servers. Tracked connections/s, pages download/s, throughput (b/s), hits/s, error rate, awr reports, and transactional response times. Monitored JVM usage and Garbage collection intervals. Drilldown the APIs and method hotspots, pure paths, web requests, web services, and database SQLs. Monitored requests distribution among all web adapters & application servers. Involved in workload model analysis.
+Client-Side: Weighted average response times, target times, caching, pure paths, and KPIs. Analyzed first request, first impression, on-load, fully load, on-server, on-client, and network timings. Analyzed overall, network, caching, server, and js ranks.
+
+DOMAIN EXPERIENCE:
+Financial: Bank of New York, NY Sales: Unipack Inc, PA
+Ecommerce & Retail: GSI commerce (eBay), PA
+
+PROJECT DETAILS
+
+Bank of New York, NY Performance Test Engineer Jan 2022 – Till Date
+This is an investment management and investment services company. It’s wealth management team of financial advisors work with individual investors and institutions. Worked on wealth reporting application which is a client specific application. Interacted with end-clients like Ameri Trade, Schwab, JPMC, NWM, AMPF, Citi, Baird, Stephens, eTrade, etc. Conducted cert-based web services testing in JMeter with keystore and trust Store credentials.
+Reviewed system requirements, design documents and functional specs.
+Authored test plans, test cases, test scenarios, pass criteria and LOEs for each cycle.
+Tracked app server error logs while doing the load test, reviewed production weblogs to identify the expected traffic, workload models, and on-premises to GCP cloud migration.
+Closely monitored Tomcat JVM, Cognos server (AT, CM, BI bus, Gateways, affinity connection, sort buffer size) and database server (oracle fetch buffer, SQL traffic, connections) statistics.
+Attended scrum calls, submitted daily/weekly team status, and tracked the tasks vs. LOE on daily basis.
+Developed Load Runner VuGen scripts, configured and ran the controller scenarios from ALM, analyzed test results and submitted summary reports along with performance recommendations.
+Evaluated open-source tools and selected JMeter which can fit for both web and Rest API test suites.
+Developed UI scripts with Blaze meter as well as by using recording templates with root certs.
+Generated bulk pdf reports in JMeter for beyond comparison. Worked on POCs like JMeter vs. LoadRunner, converted load runner and web service groovy scripts into JMeter, and conducted bulk tests in the master-slave model.
+Designed, developed, and executed performance/scalability/stress/load/soak/spike tests in JMeter.
+Conducted volume-based tests in the empty data centers, built groovy scripts in order to run the SoapUI web service calls in the data-driven model.
+Developed and Performed SQL statements by using JDBC protocol to do back-end stress testing.
+Monitored Client & Server-side dashboards in Splunk and used Splunk queries. Used AppDynamics for layer level drilldown in waterfall view. Monitored SQLs in DB AWR, and published comparison AWRs.
+Ran daily/monthly batch jobs through JMeter/Blaze meter with shell strings.
+
+Environment: Java, J2EE, JSP, Tomcat, Web Services, SQL, Oracle 19c, Google Cloud, Linux & Windows
+Tools Used: JMeter 5.3, Blaze meter, Load Runner 12.5, ALM 16.0, Splunk 9.0, AppDynamics 23.3, SoapUI 5.6, Toad, Rally, JIRA 8.2, and confluence wiki.
+
+Unipak Inc, West Chester, PA Performance Test Engineer Oct 2019 – Dec 2021
+Responsibilities:
+Analyzed system requirements and web logs, identified target load levels, defined load test scenarios, identified SLAs for load tests, built PE test plans, defined the test schedules and entrance/exit criteria.
+Automated Performance test suites with JMeter, Blaze meter. Performed performance/load/stress/soak tests with JMeter and LoadRunner. Covered Rest API calls in both JMeter (Java) and SoapUI (groovy).
+Used JMeter elements like logic controllers, config elements, timers, samplers, assertions, and listeners. Used regEx formulas, developed java bean shells and analyzed JMeter log files.
+Used Splunk dashboards & queries, App dynamics, DB AWR reports, JProfiler, & JMeter plugins.
+Executed load test scenarios on data centers, monitored resource measurements, analyzed test results, identified bottle necks, and published test results summary with recommendations.
+Triggered billing message queues and tracked their consumption at various levels.
+Monitored servers CPU and JVM (memory) resources through Jconsole, Terminal & listeners.
+Built JMeter load/stress test framework for read-only flows with weblog cookies (without script recording).
+Actively interacted with other teams outside of the development such as Technical Architects, DBA’s, Software testing and network teams. Discussed bottlenecks which were observed in Application, Database, Network tiers and provided valuable suggestions to the respective stakeholders.
+
+Environment: Java, J2EE, WebLogic, EJB, SQL, XML, Oracle 9i, Intersystem Cache, Java Script, VMware, Remote Desktop, Web Services, Centos5, Jconsole, Toad, Visio, Unix/Linux (commands)/ Windows XP
+Tools Used: JMeter, Blaze meter, LoadRunner, QC, Splunk, Soap UI, HP SiteScope, CA Wily Introscope
+
+eBay Enterprise, Inc (GSI Commerce), PA QA Performance Tester May 2015 – Sep 2018
+Toys Rus (US/Canada/Europe), NBL, NFL Shop, Polo, Dicks Sporting Goods, Levi’s, Dockers, Zale’s
+GSI Commerce is a leading provider (acquired by eBay) of e-commerce and interactive marketing services for the world’s premier brands and retailers. I worked on product search, navigation, checkout, payment, shipping, client registration and order management modules.
+
+Reviewed design documents/ system requirements/ functional specifications, built test plans/ test cases/ Pass-Fail criteria, and submitted LOEs. Covered Black Friday/ Cyber Monday in WAR room.
+Designed, developed, and executed performance/stress/soak/load tests with LoadRunner and JMeter.
+Used LoadRunner with SiteScope for webstore load testing from the Performance Center.
+Used JMeter / Blaze Meter to do load test for JMS sonic, web service, vendor net & mule services, and multichannel tasks (Store Locator, Store Pickup, Ship to Store, Ship from Store and Order Lookup).
+Used Dynatrace diagnostics for server-side analysis and recorded load test sessions to drill down the API calls, methods, pure paths, web requests, web services, database requests, messaging and JVM.
+Used ganglia to track the server-side CPU (system, user, idle), packets (in, out), bytes (in, out), disk (total, free), memory (shared, free, cached, buffered, swapped, used), and processes (run, total).
+Used Compuware Gomez tool to track production stats through Browser RUM (real user monitoring).
+Hupped environments, involved in build process, edit host file to redirect calls, and grep the errors logs.
+Used Daptive for time reporting and task tracking, Confluence Wiki to manage the documents and status, used QC to track the defects and Jira for user stories.
+Analyzed Load Runner vs. JMeter (open-source free tool) tools and submitted report to higher authority.
+Ran the production mimic tests in off-DC (Secaucus and Ashburn) environments. Used nocscreens to monitor the various server instances and clusters. Covered Rest API calls in JMeter and Soap UI.
+
+Environment: Java, J2EE, JSP, Struts, Ajax, JMS, EJB, WebLogic, Apache Tomcat, Servlets, XML / XPath/ XSLT, Soap UI Web Services, SQL, UML, ClearCase, Oracle, Oracle SQL Developer, Linux & Windows7
+Tools Used: JMeter, Blaze meter, LoadRunner, HP ALM, SoapUI, HP Site Scope, Ganglia, Gomez, Dynatrace Client/Ajax, wiki confluence, TortoiseSVN, QTP, QC, Daptive PPM, and JIRA
+Contact this candidate

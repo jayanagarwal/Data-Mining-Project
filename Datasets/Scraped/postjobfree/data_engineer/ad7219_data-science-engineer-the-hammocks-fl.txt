@@ -1,0 +1,64 @@
+Professional Summary
+Python, PySpark, Jupyter, AI/ML/DL, Watson, Tensorflow 2.0, Keras, AWS, Cloudera(CDH / CDP)
+Tableau, Power BI, Github, Jenkins, UC Deploy, IBM Watson,
+Redshift, Teradata, MongoDB, DynamoDB
+Informatica(BDM / PC / PWX), Splunk,
+Service Now, Collibra, DMAICS, TOGAF, Six Sigma, MS-Office
+IT professional with Data Engineering, Data Science, Data Analytics and Data Architecture.
+Expert in On-premise, Cloud infrastructure, Various password less authentication methods like PKCS, IAM, SAML, Cyberark.
+Expert in AI / ML / DL, NLP, NLTK API for preprocess, Normalization, Neural Networks, for Training and Test Models.
+Strong Attention to detail, variety of stake holder interaction, Quick learner, Enthusiastic in accomplishing new challenges.
+Solid Domain knowledge in Finance / Banking ( Investments, Wholesale, Retail), Healthcare ( Medicare, Medicaid, HiPAA).
+Excellent Project Management skills, Communication skills, Interpersonal skills, Documentation skills, Detail oriented. Extensively used PM skills Agile / Scrum / Kanban / JIRA.
+
+Experience Summary
+
+NFCU Jan 2020 - Current
+PEDS Data Engineer
+•Predictive Enterprise Data Services (PEDS) - Enterprise Data solution for predictive analytics.
+•Integrated all Data from ODS -> OLAP -> EDW -> IDW -> cloudera Data lake using python frame work comprising of pyspark, Java and Bash scripting. Devops is accomplished using Github, Jenkins, UCDeploy.
+•Dealt with Volume, Variety, Velocity, Veracity, Value of data namely Legacy -> Files -> CDC -> MFT -> API -> Databases -> Unstructured of types of data.
+•Managed data security by organizing data into various zones say Public, Secured and Restricted. Access views are created by proper masking, encryption and tokenization per group level permissions. Leveraged IAM roles and policies.
+•Architected for migration of on-premise to cloud using Data Migration service. Application migrations using Terraform using IaC .
+•Built and Managed Tableau dashboards for run metrics, SLAs, reconciliation of key metrics. Special dashboards are supplied for CECL and CCAR metrics. Arranged into relevant sites and scheduled refresh per report needs.
+•Built Test and Train models. Jupyter notebooks are used for building supervised and unsupervised models. Classification, Regression, Clustering, Association models and corresponding neural networks are implemented.
+•Activation functions like ReLU, Tanh, Sigmoid are used for prediction of data and Trends. CNN Image matching techniques are used in Fraud detection. Adjusted Weights and Bias for Deep learning efforts.
+•Performed Log Aggregation using Splunk forwarders, Indexers, Search heads.
+•Supported system at L3 level and proficient in Change, Release and Incident Management. ITSM using Service now, JIRA, ADO.
+•Communicated with C-level executives to ensure continuous improvements. Supporting documents are built and sign-offs were collected.
+Lockheed Martin Jun 2018 - Dec 2019
+ACE Data Engineer
+•ACE - Analytics COE, a shared services model for catering Enterprise Data Analytics and Data science needs.
+•Responsibilities include but not limited to : Supporting various customers across enterprise in the cloud and Bigdata analytics. End to end solution setup for each customer in setting up Cloud Infrastructure like VPC, subnets, CIDR, EC2, EMR, RDS, DMS, ECS, EKS, Dynamodb, Redshift, Lambda, Cloudwatch, SNS, SQS. CloudFormation, Terraform are used for migration. AWS security is managed using IAM, SAML2.0, OpenSSL, CA, Venafi, S3 bucket policies.
+•Python coding - Extensively used the modules (but not limited to) Boto3, Tensorflow / Tensorboard, Keras, Pandas, Pyspark, Numpy, Pyhive, Pyodbc.
+•Scrapping web using Rest calls, IBM Watson, Wisdom API, Blue mix are used for sourcing the data into various RDBMS, MPP, ORDBMS like Postgres. Scheduling serverless Lambda jobs using Cloudwatch. Supplier Intel, Defense Logistics, USA Spending, Aero, Space, F35 operations. Collibra is used for Metadata.
+•Established Bootstraps, steps, Boto3 for Python for various EMRs using S3 as repository for floating dynamic clusters. Gitlab is used for CI/CD
+•SaaS accomplished using various command API's - AWS CLI, Docker CLI, kubectl, psql, sqoop, DMS replication tasks, and other tools command API
+•Managed Docker / Kuebernetes Environments for Domino Datalabs for supporting Data scientists. Anaconda, Python, R, Jupyterlab, Jupyter, H2O, R-studio, Flask, Dash apps, JSON/YAML are used extensively.
+•Supported AI/ML, using IBM Watson AI. Supervised and Unsupervised Deep learning, NLP, NLTK, Classification, Regression models, Activation Functions like ReLU, Sigmoid, Tanh using Tensorflow, Keras, Numpy, Pandas, pyhive, Presto, pyodbc. AWS Sagemaker, Greengrass, IOT, API Gateway are used.
+•Scrum, Agile, Align, Confluence tools are used for supporting tracking and documentation purposed. Demos, presentations are prepared for various POC's.
+Centene-Wellcare Jan 2013 - May 2018
+Data Architect
+•AWS based Data Lake / Data Vault implementation - Medicare and Medicaid systems like Amisys, Portico, Healthnet are sourced.
+•Acted as Solution architect in laying out data flow zones like Landing -> Raw -> Transform -> Provision -> Analytics for smooth data flow and customer satisfaction.
+•Supported migration of Applications and Data from On-premise to AWS cloud. S3, EC2, EMR, VPC, Subnets are used.
+•Data stores used Hive partitioned external tables, ORC, Parquet. Hbase, S3, Dynamodb, Redshift. Spark Sql, Streaming, Kafka, Apache Mesos are used for real time and batch.
+•Managed Informatica BDM ETL, Data tokenization, Encryption using Protegrity for PHI / PII. Teradata foundation layer is sourced for BI efforts. Teradata TPT, TDCH are used for Data movement.
+•Scripting support using Bash, Python, Numpy, Pandas Dataframes. Healthcare analytics are supported. Tableau visualizations.
+Cloud and Bigdata analytics are supported for various customers.
+TIAA-CREF Jul 2010 - Dec 2012
+BI Architect
+•Implemented IDSS/SRP as an Investment Decision Support system and Strategic Reporting Platform, serving as a Center of Excellence (COE) for multiple product lines (Fixed Income, Equities, Derivatives, Real Estate).
+•Integrated Trades and Holdings data from CRD, LVTS, Murex, CBRE trading systems with tools like Eagle Pace and Star. Managed ETL processes and reporting solutions using Informatica, Oracle, SQL, OBIEE, and Tableau.
+•Enhanced functionality with robust command API support (bash, Python, Java), facilitated job scheduling with Autosys, and maintained version control with Star team.
+•Tableau visualizations are build with variety of grains satisfying different level of executives.
+•Engaged actively in customer interactions and demos, ensuring alignment with client requirements and providing clear insights into system capabilities.
+Bank of America Jan 2009 - Jul 2010
+Data Architect
+•Implemented CIDW (Corporate Investments Datawarehouse) by analyzing diverse investment systems (Fixed Income, Equities, Derivatives, Hedge Funds, Treasury, FX contracts), handling security instruments (Ticker, Cusip, ISIN codes).
+•Constructed data models for Operational Data Store (ODS) and Online Analytical Processing (OLAP), employing Star and Snowflake schema designs for Trades, Holdings, Collateral, and other factual data elements.
+•Ensured Legal compliance and the Authorized Data sources are used with AIT reference thus ensuring Veracity of the data. Various Ratings, Pricing files, Risk profiles are collected using this method.
+•Managed Conformed and Surrogate dimensions for data consistency. Used Informatica PowerCenter for ETL, implementing Slowly Changing Dimension (SCD) type 2 mappings with MD5 hash keys.
+•Deployed version control and scheduling via Autosys, created job information language (JIL) scripts for automation, and demonstrated proficiency in scripting (Bash, Perl, Python) for various tasks.
+•Automated build release processes with tools like Pmcmd and Pmrep.
+Contact this candidate

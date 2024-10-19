@@ -1,0 +1,45 @@
+Arka Bagchi
+*** ******* ******, *** ****, CA, ***39 • 408-***-**** • ad2lqh@r.postjobfree.com • https://www.linkedin.com/in/arka-bagchi-381a111b4/ • https://github.com/arkabag
+
+PROFESSIONAL PROFILE
+Data Scientist with 6 years of experience in data analysis, specializing in classical ML modeling and advanced NLP techniques in finance using large language model frameworks. Proficient in Python, SQL, Tableau, and various data science libraries, with a proven track record in extracting insights from complex financial and legal documents using AI language model pipelines. Seeking a dynamic role to apply my expertise in NLP and ML, contributing to impactful data-driven decisions.
+TECHNICAL SKILLS
+DBMS: Relational: SQL, MySQL, PostgreSQL, Clickhouse NoSQL: MongoDB Vectorstores: PGVector, Chroma, Pinecone, Weviate
+Analytical Tools: SQL, Python, PySpark, Databricks, Tableau, PowerBI, Google Analytics, Advanced Excel, SAS.
+Data Science: Data Wrangling, Statistical Modeling, Predictive Analytics, Data Visualization, NLP for Summarization Models, Recommender Systems, Time Series Analysis
+Machine Learning: Retrieval Augmented Generation (RAG), LLMOps, LLM Frameworks, Random Forest, SVM, Recommender Systems, Naïve Bayes, kNN, Gradient Boosting, Customer Segmentation With Clustering, Prompt Engineering, Named-Entity Recognition (NER)
+EDUCATION AND CERTIFICATION
+Data Science Career Track, Springboard
+500+ hours of mentor-led professional development with hands-on application in Python, SQL, Spark, machine learning, deep learning, inferential statistics, data visualization, and data storytelling
+Bachelor of Science, Psychology (Emphasis on Statistics), Washington State University, Pullman, WA - 2020
+Relevant Courses: Advanced Statistics with Calculus, Applied Data Science with Python, SQL for Data Science
+Honors: Magna Cum Laude
+RELEVANT EXPERIENCE
+Data Scientist, MCI Private Equity, San Jose, CA Jan 2022 - Present
+•Implemented RAG pipelines with Python LLM frameworks LangChain and LlamaIndex, and various vector databases, primarily Pinecone, Weaviate, and pgvector (postgreSQL extension)
+•RAG pipelines began from loading documents with Python LLM framework document loaders from LangChain and LlamaIndex, then used semantic routing or other dynamic chunking models, then stored embedded chunks in a vector database, and ran queries against embedded chunks for prompt injection
+• LLM--based text summarization, increasing textual data extraction from regulatory documents accuracy substantially, contributing to a 30 basis point increase in IRR for the fund.
+•Implemented Python based LLMOps pipelines with Weaviate specifically tailored for SEC filings and real estate data, significantly improving data granularity and analysis precision
+•Operated and delivered RAG (LLM) pipelines through Weviate and LangChain (Python) for extracting structured data or salient textual data in SMID cap healthcare equity filings
+•Advanced the use of PostgreSQL in tandem with PGVector, a vector database extension, for performing cosine similarity measures on embedded chunks of textual data. This approach enabled precise identification and injection of the most relevant embedded chunks into LLM frameworks for in-depth analysis
+•With Python ML pipelines through Scikit-Learn, Optimized a Gradient Boosting Model (LightGBM) for Net Present Value (NPV) backtesting prediction, improving the model's F1 score by 5% and accuracy by 4%, ensuring robustness through careful AUC/ROC analysis.
+•A/B tested fine tuning strategies for embedding models to determine best vector representation of nuanced financial or legal text chunks
+Data Analyst, Kraw Law Group, Mountain View, CA Dec 2020 - Dec 2021
+•Developed and managed text classification pipelines for trust fund legal documents
+•Implemented a bespoke Python NLP pipeline integrating early-stage BERT models for automatic classification and summarization of legal documents, enhancing the efficiency of ERISA fund filings and contributing to a 30% increase in document processing speed.
+•Spearheaded the Named Entity Recognition (NER) project for legal documents, utilizing state-of-the-art transformer models like RoBERTa and fine-tuning them for the legal domain, achieving an 85% accuracy in entity extraction and significantly aiding in compliance tracking.
+Patent Database Manager, Office of Commercialization, Spokane, WA July 2017 - Dec 2020
+•Managed patent prosecution database on Inteum
+•Developed pipeline from local patent portfolio to Named Entity Recognition (NER) models
+Research Analyst, WSU Cognition Lab, Pullman, WA July 2017 - Dec 2020
+•Conducted data analysis using IBM SPSS, focusing on clinical research datasets.
+•Engaged in data preparation and mining for postgraduate research, utilizing IBM SPSS Modeler for complex queries.
+FEATURED GITHUB PROJECT SHOWCASE
+Airbnb Review Summarizer for Investors (Nov 2023 - Present): Developed a RAG pipeline for investment analysis of short-term rentals in Joshua Tree NP. Techniques include processing Airbnb review data in PostgreSQL, summarization with PGVector, and LLM-based real estate analysis.
+
+LLM Frameworks for SEC Filing Equity Analysis (Nov 2023 - Present): Created NLP pipelines for QA, fact extraction, and analysis over biotech/healthcare SEC filings. Involved tracking key financial metrics and developing Python-based analytical tools. Full RAG pipeline — from loading the data, to chunking, embedding the chunks, top-k retrieval with similarity measures on vector database, injecting top-k chunks into an LLM prompt, then to ultimate document QA with the generative AI LLM model
+
+Synthetic Journal Data Generator (Nov 2023 - Present): Implemented LangChain and LlamaIndex for generating synthetic journal data. Utilized Pydantic for output parsing and JSON schema querying in AI models. GitHub
+
+Airbnb Occupancy Modeling (Sep 2023 - Dec 2023): Executed a machine learning project for predicting Airbnb occupancy rates using Python and PostgreSQL, focusing on data from Joshua Tree National Park. GitHub
+Contact this candidate

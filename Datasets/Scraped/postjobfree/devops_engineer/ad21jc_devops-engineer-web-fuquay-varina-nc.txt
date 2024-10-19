@@ -1,0 +1,56 @@
+Ayyappa Challa
+DevOps Engineer
+Raleigh, NC +1-316-***-****
+ad21jc@r.postjobfree.com
+Tech Savvy professional with solid technical acumen and hands-on experience in designing, implementing, and maintaining scalable, Reliability, highly available infrastructure and application deployment pipelines with a focus on sustainability and security via Linux, Docker, Kubernetes, Infrastructure as a Code, Databases, Amazon Web Services (AWS) and Microsoft Azure.
+Recognised as a subject matter expert in application containerisation with multi-stage builds, private cloud, and service/infrastructure automation. Adept at automating tasks, reducing build time, and preparing proactive incident responses to improve service delivery and productivity. Instrumental in leading the troubleshooting and maintenance in Cloud DevOps with Continuous Integration and Continuous Delivery (CI/CD) of Java, AWS, and open-source technologies. Multifaceted background in infrastructure development and operationalisation. Excel at prioritising, managing, and delivering complex projects within agreed timelines through Agile methodology utilisation. Sound knowledge in Kubernetes to orchestrate the deployment with high availability clusters, scaling, and managing docker containers and microservices. Well-versed in Linux utilities, showcasing expertise in SSH, user, process, log, package, processing tools, disk, and swap partition/files management. Technical Proficiencies
+Version Control Systems (VCS): Git/GitHub, GitOps
+Continuous Integration/Continuous Deployment (CI/CD) Tools: Jenkins, CI/CD, Argo CD and GitHub actions, Gitlab Configuration Management Tools: Ansible, Chef
+Containerization Tools: Docker
+Orchestration Tools: Kubernetes, ECS, OpenShift, EKS and AKS Cloud Providers: Amazon Web Services (IAM, AMI, VPC, EC2, S3, EBS, EFS, ELB, RDS, Lambda, Elastic Beanstalk, Route53, Cloud Watch, Aurora, Redis, Cloud Formation, Cloud9, Auto-Scaling, SNS, SQS, IAAS, PAAS, SAAS), Microsoft Azure (Active Directory, Blob storage, OpenStack, VMware Infrastructure as Code (IAC) Tools: Terraform, Cloud Formation Templates, AWS CDK Monitoring and Logging Tools: ELK (Elastic Search, Logstash, Kibana), Splunk, Grafana, Prometheus, Nagios, CloudWatch. Alerting Tools: NewRelic, Dynatrace, Datadog and Zabbix. Scripting and Back-end Languages: Python, YAML, JSON, Bash (SSH, Vim, File systems), Golang, Shell scripting(PowerShell), PHP, JavaScript.
+Testing Tools: JUnit, Selenium, UAT and integration tests, and automation tools. Security Tools: SonarQube, Synk
+Collaboration/Project Management Tools: Jira, Confluence, Slack, Service Now Operating Systems: Unix, Linux, Windows, Ubuntu
+Networking: DNS, Load Balancers, TCP, Route53, Firewalls, and proxy servers. Database: MySQL, NOSQL
+Build Tools: Maven, Ant and Gradle, Xcode
+Repository Managers: Nexus, S3, Artifactory, Jfrog Web Servers: Nginx, Apache, Tomcat
+Web Technologies: Web, HTTP, HTTPS
+Software Development Methodologies: Waterfall, Agile (Scrum, kanban). Source Code Management (SCM): SCM
+Cloud Services: ECS, EKS
+Service Mesh: Istio, Envoy
+IAM: OAuth, ping SSO, OpenID,
+Enterprise Networking: Enterprise Networking
+Time Series Database: Influx DB, FluentD
+Professional Experience
+DevOps Engineer, PayPal 2022 – Currently working.
+Used SCM-GIT, Jenkins, Nexus, and Maven to create robust Continuous Integration and Continuous Delivery pipelines with development teams. Employed Ansible for efficient configuration management of pre-existing infrastructure. Managed applications, packages, and files between different environments, users, and system configurations through Ansible Playbooks and modules. Created tags and branches, resolved merging conflicts, and administered repositories through Source Code Management tools. Oversaw end-to-end infrastructure, encompassing host environment CPU utilisation, process response times, and hybrid and multi-cloud environments, as well as troubleshoot and resolve complex issues with Dynatrace with attention to detail. Utilised Docker Engine and Machine environments adeptly to orchestrate and deploy highly scalable microservice-oriented architectures.
+• Achieved seamless CI/CD pipeline implementation with Docker through containerisation to optimise server virtualisation for Dev and Test environments, automating configuration management.
+• Deployed CloudWatch for continuous application monitoring, empowering timely notifications via emails and text messages through versatile SNS (Simple Notification Service).
+• I have experience working with modern data platforms such as Lambda. I have added custom logic to DB and S3 buckets to customise compute power.
+• I work closely with the head of engineering and the Architect team to adopt best practices and implement security standards to secure platforms with the least privileges.
+• Worked on Different ACLs and trust certificates to ensure all access across different environments and the application from any user or location.
+• Streamlined the automation of AWS services, including EC2 instances, CloudFront distributions, database security groups, and application configurations by developing cloud formation scripts.
+• Automated Kubernetes cluster deployment, orchestrated microservice builds using Jenkins pipelines, managed pods, and utilised Kubernetes and helm charts for efficient microservices management.
+• I work closely with customers and stakeholders to ensure clear communication and update them on requirements. Additionally, I assist with application deployments and manage configurations for successful End-to-End deliveries.
+• Exercised and integrated Maven to define dependencies and plugins in POM.xml with GIT for efficient version control and tag deployment.
+• I am the go-to person for setting up platforms and managing configurations for different teams and customers.
+• Provided valuable support to development teams in resolving compilation-related issues.
+• Created robust build and deployed scripts utilising Maven as the build tool within Jenkins to enable smooth transitions between environments based on specific requirements.
+• Established and configured AWS web instances, ELB, CloudFront, VPC, and S3 buckets to optimise file accessibility for diverse usage requirements.
+• Expertise in CI/CD Pipeline, Automation, and Configuration Management: Demonstrated expertise in designing, implementing, and managing continuous integration and delivery pipelines using tools like Git, Jenkins, Nexus, Maven, Docker, and Ansible. Established proficiency in automating and operating system configurations and creating and deploying Ansible playbooks for application and package management across different environments.
+• Proficiency in Cloud Services and Container Orchestration: Gained extensive experience in managing and configuring AWS services such as EC2, ELB, CloudFront, VPC, S3, and CloudWatch, including the creation of IAM policies for secure resource access. Strong familiarity with Docker and Kubernetes for microservices deployment, scaling, and management, as well as hands-on experience with OpenShift for container-based applications. Attained expertise in implementing and managing logging and monitoring tools for high availability and performance and strong troubleshooting skills with tools like Dynatrace.
+Tech Stack: Operating System: RedHat Linux, Issue Tracking & Project Management: ServiceNow, Jira, Version Control: Git, Continuous Integration/Continuous Deployment (CI/CD): Jenkins, Build & Dependency Management: Maven, Containerization & Orchestration: Docker, Kubernetes, OpenShift, Infrastructure as Code (IaC) & Provisioning: Terraform, Ansible, Code Quality & Testing: SonarQube, Artifact Repository: Nexus, Web/Application Server: Tomcat, Database: MongoDB, Cloud Services: Microsoft Azure (Active directory, Blob storage, Logic App, Cosmos DB), Amazon Web Services
+(AWS), EC2 (Elastic Compute Cloud), VPC (Virtual Private Cloud), SNS (Simple Notification Service), Route53 (Domain Name System), EBS (Elastic Block Store), S3 (Simple Storage Service), ELB (Elastic Load Balancer), Linux & DevOps Engineer, Hawk Sense Security Systems, Hyderabad, India 2018 – 2021 Established and administered AWS infrastructure, implementing AWS IAM to manage access permissions according to employee roles and requirements. Developed and maintained Shell/Ruby deployment scripts for Tomcat and UNIX servers for seamless execution and efficient management of deployment processes. Engaged with cross-functional engineering teams designing, developing, and deploying precise, scalable, and reliable applications and services. Applied automation tools to efficiently manage, deploy, and monitor infrastructure and applications. Oversaw maintenance and upgrading of the SCM tool for optimal performance and compatibility with existing and upcoming projects.
+• Orchestrated the setup, implementation, and configuration of critical tools, such as Maven, ANT, Jenkins, Nexus, Ansible, and SonarQube, for streamlining development workflows and enhancing project efficiency.
+• Spearheaded the implementation of rapid provisioning and life-cycle management for Ubuntu Linux by leveraging Chef and Ruby/Bash scripts.
+• Led the seamless transition of build tools from ANT to Maven for critical applications.
+• Spearheaded new applications’ onboarding and adaption to the build and deployment process while creating precise deployment mappings for respective servers.
+• Steered SonarQube setup and management for new applications for code quality assessments and vulnerability checks.
+• Managed precise CI/CD systems with Jenkins, Maven, Nexus, Ansible, and Run deck.
+• Implemented secure organisational zones within the AWS public cloud with VPC, networking ACLs, and route tables.
+• Introduced Continuous Integration principles through Cruise Control and Jenkins to deliver clean and timely builds.
+• Executed project migration from Cruise Control to Jenkins CI, administering Jenkins CI across the Line of Business (LOB).
+• Proficiency in DevOps methodologies and tools: Gained sound knowledge of CI/CD pipelines, infrastructure as code
+(IAC), automation tools like Jenkins, Kubernetes, Docker, and cloud platforms such as AWS, Azure, or Google Cloud Platform and effectively automated and streamlined operations and development processes. Tech Stack: AWS-related Tools: AWS IAM (Identity and Access Management), AWS ELB (Elastic Load Balancer), AWS RDS
+(Relational Database Service), AWS Elasticache, AWS VPC (Virtual Private Cloud), AWS EC2 (Elastic Compute Cloud), AWS S3 (Simple Storage Service), Deployment & Configuration Tools: Shell scripting, Ruby scripting, Maven, ANT, Jenkins, Nexus, Ansible, SonarQube, Run Deck, Chef, Container Technologies: Docker, Monitoring & Logging Tools: Kibana, Splunk, Elasticsearch, Build & Deployment Tools: Cruise Control, Jenkins, Source Code Management (SCM) Tools: Git, Operating Systems: Ubuntu Linux, Unix servers, Others: CI/CD (Continuous Integration/Continuous Deployment), Scaling & Performance Improvement Monitoring, Systems configuration management. Education
+Master of Science in Computer Science, Wichita State University, 2021 – 2023 Bachelor of Technology in Computer Science and Engineering, Sathyabama University. 2015 – 2019.
+Contact this candidate

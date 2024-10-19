@@ -1,0 +1,38 @@
+Albert Min
+E-Mail: ad6ki3@r.postjobfree.com GitHub: https://github.com/aksm
+Phone: 646-***-**** LinkedIn: https://www.linkedin.com/in/albertmin Reliable, disciplined, and flexible full-stack software developer with 8+ years development experience and 10+ years of museum and non-profit experience.
+TECHNICAL SKILLS
+● Front-end: HTML, CSS, JavaScript, PHP, Python, jQuery, Materialize, React.js
+● Back-end: AJAX, Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Building REST APIs
+● DevOps / CRMs: Linux Administration (Ubuntu, CentOS, Intel Clear Linux), Windows Servers, AWS, Google Cloud, Oracle Cloud, Docker, Git Collaboration, CLI/Terminal, Drupal, Wordpress, Altru, Raiser’s Edge EDUCATION
+Rutgers Coding Bootcamp, New Brunswick, NJ
+An intensive 24-week long boot camp dedicated to designing and building full-stack web applications. Rutgers University, New Brunswick, NJ
+B.A. in Philosophy
+PROFESSIONAL EXPERIENCE
+New York Metropolitan Library Council – New York, NY August 2021 – September 2023 Software Developer
+● Work closely with lead developer and digital team to develop all aspects of open source software stack, support managed repositories, participate in community interactions, and manage documentation. New-York Historical Society Museum and Library – New York, NY September 2019 – August 2021 Software Developer
+● Responsible for all aspects of institutional web assets, including Drupal sites, Wordpress sites, Node.js applications, custom PHP plugins, Python libraries, and API integrations. Continuation of previous responsibilities as Systems Administrator while training new developers.
+New-York Historical Society Museum and Library – New York, NY July 2018 – September 2019 Associate Systems Administrator
+● Responsible for server administration for both internal and Amazon Web Services Linux servers, maintenance and administration of Islandora (Drupal) stack, development of internal web applications for integration of services, general web support, and general IT support.
+Westside YMCA – New York, NY June 2017 – July 2018 IT Administrator
+● Utilized a variety of programming languages including VBA, SQL, and Google Scripting to automate and replace decade-old command line applications for invoice management. Hundreds of invoices per month used the scripts I developed to provide more immediate reporting to the YMCA Business Management Team. Crowded – New York, NY January 2017 – March 2017
+Software Development Intern
+● Developed an auto-generator for creating default user profiles and a means for converting HTML profiles into professional PDFs. This feature was used to help junior developers land new opportunities.
+● Created documentation on the methods and classes used in the PHP, Node, and MySQL code. Trilogy Education Services – New York, NY October 2016 – February 2017 Curriculum Engineer
+● Created and QAed content for students in Trilogy’s web development and data analytics programs. This content is being used to teach coding to thousands of students at institutions like Rutgers University, UCLA Extension, UT Austin, and Northwestern University.
+New-York Historical Society Museum and Library – New York, NY August 2004 – October 2015 Database Manager
+● Designed and implemented custom, automated fundraising and event reporting tools for the Executive Board, CEO, CFO, and multiple departments using Google App Engine and Blackbaud’s Altru. PORTFOLIO
+https://dcmny.org/
+This is an instance of the open source project we maintained. The lead developer and I were responsible for maintaining the source code for all the Drupal plugins that provided the functionality for managing a digital repository. We also built and maintained the Docker images for deploying the instances. https://docs.archipelago.nyc
+This is the documentation for the open source project deployed using GitHub Actions. I was responsible for developing the CI/CD pipeline, testing and deploying the framework, and writing the custom scripts for updating pages that used multiple repository READMEs as their source.
+https://programs.nyhistory.org
+A virtual public programs portal developed rapidly from scratch to serve both free and paid video content to the museum’s patrons during the pandemic. The portal is built on various open source projects such as Materialize for the front end, Strapi for the CMS, and Handlebars for the templating. The museum’s CRM didn’t have an API so a functional workaround was implemented to integrate membership data.
+https://hudsonrising.nyhistory.org
+The original Wordpress site was built with a viewer that had poor site and content structure so I generated tiled image sources using an NPM image module called Sharp and implemented OpenSeadragon as a NodeJS server to integrate the viewer into the virtual galleries.
+https://safehaven.nyhistory.org
+The museum’s CRM provided a ticketing UI/UX that did not serve the needs of the members so I implemented this intro site, which feeds ticket selection to the CRM’s ticketing pages. Credit goes to the Tenement Museum for providing the seeds of the idea.
+https://digitalcollections.nyhistory.org
+This is the Drupal instance running an open source digital repository system that I was responsible for debugging, maintaining, and backing up.
+https://emuseum.nyhistory.org
+This is a proprietary system built on open source projects such as Solr and IIIF, but it is a good example because I’ve had to learn how to work around the proprietary pieces by leveraging the open source parts in order to integrate it into other parts of our digital collections.
+Contact this candidate

@@ -1,0 +1,109 @@
+TradeStation Group
+****-*********
+BI Engineer
+
+Located in Plantation, Florida, TradeStation is leader in trading services. Standard for fundamental and technical analysis of financial markets, and for direct access online trading across multiple asset classes.
+
+Roles and Responsibilities: BI Developer
+- Migrate data from different sources into the QA environment (Relational Data Base model) or the QA_Staging_Area (Multi-dimensional Data Base Model) for data manipulation. By using Import and Export in SQL and also by creating packages inside SSIS.
+- Create data bases, tables, temp tables, views, stored procedures, jobs etc. to manipulate data and compared the results against the results from another developer.
+- Migrate DAX and MDX code and execute it as a T-SQL code in order to compare the results.
+- Migrate data from different data sources and copy it into a QA server, create stored procedures and functions to meet requirements and create SSRS reports that load the data, allowing the Software QA department to compare data from different sources when the company changed a data provider.
+- Replicate the PDW structure into a QA instance.
+
+Roles and Responsibilities: BI QA Analyst
+- Data Preparation, Identify the source tables, the constraints and dependencies.
+- ETL (SSIS), Validate and ensure that the business information is exact, consistent, reliable and minimizes hazard of data loss in production.
+* Validation of Data Model (Dimensional)
+* Validate Data Extraction Logic
+* Validate Data Transformation Logic (including testing of Dimensional Model – Facts, Dimensions, Views, etc)
+* Validate Data Loading
+- OLAP & Cube (SSAS):
+* Check whether the data from the data warehouse/data mart is mapped & designed correctly in the OLAP Cube or reports.
+* Validate all the measures and measure groups (including derived measures, aggregations)
+* Validate all the dimensions, attribute hierarchy etc
+- Reports (SSRS)
+* Verification of the layout format per the design mock-up, style sheets, prompts and filters attributes and metrics on the report.
+* Verification of drilling, sorting and export functions of the reports in the Web environment.
+* Verification of reports containing derived metrics (Specialty to subtotals or aggregates)
+- Ensuring the traceability from: Data Sources -> Staging -> Data Warehouse -> Data Marts -> Cube -> Reports
+- Performance Testing
+
+Roles and Responsibilities: Scrum Master
+-Facilitate / Coordinate Daily Stand Up Meetings – Scrum Leader
+-Track Feature Burn Up Metrics – Provides visibility as to scope creep
+-Track Team KPI Metrics – Overall Health of the team
+-Track & Share Daily Burn Down Metrics – Track the health of the sprint
+-Surface & Help Resolve Impediments/Blocks – field general
+-Update Visual Radiator Board – Visibility to the whole team
+-Work with Value Delivery Team to Size & Resize User Stories – field general
+
+Desert Development Company
+2012-2013
+QA Analyst
+Located in Heredia, Costa Rica, Desert is a company that designs, creates, develops, tests, customizes, manages and supports products and projects for clients.
+
+Roles and Responsibilities:
+-Conduct software compatibility tests with programs, hardware, operating systems and network environments.
+-Monitor bug resolution efforts and track successes.
+-Identify, analyze, and document problems with program function, output, online screen or content
+-Provide support during software installation or configuration.
+
+Advanceme Computer Management & Engineering
+2008-2012
+Senior QA Analyst- Business Intelligence/Scoring Services Support
+
+Located in Georgia, USA, serves small to mid-sized businesses that process merchant’s cash advances through credit card sales.
+
+Roles and Responsibilities: Scoring Services Support:
+-Installing SAS (Statistical Analysis System) 9.3 in Windows Server
+-Setting up servers, libraries, user access and workstations in SAS Management Console.
+-Setting up SAS access and configuration of SAS Enterprise Guide
+-Work with server team to set up SAS and file systems
+-Provide Technical guidance and support for SAS users
+
+Roles and Responsibilities: Senior QA Analyst:
+-Administration and management of Testing and development environments (front-end, web services, WCF, back-end), backups and restores.
+-Verification and testing of back end and Data Warehouse (ETL, Stored Procedures, etc.)
+-Administration, control and deployment of packages to testing
+-Perform daily QA activities (developing Test Plans, test case & scripts design, test execution, defect tracking, reports, etc., and delivery of quality products according to the client's needs.) Assess risks and impacts in the project deliverables, report critical issues and work with other teams to resolve them. Write, revise, and verify quality standards and test procedures for program design and product evaluation to attain quality of software efficiently.
+Grupo Sim
+2007-2008
+Engineer
+Located in Grecia, Costa Rica, development of software for small companies. Duties: Develop, plan and implement goals and objectives for projects, prepare and administer internal policies, procedures and activities, Meet with clients in order to set requirements.
+AyA (Acueductos y Alcantarillados)
+2003-2006
+Network Administrator- Customer Service
+Located in Costa Rica, provides water services all around the country. Duties: In charge of network and user support all through the central pacific area of the country.
+
+Universidad Interamericana (2000-2003) – Bachelor’s in Systems Engineering
+Intensa Language School (2005-2006) - English Certificate
+Universidad Nacional (2005-2006) - Certified in Cisco Systems (CCNA)
+Universidad Interamericana (2008-2010) – Post (Licenciatura) in Systems Eng. w/emphasis in Project Management
+Cenfotec (Currently) - Master's degree-Data Modeling/Warehousing and Database
+Administration
+
+Business Intelligence & Scoring Services.
+PDW
+PowerBi
+SAS
+SQL
+SSIS
+SSAS
+SSRS
+Project Management
+Web Services
+IIS
+WCF
+VMWare
+CRM
+EIS
+MTM
+QuickTest
+On Time
+TFS
+Excellent communication skills.
+Able to integrate to any work group
+Bi-lingual (English & Spanish)
+Able to work under pressure
+Contact this candidate

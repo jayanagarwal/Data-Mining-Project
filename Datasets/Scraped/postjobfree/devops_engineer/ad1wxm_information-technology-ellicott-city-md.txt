@@ -1,0 +1,254 @@
+Rohit Budi
+281-***-**** ad1wxm@r.postjobfree.com
+
+Summary:
+
+●DevOps Engineer with 10 years of experience in the information technology and service industry. Skilled in AWS managed services, DevOps culture, process & tooling.
+●Active Public Trust Clearance for working with Federal Clients
+●AWS Certified Developer Associates
+●Detail-oriented DevSecOps engineer with 3 years of experience in automating security and compliance processes, developing cloud-native applications, and improving the development lifecycle. Experienced in deploying secure networks using Kubernetes/Docker technologies on AWS infrastructure. Successfully developed a DevSecOps pipeline to automate application builds & deployments while ensuring regulatory compliance. Passionate about leveraging innovative technology solutions to enhance system security and performance.
+●Expertise in designing Big Data Systems with Cloud Service Models - IaaS, PaaS, SaaS and FaaS (serverless)
+●Experienced in Cloud Migration (Lift & Shift) and Cloud Native systems.
+●Specialized in utilizing AWS as the Cloud Platform – includes Cloud Automation, Managed Services and Serverless
+●Design of Streaming Data solutions using AWS IoT Platform, Amazon Kinesis, S3, Aurora, Lambda, API Gateway
+●Design of Enterprise Data Lake, Big Data solutions using Amazon S3, EMR, Data Pipelines, Apache Spark, Redshift, Elasticsearch and Glacier
+●Serverless Architectures using AWS SAM, Serverless Framework, Chalice, Terraform
+●Highly Optimized Static Content solutions for Web Apps using Amazon Route 53, CloudFront, S3
+●Design of Security Solutions for Enterprise Apps using AWS IAM, WAF, KMS, Certificate Manager
+●Design of SAML2 based SSO solutions using Auth0 as Identity Provider, integrated with Amazon Cognito and STS
+●JWT Token based API Security solutions using OpenID Connect, API Gateway, Custom Lambda Authorizer
+●Integrated on-premises ADFS with AWS IAM and STS for Federated Access to AWS Cloud using existing corporate identities
+●Proficient with Shell, Bash, Python, PowerShell, YAML, Ruby scripting languages for automation, monitoring
+●Data Migration solutions to migrate data from Corporate Data Centers to AWS using Database Migration Service
+●Experienced in developing custom AWS utilities and frameworks using boto3 Python API
+●Designed and provisioned Virtual Network at AWS using VPC, Subnets, Network ACLs, Internet Gateway, Route Tables, NAT Gateways
+●Designed Continuous Integration & Continuous Delivery pipelines using Code Pipeline, Code Build and Code Deploy
+●Experienced in both framework and Cloud Formation to automate AWS environment creation along with the ability to deploy on AWS, using build scripts (Boto3 and AWS CLI) and automate solutions using Shell and Python.
+●Migrated legacy Jenkins Jobs to Jenkins 2.0 Declarative Pipelines using Jenkins’s file
+●Implemented Blue-Green Deployment model using EC2 Auto scale Groups and Application Load Balancer
+●Designed a Cloud Audit & Compliance Module that continuously monitors provisioning and changes to resources in the cloud using AWS Config, SNS
+●Automated Base Image creation and Custom Image Baking process using Ansible Playbooks
+●Exposure to Mesos, Marathon and Zookeeper cluster environment for application deployments and Docker containers.
+●Database Backup, Restore and Archival processes using Amazon S3, Glacier, EMR and Data Pipelines
+●REST API Design using Swagger and API Management AWS API Gateway
+●Implemented Cross-Account Access Using MFA and IAM STS, based on Time-Based One-Time Password (TOTP) from the MFA device
+●Developed an enterprise Cloud SSO Module, that allows enterprise users to log into the AWS Cloud Account based on the IAM Role association in the user profile
+●Designed and developed an Enterprise SSO Portal for SSO across Apps and APIs on-prem and in the AWS Cloud. Used IAM STS, Cognito Federated Identities, Auth0 IdP Authentication API along with SAML (for Web Apps) and OAuth 2.0 and OpenID Connect (for Web APIs)
+
+Technology Summary
+
+Cloud/AWS
+Compute - EC2, ECS, ELB, Auto Scaling
+
+Serverless - Lambda, Step Functions, Serverless Framework, Terraform
+
+Storage - S3, EBS, EFS, Glacier
+
+Database - DynamoDB, Aurora, RDS, ElastiCache, Redshift
+
+Networking - VPC, Route 53, Direct Connect
+
+Analytics - Kinesis, Elasticsearch, EMR, Data Pipeline
+
+Mobile - API Gateway, SNS
+
+Dev Tooling & Management - Cloud Formation, Cloud Watch, Code Deploy
+
+Security - Identity & Access Management (IAM), Cognito
+
+App Services - SQS, SES
+Platforms
+AWS, Azure, GCP, Linux, Unix, Windows
+Big Data
+AWS EMR, Redshift, DynamoDB, Spark, Hadoop, HDFS, Yarn, MapReduce, Hive, Hue, Sqoop, Flume, Kafka, Oozie, NiFi, Cassandra
+DevOps
+Git, Jenkins, Travis CI, Code Deploy, Ansible, JFrog Artifactory, CloudFormation, Terraform, ELK Stack, Trello, Docker, Kubernetes, Gatling, Chaos Monkey
+Agile
+Trello, Rally, Jira, Confluence, Slack, Flow dock
+Programming
+Python, JavaScript, Java, C, C++
+IDEs
+PyCharm, Atom, Eclipse
+Databases
+DynamoDB, Elasticsearch, MongoDB, Postgres, MySQL, HBase, Cassandra, Neo4J, Oracle, SQL Server, DB2
+Build Tools
+Maven, Gradle, NPM, Yarn
+
+IT Experience
+
+Department of Health and Human Services – Office of Inspector General
+AWS DevOps Engineer Nov 2021 - Current
+
+●Maintain the Infrastructure for Production and Non-Production Servers for OIG
+●Provide Support for applications including Hotline, CDO and Digital Services
+●Secured organization’s infrastructure and applications by deploying a multi-layered security solution which reduced the risk of data breaches by 60%.
+●Documented, implemented, and monitored sound DevSecOps procedures across multiple systems, updated & maintained related documentation on an ongoing basis for compliance purposes.
+●Efficiently managed AWS cloud environment using Chef automation tools to ensure secure deployments with no downtime or service interruption issues.
+●Analyzed system vulnerabilities through penetration testing, code reviews & threat modeling exercises to identify potential weaknesses in system architecture, applied suitable measures to mitigate risks identified during these tests.
+●Tested newly developed software components while ensuring adherence to industry best practices such as CIS Benchmarks and OWASP Top 10 Security Guidelines: shortened development time by 20% due this rigorous quality assurance process.
+●Deployed Lambda function for certificate expirations using CloudWatch events, SNS, Security Hub and Event Bridge.
+●Worked on the POC setup for ADFS integration with Cognito User Pools
+●Build an Enterprise Data Lake POC using AWS Suite of Products including AWS Database Migration Service, Redshift, S3, IAM.
+●Architected and implemented multi-tier infrastructures following AWS well architected framework principle.
+●Automate the process of Infrastructure creation using CDK Python code
+●Work with Cloud Operations Team, Database Team and applications Team for process driven events.
+●Assist in designing the Architecture Diagram in collaboration with Data Architects.
+●Setup notifications for AWS Security Hub and maintain the sanctity of multiple AWS Accounts
+●Worked on AWS Imported Certificates renewal by self-signing certificates and converting from 2048 to 4096 RSA Encryption.
+●Deployment of Web applications and database servers and created scripts in Python which integrated with Amazon API to control instance operations.
+●Created multiple Playbooks, roles, and group_vars for application infrastructure.
+●Playbooks call AWS CloudFormation templates to create AWS resources including EC2, ASG, Load Balancers, Security Groups, IAM, S3, AMI.
+●Provide access to new users for AWS Accounts based on IAM policies, access to S3 buckets using S3 bucket policies.
+●Create multiple custom policies, permissions boundaries for IAM roles.
+●Provide access to RDS Databases by creating users on databases using PgAdmin
+●Worked as AWS QuickSight Admin for Production Environment, setup refresh sequence on datasets
+●Upgraded the UiPath Application to version 2022.4.3 including Orchestrator, Robot and Insights.
+●As part of UiPath upgrade created multiple resources including Docker Image, modifying RPM for Insights windows installation.
+●Troubleshoot Network issues by checking AWS CloudWatch logs, add the required IP and port over VPN on security groups.
+●Provide access to JupyterHub notebooks by creating a connection profile and run script on AWS Systems Manager.
+●Provide access to Cloud9 Environments.
+●Setup Cron Jobs on ckan instances to update tables
+●Configure SMTP and Email for Airflow to allow error handling notifications
+●Created Jenkins jobs to automate Ansible playbook deployment.
+●Worked on cross account S3 bucket access.
+
+Environment: AWS, Jenkins, Python, Ansible, Bitbucket, Centos, Linux, awscli, SonarQube, Nexus,Cloudwatch, Splunk, ELB, SQS, S3, Cloudformation Templates, RDS, Groovy, shell,Docker, UiPath,ECS & ECR.
+
+State of Maryland, MD Dec 2019 – Nov 2021
+AWS DEVOPS ENGINEER
+
+Providing Infrastructure and DevOps services for supporting various state agencies managed by the State of Maryland.
+
+●Provided support for the applications like MHBE, CJAMS, MORA, CSA (Maryland Health Benefits and Exchange, Child Juvenile services, Maryland Office for Refugees and Asylees, Community-supported agriculture) used by the people of Maryland.
+●Participated and worked with multiple teams and successfully migrated ECS applications to AWS EKS.
+●Setup multiple Kubernetes clusters running in various Amazon accounts and regions for the MD Think Platform to accommodate different state agencies.
+●Configured Jenkins pipelines with security tools (Veracode, SonarQube, JMeter, Docker bench Security etc.) to build and deploy Kubernetes PODS to multiple clusters.
+●Implemented and configured HPA on EKS for Auto scaling of Pods.
+●Configured multiple sidecar containers in EKS to pull application logs from app container, Splunk daemon, consul etc.
+●Worked on integrating New Relic with EKS for monitoring cluster metrics.
+●Provisioned Kubernetes Infrastructure using Terraform Enterprise.
+●Implemented Helm to deploy application Pods on Kubernetes.
+●Worked on integrating spinnaker with EKS.
+●Integrated Prometheus and Grafana for monitoring the EKS cluster.
+●Configured Alert Manager on EKS to send notifications on slack channel.
+●Took ownership and worked with multiple teams for building end to end applications of different frameworks and provided support until Production Live.
+●Building web application environments, using AWS cloud infrastructure focusing on high availability, fault tolerance and auto-scaling of the instances.
+●Automating the AWS cloud infrastructure provisioning using Terraform Templates.
+●Managing AWS Infrastructure with AWS CLI and API.
+●Infrastructure automation and configuration management using Terraform and ansible.
+●Created Terraform templates and modules for deployment of various applications across multiple environments to manage infrastructure.
+●Provide tier 2 and tier3 support for the applications deployed on cloud platforms.
+Addressing day-to-day production system issues to keep business as usual activities functioning without interruption.
+●Application support activities including installing and maintaining the application availability.
+●Configured AWS ECS clusters for deploying and orchestrating containers by defining tasks and Services.
+●Maintain different versions of application Docker images in AWS ECR repository using Ansible
+●Setup IIS for windows applications and install software and maintain applications.
+●Worked as a Primary support for the deliverables (Infrastructure and application deployments) before handover to the support team.
+●Worked on doing POC on making use of awsvpc network mode on ECS cluster to run multiple containers on a single instance.
+●Worked on doing POC for setting up Minikube Kubernetes Environment and the hard way using kubeadm.
+●Helping multiple teams on troubleshooting issues they encountered while using the applications hosted on Cloud Platforms.
+●Successfully implemented ALM by implementing governance, development, maintenance of software.
+
+Environment: AWS, Tomcat, Apache, Jenkins, Python, Ansible, Bitbucket, Centos, Linux, awscli, SonarQube, Nexus, New Relic, Splunk, ELB, SQS, S3, Terraform Templates, RDS, Groovy, shell, Cloud Watch, Docker, ECS & ECR.
+
+Nationwide Insurance, Columbus- OH Nov 2018 – Nov 2019
+AWS DevOps/Elasticsearch Engineer
+
+●Setup AWS Cloud platform and architecting using components like EC2, VPC, EBS, SNS, SSM, S3 CloudWatch, Cloud Formation and Auto-scaling, Route 53, CloudFront, RDS
+●Creating Public and Private subnets within the VPC and attaching them to the EC2 instances based on the requirement.
+●Configured the Load Balancers and VPC with private subnets and performed troubleshooting for connectivity issues.
+●Implemented AWS CodePipeline and Created Cloud formation JSON templates in Terraform for infrastructure as code.
+●Work with Terraform key features such as Infrastructure as code, Execution plans, Resource Graphs, Change Automation.
+●Created and configured AWS EC2 instances using preconfigured Nationwide approved templates such as AMI, RHEL, Centos, Ubuntu as well as used corporate based VM images which includes complete packages to run, build and test in those EC2 Instances.
+●Dockerized Applications by writing Docker files and pushing to the private registry.
+●Created Kubernetes Cluster on AWS cloud for Java Web Applications.
+●Automating the systems, configuring the servers and orchestrating the deployments through Ansible.
+●Experience in writing Ansible playbooks and securing a server with Ansible and Provisioning, deployment with Ansible.
+●Migrated applications to the AWS cloud.
+●Implemented POC on Elastic Search for Claims team.
+●Created Tag clouds on Visualizations, Dashboards using Kibana
+●Configure XPack settings for Elasticsearch and create a storage gateway for continuous flow of claims data from S3 Buckets.
+●Created Log collection in Elastic Stack (Elastic Search, Logstash, Kibana) installed File beat on Hadoop nodes in the cluster to send log data to Logstash. Applied Grok patterns on log data before sending to Elasticsearch.
+
+AT&T– Enterprise Data Lake Mar 2017 - Oct 2018
+AWS/ DevOps Engineer, Dallas-Tx
+
+Enterprise Data Lake brings disparate data sources across the enterprise by defining a common and consistent Data Platform. This includes the design of individual phases like Data Ingestion, Transformation across Hot, Warm and Cold paths. EDL is designed Cloud-First utilizing AWS Managed Services
+●Designed and Developed the Data Ingestion and Transformation Phases of Data Lake
+●Developed the Index Model for Data Lake Metadata Store using AWS Elasticsearch Service
+●Data Migration from on-prem to AWS using S3 and Data Pipeline
+●Transactional Data Store - Data Modeling for DynamoDB
+●Designed Data Warehouse store based on Redshift
+●Developed Data Analytics Batch Jobs using EMR (Hadoop)
+●Data Governance in the Data Lake by integrating with Collibra
+●Utilized “Hashicorp Vault” to manage controlled access to tokens, passwords, certificates, API keys
+●Developed Service Discovery component based on Distributed Coordination Component with Netflix Archaius.
+●Designed an Auto Scale Solution to eliminate pets – utilizing Dynamic Scaling feature of EC2 Auto scale Groups
+●Developed Apache Spark Jobs to migrate data across various phases of the Data Lake
+●Introduced AWS Kinesis as a solution for backpressure between decoupled microservices
+●Utilized “Chaos Monkey” to validate the resiliency of the Data Lake components
+●ELK Stack provisioning automation using CloudFormation and Ansible
+
+Cisco Systems May 2015 - Mar 2017
+AWS/DevOps Engineer, Morrisville-NC
+
+●Involved in DevOps migration/automation processes for build and deploy systems.
+●Involved in designing and deploying multitude applications utilizing almost all of the AWS stack (Including EC2, Route53, S3, RDS, Dynamodb, SNS, SQS, IAM) focusing on high-availability, fault tolerance, and auto-scaling in AWS CloudFormation
+●Administered Jenkins, Proposed and implemented branching strategy suitable for agile/scrum development in a Fast-Paced Engineering Environment.
+●Transactional Data Store - Data Modeling for DynamoDB
+●Our DevOps solution includes the functions of build, deploy, automation test control, generating reports and notification services with an end goal of continuous integration in a data center and Cloud (AWS environment).
+●Engaged with clients for better understanding of projects and on boarding them on to Continuous Delivery tools like U-deploy, for continuous automated deployments from Development environment to Production environment successfully and following the best practices from DevOps cultures.
+●Used MAVEN as build tools on Java projects for the development of build artifacts on the source code.
+●Ensure that the builds are consistent after being ported from different platforms and working closely with Architecture, Development, Test, Security and IT Services teams.
+●Performed all Linux operating system, disk management and patch management configurations, on Linux instances in AWS.
+●Coordinated developers with establishing and applying appropriate branching, labeling/naming conventions using GIT source control.
+●Analyzed and resolved conflicts related to merging of source code for GIT.
+●Worked on Installing Firmware Upgrades, kernel patches, systems configuration, system Performance tuning on Unix/Linux systems.
+●Migrated the current Linux environment to AWS /RHEL Linux environment and used auto scaling features and was involved in remediation and patching of Unix/Linux Servers.
+●Responsible for automating Build and Release for Java Projects using Maven and Jenkins. Jenkins jobs were defined using Jenkins DSL
+●Wrote python scripts to deploy java applications from Jenkins to remote servers.
+●Created branching and tagging strategy to maintain the source code in the GIT repository and coordinated with developers with establishing and applying appropriate branching, labeling/naming conventions using GIT source control.
+●Used Confluence to document designs, initiate discussion and collect feedback and from team members to continuously improve the designs using the tool.
+●Configure and maintain stress servers in different geographical locations and provide setup in every release to perform stress testing.
+
+TATA Consultancy Services Ltd. Dec 2012 – Mar 2015
+Build and Release/DevOps Engineer
+
+●As a member of the Release Engineering group, redefined processes and implemented tools for software builds,patch creation, source control, and release tracking and reporting on the Unix platform.
+●Worked with Subject Matter Expert to Build and Release Management methodologies, hands-on experience in creating and managing the various development and build platforms and deployment strategies.
+●Builds and deploys J2EE application in WebSphere.
+●Designed and developed continuous availability testing framework to ensure that all components of SOA backplane are up and running along with working web services in HUDSON.
+●Involved in Creating test scenarios and test cases based on the defined test strategy for the assigned module for SOA implementation.
+●Analyzed the ANT Build projects for conversion. Converting the ANT Build projects to Maven Build projects.
+●Written Maven scripts, installed Jenkins, written shell script for end-to-end build and deployment automation.
+●Build and maintain SQL scripts and execute different scripts for different environments.
+●Assisted with maintaining current build systems, developed build scripts, and maintained the source control system.
+●Performed all necessary day-to- day TFS support for different projects and Responsible for designing and maintenance of the TFS Repositories, views, and the access control strategies.
+●Used TFS as source code repositories and managed TFS repositories for branching, merging, and tagging.
+●Managed the source codes repository of multiple development applications using TFS version control tools.
+●Deployed the web services code To JBOSS App server using Serena deployment utility to trigger the Maven scripts to deploy to the correct locations on the server.
+●Developed shell scripts on windows systems for automation of the build and release process and also automate deployment and release distribution process with shell.
+●Created analytical matrices reports for release services based on Remedy tickets.
+●Performed weekly and on-call deployments of application codes to production environments.
+
+Goldstone Technologies Pvt.Ltd Jun 2010 - Nov 2012
+System Admin/Build and Release Engineer
+
+●Experienced in the field of Java/J2EE technologies with expertise in software life-cycle experience in Application Software Design, Object Oriented Design, Development, Documentation, debugging and Implementation.
+●Generated Ant, UNIX scripts for build activities in QA, Staging and Production environments.
+●Worked on the transition project which involves migration activities from Ant to Maven in order to standardize the build across all the applications.
+●Managed Users and Groups in SVN and involved in troubleshooting client specific issues and user issues.
+●Configured local Maven repositories and multi-component Ant projects with Nexus repositories and scheduled projects in Jenkins for continuous integration.
+●Integrated Subversion (SVN) into Jenkins to automate the code check-out process
+●Automated the deployment and server bounce process by creating the scripts using WebLogic Scripting Tool (WLST).
+●Deployed the build artifacts (WAR’s and EAR’s) into WebLogic app server by integrating the WLST scripts to Shell Scripts.
+●Maintained configuration files for each application build purpose and installed on different environments.
+●Directed the Release Management Calls to synchronize with the Developers, Testers and DBA teams for successful Release.
+●Presented reports to the Project manager about the progress and issues tracking key project milestones, plans and resources.
+
+Education Details
+
+MS in Computer Science Northwestern Polytechnic University 2015-2016
+
+Bachelors in Electronics and Communications J.N.T.U 2006-2010
+Contact this candidate

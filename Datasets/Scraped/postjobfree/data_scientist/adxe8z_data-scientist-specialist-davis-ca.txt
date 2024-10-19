@@ -1,0 +1,34 @@
+Shufan Yu
+**** ******** *** *** ****, Clayton, MO, 63105 530-***-**** adxe8z@r.postjobfree.com
+EDUCATION
+MS, Information System Management Washington University in Saint Louis 2021-Dec 2022 BA, Computational Communication University of California, Davis 2014-2019 TECHNICAL SKILLS
+Machine Learning: Classification, Regression, Bayesian, K-means, SVM, XGBoost, Dimension Reduction, Natural Language Processing, Deep Learning, Decision Tree, Random Forest, KNN, PCA, Clustering, Grid Search, Cross Validation Analytical Skills: Data Visualization, A/B Testing, Experimental Design, Hypothesis Testing, Model Diagnosis, Time Series Analysis, Data Mining, Market Segmentation
+Data Analysis Tools: MySQL, R, Python (NumPy, Pandas, Matplotlib, Seaborn, sklearn, SciPy), SAS, Anaconda, Google Analytics, Tableau, Microsoft (Excel, Power BI)
+H2O.ai, Snowflake, Docker, Spark, Tableau, AWS, Alteryx, SAP, SAS, SPSS, Azure, Google Analytics WORKING EXPERIENCE
+Data Scientist @ Firestone Co., Ltd. 06/2022 – 09/2022 Pet Care Product Analysis
+• Built Time Series models (ARIMA, XGBoost, Random Forest and LSTM) to predict sales of pet care products using last 5 years’ sales and price data in Python, achieved 847.2 RMSE
+• Conducted in-depth product and competitor analysis. Held weekly meetings with business team to present the analysis report.
+• Generated 10+ dashboards of insights behind the models including the cause for the seemingly decreasing market share of Revolution®, presented to managers and marketing team monthly using Tableau Risk Order Prevention
+• Built a classifier (Logistic Regression, KNN, SVM, Naïve Bayes) with Ensemble Learning (Stacking) to detect high-risk orders
+(collusions between salesperson and clinics where orders will be either canceled or returned), achieved 0.927 recall.
+• Transformed, cleaned, and conducted Exploratory Data Analysis (EDA) on 3 million sales data using PySpark
+• Applied SHAP to find the most important features in ML model, provide recommendations to sales team, reduced 7% high- risk orders in 3 months.
+•
+Data Scientist @ Kylin Holdings, Co., Ltd. 03/2021 – 08/2021 Fraud Detection for Credit Applications
+• Processed imbalanced data with oversampling, undersampling and SMOTETomek. Selected and created features after Data Visualization in Tableau.
+• Built and developed a Fraud Detection model with RF, GBDT and XGBoost, achieved 0.913 recall. By Using the ML models, default rate decreased by 5.3%
+Customer Behavior and User Experience Analysis
+• Monitored and visualized customer engagement and conducted AARRR conversion funnel analysis with user activity data
+• Conducted A/B test on experimental and control groups on 480 thousand users for 5 weeks to test correlation between notification push frequency and notification open rate. Calculated the statistical correlation between notification push strategy and conversion rate
+• Reported and provided suggestions for stakeholders to increase pushing frequency, decreased user churn rate from -0.38% to - 0.24% and increased conversion rate by 17%
+Data Specialist @ Nokia Corporation, Co., Ltd. 05/2020 - 09/2020
+• Managed databases and extracted data from large datasets using MySQL and optimized query performance
+• Monitored and evaluated key performance indicators for multiple business sectors, altered and replaced indicators based on market changes and business strategies
+• Prepared daily, weekly, and monthly report with Jupiter Notebook and MS Excel. Provided Root Cause Analysis for customer satisfaction and sales performance
+• Collaborated across departments for indicator effectiveness and maintained a healthy balance between stakeholders SELECTED PROJECTS
+Disease Classification and Medical Transcript Analysis 08/2021 – 12/2021
+• Analyzed and processed imbalanced data with random oversampling, Encoded text after removing stop word using n-gram bag of words and TF-IDF.
+• Build model (Naïve Bayes, KNN and Random Forest) to classify disease ICD category.
+• Optimized hyper-parameters with Grid Search and enabled voting ensemble by hard voting, which improved macro average recall rate to 0.873 and f-1 score to 0.802
+• Led team collaboration and implemented Agile framework, organized sprint grooming and retrospectives
+Contact this candidate

@@ -1,0 +1,257 @@
+Jun Liu
+Contact: 925-***-****, Email: ad6j5m@r.postjobfree.com
+Professional Summary
+•Hadoop Big Data Engineer and Developer with 11+ years of in Big Data and Related Technology including on-prem and cloud platforms.
+•Extensive experience in implementing data processing and analytics solutions on the AWS cloud platform.
+•Proficient in leveraging AWS Glue for data extraction, transformation, and loading (ETL) processes.
+•Extensive experience in utilizing AWS EMR (Elastic MapReduce) for processing and analyzing large datasets using Apache Spark and other big data frameworks.
+•Strong understanding of Amazon S3 for cloud-native data storage.
+•Extensive experience in utilizing Amazon Redshift for large-scale data warehousing and analytics.
+•Experience in loading and transforming data into Redshift using various tools such as AWS Glue and AWS Data Pipeline.
+•Strong understanding of Amazon DynamoDB, a fully managed NoSQL database service.
+•Proficient in designing and modeling DynamoDB tables to ensure optimal performance and scalability.
+•Extensive experience in utilizing Amazon Kinesis for real-time streaming data processing and analytics.
+•Strong understanding of AWS Lambda for serverless computing and event-driven data processing.
+•Knowledgeable in configuring and monitoring data pipelines using AWS Step Functions.
+•Proficient in using AWS CloudFormation for infrastructure provisioning and management.
+•Strong understanding of AWS CodePipeline for automating the release process and continuous delivery of applications and infrastructure.
+•Experience in configuring and orchestrating the pipeline stages for building, testing, and deploying applications using AWS services.
+•Proficient in using AWS CloudFormation for infrastructure as code (IaC) to provision and manage AWS resources.
+•Extensive experience in implementing data processing and analytics solutions on the Azure cloud platform.
+•Proficient in utilizing Azure Data Factory, Azure Databricks, and Azure Data Lake Analytics for scalable data processing and transformation.
+•Strong understanding of Azure Synapse Analytics (formerly SQL Data Warehouse) for building and managing large-scale data warehouses.
+•Skilled in leveraging Azure Cosmos DB, a globally distributed NoSQL database, for building highly available and scalable applications.
+•Experience in deploying and managing Azure SQL Database for reliable and scalable database solutions.
+•Knowledgeable in configuring and monitoring data pipelines using Azure Data Factory.
+•Proficient in using Azure Blob Storage for cloud-native data storage.
+•Skilled in integrating machine learning workflows with Azure Machine Learning for predictive analytics and model deployment.
+•Proficient in leveraging Azure DevOps for continuous integration and continuous delivery (CI/CD) pipelines.
+•Experience in configuring build and release pipelines, including source code management, build automation, and deployment to Azure environments.
+•Proficient in data interpretation, modeling, data analysis, and reporting using Power BI.
+•Experience in creating interactive dashboards and visualizations in Power BI.
+•Responsible for writing Map Reduce programs.
+•Experienced in importing-exporting data into HDFS using Sqoop.
+•Experience loading data to Hive partitions and creating buckets in Hive.
+•Developed Map Reduce jobs to automate transferring data from HBase.
+•Proficiency in Python programming language, including libraries such as Pandas and NumPy.
+•Proficiency in Scala programming language for working with Apache Spark.
+•Involved in performance tuning the data-heavy dashboards and reports for optimization using various options like Extracts, Context filters, writing efficient calculations, Data source filters, Indexing, and Partitioning in the data source, etc.
+•Proficient with BI tools like Tableau and Power BI, data interpretation, modeling, data analysis, and reporting with the ability to assist in directing planning based on insights.
+•Created dashboards for TNS Value Manager in Tableau using various features of Tableau like Custom-SQL, Multiple Tables, Blending, Extracts, Parameters, Filters, Calculations, Context Filters, Data source filters, Hierarchies, Filter Actions, Maps, etc.
+•Worked with various stakeholders for gathering requirements to create as-is and as-was dashboards.
+•Recommended and used various best practices to improve dashboard performance for Tableau server users.
+•Good understanding of Scrum methodologies, Test Driven Development, and continuous integration.
+Technical Skills
+Big Data: Hadoop, Hive, Flume, Sqoop, Airflow, Nifi, Spark, Spark Streaming, HBase, Pig, Yarn, Kafka, Zookeeper
+IDE: Jupyter Notebooks (formerly iPython Notebooks), Eclipse, IntelliJ, PyCharm, Pandas, Numpy
+Project Methods: Agile, DevOps
+Hadoop Distributions: Cloudera, Hortonworks, AWS, Elastic, ELK, Cloudera CDH, Hortonworks HDP, Amazon Web Services (AWS).
+Programming Languages: Spark, Spark Streaming, Java, Python, Scala, PySpark, SQL
+Scripting: continuous Integration (CI-CD), HiveQL, MapReduce, XML, FTP, Python, Jenkins, UNIX, Shell scripting, LINUX
+File Systems: HDFS, S3, GCP
+ETL Tools: Flume, Kafka, Sqoop, Glue, Azure Data Factory
+Operating System: Unix/Linux, Windows 10, Ubuntu, Apple OS.
+File Formats: Parquet, Avro & JSON, ORC, Text, CSV.
+Compute Engines: Apache Spark, Spark Streaming, Flink, Storm, AWS EC2,
+Data Visualization Tools: Pentaho, QlikView, Tableau, PowerBI, matplotlib.
+Data base: Microsoft SQL Server Database (2005, 2008R2, 2012), Database & Data Structures, Apache Cassandra, Amazon Redshift, DynamoDB, Apache HBase, Apache Hive, MongoDB.
+Cloud Platforms: Amazon AWS, Azure, GCP
+Cloud Services: Databricks, Google Cloud Platform
+Cloud Database & Tools: Redshift, DynamoDB, Cassandra, Apache HBase, SQL, MongoDB, Snowflake
+Software: Microsoft Project, Primavera P6, VMWare, Microsoft Word, Excel, Outlook, PowerPoint, Technical Documentation Skills
+Professional Experience
+Sr. Data Engineer - 10/ 2023 – Present
+Guardian Life Insurance Company, New York, NY
+
+Task Description: My primary responsibility was the migration of approximately 80 data pipelines from AWS EMR to Databricks, which entailed a thorough review of existing pipelines, designing new ones for improved efficiency, and updating legacy code across a wide range of technologies (e.g., HQL, SQL, Spark, Python, Presto, Hive, and the Databricks CLI).
+
+•Responsible for leveraging a modern data processing architecture that integrated both batch and real-time processing capabilities, achieving efficient handling of large data volumes by transitioning from a waterfall to a parallel processing model, which notably reduced processing times.
+•Tasked with the development of the application's user interface, utilizing SwiftUI for its modern, declarative syntax, and employing UIKit for legacy support through a mix of programmatic interfaces and Storyboards, ensuring a seamless user experience.
+•Conducted comprehensive unit and UI testing to guarantee the reliability and usability of the application. Utilized the Databricks SQL editor for local and unit testing of pipelines, ensuring optimal performance before deployment.
+•Played a key role in the redesign of data pipelines, adopting the microservices architecture pattern to facilitate more agile development, testing, and deployment processes, thereby enhancing update ease and system scalability.
+•Led the initiative to revamp old pipelines by migrating from a sequential to a parallel processing approach, successfully halving processing time and significantly improving efficiency.
+•Developed and launched a real-time data processing system using AWS Kinesis for streaming data, AWS Lambda for processing, and Amazon DynamoDB for storage, achieving sub-second processing times.
+•Optimized EMR jobs for performance and scalability.
+•Employed a variety of frameworks for diverse aspects of the project, including data processing, web services, and UI development, to ensure a robust and scalable application framework.
+•Collaborated within a cross-functional team environment that included data engineers, data scientists, front-end and back-end developers, and QA specialists, fostering an agile and collaborative work culture.
+•Utilized Jira for effective project management and task tracking, facilitating a seamless workflow from task assignment to progress monitoring and release management.
+•Implemented security best practices on AWS, including IAM roles, security groups, and encryption mechanisms, ensuring compliance with industry standards.
+•Designed and built a comprehensive data lake on AWS S3, leveraging AWS Glue for data cataloging and AWS Athena for querying, facilitating advanced analytics and business intelligence.
+•Automated ETL workflows with AWS Glue, reducing processing times by 50% and supporting scalable data transformation and loading processes across various data sources.
+•Oversaw a structured and iterative release process, incorporating continuous integration/continuous deployment (CI/CD) pipelines for automated testing and deployment, in addition to managing scheduled release cycles for major features.
+•Conducted thorough code reviews and updates across a broad spectrum of programming languages and tools to maintain code quality and adherence to best practices.
+•Addressed the challenge of adapting HQL queries for Databricks, often requiring substantial modifications or complete rewrites to ensure alignment with Databricks’ optimized execution plans.
+•Successfully redesigned the data flow of a critical pipeline, achieving a 50% reduction in processing time, which markedly enhanced the overall application performance and user experience.
+•Managed the deployment of pipelines into Databricks workflows using the Databricks bundle, performing extensive testing and debugging across various stages (development, UST, pre-production) to ensure system robustness and reliability.
+•Committed to implementing innovative solutions in every project task, from reviewing old pipelines to deploying optimized ones, aiming to address immediate challenges while contributing to the project’s long-term success and scalability.
+
+Sr. Big Data Engineer - 02/ 2022 – 09/ 2023
+Robert Half Technologies, Bay Area CA
+
+•Designing, developing, and maintaining data pipelines to extract, transform, and load (ETL) large volumes of data from various sources into a big data platform or data lake.
+•Implementing data processing and transformation logic using distributed computing frameworks like Apache Hadoop, Apache Spark, or Apache Flink to handle the scalability and complexity of big data.
+•Creating and maintaining data models and database schemas optimized for big data platforms, ensuring efficient storage, retrieval, and processing of data.
+•Creating JIL file and submitting for approval and processing it.
+•Submitted the python code of creating batch running report of Raptor batches.
+•Testing for Raptor new code, Raptor batch test running, code reading and comparing their performance.
+•Implemented a serverless analytics solution using AWS Lambda and Amazon Redshift, enabling cost-effective scaling and processing of large datasets for real-time insights.
+•Collaborating with data scientists and analysts to understand their requirements and provide the necessary data structures and tools for analysing and visualizing data insights.
+•Identifying and resolving performance bottlenecks in data processing and storage layers by tuning system configurations, optimizing queries, and improving data access patterns.
+•Monitoring data pipelines and infrastructure components to identify and resolve issues, performing routine maintenance tasks, and ensuring high availability and reliability of the big data platform.
+•Collaborating with cross-functional teams, including data scientists, analysts, and other engineers, to understand their requirements, share knowledge, and document technical designs and best practices.
+•Engineered a fault-tolerant streaming data application with Amazon Kinesis Data Streams and Kinesis Data Firehose, ensuring high availability and data integrity for critical financial transactions.
+•Stayed updated with emerging technologies, industry trends, and best practices related to big data processing and engineering and evaluating their potential to improve existing systems.
+•Managing and prioritizing multiple projects simultaneously, estimating effort and timelines, and delivering projects within defined deadlines and quality standards.
+•Conducted performance monitoring and troubleshooting of AWS resources to identify and resolve issues proactively.
+•Migrated a legacy data warehouse to Amazon Redshift, optimizing query performance and scalability while ensuring seamless integration with existing BI tools.
+•Creating CHEF service and how to script recipe to install apps silently.
+•Coding Jenkins file and create Jenkins channel of App01 CICD process, Raptor CICD process, Orpt-server CICD process.
+•Migrating app01 CICD process to PROD, Raptor CICD process to PROD, Orpt-server CICD process to PROD and EDW/EDWC CICD process to PROD
+•Provided technical guidance and mentorship to junior team members on AWS best practices and methodologies.
+•Orchestrated data pipelines and workflows using AWS Step Functions, enhancing data governance, and operational efficiency for complex data processing tasks.
+•Building multiple pipelines and Jenkins file for EDW/ EDWC
+•Collaborated with cross-functional teams to design and deploy scalable and secure solutions on AWS infrastructure.
+•Editing code of dremio to add more function and create SNS for running results and upload output files to s3 bucket.
+•Creating a whole pipeline of dremio alerts, including Step function, Event bridge, lambda function, glue, SNS, Serect Manager, dynamodb, cloud formation, dremio
+•Adding cloud watch and save scan result and logs in s3 bucket of dremio alerts.
+•Creating CDK code for DL table Info Clean and lambda function of delete ENI.
+•Improving the running time of Dremio Recon alerts.
+•Creating spark glue process to transfer json file to parquet and create table in Dremio
+
+Sr. Big Data Engineer - 03/2021 to 02/2022
+Sony – San Mateo, CA
+
+•Built new pipeline from data ocean to AWS S3 for different clients (Infosum, PDC/Antman)
+•Rebuilt old pipeline from data ocean to Facebook platform for different partners (APAC, Brazil, Japan 2 partners, EU, US).
+•Migrated Facebook pipeline from AWS to Databricks.
+•Migrated data resource from old data ocean (Krux) to new data ocean (Native), cleaned old Audience Segments and uploaded new Audience Segments.
+•Utilized Amazon EMR for processing vast amounts of data using Apache Spark and Hadoop, significantly reducing processing time for big data analytics projects.
+•Performed in-depth information-gathering process in relation to the Facebook project as there were no files to copy with or engineers know the whole picture or details about this pipeline.
+•Produced and submitted the detailed support documentation specific to the Facebook project.
+•Switched from snapshot algorithm to delta algorithm by changing the code.
+•Translated Java code to Scala code as part of Infosum pipeline build.
+•Translated Java code to Scala code as part of PDC pipeline build.
+•Handled multiple change requests during the project lifecycle builds by making appropriate technical modifications based on formal change request specifications and performing testing/debugging to ensure technical changes met operational and performance requirements. Applied three-step run and debug process utilizing CI/CD, Jenkins, and Kubeflow.
+•Monitored the daily runs and validated that data really uploaded to platform. Where runs failed, I performed technical troubleshooting to figure out the cause and performed the appropriate technical fix.
+•Identified that run times for pipelines could be optimized by increasing the batch sizes for US and EU, which decreased the run time to half of the original time and increased the batch sizes accordingly.
+•Designed a multi-tier logging and monitoring solution using AWS CloudWatch and AWS Lambda, enabling proactive issue detection and resolution across all data pipelines.
+•Created panels for all the partner I worked on in Grafana to monitor and show in datagram how the panels worked.
+•Processed wildfire, air quality and census data by Spark cluster based on AWS EMR/EC2 and utilized S3 to store the raw and cleaned data.
+•Optimized the performance of pipeline by query tuning, reduced the processing time by 50%.
+•Visualized the wildfire impact by Plotly based on Flask front-end and PostgreSQL on AWS RDS as backend and identified the wildfires with the largest impacted population since 1992.
+•Using Python to build pipelines to scrap data from dynamic web page.
+•Used logging tools to build frameworks for auditing, error logging & master data management for pipelines.
+•Implemented AWS Data Pipeline for automated data movement and transformation, facilitating smoother data flows and increased productivity in data operations.
+•Used API token and Request package to get historical leading data from Lending club website and Organize data into data frames.
+•Used Spark to build and process real-time data stream from Kafka producer.
+•Defined and implemented schema for a custom HBase.
+•Executed Hadoop/Spark jobs on AWS EMR using programs, data stored in S3 Buckets.
+•Added support for Amazon AWS S3 and RDS to host static/media files and the database into Amazon Cloud.
+•Used SparkSQL for creating and populating HBase warehouse.
+•Enhanced data security and compliance by integrating AWS KMS with S3 and Redshift, ensuring encrypted data storage and secure access management.
+•Unified features' name and compared current data and historical data.
+•Identified the important Used Spark DataFrame API over Cloudera platform to perform analytics on data.
+•Leveraged AWS Lambda and Amazon SNS for building an event-driven notification system, improving real-time response to data-driven events across the organization.
+•Features to do data cleaning and feature engineering.
+•Used Logistic regression model to predict the default rate of a loan and save trained model for future usage.
+•Set automatic send remind email once the camping location is available.
+
+Data Engineer - 03/2019 to 03/2021
+Liberty Mutual Group – Boston, MA
+
+•Created data frames from different data sources like Existing RDDs, Structured data files, JSON Datasets, Azure SQL Database, and external databases using Azure Databricks.
+•Loaded terabytes of different level raw data into Spark RDD for data computation to generate the output response and imported the data from Azure Blob Storage into Spark RDD using Azure Databricks.
+•Used Hive Context which provides a superset of the functionality provided by SQL Context and Preferred to write queries using the HiveQL parser to read data from Azure HDInsight Hive tables.
+•Modeled Hive partitions extensively for data separation and faster data processing and followed Hive best practices for tuning in Azure HDInsight.
+•Caching of RDDs for better performance and performing actions on each RDD in Azure Databricks.
+•Developed highly complex Python and Scala code, which is maintainable, easy to use, and satisfies application requirements, data processing, and analytics using inbuilt libraries in Azure Databricks.
+•Successfully loaded files to Azure HDInsight Hive and Azure Blob Storage from Oracle, SQL Server using Azure Data Factory. Environment: Azure HDInsight, Azure Blob Storage, Azure Databricks, Linux, Shell Scripting, Airflow.
+•Migrated legacy MapReduce jobs to PySpark jobs using Azure HDInsight.
+•Written UNIX script for ETL process automation and scheduling, and to invoke jobs, error handling and reporting, to handle file operations, to do file transfer using Azure Blob Storage.
+•Worked with UNIX Shell scripts for Job control and file management in Azure Linux Virtual Machines.
+•Experienced in working at offshore and onshore models for development and support projects in Azure.
+•Implemented data visualization solutions using Tableau and Power BI to provide insights and analytics to business stakeholders.
+
+Data Engineer - 07/2017 to 03/2019
+Riot Games – Los Angeles, CA
+
+•Built new pipeline from Tencent Cloud to AWS S3, and then optimized pipeline code and adjusted my code to fit Riot Games style, which was important because the users of my code are Data Scientists, so it was imperative to make sure they could read and understand each code step at-a-glance.
+•Performed in-depth information-gathering process in relation to the Tencent Cloud code as there were no files to read and no engineers on staff with experience with the code.
+•Used Python to crawler data from Tencent Cloud.
+•Aggravating and link to tableau as data resource, visualize the result on tableau.
+•Set up pipeline to restore the data in an AWS S3 bucket, and used this bucket as a data resource, then built visualized chart on Tableau. (Using Tableau charts made it much easier to have a whole picture of cost between different games and between different periods.)
+•Established automatic process from data downloading to data extraction, data aggregation, data storage, and finally data visualization, which saved DS a lot of time. The pipeline is scheduled to run every day and at the end of each month.
+•Changed Databricks code to make sure no sensitive information was included in the code of the pipeline.
+•Wrote a large number of Spark jobs to process millions of rows of data
+
+Hadoop Developer - 12/2015 to 07/2017
+Tetra Tech, Inc., CA
+
+•Processed wildfire, air quality and census data by Spark cluster based on AWS EMR/EC2 and utilized S3 to store the raw and cleaned data.
+•Optimized the performance of pipeline by query tuning, reduced the processing time by 50%.
+•Visualized the wildfire impact by Plotly based on Flask front-end and PostgreSQL on AWS RDS as backend and identified the wildfires with the largest impacted population since 1992.
+•Using Python to build pipelines to scrap data from dynamic web page.
+•Used logging tools to build frameworks for auditing, error logging & master data management for pipelines.
+•Used API token and Request package to get historical leading data from Lending club website and Organize data into data frames.
+•Used Spark to build and process real-time data stream from Kafka producer.
+•Defined and implemented schema for a custom HBase.
+•Executed Hadoop/Spark jobs on AWS EMR using programs, data stored in S3 Buckets.
+•Added support for Amazon AWS S3 and RDS to host static/media files and the database into Amazon Cloud.
+•Used SparkSQL for creating and populating HBase warehouse.
+•Unified features' name and compared current data and historical data.
+•Identified the important Used Spark DataFrame API over Cloudera platform to perform analytics on data.
+•Features to do data cleaning and feature engineering.
+•Used Logistic regression model to predict the default rate of a loan and save trained model for future usage.
+•Set automatic send remind email once the camping location is available.
+
+Big Data Engineer - 08/2014 to 12/2015
+Kaiser Permanente, Oakland, CA
+
+•Demonstrated ability to think strategically about business, product, and technical challenges in an enterprise environment.
+•Used spark SQL to create real-time processing of structured data with Spark Streaming processed through structured streaming.
+•Improved the speed of finding nurse fatigue from 4-5 hours to less than a minute by click, used Tableau to create 8 dashboards, visualized performance metrics from hospital level to individual level that provide intuitive analytics.
+•Built machine learning modeling (logistic regression) to predict the nurses' fatigue and notify hospital management to provide a more balanced workload for nurses.
+•Automated send alert email to managers when any abnormal metrics appeared by writing 100 lines SQL queries and setting in Server Stored Procedures and Scheduled Jobs.
+•Built a Spark proof of concept with Python using PySpark.
+•Implemented advanced procedures of feature engineering for data science team using the in-memory computing capabilities like Apache Spark written in Scala.
+•Extracted the needed data from the server into Hadoop file system (HDFS) and bulk loaded the cleaned data into HBase using Spark.
+•Designed and implemented an ETL pipeline loads from 40 medical IT centers to Data Warehouse for Clinic Alert Notification System (CANS) to present the raw notification data into a de-normalized and more consumable way.
+•Add Tableau Dashboards to SharePoint, let different level managers get customized visual result with a click.
+•Abstracted raw data from different location of databases, used the same standard and make data dictionary to clean data, and make sure all the primary key and data fields have no conflict.
+•Transformed all of data before using them in next step Tableau.
+•Wrote a detailed final report, which was shared as the training guidebook for future work.
+•API and GIT, using requests and beautiful soup package to write crawler to get game inventory for a sample of 5000 users and get app information.
+•Work with MySQL in Python to save data Frame to MySQL.
+•Build recommendation using Collaborative filtering, Content-based filtering, Hybrid Approaches and Popularity.
+Data Engineer - 04/2013 to 08/2014
+AliExpress – San Jose, CA
+
+•Abstracted 3 years raw data from different kinds of databases of companies ranging from national public companies to start-ups.
+•Implemented automated data pipeline, cleaned data, transformed to designated format and loaded into Bureau's auto tax-audit app, reducing data processing time from 1 week to 20 minutes and improved data accuracy by 50%.
+•Wrote a real estate sector case report, which was published as the bureau's training guidebook for tax analysis.
+•Collected data from 5 different sources, such as Bureau of Transportation statistics report, yelp, weather web, Wikipedia, etc.
+•Identified how to improve data collections.
+•Built end-to-end pipeline from data collected, designed dimensional model, build target data warehouse to used ETL tools SSIS to integration them.
+•Used Tableau to visibility of top 10 business questions to explain and predict customers' choice pattern of airport and airline, give advice to future customers.
+•Used Hive and Hadoop to load HDFS data file into a Hive table and created table using RC file format (column- based) and ORC file format, and partitioned data by cities and date.
+•Realized user cases such as the top 10 cities with the most amount of tweet and the top 10 cities having most followers, etc.
+•Wroe queries with HiveQL and Spark SQL.
+•Acted as team lead, in charge of end-to-end technical solutions from UML design to use case query.
+•Communicated with different user roles to identify business requirements and solve all the logical conflicts before data dumping.
+
+Academic Credentials
+
+M.S: Information Systems
+Santa Clara University
+Beta Gamma Sigma, Top 20
+
+M.S: Sci. and Engineering of Management
+University of Science and Technology of China
+
+B.S: Information Systems
+Anhui University
+Certifications
+IBM – Hadoop101
+
+IBM – Big Data
+Contact this candidate

@@ -1,0 +1,123 @@
+Bruce Smith: IT Infrastructure / DevOps
+ac5b8t@r.postjobfree.com
+Skype Name: Smithx10
+Phone: 267-***-****
+Levittown, PA
+
+Seeking the opportunity to work as an Infrastructure/DevOps Engineer and be able to give back to the community whenever possible. I've been working on and around the Joyent Triton Private and Public Cloud Platform. The discovery of Joyent was a bolt of lightning to why I needed to be a Linux, and Unix Engineer. I keep myself up to date on technology by using some of the following resources. Joyent is the company that brought the world Node.JS, and was recently acquired by Samsung for its excellent container native platforms.
+
+The following resources have equipped me with the ability to build and utilise clouds. Whether they be public or private, running on UNIX or Linux.
+https://www.joyent.com/blog (Joyent’s Technical Blog)
+https://queue.acm.org/ (The Association of Computing Machinery)
+http://dtrace.org/blogs/ (Blogs about Infrastructure and Systems from the Top Engineers in the Industry)
+https://cr.joyent.us (Code Review for Joyent)
+
+After a decade of operating systems at different scales I have the ability to now spot the pros and cons about systems, and their toll on operations. For private cloud implementations this includes the commodity hardware required for compute, networking, and storage.
+
+I'm fluid in the 12 factor application (https://12factor.net/), and the patterns and anti-patterns around them. Given my experience I am now a huge supporter of what is known as the Autopilot Pattern. The autopilot pattern automates in code the repetitive and boring operational tasks of an application, including startup, shutdown, scaling, and recovery from anticipated failure conditions for reliability, ease of use, and improved productivity. (http://autopilotpattern.io/)
+
+I have become an independent thinker who judges and critiques technology on its robustness, performance and technical merit.
+
+Technical Abilities worth mentioning:
+Ability to utilise Any Public Cloud's (AWS, Azure, Joyent, Digital Ocean, etc) APIs and Services to construct a Safe, *Enterprise-Grade*, Developer Friendly, infrastructure that is embodied around the established values of the team I am a part of.
+Ability to Architect, Debug, Operate Linux Container Orchestration Platforms such as Mesosphere and Kubernetes.
+Ability to think about the TCO (Total Cost of Ownership) of each component that creates a finely tuned infrastructure.
+Ability to provide end to end security throughout the infrastructure. This has become know as providing “Continuous Security”.
+Ability to build decoupled infrastructure in the enterprise with minimal to no downtown.
+Ability to write programs to solve a variety of issues in NodeJS.
+Ability to debug problematic applications in the enterprise to solve issues.
+Ability to construct Private Cloud infrastructure that are as easy to use as Public Cloud.
+Ability to venture into areas where I have limited knowledge, and smile.
+Feel very comfortable in Modern Operating Systems such as SmartOS, Linux, Windows Server, FreeBSD and ESXi.
+Configuration Management: Using the Infrastructure as Code Methodology, Powershell, Jenkins, Ansible / Terraform / Packer / NodeJS / Git etc.
+Networking: VRF, VLAN, VXLan, LACP, Reverse Proxying, SSL, Load Balancing, CARP, DNS... etc.
+Languages: Javascript (Node), Powershell, Some GO, Bash, Batch
+Storage: ZFS, Object Storage, Traditional Proprietary SAN / NAS solutions. VNX, Compellent, Tintri, EqualLogic etc.
+Demo Code Challenge Application:
+Restful Fibonacci Array Service in NodeJS: https://github.com/smithx10/rest-fibo
+
+Examples of ability to Debug and inspire change in Open Source Projects:
+Finding a bottle neck in SmartOS’s imgadm application and fully demonstrate where we are bottle necked with DTrace and Flame Graphs: https://github.com/joyent/smartos-live/issues/718
+Pull Request on the open source project Ansible: https://github.com/ansible/ansible/pull/35919
+
+Examples of Self-Motivation and ability to learn:
+While working for certain enterprises I have discovered that getting a proper lab, or testing environment for infrastructure engineers was usually somewhat challenging do to politics. Because of this I built my own lab that runs Joyent’s Triton, and Manta. This allows for me to test and develop quickly. I have been able to deploy Mesosphere, Kubernetes, and many other mega orchestrators in order to find the Pros and Cons of each and test complex ideas without hesitation.
+My lab stack (https://twitter.com/bruce_smith_it/status/931555424322686976 ):
+Routing (Gateway to Internet): Ubiquity EdgeRouter Pro
+Firewall (Internal): NPF on NetBSD
+Switch Fabric: Quanta lb6m-10GB and Quanta lb4m-1GB,
+Compute: Skull canyon with 10GB (HeadNode), 3 Quanta S210-X22RQ 2x E5-2670 (Compute Nodes)
+OS: SmartOS
+Storage: 40TB usable, Manta, ZFS
+
+EXPERIENCE
+IMS Health 06-2016 - 08-2017
+Cloud Infrastructure / DevOps Engineer
+Provide CI / CD pipelines to actively update and run services on DC/OS (Mesosphere)
+Designing and Implementing Service discovery using Mesos-DNS / Marathon-LB but prefer to use Consul and Consul Templates, EnvConsul etc.
+Attempted to instill an open and learning culture known as DevOps
+Created and maintained pipelines to create Docker images
+Configured and Maintained Private artifact and Docker repositories using Sonatype Nexus 3 OSS
+Configured and Maintained Jenkins Pipelines
+Configured and Maintained Git environment using Gitblit and Gitlab.
+Introduced and deployed Prometheus where possible
+Created and maintained packer pipelines with Jenkins to create immutable images
+Worked on expanding the Terraform Gitlab provider for adding members
+Created and Maintained Ansible scripts to configure Linux instances and applications
+Migrate Linux builds from Foreman to Packer / Terraform
+
+Brandywine Global Investment 10-2015 – 06-2016
+I.T. Infrastructure Administrator
+Provide architecture and infrastructure design concepts
+Modernize the datacenter by migrating from the classic VMWare stack to using CI, Triton (Smart Data Center), JS, and Docker in a (Private Cloud)
+Purchased and Spec’d out Triton Compute and Storage Architecture from Dell
+Configured Private Triton Cloud using 7 Servers to replace existing much larger VMware and shared storage platform almost 16 nodes, which is highly due to the CoW / performance of SmartOS and the Illumos Kernel
+Administered SmartOS to provide excellent bare-metal performance containers
+Docker to Create and Maintain Images that ran on Triton (aka SDC)
+Used Dtrace to discover and resolve performance and bugs within the environment.
+Ran Change meetings
+Designed and implemented different compute node tiers for different IO loads in ZFS using Joyent’s Triton
+Configured and Implemented LACP / VRF / Overlay networks using Triton (SmartOS), Juniper Routers and Switches
+Redesigned and Maintained the current traditional Windows / VMware Server Infrastructure
+Implemented the use of Ansible to maintain windows servers using pywinrm
+Implemented Groovy Builder functions to create Jenkins jobs and maintain best practices
+Find / Fix existing Windows Server infrastructure issues, Sites and Services, NTP, AD, DNS etc.
+Began creating a API gateway for use with traditional Services like McAfee, Tintri, and pretty much anything that has an API or Shell that could be executed via NodeJS
+Created and Maintain Restful API using NodeJS, Restify, and Mongo
+
+Exelon Corporation 03/2015 – 06/2015
+Windows System Administrator
+Provided Windows System Administration Support
+
+FlexLink Services 11/2013 – 12/2014
+Windows Systems Administrator
+Planned and automated a small Novell to Windows Migration
+Created a deployment strategy using Microsoft Deployment Toolkit
+Maintained all aspects of the Server Infrastructure Stack
+
+Medrisknet 01/2012 – 01/2013
+Windows Systems Administrator
+Maintained all aspects of the Server Infrastructure Stack
+Thomas Jefferson University 2011-2012
+Windows Systems Administrator
+Maintained all aspects of the Windows Server Infrastructure
+Created and streamlined Server deployment using Powershell
+Designed and migrated from Mirapoint Mail to Exchange on Office 365 using Powershell
+
+GENEX Services 2009-2010
+Junior Windows Systems Administrator
+Helped Maintain the Windows Server Infrastructure
+Introduced to Systems Administration and learned quickly to provide excellent service
+
+DeVry University 2008-2009
+Help Desk Technician
+Troubleshot desktop issues at the DeVry University Fort Washington Campus
+
+Live by the following:
+The Unix Philosophy
+Debug, don’t just restart!
+
+Non-Technical Mentions:
+I enjoy traveling, fitness, and of course… Netflix: P, and have recently started a new hobby of running up mountains with the hopes to be able to maybe one day run a marathon or a ultra!
+http://www.mapmyrun.com/workout/264-***-****
+Contact this candidate

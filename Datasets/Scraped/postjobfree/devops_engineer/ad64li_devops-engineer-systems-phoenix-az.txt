@@ -1,0 +1,227 @@
+Abdur Rehman
+Systems Engineer/DevOps Engineer
+Email: ad64li@r.postjobfree.com
+Technical Summary:
+7+ years of experience in Linux System Administrator with sound experience in Unix/Linux, VMware, AWS/Azure Cloud, Containerization, Version Control Systems and Configuration Management Tools.
+An accomplished Systems administrator with extensive experience in Different flavors of UNIX be it, Red Hat Linux (RHEL 5/6/7/8/9), AIX, Solaris, Centrify, SUSE 10/11/12, CentOS 5/6/7 and DevOps technologies.
+Installing RedHat Linux using kickstart and applying security polices for hardening the server based on the company policies.
+Use VMware update manager to create or edit baselines and baseline group as well as upgrades to operating systems and layered software packages (ie. VDI components, Windows services, or other enterprise apps) as necessary.
+Maintain, upgrade, and implement improvements to the VMWare ESXi infrastructure along with of vRealiaze Automation and vRealize Orchestration capabilities and functionalities.
+Implemented and completed Switch Storage Migration activities in EMC SAN platform.
+Perform korn Shell, Python, Perl and Powershell scripting as needed to support integration and automation.
+Solid comprehension on configuration management tools, such as Puppet, Chef and Ansible.
+Developed Puppet Plans, Puppet Modules using puppet specific language and Puppet artifacts in ruby language.
+Wrote Ansible Playbooks for automating day to day tasks and created templates in Ansible Tower for such.
+Integrated Ansible playbooks with the terraform templates to provision the infrastructure in AWS.
+Integrated Jenkins pipelines with Apache maven, Node and Sonar to automate Continuous Integrations for Build.
+Created Docker Base Images and managing the containers using the Docker images, which I have used for creating Docker Containers for managing Kafka and Zookeeper.
+Well versed with Atlassian tools such as Jira, Confluence, BitBucket and Git.
+Working on Jira, ServiceNow, Azure Devops, Cherwell, Remedy, Peregrine and Service desk for ticketing.
+Experience with various Cloud services such as Amazon Web Services (azure) and Microsoft Azure.
+Hands on experience with Elasticsearch, Logstash and Kibana (ELK).
+Very good exposure of the migration process using SRDF, involved in V2V, P2P and re-installs.
+Managed Docker orchestration and Docker containerization using Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers.
+Experience with Docker, Kubernetes, swarm and clustering frameworks.
+
+Technical Skills:
+
+Operating Systems
+Windows, UNIX, LINUX (RHEL 5/6/7/8/9, Ubuntu 12.04/16.04/18.04/20.04/22.04/24.04, OEL 5/6/7/8/9), AIX, Sun Solaris, SUSE Linux.
+Hardware and Network
+DELL (PowerEdge), HP (ProLiant G7 & G8), Dell Power Edge Servers, Cisco UCS, DHCP, DNS, SNMP, SMTP, Ethernet, NFS.
+Virtualization
+VMware ESX 5.0/5.5/6.0, VMware ESXi 5.0/5.5/6.0 VMware vCenter, vSphere Client, VMware VDI, VMware Thin App,
+RDBMS
+Oracle, MY-SQL, PostgreSQL, Mango DB and MS SQL Server
+Web servers
+Web logic, Web Sphere, Apache Tomcat, JBOSS
+Scripting
+Bash Scripting, Python and Ruby.
+DevOps and Other Tools
+Puppet, Ansible, Chef, Gitlab & Gitlab Runners, GitHub, Jenkins, Docker and K8’s
+
+Certifications:
+
+CompTIA Linux+ Certification
+AWS Cloud
+
+Education:
+Master of Science in information Studies from Trine University, Troy, MI- 2023
+
+Professional Experience:
+
+Target - Phoenix, AZ Nov’23 – Present
+Automation System Engineer
+Responsibilities:
+Professional with over 6 years of experience at various technical levels of Linux Administration (RHEL, Centos & SUSE), Unix (AIX, Solaris) as well as various scripting languages like Shell, Bash, Python, YAML & JSON.
+In-depth knowledge of the technical implementation of Change Management, Incident Management, Problem Management, Service Catalog, Configuration Management, Reporting, Discovery and Integrations.
+Managed Ansible Playbooks with Ansible roles, group variables and inventory files and copy and remove files on remote systems using file module.
+Configuration, implementation, and administration of the HP-UX 11.00, 11.11 (11i) v1, 2 & 3 and RHEL 5/6/7/8/9 infrastructures for the Confidential IS UNIX Leveraged team.
+Installed, configured, and maintained the operating system (e.g., HP-UX, Linux) on HP Superdome servers be it SX1000 A5201A server, SX2000 etc.
+Expertise with configuration management automation tool Ansible and has worked on integrating Ansible.
+Implemented GIT to store the code and integrated it to Ansible Tower to deploy the playbook.
+Responsible for setting up Ansible Tower as Configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change.
+Implemented Infrastructure automation through Ansible for auto provisioning, code deployments, software installation and configuration updates.
+Wrote several Ansible playbooks for the automation that was defined through tasks using YAML format and run Ansible Scripts to provision Dev servers.
+Wrote Ansible Playbooks with Python SSH as the Wrapper to Manage Configurations of Nodes and Test Playbooks on AWS instances using Python.
+Used Ansible Control server to deploy plays and playbooks to the machines and systems in the inventory.
+Used Ansible to document infrastructure and application dependencies into version control.
+Provisioned load balancer, auto-scaling group and launch configuration for microservices using Ansible
+Developed an Ansible role for Zabbix-agent which will be integrated into the to the CI/CD pipeline.
+Wrote Python Code using Ansible Python API to Automate Cloud Deployment Process.
+Developed Python Modules for Ansible Customizations.
+Used Ansible Playbooks to setup Continuous Delivery Pipeline. Deployed micro services, including provisioning AWS environments using Ansible Playbooks.
+Deployed the Java applications into web application servers like JBoss, Apache Tomcat.
+Managed CHEF as I responsible for managing the chef client nodes and upload the cookbooks to chef-server from workstation.
+Used Chef to configure and manage infrastructure. Created cookbooks to automate the configuration setups.
+Established Chef Best practices approaches to system deployment with tools with vagrant and managing Chef Cookbook as a unit of software deployment and independently version controlled.
+Wrote Chef Recipes to automate our build/deployment process and do an overall process improvement to any manual process and also had the opportunity to write multiple cookbooks in chef, implemented environments, roles, data bags in chef for better environment management.
+Hands-on experience Designing, planning and implementation for existing On-Prem applications to Azure Cloud (ARM), Configured and deployed Azure Automation Scripts utilizing Azure stack (Compute, Web and Mobile, Blobs, ADF, Resource Groups, Azure Data Lake, HDInsight Clusters, Azure Data Factory, Azure SQL, Cloud Services and ARM), Services and Utilities focusing on Automation.
+Created Azure Automation Assets, Graphical runbook, PowerShell runbook that will automate specific tasks, deployed Azure AD Connect, configuring Active Directory Federation Service (AD FS) authentication flow, ADFS installation using Azure AD Connect, and involved in administrative tasks that include Build, Design, Deploy of Azure environment.
+Gained experience in dealing with Windows AZURE laas Virtual Networks, Virtual Machines, Cloud Services, Resource Groups, Express Route, Traffic Manager, VPN, Load Balancing, Application Gateways, Auto-Scaling.
+Deployed Azure laaS virtual machines (VMs) and Cloud services (PaaS role) in secure VNets and subnets.
+Worked on AZURE (laaS) migrating like creating AZURE VMs, storage accounts, VHDs, storage pools, migrating on premise servers to AZURE and creating availability sets in AZURE and performed Hardening of the VM's and also disk encryption using the KEK key in MS Azure.
+Used Docker for setting Azure Container Registry with Docker and Docker-compose, actively involved in deployments on Docker using Kubernetes. Also responsible for development of Test environment on Docker containers and configuring them using Kubernetes.
+Deploying windows Kubernetes (K8s) cluster with Azure Container Service (ACS) from Azure CLI and Utilized Kubernetes and Docker for the runtime environment of the CH/CD system to build, test and Octopus Deploy.
+Created Templates for Azure Infrastructure as code using Terraform to build staging and production environments. Integrated Azure Log Analytics with Azure VMs for monitoring the log files, store them and track metrics and used Terraform as a tool, Managed different infrastructure resources Cloud, VMware, and Docker containers.
+Worked with Terraform Templates to automate the Azure laas virtual machines using terraform modules and deployed virtual machine scale sets in production environment.
+Managed Azure Infrastructure Azure Web Roles, Worker Roles, VM Role, Azure SQL, Azure Storage, Azure AD Licenses, Virtual Machine Backup and Recover from a Recovery Services Vault using Azure PowerShell and Azure Portal.
+
+PayPal Inc - Scottsdale, AZ Mar’22 – Oct’23
+Linux System Admin
+Responsibilities:
+Primary responsibility includes building and supporting Rocky Linux, Suse Linux 11, 12 and Redhat Linux 6/7/8 for Enterprise Preference Management System project on Cloud level Infrastructure.
+Responsible for SLES 11 to SLES 12 upgrade, do POC for RHEL8 servers.
+Good experience in building the physical servers and VM in all distributions like Redhat, Ubuntu, Centos and Rocky Linux.
+Created Configured and automate the whole process of LVM, which include creating PVs, VGs, LVs, file systems and troubleshooting.
+Experience with Linux installations, configuration management and patch administration
+Configured, performed WEing, and tuning of Linux kernel.
+Provisioned Linux and Windows Virtual using Private Cloud Infrastructure.
+Monitored system performance using utilities like IOSTAT, VMSTAT, SAR, TOP and PRSTAT.
+Installed RHEL server using kickstart and cloning image.
+Coordinated deployment of HP-UX workstation J-class (J200, J210, J280), C-class(C200, C240, C360) and B-class(B132L, B160L, B180L) software, communications services and equipment.
+Worked on developing scripts and incorporating various HP-UX products to assist the various support teams in monitoring and troubleshooting the HP-UX environment.
+Involved in Building and configuring Solaris 8/9/10 using Jump start server and Red Hat Linux Servers using KickStart server as required for the project. Maintained maximum uptime and maximum performance capacity for Enterprise Production, OA, and UAT/Staging.
+Installing Security fixes, upgrading technology level’s and APAR’s on AIX.
+Integrated the Linux environment with Active Directory providing a Single Sign On (SSO) solution.
+Support virtualization technologies, such as VMware or Hyper-V, integrated with PowerEdge servers.
+Using rsyslog & mysql, deployed a custom syslog reporting solution for system alerts and notifications.
+Taking care of capacity planning for new clusters, ESXi and VM storage issues.
+Hands on experience with middleware such WebSphere, Jboss, RMQ for creating queues and clustering RMQ servers, Nginx LB for routing the traffic and IBM MQ for messaging.
+Install, configure, and maintain MS SQL Server instances for monitoring and optimizing database performance, ensuring high availability and scalability on MS SQL server
+Build, configured, and deployed RedHat/Windows virtual servers using VRA/VRO
+Responsible for providing day-to-day support and maintenance for all Storage Area Network (SAN) and backup systems services across
+Installing, configuring, and maintaining Oracle databases, including creating and managing database instances, users, roles, and privileges.
+Monitoring and optimizing the performance of Oracle databases by analyzing query execution plans, optimizing SQL statements, and tuning database parameters.
+Implementing and maintaining network measures, such as firewalls, TCP/UDP connectivity, access controls to protect the network from unauthorized access.
+Responsible for Data-center tasks like replacing DIMMS, Disks, Boards and cabling the servers.
+Built multiple physical and ESXI servers and installed OS via PXE and CD-ROM.
+Design, configure, and deploy Cisco UCS infrastructure to meet the organization's requirements along with installing and configuring UCS servers, blade enclosures, and fabric interconnects.
+Configured and setup NFS client and master servers and troubleshooting the NFS issues.
+Design, deploy, and configure Dell EMC VxRail hyper-converged infrastructure solutions to meet the organization's needs, integrate VxRail clusters with the existing network infrastructure and storage solutions.
+Install and configure VxRail appliances, vSphere, and vSAN components and manage VxRail clusters, VMs, datastores, and virtual networks.
+Proficiency in scripting languages like PowerShell, Bash and Python.
+Automated day to day tasks to increase efficiency via PowerShell and Bash Scripting.
+Responsible for developing Puppet Modules to automate the various configs of OS and 3rd party application, automate various configurations of Redhat Linux/Windows servers, upgrades of Puppet Master and Puppet Agents to the latest version, customizing the Puppet forge modules as per the environment needs and developed Puppet Plans and Puppet Tasks to automate the various manual tasks in the environment.
+Integrated Puppet components such as Hiera, Puppet bolt, Puppet Jobs, Puppet Tasks etc.
+Wrote Ansible Playbook scripts using Python, SSH into AWS Nodes to manage configurations and test playbooks on AWS instances and also used Ansible Playbooks to setup Continuous Delivery Pipeline. Deployed micro services, including provisioning AWS environments using Ansible Playbooks.
+Wrote Python Code using Ansible Python API to Automate Cloud Deployment Process. Developed Python Modules for Ansible and Ansible Tower Customizations.
+Integrated Ansible playbooks with the Terraform templates to provision the infrastructure in AWS.
+Used Git, TFS, or SVN for version control, including branching strategies, merging techniques, and conflict resolution.
+Working on implementing new OCR solution - Spring Boot, OpenShift, microservices. Member of group developing containerized applications - Docker, Spring Boot, Kubernetes, OpenShift. Deployed Microservices to IBM Bluemix Cloud Foundry and later migrated to OpenShift.
+Worked on OpenShift 4.x and upgraded the version to a stable 4.12 to Install, configure, and maintain OpenShift clusters, including infrastructure components and container runtimes while optimizing the performance and availability of OpenShift clusters, ensuring efficient resource utilization.
+Used container technologies (architecture, build and execution of Docker images) and orchestration Kubernetes (Red Hat OpenShift, Red Hat Quay).
+Pushed Docker Images to Quay registry for storage and distribution.
+Monitored/Scanned for security vulnerabilities in the Image via Quay. Also automated the quay registry for scanning the vulnerabilities in the newly pushed images.hel
+Created Ignition Config files for deploying the cluster.
+Used RedHat Quay (v3.6, v3.7 and v3.8) depending on the requirement to store and manage container images, including versioning, tagging, and metadata management. Also used its interface for uploading, browsing, and searching container images. While integrating it with Jenkins, GitLab and Kubernetes for application deployment pipelines.
+Using Kubernetes, I have automated application deployments and updates and orchestrated deployment.
+Created and Configured Helm charts to define the desired configuration, dependencies, and resources required for deploying an application on Kubernetes.
+Design, develop, and test document composition applications using Exstream Cloud native Achitecture.
+Worked on Microsoft Azure, and its cloud services like Azure App Services, Azure Functions, and Azure Container Instances with strong proficiency in working with Azure DevOps services and tools, including Azure Repos, Azure Pipelines, Azure Boards, and Azure Artifacts.
+Created fully automated CI/CD pipelines for code deployment using AWS Lambda and Jenkins, SonarQube.
+Implemented AWS Code Pipeline and created Cloud formation JSON templates for infrastructure as code.
+Involved in designing and deploying a multitude of applications by utilizing almost all the AWS stacks includingEC2, Route53, S3, RDS, DynamoDB, SNS, SQS, IAM focusing on high-availability, Fault tolerance, and Auto-Scaling in AWS Cloud formation.
+DevOps role converting existing AWS infrastructure to Server-less architecture (AWS Lambda, Kinesis) deployed via Terraform. Deployed 3-tier architecture on AWS cloud using Terraform – IaC. Also Migrated IAC base from Terraform 0.11 to 0.12.x latest version.
+Automated the creation of S3 buckets and policies and IAM role-based policies through Python Boto3 SDK.
+Worked on PythonBoto3 Scripts to Automate AWS services, including web servers VPC, ELB, RDS, EC2, IAM, S3 bucket, Cloud Front.
+Apple, - Sunnyvale, CA July’20 – Nov’21
+System Engineer
+Responsibilities:
+Primary responsibility includes building and supporting Redhat Linux 5/6/7/8, Sun Solaris, Suse Linux and AIX for Enterprise Preference Management System project.
+Experience with Jumpstart & Kickstart Installations on Solaris & Linux
+Implement security measures and access controls to protect the integrity and confidentiality of data for MS SQL servers.
+Implemented upgrades/installations of HP-UX 11.XX and W 11i OS levels, along with kernel modifications associated with various application requirements.
+Wrote the maiority of the bash/python scripts for inventory tracking, user creations, and system configurations, along with writing all documentation associated with the HP-UX environment, including installation procedures for basic installs, all partitioning, and Ignite builds
+Hands on experience with installing and configuring the middleware products such as WebSphere, WebLogic, Jboss, Apache Tomcat, Nginx, RMQ, IBM MQ.
+Integrated the Linux environment with Active Directory providing a Single Sign On (SSO) solution.
+Deployed Redhat Satellite Server with custom repositories to provide a stable management solution for the Linux environment.
+Responsible for design and configuring Anaconda kickstart configurator for Linux servers.
+Implemented liveimg feature of Anaconda kickstart in RHEL7.
+Anaconda installations on non-local (fiber-channel, iSCSI, NAS) devices in RHEL kickstart.
+Installing RedHat Satellite Server using kickstart and applying security polices for hardening the servers.
+Automated system management tasks like user account creation, file system size monitoring, monitor system resources and system maintenance using Shell, Python and Perl scripts.
+Perform database backups, restoration, and disaster recovery procedures for MS SQL.
+Deployed Active/Active MySQL clusters using Redhat Cluster Suite for supporting internal applications built on the LAMP stack.
+Worked with DBAs on installation of Oracle database, RDBMS database, restoration and log generation. Perform security patching of Linux servers
+Troubleshooting errors both Application & JVM also analyzed heap and core plus error logs – configured tuned JVM for optimum performance.
+Implement and maintain UCS security measures also troubleshoot and resolve UCS-related hardware and software issues while performing firmware and software upgrades for UCS components.
+Install, configure, and maintain VOS Stratus operating systems on Stratus fault-tolerant systems. Ensure system reliability, availability, and performance.
+Monitor and manage fault-tolerant features of VOS Stratus, such as redundant hardware components, failover mechanisms, and error detection and recovery. Implement proactive measures to maintain continuous operation.
+Create and maintain system documentation, including configuration settings, procedures, and troubleshooting guides specific to VOS Stratus. Keep documentation up to date with system changes and improvements.
+Design and implement backup and recovery strategies for MP-RAS UNIX systems. Perform regular backups, test restore procedures, and ensure data integrity and disaster recovery preparedness.
+Monitor and optimize VxRail performance and capacity to ensure efficient resource utilization.
+Troubleshoot and resolve VxRail-related hardware and software issues.
+Apply firmware and software updates to VxRail appliances and associated components.
+Implement and maintain security measures and best practices for VxRail infrastructure.
+Installed, configured & upgraded WebSphere and provided extensive support in code deploy, change management and application-level troubleshooting for the Dev, Test, Pre-Prod & Production environment. Deployed applications (EAR/WAR) files on multiple Servers/Clusters and maintained Load balancing.
+Installed Quay via Kubernetes Operator and via manual to gain control over the configuration.
+Deployed, configured, and maintained the Red Hat Quay container platform in a high-availability, scalable, and secure manner.
+Managed container images within Red Hat Quay, including image tagging, versioning, and ensuring the integrity and security of stored images.
+Created Puppet modules for Linux configuration such as user, group, SSH, Kernel, Packages
+Used puppet for central management of Linux configuration files & software package mgmt.
+Worked on all puppet resources, plugins and templates to manage Linux configuration. Implementation and setup of local Linux disk backups using Open-Source applications.
+Used Ansible and Ansible Tower as Configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change.
+Designed and implemented the infrastructure such that it is scalable and resilient OpenShift architectures.
+Used Ignition to perform the initial configuration of OpenShift Container Cluster.
+Used Ignition V2 and V2.3 for OpenShift.
+Created custom V3 Ignition files with network configuration for static IP addressing.
+Implement and manage container orchestration, including pod scheduling, scaling, and load balancing.
+Work closely with development teams to ensure containerized applications are properly packaged and deployed in Kubernetes.
+Designed the infrastructure to implement best practices for Kubernetes architecture, security, and resource management.
+Automated deployment, scaling, and management of applications using Kubernetes manifests, Helm charts, and other relevant tools.
+Created Docker images using a Docker file. Worked on Docker container snapshots, removing images and managing docker volumes and experienced with Docker container service.
+Building/Maintaining Docker container clusters managed by Linux Bash, Windows Powershell GIT. Utilized Kubernetes and Docker for the runtime environment of the CI/CD system to build, test and deploy.
+Implementing CI/CD pipelines using Azure DevOps tools to automate build, test, and deployment processes for applications.
+Defined and managed application configurations, environment variables, and secrets using Azure DevOps tools or external configuration management systems.
+Hands on experience in Amazon Web Services (AWS) provisioning and its AWS services like EC2, S3, Glacier, ELB (Load Balancers), RDS, SNS, SWF, and EBS etc, Also managed provisioning of AWS infrastructure using CloudFormation and Terraform.
+Deployed and configured Infrastructure using Terraform Ansible.
+
+Osmania University, Mar’17 - Jun’20
+IT Support Administrator
+Responsibilities:
+Supporting around 1000+ Linux servers running on red hat Linux and AIX
+Setup of full networking services and protocols on AIX, including NIS/NFS, DNS, SSH, DHCP, NIDS, TCP/IP, applications, and print servers.
+Installed and administered HP-UX 11.XX across all midrange PA-RISC and Itanium based platforms.
+Experienced in Installation and Configuration Nginx and Apache Tomcat on Linux and UNIX, Windows platforms. Strong in troubleshooting, monitoring, training and 24/7 production support in mission critical environments Worked with systems support team to define, architect and maintain highly available production systems.
+Monitor and maintain normal system administration including the review of system logs.
+Performed installation, configuration and clustering of LDAP servers
+Performance tuning and preventive maintenance. Performed daily backup and addition of Swap space at run time.
+Resolving TCP/IP network access problems for the clients.
+Performed administrative tasks such as system startup/shutdown, backups, Printing, Documentation, User Management, Security, Network management, configuration of dumb terminals.
+Troubleshooting backup and restore problems and performed day-to-day trouble shooting for the end users on Solaris and Linux based servers
+Develop, Maintain, update various scripts for services (start, stop, restart, recycle, cron jobs) UNIX based shell, Perl.
+Configured and maintained NIS, NFS servers on Linux.
+Design, configure, and deploy Dell EMC PowerEdge server infrastructure to meet the organization's requirements.
+Designed the networking architecture to ensure proper connectivity and integration of PowerEdge servers with the network infrastructure.
+Manage server configurations, BIOS settings, and RAID configurations.
+Configured and administrated standalone and NPIV client Lpar’s
+Experience in micro- partitioning in power VM and LPAR/DLPAR Provisioning
+Work with software engineers, Oracle DBA's and customer service personnel to resolve issues and keep our environments operating smoothly.
+Maintain up-to-date documentation of MS SQL Server, Oracle, and PostgreSQL database configurations, procedures, and policies.
+Optimize Databricks infrastructure to ensure optimal performance and cost efficiency
+Build CI/CD pipeline using Jenkins, GIT, saving the image in docker private registry.
+Implement and manage Kubernetes networking, including load balancing, service discovery, and network policies.
+Implement and enforce security practices for Kubernetes clusters, including access controls, authentication, and encryption.
+Stay up to date with the latest developments and best practices in the Kubernetes ecosystem and make recommendations for improvements.
+Contact this candidate

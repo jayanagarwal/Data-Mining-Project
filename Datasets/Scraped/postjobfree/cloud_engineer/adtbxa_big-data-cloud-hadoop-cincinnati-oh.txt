@@ -1,0 +1,140 @@
+Max Keonmanivong
+513-***-****
+adtbxa@r.postjobfree.com
+Big Data/Cloud/Hadoop Engineer – Senior Level
+
+OVERVIEW
+10+ years’ experience in IT Technology, 7+ years’ Experience in the Hadoop/Big Data/Cloud space.
+Demonstrated hands-on skill with Big Data link technologies such as Amazon Warehouse Services (AWS), Microsoft Azure, Apache Kafka, Python, Apache Spark, HIVE, Apache Kafka, and Hadoop.
+Experienced analyzing Microsoft SQL Server data models and identifying and creating inputs to convert existing dashboards that use Excel as a data source.
+Skilled with Python-based design and development programming.
+Skilled creating PySpark Data Frames on multiple projects and tying into Kafka.
+Configure Big Data Hadoop and Apache Spark in Big Data.
+Build AWS Cloud Formation templates used for Terraform with existing plugins.
+Develop AWS Cloud Formation templates to create custom infrastructures of pipelines.
+Implement AWS IAM user roles and policies to authenticate and control user access.
+Apply expertise designing custom reports using data extraction and reporting tools, and development of algorithms based on business cases.
+Performance-tune data-heavy dashboards and reports for optimization using various options such as Extracts, Context filters, writing efficient calculations, Data source filters, Indexing, and Partitioning in the data source, etc.
+Program SQL queries for data validation of reports and dashboards.
+Prove skill setting up Data Lakes and Big Data ecosystems (Hadoop, Spark, Hortonworks, Cloudera).
+Effective working with project stakeholders for gathering requirements to create As-Is and As-Was dashboards.
+Recommended and used various best practices to improve dashboard performance for Tableau server users.
+Design and develop custom reports using data extraction and reporting tools, and develop algorithms based on business cases.
+Apply in-depth understanding/knowledge of Hadoop Architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node, and MapReduce concepts.
+Maintain ELK (Kibana) and write Spark scripts using Scala.
+Configure Spark Streaming to receive real time data from internal system and store the stream data to HDFS.
+Create HIVE scripts for ETL, create HIVE tables, and write HIVE queries.
+TECHNICAL SKILLS
+Apache: Kafka, Flume, Hadoop, YARN, Hive, MAVEN, Oozie, Spark, Zookeeper, Cloudera
+Distributions: Hortonworks, Cloudera, AWS, ELK, AWS Lambda, EMR Amazon Web Services (AWS), Azure
+Scripting: HiveQL, MapReduce, XML, FTP, Python, UNIX, Shell scripting, LINUX
+Data Processing (Compute) Engines: Apache Spark, Spark Streaming
+Databases: Microsoft SQL Server, Apache HBase, Apache Hive
+Data Visualization Tools: Tableau, Power BI
+Scheduler Tool: Airflow
+File Formats: Parquet, Avro, JSON, ORC, Text, CSV
+Operating Systems: Unix/Linux, Windows, Ubuntu, Apple OS
+WORK EXPERIENCE
+Big Data Engineer / Great American Insurance Group, Cincinnati, OH / 10.2020 – Current
+Great American Insurance Group is engaged primarily in property and casualty insurance, focusing on specialty commercial products for businesses.
+Applied Amazon Web Services (AWS) Cloud services such as EC2, S3, EBS, RDS, VPC, and IAM.
+Set up Puppet Master client and wrote scripts to deploy applications on Dev, QA, and production environment.
+Developed and maintained build/deployment scripts for testing, staging, and production environments using Maven, Shell, ANT, and Perl Scripts.
+Developed Puppet modules and role/profiles for installation and configuration of software required for various applications/blueprints.
+Wrote Python scripts to manage AWS resources from API calls using BOTO SDK and worked with AWS CLI.
+Wrote Ansible playbooks to launch AWS instances and used Ansible to manage web applications.
+Created UDFs using Scala.
+Archived data using Amazon Glacier.
+Monitored resources, such as Amazon DB Services, CPU Memory, and EBS volumes.
+Monitored logs for better understanding the functioning of the system.
+Automated, configured, and deployed instances on AWS, Azure environments, and Data Centers.
+Hands-on with EC2, Cloud Watch, Cloud Formation and managing security groups on AWS.
+Maintained high-availability clustered and standalone server environments and refined automation component with scripting and configuration management (Ansible).
+Implemented Apache Spark and Spark Streaming projects using Scala and Spark SQL.
+Wrote Spark applications using Python and Scala.
+Implemented Microsoft Azure Cloud Services (PaaS & IaaS), Storage, Web Apps, Active Directory, Application Insights, Internet of Things (IoT), Azure Search, Key Vault, Visual Studio Online (VSO) and SQL Azure.
+Automated Vulnerability Management patching and CI/CD using Chef and GitLab, Jenkins, and AWS/Open Stack.
+Implemented AWS EMR Spark using PySpark and utilized DataFrames and SparkSQL API for faster processing of data.
+Configured network architecture on AWS with VPC, Subnets, Internet gateway, NAT, and Route table.
+Set up systems and network security using Cloud Watch and Nagios.
+Worked on CI/CD pipeline for code deployment by engaging different tools (Git, Jenkins, CodePipeline) in the process right from developer code check-in to deployment.
+Customized Kibana for dashboards and reporting to provide visualization of log data and streaming data.
+Cloud Engineer / Wyndham Hotels & Resorts, Parsippany, NJ / 08.2018 – 10.2020
+Wyndham Hotels & Resorts is the largest hotel franchising company in the world operating 20 brands, 15,000+ team members, and approximately 9,200 hotels across more than 80 countries.
+Configured, deployed, and automated instances on AWS, Azure environments, and Data Centers.
+Applied EC2, Cloud Watch, Cloud Formation, and managed security groups on AWS.
+Programmed software installation shell scripts.
+Programmed scripts to extract data from multiple databases.
+Programmed scripts to schedule Oozie workflows to execute daily tasks.
+Produced distributed query agents to perform distributed queries against Hive.
+Loaded data from different sources such as HDFS or HBase into Spark data frames and implement in-memory data computation to generate the output response.
+Developed Spark programs using PySpark.
+Produced Hive external tables and designed information models in Hive.
+Produced multiple Spark Streaming and batch Spark jobs using Python.
+Processed Terabytes of information in real time using Spark Streaming.
+Created and managed code reviews.
+Wrote streaming applications with Spark Streaming/Kafka.
+Created automated Python scripts to convert data from different sources and to generate ETL pipelines.
+Applied Hive optimization techniques such as partitioning, bucketing, map join, and parallel execution.
+Ingested data from various sources and processed the Data-at-Rest utilizing Big Data technologies such as HBase, Hadoop, Map Reduce Frameworks, and Hive.
+Monitored Amazon DB and CPU Memory using Cloud Watch.
+Used Spark SQL to realize quicker results compared to Hive throughout information analysis.
+Converted HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+Developed DBC/ODBC connectors between Hive and Spark for the transfer of the newly populated data frames from MSSQL
+Executed Hadoop/Spark jobs on AWS EMR using programs and data stored in S3 Buckets.
+Implemented a Hadoop Cloudera distributions cluster using AWS EC2.
+Worked with AWS Lambda functions for event-driven processing to various AWS resources.
+Managed AWS Redshift clusters such as launching the cluster by specifying the nodes and performing the data analysis queries.
+
+Data Engineer / Crown Castle, Houston, TX / 05.2016 – 08.2018
+Crown Castle is a real estate investment trust and provider of shared communications infrastructure in the United States. Its network includes over 40,000 cell towers and nearly 80,000 route miles of fiber supporting small cells and fiber solutions.
+Designed relational database management system (RDBMS) and incorporated with SQOOP and HDFS.
+Created Hive external tables on RAW data layer pointing to HDFS location.
+Implemented Spark using Scala and SparkSQL for faster testing and processing of data.
+Utilized Hive Query Language (HQL) to create Hive internal tables on a data service layer (DSL) Hive database.
+Integrated Hive internal tables with Apache HBase data store for data analysis and read/write access.
+Developed Spark jobs using Spark SQL, PySpark, and DataFrames API to process structured, and unstructured data into Spark clusters.
+Analyzed and processed Hive internal tables according to business requirements and saved the new queried tables in the application service layer (ASL) Hive database.
+Developed knowledge base of Hadoop architecture and components such as HDFS, Name Node, Data Node, Resource Manager, Secondary Name Node, Node Manager, and MapReduce concepts.
+Installed, configured, and tested Sqoop data ingestion tool and Hadoop ecosystems.
+Imported and appended data using Sqoop from different Relational Database Systems to HDFS.
+Exported and inserted data from HDFS into Relational Database Systems using Sqoop.
+Automated the pipeline flow using Bash script.
+Used Spark API over Hortonworks Hadoop YARN to perform analytics on data in Hive.
+Provided connections to different Business Intelligence tools to the tables in the data warehouse such as Tableau and Power BI.
+
+Hadoop Data Engineer / Food Lion, Salisbury, NC / 01.2014 – 05.2016
+Food Lion is a grocery store chain that operates over 1100 supermarkets in 10 states of the Mid-Atlantic and Southeastern United States.
+Used Zookeeper and Oozie for coordinating the cluster and programing workflows.
+Used Sqoop to expeditiously transfer information between information data bases and HDFS and used Flume to stream the log data from servers.
+Enforced partitioning, bucketing in Hive for higher organization of the info.
+Worked with different file formats and compression techniques to standards.
+Loaded information from UNIX system to HDFS.
+Used UNIX system shell scripts to alter the build method, and to perform regular jobs like file transfers between totally different hosts.
+Documented Technical Specs, Dataflow, information Models and sophistication Models.
+Documented needs gathered from stake holders.
+With success loaded files to HDFS from Teradata and loaded from HDFS to HIVE.
+Involved in researching various available technologies, industry trends, and cutting-edge applications.
+Data ingestion is done using Flume with source as Kafka Source & sink as HDFS.
+Performed storage capacity management, performance tuning, and benchmarking of clusters.
+
+Linux Systems Administrator / Broadcom Inc., San Jose, CA / 07.2010 – 12.2013
+Broadcom Inc. is a designer, developer, manufacturer and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings serve the data center, networking, software, broadband, wireless, and storage and industrial markets.
+Installed, configured, monitored, and administrated Linux servers.
+Installed, deployed, and managed Linux RedHat Enterprise, CentOS, Ubuntu, and installed patches and packages for Red Hat Linux Servers.
+Configured and installed RedHat and Centos Linux Servers on virtual machines and bare metal installations.
+Performed kernel and database configuration optimization such as I/O resource usage on disks.
+Created and modified users and groups with root permissions.
+Administered local and remote servers using the SSH on a daily basis.
+Created and maintained Python scripts for automating build and deployment processes.
+Utilized Nagios-based open-source monitoring tools to monitor Linux Cluster nodes.
+Created users, managed user permissions, maintained user and file system quotas, and installed and configured DNS.
+Worked with DBA team for database performance issues, network related issues on LINUX/UNIX servers and with vendors regarding hardware related issues.
+Monitored CPU, memory, hardware and software including raid, physical disk, multipath, filesystems, and networks using Nagios monitoring tool.
+Hosted servers using Vagrant on Oracle virtual machines.
+Automated daily tasks using bash scripts while documenting the changes in the environment and in each server, analyzing the error logs, user logs and /var/log messages.
+Adhered to industry standards by securing systems, directory and file permissions, groups and supporting user account management along with the creation of users.
+
+EDUCATION
+Bachelors - Computer Science - University of California, San Diego
+Contact this candidate

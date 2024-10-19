@@ -1,0 +1,81 @@
+Tim Konick
+https://github.com/tijko https://www.linkedin.com/in/timothy-konick-75a3ba178/ https://gitlab.com/tim.openxt Profile
+Eager and enthusiastic engineer, always learning and looking for ways to improve. Strong foundation in
+software engineering and programming principles.
+Experienced in all aspects of object-orientation software, testing, and debugging code. Adept at designing
+interfaces and organizing data structures.
+Ability to assess and troubleshoot complex systems quickly and efficiently. Skilled at jumping into a codebase with the know how to make changes as needed. Education
+CourseEra, EdX, Udacity – Computer Science
+Certification
+Chef-Infra Online Training
+Certified Linux Foundations 2020
+Plural-Sight Online Training
+Vmware Vsphere with Tanzu 2022
+Vmware NSX-T Data Center 2022
+PowerShell Scripting 2022
+Work Experience
+DevOps Engineer, Oct 2022-Oct 2023
+with Aquent – Setting up a new semantic versioning system with NPM JavaScript module manager to
+maintain, build, test, and deploy numerous custom
+libraries needed for Software Development. Handling maintenance of revision control systems dealing with Kubernetes deployment charts and backend infrastructure. Writing templates to deploy AWS services in
+CloudFormation to build out and scale edge CloudFront Distributions and Amazaon Load-Balancers to handle traffic for numerous web services.
+DevOps Engineer, Jan 2022-Aug 2022
+with Northeast Delta Dental – running ADO server
+Azure DevOps (formally TFS) communicating and
+collaborating with Web Developers, DBA’s, Cyber
+Security Engineers, and QA engineers to deploy and test all aspects of a full-stack monolith .NET web application. Writing custom YAML pipelines for Azure Devops
+deployments with numerous tasks for everything from Powershell scripting, quality gates with SonarQube & VeraCode, to install specific libraries and frameworks
+(Angular) and finally running test suites. Also using a variety of services for logging (Kibana & ElasticSearch) as well as Serilog integration to use for the actual logging in the stack. In addition I wrote multiple playbooks for Ansible automation to do backups and snapshots for development and test servers that ran numerous virtual machines for a variety of development use cases. I automated updating and snapshots that had been done manually up until that point. Working to write
+PowerShell scripts that installed WSL2 (Windows
+Subsystem for Linux 2) as the backend for Docker and its corresponding services. Having been given the
+opportunity to optimize developments workflow. I
+innovated the Web Developers current workflow by
+leveraging WSL2 as the backend engine that Docker
+would use for virtualization. This gave a huge
+performance boost by cutting back on CPU cycles and huge portions of memory. While at the same time giving developers a more consistent workflow allowing for them to coordinate and share images for builds that up until this point were error prone and very difficult to troubleshoot. The environment they were attempt to emulate were
+susceptible to “1-off” situations that bogged them down and this was just to set up and deploy the project let alone fix the bugs.
+System Administrator ll, Jan 2020 - Feb 2021 with
+Brigham and Womens Hospital Channing Division of
+Network Health – I have been maintaining and
+supporting the integrity of the operating systems
+environment and various computer systems for the
+Harvard Medical School research center at Brigham and Women’s hospital. I routinely perform system
+maintenance tasks, such as system back-ups, recovery and file maintenance. Scheduling, installs, and testing system software upgrades. I write Chef recipes daily as well as using Grid Engine with ESXi with the Vmware admin
+server. We also extensively use R-Studio and are required to install numerous R libraries. I personally worked on installing an updated Nagios monitoring server system which required me to write a shell script to automate copying files and re-writing said files with the new modules on 18 remote servers. I had also written and worked with SQL commands to administer their
+databases. Knowing how to query and add fields to the database as well as writing schemas for new databases as well.
+Junior Software Engineer, May 2018 – Nov 2019 with Assured Information Security – I worked independently as a junior full stack engineer working with all aspects of the toolstack on the OpenXT project (e.g. Qemu, Xen, Tim Konick
+https://github.com/tijko https://www.linkedin.com/in/timothy-konick-75a3ba178/ https://gitlab.com/tim.openxt Yocto, etc). I have reversed engineered an IPC proxy written in Haskell and replaced it with a smaller more efficient C implementation. The userspace environment was done completely in JavaScript and specifically they used Dojo.js framework. I had to implement several features adding functionality to the user’s interface including adding widgets that displayed the network connectivity.
+Open source and Community Service
+Volunteered at the South End Technical Center of Boston, assisting with teaching systems administration on Ubuntu systems to community members.
+Have contributed to multiple open source -
+requests: Widely used http python module
+psutil: Process utility python module
+d-feet: GNOME project dbus debugger
+pluralsight: PS-AutoLab-Env powershell
+ocelot-compose: Docker container for Ocelot
+Technical Knowledge
+Developing pipelines and maintaining Jenkins Servers. Writing Jenkinsfiles and scripts to work with Git revision control systems, automating the build process, run testsuites, and deploying to large scale environments. Creating AWS Services to run in multiple different environments including CloudFormation Templates to deploy multiple CloudFront Distributions to act as load- balancers handling website traffic for Web Services. Experienced administrating large data driven
+infrastructure with Chef-Infra server as the driving application dealing with the majority of the deployment where I was tasked with writing custom Ruby recipes daily. Knowledgeable in all aspects of setting up clients and installing on running infrastructure. The usage of Chef tools including knife and the specific commands that are needed to control the Chef server.
+Extensive knowledge in many Linux/GNU distributions
+(e.g. Ubuntu, Red Hat, Fedora, SUSE Linux, Oracle
+Linux, Archlinux, and more). From compiling custom kernels, building specialized rootfs, patching software, numerous package managers, to init-systems (whether Systemd or SysV) for service maintenance and
+deployment. Experience with Azure Devops creating
+pipelines with customized scripts to deploy multi- service .NET web applications. In addition to Azure I have also worked with Amazon Web Services with the wide variety of micro-services that are offered therein.
+Certified Chef-Infra Adminstrator
+Successfully completed Official Chef-Infra
+training
+Completed multiple courses in HIPAA industry
+privacy and security training.
+Languages: Python, C, Groovy, Ruby, Haskell, Shell- Scripting, Java (in order of experience)
+Tools and Frameworks: Git, Kubernetes, NodeJS,
+Angular, NPM, Lerna, AWS (Route53, CloudFront,
+CloudFormation, ALB, VPC, IAM, CodeCommit,
+CodeArtifact, CloudWatch, S3, SecretsManager), Docker, Jenkins, Travis-CI, Ansible, Puppet. For remote sessions ssh and its related components including scp, ssh-keygen, and the sshd service.
+Technical Projects
+rpc-broker:
+(https://github.com/tijko/xctools/tree/master/rpc-broker)– is a DBus filtering system which allows or denies any message that is going to or coming from the bus. Based off a given policy, will not only determine which
+messages are allowed to be communicated to the DBus server but will also filter messaging that is being sent in response from the server.
+Anti-forgetful:
+(https://github.com/tijko/anti_forgetful)
+a simple and handy tool to launch a single AWS instance from the terminal and tying it's lifetime to the lifetime of the process. This helps to avoid situations where you forget your instance and leave it running for a month. That could be thousands of dollars!
+Contact this candidate

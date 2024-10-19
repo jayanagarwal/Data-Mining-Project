@@ -1,0 +1,100 @@
+CALVIN
+Kishore
+Phone : 347-***-****
+Email adv4f9@r.postjobfree.com
+
+OBJECTIVE
+Experienced Linux Cloud Engineer with skills in supporting and maintaining cloud operations and software releases on Linux platforms. Versatile and organized in following procedures and processes using security best practices. Proficient in deploying Ansible playbooks for installations and management of Linux systems across SDLC. Looking to grow and elevate my skills by executing new solid tech solutions. With my accomplished and ambitious attitude, to be able to help myself as well as reaching team goals.
+
+EDUCATION
+College: Queensborough Community College
+Degree: Associate in Applied Science Internet and Information Technology
+
+SKILLS
+Operating Systems: Centos 6/7, Red Hat Enterprise Linux (RHEL) 6,7
+Language: Bash, PowerShell, Perl
+Virtualization: Vmware ESXI, Microsoft Hyper-V Cloud: AWS, Azure, GCP
+Automation: Ansible, Terraform
+Networking: VPN, DNS, NFS, LAN, WAN, MAN,CISCO Servers: Dell, HP
+Protocols: TCP, IP, UDP, FTP, HTTP, SSH, NTP, SFTP, SCP
+
+EXPERIENCE
+Senior Infrastructure Engineer Bravo Wellness 03/2022 – 12/2022
+●Manage helpdesk tickets through Freshservice program.
+●Solved tickets allocated by managers through JIRA and utilizing user stories for viewing and managing ticket progress.
+●Use of Sailpoint to deliver functional applications to meet clients wants/needs.
+●Microsoft Azure administration – adds, moves, and changes.
+● Troubleshoot all Microsoft products including - Microsoft Active Directory, Exchange, OWA, Lync, SharePoint administration changes and Dynamics GP.
+●Support Microsoft Active Directory (group memberships, shared drives access, policies.)
+●Access to Microsoft 365 admin center to make sure users are in the necessary groups, change licenses, resetting passwords.
+●Use of PRTG for monitoring purposes.
+●Created a visual of the company’s AWS/Azure network to get a briefer understanding of how to make it better.
+●Log into Windows servers using RDP/mRemoteNG for deployments, configurations, or troubleshooting.
+●Make sure users have MFA authentication setup correctly.
+●Utilize Powershell to assist in automation deliverables.
+●Troubleshoot any issues users are having with VPN, specifically Global Protect.
+●Manage users as well as troubleshoot any issues on Microsoft Dynamics GP 2018.
+●Use of Secret Server to access privileged accounts, applications, and services.
+●Access to VMware vSphere Client to monitor hosts.
+●Access to CrushFTP admin to manage files and user management.
+
+Linux Cloud Engineer Port Authority of New York/New Jersey 01/2020 - 02/2022
+●In a fast-paced, challenging, innovative firm focused on reliability and customer support, it provided infrastructure solutions based on AWS, Azure, and GCP.
+●Configuring and assigning IAM permissions and roles for users and group management across clouds.
+●Creating lifecycle policies to manage S3 objects and setting retention periods for sensitive buckets.
+●Created and managed policies for S3 buckets and utilized S3 Buckets, Glaciers for storage and backup, archived in AWS, in addition to enabling versioning and life cycle management policies.
+●Created AWS/Azure infrastructure using Terraform to provision resources needed.
+●Created monitors,alarms, and notification for resources hosted using CloudWatch.
+●Managed AWS Services using AWS cli and terraform commands to list resources like S3, CloudFront, Cloud Watch, RDS, Route53, SNS, SQS, CloudWatch, AWS Config.
+●Monitoring AWS infrastructure through CloudWatch metrics and Cloudtrail.
+●Worked with Azure/ GCP. Creating backups, Virtual Machines, troubleshooting.
+●In GCP, designing, implementing, and maintaining data networks.
+●In GCP, creating solutions by using specific tools needed.
+●Developing and Deploying the latest software applications with GCP.
+●Monitoring GCP resources to make sure security features are protected against unauthorized modification.
+●Detect and prevent threats(GCP.)
+●Managing security permissions for different projects and limiting access based on data.
+●Implementing application load balancers to help distribute traffic.
+●Created VPC subnets and managed the security through the use of network ACL
+●Provisioning VPC and managing networks on AWS cloud such as configuring subnets, route tables, security groups, internet gateway and NAT gateway for private subnets.
+●Installing and configuring AWS cli for Linux platforms connecting to service accounts.
+●Created custom Ansible inventory files and implemented multiple variables.
+●Created playbook for configuring firewall rules, chrony, ntp, NFS, and nginx on multiple environments
+●Deployed Ansible playbooks for releases on Linux platforms using cli and tower.
+●Creating ansible roles, handlers, templates to create dynamic playbook
+●Creating Docker files to create images and pushing them to jfrog Artifactory.
+●Orchestrated Docker container cluster by using Kubernetes.
+●Mount and add storage to run successful applications using Kubernetes.
+●Automate application deployments and updates using Kubernetes.
+●Health-check with auto replication, autoscaling, etc with Kubernetes.
+●Managing git branches for multiple releases for business applications using best practices.
+●Implementing Jenkins for pipeline releases and managing the Jenkins infrastructure.
+●Debugged network and system issues through ticket management using Jira user stories.
+●Deployed Splunk infrastructure running on EC2 for logging on resources and setting up dashboards.
+●Troubleshooting containers using Docker logs and cli commands to get RCA.
+
+Linux Systems Admin Port Authority of New York/ New Jersey 03/2017 - 12/2019
+●Administered Linux Servers, Windows Operating System, and MacOS.
+●Manage, provision, configure Linux servers in production (RHEL, CentOS, Ubuntu).
+●Supporting and troubleshooting day to day operations, application support, user management, change management, and incident management on 24X7 production systems.
+●Configuring LVM (Logical Volume Management) for management of dynamic storage, creating physical volumes, volume groups and logical volumes, in addition to extending and resizing logical volumes.
+●Debugging OS processes, sluggish servers, and intensive operations with system process tools (top, kill, renice) and through system activity reports for optimizing performance on mission critical servers.
+●Automate and schedule repetitive tasks, business operations, backups using cron and bash scripts.
+●Use of IDRAC and ILO to manage and monitor Dell and HP bare metal servers, including troubleshooting server hung issues and operating system filesystem corruptions.
+●Configuring Raid levels (0,1,5,6) on bare metal servers to optimize performance for Disaster Recovery procedures and improve redundancy of mission critical systems.
+●Using streamline editing tools (sed, awk, cut, sort)
+●Configuring networking aspects such as DNS, DHCP, FTP, TFTP, PING, HTTPS, PXE BOOT.
+●Managed DHCP server and troubleshooting issues regarding leases and setting up DNS.
+●Provisioned PXEboot with custom kickstarts for automating network configuration.
+●Securing and enforcing security through firewalls and selinux
+●Debugging network issues with tcpdump, traceroute, netstat.
+●Working with the different layers of the OSI model and understanding what each layer is used for.
+●Setting up nic-bonding with NIC cards for load balancing and managing load on network bandwidth (round-robin and active backup load balancing algorithm)
+●Managing and provisioning snapshots, templates, clones, via vmware and command line
+●Implemented various types of redundancy and fault tolerance using vmotion, high availability, DRS.
+●Configuring nagios for monitoring infrastructures in the environment.
+●Provisioned PXEboot with custom kickstart for automating network configuration.
+●Archiving and Compressing files with the commands Tar and gzip.
+●Utilized MySQL which is a relational data-base, to enable data to be stored and accessed across multiple servers, allowed to replicate data, and partition tables for improved performance.
+●Performing network scans using nmap and setting up sar reports based off resource reports.
+Contact this candidate

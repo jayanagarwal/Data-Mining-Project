@@ -1,0 +1,154 @@
+Mounika Reddy
+401-***-****
+ad7aad@r.postjobfree.com
+http://www.linkedin.com/in/mounika-reddy-537049276
+Sr. DevOps Engineer/AWS Engineer
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with over 10 years of expertise in automating, configuring, and optimizing complex IT infrastructures. Proficient in leveraging cloud platforms (AWS, Azure, GCP), CI/CD pipelines (Jenkins, GitLab CI/CD), and configuration management tools (Ansible, Chef, Puppet) to enhance deployment frequency and reliability. Strong background in containerization (Docker, Kubernetes), monitoring (Prometheus, Grafana), and scripting (Python, Bash) to streamline operations and improve system performance. Adept at collaborating with cross-functional teams to drive continuous improvement and achieve organizational goals. Committed to implementing best practices in security, scalability, and disaster recovery.
+
+Certifications:
+AWS Certified Solutions Architect – Associate (SAA-c03)
+
+SKILLS:
+Cloud Platforms: AWS, Azure, Google Cloud Platform, OpenStack, VMware
+Continuous Integration/Continuous Deployment: Jenkins, Bamboo, GitLab CI, Travis CI, CircleCI
+Scripting & Programming: Python, PowerShell, Bash, Ruby
+Containerization & Orchestration: Docker, Kubernetes, Helm, Docker Swarm, OpenShift
+Infrastructure as Code: Terraform, AWS CloudFormation, Ansible, Chef, Puppet, SaltStack
+
+PROFESSIONAL EXPERIENCE
+Client: GDIT, VA, US
+Title: Sr. Cloud Security Engineer/ Sr. DevOps Engineer Jan 2024 to Present
+Responsibilities:
+Implemented monitoring and observability solutions for EKS clusters using tools like Grafana, and AWS CloudWatch to gain visibility into cluster health, performance, and resource utilization.
+Orchestrated Docker deployments and managed Kubernetes clusters, including Amazon EKS, to streamline containerized application deployment and scaling
+Deployed and configured GitHub Actions self-hosted runners on Amazon EKS clusters to enable seamless integration of CI/CD workflows with Kubernetes-based applications.
+Managed Jenkins for efficient software development operations by configuring pipelines, handling user access, and executing upgrades.
+Developed and maintained Jenkins pipeline scripts (Jenkinsfile) to define and execute multi-stage CI/CD workflows, including build, test, and deployment stages.
+Integrated Step Functions with AWS services like Lambda, S3, and DynamoDB using Terraform.
+Automated CI/CD pipelines for Go applications using Jenkins, GitHub Actions, or GitLab CI, ensuring continuous integration, testing, and deployment.
+Developed and managed secure file transfer workflows using AWS Step Functions and SFTP servers for automated data processing
+Designed Terraform templates for customized VPCs and NAT subnets, facilitating seamless deployment of web applications and databases.
+Conducted regular vulnerability assessments of GitHub Enterprise installations to identify security vulnerabilities, including CVEs (Common Vulnerabilities and Exposures) and security advisories.
+Implemented GitHub Advanced Security features, including Code Scanning, Secret Scanning, and Dependabot, to enhance the security of code repositories and workflows.
+Implemented Jenkins and GitHub integration using Personal Access Tokens (PAT) to automate CI/CD workflows and enhance version control and code collaboration processes.
+Resolved authorization issues between Jenkins and GitHub and mitigated Jenkins string interpolation problems for improved integration and functionality.
+Designed and implemented serverless architectures leveraging AWS Lambda, API Gateway, and other AWS services to optimize resource utilization and reduce operational overhead.
+Integrated AWS Lambda with event-driven architectures, such as S3, SQS, SNS, and DynamoDB, to build resilient and responsive applications.
+Deployed and managed EC2 instances, ensuring high availability, scalability, and security of infrastructure resources.
+Designed IAM policies and roles to enforce least privilege access and ensure compliance with security standards across AWS environments.
+Collaborated with cross-functional teams to architect, deploy, and maintain AWS solutions, providing expertise in service selection, cost optimization, and performance tuning.
+Managed Qualys VM platform to conduct vulnerability scans, identify weaknesses, and prioritize remediation efforts across infrastructure.
+Utilized Splunk Apps to monitor infrastructure components, application performance, and service availability in dynamic environments.
+Client: Centene Corporation St Louis, MO
+Title: Sr. DevOps Engineer/AWS Engineer Jan 2023 to Dec 2023
+Responsibilities:
+Designed and implemented complex CI/CD pipelines using Jenkins for multiple applications and environments, incorporating the latest DevOps tools and technologies.
+Expertise in monitoring operational and performance metrics of AWS resources and web applications using CloudWatch and Nagios.
+Managed AWS infrastructure as code using Terraform and migrated legacy and monolithic systems to AWS.
+Automated instances for manual instances using Terraform scripts and set up build and deployment automation for Terraform scripts using Jenkins.
+Utilized Kubernetes and Docker for building and containerizing CI/CD applications and managing container replicas on node clusters using Kubernetes.
+Designed and created new infrastructure in AWS environments using AWS Cloud Formation nested stacks for VPC, auto-scaling, S3, RDS, IAM, Route53, EBS, Cloud Watch, SNS, Security Group, and Cloud Front.
+Developed build and deployment scripts using Maven as the build tool in Bitbucket to move from one environment to another.
+Configured Jenkins to implement nightly builds and generated change logs for enterprise-scale infrastructure configuration and application deployments.
+Worked on Kubernetes for scheduling and running containers on cloud environments and managed container orchestration using EC2 Container Service, Kubernetes with Cloud Formation, and Docker.
+Experience with GCP services such as compute engine, cloud load balancing, cloud storage, cloud SQL, stack driver monitoring, and cloud deployment manager.
+Developed shell scripts for automating administrative and maintenance tasks and managed continuous release promotion cycle through automation for different environments.
+Implemented deployment automation of microservices to pull image from private docker registry and deploy to docker swarm cluster using Ansible.
+Extensively involved in infrastructure as code, execution plans, resource graph, and change automation using Terraform.
+Developed custom DevOps tools and automation scripts using Kotlin to streamline infrastructure management and deployment processes.
+Used Jenkins to create CI/CD pipeline for Artifactory using the plugin provided by jfrog.
+Maintained a team and application inventory of target deliverables with efficient release management practices, resulting in a more organized and efficient release process.
+Converted legacy applications into containerized microservices with Docker, Kubernetes, and Azure App Service
+Collaborated with development teams to define and implement observability standards and best practices, fostering a culture of continuous improvement and reliability
+Client: Crowdstrike,CA
+Title: Sr. DevOps Engineer June 2022 to Dec 2022
+Responsibilities:
+Architected Microsoft Azure IaaS and PaaS offerings in commercial tenants, develop Application Insights or Operations Management Suite (OMS)
+Worked on the majority of Azure Virtual Machines, Scale Sets, Container Registry, Database, DNS, VPN, Firewall, Load Balancer, and Active Directory
+Mapped Azure Active Directory to the organization's AD.
+Implemented Azure Site Recovery and Azure backups for the migration from on-premises data center to Azure Cloud
+Involved in release planning and executed the release build request from the project team through JIRA Ticket.
+Deployed Azure Pipelines to automatically build and test code projects onto multiple targets.
+Setting up and configuring AWS Elastic Load Balancing for high availability and scalability
+Written Templates for Azure infrastructure as a code using Terraform to build staging and production environments.
+Developed Groovy scripts to automate and enhance CI/CD pipelines, enabling faster and more reliable software deployments.
+Troubleshooted application and infrastructure-related issues, resulting in a more stable and reliable production environment.
+Led the application migration of large-scale web and mobile applications to the AWS Cloud, resulting in increased availability and scalability.
+Leveraged iaC (Terraform) to deploy various cloud resources using bootstrap runners' actions, leading to an increase in deployment efficiency.
+Successfully implemented AWS Database Migration Service to migrate on-premises databases to AWS, resulting in a more efficient and secure migration process.
+Leveraged AWS Server Migration Service to migrate on-premises servers to AWS, resulting in a reduction in migration time and effort.
+Utilized AWS CloudFormation to automate the deployment of infrastructure during the migration process, resulting in a more efficient and streamlined migration.
+Created the Terraform templates to create customized VPC, and NAT subnets, for deployment of Web applications and databases.
+Deal with Cluster Managements on Kubernetes using Ansible and also manual configuration using Kube-adm.
+Integrated Nomad with HashiCorp Consul for seamless service discovery, enabling applications to locate and communicate with each other effortlessly.
+Written Groovy script for Jenkins pipelines to build all microservices, push the images to the Docker registry and then deployed to the Kubernetes cluster.
+Implemented health checks within Nomad jobs to monitor the status of tasks and services, ensuring automatic recovery of failed instances.
+Manage Docker orchestration and Docker containerization using Kubernetes.
+Use Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers
+Scheduled, deployed, and managed container replicas onto a node cluster using Kubernetes.
+Provide policies to groups using policy generator and set different permissions based on the requirement along with providing ARN (Amazon Resource Name)
+Use Agile methodology to manage complex projects and Worked on Agile Methodology for Project development to Handle Jira tickets for DevOps Support activities.
+Maintain different versions of application Docker images and in the ECR repository using Ansible.
+
+Client: HSBC GLT, India
+Title: DevOps Engineer Sep 2016 to Mar 2022
+Responsibilities:
+Develop and maintain highly scalable, available, and fault-tolerant cloud infrastructure using automation tools such as Terraform, CloudFormation, and Chef.
+Create and manage cloud resources such as EC2 instances, RDS databases, S3 buckets, and load balancers.
+Successfully deployed workloads on diverse platforms, including Linux, Windows, and macOS, utilizing Nomad's multi-platform support.
+Designed AWS cloud formation templates to create custom sized VPC, Subnets, NAT to ensure successful deployment of jfrog Artifactory and X-Ray and oracle database templates.
+Demonstrated the ability to optimize resource utilization by effectively scheduling and scaling tasks and services with HashiCorp Nomad.
+Maintained PowerShell script version control using Git or other version control systems, ensuring code integrity and collaboration.
+Designing a highly available and fault-tolerant architecture using ELB and RDS
+Deploy and manage containerized applications using Docker and Kubernetes, and create deployment pipelines for custom application images using Jenkins.
+Create and manage auto-scaling launch configurations for EC2 instances, and implement cross-region failover strategies using AMIs and snapshots.
+Design and implement cloud security solutions using IAM policies, roles, and groups, and implement best practices for securing cloud infrastructure.
+Monitor system health and performance using tools such as Nagios and Splunk, and generate reports and alerts for bug issues and project defects.
+Manage and optimize cloud CDN delivery using GCP cloud CDN, and monitor network latencies between systems using Nagios.
+Implementing blue-green deployments with zero downtime using ELB and IaC
+Create clusters in Google Cloud and manage them using Kubernetes, and deploy code to Google Cloud using Jenkins.
+Leveraged Groovy within Jenkins to create dynamic and reusable pipeline configurations, optimizing the software delivery process.
+Write and maintain scripts in Python, Ruby, Perl, and shell for automation of the build and release process and for various other activities.
+Work with teams to analyze, identify, and resolve complex infrastructure issues in cloud and on-premises environments.
+Client: Sonata Software,India
+Title: DevOps Engineer June 2015 to Aug 2016
+Responsibilities:
+Implemented and maintained Chef configuration management system to automate infrastructure provisioning and deployment.
+Collaborated with development teams to create and update Chef Manifests, modules, files, and packages.
+Automated cloud deployments using tools such as Chef, AWS cloud-formation templates, and Bash scripts.
+Implemented Continuous Integration and Continuous Deployment (CI/CD) processes using tools such as Jenkins, Nexus, Yum, and Ansible.
+Developed automation scripting in Python to deploy and manage Java applications across Linux servers.
+Configured and administered version control systems like GIT and integration tools like Jenkins.
+Developed automation frameworks for application deployments to cloud environments.
+Developed shell scripts for automation of the build and release process and monitored repositories and server storage.
+Deployed Java applications into web application servers such as JBoss.
+Performed builds and deployments for various environments like QA, Integration, UAT, and Production.
+Installed and configured monitoring tools like Nagios for monitoring infrastructure resources.
+Implemented Nagios core for monitoring infrastructure resources and set up customized monitoring with Nagios Graph for legacy and new environments.
+Used Docker coupled with load-balancing tool Nginx to achieve Continuous Delivery on high-scalable environments.
+Developed bootstrapping automation scripting for virtual servers using VMWare clusters.
+Configured and maintained Apache and Firewalls in both development and production.
+Academic Internships:
+Client: Zensar Technologies,India
+Title: Jr. DevOps Engineer July 2013 to Apr 2015
+Responsibilities:
+Collaborating with senior DevOps engineers to implement and maintain Chef configuration management system to automate infrastructure provisioning and deployment.
+Learning to automate cloud deployments using tools such as Chef, AWS cloud-formation templates, and Bash scripts.
+Supporting the implementation of Continuous Integration and Continuous Deployment (CI/CD) processes using tools such as Jenkins, Nexus, Yum, and Ansible.
+Assisting in developing automation scripting in Python to deploy and manage Java applications across Linux servers.
+Learning to configure and administer version control systems like GIT and integration tools like Jenkins.
+Learning to develop automation frameworks for application deployments to cloud environments.
+Assisting in implementing AWS solutions using EC2, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups, and optimized volumes and instances.
+Assisting in the development of shell scripts for automation of the build and release process and monitoring repositories and server storage.
+Assisting in deploying Java applications into web application servers such as JBoss.
+Learning to perform builds and deployments for various environments like QA, Integration, UAT, and Production.
+Assisting in the installation and configuration of monitoring tools like Nagios for monitoring infrastructure resources.
+Assisting in the implementation of Nagios core for monitoring infrastructure resources and setting up customized monitoring with Nagios Graph for legacy and new environments.
+Learning to use Docker coupled with load-balancing tool Nginx to achieve Continuous Delivery on high-scalable environments.
+Assisting in the development of bootstrapping automation scripting for virtual servers using VMWare clusters.
+Assisting in the configuration and maintenance of Apache and Firewalls in both development and production.
+Education:
+Bachelors in Electronic and communication Engineer from JNTUH (2015)
+Contact this candidate

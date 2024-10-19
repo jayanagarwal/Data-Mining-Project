@@ -1,0 +1,129 @@
+Page * *
+Srinivasa Tumarada
+Mobile No: 443-***-****
+E-mail: ad5obg@r.postjobfree.com
+LinkedIn: https://www.linkedin.com/in/srinivasa-tumarada-95aa09 Experienced Cybersecurity Professional 15+ Years in SIEM On-boarding and Lead Security Analyst
+• SIEM On-boarding: Deployed SIEM solutions, integrated log sources, and Lead Security Analyst.
+• Cloud Security: Knowledgeable in SOAR, AWS and Azure.
+• Endpoint Security: Skilled in end-point security, vulnerability management, and compliance standards.
+• Scripting: Authored PowerShell and Python scripts.
+• Leadership: Guided SOC analysts in security incident analysis and troubleshooting.
+• Project Management: Project Management Experience with SIEM and End point Security Deployments. PROFESSIONAL SUMMARY:
+• Hands-on customer facing technical experience On-Boarding SIEM.
+● SIEM, Vulnerability scanners, anti-virus software. Experience in Python, PowerShell, and JavaScript programming languages.
+● Extensive experience in the IT industry with a focus on risk management, including proficiency in cloud services and the analysis of security threats. Skilled in identifying core IT security controls, conducting threat assessments, and formulating effective recommendations for remediation.
+● configuring of SIEM use cases and content to identify, track and remediate advanced targeted attacks against the enterprise.
+● Worked as a Cyber Security Analyst to monitor the client's cloud hybrid infrastructure AWS, Azure
+● Identity and Access Management: Okta, AWS IAM, Azure AD
+● Successfully directed Vulnerability Assessments.
+● Leveraged Enterprise vulnerability scanners (like Nessus, Saint, Openvas) to remediate vulnerabilities.
+● Hands-on experience using scripting/automating tools such as PowerShell, Python, Unix Shell scripting and operating Active Directory and enterprise authentication and authorization mechanisms.
+● Understanding of industry security frameworks and standards, including NIST, ISO 27001
+● ensuring compliance with other key regulatory requirements such as SOX, GDPR, and PCI DSS.
+● Orchestrated SIEM deployment in Finance, Healthcare, Government, Education verticals.
+● Deployed forwarders on windows servers and configured rsyslog on Linux instances, enabled auditd for enhanced telemetry, integrated CrowdStrike with SIEM, enabled Realtime alerting for security monitoring covering various log sources.
+● Configured threat indicator search queries to facilitate soc team do their daily analysis.
+● Facilitated internal teams to develop a threat center which aggregates threat feeds from various sources based on MISP.
+● Configured dashboards for soc team for monitoring compliance and security incidents, prepared the runbook for the soc operation with a base line of alerts, reports, and dashboards.
+● Respond to questions to related to compliance and controls.
+● Provide audit reports generated for various log sources. Recent Projects:
+• For a nation-state Central Bank with 23 regional banks, implemented a large, unified platform to aggregate alerts from multiple siem solutions deployed in each member bank, the solutions are Splunk, ArcSight. sentinel and others.
+Page 2 4
+• Provide a single plane of glass view to the central bank about the security posture of the member banks, accomplished gap analysis with each member bank and prepared a document about current security posture and risks.
+• Mapped the member bank siem alerts to a central MITRE framework dashboard, the environment is one master and 23 collectors, also integrated Arctic security alerts and inquest ips alerts to siem, wrote custom integrator script for Arctic security. Implementation done in multiple data centers.
+• For a large manufacturing company, Monitored and deployed Netsurion XDR platform on a AWS hosted environment, the SIEM server will collect telemetry from cloud data sources like cloud trail, IAM, Guard duty, Kemp load balancer.
+• For a large Network solutions company, Monitored and Deployed Netsurion XDR platform in a master and collector model, the partner is having huge number of FortiGate firewalls deployed across different retail locations.
+• Logs are being aggregated to a Forti analyzer, we configured the Forti analyzer to send the logs over tls to a collector, parsed the device names with a regex and mapped to system manager on the master.
+• Configured FortiGate related monitoring alerts for auth failures, virus alerts, configuration changes, prepared hand over documents for soc operations to monitor daily and worked along with partner to handle any technical questions.
+• For a large healthcare services company, planned the initial architecture and sizing of the hardware based on the log sources inventory.
+• Deployed SIEM on to their Azure and AWS environments, each environment will have its own collector and both collectors report to a master hosted in AWS cloud.
+• Multiple log sources covered like windows, Linux. Mac os, Azure Ad, Cisco AMP, Zscaler, Okta, IAM, rewrote the integrator scripts to work in pulling the logs from cisco amp, okta etc... TECHNICAL SKILLS
+•
+• Cloud Security: AWS Microsoft Azure
+• SIEM and Threat Detection: Netsurion XDR Splunk Elastic Stack Wazuh SIEM
+• Endpoint Security and DLP: McAfee EPO Symantec SEPM Deep Instinct EDR Forcepoint DLP
+• Vulnerability Assessment and Penetration Testing: Nmap Wireshark Nessus Metasploit
+• Incident Response and Threat Detection: Malware reverse engineering IDS/IPS
+• Compliance and Risk Management: HIPAA NIST frameworks (800-53, 800-66) ISO 27001
+• Networking and Protocols: TCP/IP, DNS, DHCP Cisco Routers/Switches LAN, FTP/TFTP, SMTP
+• Programming and Scripting: Python PowerShell Shell Script SQL
+• Web Technologies: HTML5 XML CSS JavaScript
+• Database Skills: MS SQL Server
+• Web/Application Servers: IIS, Apache Tomcat 7.1
+• Operating Systems: Linux (Red Hat, CentOS, SUSE, Ubuntu, Kali) Windows
+• Ticketing Tools: Atlassian JIRA, Fresh Desk,
+• Security Tools: Wireshark Nmap
+TOOLS EXPERTISE
+Eventtracker SIEM Splunk Jira
+VirusTotal Wireshark CRM
+Python Javascript Fortigate
+Wireshark Powershell PCI and SOX Audits
+Access Management Netsurion XDR
+CORE COMPETENCIES:
+• SIEM Deployment Architecture • Vulnerability Scanning
+• Endpoint Security • Compliance Management
+Page 3 4
+• Vulnerability Management • Change & Issue Management
+• Security Policy Management • Network Security
+• Data sources Integration SIEM
+• MDR, XDR
+• SOAR
+• Attack Investigations
+CAREER SUMMARY
+Company: SparksoftCorp Feb-2024 - Current
+Client: Optum
+Location: Columbia, Maryland-USA Role: AWS and NIST Security Consultant Responsibilities: Review and collaborate with team on System Security Plan, Tabletop exercises, audit assessment interviews, Review security controls, patching, work with technologies like vulnerability scanners, AWS, EDR for the AWS Devops environment having Linux, windows, doing patching via bash and PowerShell scripts as requested on maintenance schedule window for staging and prod environments, monitor the IAM activity via cloud trail, AWS config, management of Access key rotation for IAM users and encryption keys, key policy changes.
+Company: Eventtracker Security LLC July 2017 – Dec-2023 Clients: Signify Health, Hughes, Bank of Ghana, Rowan University, Bergen County NJ, IOWA State CISO Office, Nationwide, KPI Electric
+Location: Columbia, Maryland-USA Role: Lead Security Architect Orchestrated SIEM deployment in Finance, Healthcare, Government, Education verticals. Responsibilities:
+• Plan and doing the deployments, preparing the check lists and leading the project along with project coordinators.
+• Preparing the forwarder configurations, rsyslog configurations.
+• Testing in the lab simulating the deployment issues.
+• Work with product engineering team to resolve product issues.
+• Providing technical support throughout the project to customer.
+• Configuring Reports, Alerts, Dashboards for monitoring purposes.
+• Preparing the runbooks, playbooks for soc operations.
+● Worked with Netsurion XDR, Splunk, Qradar, AD, and UBA tools for investigation/analysis.
+● Carried out Vulnerability Assessments, ensuring compliance with PCI DSS standards and addressing vulnerabilities promptly.
+● Review risk assessments completed by the security team based on the National Institute of Standard and Technology (NIST) and International Standard Organization (ISO).
+● Consult clients on automating remedial actions, audit report configurations.
+● Orchestrated regulatory compliance for application deliverables, including comprehensive compliance analysis and validation testing across multiple datasets. Company: Prism Microsystems Inc June 2012– July 2017 Clients: Lockheed Martin, ANSI, Lehigh Valley Hospital, Commerce Bank Location: Columbia, Maryland-USA Role: Staff Engineer/Cyber Security Engineer Project Description:
+● Pre- and Post-Sales engineer, Implement and support SIEM for Mid and Large companies,
+● Provide technical assistance to Auditors and IT security team in correlation use cases and reporting.
+● Analysis of Windows and Network Systems Logs for compliance and forensic purposes, using PowerShell, python and SQL, reporting tools of Eventtracker SIEM.
+● Configuration assessments with OpenSCap tools.
+Responsibilities:
+Page 4 4
+● Deployed SIEM to several on-prem customers.
+● Worked on Migrations of SIEM to newer environments.
+● Conducted malware reverse engineering behavioral analysis and handled Incident Response activities, demonstrating expertise in mitigating security incidents.
+● Successfully implemented monitoring for several log sources like Firewalls, Switches, Domain controllers, Web Servers.
+● Represented company's technical security interests to partners to provide bi-directional flow of technical information and best practices in information security.
+● Conducted Vulnerability Assessments and implemented required counteractions and measurements to ensure the security of the IT infrastructure/systems.
+● As a Subject Matter Expert (SME), ensured security baselines are met for security audits.
+• Work directly with customers on-site and web meetings to deploy and troubleshoot SIEM solution.
+• Use scripting to create correlation use cases.
+• Monitored controls post-authorization, ensuring continuous compliance with security requirements.
+• Actively participated in Identity and Access Management (IAM) governance planning, ensuring collaborative efforts and comprehensive planning
+• Configuring operational security tools, IDS, firewalls, and 3rd party security products for the purpose of getting telemetry.
+Company: Prism Networks Pvt Ltd Dec 2006 –June 2012 Clients: Multiple customers in USA, other regions like Europe and Gulf Location: Bengaluru, India Role: Team Manager
+Responsibilities:
+• Manage and assist team members in resolution of support cases by assisting them in replication and providing input. Lead the team with handling escalations.
+• Supported SIEM products include Event Log Central, Status Tracker, What Changed and Trap Tracker. These products use SQL Server as the backend for configuration data.
+• Installation and configuration of base products and agents.
+• Log collection and review for troubleshooting purposes.
+• Internal Testing and replication of Customer’s problems.
+• Providing fixes (issued by Engineering) to customers and ensuring the problem is resolved.
+• Lead and manage support team in India to support customers across the Globe through Voice, Email and web meetings.
+• Analysis and identification of the root cause of the problem.
+• Timely escalation of issues to the Engineering team and following-up and working with the engineering team on the same
+SELF DIRECTED LEARNING AND CERTIFICATIONS
+• CISSP
+• Advanced Tools & Scripting Certificate with PowerShell from Microsoft Virtual Academy
+• Splunk Certified Enterprise Admin
+• Splunk Certified Core User
+• AWS Security Specialty from Udemy
+• JavaScript from end engineer certification from freecodecamp.
+• Deep Instinct Endpoint Security Engineer Certified.
+• Completed the course Kubernetes Monitoring with Datadog from Datadog. EDUCATION
+• Education equivalency to Bachelor of Information Science evaluated by Baruch College New York in combination of my continuous education and later experience in Information Technology.
+Contact this candidate

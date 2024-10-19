@@ -1,0 +1,34 @@
+Bingjia Wang
+EMAIL: adjbjz@r.postjobfree.com PHONE: +1-347-***-****
+LinkedIn: https://www.linkedin.com/in/bingjia-wang-a6271b139/ GitHub: https://github.com/wbj218 Local Address: 808 Dryden Rd, Apt B, Ithaca, NY 14850 Permanent Address: No.5 Jianguomen North Street, Room 1511, Beijing, China 100005 EDUCATION
+Cornell University – Ithaca, NY Dec 2020
+Master of Engineering in Electrical and Computer Engineering Overall GPA: 3.91/4.00
+• Relevant Coursework: Bayesian Estimation and Stochastic Optimization, Data Mining and Machine Learning, Natural Language Processing, Computer Vision, Datacenter Computing, Embedded Operating System, Operating System, Data Structure Rensselaer Polytechnic Institute – Troy, NY May 2019 Bachelor of Science in Electrical Engineering, Minor in Mathematics Overall GPA: 3.96/4.00 HONORS & CERTIFICATES
+Dean’s Honor List on All Semesters, RPI
+Summa Cum Laude, RPI (May 2019)
+RPI Harold N. Trevett Award (May 2019): Awarded annually to a senior for outstanding scholarship in EE. Bose Lean Enterprise Yellow Belt Certificate (June 2018) SKILLS
+Python (TensorFlow, Scikit-learn, PyTorch), Java, Node.js, C, R, SQL, AMPL, MATLAB & Simulink, Cadence WORK EXPERIENCE
+Journeyman Fellowship Research Intern, U.S. Army CCDC Army Research Laboratory May-Aug 2020 Internalizing Succinct Gaussian Processes by Integrative Policy Search in Reinforcement Learning
+• Used compressed online Gaussian Process to estimate the environment transition dynamics and the state occupancy measure.
+• Used Gaussian Quadrature to compute the integrative policy gradient w.r.t. the estimated state-action occupancy measure.
+• Update the policy by extending the Palyak-Ruppert Averaging.
+• Experimented on a few OpenAI environment and observed an order of magnitude reduction on sample complexity during training. Electrical Engineer Co-Op, Bose Corporation - Framingham, MA Jan-Jun 2018
+• Used C and Matlab to implement different embedded sensor systems to develop algorithm for headphone on-off head detection.
+• Implemented cap-touch system on headphone earcup to detect gestures.
+• Developed test procedure, collected and analyzed data for on-off head detection algorithm improvement. RESEARCH & PROJECTS
+A Markov Decision Process Approach to Active Meta Learning, Cornell – Ithaca, NY arXiv Link Aug 2019-May 2020
+• Built a stochastic scheduler on top of existing deep meta learning algorithm to actively select samples on which to train from different meta-training sets, in order to improve the sample efficiency.
+• Developed scheduling schemes based on multi-armed UCB and Gittins indices algorithms to exploit covariates within subset.
+• Further exploited the dependencies between different training subsets by modeling the problem as Markov Decision Processes.
+• Experimented the schemes on 3 datasets and showed that they could improve training efficiency and maintain high accuracy. NLP Projects, Cornell – Ithaca, NY Aug-Dec 2020
+• Question-answering: Developed 2 question-answering models using DrQA and pretrained Bert model (in PyTorch) to answer questions and predict questions’ answerability in SQuAD 2.0 dataset.
+• Emotion Classification: Used FFNN, RNN and LSTM (in PyTorch) to classify different emotions using Tweeter posts dataset.
+• Sequence-tagging: Built features and used HMM and MEMM to identify propagandistic spans of text for tokens.
+• Real/Fake News Classification: Use n-gram language model with smoothing and Naïve Bayes to classify real and fake news. Machine Learning Projects, Cornell – Ithaca, NY Aug 2019-Dec 2020
+• Drug MoA Prediction: Used LightGBM and neural network (multi-seeds FFNN and ResNet) to predict MoAs on different molecules.
+• Modulation Prediction: Used Python with sklearn and TensorFlow to implement AdaBoost with Random Forest, CNN and ResNet to predict the signal modulation schemes.
+• Divorce Prediction: Used R to implement various parametric and non-parametric machine learning methods (LR with regularization, SVM, trees and random forest, PCA with nearest neighbors) to predict divorce, Used LASSO, forward and backward selection, data shrinkage to identify important features and interpret the findings. SLAM Mapping Robot, Cornell – Ithaca, NY PROJECT WEBSITE Aug-Dec 2019 Used Raspberry Pi, piTFT, IMU, wheel encoder and ultrasonic ranger to design and build a SLAM mapping robot to achieve area dimension and altitude measurement functionalities and show real time result on piTFT screen.
+• Used IMU with low-pass and complementary filters to compute robot heading direction and altitude measurement.
+• Used wheel encoder and ultrasonic ranger to achieve distance measurement and edge detection.
+• Designed algorithm to localize robot and show the robot position and altitude measurement on piTFT in real time.
+Contact this candidate

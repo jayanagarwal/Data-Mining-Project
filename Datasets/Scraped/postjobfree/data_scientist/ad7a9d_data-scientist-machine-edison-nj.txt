@@ -1,0 +1,97 @@
+SUMMARY
+
+As a passionate technologist, I thrive on innovation and enjoy collaborating with industry leaders to tackle complex business challenges. For over 7 years, I have served as an accomplished Head Data Scientist in the Capital Markets and Manufacturing sectors, with a proven track record of implementing transformative data solutions that have propelled organizations to new levels of success.
+
+I am highly regarded by staff, colleagues, vendors, and customers as a thought leader and pioneer in the field. Possessing strong business acumen, I have an exceptional talent for building business value that engages executive management and cross-functional teams. Through my work, I have demonstrated a keen ability to drive meaningful impact and results.
+
+COMPENTENCY
+
+Data Languages: Python, SQL, StreamSQL
+Data Analysis: Business Modeling, Data Modeling, Exploratory Data Analysis (EDA), Data Engineering, Feature Engineering, Data Preprocessing, Data Visualization
+Data Acquisition: Loss-less Messaging Protocol, Change Tracking, Real-Time Processing, Snapshot and Incremental Processing, Self-Healing, Schema Drift Remediation
+Machine Learning: Supervised, Unsupervised, Reinforcement, Natural Language Processing (NLP), Time Series Analysis
+Databricks: Databricks Platform, Apache Spark, Delta Lake, MLOps, MLflow, Delta Live Table (DLT) Pipelines, Databricks jobs, Serverless
+BI Visualizations: Power BI, Tableau
+Tools and Libraries: Pandas, NumPy, Matplotlib, SciPy, SciKit-Learn, Seaborn, Keras
+Cloud Platform: Azure, AWS
+Databases: Databricks, SQL, MySQL, StreamSQL, kdb+, Cosmos DB, Snowflake
+Big Data: Apache Spark, Hive, Hadoop, Scala
+Languages: Python, C#, Java, Perl
+
+DATA ENGINEERING
+
+Business Solutions: Customer Campaigns Customer Insights Customer Satisfaction Subscription Services Supply Chain Optimization Data-Driven Business Strategies Behavioral Analysis Sentiment Analysis Financial Analysis
+
+FINANCIAL ENGINEERING
+
+Services: Portfolio Management Risk Management Algorithmic Trading Regulatory Compliance
+Asset Classes: Equities Fixed Income Forex
+Data Science: Modeling and Scoring Feature Engineering Machine Learning Streaming Analytics Data Engineering
+Methodologies: Scrum Agile Lean Kanban TOGAF
+
+Adjunct Instructor: Columbia University CTA (SQL, ASP.NET, C#, Perl)
+Education: Bachelor of Science in Bio-Chemistry SUNY @ Stony Brook
+
+PROFESSIONAL HISTORY
+
+Crestron, Rockleigh, NJ 4/20 – 6/24
+Director of Enterprise Data and Analytics
+
+Hired, built and coached Crestron’s first Data team that is now the driver for all major projects.
+
+Advised and led XIO Operation team through crisis. Recognized a dire need for operational efficiencies, engineered a Databricks solution that triangulates telemetries from 3 million devices worldwide in reducing Mean-Time-To-Resolution (MTTR) from an average of 22 hours down to minutes using real-time analytics.
+
+Designed and owned all Crestron data acquisition pipelines. Implemented self-healing recovery with Massive Parallel Processing (MPP) and unlimited scalability for all real-time data streams. Drastically reduced our Data Operation overhead, resulting in a major shift in bandwidth towards delivering impactful data analytics every 4 weeks, including the most significant alignment of IoT Supply Chain data with Customer demands for optimization.
+
+Managed, rebuilt and secured Power BI report infrastructure. Responsible for guiding conceptual ideations through an end-to-end process of collaborative Business Modeling, Data Modeling, Feasibility Analysis, Exploratory Data Analysis, Proof-of-Concept development, Data Acquisition and Transformation to the final delivery of Power BI reports.
+
+As a champion of Data, shared stories with staff, users, directors, and executive management on the art of possibilities in simple terms. Demonstrated the power of data-driven insights to drive business impact and enable data-informed decision making across the organization. Bridged the gap between technical complexities and business needs, translating analytical findings into actionable recommendations that resonated at all levels.
+
+Utilized Databricks Delta Live Table (DLT) pipelines to produce a trusted single source of truth for Sales, Finance, Supply Chain, Customer Support, Customer Quality Assurance, SAP, Subscriptions, and Quote Services. Ultimately, transformed the organization into a data-driven powerhouse, resulting in an estimated 80%+ in data-to-insight efficiency that became the preferred platform for all Business Analysts, Data Analysts, BI Analysts, DBAs, Data Engineers, and Data Scientists.
+
+Responsible for an initial 18% uplift in Sales through the analysis of device usage patterns in Databricks Delta Lake and Spark, turning data into up-selling and cross-selling opportunities of 3000 products on customer-facing portals, email campaigns, and customer outreach.
+
+Iterated through Pearson Correlation and other statistical analysis techniques as part of the Feature Engineering in answering business questions across nine divisions. Integrated supervised models into stream processing engine that have successfully identified device chipset faults, device driver bugs, customer network, customer DNS, and Azure IoT hub issues. Reduced time-to-root cause identification and improved overall customer satisfaction while recovering >$300,000 in Azure consumption cost.
+
+Led the buildout of Databricks MLOps Pipeline from Feasibility Analysis, Data Preparation, Design, Build, Model Training and Simulations, Model Versioning and Registry, Model Serving, and Dockers Deployment to final Post-Deployment validations for a ChatGPT implementation that gleaned insights from Customer Support chat transcripts. Implemented NLTK, spaCy, and BERT NER with Levenshtein-Distance to desensitize data before embedded vector processing for an internal Sentiment Analysis ChatBot.
+
+Rebuilt our Azure infrastructure with significant changes to the VNET, VNET Peering, Subnet, Firewall, and NSG setup to create a zero-trust zone with increasing access through higher rings. Implemented data protection at rest and in transit to ring-fence our ChatGPT implementation.
+
+INTL FCStone (Now StoneX), New York, NY 6/17 – 11/19
+Co-Head (SVP) of Electronic Execution Services
+
+Inherited roles and responsibilities through successful deliveries of algorithmic trading platforms over the years, from Principal Architect of Electronic Execution Services (EES) to Division Co-Head, directly contributing to the firm’s top-line annual revenue of $32 million. Entrusted to create a centralized Data Engineering team under EES to lead an enterprise-wide algorithmic/ML transformation.
+
+Instrumented Toxicity Analysis in Databricks ML. Aligned historical market data against historical clients’ trade data to identify wins vs losses 10 minutes after the open position. Correlated well-known features through Filter and Wrapper techniques. Categorized/Labeled trades into Quantiles based on the established feature set. Adjusted Random Forest hyper-parameter to reduce in-flight processing time from 3ms to <1ms at the cost of 0.3% accuracy. Eventually debuted StoneX’s first ML trading platform with delta hedging in Commodities and Futures.
+
+Ensembled an algorithm that consistently outperforms FX manual making through the alignment and correlation of Trade Volume, Linear Regression, Bollinger, VWAP, and Parabolic SAR in Databricks. Ultimately integrated the algorithm into FX Making automation.
+
+Worked closely with Data Engineering team in reliable data acquisition and cleansing with Databricks Structured Streaming and TIBCO Streaming. Converted Scikit-Learn models into PMML to optimized cost, resulting in over $30,000/day in savings.
+
+Conducted data analysis and feature engineering on large-scale datasets using Delta Lake and Spark with varying degrees of success in model accuracy, directly contributing to month-over-month improvement in algorithmic performance.
+
+Collaborated with internal CFAs in revitalizing Portfolio Risk Management through real-time VaR, conditional VaR, Greeks, and Price-vs-Volatility Stress matrix with seasonal attributes on all client portfolios. In time, swayed Portfolio Risk team from an $8m first-year vendor solution to a $12k month SAAS solution.
+
+Partnered with our CTO and division heads in transforming the company’s culture, instilling collaborative and open discussions. Created an Innovation Task Force for Technical Directors and Engineers to drive emerging technologies that later became the heart of StoneX algorithm development.
+
+Coached EES Data Scientists through practical projects. Regularly discussed data strategies and data engineering techniques with Databricks code review between all levels of Data Engineers and Data Scientists to facilitate a culture of collaboration and team bonding. Structured discussions on advanced Model Evaluations (Matplotlib for visual inspections), Correlation, Feature Engineering, Hyper-Parameterization, Monte-Carlo simulations, and other workflows with L3 Data Scientists to create consistencies in our practice.
+
+ConvergEx LLC, Iselin, NJ 8/05 – 5/17
+SVP of Strategic Application Group
+
+6+ years veteran in SQL code optimization and data modeling for trading platforms. Separated OLAP queries into SQL and Oracle data warehouses to remove contentions with trading databases. The growth of our algorithmic trading platform later warranted faster analytics and alphas using kdb+ VMs in AWS.
+
+Implemented kdb+ to crunch through ~1 terabytes historical market with moving averages under 1 millisecond per tick with vector calculations. Realizing the speed of kdb+, created a ticker plant with market data replay capability for back-testing and continuous integration tests.
+
+Due diligence in market data vendor selection to create a >95% instrument reference coverage in our Security Master by coalescing various security identifiers, CUSIP, ISIN, SEDOL, RIC Comstock, and OpenFIGI. Consolidated market data sources and eliminated trades to high cost shallowly traded international markets, reducing annual market data cost by 22%.
+
+Headed the Financial Engineer Algorithmic Trading System (FEATS), a top producer at $23 million per year in revenue. Designed Macro-Trader for volume placement and Micro-Trader for price target with Flex Tactics to orchestrate real-time, signal-based trade adjustments. Engineered a fully customizable Algo-Wheel with 20+ algorithms and 300+ FIX-embedded instructions to dynamically change execution strategies mid-stream.
+
+Built from the ground up, ConvergEx first ultra-low latency Dark Pool with liquidity detection and Smart Order Routing. Execution QoS (Quality of Service) algorithm uses past hit rate, first fill characteristics, execution cost, IOI (Indication of Interest) and other heuristic data to dynamically shift order flows.
+
+Led a $5 million new initiative to build out a Strategic Application Group, delivering the firm’s strategic vision. Started with a marquee delivery of a state-of-the-art Compliance Risk Surveillance System (CRSS), overseeing Trade and Compliance Risks for all Equities Trading, providing unprecedented transparency and insights into Domestic and International trading activities.
+
+The exponential growth in our Surveillance Product forged an internal spin-off of ConnEx LLC., turning Strategic Application Group into a profit center in less than 2 years. Drove year-over-year business growth while leading operations, strategic vision, and long-range planning with full responsibility for bottom-line.
+
+Sparked by international broker/dealer (BD) interests and business sponsorships, oversaw the implementation of an ETF Distributor Service, providing a medium for traders to advertise liquidities and accept bids from Market Makers around the world, increasing our ETF trade flow by 300%.
+Contact this candidate

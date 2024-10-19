@@ -1,0 +1,98 @@
+Leonid Ganeline
+Vancouver, B.C., Canada
+ad1fd7@r.postjobfree.com
++1-604-***-****
+
+“The first principle is that you must not fool yourself, and you are the easiest person to fool.”
+Richard Feynman
+
+Data Scientist, Sr. Machine Learning Engineer
+SUMMARY
+●Machine Learning frameworks: PyTorch, Tensorflow, Keras, and MXNet
+●Machine Learning packages: transformers, spaCy, Scikit-Learn, xgboost, gensim, flair, catboost, and LangChain
+●Languages: Python, C#, and C
+●Neural Networks: Convolutional, Recurrent, Autoencoders, LSTM, ELMO, fastText, Transformers, and LLMs
+●Machine Learning areas: NLP, image recognition, anomaly detection, and prompt engineering
+●Data Preparation: SQL, BigQuery, Scikit-Learn, Pandas, Numpy, feature-engine, Faiss, and Spark
+●Development Tools: Jupyter Lab, Azure ML Studio, and PyCharm
+●Cloud ML: AWS SageMaker, GCP Vertex AI, Azure MLOps, Azure OpenAI, HuggingFace
+●DevOps, CI/CD: Docker, Kubernetes, Git, GitHub, MLflow, FastAPI, Azure DevOps, and Poetry
+●Integration: BizTalk Server, LogicApps, Azure EventHub, Azure ServiceBus, MSMQ, RabbitMQ, SOAP, and REST
+
+Data scientist with seven years of experience in NLP and ML. Expertise in building ML teams and project management. Proficient in Python, SQL, and Cloud ML. Experience with PyTorch, Tensorflow, Scikit-Learn, and other ML frameworks.
+LinkedIn - https://www.linkedin.com/in/leonidganeline/
+GitHub - https://github.com/leo-gan/
+
+EXPERIENCE
+Sabbatical 6/2023 – present
+Researching the current state of affairs in NLP, specifically:
+●Model evaluation, especially the generative models
+●Applications of the Large Language Models, like the GPT
+●Retrievers and vector stores
+●Model integration
+Contributing to the LLM open-source projects:
+●LangChain: Building applications with LLMs (in top-10 contributors)
+●facebookresearch/ImageBind: One embedding space
+●Chroma: The embedding database
+Sr. Machine Learning Engineer, Tigera.io, Vancouver, 10/2020 – 5/2023
+At Tigera, I worked on anomaly detection and threat defence in Kubernetes clusters.
+I created an anomaly detection model framework for the Calico Enterprise and Calico Cloud products. It included productizing ML models into the Calico Kubernetes clusters. Models have a unique life cycle with daily retraining, automated hyperparameter tuning, and an evaluation regime without labels.
+Models:
+●NLP models based on the Catboost and tokenizers, with novel data preprocessing
+●Time-series models based on the Gluon-TS neural networks
+●Isolation Forest and LOF clustering models
+●Ensemble clustering models
+Tools: Python, Keras, Tensorflow, PyTorch, Gluon-TS, Sktime, scikit-learn, Transformers, Catboost, Pandas, NumPy, MLflow, Poetry, Pydantic, FastAPI, GitHub, Elasticsearch, Faiss, BigQuery, Docker, Kubernetes, and Linux.
+Sr. Machine Learning Engineer and Data Scientist, SkyHive, Vancouver, 5/2018 – 10/2020
+SkyHive was named one of the top 25 ML startups to watch (organic) on Forbes in January 2021.
+As the first data scientist at SkyHive, I initiated data science and machine learning projects. I created and owned the entire Machine Learning technology stack, from envisioning to production.
+My projects formed the basis of SkyHive machine learning:
+● "Similarity", which searches for relations between resumes, job descriptions, and courses
+● "Skill Extraction", which searches for skills in job descriptions and resumes
+● "Fuzzy Skill Matching", which matches job descriptions with resumes with language detection
+● "Document Classification", which classifies job descriptions, resumes, and scientific articles
+● "Skill Importance", which ranks skills
+● ETL pipelines, which scrape, preprocess, store, and classify job descriptions and resumes
+I designed and developed production services and applications,
+trained and utilized the word2vec, fastText, and ELMO models for classification and text similarity,
+established workflows for data labeling, model evaluations, and regression testing,
+performed labeling and evaluation of the training data sets with Amazon Mechanical Turk,
+implemented REST services, deployed with Azure DevOps pipelines and Kubernetes in Azure, Google Cloud, and AWS,
+reviewed code and hired for the ML team.
+Tools: Python, Keras, Tensorflow, PyTorch, scikit-learn, pandas, gensim, spaCy, flair, fastText, MongoDB, MySQL, Azure DevOps, Git, Docker, Kubernetes, AWS Lambda, and Linux.
+
+Machine Learning Developer, Altyn Consulting, Vancouver, 10/2016 – 5/2018
+At Altyn Consulting, I created models to predict ship itineraries in Vancouver Port waters, with interesting data preprocessing that converted time series into Markov Chain samples.
+Tools: PyTorch, Keras, Scikit-Learn, XGBoost, and lightGBM.
+I also created CNN models with Keras (with Tensorflow as the backend) for predicting rail cross-closures and developed a service to count tracks and cars from Vancouver Port using web cameras with Keras (with Theano as the backend) and a pretrained VGG model.
+I developed a project to analyze operation logs from the server cluster to detect anomalies and security breaches.
+Tools: Python, Keras, Tensorflow, PyTorch, Scikit-learn, XGBoost, lightGBM, catboost, and nltk.
+
+Integration Consultant on multiple projects 2005 – 10/2016
+Multiple roles in Software Development, Integration Architecture, and Systems Integration
+For more details, please check out my LinkedIn profile and my Microsoft MSDN profile.
+Projects in Industries: IT, Aerospace, Job Market, Travel, Communication, Manufacturing, Healthcare, Financial, Real Estate, Advertising, and Justice.
+The Microsoft Most Valuable Professional [MVP] Awardee in Microsoft Azure for 10 years in a row (2007-2016).
+Microsoft recognizes me as an independent expert in integration technologies.
+Development stack: Microsoft .NET, C#, BizTalk Server, EDI, SQL, XML, XSD, WSDL, SOAP, XSLT, and REST.
+
+CERTIFICATIONS
+“Natural Language Processing with Deep Learning“ course, Stanford University, by C. Manning and R. Socher
+“Neural Networks for Machine Learning” course, University of Toronto, by Geoffrey Hinton
+“Data Manipulation at Scale: Systems and Algorithms” course, University of Washington, by Bill Howe
+“Machine Learning” course, Stanford University, by Andrew Ng
+“Statistics” course, Harvard University, by Joe Blitzstein
+Microsoft Certified Technology Specialist (MCTS) in Microsoft BizTalk Server, Charter Member
+REFERENCES
+Fresh references are available upon request.
+References from the Vice President of Microsoft
+EDUCATION
+Samara State Aerospace University, Russia,
+Bachelor’s and Master's Degrees in Electronic Engineering (Signal Processing), diploma with honours
+ACCOMPLISHMENTS
+Microsoft Most Valuable Professional [MVP] Award 2016 in Microsoft Azure
+Microsoft Most Valuable Professional [MVP] Awards 2013–2015 in Microsoft Integration
+Microsoft Most Valuable Professional [MVP] Awards 2007–2012 in BizTalk Server
+PUBLICATIONS
+See publications in InfoQ and Microsoft TechNet.
+Contact this candidate

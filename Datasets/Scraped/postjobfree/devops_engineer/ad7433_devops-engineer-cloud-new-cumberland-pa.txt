@@ -1,0 +1,188 @@
+Vani Lanka
+AWS Engineer/DevOps Engineer
+ad7433@r.postjobfree.com / 717-***-**** ©
+Professional Summary
+• 13+ years Industrial experience in automating, supporting, and optimizing mission-critical deployments, leveraging configuration management, CI/CD, Test, DevOps processes and Cloud Infrastructure using AWS.
+• Hands-on experience in Build and release management, Configuring the environments, Cloud infrastructure, implementing test automation, Jenkins integrations and service management techniques.
+• Involved in planning the Architecture, infrastructure management, automating techniques, monitoring dashboards, Application flow tracking, monitoring dashboard tools.
+• Experience in understanding the business perspective application flow in trouble shooting the issues.
+• Strong in implementing logical, Operational, business case in planning the implementation steps of change requests and readiness of fallback and rollbacks strategies.
+• Worked with infrastructure tools and cloud platform AWS to enhance the performance, security, and scalability of middleware systems, proactively identifying and resolving potential issues.
+• Worked with Flyway to perform database migration by integrating with Docker and kubernetes.
+• Expertise in working with different Bug Tracking Tools like JIRA and Quality center and CI/CD processes using GitHub Actions, Tekton, CloudFormation (CFT), Cloud Development Kit (CDK), Terraform templates and containerizing using Dockers, EKS in AWS.
+• Experience in working with Docker, Kubernetes, ECS container services and various types of K8s clusters.
+• Integrating AWS RDS, Aurora and Redshift for the effective managing of application solutions.
+• Experience in source control management on Branching, Tagging and Merging along with administration over access control rules automating for standardization.
+• Experience in automating repetitive tasks using Python or Shell like lambda layers, upload files to S3, update Lambda functions etc.
+• Worked with various boto3 libraries in Python to automate the tasks and also used AWS CLI to perform various actions.
+• Worked with PowerShell to automate tasks like setting up the splunk configuration on the required machines.
+• Experienced in managing the artifacts stored in artifactories like Nexus,Jfrog, confluence.
+• Good Experience in interlinking multiple Jenkins jobs or github actions workflows with pipeline, integrated sonar to run as part of Jenkins build job, monitoring nightly and daily builds to deploy with different environment like QA, UAT, DEV, PROD.
+• Experience in Configuring Automation and Centralized Management with Chef/ Ansible and Implemented Chef/ Ansible to manage all existing servers and automate the build/configuration of new servers.
+• Experience on using test Automation using SonarQube in support of Testing the code Quality and using Snyk to check the vulnerabilities which was part of CICD.
+• Implemented code coverage, vulnerability checks, pre-commit hooks as part of GitHub CICD process.
+• Competence in designing AWS cloud models for Infrastructure-as-a-Service (IAAS), Platform-as-a-Service
+(PAAS) and Software-as-a-Service (SAAS).
+• Hands on experience in migrating physical Linux/Windows servers to cloud (AWS) and testing.
+• Experience in using containerization and container management tools like Docker, Docker Compose and Kubernetes, for Orchestration, deploying the services related to the Containers and with container-based deployments using Docker.
+• Knowledge on Kubernetes building cluster, maintaining pods & cluster configuration.
+• Expert in Automation of Release and Deploy configuration management to different environments i.e. Dev, QA, UAT, Pre-Prod and production.
+• Experience in configuring rest API'S and Web API'S and troubleshooting issues using Postman.
+• Good technical skills with Unix/Linux systems.
+• Worked with ITSM tool like Service Now, to raise the requests, handle incidents, service requests, problems and changes.
+Certifications
+• AWS certified Solutions Architect- Associate
+Education
+• Bachelor of Engineering in Mechanical –VNR VJIET Hyderabad 2011. Technical Proficiency
+GitHub Actions, Tekton, Python, Shell, Flyway, Jenkins, JIRA, Redshift Database, MySQL, GITHUB, Snyk, Shell, Bash, Splunk, Datadog, Grafana, Prometheus, Nexus, Ansible, Chef, Nagios, Docker, Kubernetes, AWS EKS, AWS environment, AWS Services (EC2, VPC, ELB, S3, RDS, Cloud Trail, EBS, Workspaces, Event Bridge, ECR, ECS, IAM, Lamba, AWS Glue, Step Functions, Appsync, Elasticache, Directory service(Active Directory),Cloud watch, CloudFormation, etc), Terraform, AWS CLI, AWS Auto Scaling, Unix/Linux, Shell scripting, Jfrog, Postman, Maven, Windows XP, PowerShell, ITSM.
+Professional Experience
+AWS/Devops Engineer
+Universal Music Group, Los Angeles Feb 2022 – Till Date Worked as Sr. AWS/ Devops Engineer for the project Universal Music Group which worked on building an application Royalties services. In this project worked on building CICD pipelines using Github actions integrating with Tekton CICD pipelines and deploying the micro services on EKS. Responsibilities:
+• Led the design of product infrastructure templates, tailoring automation solutions to client needs, and integrated them with our product K8s clusters, optimizing scalability and operational efficiency.
+• Automated end-to-end infrastructure provisioning using Terraform, CDK, CICD using Github actions with Tekton, deploy on Kubernetes with helm, and integration with code quality, code coverage and security, optimizing efficiency and reliability across all environments.
+• Developed and maintained Terraform policy as code, ensuring best practices, security standards, and regulatory requirements, while facilitating platform management with Terraform enterprise.
+• Integrated Github actions with Tekton to deploy the microservices on to EKS Clusters, provisioning and setup of custom-designed Amazon EKS clusters, ensuring efficient orchestration of infrastructure and configurations for product management workflows.
+• Implemented security measures within Kubernetes clusters with RBAC (Role-Based Access Control), network policies, and pod security policies, ensuring secure access control, network segmentation, and container isolation to mitigate potential threats and vulnerabilities Access Management.
+• Troubleshoot K8S pods using Kubectl CLI to check the errors on any pods or nodes.
+• Implemented Flyway which is used for database migration by using Docker and Kubernetes.
+• Utilized Cloudwatch and cloud trail for monitoring of the logs and metrics and configuring Eventbridges, SNS topics to send alerts and ensure compliance with regulatory standards.
+• Configured S3 Buckets to be used by Github Actions and copy files over various AWS Accounts using AWS CLI
+• Implemented AWS bulk backup strategies to ensure the seamless recovery of critical servers and rapid restoration of services in the event of fallback or disaster recovery scenarios, safeguarding business continuity and minimizing downtime.
+• Analyzed Toil events within the production environment and established automated recovery mechanisms addressing with predetermined solutions without the need for manual intervention and ensuring uninterrupted operational efficiency.
+• Effective utilization of Event Bridges, Lambdas, Stepfunctions for performing various activities and actions on AWS as per the designed standards and compliance.
+• Designed Helm templates for deploying the microservices by ensuring the code directly from the code repository which empowers development teams to use end-to-end automation without platform dependencies.
+• Implemented a comprehensive tagging policy encompassing various aspects, including user identification and respective cost center allocation, to standardize resource management. This approach enables precise billing allocation, facilitates resource tracking, and expedites issue resolution by ensuring clear accountability and visibility across the infrastructure lifecycle.
+• Orchestrated Spring Boot microservices within a Kubernetes (K8s) cluster, optimizing scalability, resilience, and resource utilization while fostering a modular and highly available architecture conducive to modern application development practices.
+• Implemented auto-scaling policies to dynamically adjust resource allocation based on predefined metrics such as CPU utilization or incoming traffic, ensuring optimal performance and cost efficiency.
+• Integration with API Gateway, facilitating secure and efficient communication between services while enabling centralized management, authentication, and monitoring of API traffic.
+• Docker files with optimized configurations to enhance container performance minimize image size, expedite build times and ensuring efficient resource utilization. Docker Registry is used for Docker Image managements.
+• Configured monitoring on Datadog to track the application, infrastructure, and Network. Environment: AWS, Kubernetes, Github Actions, Terraform, CDK, Docker, Maven, Tekton, Visual Studios, PowerShell, Shell script, CloudWatch, cloud trail, Snyk, Sonarqube, precommit Hooks, code coverage repots, Helm, GitHub,ITSM.
+AWS Engineer December 2020 – January 2022
+Genpact Newyork, NY
+Responsibilities:
+• Built and configured EC2 instances on AWS cloud platform, configured Elastic Load Balancer for traffic control for the EC2 and S3 buckets.
+• Worked on updating the tags to manage the compliance for the tag policies and Implemented tag enforcement using Tag policies.
+• Configured IAM roles for EC2 instances and assigned them policies granting specific level access to S3 bucket.
+• Created S3 buckets and bucket policies and utilized S3 buckets and Glacier for storage and backup on AWS. Configured AWS IAM and security Groups in Public and Private Subnets in VPC.
+• Implemented Elastic Load Balancer (ELB's) and Auto-scaling groups in AWS on production EC2 instances to build Fault-Tolerant on highly available applications.
+• Launched database for MySQL and Redshift in multiple Availability Zones, set up monitoring for CPU utilization and limited DB connections by implementing alarms using Datadog.
+• Created AWS VPC network for the installed instances and configured the Security Groups and Elastic IP's accordingly.
+• Worked on Continuous Integration workflow using Virtual Environments like Docker and Kubernetes to build various containers to deploy the micro services-oriented environments for scalable applications.
+• Configured deployment scripts for Kubernetes clusters. Worked with Kubernetes to provide a platform for automating deployment, scaling and operations of application containers across clusters of hosts and managed containerized applications using its nodes, config maps and services.
+• Parameterized templates to initiate other environments in a cookie-cutter fashion. Delivered all by using the Cloud Formation template or Terraform to automate the infrastructure.
+• Setup Jenkins pipelines which will use the cloud formation templates to setup the infrastructure required for the project.
+• Installed, managed and configured monitoring tools such as Splunk, Datadog and CloudWatch for monitoring the log files, Network Monitoring, log trace monitoring and the hardware status. Environment: AWS, CloudFormation(CFT), Dockers, Maven, Chef, Jenkins, Visual Studios, Datadog, CloudWatch, MY SQL, VPC, GIT, Terraform.
+Wipro
+AWS Engineer / DevOps Engineer June 2018 – May 2020 CapitalOne, Richmond, VA
+Responsibilities:
+• Designed and implemented scalable, secure cloud architecture based on Amazon Web Services
+• Manage multiple AWS accounts with multiple VPCs for both production and non-production where primary objectives are automation, build out, integration and cost control.
+• Extensively worked on AWS services such as EC2, ECS, S3, SNS, SQS, IAM, Cloud Watch, CloudFront, Cloud Formation and VPC.
+• Used Cloud Formation template for creating initial infrastructure like IAM roles and policies, S3 buckets and bucket configurations.
+• Creation of VPC-VPN from data center to Prod environment and Cross account VPC Peering.
+• Created Branches, Labels and performed Merges in GIT.
+• Integrated GIT into Jenkins to automate the code checkout the process and execution of Cloud Formation.
+• Used Jenkins for continuous deployment and integration of the build and release process.
+• Experience in the design and implementation of Continuous Integration, Continuous Delivery, Continuous Deployment (CI/CD), DevOps tool chain and DevOps processes for agile projects
+• Automated the process using plugins available in Jenkins and move from one environment to other throughout the build pipeline.
+• Worked with Nexus for artifacts repository.
+• Created Docker images and handling multiple images primarily for middleware installations and domain configurations.
+• Worked on Docker container snapshots, attaching to a running container, removing images, managing Directory structures and managing containers.
+• Created and Maintained repositories, branches and tags.
+• Experience in Monitoring with Datadog to monitor health checks of applications and servers.
+• Worked on setting up Splunk to capture and analyze data from various layers Load Balancers, Web servers and application servers.
+• Worked on creating tickets for bug stories and feature stories in JIRA with co-ordination of QA/BA team and issued it to developers to fix bugs and include necessary feature add.
+• Setting up JIRA as defect tracking system and configured various workflows, customizations and plug-ins for the JIRA with GIT and Jenkins.
+Environment: AWS (EC2, ECS, Cloud Formation, ELB, S3, Route 53, SNS, SQS, Cloud Watch, Cloud Trail), Maven, Jenkins, Docker, Docker Hub, Nexus, Splunk, Datadog, Chef, PowerShell, GIT/GitHub, JIRA,ITSM. Tata Consulting Services, India
+AWS Engineer/DevOps Engineer December 2016 – January 2018 FAIR Health St.Louis, MO
+FAIR Health is a national, independent not-for-profit corporation whose mission is to bring transparency to healthcare cost and health insurance through comprehensive data products and consumer resources. It uses its database of billions billed medical and dental services to power a free website that enables consumers to estimate and plan their medical and dental expenditures. My role is AWS/DevOps Engineer and worked on CI/CD Pipelines and AWS Resources. Responsibilities:
+• Designed and implemented scalable, secure cloud architecture based on Amazon Web Services Manage multiple AWS accounts with multiple VPCs for both production and non-production
+• where primary objectives are automation, build out, integration and cost control.
+• Extensively worked on AWS services such as EC2, ECS, S3, SNS, SQS, IAM, Cloud Watch, CloudFront, Cloud Formation and VPC.
+• Used Cloud Formation template for creating initial infrastructure like IAM roles and policies, S3 buckets and bucket configurations.
+• Creation of VPC-VPN from data center to Prod environment and Cross account VPC Peering. Created Branches, Labels and performed Merges in GIT.
+• Integrated GIT into Jenkins to automate the code checkout the process.
+• Used Jenkins for continuous deployment and integration of the build and release process.
+• Responsible for creating and maintaining automated builds for projects written in java, PHP using Jenkins.
+• Designed and Implemented CI (Continuous Integration) system, configuring Jenkins servers, Jenkins nodes.
+• Experience in the design and implementation of Continuous Integration, Continuous Delivery, Continuous Deployment (CI/CD), DevOps tool chain and DevOps processes for agile projects
+• Automated the process using plugins available in Jenkins and move from one environment to other throughout the build pipeline.
+• Used MAVEN as a build tool on java projects for the development of build artifacts on the source code.
+• Worked with Nexus for artifacts repository.
+• Created Docker images and handling multiple images primarily for middleware installations and domain configurations.
+• Worked on Docker container snapshots, attaching to a running container, removing images, managing Directory structures and managing containers.
+• Created and Maintained repositories, branches and tags. Configured Apache and Tomcat webservers.
+• Created Ansible Playbooks for automation deployment to different environments.
+• Experience in Monitoring with Nagios to monitor health checks of applications and servers.
+• Also used Splunk.
+• Worked on setting up Splunk to capture and analyze data from various layers Load Balancers,Web servers and application servers.
+• Worked on creating tickets for bug stories and feature stories in JIRA with co-ordination of QA/BA team and issued it to developers to fix bugs and include necessary feature add.
+• Setting up JIRA as defect tracking system and configured various workflows, customizations and plug-ins for the JIRA with GIT and Jenkins.
+Environment: AWS (EC2, ECS, Cloud Formation, ELB, S3, Route 53, Elastic Bean Stalk, SNS, SQS, Cloud Watch, Cloud Trail), Apache, Maven, Jenkins, Docker, Docker Hub, Nexus, Nagios, Splunk, Ansible, Chef, GIT/GitHub, JIRA. Test Analyst July 2015 – November 2016
+Humana, Kentucky
+Humana Inc. is a for-profit American health insurance company based in Louisville, Kentucky. It provides various insurances to the customers based on various criteria. As Test Analyst, analyze the requirements, preparation of Test scenarios, test cases and executing of the test cases. Thoroughly checking the functionality of the application and reporting the defects.
+Responsibilities:
+• Involved in Requirement Analysis, Estimation, Preparation of Test Strategy, Test plan, and Test cases with high quality.
+• Coordinated testing and test artifacts across multiple testing phases including SIT, UAT, End-to-end testing, and Performance Testing.
+• Prepared Test scenarios, Test plan and Test cases for every module.
+• Reviewing of the Test scenarios and Test cases with business teams.
+• Creating Test Plans and Test Lab in HP ALM.
+• Uploading of the test cases of different modules to Test plan in HP ALM and moving them to Test lab during execution phase.
+• Executing the test cases and updating the results in HP ALM.
+• Reporting of the defects/bugs based on the priority in HP ALM and keep a track of the defects.
+• Developed Requirements Traceability Matrix to relate High Level requirements to Test Scenarios.
+• Prepared Traceability matrix for Test scenarios and Test cases.
+• Ensure all the requirements are tested.
+• Ensure the timely delivery of testing milestones and quality delivery of testing artifacts and publish closure report after test execution completion.
+• Involved in Functional requirement discussion with BA and Business teams.
+• Involved in giving demo of the application to business users for every module.
+• Executing of UAT Test cases and also validation of the application after go-live.
+• Involved in giving support to the actual users after the application go-live.
+• Involved in production Support issues also.
+• Performed testing in Agile Methodology
+• Daily status calls to ensure if the testing activities are completed on time. Environment: MySQL, HP ALM, PEGA based web Application, SQL Developer, SOAP UI. Test Analyst August 2013 – June 2015
+Ericsson, Sweden
+Ericsson has developed a PEGA based application EriMatch which is used to manage all the Ericsson resources data such as resource details, qualification, location, billing etc. EriMatch gets the data from various applications like HRMS, MERLIN, SAPONE.As Test Analyst, analyze the requirements, preparation of Test scenarios, test cases and executing of the test cases. Thoroughly checking the functionality of the application and reporting the defects.
+Responsibilities:
+• Involved in Requirement Analysis, Estimation, Preparation of Test Strategy, Test plan and Test cases with high quality.
+• Coordinated testing and test artifacts across multiple testing phases including SIT, UAT, End to End testing, Performance Testing.
+• Prepared Test scenarios, Test plan and Test cases for every module.
+• Reviewing of the Test scenarios and Test cases with business teams.
+• Creating Test Plans and Test Lab in HP ALM.
+• Uploading of the test cases of different modules to Test plan in HP ALM and moving them to Test lab during execution phase.
+• Executing the test cases and updating the results in HP ALM.
+• Reporting of the defects/bugs based on the priority in HP ALM and keep a track of the defects.
+• Developed Requirements Traceability Matrix to relate High Level requirements to Test Scenarios.
+• Prepared Traceability matrix for Test scenarios and Test cases.
+• Ensure all the requirements are tested.
+• Ensure the timely delivery of testing milestones and quality delivery of testing artifacts and publish closure report after test execution completion.
+• Involved in Functional requirement discussion with BA and Business teams.
+• Involved in giving demo of the application to business users for every module.
+• Executing of UAT Test cases and also validation of the application after go-live.
+• Involved in giving support to the actual users after the application go-live.
+• Involved in production Support issues also.
+• Performed testing in Agile Methodology
+• Daily status calls to ensure if the testing activities are completed on time. Environment: MySQL, HP ALM, PEGA based web Application, SQL Developer, SOAP UI. Test Analyst Sep’11 – Aug’13
+Cigna, Bloomfield,CT
+Cigna headquartered in Bloomfield, Connecticut, US, is a global health services organization. Its insurance subsidiaries are major providers of medical, dental, disability, life and accident insurance and related products and services, the majority of which are offered through employers. In addition to its ongoing operations described above, Cigna also has certain run-off operations, including a Run-off Reinsurance segment. As an Underwriter, we take the data from upstream applications like pricing database, Sales force, Benefit Sculpting Tool and Unified Pricing Model and generate the rate projections such that the customer is satisfied with the projections and see that there is no loss to CIGNA. We use rating tools like the Guaranteed Cost Projection Model and rating manager to generate the projections.
+Responsibilities:
+• Involved in Requirement Analysis, Estimation, Preparation of Test Strategy, Test plan and Test cases with high quality.
+• Coordinated testing and test artifacts across multiple testing phases including SIT, UAT, End to End testing, Performance Testing.
+• Prepared Test scenarios, Test plan and Test cases for every module.
+• Reviewing of the Test scenarios and Test cases with business teams.
+• Creating Test Plans and Test Lab in HP ALM.
+• Uploading of the test cases of different modules to Test plan in HP ALM and moving them to Test lab during execution phase.
+• Executing the test cases and updating the results in HP ALM.
+• Reporting of the defects/bugs based on the priority in HP ALM and keep a track of the defects.
+• Developed Requirements Traceability Matrix to relate High Level requirements to Test Scenarios.
+• Prepared Traceability matrix for Test scenarios and Test cases.
+• Ensure all the requirements are tested.
+• Ensure the timely delivery of testing milestones and quality delivery of testing artifacts and publish closure report after test execution completion.
+• Involved in Functional requirement discussion with BA and Business teams.
+• Involved in giving demo of the application to business users for every module.
+• Executing of UAT Test cases and also validation of the application after go-live.
+• Involved in giving support to the actual users after the application go-live.
+• Involved in production Support issues also.
+• Performed testing in Agile Methodology
+• Daily status calls to ensure if the testing activities are completed on time. Environment: MySQL, HP ALM, SQL Developer, SOAP UI.
+Contact this candidate

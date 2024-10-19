@@ -1,0 +1,193 @@
+Jaya Sree Challagolla
+Sr. Data Engineer
+Mobile: 904-***-****
+Email: ad7y1p@r.postjobfree.com
+
+SUMMARY
+Have over 9+ years of experience as a data engineer, Implementing ETL process leveraged the Apache ecosystem, including HDFS, MapReduce, YARN, and Spark, to design and implement distributed storage and processing solutions for handling massive datasets. Utilized Spark RDDs, Data Frames, and Spark SQL extensively for real-time data processing, batch processing, and machine learning tasks.
+Configured and managed Apache Kafka clusters to enable real-time data streaming, message queuing, and event-driven systems. Implemented producers, consumers, and Kafka Connect interfaces to facilitate seamless data integration.
+Employed various cloud infrastructure components, focusing on Google Cloud Platform (GCP), and Amazon Web Services (AWS) including Redshift, S3, Glue, and Microsoft Azure, to build scalable and robust data solutions. Extensively utilized GCP for scalable storage, data processing, and machine learning workloads.
+Developed customized ETL solutions tailored to specific business requirements using tools such as Informatica, SSIS, Talend, and Pentaho. Designed data transformation, purification, and analysis processes on GCP to ensure data quality and integrity.
+Utilized a range of data warehousing platforms, including Microsoft Azure Synapse Analytics, Snowflake, Amazon Redshift, and Google Big Query on GCP, to store and analyze structured and unstructured data effectively.
+Applied advanced programming languages such as Python, SQL, Scala, and Java to develop efficient data processing applications, scripts, and workflows, optimizing performance and scalability on GCP. Utilized Terraform for infrastructure as code (IaC) to automate the provisioning and management of cloud resources.
+Implemented data modeling techniques such as Star Schema and Snowflake Schema using tools like Erwin Data Modeling, ER Studio, and SAP Power Designer to design robust data architectures on GCP.
+Deployed containerization technologies like Docker and Kubernetes on GCP and utilized continuous integration and deployment tools such as Jenkins and Azure DevOps to automate and streamline the development and deployment processes. Employed Terraform to manage infrastructure deployments and ensure consistency across environments.
+Designed interactive dashboards and visualizations using Tableau, Power BI, and Apache Superset to present insights and facilitate data-driven decision-making for stakeholders on GCP.
+Developed and deployed analytical and corporate applications leveraging machine learning frameworks like Spark MLlib, Mahout, and Python libraries including Pandas, NumPy, and Scikit-learn on GCP to derive actionable insights from data. Utilized Python extensively for data manipulation and analysis tasks.
+Implemented and managed NoSQL databases such as MongoDB, HBase, Cassandra, and DynamoDB on GCP to store and retrieve large volumes of unstructured data efficiently. Utilized Terraform to provision and manage these databases.
+Led data migration projects to move on-premises data (including Oracle, SQL Server, DB2, MongoDB) to cloud platforms using Azure Data Factory, AWS Glue, and other data migration technologies, extensively using GCP for cloud storage and processing.
+Orchestrated workflows and scheduled data processing tasks using tools such as Oozie, Airflow, Crontab, and Shell scripts on GCP to ensure timely and reliable data processing. Developed custom automation scripts using Python and Terraform.
+Demonstrated proficiency in working with multiple relational database management systems (RDBMS) including SQL Server, Oracle, MySQL, and PostgreSQL, and developed ETL processes using SQL Server Integration Services (SSIS), PL/SQL, and T-SQL, integrating with GCP for enhanced data processing capabilities.
+Utilized Python to develop data-driven applications, perform data cleaning, and automate data processing workflows on GCP. Employed Terraform to automate infrastructure provisioning and management, ensuring efficient and repeatable deployments.
+Leveraged Terraform to create and manage infrastructure as code on GCP, improving deployment efficiency and infrastructure consistency. Developed Python scripts to enhance Terraform automation and integrate with other tools.
+Technical Skills:
+
+Category
+Skills
+Programming Languages
+Python, SQL, Scala, Java
+Cloud Platforms
+AWS (Redshift, S3, Glue, EMR, Lambda, DynamoDB, Kinesis, Athena, EC2, RDS, SageMaker, CloudWatch), GCP (BigQuery, Composer, Dataflow, PubSub)
+Big Data Technologies
+Hadoop, Spark, Kafka, PubSub
+ETL Tools
+AWS Glue, Apache Airflow, Talend
+BI Tools
+Tableau, PowerBI, Looker, QuickSight, ThoughtSpot
+CI/CD Tools
+Jenkins, CircleCI, GitHub Actions
+Infrastructure as Code
+Terraform, Ansible, CloudFormation
+Data Modeling
+Snowflake, Redshift, MySQL, PostgreSQL, Oracle
+Monitoring and Logging
+DataDog, CloudWatch
+Other Tools
+Alation, Avro, Jenkins
+Machine Learning and AI
+Hands-on experience with AWS Sagemaker
+DevOps Practices
+Experienced with integrating DevOps practices into data engineering pipelines and projects
+Additional Skills
+Advanced SQL, data wrangling, data catalog tools, real-time data ingestion, data quality techniques
+Professional Experience:
+
+Sr. Data Engineer United Health, Texas Contract Feb2022- Present
+UnitedHealth Group in Texas is a prominent healthcare organization offering a wide range of services including health insurance, healthcare technology, and pharmacy services. They focus on improving healthcare outcomes through innovative solutions and patient-centered approaches. UnitedHealth Texas is part of a larger network committed to advancing healthcare delivery and improving the quality of life for individuals and communities across the state.
+Responsibilities:
+At United Health, I developed a scalable data lake and analytics pipeline for patient health data using AWS technologies. This involved setting up AWS S3 for data storage, designing ETL processes with AWS Glue, transforming data with PySpark, and loading it into AWS Redshift for efficient querying. I also created interactive Tableau dashboards for real-time and historical data insights. This project improved data accessibility, reduced manual intervention, and enhanced operational efficiency by 40% while ensuring compliance with HIPAA regulations through robust data security measures
+Design, develop, and automate big data applications using the latest open-source technologies, including Apache Airflow, Apache Hive, Apache Spark, and Apache Kafka, while leveraging Google Cloud Platform tools like Dataproc, GCS, and BigQuery.
+Designed and implemented a scalable data lake on AWS S3 to store raw and processed health data Configured S3 bucket policies and lifecycle rules for data organization and cost management.
+Developed ETL pipelines using AWS Glue to extract data from medical devices, EHR systems, and external health repositories.
+Configured AWS Glue crawlers to automate schema inference and data cataloging.
+Created PySpark scripts within AWS Glue for data cleaning, normalization, and enrichment.
+Implemented business logic to transform raw data into structured formats suitable for analysis.
+Loaded transformed data into AWS Redshift for efficient querying and analysis.
+Designed Redshift schemas optimized for analytical workloads.
+Used AWS Kinesis for real-time data ingestion and processing.
+Integrated AWS Lambda functions to trigger real-time data transformation and loading tasks.
+Configured and managed AWS Redshift clusters, ensuring optimal performance and scalability.
+Developed stored procedures and SQL scripts to manage data within Redshift, including partitioning and indexing.
+Scheduled batch ETL jobs using AWS Glue and AWS Step Functions.
+Ensured timely data refreshes in Redshift and S3.
+Implemented data validation and quality checks within the ETL processes using AWS Glue and custom PySpark scripts.
+Create and maintain logical and physical data models for big data platforms, ensuring optimal data processing and storage, with hands-on experience in distributed data processing platforms such as Hadoop and data lake schema design.
+Lead the development and maintenance of data pipelines in Google Cloud Platform, providing ongoing enhancements and participating in on-call support, while also mentoring junior engineers and sharing domain knowledge within the team.
+Manage and prioritize tasks using JIRA, participate in daily standups and design reviews, and implement Gitflow practices with continuous integration tools such as Bamboo, Jenkins, or TFS to ensure efficient development workflows.
+Practice test-driven development and work within Agile methodologies, delivering high-quality solutions on multiple competing priorities with excellent communication skills and minimal supervision.
+Developed automated testing frameworks to ensure data accuracy and consistency.
+Ensured compliance with HIPAA regulations by implementing IAM roles and policies to control access to S3 buckets, Glue jobs, and Redshift clusters.
+Enabled encryption for data at rest and in transit using AWS KMS.
+Set up monitoring and logging for ETL processes using AWS CloudWatch.
+Created CloudWatch alarms to notify of ETL job failures or performance issues.
+Implemented cost optimization strategies for AWS services, including data lifecycle policies for S3 and reserved instances for Redshift.
+Monitored and optimized ETL job costs using AWS Cost Explorer.
+Integrated various data sources into the data lake, including IoT devices, third-party APIs, and on-premise databases.
+Developed connectors and APIs to facilitate seamless data flow.
+Collaborated with data scientists to integrate machine learning models for predictive analytics using Amazon Sage Maker.
+Deployed models to analyze patient health data and provide actionable insights.
+Created interactive dashboards in Tableau to visualize patient health metrics and system performance.
+Developed custom reports to monitor key performance indicators (KPIs) such as patient outcomes and treatment effectiveness.
+Documented all ETL processes, data models, and system architectures. Conducted training sessions for team members on using AWS services and best practices for data engineering.
+Data Engineer Deutsche Bank, Florida Contract April 2020- Dec 2021
+
+Deutsche Bank, headquartered in Frankfurt, Germany, is a leading global investment bank with operations spanning over 70 countries. It provides a comprehensive range of financial services including investment banking, asset management, and private banking. Known for its robust global presence and extensive client base, Deutsche Bank is committed to innovation and digital transformation in the financial sector
+
+Responsibilities:
+
+Architected and implemented scalable data processing pipelines using Google Cloud Dataflow, enhancing data processing efficiency by 40%.
+Designed and deployed data storage solutions using Google Cloud Storage, optimizing access times and ensuring data durability with regional and multi-regional storage options.
+Developed and managed ETL processes in Google BigQuery, enabling rapid data analysis and reporting for large datasets, reducing query times by 50%.
+Automated infrastructure provisioning and configuration using Google Cloud Deployment Manager and Terraform, improving deployment consistency and speed.
+Migrated legacy systems to Google Cloud Platform, reducing infrastructure costs by 30% and improving system reliability.
+Configured and optimized Google Kubernetes Engine (GKE) for containerized applications, enabling seamless scaling and improved resource utilization.
+Implemented CI/CD pipelines using Google Cloud Build, streamlining the development lifecycle and reducing deployment times by 40%.
+Enhanced application monitoring and performance using Google Cloud Operations Suite (formerly Stackdriver), leading to a 30% reduction in system downtime.
+Designed and implemented secure and efficient networking solutions with Google Cloud Virtual Private Cloud (VPC) and Cloud Load Balancing, improving application availability and performance.
+Managed identity and access control across Google Cloud services using Google Cloud Identity and Access Management (IAM), ensuring compliance with security policies.
+Built and maintained data lakes using Google Cloud Storage and BigQuery, enabling advanced analytics and machine learning use cases.
+Deployed and managed machine learning models on Google AI Platform, accelerating model training and deployment processes.
+Configured Google Cloud Pub/Sub for real-time messaging and event-driven architectures, improving system responsiveness and scalability.
+Automated data integration and orchestration using Google Cloud Composer (based on Apache Airflow), improving data workflow efficiency.
+Optimized costs and resource allocation using Google Cloud's Cost Management tools, achieving a 20% reduction in cloud expenditures.
+Developed serverless applications using Google Cloud Functions, reducing infrastructure overhead and improving deployment speed.
+Implemented comprehensive data security and encryption strategies using Google Cloud Key Management Service (KMS) and Identity-Aware Proxy (IAP).
+Configured and managed hybrid cloud environments using Google Anthos, enabling consistent operations across on-premises and cloud infrastructures.
+Improved disaster recovery capabilities using Google Cloud Backup and Google Cloud Spanner, ensuring minimal data loss and high availability.
+Monitored and optimized application performance using Google Cloud Monitoring and Google Cloud Trace, resulting in a 30% improvement in response times.
+Deployed and managed cloud databases using Google Cloud SQL and Google Cloud Firestore, enhancing data management and application reliability.
+Implemented data governance and compliance solutions using Google Cloud Data Catalog and Cloud DLP, ensuring secure and compliant data management.
+Configured Google Cloud Interconnect for high-bandwidth, low-latency connectivity between on-premises infrastructure and Google Cloud, enhancing hybrid cloud performance.
+Led the implementation of real-time analytics solutions using Google BigQuery and Google Cloud Data Studio, enabling data-driven decision-making.
+Provided technical leadership and mentorship on Google Cloud best practices, improving team proficiency and ensuring successful cloud adoption.
+
+AWS Data Engineer TMS First, Hyderabad Aug 2017- Dec 2019
+TMS (Total Maintenance Solutions) is a company specializing in comprehensive facilities management and maintenance services. The company focuses on maximizing operational efficiency, minimizing downtime, and ensuring regulatory compliance through its range of services, including HVAC maintenance, electrical systems management, and building automation.
+Responsibilities:
+
+Designed and implemented scalable ETL processes using AWS Glue and Python for catalog screening from AWS Redshift to S3.
+Managed and optimized large-scale distributed systems using AWS EMR, Redshift, and other big data technologies.
+Integrated data from multiple sources, leveraging AWS services such as DynamoDB, Lambda, and Kinesis.
+Ensured data quality and integrity through comprehensive testing and validation processes.
+Developed Terraform configurations to provision and manage AWS infrastructure, ensuring consistency and repeatability in resource deployments.
+Implemented Infrastructure as Code (IaC) using Ansible for configuration management and automation of cloud resources and deployments.
+Created and maintained cloud architecture diagrams and documentation representing the cloud ecosystem.
+Implemented continuous integration and deployment (CI/CD) pipelines using tools like Jenkins or AWS CodePipeline to automate software delivery processes.
+Provided oversight and support of the cloud data management strategy, systems, and techniques.
+Collaborated with cross-functional teams to develop and deploy data solutions that met business needs.
+Worked on real-time data ingestion using GCP PubSub, Kafka, Spark, or similar technologies.
+Developed and optimized Thought spot solutions to meet business needs.
+Conducted workshops and created live boards in Thought Spot to facilitate better data visualization and decision-making.
+Designed and set up an Enterprise Data Lake to support various use cases, including storage, processing, analytics, and reporting of voluminous and rapidly changing data using AWS services.
+Utilized a suite of AWS services including S3, EC2, AWS Glue, Athena, Redshift, EMR, SNS, SQS, DMS, and Kinesis for efficient data management and processing.
+Extracted data from multiple sources (S3, Redshift, RDS) and created various tables and databases in the Glue Catalog using Glue Crawlers.
+Developed AWS Glue crawlers for crawling source data in S3 and RDS, facilitating seamless data ingestion.
+Implemented multiple Glue ETL jobs in Glue Studio, performing diverse transformations and loading processed data into S3, Redshift, and RDS.
+Created and utilized Glue Data Brew recipes in various Glue ETL jobs for enhanced data transformation capabilities.
+Designed and developed ETL processes in AWS Glue to migrate data from external sources like S3 and Parquet/Text Files into AWS Redshift.
+Leveraged AWS Glue Catalog with crawlers to retrieve data from S3 and performed SQL query operations using AWS Athena.
+Written PySpark jobs in AWS Glue to merge data from multiple tables, utilizing Crawlers to populate AWS Glue Data Catalog with metadata table definitions.
+Employed AWS Glue for data transformations and AWS Lambda to automate processing workflows.
+Used AWS EMR to transform and transfer large volumes of data into and out of AWS S3.
+Created monitors, alarms, notifications, and logs for Lambda functions and Glue Jobs using AWS CloudWatch, ensuring robust monitoring and alerting mechanisms.
+Conducted end-to-end architecture and implementation assessments of AWS services such as Amazon EMR, Redshift, and S3.
+Analyzed data extensively using AWS Athena to run queries on processed data from Glue ETL jobs, and utilized QuickSight to generate business intelligence reports.
+Employed AWS DMS to migrate tables from homogeneous and heterogeneous databases from on-premise to AWS Cloud.
+Designed and implemented Kinesis Data Streams, Kinesis Data Firehose, and Kinesis Data Analytics to capture, process, and store streaming data into S3, DynamoDB, and Redshift for comprehensive analysis.
+Developed Lambda functions to trigger AWS Glue jobs based on S3 events, enabling event-driven data processing workflows.
+
+Data Analyst Sonata Software, Bangalore Sept 2015-July2017
+
+Sonata Software is a Bangalore-based global technology firm specializing in IT consulting, software development, and outsourcing services. It caters to diverse industries such as travel, retail, healthcare, and software products. Sonata excels in digital transformation, data analytics, cloud computing, and enterprise mobility solutions.
+
+Responsibilities:
+
+Architected and implemented Azure-based cloud solutions, including virtual networks, storage accounts, and Azure Active Directory, to enhance security and scalability.
+Developed and optimized Azure Data Factory pipelines for seamless data integration and transformation across multiple sources.
+Led the migration of on-premises databases to Azure SQL Database, resulting in a 30% improvement in performance and a 40% reduction in operational costs.
+Designed and deployed containerized applications using Azure Kubernetes Service (AKS) for efficient workload management and scaling.
+Configured and managed Azure Virtual Machines, ensuring high availability and disaster recovery with Azure Site Recovery and Azure Backup.
+Integrated Azure DevOps pipelines for CI/CD, enabling automated deployment and testing across development environments.
+Implemented Azure Functions for serverless computing, reducing infrastructure management overhead and optimizing resource utilization.
+Managed Azure Storage solutions, including Blob, Table, and Queue storage, ensuring data durability and high availability.
+Designed and deployed Azure Cosmos DB for globally distributed, multi-model database needs, improving application performance and data availability.
+Optimized Azure Cost Management and Billing, achieving a 25% reduction in cloud expenditures through effective resource management.
+Developed Azure Logic Apps for automating workflows and integrating disparate systems, streamlining business processes.
+Configured and maintained Azure API Management, enabling secure, scalable, and reliable API consumption for internal and external users.
+Built and maintained Azure Data Lake Storage, facilitating efficient big data analytics and storage for high-volume datasets.
+Monitored and improved application performance using Azure Monitor and Azure Application Insights, enhancing user experience and system reliability.
+Implemented Azure Cognitive Services, including Azure AI and Machine Learning, to develop intelligent applications with enhanced capabilities.
+Deployed and managed Azure Virtual Networks (VNet) and Network Security Groups (NSG) to ensure secure and efficient network architecture.
+Automated infrastructure deployment using Azure Resource Manager (ARM) templates and Azure CLI, reducing setup time by 50%.
+Leveraged Azure ExpressRoute to establish secure, low-latency connections between on-premises infrastructure and Azure, enhancing hybrid cloud performance.
+Configured and managed Azure Identity and Access Management (IAM), ensuring compliance with corporate security policies and regulatory standards.
+Developed comprehensive disaster recovery and business continuity plans using Azure Backup and Azure Site Recovery, ensuring minimal downtime and data loss.
+
+Education:
+
+Bachelor in Computer Science at C.R.Reddy College of Engineering.
+
+Project:
+
+Streamlined Management for Medical Equipment Rentals
+Contact this candidate

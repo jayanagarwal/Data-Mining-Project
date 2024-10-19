@@ -1,0 +1,183 @@
+PROFESSIONAL SUMMARY
+Over * years’ experience in iOS mobile application development experience
+Extensive use of Apple and third-partyframeworks and tools for storing data persistently such as, CoreData, Documents Directory, NSUserDefaults, pLists, Settings Bundle, Codable Protocols, and the Keychain
+iOS expertise includes Storyboarding, Core Data, Internationalization and Localization, iBeacon Bluetooth Low Energy (BLE), Unit Testing, over-the-air Ad Hoc App Distribution, in-app purchase, ad and analytics integration, Auto Layout, Apple Push Notification, SwiftUI, and Combine reactive programming
+Fluent in the operation of RESTful API and web services utilizing NSURLSession and parsing responses using Codable/NSJSONSerialization for JSON data
+Experienced in design and development for frontend UI/UX utilizing Storyboards, XIBs, and programmatic means in conjunction with Size Classes and Auto Layout Constraints
+Experienced in organizational programming through the MVC and MVVM structures
+Fluent with data persistence though means including User Defaults, Core Data, Cloud Storage, and other databases
+Insightful experience in Swift, C, C++, and Objective-C, Object-Oriented Programming techniques and APNS, PHP and Shell scripting
+Excellent track record of designing and implementing flexible solutions in Mobile IOS application Development using UIKit, SwiftUI, and Core Foundation with Cocoa touch
+Extensive work with design patterns such as MVC, MVVM, VIPER, KVO, KVC, Singleton, Delegate, Observer/Notification, Adapter, Factory, Façade, etc.
+Skilled in troubleshooting and testing using LLDB, NSLog & print statements, breakpoints, and Instruments
+Proficient in source control with Git and SVN and use of third-partyGUIclientssuch as SourceTree, Tower, and GitHub
+Experience in CocoaPods and CocoaTouch frameworks for iPhone and iPad applications development using XCode IDE, iOS Simulator and Interface Builder
+Good hands on experience with Frameworks such as: iPhone SDK, UIKit, MapKit, Speech, AVFoundation, CoreData, CoreLocation, Social, XCTest, Alamofire, SDWebImage, QuartzCore, Crashlytics, Core Bluetooth, Core Graphics, AppKit, and CoreMotion
+Contributed problem-solving analysis and recommended solutions within the guidelines of the project and following best practices to iOS app development, such as scalability, re-usable code, and consistency
+Experience working with in-app purchase iOS application for the iPhone/iPad along with distinct marketing-based iOS applications enhancing sharing through social networks and email
+Excellent communication, organizational skills, attention to detail and the ability to meet tight deadlines
+
+TECHNICAL SKILLS
+Languages
+Swift, Objective-C, C/C++, Python Assembly, Unix, MatLab, VisualBasic, Verilog
+Databases
+Core Data, SQLite, MySQL, NoSQL
+Frameworks
+CocoaPods,AFNetworking, AVFoundation, MapKit, Core Location, Reachability, UIKit, EventKit, GCD, Keychain, Core Data, SwiftUI, Combine
+Version Control
+SVN, GIT, SourceTree, Tower, Command Line / Terminal, GitHub, Bitbucket
+IDEs
+XCode, Visual Studio, Android Studio
+Architecture Patterns
+MVVM, MVP, MVC, VIPER, Coordinator
+Project Management Tools
+JIRA, Confluence, KanBan, Redmine, Basecamp, Slack
+Methodologies
+PSP, SCRUM/AGILE, TDD
+Testing Methods
+Unit Testing, XCTest, Automated Testing
+Continuous Integration
+Jenkins, Travis, Hudson, TestFlight
+
+PROFESSIONALEXPERIENCE
+
+iOS App Developer
+Client: Arby’s
+Sandy Springs, GA
+Period: August 2020 to Present
+https://apps.apple.com/us/app/arbys-fast-food-sandwiches/id1348507359
+We Have The Meats™. Wait. Now, you have the meats. Order online from participating Arby’s restaurants — right from the app.
+
+Utilized XCode IDE to develop the app in Swift 5 with MVVM architecture
+Migrated significant portion of the code base from UIKit to SwiftUI integrating the two with UIHostingViewcontrollers and UIViewRepresentable protocols
+Established ViewBuilder factory patterns for View reusability around the application
+Created a variety of custom view modifiers to reshape views and simplify code, both reducing individual code in views and modularizing views as whole
+Key contributor to the products section of the app, selecting food items from the menu, detail pages for items, and selecting options screens to add to the cart
+Worked on the past orders page, itemizing past transaction history in a clear and easy to understand presentation
+Worked in MVVM architecture utilizing Combine as the communication flow throughout the app with publisher and subscriber communication
+Utilized a variety of property wrappers such as @State, @StateObject, @ObservedObject, @Binding, @Published throughout the app with Combine and SwiftUI for databinding
+Introduced and enforced consistent programming styles using SwiftLint
+Utilized URLSession to fetch RESTful API calls and decode data via the Codable protocols
+Utilized Keychain to securely store each user’s login information
+Utilized delegate calls and tags on textfields/buttons to populate appropriate content based on the textfield/button in the older UIKit interfaces
+Wrote Unit and UI tests with XCTest and XCUITest respectively to give optimal code coverage with a TDD approach
+Implemented localization of text for different regions around the world with languages such as French, Spanish, Turkish, and Korean
+Utilized Confluence to document the flow of the features using a flowchart and utilized JIRA for assigning and tracking tasks
+
+iOS Mobile Engineer
+Client: Trello
+New York, NY
+Period: August 2019 – August 2020
+https://apps.apple.com/us/app/trello-organize-anything/id461504587#?platform=iphone
+Manage any team project or task thanks to Trello’s boards, cards and checklists. Improve collaboration and productivity—join our community of 50 million registered users!
+
+Programmatic and Storyboard design for the elements on each page
+Directly worked with UI/UX designers using Zeplin with wireframes to implement new front-end features
+Directly contributed to scheduling of internal management of events including Town Hall event, Team meetings, individual events, and more
+Created a priority level and tagging system for events for participants to respond to identify the type and importance for them
+Refactored mobile integration to backend with RESTful APIs for finding other users as participants and add them as participants
+Directly worked with push notification as alerts of upcoming event through APNS and used Houston as a testing proxy on local machines
+Created early PoC for SwiftUI migrations down the road
+Worked on Network requests to make API calls with proper error and response handling
+Utilized URLSession with closure callbacks with the Result type to asynchronously update the UI with REST APIs and using Decodable protocol to serialize data
+Worked with MVVM-C architecture pattern for modularity and scalability
+Handled concurrency through the use GCD around the application scheduling tasks, optimizing background tasks by removing bottlenecks, and resolved memory leaks through the app with the Instrument’s Leaks tool
+Maintained high test coverage and ensured that all issues found by QA were fully addressed and resolved, as well as user experience improvements suggested by QA
+Used SourceTree for Git GUI with a continuous integration server (Jenkins).
+Github for source control follow GitFlow branching strategy
+Worked in an Agile environment following Test-Driven Development (TDD) methodology, using Git and Jenkins CI server
+
+iOS Developer
+Client: Kaiser Permanente
+Los Angeles, CA
+Period: August 2018-July 2019
+https://apps.apple.com/us/app/kaiser-permanente/id493390354
+Whether you're at home or on the go, the Kaiser Permanente app gives you a simple, secure way to manage your health — all in one place.
+
+Working in design and implementation phases
+Worked extensively with Objective-C and Cocoa frameworks
+Worked with UIKit Framework for the applications at hand
+Integrated a web-based content made with HTML5 on a Native app using WKWebView
+Customizing UIButtons and UITabBars to build user interface of the application using story board
+Working closely with a cross functional team of testers and developers
+Designed and implemented UI screens using AutoLayout in storyboards. Some of the views are custom views
+Testing the application on Device through Development Profile
+Responsible for designing an Intelligent Asynchronous Cache Manager to separate the UI code from Service Call Code
+Responsible for Creating Models and Services in conformance with the WSDL's provided
+Worked on web service calls, XML and JSON parsing included in the project
+Followed a work data flow principle for design and development
+Worked with GDB and Xcode for debugging
+Worked with GIT to checkout and update the codebase changes
+Beta testing of the application via test flight
+Publishing the application on App store and then pushing updates after every sprint release
+Designed the complete MVC flow for the application with UI components and controllers to be used for iPhone
+Developed critical tools for this project like customized navigation bar, page control and scroll view
+Added animation between UIViews for smooth transitioning and better user experience
+Reported progress/challenges to onsite project lead
+
+iOS App Developer
+Client: AAA
+Lake Mary, FL
+Period: August 2017-August 2018
+https://apps.apple.com/us/app/aaa-mobile/id310730297
+AAA Mobile improves on-the-go access to trusted AAA services including trip planning, discounts and roadside assistance. The mobile version of AAA’s TripTik® Travel Planner helps you find AAA Approved and Diamond Rated hotels, restaurants and attractions, and the ability to create and share itineraries between your desktop and mobile devices.
+
+Custom UI implemented with XIBs and Story boards as well and associated with appropriate reusable classes
+Segregated API Handler classes based on the Workflows, login services, user profile, search items
+Added animation between UIViews for smooth transitioning and better user experience
+Created model classes based on the business requirement
+Worked closely within a cross functional team of designers, developers, and testers
+Solved issues on different areas of the application
+Worked with GIT to checkout and update the codebase changes
+Worked with various CocoaPods to improve application features and framework usage
+Used Xcode and Storyboards to develop the screens for the application using MVC design pattern
+Developed the UI screens by integrating different Views and Windows to make them user friendly
+Coordinated with the design and development team to define the user interface (UI/UX) requirements for the application and develop the wireframes
+Implemented Storyboards including Auto-layout utilizing constraints and size classes and mixed with existing XIB files
+
+iOS App Developer
+Client: Opendoor -Buy & Sell Homes
+SanFran, CA
+Period: March 2016-July 2017
+https://apps.apple.com/ca/app/opendoor-buy-sell-homes/id1143708068
+With Opendoor, you can enjoy home buying on your terms. Everything you need to buy and sell your home is right here in the Opendoor app.
+Use the app to find, tour, and buy homes for sale across the U.S. — even get an offer on your current home. With an expert buying team on your side 7 days a week, and a simpler, more streamlined process, you’ll save time, hassle, and thousands in fees compared with the traditional process.
+
+Assisted in building app in Xcode with coding in Swift and Objective-C
+Worked with Objective-C and Swift hybrid codebase and applied bridging header files
+Implemented logic to connect to server to download document data using GCD
+Utilized MapKit, CoreLocation and MKAnnotations used to make UI tweaks on the MapView, and enhanced functionality
+Performed tests and identified and fixed bugs NSLogs, Breakpoints, Instruments and LLDB statements
+Implemented AFNetworking for back-end network communications to improve performance and asynchronous communications
+Created View Controllers both programmatically and with Storyboards using Interface Builder
+Integrated RxSwift to easily handle data on other windows
+Implemented Localization to attract a wider audience of customers based on languages
+Designed UI and Application flow created using UIKit and Core Graphics, with fully programmatic UI
+Implemented Push Notifications with APNS to send messages and alerts to users
+Installed frameworks and tracked dependencies using CocoaPods
+Installed Jenkins plugins to work along with X code to run the SDK for Continuous Integration to test the test cases written using XCTests
+Quality processes included Test-Driven Development (TDD), Unit Testing with tests written in XCTests and Scenario Testing with TestFlight
+
+iOSDeveloper
+Client: DigitalPour - Pocket Beer Menu
+Portland, OR
+Period: July 2014-March 2016
+https://apps.apple.com/us/app/digitalpour-pocket-beer-menu/id1103969692
+You've seen DigitalPour menus at your favorite bar, brewery, taproom and growler shop. Now your phone can too!Want to see what your local DigitalPour hangout has on tap? Just look them up on DigitalPour. You can see what’s on tap, what's in bottles & cans, how full the keg is serving sizes and prices. You can also get a glimpse of what is going to be tapped in the near future.
+
+Worked with team to fix bugs using NSLog statements, Breakpoints, and LLDB statements
+Enhanced UIs to present more content using Storyboards with AutoLayout constraints and Size Classes per design team specifications
+Worked with Push Notifications to notify users when certain events occurred such as certain beers becoming available for nearby locations
+Invoked RESTful web service data to retrieve information using AFNetworking from the location/beer database
+Applied CoreData for updating logged beers and their reviews, and for retrieving relevant information when logging new items
+Parsed JSON responses using NSJSONSerialization into NSObjects
+Worked with CoreLocation, MapKit, and MKAnnotations for displaying places on the map view.
+Used Git as code repository
+Used SourceTree for version control
+
+INTERNSHIP
+The Institute of Applied Sciences and Engineering
+
+EDUCATION
+Degree in Physics, University: Nacional Autonoma de Mexico (UNAM)
+Contact this candidate

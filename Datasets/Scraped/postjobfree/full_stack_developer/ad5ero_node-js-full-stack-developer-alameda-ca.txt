@@ -1,0 +1,79 @@
+RAM
++1-925-***-**** ad5ero@r.postjobfree.com
+PROFESSIONAL EXPERIENCE
+As a full-stack developer, I'm proficient in JavaScript, ReactJS, React-Native, Express.js, Node JS, Redux, RESTful, Mongoose, ReactJS Frameworks, AWS, load-balancer, SNS, SQS, Lambda Function, AWS bucket, HTML5, CSS3, XML, MongoDB, DynamoDB, Firebase, SAM, GIT and GitHub. Additionally, I have hands-on experience in AI, ML, Python, Java, C++, C, Swift, and MySQL. As a team leader, I managed a group of up to 14 software engineers, designed software systems, and architectures, developed and maintained code, launched app, monitored production. I collaborated with stakeholders, improved processes, mentored team members, and assisted with task planning. Additionally, I created CI/CD pipelines, solved business problems, and utilized tools like Confluence and Jira for task management. My role involved close collaboration with cross-functional teams to ensure project success and overseeing the design, development, and deployment of high-performance software. TECHNICAL SKILLS
+Web Skills HTML 4/5, XHTML, XML, CSS/CSS3, SASS, SCSS, JSX, EJS, JavaScript, Bootstrap, React, jQuery, jQuery UI, AJAX, JSON, Node, Express, NPM, MVC 5, REST, Web, API, MVC
+JavaScript Framework Angular, React, Redux, Node.js, Express XML Technologies XML, XML Schema, XSL
+Version Control Git, GitHub, Bitbucket, Terminal Commands, GUI git clients. Web & App Server IIS, Apache, WAMP, XAMP, MAMP, LAMP, Microsoft, Windows, Mac OS, Linux.
+APIs Facebook API, Google Charts API, Google Maps API, Spotify API, Firebase, Twitter API, Instagram API, WhatsApp API, Twilio API, Stripe API.
+RDBMS SQL Server, MySQL
+NoSQL MongoDB, DynamoDB, Firebase
+Testing Tools React Testing Library, JEST, and Chrome Developers Tool Operating Systems Unix/Linux, Windows Server, GNU, Mac OS. IDE Atom, Sublime Text, Dreamweaver, Notepad++, Eclipse and Visual Studio Code, XCode, WebStorm, PHPStorm.
+WORK EXPERIENCE
+GSA (General Service Administration) Washington DC Jun 2023 – Present Role: Sr. Software Engineer
+● Develop and maintain U.S. Federal vehicle management sites used by thousands of customers globally, including federal agencies like FEMA, FBI, and the Department of Homeland Security.
+● Contributed to the development of logic for different stages of the vehicle management cycle, including loading, inspection, unloading, pick-up, drop-off, and exchange.
+● Created the front-end interface for vehicle management, enabling functionalities such as pick-up, drop-off, and exchange
+● Engineered an offline vehicle management system capable of operating without a direct internet connection. Implemented caching mechanisms, and various APIs with Node.js for data manipulation logic.
+● Established an automatic email notification system trigger during vehicle pick-up, drop-off, and exchange events. Integrated SNS, S3 bucket, EJS template, and event loops to ensure seamless communication.
+● Designed a barcode license plate scanning system that involved both front-end and back-end logic. Implemented the scanning process using cameras, executed required logic on both ends, and stored results in an SQL database. Technologies Used: Nodejs, JavaScript, Express, NPM, NVM, Webpack, AWS, SNS, SQS, Lambda function, React, Redux, Redux thunk, Team, Zoom, GitHub, Jest, Postman, VS Code, Git, google meet, Jira, GSA library, Caching, queue, EJS OneMain Financial Evansville Oct 2021 – Jun 2023
+Role: Sr. Software Engineer
+● Developed a robust loan payment policy management system utilized by over 1 million users during secured or unsecured loan applications.
+● Implemented a highly anticipated system for managing both current and test policies. This allowed users to sync or isolate policies based on preferences, leading to a remarkable 500% increase in business team productivity.
+● Conducted automated stress testing for up to 1 million customers, ensuring system resilience under various conditions.
+● Automated the outdated legacy loan policy strategy management system from a sluggish Excel sheet to a web-based system. This eliminated manual processes in loan processing, resulting in a 1000% increase in team efficiency.
+● Significantly reduced company expenses related to customer data storage for millions of users by implementing data management techniques such as classification, cataloging, and employing different storage methods for active vs inactive customers.
+● Enhanced API call throughput by 50% through methods like eliminating redundant code, implementing caching mechanisms, and optimizing event performance. Technologies Used: Nodejs, JavaScript, Express, NPM, Webpack, DynamoDB, DB2, MQ, Dynamos, AWS, SNS, SQS, Lambda function, React, Redux, UI material, Team, Zoom, GitHub, Jest, Postman, Swagger, VS Code, Git, MuleSoft, Confluence, Jira skiplyn San Francisco Aug 2019 – Oct 2021
+Role: Sr. Software Engineer
+● Engaged in all phases of the application life cycle, encompassing design, prototyping, implementation, testing, and deployment of a robust web application.
+● Developed a robust mobile application for iOS, Android, and the web, handling restaurant orders for a customer base exceeding 100,000.
+● Implemented a system for receiving phone verification codes during sign-up, automating email receipts, and sending order status emails and notifications for customer orders.
+● Engineered a comprehensive Restaurant Point of Sale (POS) ordering system. This involved functionalities for viewing and canceling customer orders, accessing customer and order details, configuring POS settings (e.g., selecting sounds), and reviewing order and payment history.
+● Established a customer food ordering system, empowering users to search for nearby restaurants based on various criteria such as distance, rating, and opening hours. Customers could place individual or group food orders effortlessly.
+● Successfully integrated a third-party payment system to streamline the payment process for food orders.
+● Implemented a wireless printer connection feature supporting 25 different printer brands, including Star and Epson. This enabled automatic receipt printing whenever an order was received in the restaurant.
+● Played a pivotal role in task planning, application design, cross-team communication, and the seamless execution of a seed idea into a product utilized by thousands of customers.
+● Provided mentorship to engineers at all levels (junior, mid-level, and senior), actively contributing to the growth of the engineering team through interviews, recruitment, and hiring processes.
+● Supported in the testing and deployment of the application on servers hosted on AWS and other third-party service providers.
+● Maintained 24/7 server monitoring, promptly addressing any arising issues in real-time.
+Technologies Used: Nodejs, JavaScript, Express, NPM, Webpack, DB2, MongoDB, AWS, SNS, SQS, Lambda function, React, Redux, UI material, Zoom, GitHub, Jest, Postman, VS Code, Git, Jira, Confluence
+nativeCuzin San Francisco Dec 2017 – July 2019
+Role: Sr. Software Engineer
+● Built a comprehensive web application, handling both front-end and back-end development from the ground up, catering to microenterprise home kitchen operations for food order processing.
+● Implemented a user-friendly functionality enabling kitchen owners to add their home kitchens to the platform, providing details such as kitchen descriptions, food photos, prices, and operating hours.
+● Optimized storage for large-sized food photos in Amazon S3 with a mere 0.03 millisecond delay.
+● Developed a robust system for customers to search for home kitchens based on diverse criteria like distance, cuisine type, and operating hours.
+● Established an automated system for email and text notifications post a successful signup and user verification during login.
+● Integrated a 3rd party payment system for streamlined order payment processing.
+● Implemented a chatbot facilitating seamless communication between kitchen owners and their customers.
+● Developed a system allowing customers to place orders several days in advance, based on the availability specified by kitchen owners. Technology used: Nodejs, NoSQL, WebAPI, Router, Bootstrap, JavaScript, Express, NPM, Webpack, MongoDB, AWS, SNS, SQS, Lambda function, React, Redux, UI material, Zoom, GitHub, Jest, Postman, VS Code, Git
+CPO technology Los Angeles Jul 2017 – March 2018 Role: Software Developer
+● Developed an iOS application, including the backend, exclusively for UCLA students, offering a platform to discover free food options around the campus.
+● Implemented a vendor system enabling the addition of diverse food items with images and location details, either by selecting from the map or manual entry, all within the UCLA campus, along with a description for food pickup.
+● Integrated Google Maps API for efficient location services within the application.
+● Established a robust service capable of handling up to 100,000 students browsing vendors on campus.
+● Implemented a service allowing students to select vendors based on location, distance, and recommendations.
+● Created a system where students can recommend friends, leave comments, and add photos, enhancing the interactive and community-driven nature of the application. Technology used: Swift, Firebase, UIkit, GoogleAPI, VS Code, Git, GitHub Spectrum Los Angeles Sep 2016 – Jun 2017
+Role: Software Engineer
+● Designed and implemented an internal system for the team to review customer complaints and internet service requests.
+● Developed a system for customers to request internet service and file complaints, catering to over 500,000 users.
+● Implemented a search feature for customer service requests and complaints using phone numbers and emails.
+● Enhanced customer lookup efficiency by 20% through optimized search capabilities with phone numbers and emails.
+● Contributed to database optimization efforts aimed at efficiently storing data related to customer internet service requests.
+Technology used: Java, GitHub, VS Code, Git, XML, C++, Eclipse, Android SDK, Logcat, Monkey runner, Camera
+SejalIT Fremont Feb 2013 – Jun 2016
+Role: Software Engineer
+● Contributed to the entire application life cycle, including designing, prototyping, implementing, testing, and deploying a comprehensive web application.
+● Built both front and back ends from scratch, facilitating the posting of job openings, job searches, and communication through a chat box.
+● Implemented a search engine for job seekers, allowing them to search for jobs by category, title, location, and salary.
+● Established a system for posting new job openings on the site.
+● Implemented a data storage system for photos and required information in databases and AWS.
+● Designed and implemented a chat box system, enabling job seekers to communicate directly with stakeholders.
+● Created a message notification system, allowing job seekers to receive automatic texts on their phones when contacted via the website.
+● Assisted in testing and launching the application on servers hosted on AWS and other third-party service providers.
+● Monitored the server 24/7 and addressed any issues that arose in real-time. Technology used: Nodejs, Azure, Angular, jQuery, HTML, CSS, typescript, Jasmine, Cloud service, Bootstrap, JavaScript, GitHub, Jest, Git EDUCATION
+● UCLA Los Angeles, CA
+Computer Science
+● Peralta Community College Oakland, CA
+Associate Degree in Computer Science
+Contact this candidate

@@ -1,0 +1,138 @@
+Skills
+Duration
+Oracle DBA (**g to **c), Data Guard, Oracle Goldengate, Performance Tuning, Backup and Recovery, Troubleshooting, Security, RAC,
+8+ Years
+Linux, Solaris, Windows, AWR, ADDM, SQL/PLSQL, shell scripting
+8+ years
+Oracle 9i to 19c RAC/ASM/EXADATA
+8 +Years
+Oracle Database Appliance (ODA)
+2 +Years
+Transparent Data Encryption (TDE)
+5 +Years
+SQL Database, Maintain documentation for technical processes
+3+ Years
+HA solution, Streaming Replication, Setup logical Replication, configure Repmgr
+5+ Years
+Installed, configured, and managed PostgreSQL servers, PostgreSQL Version 10.x,11.x,12.x, 13.x
+5 +Years
+pgBadger, pgbouncer, Teradata, pg_basebackup, pgBackRest, pg_dump, pg_dumpall, pgAdmin 4,
+5+ years
+PostgreSQL Security, roles, group roles and row level security, privileges, Ansible
+5 + Years
+
+Professional Summary
+Over 8 and plus years of extensive experience as an Oracle/PostgreSQL database administration in production environment. I have knowledge and hands-on experience in database design, migration, upgrades, database security, backup and recovery, cloning, replication, monitoring and tuning. Goldengate and Dataguard. Experienced with most facets of oracle DBA day-to-day activities on production env. Database monitoring, Backup & Recovery using RMAN. Everyday activities include Database Security, Replication,PITR, Migration, Upgrades, Patch, Backup and Recovery and performance tuning.
+
+WORK EXPERIENCE
+HCL Inc. Nashville, TN June 2018 – present
+Oracle Database Administrator / SQL DBA
+
+ORACLE RESPONSIBITY
+
+Loading data from flat files to database using SQL*Loader, External Tables.
+Experiencing in Installing OEM 12c and 13c Cloud Control and upgrading the 11g management agents to 12c agents.
+Generated Statspack/AWR reports using OEM 12C from Oracle 11g database and analyzed the reports for Oracle wait events, time consuming SQL queries, tablespace growth, database growth.
+Extensively used AWR, ADDM and explain plan for periodic performance tuning.
+End to End Exadata Maintenance, troubleshooting hardware issues on Exadata.
+Implementing Datapump, conventional export/import utility of Oracle, 10g,11g, 12c amd.
+Used import/export utilities for cloning/migration of small sized databases and Datapump import/export to move data between 10g, 11g, 12c, 18c and 19c environments.
+Involved in construction of DR sites, configuring data-guard and Enterprise Failover Manager for Production environments, participated in scheduled switch over tests.
+Performed Database Refresh from Production to QA, UAT and Development databases.
+Implemented and managed optimum database design Databases/Schemas/Tables (tablespaces, data files, extents, redo logs, archive logs) and assessed database capacity by monitoring online storage, growth and file system space.
+Provided instance level performance monitoring and tuning for Event Waits, Sessions, Physical and Logical IO and Memory Usage.
+Experienced with ASM, adding, deleting disks to the disk group
+Extensive experience in RMAN recovery testing, successfully implemented Backup & Recovery using RMAN which includes hot backups and Cold backups for RAC and standalone database.
+Created a Clone Database using RMAN on remote Server and used SRVCTL commands for Real Application Cluster (RAC) Databases
+Installed and configured Oracle 12c, 18c, 19c database ..
+Knowledge in Oracle Data warehouse DBA skills relating to administration and management of OLAP environments, Oracle OLTP.
+Experience in writing UNIX/SHELL scripts for providing the reports.
+Installed and configured Oracle 11g, 12c, 18c and 19c databases on a test server using Oracle standard procedures and OFA, for performance testing and future 19c production implementation.
+Goldengate setup with parameterization, scaling and log dump utility for extract files.
+Maintain enterprise databases by scheduling installations of upgrades and patches to version 12c from 11g and 10g in accordance with established policies and procedures. Experience in application development with full knowledge of SDLC.
+SQL DATABASE, Design, develop and support relational database solutions in a Microsoft SQL Server environment
+Consult with internal and external stakeholders to establish project scope, system goals, and requirements
+Develop, test, and modify various SQL queries, Stored Procedures, SQL Agent Jobs, and ad-hoc and SSRS reporting
+Promote and recommend best practices to improve automation frameworks and processes, including maintenance issues, operation requirements,
+Maintain documentation for technical processes, procedures and training materials for applications, databases and systems
+Provide troubleshooting and technical support in order to ensure that technology adheres to system development methodology and policies
+
+POSTGRES RESPONSIBILITIES
+Installed, configured, and managed PostgreSQL servers and worked recently with PostgreSQL Version 10.x, 11.x and 12.x Community and Enterprise editions.
+Participated in a 3months Migration project from Oracle to PostgreSQL on premise and in AWS cloud using tools MTK, Ora2pg, AWS DMS & SCT to Migrate data/databases.
+Used Postgres native tools like pgBadger, pgpool/pgbouncer, PEM, as well as AWS feature like AWS performance Insight to tune my Postgres Databases running on-prem and in cloud.
+Backup PostgreSQL databases using tools like pg_basebackup for physical backups and pgBackRest for incremental and differential backups as well as pg_dump and pg_dumpall for logical backups and Refreshes.
+Setup EnterpriseDB Failover Manager (EFM) on a PostgreSQL server to monitor streaming replication Between Setup HA solution Streaming Replication (including cascading replication) between Master and two slaves on a PostgreSQL Server for disaster recovery, high availability, and load balancing.
+pg_stat_activity, Pg_view and AWS Cloud Watch alarm. Also use customs shell scripts deployed on crontab to monitor performance and resources.
+Performed Complete and PIT recovery on PostgreSQL cluster.
+Used AWS Management console to Configured and Managed PostgreSQL database instances on Amazon RDS.
+vacuum/vacuum full, Analyze, reindexing and monitor space utilization on pg_wal/pg_xlog.
+Used client-side applications like pgAdmin and psql to connect and manage PostgreSQL databases on-premise and on cloud.
+Create Security groups to control incoming and outgoing traffic from PostgreSQL Database Instances in AWS cloud.
+Create read replicas on Amazon RDS Postgres for read scalability.
+Automate daily full backup and Manual snapshot backups of PostgreSQl Advanced Server Databases running on cloud.
+Optimize postgres instances in AWS cloud Using native tool and AWS performance insight
+Setup logical Replication on a PostgreSQL Cluster to replicate specific tables and schemas, using publication and subscription.
+Upgraded PostgreSQL database servers from Version 10.x to 11.x and from 11.x to 12.x using pg_dump, pg_restore and pg_upgrade.
+Used pgcrypto to Encrypt data at rest and Secure socket layer (SSL) for data in transit.
+Served as RDS Database Administrator for Oracle and Postgres.
+Experienced in launching the PostgreSQL database on AWS RDS and EC2 instances from Console and CLICreated and used AWS Identity and Access Management (IAM) to maintain user accounts (IAM) and assigned restricted policies to users and groups as needed.
+Used AWS Data Migration Service (DMS) and Schema Conversion Tool (SCT) to migrate database and schemas/schema objects from local datacenters to RDS in AWS cloud as well as migration of database from oracle in RDS to PostgreSQL running on an EC2 instance in AWS cloud.
+Configured and managed AWS Glacier, to move old data to archives based on retention policy of databases/ applications (AWS Glacier Vaults).
+Monitored Resources and Applications using AWS Cloud Watch, Performance Insight, and Enhanced monitoring, including creating alarms to monitor metrics such as EBS, EC2, ELB, RDS, S3.
+Hands on experience deploying and configuring AWS VPCs, IAM Roles, S3 buckets, Jenkins, Ansible, CloudFormation and other services.
+
+Ingram Micro, Indianapolis, IN April 2016 – June 2018
+Oracle Database Administrator
+
+Configured Repmgr for streaming replication between primary and standby.
+Installed and configured PostgreSQL versions 9, 10, 11 and 12.
+Ran maintenance jobs like vacuum, reindexing on certain tables.
+Install pg_repack for vacuuming dead tuples and bloated tables.
+Performed minor and major upgrade of the PostgreSQL server.
+Rewrite and implemented a backup strategy following company SLA, execution of backup schedule for both physical backups using Pg_basebackup and Pg_backrest and Pg_dumpall and Pg_dump for logical backups.
+Supported daily administration, monitoring, tuning, and troubleshooting of clusters.
+Monitored CPU utilization, memory, Database Connections and storage space daily using pg_stat_activity, and Pg_view. Also use customs shell scripts deployed on crontab to monitor performance and resources.
+Done database migration from Oracle to PostgreSQL on premises and on AWS, using Ora2pg, DMS and SCT.
+Configuring third client software pgadmin4 and Dbeaver to access the PostgreSQL server.
+Revised logs for unusual events and performance issues and took appropriate actions.
+Implemented table and index partitioning to improve query speed.
+Participated in capacity planning meetings to meet the demands of the dynamic aspects of storage and memory for the databases.
+Configured and managed AWS Glacier, to move old data to archives based on retention
+policy of databases/ applications (AWS Glacier Vaults).
+Hands on experience on Ansible to automate repetitive tasks, quickly deploy critical application, and proactively manages change.
+Monitored Resources and Applications using AWS Cloud Watch, Performance Insight,
+and Enhanced monitoring, including creating alarms to monitor metrics such as EBS, EC2, ELB, RDS, S3
+Create users, roles and grant necessary privileges, revoke privileges and expire passwords as necessary.
+
+Autozone, Memphis, TN: March 2015 – April 2016
+Oracle Database Administrator
+
+Automated monitoring of databases, performance parameters, backup and recovery activities by running Cron jobs and customized various Unix Shell Scripts in sending Email for ORA- errors, reports for Quick Morning Check (QMC), automate routine DBA tasks of taking backups, exports, space usage monitoring, move Archive Logs to different mount point when Archive Destination is full and resync RMAN catalog.
+Worked with a team for installation and maintenance of ORACLE 10g RAC, ASM database for high availability.
+Performed Database replication from production to test/development environment Using RMAN, Data pump utilities and manually
+Installed Oracle and grid software on standalone servers on ASM and file system.
+Constantly monitor the performance (V$ dynamic performance views at peak load) of the Databases and viewing Alert log files & Trace files.
+Run SQL, PL/SQL scripts to check the status of databases such as growing table sizes, extent allocation, free space, used space, fragmentation etc.
+Performed space management, capacity planning, disaster recovery and overall maintenance of the databases.
+Created Physical Standby databases using RMAN with zero downtime, performed Failover and Switchover using Data Guard Broker and manually as and when required.
+Successfully performed data replication using Materialized views and Oracle Streams in Oracle 10gR2.
+Strong experience in SQL Server configuration, optimization, design, troubleshooting, support.
+
+POSTGRES RESPONSIBILTY
+Installing and Configuring PostgreSQL from source or packages on Linux machines.
+Experience designing database structures, indexes, views, partitioning. Implementing backup and recovery (Logical and Online).
+Controlling migrations of programs, data base changes, reference data changes and menu changes through the development life cycle.
+Setup and maintenance of Postgres master-slave clusters utilizing streaming replication
+Cross-datacenter disaster recovery and backup architecture
+Performing schema management, database sizing, maintaining privileges. Data migration while upgrading database versions ranging from 8.2 to 9.5.
+Extensive experience with Warm Standby (PostgreSQL 8.x and earlier), and Hot Standby (PostgreSQL 9.x and greater).
+Scheduled maintenance activities to vacuum, analyze to improve the query response time.
+pg_stat_activity, Pg_view and AWS Cloud Watch alarms. Also use customs shell scripts deployed on crontab to monitor performance and resources.
+EDUCATION
+Bachelor’s in chemistry (University of Buea)
+
+KINGSLEY TABOH
+Postgres DBA/Oracle DBA/SQL DBA
+513-***-**** / advy4u@r.postjobfree.com
+Contact this candidate

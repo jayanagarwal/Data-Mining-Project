@@ -1,0 +1,29 @@
+Alan Ni
+Experience
+Data Engineer II – Braze Nov 2021 – Present
+• Engineered and optimized a multi-petabyte data lake on Snowflake, reducing data analytics retrieval times by 4x by deploying the activity schema data model.
+• Authored internal data mart documentation and training materials that laid the foundation for Braze’s data architecture and data handling consistency.
+• Collaborated with Sales Op and marketing teams to integrate advanced analytical tools and machine learning models, enhancing predictive analytics capabilities.
+• Developed analytics activity schema for the product analytics team, combining and enriching 100s of tables into one session-based event level table, reducing developer time to create analytics by over 200%. Founding Data Scientist – Whiterock AI Mar 2021 – Nov 2021
+• First employee of the startup, developed AI products that granted Whiterock $1m+ funding at a valuation of $5m pre seed round as a 3 person team.
+• Deployed and deployed scheduled ETL pipelines in Google BigQuery and MongoDB.
+• Utilized GCP Composer to schedule robust daily airflow tasks for logging and data ingestion.
+• Optimized airflow tasks through data caching to reduce task times by 80% and increased stability.
+• Developed well documented PyTorch implementations of Residual neural networks and YOLOv5 architectures for object detection and facade image classification.
+• Designed Cloud Composer Airflow DAGs for schedule batch process jobs for data ingestion and updates.
+• Built object detection and image classification pipelines to identify the building materials, building quality, natural lighting, and window to building ratio for commercial and residential building images. Historical google street view images were used to back test models.
+Data Scientist – PNC Bank Incedo Inc. Jul 2020 – Dec 2020
+• Performed EDA using SQL, Hadoop, and Spark on hundreds of billions of data points on various PNC commercial loan products.
+• Pinpointed various inefficiencies and efficiencies for default collection contact paths by generating directed path analysis graphs.
+• Generated customer cohort neural embeddings for deep learning applications.
+• Distributed ML models to AWS RDS databases and played a crucial role in developing the data architecture for deploying end to end models.
+• Trained time series anomaly detection models by employing autoencoder LSTMs, tree boosting regression models, exponential smoothing, and FBProphet.
+Associate Data Scientist – Incedo Inc. Aug 2019 – Dec 2020
+• Designed, developed, and maintained end-to-end data pipelines, leveraging AWS S3 buckets for data storage, Postgres SQL to store preprocessed data, and Apache Airflow to automate entire pipeline.
+• Prototyped initial product for Incedo leadership team which eventually led to it becoming one of the two core Incedo products.
+• Applied standards, processes, procedures, and tools of an Agile development lifecycle.
+• Implemented and pushed for unit-testing and system level automation to reduce bugs in large codebase.
+• Constructed forecasting model wrapper classes such as feed forward neural networks, classical and tree regressions. Education
+New York University (NYU) Tandon School of Engineering – Bachelor of Science, Computer Science, 2014-2018 Skills
+Programming Languages: Python, SQL, C, C++, Java, PHP Databases: BigQuery, Hadoop, MongoDB, PostgreSQL, Oracle Database, MySQL, Amazon RDS Software: MS Visual Studio, MS Visual Code, Git, GCP, AWS, Airflow
+Contact this candidate

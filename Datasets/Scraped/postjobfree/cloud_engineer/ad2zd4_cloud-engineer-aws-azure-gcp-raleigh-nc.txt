@@ -1,0 +1,122 @@
+Toritseju Edema-Sillo
+Raleigh, NC
+347-***-****
+ad2zd4@r.postjobfree.com
+
+PROFESSIONAL SUMMARY:
+Dedicated IT professional that is highly dependable, a team player, with great organizational and time management skills.
+
+SKILLS & ABILITIES:
+Cloud Platform Proficiency: AWS, Azure, GCP.
+Operating Systems Proficiency: Windows, Linux (& Linux Distros).
+Active Directory – On-premises Active Directory, Azure Active Directory, ADDS.
+Ticketing Platform Proficiency: ServiceNow, Enterprise Service Platform
+BI Tools Proficiency: Tableau, Power BI, Excel.
+Database Proficiency: Snowflake, Azure Databricks, Google Big Query, AWS DBs
+Hypervisors Proficiency: VMware, VirtualBox, Parallels.
+Diagramming Tools: Draw.io, Lucid chart.
+Agile Platform Proficiency: Jira Kanban Board, Miro, SharePoint, Confluence.
+Repository Proficiency: Gitlab, GitHub, Bitbucket.
+Monitoring Tools Proficiency: Prometheus, Grafana, Nagios.
+Automation/IaC Tools Proficiency: Terraform, CloudFormation, Bash Scripting.
+Orchestration Tools Proficiency: Docker, Kubernetes, Helm.
+Industries Supported: Transportation, Healthcare, Retail, Manufacturing, and Software industries.
+Language Proficiency: English, Russian.
+
+WORK EXPERIENCE:
+ATSCALE (Boston, MA) Aug 2022 – Jan 2024
+
+Corporate Solution Engineer
+Duties:
+•Led a Team of Solutions Engineer assigned during POCs of product.
+•Conducted Technical training for internal team and customers for sale of Data modeling Application.
+•Engaged with Clients to discuss technical requirements and scope before, during and after POCs.
+•Created Technical documentation for several technical end-to-end implementations and configurations to be used by Solutions Engineers internally and for Client usage.
+•Actively led Debugging/Troubleshooting sessions for Clients during POCs Application Installations and end-to-end configurations with external Applications.
+•Served as the go-to SME for any Application Inquiry and troubleshooting errors encountered during and after POCs.
+•Configured Tableau Server from scratch and Configured SSL for Tableau server and SAML configuration for Tableau server using Azure AD as IdP.
+•Collaborated with DEVOPS and Professional services team to resolve client errors.
+•Configured Tableau Bridge for automated publishing and data refresh to Tableau Cloud.
+•Automated resource provisioning using Terraform for AWS, Azure and GCP
+•Created Terraform modules for several resources in AWS, Azure and GCP and integrated them for GitHub action trigger after every git push.
+•Deployed AtScale Semantic Layer Application in AWS EKS, Azure AKS and GKE.
+•Created Terraform scripts for the creation of EKS, AKS and GKE, where AtScale Application is deployed.
+•Deployed Application using Docker compose yml.
+•Built CI/CD pipelines on Azure DEVOPS that are resilient.
+•Created Data warehouses, databases, schema, and tables and loaded datasets into the tables in Snowflake.
+•Created dimensions, measures, calculated measures, and established relationships between fact tables and these dimensions and measures to create data models.
+•Automated VM creation using Terraform for installation of Semantic layer application.
+•Automated Application installation using Bash scripting.
+•Created Webhooks for AtScale Application using API Gateway serving as trigger for AWS Lambda that sends the event notifications to a Slack Channel and Email addresses as subscriptions in the SNS topic.
+•Configured LDAP/LDAPS, NTLM/Kerberos Authentication for Data Modeling Applications running in AWS, Azure, and GCP.
+•Configured TLS for AtScale’s Semantic/Data Modeling Applications running in AWS, Azure, and GCP.
+•Configured OKTA with SAML 2.0 as IdP for Data Modeling Application (SP) running in AWS, Azure, and GCP for SSO (Single Sign-On).
+•Created certificates using OpenSSL for self-signed certs and for Certificate Authority.
+•Configured connection of Semantic layer (Data Modeling) Application to Data warehouses like Snowflake, azure data bricks, Big Query, and Redshift.
+•Implemented continuous integration and deployment using the CICD pipeline.
+•Configured server monitoring leveraging Prometheus and Grafana.
+•Registered Domain name, request public certificate for domain and added DNS entries/records in Hosted Zone for custom domain used within AtScale’s Application’s YAML file.
+
+TATA Consulting services (TCS), End client Cisco Systems, Remote Jan 2022 – Dec 2022
+AWS Developer
+
+Projects Assigned:
+CISCO Systems – AWS Automation & Network Engineer (Secure cloud Interconnect - SCI Team)
+•Created VPCs, created public and private subnets, configured security groups and NACLs, configured internet gateways, and created Route tables.
+•Configured VPN connections with an on-premises network.
+•Configured Network and cloud security to connect spoke and Transit VPCs on the SCI portion through CCI GW to Cisco Enterprise Network.
+•Performed CSR failover testing of the spoke VPC to transit VPC using Terraform and established connectivity via POSTMAN.
+•Wrote and managed terraform script for the SCI and CCI gateway connectivity for AWS.
+•Built and documented the CICD pipeline creation Cisco’s pipeline domain.
+•Executed Prowler report in customers’ accounts.
+•Assigned to do Account discovery and Tech Validation
+•Configured Resource tagging for Managed services.
+•Configured CloudFormation stack for Cloud Assured Management (CAMS) SSO access.
+•Monitored and remediated Trusted Advisor security notifications.
+•Configured OS Patching for managed service.
+•Assisted with networking configuration to allow Nessus Tenable vulnerability scanning for the dev and prod servers in AWS.
+
+CURATIVE INC., Remote Nov 2017 – Dec 2021
+AWS Solution Architect/Engineer
+Duties:
+•Configured Call center Agent Quick connect.
+•Engaged with customer representatives to proffer improvements to their Amazon Connect infrastructure.
+•Troubleshoot and remediate contact flow errors.
+•Investigated Lambda error triggers received via CloudWatch Alarms.
+•Configured Agent Whisper for agent number change in different locations.
+•Created and implemented change request (CR) for Gitlab Push to prod for Amazon connect DynamoDB, prompts, and Agent whisper changes.
+•Created and implemented change request (CR) for Lambda and CloudWatch configurations changed via Terraform file in Gitlab and merged changes to trigger push to prod account.
+•Responded and remediated incident cases on ServiceNow.
+•Assisted with documentation of Knowledge based articles (KBs).
+•Wrote Terraform scripts and executed bash scripts leveraging Terraform provisioners like remote exec to automate infrastructure provisioning.
+
+CODEWEBIFY, Remote Sept 2016 – Oct 2017
+Data Analyst / AWS Solutions Architect
+•Created Architectural Diagrams based on organization’s security requirements.
+•Provisioned for Disaster recovery for S3 bucket using Cross-regional replication rule to create a source bucket and destination bucket.
+•Optimized Cost by leveraging the use of instance launch types like reserve and spot instances to critical and non-critical workloads, selecting EC2 instance type based on resource requirement, leveraging autoscaling groups, instance scheduler, S3 storage classes, and S3 lifecycle policies.
+•Leveraged Tableau to create high-quality dashboards for analysis.
+•Provided technical support for existing reports, dashboards, or other tools to disseminate information regarding reports, metadata enhancements, and tools using Tableau.
+•Analyzed and evaluated data from multiple data sources and reconciled anomalies to a create technical report that supported key business decision requirements.
+•Deep-dived into the company’s seasonal data trends to suggest possible ways of improvement to gain a competitive advantage.
+•Created and reviewed technical design documentation to ensure the accurate development of reporting solutions.
+•Analyzed new technological trends to identify markets for future product development and marketing.
+
+BUSINESS INTELLIGENCE PORTFOLIO:
+Tableau Public link to data visualization projects:
+https://public.tableau.com/app/profile/toritseju.edema.sillo
+
+EDUCATION:
+High School Diploma GED
+Lugansk Pedagogical University, Ukraine – Russian
+Millenial and Data Bootcamp (US) – Data Analysis using Tableau.
+
+CERTIFICATIONS:
+•AWS Solutions Architect – Associate Certification
+•AWS Cloud Practitioner Certification
+•Microsoft Azure Fundamental AZ900 Certification
+•CompTIA Security+ Certification
+•Scrum Master Certified (SMC)
+
+LinkedIn - https://www.linkedin.com/in/tedemasillo/
+Contact this candidate

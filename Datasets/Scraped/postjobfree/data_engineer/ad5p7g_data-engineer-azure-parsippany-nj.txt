@@ -1,0 +1,99 @@
+Akhil T LinkedIn: https://www.linkedin.com/in/akhiltab
++1-614-***-**** ad5p7g@r.postjobfree.com
+
+SUMMARY
+Azure Data Engineer with a potential and expertise in designing, implementing, and managing data solutions on the Microsoft Azure cloud platform.
+Skilled in developing and maintaining robust data pipelines using Azure Data Factory and Databricks, data wearhouses and Power BI ensuring seamless data flow between systems.
+Adept at collaborating with cross-functional teams to gather, analyze, and document business requirements for data integration projects.
+Has a strong proficiency in crafting intricate SQL stored procedures and deploying OLTP database solutions utilizing Microsoft SQL Server.
+Strong algorithmic programming skills combined with a focus on data quality, integrity, and accuracy.
+Committed to optimizing data processes and enhancing system performance to drive business success.
+Experience in leveraging Azure Storage for data storage and management, facilitating efficient data access and retrieval.
+Expertise in Talend Big Data and Talend Data Catalog for efficient ETL processes and comprehensive data cataloging.
+Snowflake certified data engineer with experience in creating snowflake pipelines for real time and batch processing.
+Strong command over Apache Spark and Python for scalable data processing and analysis.
+Familiarity with tools like Git/GitHub, JIRA, and Confluence for collaborative development and project management.
+Experience with real-time and batch processing methodologies for handling diverse data processing requirements using Kafka.
+Solid experience and understanding of Implementing large scale data warehousing programs and E2E data integration solutions on snowflake cloud.
+Knowledgeable about data cataloging strategies and their role in maintaining a structured and organized data environment.
+Strong advocate of Agile methodology for project management, contributing to iterative development and rapid delivery of data solutions.
+Exceptional collaboration skills, fostering effective communication within cross-functional teams to achieve project goals.
+Experience
+Sr Data Engineer -Arca Continental 04/2023-Till date
+•Demonstrated expertise in harnessing the capabilities of Azure cloud solutions, particularly Azure Data Factory, to architect and orchestrate intricate data pipelines.
+•Led the development and implementation of complex SQL stored procedures for OLTP transactions, ensuring efficient and accurate processing of third party delivery data.
+•Utilized Azure Databricks extensively for scalable data processing, leveraging Apache Spark to derive actionable insights from extensive datasets. Developed optimized Spark jobs for complex data transformations and predictive analytics, thereby enhancing decision-making processes.
+•Employed Python programming language to craft custom scripts and tools for data manipulation, cleansing, and enrichment. Integrated Python libraries for statistical analysis and machine learning, contributing significantly to the development of sophisticated analytical models.
+•Proficiently managed SQL databases within the Azure environment, focusing on designing and implementing efficient database structures to store and retrieve critical business data securely. This approach ensured data integrity, availability, and security, supporting optimized reporting and analytics.
+•Led initiatives aimed at enhancing trade promotion strategies by analyzing historical data, identifying trends, and applying predictive models. Contributions included the development of algorithms optimizing promotion allocation and increasing return on investment.
+•Played a pivotal role in cross-functional teams, collaborating effectively with data scientists, analysts, and business stakeholders. Skillfully communicated complex technical concepts to non-technical audiences, ensuring alignment between technical solutions and overarching business objectives.
+•Embraced Agile principles to drive iterative development cycles, adapting to evolving project needs and requirements to ensure timely project completion within dynamic environments.
+•Leveraged Snowflake's cloud-based architecture to enable scalable analytics, developing solutions capable of accommodating growing data volumes and evolving analytical requirements.
+Sr Data Engineer -Lowe’s companies inc. 09/2021-04/2023
+•Involved in Migrating multiple applications from Informatica, Hadoop/Hive Database to Talend, and Snowflake Database.
+•Created and maintained snowflake Realtime data pipelines which handles real time sales transactions using snow task, snow streams.
+•Developed data modeling solution using DBT to improve data consistency and accuracy, The project involved creating a comprehensive data model to represent complex data relationships and hierarchies, resulting a 30% improvement in data accuracy and streamlined reporting.
+•Successfully migrated all batch jobs responsible for processing data in Teradata to Snowflake, resulting in improved performance and cost savings for the company.
+•Load data into snowflake from internal storage and cloud storage using snow SQL.
+•Developed snowflake procedures for executing branching and looping.
+•Created monitors to monitor health of snow tasks, snow streams, error and reprocess tables for real time data ingestions.
+•Created multiple Talend jobs to load processed JSON files into Snowflake Variant columns of Incremental and History tables using External stages, file formats process and COPY commands.
+•Designed multiple jobs to extract inbound CSV and JSON files from different target locations.
+•Implemented Change Data Capture technology in Talend to load deltas to Snowflake Data Warehouses.
+•Involved in creating a CI/CD process to deploy Talend jobs with snapshot and release versions using GIT, Jenkins, nexus, and configured tasks/execution plans using TAC.
+•Proficient in implementing comprehensive data governance frameworks using Talend Data Catalog. Ensured adherence to data quality standards, compliance regulations, and data lifecycle management practices.
+•Successfully established end-to-end data lineage using Talend Data Catalog, providing clear visibility into data movement, transformations, and usage across the organization. Facilitated enhanced data traceability and impact analysis.
+•Involved in creation of all design review artifacts during project design phase, facilitate design reviews, capture review feedback.
+•Orchestrated file transfer framework from multiple Unix systems to cloud storage buckets using python
+•Worked on creating multiple release portfolio environments like Weekly, Biweekly, Monthly, Quarterly and came up with a standard Deployment process creating a single gateway to production along with environments for Unit, Regression and Performance testing.
+•Creating SQL queries for performing database operations and used multiple Talend features for performance tuning of ETL jobs.
+•Worked with cross functional teams and business owners to analyze requirements, designed, deliver project streams.
+•Experience with version control tools.
+Data Engineer- Inspire Brands 12/2019 – 09/2021
+•Utilized Azure Data Factory to orchestrate the extraction of sales data from various sources, including transaction databases and online sales platforms.
+•Implemented data integration pipelines to transform and aggregate sales data from multiple sources into a unified format suitable for analysis.
+•Employed PySpark for scalable data processing and analysis, leveraging distributed computing capabilities to handle large volumes of sales data efficiently.
+•Developed PySpark scripts to perform complex data transformations, including sales forecasting, customer segmentation, and product affinity analysis.
+•Architectured Snowflake data warehouse to store and manage structured and semi-structured sales data effectively.
+•Designed optimized Snowflake data schemas to support fast data retrieval and analysis for retail sales reporting and analytics.
+•Created interactive dashboards using Power BI to visualize sales performance metrics, including revenue, profit margins, and sales trends.
+•Integrated Power BI dashboards with Snowflake data warehouse, enabling real-time access to sales data insights for business stakeholders.
+•Utilized Azure Pipelines for automated deployment of data pipelines, PySpark scripts, and Snowflake database schema changes.
+•Implemented CI/CD pipelines to streamline the development, testing, and deployment of new features and updates to the sales analysis system.
+•Implemented performance tuning techniques to optimize PySpark jobs and Snowflake queries for faster data processing and analysis.
+•Designed the architecture to scale horizontally and vertically to accommodate increasing sales data volumes and user concurrency.
+•Created Airflow DAGs using python to orchestrate data pipelines of transportation and payroll systems.
+DATA ENGINEER, Microsoft, Wipro Technologies 08/2016 – 08/2019
+Analyzed and evaluated business rules, data sources, data volume and came up with estimation, planning and execution plan to ensure existing and updated architecture meets the business requirements.
+Participated in all phases of development life cycle with extensive involvement in the definition and design meetings, functional and technical walkthroughs.
+Created and managed Source to Target mapping documents for all Facts and Dimension tables
+Created and deployed physical objects including custom tables, custom views, stored procedures, and Indexes to SQL Server for Staging and Data-lake environment.
+Worked closely with stakeholders and Solution Architect for understanding the requirements and designing the overall ETL solutions which includes analyzing data, preparation of high level and detailed design documents, test plans, error-handling documents, and deployment strategy to build highly scalable, robust, and fault-tolerant system.
+Worked on on-call production issues- scrubbing, resolve spark query issues, workaround for defects within SLA duration.
+Managed the imported data from different data sources, performed transformation using Hive and Map- Reduce and loaded data in HDFS.
+In the mapping of all phases and including the design transformation phase in the management of map reduce and hive transformations.
+Utilized ADF components and services to create data driven workflows for orchestration, movement, and transformations.
+Managed data pipelines using azure devops and Visual studio.
+Recommended improvements and modifications to existing data and ETL pipelines.
+Actively involved throughout the SDLC Life cycle and managing task completion across all the implementation phases.
+Supported other Data Engineers, providing mentoring, technical assistance, troubleshooting and alternative development solutions.
+Created analytical visualizations using Tableau for data science team use cases across different domains and teams
+
+SOFTWARE ENGINEER, WIPRO TECHNOLOGIES 08/2014 – 07/2016
+●Worked on D365 development using C#, SAApi and Azure services.
+●Took thorough responsibility of strategy, sprint plan documentation, traceability matrix for Resource Scheduling Optimization module of D365 community.
+●Enhanced existing SAAPI framework.
+●Boosted environment setup time of Dynamics-365 installing multiple solutions (Field Services, Universal Resource Scheduling and Resource Scheduling Optimization) by enhancing existing code.
+
+Skills
+Big Data Ecosystems - Hadoop, HDFS, Hive, Spark, ADF, Data bricks
+Integration Tools - Talend, TAC, TMC, ADF
+Programming Languages - Python, C#.NET, C, C++, Java, scala
+Analytical Tools - SAS EM, SAS Studio, Tableau, MS Excel, Power BI
+CI Tools - Azure DevOps, GIT
+Development methodology - Agile/ Scrum
+Database - MS SQL, Snowflake, DB2, Oracle, Maria DB
+Defect tracking tools - VSTS, JIRA
+Analytics - RapidMiner, Tableau, Power BI
+Orchestration - Airflow, DBT, ControlM, Zeke
+Contact this candidate

@@ -1,0 +1,101 @@
+Alan Moss
+ad5rn1@r.postjobfree.com
+347-***-****
+SUMMARY
+Dynamic Computer Engineer with extensive experience in leading development teams, launching digital products, and developing innovative software solutions. Expert in Linux/Unix System Administration, network and database support. Experienced with creating Infrastructure as Code, and infrastructure management using AWS, GitLab, Ansible, Docker, Terraform and Kubernetes. Successfully implemented CI/CD Pipelines, enhancing system and code security and optimizing operational efficiency. Committed to driving innovation and contributing to organizational success through advanced technical skills and a proactive approach.
+EXPERIENCE
+SRE DevSecOps Engineer
+Spanish Moss Inc. 11/06/2023 – Present
+• Architect secure website infrastructures for AWS
+• Build and maintain infrastructures with Terraform and Ansible using repeatable scripts
+• Use AWS Secrets to access, manage and store sensitve information at rest
+• Containerized applications to be deployed with Kubernetes
+• Architect solutions to help ensure a smooth and secure development lifecycle
+• Create pipelines with Github Actions for security scans and deployments
+• Use GitHub dependabot to confirm code dependency compliance
+• Create GitLab pipelines to inspect, build, test and deploy websites in AWS
+• Create automation scripts in BASH and Python
+Alan Moss Page 1
+SRE DevOps Engineer
+Civicactions Inc 02/2020 – 10/2023
+• Developed/Supported multiple Department of Education Websites enhancing security and performance
+• Used Ansible to add IPv6 to all sites, making sites compliant with government mandates
+• Created site infrastructure using AWS Cloudformation, Ansible, Docker and Terraform
+• Created and maintained GitLab pipelines to build images for upload to the registry, build docker images for use in the CI pipeline, build application specific to target environment, run OWASP SAST security scans, run Cypress SAST/DAST tests, deploy to target environment and test the deployment
+• Created automation scripts to perform regular security scans/remediation using BASH and Python
+• Migration of Ansible playbooks to Terraform/Kubernetes.
+• Created Alerts for all sites using monitoring tools like StatusCake, Splunk and Cloudwatch
+• Troubleshoot and perform root cause analysis on complex issues, and implement preventative measures
+• Enhance infrastructure and website security with ClamAV, Fail2ban, firewalld, OWASP, OpenSCAP
+• SCAP (Security Content Automation Protocol) is U.S. standard maintained by National Institute of Standards and Technology (NIST). OWASP is a SAST tool.
+• Created Lambda functions for automated email forwarding, and email sender banning.
+• Maintain data backups to Disaster Recovery and Sanitized data for developers
+• Followed DevSecOps best practices
+DevOps Engineer Senior Infrastructure Engineer
+Cox Automotive – Dealertrack Inc 05/2015 – 07/2019
+• Maintained and Managed the Disaster Recovery Environment
+• Developed automation and integration scripts using Bash and RunDeck
+• Responsible for over 1200 high traffic Web and Application VMs
+• Monitored the environments using tools such as Nagios, Datadog, New Relic, Splunk
+• Supported thousands of VMs in a mixed Windows/Linux environment
+• Interfaced with Developers to improve the efficiency of the SDLC Alan Moss Page 2
+Senior Application Support Engineer
+NYSE - New York Stock Exchange 03/2010 – 05/2015
+• Support NY Stock Exchange Real Time Data websites and subscription data services
+• Responsible for site creation, installation, update, in Dev, QA, UAT and Production
+• Created Dashboards to monitor application, website and network performance
+• Responsible for troubleshooting issues in all environments
+• Maintained Disaster Recovery site
+• Developed scripts to automate everything possible
+• Provided training to Level 1 Engineers.
+• Administered, Supported and Utilized Monitoring tools such as Big Brother, Nagios, Spectrum, Gomez.
+• Work with Service Now and Jira Ticket Systems and Tidal Scheduler
+• Worked on Linux, Solaris, Windows, Citrix, Drupal, WebSphere, JBoss, Apache, Tomcat, IIS, CMS, SVN, MySQL, IBM TDS LDAP, DNS,VSFTPD. Work with 3rd party vendors System Admin Website Support Engineer
+Conde Nast Publications 10/2007 – 4/2009
+• Application and OS Support, for all of Conde Nast publications on the web, including development tools and site troubleshooting in a primarily Solaris, Linux, and MS Windows environment
+• Implemented and supported large Vertical & Horizontal Clusters, WebSphere, JBoss, Apache, Tomcat, Resin, Globally Accessed Websites
+• Supported Development and Content Management Tools such as ClearCase, and Teamsite/OpenDeploy, Confluence. Supported end user enhancement tools such as Akamai.
+• Administered LDAP, NFS, DNS, Samba, Veritas etc
+• Developed bash, Perl, scripts, and Browser based CGI Scripts. Developed task automation
+• Support developers and the applications they use
+• Used site-monitoring tools such as Nagios, KeyNote, FogLight, and NetCool
+• Used Ticketing Systems such as Test Director, Bugzilla System Administration Technical Support Application Development Spanish Moss Inc. 01/2004 – 10/2007
+• Performed System Administration, hardware, and application support as well as application development
+• Used MS Access and MySQL database tools as well as C, C++, Perl and Java
+• MS Windows and Solaris/Unix/Linux environments
+• Provided system support to businesses running critical fault tolerant applications
+• Designed and Implemented DR Environments
+• Designed, implemented, and supported Red Hat Linux clusters with RAID storage
+• Designed and implemented highly available Load Balanced websites
+• Performed Linux Kernel Tuning
+• Started working with AWS services
+Unix Cluster Admin Airport Systems Integration
+XYBASE Inc. 01/2002 – 1/2004
+• System Administration, Support, Installation, and Interface Development
+• Linux Advanced Server Cluster and Windows 2000/XP Configurations
+• Developed interfaces in Java using SOAP
+• Implemented and Supported RHAS21 clusters with Oracle DB Support in 3 locations
+• Completed Installations at Ft. Meyers Airport, Florida and Logan Airport, Boston Alan Moss Page 3
+Unix System Admin Trading Floor Support
+SOCIETE GENERALE 11/1997 – 1/2002
+• Front Office and Back Office Support, Backbone, and Trading Floor Support.
+• Supporting 200 users on the Trading Floors, with Market Data Applications, (ATW, PTW, Aspen, RG, Applix/Adfin, etc.) on a Triarch Backbone,
+• Supported Back Office users, hardware, applications, and network connectivity.
+• Sun Workstations (Ultra, and Enterprise Class Hosts) running SunOS, Solaris, Veritas Volume Manager and Cluster Server, EMC, or Sun ODS, and Citrix/Metaframe.
+• Designed and Implmented Disaster Recovery site including Disaster Recovery trading floor.
+• Performed: OS / Application upgrades,
+• Lead y2k compliance effort.
+• Deployed of new systems, managing jumpstart servers, Sendmail, NIS/DNS,
+• Performed backups with Legato Backup systems,.
+Unix System Administration C++ Application Development THOMSON FINANCIAL SERVICES 10/1995 – 10/1997
+• Unix System Administration and support of the Web Site
+• Support the Site Developers
+• Used Solstice Firewall I Firewalls, Sybase Data Base, DNS, Network Routing, and SMTP Gateway to Novell CC-Mail
+• Mixture of Windows 3.1, Windows 3.11, Windows 95, Windows NT, SCO Unix, and SUN Solaris X86
+• Web Site included 12 SCO Unix boxes and two SUN Netra SPARC Stations as firewalls
+• Designed, developed, and implemented administration tools
+• Used swatch, rdist, Perl, and shell scripts
+• Supported and enhanced the Thomson Munifacts C++ Product EDUCATION
+NYU Engineering
+Alan Moss Page 4
+Contact this candidate

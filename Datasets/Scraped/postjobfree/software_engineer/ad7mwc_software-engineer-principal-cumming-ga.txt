@@ -1,0 +1,196 @@
+Omprakash Arikeri
+
+Principal Software Engineer
+
+201-***-**** ad7mwc@r.postjobfree.com Cumming, GA
+
+Summary
+Over 22+ years of IT experience in providing services and solutions involving entire Software Development Life Cycle (SDLC) with OO Design and in development of web-based applications using Java/J2EE.
+Experience in Leadership, Managing and Mentoring teams.
+Experience in providing Distributed, Scalability & High Availability systems
+supporting up to ~50k/hr api requests with multi-instances of Microservice apps
+Experience in designing Fault Tolerance systems with Hystrix: Fallback Method
+and Circuit Breaker, Apache Kafka, Redis/Hazelcast Caching, Elastic Search.
+Cloud Solutions like OCP4, GCP, AWS EC2, Elastic Path.
+Frameworks like Apache Camel 2.2, Spring 4.0, Spring Boot 3.x, Struts 2.
+Experience in SOA (ESB), Docker, Kubernetes, REST API, Swagger, Splunk,
+JUnit, Mockito, JavaScript, SonarQube, AWS Lambda, S3, Elastic Beanstalk.
+Experience in WebLogic, Jboss, Jetty and Apache-Tomcat application servers.
+Experience in Oracle 9i/10g/11g, PL/SQL, MySQL, DB 2, MongoDB Atlas.
+Experience in ANT, MAVEN, GRADLE, JENKINS, JIRA, Confluence, Bamboo.
+Experience in CVS, SVN, Artifactory, Nexus, GITLAB, GITHub, BitBucket.
+Experience in Perl Scripting, Python, Shell scripting on UNIX and LINUX.
+Experience in UML modeling, Safe-Agile, Agile and Scrum methodologies.
+
+Education
+Bachelor of Technology (4 years engineering degree course) with specialization
+in Computer Science and Engineering from JNT University, Hyderabad, India.
+Master of Science in Computer Science from Georgia Tech (Ongoing).
+
+Technical Skills
+Frameworks
+Apache Camel 2.2, Spring 5.3.x, Spring Boot 3.x, Struts 2.
+Cloud Interfaces
+OCP, GCP, AWS, PCF (Pivotal)
+Document DB
+MongoDB 4.x, AWS Dynamo DB
+Cache Interfaces
+Elastic Search 7.3, Redis Cache 2.9
+Middleware
+Apache kafka 2.2, Weblogic 12c JMS, Mule-soft 3.0, AWS SQS
+Build Tools
+Maven, Gradle, Artifactory, Docker, Kubernetes
+Quality Tools
+Junit 5.0, SonarQube, Jacoco, JUnit, Mockito, Pendo, Selenium
+Languages
+JDK 17, JPA, Node JS, PL/SQL, SQL, JavaScript, CSS, XML, FreeMarker 2.3.x, jQuery4.0, ExtJs, Angular JS 9
+RDBMS
+Oracle 19c, MySQL 8.x, Postgres, DB2, JDBC, UDB – DB2.
+Application Servers
+Oracle WebLogic, JBoss, Apache Tomcat 9.0, Jetty
+Application Tools
+DBeaver, QUEST-TOAD, Eclipse, Intellij, STS, Dbvisualizer 6
+Methodologies
+TDD, Waterfall, Agile, Scrum Sprint: Stories grooming, planning, retrospective and planning releases.
+CI/CD
+JIRA, Jenkins, Jacoco, SonarLint, BitBucket, GIT, SourceTree
+Professional Experience
+
+UPS (Alpharetta, GA, USA) 12/2023 – Till Date
+Role: Principal Software Engineer
+Project(s): XOLT Modernization
+Responsibilities:
+Provide leadership to an organization in an agile environment.
+Manage concurrent projects and engineering staff to ensure project timing are met.
+Allocate resources as necessary to ensure success for all business requirements.
+Develop resource plans and ensure Teams have sufficient resources on time.
+Groom and plan stories alongside the Product Management team
+Providing critical engineering insight into approach, and cost/benefit.
+Utilize and build best-of-breed engineering practices for develop, automation (CICD)
+Ensure agile project plans are followed, evaluate team performance, Code Reviews.
+Build and maintain productive relationships within a matrixed organization.
+Use strong engineering decision-making to ensure a properly developed solution.
+Handle and prioritize customer escalations alongside new feature development.
+Define and track KPIs for the team.
+POC to implement between services with gRPC Protocol to achieve for HTTP2.0
+POC to implement Scatter-gather design patterns for XOLT microservices.
+Microservice apps as per functionality like Address, Rate, Shipping, Billing, Packing.
+Custom exception handling and Rest templates for APIs handling.
+Setup AZURE CI/CD builds to environments like PRE-PROD (DEV, TEST, QA)
+Support and deployment of Service Apps on OCP4 environments.
+Environment: SpringBoot 3.x(Microservices), Spring, Spring REST API, gRPC, HTTP2.0, Swagger, Apache Kafka, OCP 4, JDK 17, GitLab, SourceTree, Jenkins, JIRA, Confluence, Redis Caching, JavaScript, CSS, Gradle, Junit 5.0, Mockito, SOA (ESB). Intellij, Jacoco, Cucumber, SonarQuble, Sonar lint, Gherkins, Oracle 19c, IBM DB2.
+
+Fiserv (Alpharetta, GA, USA) 05/2023 – 12/2023
+Role: Technical Design Lead
+Project(s): EDD – ACH Deposits (CA State Government )
+Responsibilities:
+Use strong engineering decision-making to ensure a properly developed solution.
+Handle and prioritize customer escalations alongside new feature development.
+Define and track KPIs for the team.
+Design Online forms and process for Direct deposits.
+Design and develop Spring Boot projects for EDD claims processing.
+Design and develop SQL scripts for tables and views for CA EDD Client.
+Develop Spring Batch jobs to handle and processing deposits
+Custom exception handling and Rest templates for APIs handling
+Implementing Junit and Mockito test code coverage up to 85%.
+CI/CD Jenkins builds to environments like PRE-PROD (DEV, TEST, QA) and PROD
+Support and deployment of EDD application on OCP4 environments.
+Objectively evaluate team performance, Code Reviews.
+Environment: SpringBoot 3.x(Microservices), Spring, Spring Batch, Spring REST API, Swagger, OCP 4, JDK 17, GitLab, SourceTree, Jenkins, JIRA, Confluence, Hazelcast Caching, JavaScript, CSS, Gradle, Junit 5.0, Mockito, SOA (ESB). Intellij, Jacoco, Cucumber, SonarQuble, Sonar lint, Gherkins, Oracle 19c.
+
+Bank of Newyork Mellon (remote) 05/2020 – 05/2023
+Role: Technical Design Lead
+Project(s): DPX, MDDB, DPX-ETL Trade, Fincad, Solum-Xplain
+Vendors: Bloomberg, Markit, Icap, SD, Tullett, Refinitv, DPX
+Down Streams: BlackRock, Xentis, Eagle, Summit, InvestOne, IAS, Geneva
+Responsibilities:
+Lead and mentor a team of 10-15 people.
+Design and POC derivatives dataset processing.
+Design and develop Spring Boot projects for Market, Trade and Pricing derivatives.
+Develop Spring Batch jobs to handle multiple type of feeds
+Design and develop SQL scripts for tables and views for derivatives dataset.
+Create reference data and tables for Trade derivatives.
+Configure Redis cache for storing reference data in memory.
+Creating S3 templates with AWS client for interacting with AWS S3 cloud.
+Developing producers and consumers for dataset events using Apache Kafka.
+Custom exception handling and Rest templates for APIs handling
+Implementing micrometer trace id and span ids and code coverage up to 80%
+CI/CD Jenkins builds to different environments like DEV, TEST, QA
+Support and deployment of Xplain on banks App engine environments.
+Support and coordinate during releases and deployments on sprint releases.
+Sprint grooming, planning and retrospectives.
+Code Reviews and tuning application performance and alerting Splunk Logs.
+Environment: SpringBoot 3.x(Microservices), Spring, Spring Batch, Spring REST API, Swagger, Apache Kafka, AWS (CloudFront, S3, Lambda, Cloudwatch, Dynamo DB, SQS), Elastic Path 7.5.0, JDK 17, GitLab, SourceTree, Jenkins, JIRA, Confluence, Redis 2.x, JavaScript, CSS, Gradle, Junit 5.0, Mockito, SOA (ESB). Intellij, Jacoco, Cucumber, SonarQuble, Sonar lint, Gherkins, APP Engine, Oracle 19c, MongoDB 4.x
+
+ADP(Alpharetta, GA, USA) 05/2019 – 05/2020
+Role: Lead Java/J2EE Consultant
+Project(s): ADP Recruiting Management, Client and Associate Engagement
+Requirement gathering and design dynamic REST API Service Requests.
+Design and develop Replay service Spring boot with Kafka to Process service
+requests during down time.
+Create DB View queries upon request from Business and update VCRM
+Build Redis cache for required components and Build indexes for Elastic Search.
+Jira builds to different environments like FIT, IAT, IPE.
+Support and coordinate during releases and deployments on sprint releases.
+Sprint grooming, planning and retrospectives.
+Code Reviews and tuning application performance and alerting Splunk Logs.
+Implementing application health checks and API Doc using Swagger and Actuator.
+ADPRM – Requisitions, Candidate API, Job-application consumer, Candidate Relevance.
+Environment: AWS S3, Sovren, DataCloud, STS, JDK 1.8.x, Apache Camel 2.2, Apache Kafka 2.12, Camel-Swagger 2.20, Siebel DB, BitBucket, SourceTree, Jenkins, JIRA, Confluence, Angular JS 9, Redis 2.9, Elastic Search 7.3, JavaScript, CSS, Maven 3.5.4, Spring Boot 2.1.1(Microservices), Swagger, Junit4.0, Spring REST API, SOA (ESB), Rally central, Splunk.
+
+MagMutual(Atlanta, GA, USA) 04/2018 to 04/2019
+Role: Lead Java/J2EE Consultant
+Project(s): Agent Portal, Policy View, Media View, OwnerCircle, SF-CIS-Delphi DB, GL
+Responsibilities:
+Requirement gathering for new REST API services using Spring boot microservices.
+Create technical designs for spring boot projects for new requirements.
+Support and coordinate during releases and deployments on sprint releases.
+Sprint grooming, planning and retrospectives.
+Requirements discussion with for Service calls from DELPHI.
+Tuning application performance and alerting Splunk Logs and alerts to Slacker
+Implementing application health checks and API Doc using Swagger and Actuator.
+CI/CD integration of applications to AWS cloud on EC2.
+AWS deployment of Docker images and Orchestrating images using Kubernetes.
+Environment: Eclipse Photon, JDK 8.x, Sales Force, MuleSoft 3.0, Artifactory, GITHub, Jenkins, JIRA, Confluence, Angular JS 4, JavaScript, CSS, Maven 3.5.4, Spring Boot 2.1.1(Mircoservices), Swagger, Junit4.0, Apache Kafka, Apache-Tomcat 8.x, AWS(Elastic Beanstalk,EC2, S3), GCP, Spring REST API, SOA (ESB), DBeaver, MS SQL Server, Oracle 12c, Slacker, Splunk.
+
+LEASE PLAN(Alpharetta, GA, USA) 01/2015 – 04/2018
+Role: Sr.Java/J2EE Consultant
+Project(s): eRepair, License and Title, Vehicle Acquisition and LPD
+eRepair takes care of maintenance of vehicles leased by LP.
+License and Title is responsible for Registration of new vehicles purchased by LP
+Vehicle Acquisition deals with order processing by providing status at each stage.
+LPD is a dealer facing application which deals with claims.
+Responsibilities:
+Developing gateways and Entity services for SOA Framework (ESB).
+Design and development of Order workflows using business use cases.
+Creating and scheduling jobs for daily processes.
+Implemented jQuery Ajax calls to retrieve data on jsp pages.
+Developed JUnit and Mockito test cases for each service layer.
+Customizing velocity templates for emails to dealers.
+Mapping tables and creating HBM files.
+Marshaling / UnMarshalling JSON Objects.
+Talking to down-streams and creating release documents.
+Deployment and support of VA application in DEV, QA, UAT and Production.
+Moving applications to Google Cloud ( GCP ), AWS and using server clusters.
+Doing Code reviews and making Code base for each release in IBM RTC tool.
+Environment: Springs Frame Work 4.2.4, Spring security 4.0.1, Spring Boot, Struts 2 - 2.3.34, jackson 2.1.4, velocity 1.7, JDK 1.8.x, Eclipse Mars, GCP, AWS EC2, S3, Fargate, RDS, IBM DB2, iNavigator, PL/SQL, SQL, Hibernate 4.1.6, JSP and Struts 2 – Tag libraries, Bootstrap, jQuery 1.8.x, Angular JS 4, JavaScript, CSS, Maven 3.2.1, Junit4.0, SOA(ESB), REST API, Microservices, Kubernetes - Docker, Quartz 2.1.7, Apache-Tomcat 7.0, Jenkins, IBM JAZZ Team Source control and Websphere 8.0
+
+DIRECTV(Los Angeles, CA, USA) 11/2008 – 12/2014
+Role: Java / J2EE Developer
+Project: EPS - TRUE CLAIMS
+Processing claims for dealers for selling DTV Setup Box to clients.
+Responsibilities:
+Redesign of old application, developed sequence diagrams,
+Created architecture designs and mock up screens,
+Implementation of Springs framework (MVC)
+Developed SQL ORM mappings for DAO’s using iBatis.
+Developed the Ant scripts for build and deployment.
+Environment: Springs FrameWork 2.x (Core, MVC), Java/J2EE, Eclipse GALILEO, LDAP, CA SiteMinder, JDK 1.5.x, Oracle 11g, iBatis 2.3, HTML, JPA, PL/SQL, SQL, JSP – Tag libraries, servlets, jQuery, JavaScript, Log4j, CSS, UML, Ant, Junit, Windows XP, JVM, Scripting onSun Solaris (UNIX), CVS, Visio.
+
+Bank of America (Charlotte, NC, USA) 02/2001 – 11/2008
+Role: Java / J2EE Developer
+Projects: CED_CRT_XRF_XRT Production support and NRE – National Recovery
+Support and development of Financial disaster recovery application.
+Responsibilities & Environment:
+configured the Recovery module in the Struts framework, Developed reports for exporting to Excel and PDF with Java API, JDK1.3.1/1.4.x, J2EE (JSP1.2, Servlets 2.3, Java Beans), Jboss 4.0, Oracle 9i, Struts 1.2.x, Eclipse 3.1, log4j, Ant, Sub version, Shell Scripting on Sun Solaris, Autosys JIL Jobs SUN Solaris 5.7, LINUX, Toad, KEA! X, Shell scripting, PL/SQL.
+Contact this candidate

@@ -1,0 +1,36 @@
+Sai Teja Merla
+Syracuse University +1-680-***-**** ad7ioz@r.postjobfree.com
+EDUCATION
+Syracuse University - College of Engineering & Computer Science, Syracuse, NY August 2022 - May 2024 Master of Science in Computer Engineering
+Vellore Institute of Technology - School of Electronics Engineering, Vellore, India July 2016 - May 2020 Electronics and Communication Engineering
+EXPERIENCE
+Data Engineer, Accenture – Hyderabad, India July 2021 - July 2022
+• Implemented scalable ETL pipelines from diverse sources such as HDFS, S3, REST APIs, and Oracle SQL Server into Snowflake by leveraging AWS Glue for Spark-based data transformation and loading, utilizing Sqoop for data transfers to and from HDFS, and orchestrating data processing with Lambda functions.
+• Developed a ETL pipeline for importing data from Apache Kafka into Snowflake using Kafka Connect for real-time data ingestion, storing the transformed data in S3, and using Snowpipe for seamless and automated data loading into Snowflake.
+• Created data models for large datasets and implemented them using a fully normalized Snowflake schema to optimize storage and enhance query performance.
+• Devised Snowflake stored procedures, functions, triggers, views, and packages, utilizing indexing, aggregation, and materialized views to store and query Big Data for analytics and optimize query performance.
+• Compiled functional requirements and created tailored tables for analytics purposes to enhance end-user usability and facilitate seamless dashboard development, leveraging Snowflake’s MPP architecture for efficient aggregations and querying on large datasets.
+• Developed interactive dashboards in AWS QuickSight, displaying key KPIs and metrics based on data from various tables and tailored aggregated tables for analytics in Snowflake, aligned with functional requirements. Data Engineer I, BRIDGEi2i Analytics Solutions – Bangalore, India December 2019 - July 2021
+• Teamed in creation of a data warehouse for analytics and dashboards for the NBFC client involving usage of Talend, Spark, SQL, S3, QuickSight and other AWS services.
+• Designed Data Models, Talend jobs and workflow to load data from different source system such as Oracle, SQL server, Salesforce, files etc., into AWS Redshift tables using Talend jobs and created audit balancing for all the Talend flows.
+• Applied different SCD logics and developed jobs mainly SCD-2 logic to store history in tables.
+• Collected business requirements and converted into comprehensive technical specifications, enabling creation and implementing the robust data models using Toad Data Modeler into final tables used for analytics and dashboard reporting.
+• Led a POC involving extensive research and performance tuning of an existing pipeline of ETL jobs to reduce overall execution time of flow to less than half of initial time.
+• Delivered technical support, troubleshooting, and resolution for over 70 production issues.
+• Managed data security and compliance for various users within the AWS Redshift database.
+• Leveraged AWS QuickSight to extract and prepare data and created insightful dashboards displaying crucial metrics for the finance client.
+• Scheduled timely refreshes and implemented role-based access controls to ensure appropriate user access for dashboards. PROJECTS
+Study on Correlation between Tweet Sentiment and Stock Price April 2023
+• Investigated correlation between Twitter sentiment and stock prices by applying sentiment analysis techniques with Python libraries VADER and TextBlob, providing valuable insights for investors and traders.
+• Employed data acquisition, preparation, modeling, and analysis techniques to extract meaningful insights, enabling investors and traders to make informed decisions based on sentiment trends in market. Taste Tuner: Innovative AI-Driven Recipe Customization Platform May 2024
+• Developed AI and NLP algorithms using Python to personalize recipes from a dataset of 2,500 recipes, optimizing as per the preferences and ingredient availability and conducted extensive evaluations of classification models, achieving 0.87 F1 score.
+• Created interactive tool with Python for recipe searches by ingredients, enhancing accessibility for users of all skill levels. TECHNICAL SKILLS
+• Databases and data warehouses such as PSQL, AWS Redshift, Snowflake, Oracle, MySQL, Hadoop, Hive, Teradata.
+• ETL using Talend, PySpark, AWS Glue, Databricks, Zena and Control-M.
+• AWS services (Glue, S3, Athena, Redshift, EC2, CDK, CloudWatch), Azure fundamentals.
+• Big data technologies including Hadoop, HDFS, Hive, Kafka, Pig, Spark, Sqoop, MapReduce, Flume.
+• Data Warehouse concepts, Data Modelling, Apache Spark.
+• Python, Object Oriented Programming, Data Structures, Shell scripting, Unix, Linux.
+• Visualization tools such as Tableau, Qlik Sense, AWS QuickSight.
+• AWS certified Cloud Practitioner.
+Contact this candidate

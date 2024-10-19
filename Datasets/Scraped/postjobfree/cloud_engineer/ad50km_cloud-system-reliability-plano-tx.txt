@@ -1,0 +1,150 @@
+Mosin Mohammed
+
+Contact
+512-***-****
+ad50km@r.postjobfree.com
+
+Summary
+Professional IT experience in planning, designing, implementing, and maintaining system applications in Cloud and on-premises platforms.
+Providing Architect solutions for
+Low-impact developer migrations to cost-saving tools and high-resiliency platforms.
+Complex cloud system integrations in a highly regulated environment
+Fast deployment with integrated security, quality, and change control checks.
+Contributing to the design and architecture to enable secure, scalable, and maintainable software.
+Implemented Well-Architected Framework with key factors like operation excellence, security, Reliability, performance, sustainability, and cost optimization.
+Established and managed CICD frameworks, utilizing tools like Jenkins, Veracode, SonarQube, reificatory and liquid base ensuring seamless, software integration, testing and deployment.
+Lead Teams in Architecting and rolling out state-of-the DevOps practices and Solutions.
+Collaborate with client stakeholders to devise strategies for the deployment of modern technologies.
+Experience with java, AWS / DevOps / deployment strategy and hands-on experience with Dynatrace / Splunk / CICD / Grafana etc.
+Worked and supported applications based SLO, SLA as a Site reliability engineer and on call support during production deployments.
+Experience with deploying using CICD pipeline and debugging/troubleshooting issues and coordinate with the application team such as Java, Spring Boot, Python, .Net, etc.
+Ability to perform API performance testing using tools such as JMeter / Blaze meter.
+Experience on identifying RCA for any production issues on AWS environment with multiple microservice.
+Experience on ansible tower UI and playbook CLI, YAML scripts
+Experience on Dynatrace for end-to-end infrastructure and Application monitoring
+Analyze operational metrics, identifying inefficiencies and applying best practices.
+Worked on Container orchestration with Docker and Kubernetes
+Collaborated with DevOps teams to troubleshoot and resolve issues and reduce incident response times.
+Conducted regular performance and cost assessments, making recommendations for optimizations and cost-saving strategies.
+Created documentation and delivered training sessions for internal teams and clients.
+
+Technical Skills
+
+Cloud Skills
+(AWS, Azure, GCP) Docker, Kubernetes, Helm
+GitHub, Jenkins, GitLab
+Databases (SQL, NoSQL), Flywat]y
+Python, Bash, Go
+Terraform, Ansible
+Linux & Windows OS
+EMC-NetApp Storage Cisco-Brocade networking
+
+Professional Experience
+April 2022 -Current
+Optum• Architect /Manager• Texas
+Designing and Migrating applications from On-Prem to AWS Cloud
+Worked on AWS DevSecOps services in application/Infrastructure deployment in Continuous Integration and Continuous Deployment process.
+Worked and managed large-scale deployments, deep understanding of data-intensive architectures.
+Designed the Architecture as per Well Architected Framework and connecting stake holders gathering their requirements and executing projects.
+Worked heavily with AWS infrastructure, including EC2, AMI, ECS, ElasticCache, ElasticSearch, RDS, VPC implementation, IAM, KMS, WAF, CloudTrail, CloudWatch, S3, CloudFront, AWS CLI scripting, ELB, Route 53, Lambda, DynamoDB, Elastic Beanstalk, SQS, SNS and Security group management.
+Worked on EKS (Kubernetes cluster) for deploying microservices application using docker images.
+Deployed application on EKS using Jenkins pipeline and created deployment files (objects, labels, services, storage classes) to define the application configuration using YAML scripts.
+Worked on Terraform to deploy the AWS infrastructure, created modules (IAM, VPC, security system, Load Balancer, Autoscaling etc.)
+Utilized Cloud Watch to monitor resources such as EC2, CPU memory, Amazon RDS DB services, DynamoDB tables, Elastic Block Store (EBS) volumes to set alarms for notification or automated actions, and to monitor logs for a better understanding and operation of the system.
+Created S3 buckets and managed policies for S3 buckets and Utilized S3 buckets for storage and backup on AWS. Extensive knowledge in migrating applications from internal data center to AWS.
+Supported application based on SLA and troubleshooting issues related Java / net / Python application in Aws environment.
+Observation and monitoring issues related to application and infrastructure (synthetic monitoring) on Dynatrace.
+Worked and implemented on N-Tier, Microservices, Event-drive and Bigdata applications of Java, .Net Core and Python
+Automated setting up server infrastructure for the DevOps services, using Ansible, shell and python scripts.
+Worked with Terraform to create AWS components like EC2, IAM, VPC, ELB, Security groups.
+Created Python and Bash tools to increase efficiency of call center application system and operations, data conversion scripts, AMQP/RabbitMQ, REST, JSON, and CRUD scripts for API Integration
+Implemented Micro-services using AWS EKS platform built upon Spring Boot Services.
+Designed and distributed private cloud system solution using Kubernetes (Docker) on CoreOS and used it to deploy scale, load balance and manage Docker containers with multiple names spaced versions.
+Rewrite existing Python/Flask module to deliver a certain format of data. Created script in python for calling REST APIs.
+Managed Kubernetes charts using Helm, and Created reproducible builds of the Kubernetes applications, managed Kubernetes deployment and service files and managed releases of Helm packages.
+Provided a consistent environment using Kubernetes for deployment scaling and load balancing to the application from dev through production, easing the code development and deployment pipeline by implementing Docker containerization with multiple namespaces.
+Used Ansible playbooks to manage Web applications, Environments configuration Files, Users and Packages.
+Written Ansible playbook & modules for Ansible customizations.
+Developed Chef recipes to configure, deploy and maintain software components of the existing/new infrastructure.
+Manage the configurations of nodes using Ansible, configured Jenkins builds for continuous integration and delivery. Automated web server content deployments via shell.
+Worked on CI Pipeline using Jenkins, SonarQube, junit, maven and checkmarx and nexus antifactory repos and CD using terraform/packer/ansible to deploy and maintain the state of the applications.
+Worked on Linux to support and troubleshoot any issues and created bash scripts to automate and scheduled cronjobs.
+Collaborator capable of high performance, flexibility in a dynamic working environment and the ability to lead.
+Maintained git repositories for company projects and set up automated testing and deployment using Jenkins.
+Worked on Grafana dashboard for synthetic end to end monitoring.
+Skilled in using bug tracking systems like JIRA and Confluence.
+
+March 2020 -April 2022
+DaVita • Senior DevOps Consultant • Texas
+Implemented AWS solutions using EC2, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups, optimized volumes and EC2 instances, configured S3 versioning and lifecycle policies to and backup files and archive files in Glacier, used IAM and its features.
+Develop, test, monitor, and troubleshoot DevOps workflows. Plan, deploy, and support multiple applications in all work environments.
+Worked on Terraform for automating VPCs, ELBs, security groups, SQS queues, S3 buckets, and continuing to replace the rest of our infrastructure. Using Terraform as a tool, Managed different infrastructure resources Cloud, VMware, Bare Metal Servers, and Docker containers.
+Worked on Kubernetes to orchestrate Docker containers of new and existing applications as well as deployment and management of complex runtime environments.
+Used Git for source code version control and integrated with Jenkins for CI/CD pipeline, code quality tracking and user management with build tools Maven and written Maven pom.xml build script.
+Setting up various Jenkins jobs for build and test automation and creating Branches, Labels and performing Merges in GitLab, deploy micro services in AWS using Jenkins.
+Implemented Zscaler authenticated Ingress proxies in the Landing Zone, Provisioned Bigfix setup for all the instances to provide enhanced security.
+Created Jenkins Pipelines for build automation and Used Jenkins and Pipelines to drive all microservices builds out to the Docker registry and then deployed to Kubernetes.
+Set up Jenkins server and build jobs to provide Continuous Automated builds based on Pulling the Git source control system during the day and periodic scheduled builds overnight to support development needs using Jenkins, Git, and Maven.
+Configured master/detail nodes (Servers) in Jenkins server and build jobs to provide Continuous Automated Builds using Maven and Integrated automated build with Deployment Pipeline using Jenkins.
+Build the maven artifacts using Jenkins and Deployed into Amazon Cloud Environment by adding Monitoring Metrics to CloudWatch and the respective Alarms.
+Automated and deployed solutions and process for databases using Flyway.
+Integrated Ansible with Jenkins to provide automation, continuous integration through Jenkins and Implemented Jenkins Workflow and Plugins for repeatable deployments of multi-tier applications, artifacts, and services to Docker.
+Wrote scripts for updating the secrets, DB pass stored on source control side and stored them in the secret manager. Wrote groovy scripts for updating the Jenkins configs and create new set of pipelines for the deployments.
+Extensively migrated the Organizations with repos from Gitlab to GitHub, wrote python scripts.
+Configured Ansible control machine and wrote Ansible playbooks with Ansible roles. Used file module in Ansible playbook to copy and remove files on EC2 instances.
+Created inventory in Ansible for automating the continuous deployment and wrote playbooks using YAML scripting.
+Wrote Terraform scripts for the project creations and infra for the Ngnix and squid proxy and creating secret manager. Worked on secret findings from macroscope and used these secrets on the GitHub side to create the secret manager/key vault value and store in terraform.
+Used Ansible to manage Web applications, Environment’s configuration Files, Users, Mount points and Packages. Developed Playbooks using Ansible to deploy consistent infrastructure code across multiple environments.
+Designed Splunk AWS Dashboard and collaborated with administrators to ensure Splunk is actively and accurately running and monitoring the current infrastructure implementation.
+Deployed new Splunk systems and Monitor Splunk internal logs from the monitoring Console (MC) to identify and troubleshoot existing or potential issues.
+
+August 17- March 20
+United Airlines • System/DevOps Engineer • Illinois
+Working in Microsoft Azure Hybrid Cloud environment with infrastructure provisioning using Terraform and with CI/CD Jenkins and Container orchestration using Kubernetes on Microservices applications.
+Configured and deployed Microsoft Azure for a multitude of applications utilizing the Azure stack (Including Compute, Web & Mobile, Blobs, Resource Groups, Azure SQL, Cloud Services, and ARM), focusing on high - availability, fault tolerance, auto-scaling, notification hub MS SQL databases.
+Automated deployments using Terraform for providers and their resources like AWS/Azure with functions like (initialization, plan, apply, graph, console, validate, logs state, workspace) and ARM (Azure Resource Manager) with Schema, variables, parameters, API profiles, functions, resources, and outputs in Azure environments.
+Configured Jenkins scripted and multibranch pipelines for ReactJS Applications
+Configured and deployed Varnish cache at CDN and Redis Cache on backend MySQL databases and managing standalone and Active-Active configuration of applications stacks in Blue/Green deployments.
+Worked on Ansible as a Configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively managing and working on inventory, playbook, modules, handlers, roles, tasks, and Facts.
+Worked on Infoblox IPAM for address management planning, tracking and managing IPs used in network and interface registration for VNET CIDR block subnets and worked with DMZ Palo Alto for Firewalls and Public IP settings.
+Monitoring and troubleshooting issues (CPU, Memory, Disk, IOps, Latency, Networks) using OMS log analytics and Dynatrace and working on P1, P2 incidents on call rotations and coordinating with cross-functional teams to identify and fix issues and documenting RCA for future precheck analysis.
+Coordinate and assist developers with establishing and applying appropriate branching, labeling/naming conventions using GIT source control and analyzing and resolved conflicts related to merging of source code for GIT.
+
+July 16-August 17
+Blackboard • Infrastructure Engineer • Virginia
+Provided technical expertise and strategic recommendations to develop a roadmap that ensures that the current and planned technical solutions are compatible with the company's business needs and strategic objectives.
+Performing storage consolidation and identifying storage growth, managing configurations of storage devices and software.
+Provided capacity planning for Storage dynamic expansion for Blackboard (BBL) Black Board Learning and B2S (Back to School) projects by assigning QOS policies on volumes based on the client requirements.
+Provided storage to various Linux / Windows servers configured through Chef configuration cookbooks and VMware data stores.
+Chef configuration contains active virtual machines, Archive and backup virtual machines to provision from 8 nodes, 12 Nodes CDOT clusters.
+Created Python code to query the Aggregate, volume, Qtree, QOS-policy-clones, snap mirrors, daily health checks, data from CDOT clusters using NetApp Management SDK (ZEDI tool)
+Worked on Grafana to monitor IOPS performance monitoring and capacity growth on each node.
+Troubleshooting day-to-day infrastructure issues and updating them in service-now software for management tracking.
+Performing RCA (Root Cause Analysis) troubleshooting and resolving connection issues in NFS environment in 7 & CDOT and knowledge transfer (KT) sessions to the IBM infrastructure team.
+
+March 2013-July 2016
+Cisco Systems• Storage Engineer • California
+Responsible for operational support for SAN, NAS Storage Arrays
+Configured zones, zones set on Brocade and Cisco MDS switches in the SAN Environment.
+Supported VMware, specifically ESX vSphere 5X,6x to monitor cluster performance, optimize the server environment, diagnose, and resolve production issues amongst 3 Data Centers and over 1800 servers.
+Administrated and maintained NetApp CDOT/EMC VNX environment and provisioning storage to VMWare hosts to maintain various applications.
+Responsible for the setup of SAN Fabric, consisting of MDS 9506/9216 switches for the expansion of fabric with minimum downtime to the host applications.
+Worked on Brocade Network Advisor (BNA) and Cisco Data Center Network Management (DCNM) and IPAM management for zoning and port management.
+Assisted with the development and maintenance of system and application runbooks and provided 24/7 On-call support.
+
+Nov 2011-March 2013
+Dell Technologies• Senior Systems Engineer • Texas
+Installed/upgrading/configuring/building/managing RHEL 5.x/6.x, Oracle Enterprise Linux 5.x/6.x and Solaris 10.x/11 servers using JumpStart/Kickstart
+managing disk space usage, logical volume management, patching, software, and hardware upgrades, troubleshooting issues, process monitoring and RAID methods
+Installation of network-based Kick start. Creating File System Partitions using Disk and LVM Monitoring Linux servers such as Disk space utilization, CPU utilization, and Memory utilization.
+Configuring Remote tools such as SSH, FTP, SCP, Configuring Logical volume manager (LVM) Configuration of SWAP, Implementing Iptables, TCP Wrapper, for security purposes.
+Perform server refresh, routine systems backup, enable system & network logging and log rotations.
+Written Perl/Python/Bash scripts for task automation such as managing systems routine backup, scheduling jobs, and enabling at/corn jobs.
+
+Education
+Computer Science Engineering and Management (BS and MS) 2011
+
+Certifications
+Amazon Web Services Certified Solutions Architect – Associate
+Amazon Web Services Certified SysOps Administrator – Associate
+Contact this candidate

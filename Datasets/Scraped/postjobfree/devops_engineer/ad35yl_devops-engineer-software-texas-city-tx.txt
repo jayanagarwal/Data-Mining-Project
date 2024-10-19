@@ -1,0 +1,179 @@
+Surya Teja K
+Contact: 719-***-****
+Mail Id: ad35yl@r.postjobfree.com
+Linked in: https://www.linkedin.com/in/surya-teja-k-170b4a221/
+
+PROFESSIONAL SUMMARY:
+A Cloud enthusiastic team player having around 9+ years of Experience in IT industry as a Multi Cloud DevOps Engineer with proven expertise in Automation, Build/Release Engineering and Software development involving cloud computing platforms like Amazon Web Services (AWS), Azure and Google Cloud (GCP).
+Extensively worked on AWS Cloud services like EC2, VPC, IAM, RDS, ELB, EMR, ECS, Auto - Scaling, S3, Cloud Front, Glacier, Elastic Beanstalk, Lambda, Elastic Cache, Route53, Ops Works, Cloud Watch, Cloud Formation, Redshift, Dynamo DB, SNS, SQS, SES, Kinesis Firehose, Lambda, Cognito IAM.
+Expertise in Architect and Implementing Azure Service Offering, such as Azure cloud services, Azure storage, IIS, Azure Active Directory (AD), Azure Resource Manager (ARM), Azure Storage, Azure, Blob Storage, Azure VMs, SQL Database, Azure Functions, Azure Service Fabric, Azure Monitor and Azure Service Bus.
+Troubleshoot and resolve issues for customers largely focused around Azure VMs, Azure App Services, Azure SQL Databases, Application Gateways, VPN Gateways, Azure AD, and Azure migrations.
+Provisioning AWS EC2 instances with Auto scaling groups, Load Balancers in a newly defined VPC and used Lambda Functions to trigger events in accordance to the requests for Dynamo Db.
+Experience in changing over existing AWS infrastructure to Server less architecture (AWS Lambda, Kinesis) through the creation of a Server less Architecture using Lambda, API gateway, Route53, S3 buckets.
+Experience in Migrating production infrastructure into Amazon Web Services cloud utilizing AWS Server Migration Service (SMS), AWS Database Migration Service, Elastic Bean Stalk, Cloud Formation, Code Deploy, Code Commit, EBS
+Set up a GCP Firewall rules in order to allow or deny traffic to and from the VM's instances based on specified configuration and used GCP cloud CDN (content delivery network) to deliver content from GCP cache locations drastically improving user experience and latency.
+Experience in Blue/green deployment strategy by creating new applications which are identical to the existing production environment using Cloud Formation templates & Route53 weighted record sets to redirect traffic from the old environment to the pristine environment via DNS.
+Experience on various Azure Services like Compute (Web Roles, Worker Roles), Azure Websites, Caching, SQL Azure, NoSQL, Storage, Network services, Azure Active Directory, API Management, Scheduling, Auto Scaling, and Power Shell Automation
+Experience in Creating and maintaining containerized micro services and configuring/maintaining private container registry on Microsoft Azure for Hosting Images and using Windows Active Directory to secure an Azure AD domain services managed the domain with LDAPS.
+Experience in working on ELK architecture and its components like Elastic search, Log stash and Kibana. Handled installation, administration and configuration of ELK stack on AWS.
+Configure ELK stack in conjunction with AWS and using Log Stash to output data to AWS S3.
+Expertise in creating Kubernetes cluster with cloud formation templates and deploy them in AWS environment and monitoring the health of pods using Helm Charts.
+Expertise in setting up Kubernetes (k8s) clusters for running micro services and pushed micro services into production with Kubernetes backed Infrastructure. Development of automation of Kubernetes clusters via playbooks in Ansible.
+Experience in using tools like Docker Compose, Kubernetes, for Orchestrating and deploying the services related to the Containers and with container-based deployments using Docker, working with Docker images, Docker hub..
+
+TECHNICAL SKILLS:
+Public & Private Cloud Technologies: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), OpenStack
+Containerization Tools: Docker, Docker Swarm, Kubernetes, AWS ECS, Open Shift
+Configuration Management: Chef, Ansible, Terraform.
+CI/CD Tools: Jenkins, Bamboo, GitLab CI, Travis CI, Hudson, VSTS, TFS.
+Build & Testing Tools: Maven, Ant, Gradle, Selenium, JUnit
+Version Control Tools: Git, Subversion, GitHub, Bit bucket.
+Performing/Monitoring & Bug Tracking Tools: ELK, Nagios, Cloud Watch, Azure Monitor, New Relic, Splunk, Grafana, Prometheus, Confluence, Jira, VMware ESXI, Vagrant, KVM, Windows Hyper V
+Web Servers: Apache Tomcat, Nginx, WebSphere, WebLogic, JBoss, Samba, SQL Server.
+Databases: Dynamo DB, MySQL, RDBMS, NoSQL, Cassandra, PostgreSQL, Mongo DB, Oracle DB
+Web Technologies: HTML5, CSS3, Bootstrap, JSON, jQuery, JavaScript, PHP
+Networking/Protocols: DNS, DHCP, FTP/TFTP, NFS, SMTP, TCP/IP, NIS, HTTP/HTTPS, WAN, LAN
+Scripting/Programming Languages: Python, Shell Scripting, Bash, Groovy, Powershell, YAML, Perl
+Operating Systems: RHEL, CentOS, Ubuntu, Fedora, Debian, Solaris, Windows, MacOS.
+
+PROFESSIONAL EXPERIENCE:
+Google, Austin, TX August 2023 to Present
+Sr.GCP DevOps Engineer
+
+Responsibilities:
+
+Handle the various platforms like Linux, Windows and GCP for automation purpose at same time.
+Experience in Migrating the Legacy application into GCP Platform
+Responsible for Deploying Artifacts in GCP platform by using Packer.
+Responsible for managing the GCP services such as Compute Engine, App Engine, Cloud Storage, VPC, Load Balancing, Big
+Query, Firewalls, and Stack Driver.
+Responsible for managing the Docker orchestration for transferring the data from store database to REDIS cache server.
+Worked on TERRAFORM for provisioning of Environments in GCP platform.
+Managing and deploying the artifacts into various environments like STRESS, UAT.
+Responsible for managing and creating Jenkins jobs for deployments in all the Environments like STRESS and UAT.
+Wrote the Deployment scripts for deploying Application through Jenkins.
+Deployed our application by implementing Docker Swarm in STRESS and PRODUCTION environments.
+Responsible for managing the branches and promoting the branch during the release time in GIT.
+Perform day-to-day operation and troubleshooting of VMs and Docker swarm in GCP.
+Analyzing in working with Ansible, wrote many playbooks to manage Mobile Application, Web applications, Environments.
+Configuration Files, Users, Mount points and Packages.
+Managing and assigning the JIIRA tickets as a part of AGILE methodology to fasten the releases.
+
+Environment: GCP, Git, Maven, Jenkins, Ansible, Docker, Redis.
+
+Dish Networks Coloarado, Denver Feb 2023 to July 2023
+Sr .AWS DevOps Engineer
+
+Responsibilities:
+
+Worked in Aws Code commit repositories to automate the pipelines using code pipeline to configure the infrastructure services in the vendor ISV.
+Provisioned service catalog to launch the products from the created pipelines to create kubernetes clusters (EKS) by using Python Automation scripts.
+Created Lambda Functions by using automation Python scripts attached node groups and maintain the health check of nodes created alerts
+Developed automation to clean up the unused services in the AWS cloud premises
+Implemented the cross plane by installing in EKS cluster to provision the required AWS resources.
+Provisioned EC2, S3, RDS Instances using Cross plane in the EKS cluster and deployed the resources in multiple available zones.
+Maintained the provisioned resources constantly created an alerts to the resource deletion externally by manually.
+Worked on Helm charts to deploy the multiple dependencies of the cross plane.
+Created the IAM roles and worked with cross role accounts to connect the Cross plane inside the AWS account.
+Integrated Cross Plane with GitLab to run the pipelines when there are any changes made in the code repositories.
+Automated the GitLab Pipelines by implementing testing code strategies using Groovy scripts in order to maintain the CI/CD strategies.
+Worked on Argo Cd to maintain the code deployments check the pods condition in a Argocd UI.
+Implemented GitOps strategies using argocd to deploy the resources in the targeted accounts.
+Managed and deployed the resources in a multiple Eks clusters and monitored the pods health whenever the deployments are take place.
+Worked on SSO integrations like OIDC providers depends on the security levels of the AWS accounts.
+Integrated GitLab with Argo CD to run the CI CD pipelines.
+Worked on Spinnaker POC and implemented in the organizational accounts successfully.
+Worked on Dyanamodb Validations in the Lambda functions to validate the workflow using python scripting the data before pushing it in to the S3 bucket.
+Deployed the thousand number of cell sites in the vendor ISV pipelines using the python automation scripting maintained the cell sites health and status once after the deployed into the servers.
+Ran a cron jobs and generated helath reports of the deployed applications and automated to get the email alerts using python scripting.
+
+Environment : AWS, Kubernetes, Docker,Aws Lambda functions,Cross plane,Argo Cd,Spinnaker, Gilab, Sonarcube,Helm charts,
+Python, Groovy, YAML, Shell Scripting, Ansible,Jira
+
+Moody’s Analytics, CA. Sep 2021 to Feb 2023
+Sr .Azure DevOps Engineer
+
+Responsibilities:
+Automated provisioning of Hybrid solutions connecting Azure to on-premises resources via IAC, Azure Express Route and Azure Hybrid connections.
+Worked as cloud Engineer, involved in configuration for Web apps/Function apps, V-net integration, HCM, Application gateway, App Insights, Active directory, Azure Key Vault, Encryption and Security on Azure.
+Implement and maintain dev, test, staging and production environments leveraging infrastructure as code using Azure ARM templates (Infrastructure as code, JSON / YAML config).
+Automated various infrastructure activities like Continuous Deployment using Ansible playbooks and has Integrated Ansible with VSTS on AZURE.
+Setup repos on VSTS GIT Repos, merging code from develop branch to master branch and make it ready for deployment.
+Configure continuous integration from source control, setting up build definition within VSTS
+Created dashboards in VSTS for CI/CD pipelines, Work items and bugs. Identified and logged defects in VSTS and interacted with developers to priorities the issues.
+Integrated Docker Container orchestration framework using Kubernetes by creating pods, configuration maps and deployments.
+Used Terraform for building, changing, and versioning Microsoft Azure infrastructure safely and efficiently.
+Involved in setting up Terraform continuous build integration system.
+Experience in creating Chef Cookbooks and recipes to automate middleware installation, domain creating and deployment activities.
+Experience in writing Ansible playbooks for installing WebLogic/tomcat application, deployment of WAR, JAR, and EAR files across all the environments.
+Hands-on experience on Ansible and Ansible Tower as Configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change.
+Setting up SWARM using Kubernetes and deployed containers using Docker inside the application.
+Virtualized the servers using the Docker for the test environments and dev-environments needs. In addition, configuration automation using Docker containers.
+Created Pods with Kubernetes through YML scripts and Deploy to Docker containers in various nodes in the environments.
+Experience developing Splunk queries and dashboards targeted at understanding application performance and capacity analysis.
+Worked on Splunk search processing language, Splunk dashboards and Splunk DB connect app.
+Experience developing and maintaining PowerShell scripts, e.g. detect and remove devices, disable and modify user accounts of terminated employees, automated monthly reboots.
+Design utilities using .NET Framework that would run through Azure DevOps release pipeline.
+Worked on moving SQL databases to DR location on Azure Cloud.
+Building and maintaining systems in Windows Azure for development and production systems. This applies to standard VMs as well as other Azure services.
+Worked on Python scripts to parse JSON documents and load the data in database.
+Scheduled jobs using Ansible Tower and have written Python modules for Ansible customizations.
+Developed a PowerShell script which collected configuration data from the VMware environment to ensure conformity and stability.
+Environment: Azure, Ansible, PCF, Terraform, Docker, Kubernetes, Splunk, Chef, VSTS, SQL, Python, .NET, PowerShell, Windows, JSON, GIT.
+AT&T, TX Nov 2019 to June 2021
+Sr GCP Cloud / DevOps Engineer
+
+Responsibilities:
+Provisioned and administered EC2 instances and configuring EBS, Simple Storage(S3) cross region replication, Elastic Load Balancer, configure Auto scaling, setting up Cloud Watch alarms, Virtual Private Cloud (VPC), mapping with multi AZ VPC instances and RDS, based on architecture.
+Worked on Amazon EC2 setting up instances, virtual private cloud (VPCs), and security groups and created AWS Route53 to route traffic between different regions and used BOTO3 and Fabric for launching and deploying instances in AWS.
+Configured Amazon S3, Elastic Load Balancing, IAM and Security Groups in Public and Private Subnets in VPC, created storage cached and storage volume gateways to store data and other services in the AWS.
+Architect and configured a virtual data centre in the AWS cloud to support Enterprise Data Warehouse hosting including Virtual Private Cloud (VPC), Public and Private Subnets, Security Groups and Route Tables.
+Written Terraform scripts to automate AWS services which include ELB, Cloud Front distribution, RDS, EC2, database security groups, Route 53, VPC, Subnets, Security Groups, and S3 Bucket and converted existing AWS infrastructure to AWS Lambda deployed via Terraform and AWS Cloud Formation.
+Implemented AWS Elastic Container Service (ECS) scheduler to automate application deployment in the cloud using Docker Automation techniques.
+Set up and managed ELK ( Elastic search, Log stash & Kibana) Stack to collect, search and analyse log files across servers, log monitoring and created geo-mapping visualizations using Kibana in integration with AWS Cloud Watch and Lambda. Evaluated system logs using ELK software stack.
+Created automation and deployment templates for relational and NOSQL databases including MongoDB and Redis .
+
+Environment: - AWS,GCP(Google Cloud Platform) Terraform, Chef, Ansible, Docker, Jenkins, Git, Jira, Jenkins, Kubernetes, Maven, Nagios, ELK, Java, SonarQube, Shell, Bash, Python, Dynamo DB, Cassandra.
+
+CITRIX, Fort Lauderdale, FL Aug 2018 to Oct 2019
+Site Reliability Engineer
+
+Responsibilities:
+Involved in designing and deploying multitude applications utilizing almost all AWS stack (Including EC2, S3, AMI, Route53, RDS, SNS, SQS, IAM) focusing on high-availability, fault tolerance, and Auto-Scaling in AWS Cloud Formation.
+Maintained the user accounts IAM Roles, Route 53(CNAME), VPC, RDB, MongoDB, SQS & SNS services in AWS cloud.
+Created Python scripts to totally automate AWS services which includes web servers, ELB, Cloud Front distribution, database, EC2 and database security groups and application configuration, this script creates stacks, single servers, or joins web servers to stacks.
+Involved in creating the company's DevOps strategy in a mixed environment of Linux (Ubuntu, CentOS, and RHEL) servers.
+Experience in writing Ansible playbooks by using YAML script to launch AWS instances and used to manage web applications, configuration files, used mount points and packages.
+Wrote Ansible playbooks, inventories created custom playbooks written in YAML language, encrypted the data using Ansible Vault & maintained role-based access control by using Ansible Tower & Implemented IT orchestration using Ansible to run tasks in a sequence which can work on different servers.
+Virtualized the servers using the Docker for the test environments and development environment and performed configuration automation using Docker containers..
+
+Environment: - AWS, Chef, Ansible, Maven, Jenkins, Docker, Python, Linux, Bit bucket, GitHub, Nagios, Shell, Bash, groovy, RHEL, Apache, IIS, Linux, SMTP, IMAP, POP3, RHEL, VMWare vSphere, Jira.
+
+AbbVie Bio, San Francisco, CA Feb 2017 to July 2018
+Build and Release Engineer
+
+Responsibilities:
+Implementing a Continuous Delivery framework using Jenkins, Maven & Nexus in Linux environment.
+Worked with the Architects on SDLC process being the owner of post development environments.
+Resolved merging issues during rebasing and re-integrating branches by conducting meetings with Development Team Leads. Used both GIT and Subversion source control systems for different projects.
+Involved in migrating the application from Ant to Maven by analyzing the dependencies and creating the POMs to implement the build process using Maven.
+Involved in migration from current data center to Azure cloud,for back end operations worked on Azure Sql to maintain data persistence
+Worked with data security team to make sure azure data is highly secure to enable configure BGP routes. To ExpressRoute connections to onpermise data centers to azure cloud..
+
+Environment: Subversion, Ant, Jenkins, JIRA, Apache Tomcat, LINUX, Ubuntu, Windows 7, Ant Scripts, Shell Scripts, Eclipse, Internet Information Server (IIS), SQL Server 2008.
+
+Bostonlogix, MA. Aug 2014 to Nov 2016
+Linux Administrator:
+
+Responsibilities:
+Installation of Web sphere, upgraded to service pack updates, installed IBM patches, configuring and creation new admin & managed servers, start & stop Web sphere server.
+Setting up network environments using TCP/IP, NIS, NFS, DNS, SNMP agents, DHCP and Proxy.
+Using Bash Shell Scripting to schedule and automate processes including full and incremental backups using tar, crontab and snapshots, migrating and enlarging file system on Solaris 10 and Linux.
+Implemented Version control for the Project using Microsoft Visual Source Safe.
+Used Java Servlets, JSPs, AJAX, HTML and CSS for developing the Web component of the application.
+Planned and implemented various Oracle Tables, stored Procedure, triggers, views, cursors. .
+
+Environment: RHEL 4.0., SSH, Telnet, Rlogin, Oracle, Db2 Server, Windows 2003 and Windows 2008 servers.
+
+Education: Bachelors in computer science JNTUA 2014
+Contact this candidate

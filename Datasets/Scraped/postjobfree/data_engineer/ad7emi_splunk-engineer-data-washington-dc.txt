@@ -1,0 +1,90 @@
+Mahran
+Khidir
+SENIOR SPLUNK ENGINEER
+ad7emi@r.postjobfree.com
++1-434-***-****
+Senior Splunk Engineer Summary
+• Experienced Splunk Engineer skilled in managing complex environments, customizing systems, and extracting insights from large data sets across diverse organizations. Proficient in cybersecurity practices and certified in various Splunk technologies.
+• Proficient in all phases of Splunk deployment, including infrastructure planning, system customization, dashboard creation, and performance optimization. Strong problem-solving abilities and excellent communication skills to work independently and within teams.
+• Knowledgeable in multiple Splunk products and use cases, with a proven track record of enhancing data analytics, security operations, and IT service management.
+Work History
+Senior Splunk Engineer September 2022 - Present
+Conduent
+• Onboarded diverse datasets for application, network, server, and SOC teams.
+• Implemented a multi-site Splunk upgrade project across on-premises locations and Splunk Cloud or AWS Cloud.
+• Utilized Cribl to optimize log ingestion, which reduced licensing costs and improved data management.
+• Debugged Splunk and performance-related issues using btool, internal logs, indexes, monitoring console, and network/CLI tools.
+• Developed Splunk Dashboards, searches, alerts, and reports for internal Security, IT Operations, and Application Development clients.
+• Created compliance and vulnerability assessment dashboards with drill-downs, color-coding, and alerts for the SOC team to enhance configuration and patch vulnerability analysis.
+• Utilized Ansible for automated configuration management and deployment of Splunk instances.
+• Crafted custom Splunk queries and reports for Check Point, AD, and Apache log data, and contributed to a centralized security dashboard on Splunk Cloud.
+• Collaborated with Security and Development teams to design a custom application for logging security events like abnormal traffic patterns, unauthorized system changes, or network configurations.
+• Leveraged Splunk's REST API and Python Scripting to automate tasks such as data ingestion, index management, and user role assignments.
+• Created scripts to call endpoints for managing Splunk configurations, including setting up inputs, outputs, and forwarding configurations.
+• Used REST API to extract data from Splunk for external reporting and monitoring, integrating with third-party tools.
+• Led the migration of Search Head pools and Universal Forwarders to new hardware, updating UFs to new deployment servers, and relocating indexers/buckets.
+• Developed Apps on Splunk search heads to address security scenarios and regulatory compliance, creating tools like reports and rules with conditional functions for alerts, dashboards, and visualizations.
+• Utilized GitHub and GitLab for repository hosting, enabling seamless collaboration and integration with CI/CD pipelines.
+• Leveraged Splunk's REST API to automate user management, including creating, updating, and deleting user roles and permissions.
+• Supported the architecture of a highly available Splunk infrastructure using clustering, disaster recovery plans, load balancing, and failover mechanisms.
+• Monitored and fine-tuned Enterprise Security (ES) configurations to improve detection accuracy and reduce false positives.
+• Worked with the SOAR team to refine playbooks, ensuring they were aligned with best practices and operational requirements. Splunk Engineer June 2020 - August 2022
+OpenPath
+• Designed and implemented Splunk alerts with throttling and conditional logic to monitor status changes, detect anomalies, and streamline notification flows, reducing alert duplication and increasing operational awareness.
+• Led the migration of an on-prem Splunk infrastructure from RHEL 7 to RHEL 8, including forwarders and indexers, deployment server. Oversaw the transition of all indexed data and data
+• Resolved complex dashboard issues for Symantec Endpoint Protection Add-on and developed advanced Splunk dashboards for firewall analytics and telephony performance, enhancing data visualization and decision-making.
+• Experienced in using props.conf for optimized data parsing, improving event line breaking, timestamp accuracy, and data onboarding efficiency.
+• Skillful at crafting advanced SPL queries to correlate and aggregate data, identify traffic anomalies, maintain data and system integrity, and SLA compliance by validating dashboard lookups and tracking open alerts and resolution times.
+• Proficient in manipulating data with transforms.conf, including field extractions, anonymization, routing, separating source types and overriding host and source labels for onboarding.
+• Developed automated Python scripting & lookups to integrate geographic and CRM data into logs, supporting targeted threat analysis and personalized marketing with minimal manual effort.
+• Experienced in mapping AD groups to Splunk roles for access control and role assignment.
+• Proficient in configuring authentication.conf and authorize.conf, and managing permissions through default.meta.conf and local.meta.conf to align Splunk roles with organizational and access needs.
+• Expert in diagnosing and resolving Splunk deployment issues, from data ingestion, and licensing, to security and component functionality.
+• Experienced in analyzing logs and using the Monitoring Console to detect issues and improve system performance.
+• Experienced with KV Store configurations, including resolving collection mismatches, setting up cross-indexer replication, and performing MongoDB migrations to maintain data accuracy and enhance system efficiency in Splunk environments.
+• Designed and implemented advanced workflows within Splunk to streamline log retention, aggregation, and analysis processes, facilitating efficient triggers for diverse logs and data sources.
+• Collaborated closely with the architecture team to design scalable Splunk environments to meet the growing volume of data and ensure high availability and disaster recovery, preventing downtime and data loss.
+• Used field aliases to standardize data from diverse sources, aligning datasets with the Common Information Model (CIM) for uniform analysis.
+• Dynamically loaded macros and searches onto Splunk dashboards using REST API calls and SPL commands, enhancing user interactivity through XML configurations, integrating drill-down capabilities and direct dashboard adjustments.
+• Managed internal Splunk environment and scripted data ingestion from AWS cloud APIs for reporting. Splunk Administrator February 2017 - May 2020
+Evernorth Health Services
+• Oversaw overall system health by monitoring data ingestion, managing data inputs, routing, filtering, and masking with indexers, ensuring compliance with governance standards using configuration files, and performing regular system audits via the Monitoring Console.
+• Experienced in troubleshooting indexer and forwarder issues, addressing blocked queues and corrupt buckets to maintain system integrity and performance.
+• Proficient in resolving a broad range of deployment issues from data ingestion to performance bottlenecks using detailed log analysis and the Monitoring Console.
+• Automated monitoring and reporting workflows, creating scheduled alerts for data retrieval from lookup tables, and automating email distribution of CSV reports to improve data handling and alert responsiveness.
+• Developed base searches in dashboards to reduce load and improve performance, particularly when visualizing data derived from the same dataset.
+• Extensively used regex for data extraction and manipulation within Splunk logs, improving pattern recognition and data parsing including isolating sequences for pattern analysis, extracting error codes, cleaning up hostnames, and segmenting complex data strings into actionable fields.
+• Developed data models in Splunk using knowledge objects including lookups, transactions, field extractions, and calculated fields.
+• Engineered KV Store lookups to enrich event data with critical attributes from HR and security databases, tagging events with relevant security details such as CVEs, severity and patch status.
+• Enhanced Splunk data models, optimized data model acceleration across search heads, addressed execution skips, and fine-tuned configurations for robust data integrity, particularly in complex authentication scenarios. SOC Analyst August 2015 - February 2017
+IT Solutions Consulting
+• Investigated and resolved security alerts from SIEM systems like Splunk, analyzing impacts and managing policy violations through established SOC frameworks.
+• Designed and implemented security measures such as SIEM system rules, dashboards, and playbooks to optimize threat detection and incident response.
+• Led team efforts in handling major security incidents, ensuring rapid mitigation and recovery by applying structured incident response processes and maintaining rigorous compliance standards.
+• Collaborated with R&D and security teams on high-level projects focusing on malware and exploit analysis, and remediation strategies.
+• Supported incident management planning, process maturation, tabletop exercises, and documentation improvements to bolster security posture.
+• Configured and maintained robust Splunk infrastructure, ensuring optimal performance and availability while leveraging Splunk Enterprise Security for advanced threat detection and response.
+• Developed and optimized complex Splunk queries and designed tailored dashboards and reports for diverse stakeholders, enhancing real-time visibility and decision-making in security operations.
+• Produced detailed incident reports and analyses for stakeholders and executive management, highlighting security incidents, outcomes, and future risk mitigation strategies.
+• Facilitated security awareness training sessions for employees to enhance their understanding of cybersecurity practices and protocols.
+• Created custom solutions for continuous content development of threat detection systems, integrating advanced data analysis and emerging industry trends into daily security operations. Linux System Administrator February 2013 - August 2015 Brooksource
+• Configured Amazon AWS Cloud infrastructure.
+• Created lookup tables in Splunk to enhance analytics on ingested data.
+• Generated and enhanced various Splunk dashboards, reports, and alerts.
+• Created and edited Standard Operating Procedures (SOP) and documented various activities.
+• Performed Splunk administration tasks including installation, configuration, monitoring, and tuning.
+• Applied OS patches and upgrades in a multi-platform environment (RedHat/CentOS/Windows) regularly.
+• Led a team in migrating critical applications to a Linux-based infrastructure, resulting in increased stability and scalability.
+• Configured and maintained user and group permissions, network settings, and passwords, resolving access-related issues.
+• Led OS team in creating documentation for server roll-out, installation, configuration, and maintenance of Linux Red Hat systems.
+• Designed and implemented a disaster recovery plan with regular backups, off-site replication, and automated failover procedures.
+• Worked with a team migrating a production environment from on-premises to a cloud-based infrastructure, reducing infrastructure costs Education
+B.S. in Computer Science September 2008 - June 2012 University of Illinois Chicago (UIC)
+Skills
+Splunk Bash Cribl Linux Ansible Gitlab AWS
+Python Project Management
+Certifications
+• Splunk Core Certified User
+• Splunk Core Certified Power User
+• Splunk Enterprise Certified Admin
+Contact this candidate

@@ -1,0 +1,130 @@
+Henrieta Mbongo
+Cloud DevOps Engineer
+405-***-****
+Email: ad5jco@r.postjobfree.com
+
+PROFESSIONAL SUMMARY
+I am a seasoned Cloud DevOps Engineer with a decade of dedicated hands-on experience.
+Throughout my career, I have consistently demonstrated proficiency in deploying and optimizing.
+cloud infrastructure, implementing DevOps best practices, and ensuring seamless collaboration.
+between development and operations teams. My extensive expertise spans various clouds.
+platforms, and I am committed to leveraging innovative solutions to enhance operations.
+efficiency and drive successful project outcomes.
+
+TECHNICAL SKILLS
+
+AWS Services
+EC2, Elastic Beanstalk, EFS, VPC, RDS, S3, Glacier, IAM, Kinesis, CloudFront, Cloud watch, Cloud Trail, Cloud Formation, DynamoDB,
+Lambda, Route53, SNS, SQS, API Gateway, Code Pipeline, Code Build,
+Elastic cache, Code Deploy. etc.
+Configuration management
+Ansible, system manager
+Source Code management
+GitHub, Code Commit
+Migration tools
+Data sync, Application migration service
+AWS Organizations
+User management
+AWS Organizations, AWS SSO, Cognito, STS, AWS managed AD,
+Control Tower
+Databases
+MYSQL, Aurora, DynamoDB,
+Security Tool
+AWS inspector, WIZ, WAF, System Manager,
+Virtualization
+EC2,
+Platforms
+Windows, Linux, Ubuntu, CentOS
+Ticketing tools
+Jira (Agile/scrum methodology
+Programming languages
+Python, JSON
+DevOps Tools and CI/CD pipelines
+GitHub, action, AWS code pipeline, Git, GitHub, Docker, SonarQube, Maven, GitHub packages, ECR, EKS
+Scripting
+Terraform, Cloud formation
+
+WORK EXPERIENCE
+Cloud operations Engineer
+Chase Bank
+August 2016- Present
+Oklahoma
+
+Build and maintained a scalable infrastructure on AWS Cloud using Terraform for Infrastructure as Code (IaC). Leveraged various cloud services, including VPC, ECS, EC2, load balancer, CloudFront, and Route 53.
+Actively participated in cloud architecture and security review meetings. Contributed insights and expertise to evaluate and enhance our cloud infrastructure.
+Orchestrated the creation of a robust landing Zone by implementing an AWS Control Tower.
+Successfully implemented cost optimization strategies by leveraging reserved instances and adopting saving measures for RDS, and Lambda functions. Utilized trusted advisor findings for better cost-efficiency practices.
+Seamlessly integrated AWS lambda with Amazon API Gateway to develop serverless RESTful APIs. This collaborative integration allowed for efficient handling of functions and endpoints.
+Implemented an auto-scaling solution using Ansible, enabling dynamic adjustment of several instances based on demand, ensuring optimal performance and cost efficiency.
+Proficiently manage and optimize AWS resources, specifically EC2 instances and RDS databases to enhance performance, and ensure high availability and cost-effectiveness, resulting in a 30% reduction in operational costs.
+Adeptly troubleshooted, documented, and resolved Terraform issues within our infrastructure.
+Deployed and managed company landing zone with the use of control Tower. This involved setting up guardrails using Service Control policies (SCPs) and AWS Config.
+Leverage route 53 routing policies to address various scenarios such as simple, weighted, latency-based, and failover routing.
+Hosted self-healing infrastructure around the use of EC2 Autoscaling groups for high availability and performance.
+Used AWS code pipeline to manage a CICD pipeline build and deployment of an application frontend to Amazon S3.
+Conducted cloud operational activities by automating cloud backup processes through the implementation.
+projects and environments of AWS Backup.
+Optimized the monitoring infrastructure by configuring the Datadog agent on Kubernetes nodes and within containers.to collect metrics, traces, and logs and ensure complete visibility into the operational cluster.
+Utilized Datadog's APM (Application Performance Monitoring) capabilities to trace requests across microservices, identify bottlenecks and optimize application performance.
+Played a key role in enhancing infrastructure efficiency by designing and developing Terraform modules for reuse across multiple.
+prorating Terraform for streamlined deployment.
+Secured the maintenance of comprehensive documentation for Terraform modules, including usage instructions, input variables, and output values, facilitating easy adoption by other team members.
+Used AWS Trusted Advisor to scan AWS accounts for functional and operational excellence.
+Implement a robust role-based access control (RBAC)strategy to fortify the security of our infrastructure Kubernetes cluster.
+Design a Kubernetes cluster architecture that includes multiple nodes distributed across availability zones to ensure high availability. Used Amazon EKS and Azure Kubernetes for simplified management.
+Used maven for Utilized GitHub Actions to establish an automated CI/CD pipeline for infrastructure building, ensuring building Java-based codes to form artifacts.
+Established a CloudFront distribution and implemented security measures through the utilization of AWS WAF (Web Application Firewall) and TLS (Transport layer security).
+Strengthened the adherence to a robust tagging standard and implemented resource grouping to enhance the management of cloud resources.
+Established a secure network on AWS Cloud by creating Virtual Private Clouds (VPCs) dedicated to hosting application resources.
+Automated cloud operational practices by leveraging AWS Systems Manager Automation, Lambda, and Event Bridge.
+Hosted and managed EC2 instances efficiently through the utilization of AWS Systems Manager and streamlined image-building pipeline.
+Implemented Key Management Service (KMS) for securing encryption of cloud resources at rest and generated certificates on Certificate Manager for TLS encryption.
+Managed Terraform state files securely using S3 for storage and DynamoDB for state file logging.
+Developed and implemented AWS Single Sign-On (SSO) to grant access and permissions to AWS accounts by utilizing permission sets.
+Collaborated with the network team to establish a standardized cloud network using AWS VPC, Transit Gateway, and site-to-site VPN.
+Containerized the application using Docker, leveraging Docker files. Ensured that images were stored in a container repository, specifically the Amazon Elastic Container Registry (ECR).
+Implemented and enforced the use of a secret manager to securely store sensitive information.
+application instances and databases by deploying them in a private subnet, enhancing network isolation and bolstering overall security.
+Configured and managed a GitHub Actions workflow for building, testing, and deploying our Java-based container workload to AWS ECS.
+Built and managed an EKS Kubernetes cluster using Terraform, and configured monitoring with Datadog for effective performance tracking and analysis. Managed various Kubernetes objects, including pods, config maps, secrets, deployment, and service within AWS EKS environments.
+
+Cloud DevOps Engineer
+Wells Fargo
+Dallas TEXAS
+February 2011 –June 2016
+
+Performed a lift and shift migration of on-premises servers to AWS using the Application Migration Service.
+Collaborated with configuration management tools such as Ansible, utilizing GitHub as the source code management tool, and implemented GitHub Actions for continuous build management.
+Utilized Jira for planning, tracking, supporting, and closing requests, tickets, and incidents, ensuring streamlined project and issue management.
+Designed and architected a self-healing, secured, highly available (HA), and fault-tolerant infrastructure in AWS, incorporating best practices such as redundant components, auto-scaling, and robust security measures to enhance system resilience and reliability.
+Architected Amazon RDS with multiple Availability Zones (Multi-AZ) to ensure automatic failover and enhance high availability.
+Implemented the maintenance and configuration of user accounts for DEV, QA, and production servers, establishing distinct roles for EC2, RDS, S3, and CloudWatch resources using AWS Identity and Access Management (IAM).
+Experience in successfully migrating and implementing multiple applications from on-premises to the cloud using a variety of AWS services, SMS, DBMS, Cloud Formation, S3, ROUTE53, Glacier, EC2, RDS SNS, Lambda, VPC, Cloud Trail, API gateway.
+build and configure a virtual data center in the AWS cloud to support enterprise data warehouse hosting including Virtual Private Cloud (VPC), Public and Private subnets, Security Groups (SG), Route tables, Elastic Load Balancer (ELB), Route 53.
+build a server using AWS, including importing volumes, launching EC2 instances, setting up RDS, creating security groups, implementing auto-scaling, and configuring Elastic Load Balancers (ELBs) within a defined Virtual Private Cloud.
+Automate government compliance by provisioning and utilizing AWS Landing Zone alongside AWS Control Tower for centralized enterprise architecture.
+Utilizing CloudWatch, VPC, and flow logs to monitor and retain account activity related to actions across the AWS infrastructure.
+Leverage AWS Systems Manager (SSM) and Ansible to automate operating system patching.
+Involved in the design, support, and administration of public cloud AWS Infrastructure as a Service (IaaS) and Platform as a Service (PaaS).
+Expertise in DevOps, release engineering, configuration management, cloud infrastructure, and automation, including Amazon Web Services (AWS), Jenkins, GitHub, and Linux.
+Expertise in Docker containerized environments, hosting web servers on containers and building Docker images using Docker files.
+
+System Administrator
+Orange
+Douala Cameroon
+March 2008 –December 2010
+
+Effectively managed and maintained 120 virtual servers operating on both Linux and Windows within the VMware environment.
+Successfully implemented and upheld a virtualization infrastructure utilizing VMware.
+Perform routine system updates, apply patches, and configure settings regularly to ensure optimal performance and security.
+Proactively conduct regular system updates, apply patches, and configure settings to ensure optimal performance and security.
+managed backup and disaster recovery solutions.
+Collaborated with the security team to implement and maintain firewalls and intrusion detection systems, and antivirus solutions.
+Delivered technical support and troubleshooting for end-users, resolving tickets efficiently.
+Migrated VMs from on-premises to Cloud EC2.
+
+EDUCATION:
+Bachelor’s degree in computer engineering, Presbyterian University Of Cameroon.
+CERTIFICATION:
+AWS Certified Solution Architect -Associate.
+Contact this candidate

@@ -1,0 +1,136 @@
+WORK EXPERIENCE
+Client: Enterprise Holdings, Clayton, Missouri, USA (Jun 2023 - Present)
+Role: Azure DevOps Engineer
+Description: Enterprise Holdings, Inc. operates as a holding company. The Company through its subsidiaries offers automobile and commercial truck rentals, fleet management, car sharing programs, and other related services. I design, develop, and maintain infrastructure as code (IaC) solutions using tools such as Terraform, Ansible, or similar technologies to automate the provisioning and configuration of cloud-based infrastructure.
+Responsibilities:
+Created Azure DevOps pipelines for build automation and deployment as part of CI-CD.
+Developed/deployed data pipelines as part of production DW/DB implementation using Azure DataFactory.
+Designed and configured Azure Virtual Networks (VNets), Subnets, Azure Network Settings, DHCP Address Blocks, DNS Settings, Security Policies and Routing.
+Created and managed Virtual Machines in Windows Azure and set up communication with the help of Endpoints and VM. Deployed applications to multiple destination servers and VMs using deployment groups.
+Managed Azure Active Directory and created new groups for users.
+Utilized GitHub features such as Issues, Projects, and Discussions to enhance team collaboration and project tracking.
+Deployed instances on Azure environments and in Data Centers and migrated to Azure using Azure Site Recovery.
+Implemented containerized based applications by using Azure Kubernetes Service (AKS).
+Written Templates for Azure Infrastructure as a Code using Terraform to build staging and production environments.
+Integrated Azure Log Analytics with Azure VMs for monitoring the log files, store them and track metrics.
+Provisioned containerized solutions centered on tool such as Docker and Kubernetes.
+Provisioned Azure Kubernetes Cluster as well as Azure Container Registry.
+Managed Kubernetes charts using Helm, created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed releases of Helm packages.
+Designed installed and implemented Ansible configuration management system and in writing playbooks for Ansible and deploying applications. Automated various infrastructure activities like Continuous Deployment, Application Server setup, stack monitoring using Ansible Playbooks using Jenkins.
+Maintained maximum uptime and maximum performance capacity for Enterprise Production, QA, and UAT/Staging.
+Implemented cluster services using Docker and Azure Kubernetes services (AKS) to manage local deployments in Kubernetes by building a self-hosted Kubernetes cluster using Jenkins CI/CD pipeline.
+Made extensive use of Chef, Maven, Bitbucket, Bamboo, Sonarqube, Artifactory, Splunk, Selenium, Github, Jenkins, Nexus and ansible to manage build / deploy tasks, including Continues Integration.
+Maintained and automated the scripts by using Python for automated deployments.
+Drive end to end deployment of various components on the Azure cloud platform.
+Monitoring infrastructure and service monitoring using Prometheus to pull metrics and Grafana dashboard to display.
+Designed and implemented Database Schema import data and build stored procedures on AzureSQL.
+Configured Apache servers to deploy the code.
+Configured Jenkins to build and deploy by setting up SonarQube, Maven, Nexus to build CI/CD pipeline.
+Integrated GIT into Jenkins to automate the code check-out process.
+Designed disaster recovery strategies, backup, and retention architectures on Azure.
+Design of Cloud architectures for customers looking to migrate or develop new PaaS, IaaS, or hybrid solutions utilizing Microsoft Azure or Amazon Web Services (AWS).
+Automated the cloud deployments using Puppet, python(boto& fabric) and AWS Cloud Formation Templates.
+Technologies Used: Microsoft Azure, Azure Data Factory, Azure Databricks, Azure Kubernetes Service (AKS), Azure Site Recovery, Azure Log Analytics, Azure VMs, Azure Container Registry, AzureSQL, Azure DevOps, Terraform, Docker, Kubernetes, Ansible, Apache, SonarQube, Maven, GIT, Jenkins, Nexus, Bash ShellScripting, Python, Linux
+Client: UMB Financial Corporation, Kansas City, Missouri, U.S. (Nov 2022 - May 2023)
+Role: DevOps Engineer
+Description: UMB Financial Corporation is a leading provider of financial services for individuals and institutions. I participated in incident response and problem management activities, including root cause analysis and post-incident reviews, to identify areas for improvement and prevent recurrence of issues.
+Responsibilities:
+Developed a third-party service for Instagram followers and engagement to automate their growth using Python, TensorFlow, MongoDB and REST APIs, improved consumer service rates by 15%.
+Rebuilt a new reporting system for Instagram users to gain a better understanding of the followers' posts with their engagement score using Python, Django, PostgreSQL, TypeScript, React.js, and improved user retention rates by 18%.
+Updated the existing infrastructure architecture for each Kickstart service to scale up or down as needed and to handle sudden increases or decreases in demand using CI/CD pipeline, Kubernetes, Docker and AWS microservices, saving ~10% of cost and work hours. Architecture and Integrated in Infrastructure Development and Operations involving AWS Cloud platforms, EC2, EBS, S3, VPC, RDS, SES, ELB, Auto scaling, Cloud Front, Cloud Formation, Elastic Cache, Cloud Watch, SNS. Strong Experience on AWS platform and its dimensions of scalability including VPC, EC2, ELB, S3 and EBS, ROUTE 53.
+Managed AWS design architectures with AWS IaaS/PaaS, DevOps, Storage, Databases Components also Work with Cloud Platform Teams on implementing new features on AWS platform and Design and Development work on building scripts and automations for AWS cloud.
+Set up the scripts for creation of new snapshots and deletion of old snapshots in Amazon S3 and worked on setting up the life cycle policies to back the data from AWS S3 bucket data.
+Created and enforced Configuration Management policies and procedures, project configuration management, adhere to the Company policy and was successful in implementing it.
+Seamlessly integrated Gerrit with Jenkins/Buildbot to trigger automated builds and tests upon code submission, reducing manual intervention.
+Developed automated solutions to monitor and support software development and release processes.
+Implemented Continuous Delivery using Jenkins, Chef, SVN and Maven in Windows/Linux environment.
+Worked on public cloud infrastructure preferably using AWS Product and Services Ec2, virtual private cloud (VPCs), IAM, Security groups, Elastic Beanstalk, S3, VPC, CloudFormation, RDS, Lambda, Redshift, SQS, SNS, cloud watch and Security Services AWS Shield, AWS Trusted Advisor, cloud front, Cloud Trail’s.
+Created and maintained GitHub Actions workflows and custom scripts for automated testing, deployment, and release management.
+Experienced in working AWS key Management service (KMS) is a service that helps to create and control the encryption keys used to encrypt data.
+Provisioned EC2 instances into AWS by using Terraform scripts from scratch to pull images from Docker and performed AWS S3 buckets creation, policies on IAM role-based policies and customizing the JSON template.
+Technologies Used: Aws, Redshift, GIT, Hudson, Jenkins, TFS, WebSphere, WebLogic, JBOSS, Apache, TOMCAT web services, Docker, EC2, S3, RDS, EBS, auto scaling, Opsworks, Kubernetes, Ansible, Puppet, Nagios, Jira, VMware Bash, Python and Ruby, Unix/Linux, Windows, RHEL 4/5/6, CentOS.
+Client: Wipro Technologies (TD Bank), New York, U.S. (Jan 2021 - July 2022)
+Role: DevOps Engineer
+Description: TD Bank is a Large Banking sector in North America. It provides insurance and financial services to individual and institutional customers. I implemented and maintained CI/CD pipelines to automate the build, test, and deployment processes for applications and services, ensuring rapid and reliable delivery of software updates.
+Responsibilities:
+Worked on Agile projects like Creating Kanban boards, configured columns, Filters and Reports.
+Deployed and optimized two tier .NET web application to Azure DevOps to focus on development by using services such as Azure Repos to commit codes, Azure Test Plans to trigger unit tests on the application.
+Provided high availability for IaaS VMs and PaaS role instances for access from other services in the VNets with Azure Internal Load Balancer.
+Configured Azure cloud services, Azure storage, Azure active directory, Azure Service Bus.
+Created and managed AzureAD tenants and configured application integration with AzureAD.
+Involved in software debugging and application monitoring and implemented multi-Dimensional numeric time series monitoring using Prometheus.
+Worked on creation of custom Docker container images, tagging, and pushing the images to private Docker Hub.
+Created end to end CI/CD pipelines with Jenkins by integrating the code from Git Repository, performed builds from Maven, performed code analysis with SonarQube and stored the necessary files in Nexus.
+Administered IIS servers and configured Microsoft OMS and implemented Backup and Restore for the application data using azure.
+Developed custom Gerrit hooks and plugins to automate tasks such as code linting, static analysis, and notification systems, improving overall code quality
+Deployed and managed applications in Data Center, Virtual environment, and Azure platform as well.
+Worked with Ansible to manage Web Applications, Config Files, Data Base, Commands, Users Mount Points, and Packages. Ansible to assist in building automation policies.
+Configured Power Shell scripts to automate the Azure cloud system creation including end-to-end infrastructure, VMs, storage, firewall rules. Worked with PowerShell to automate SQL tasks, environment management related tasks and procedures on Windows machines.
+Automated the Word Press and MySQL container deployment in Docker using Python.
+Worked with Configuration Management automation tool Ansible and has worked on integrating Ansible YAML Scripts.
+Developed Build & Deployment Scripts using build tools MS Build in Azure Pipelines to migrate from one environment to another environment and utilized Nexus, SonarQube.
+Technologies Used: Docker, Kubernetes, Chef, Jenkins, SVN, Maven, Amazon Web Services (AWS)–EC2, S3, Lambda, Cloud Formation, Cloud Watch, Terraform, Python, Shell Scripts, Apache Tomcat, Jira, Windows, Linux.
+Client: Divi's Laboratories, Hyderabad, India (Jun 2018 - Dec 2020)
+Role: Cloud Engineer
+Description: Divi's Laboratories is a pharmaceutical company with a global presence in the pharmaceutical industry. I established monitoring and alerting solutions to proactively identify and resolve issues in the infrastructure and applications, utilizing tools like Prometheus, Grafana, ELK Stack, or similar monitoring platforms.
+Responsibilities:
+Migrating the existing v1 (Classic) Azure infrastructure into v2 (ARM), scripting and templating the whole end to end process as much as possible so that it is customizable for each area being migrated.
+Configured Azure VPN-Point to Site, Virtual networks, Azure Custom security, Endpoint security and firewall, Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing.
+Provided high availability for laaS VMs and PaaS role instances for access from other services in the VNets with Azure Internal Load Balancer. Automated deployments using CloudFormation
+Used Azure OMS & Power BI for visualizing the activities. Worked on Azure App Insights, Alerts and Log Analytics for Monitoring as part of OMS.
+Managed and enforced branching strategies in Gerrit, including feature branches, hotfixes, and release management, to maintain a clean and efficient codebase.
+Ensured successful architecture and deployment of enterprise grade PaaS solutions using Pivotal Cloud Foundry (PCF) as well as proper operation during initial application migration and set new development.
+Expertise in configuring Pivotal Cloud Foundry (PCF) components OAuth2 server and, Cloud Controller, nsync, BBS, Cell Rep, Blobstore, Diego Cell.
+Converted existing Terraform modules that had version conflicts to utilize cloud formation during Terraform deployments to enable more control or missing capabilities.
+Deployed web applications into different application servers using Jenkins and implemented Automated Application Deployment using Ansible.
+Written Chef Cookbooks, recipes to automate installation of Middleware Infrastructure like Apache tomcat, JDK, and configuration tasks for new environments etc.
+Worked on Chef where in wrote code on workstations using Knife to interact with server and setting up Chef Infra, bootstrapping nodes, creating and uploading recipes, node convergence in Chef SCM.
+Technologies Used: RedHat Linux, AWS, Chef, puppet, VERITAS Cluster Server 5.0, VERITAS Net backup 6.5, VM Ware ESX 3.5, Virtual Center 2.5, Unix, Apache 2.2.x, Web Server 7, WebLogic 10, Solaris 9/10, KSH, bash, Oracle 10g.
+
+KRISHNA REDDY KALLEM
+DevOps / Cloud Engineer
+CONTACT
+ABOUT ME
+Seeking a challenging role where I can contribute towards enhancing CI/CD pipelines, infrastructure as code, and fostering a culture of continuous improvement within dynamic and collaborative teams.
+913-***-****
+ad8pa7@r.postjobfree.com
+EDUCATION
+PROFILE SUMMARY
+Masters from University of Central Missouri, USA
+6 years of Insightful IT experience, 3+ years in Azure/AWS Cloud, DevOps Engineering, Build/Release Management, and automating, building, releasing of code from one environment to other environment and deploying to servers.
+Experience on complete software development lifecycle (SDLC) with software development models like Agile, Scrum Model, and Waterfall models.
+Extensive experience in Docker, Kubernetes, GIT, Azure, AWS, DevOps, Terraform, Build/Release Management, Cloud Management, Containerization and Databases.
+Hands on experience in installing and dealing with troubleshooting Ansible on central nodes and managed hosts.
+Good experience in setting up Kubernetes (k8s) Clusters for running microservices.
+Experience working on deployment automation of all the microservices to pull image from the private Docker registry and deploy to Docker Swarm cluster using Ansible.
+Good experience with DevOps architecture, Serverless Computing and Microsoft Azure.
+Implemented and managed Gerrit for code review processes, enhancing code quality and collaboration within development teams.
+Experience working on Data Ingestion to one or more Azure Services - (Azure Data Lake, Azure Storage, Azure SQL, Azure DW) and processing the data in Azure Databricks.
+Experience in Azure Platform Development, Deployment concepts, hosted cloud services, platform services and close interface with Windows Azure Multi-Factor Authentications.
+Experience in migrating on-premises applications to Azure and configured VNETs and Subnets as per the project requirement.
+Proficient in writing Azure Resource Manager (ARM) templates to deploy, update and delete multiple resources in Azure. Expertise in migrating on-premises resources to Azure with Azure Site Recovery (ASR) and Azure Backups.
+Integrated Gerrit with existing CI/CD pipelines, automating code review workflows and improving build validation efficiency.
+Extensive experience in Azure Backup, Azure policies, Azure Key Vault, Salt Stack and Tagging. Experience in implementing CI-CD (Jenkins) pipeline for AWS Cloud services and deployed code to AWS services like EC2, S3, AWS Lambda, CloudFormation, CloudWatch and Elastic Beanstalk.
+Expert in configuring monitoring for Azure VMs using Azure Monitor, Log Analytics and AppInsights. Experience in writing Infrastructure as a Code (IaaC) in Terraform to deploy Azure resources and services.
+Customized Gerrit workflows and permissions to align with project requirements, optimizing review and merge processes.
+Expertise in Querying RDBMS such as Oracle, PL/SQL and MySQL by using SQL for Data integrity.
+Skilled in installing, configuring and troubleshooting on Windows/Linux/Unix servers using enterprise standards.
+Good experience in implementing CI/CD pipeline using Azure DevOps in both cloud and on-premises with GIT, Maven along with Jenkins plugins.
+Experience in using JIRA to keep track of all the ongoing tasks and maintain bug resolutions.
+TECHNICAL SKILLS
+Cloud Environment: Microsoft Azure, Amazon Web Services (AWS)
+CI/CD Tools: Jenkins, Azure DevOps
+IaaC: Terraform, Cloud Formation
+Container Tools: Docker, Kubernetes, AKS
+Monitoring Tools: Azure Monitoring Service, CloudWatch, Grafana
+Automation Tools: Ansible, Chef, Puppet
+Build Tools: Maven, Ant
+Version Control Tools: GIT, SVN
+Scripting: Perl, Bash, Shell, Python
+Web & Application Servers: Apache, Apache Tomcat, JBOSS, WebLogic
+Ticketing Tools: JIRA
+Package Repository: Nexus, Artifactory
+Code Quality Analysis Tools: SonarQube
+Databases: Oracle, MySQL, SQL Server
+Operating Systems: Windows, Linux, Unix
+Contact this candidate

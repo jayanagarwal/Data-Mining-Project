@@ -1,0 +1,33 @@
+ATHARV ABHIJEET BAGDE
++1-812-***-**** ad5t15@r.postjobfree.com linkedin.com/in/atharv-abhijeet-bagde github.com/atharvabagde PROFESSIONAL EXPERIENCE
+Data Scientist Project 990, Bloomington, USA Jan 2024 – Present
+• Eliminated 10,000+ duplication and mismatch cases by identifying and resolving exceptions in SQL queries to enhance data ingestion.
+• Achieved an acceleration of 300% in model training time on Indiana University’s HPC servers by leveraging DeepSpeed & SLURM for efficient job scheduling and batch processing of LLM (Llama2, Falcon, T5) fine-tuning pipelines.
+• Building Graph Sage and GAT based recommender models for matching US philanthropic foundations with appropriate receivers by analysing IRS tax dataset of 100,000+ organizations and 1.5 million+ grants from past 3 years. Research Assistant - ML Cyberinfrastructure for Network Science Centre, IUB, USA Sep 2022 – Aug 2023
+• Developed a CLI application with Docker for FTU segmentation in lung, kidney, and colon WSIs (DICOM & NIFTI images), achieving an impressive DICE score of 86.8 by fine-tuning a Vision Transformer using PyTorch.
+• Enhanced segmentation of thin objects, with 4% increase in the DICE scores of 3D U-Net models, by integrating novel topology-preserving loss functions based on clDICE and Betti numbers.
+• Accelerated the inference-time of 3D image segmentation models by 200% with utilization of ONNX framework and optimization techniques like distillation and quantization.
+Machine Learning Engineer Quantiphi Analytics, Mumbai, India Jun 2020 – Jul 2022
+• Identified instances of a pharmaceutical drug’s allergies and side effects posted on social media, with a F1 score of 0.93, by building a
+‘Adverse Drug Event’ detection engine on AWS SageMaker using transformer-based NLP models.
+• Generated realistic CT images of human organs, with a FID score of 7.8, by training a parametrized 3D Style GAN using PyTorch and deploying it as a Flask application on GCP Vertex AI endpoint for sub-second inference.
+• Digitized handwritten hospital notes and charts, with 87% CER and 83% accuracy, by leveraging GCP AutoML for chart marker detection, and fine-tuning the LayoutLM model for tabular data extraction.
+• Created a real-time accident prevention dashboard on PowerBI with 5+ KPIs, for a US government entity, powered by a DBSCAN clustering model for identifying accident hotspots based on weather and traffic variables.
+• Designed MLOps pipeline (Kubeflow) for SaMD development with the capabilities of data versioning (DVC), experiment tracking (ML Flow), serverless model deployment (Git, GCP) and automated document generation (Azure Boards).
+• Led and managed cross-functional teams of 4-6 members across three projects, utilizing tools such as JIRA and Azure Boards to plan schedules, track progress, coordinate tasks, and orchestrate project workflows, resulting in successful project completion and delivery. ACADEMIC PROJECTS
+• RAG ChatBot (LLM, Generative AI, Pinecone, Python, Streamlit, FastAPI) : Crafted and deployed a document-querying chatbot, empowering users to effortlessly retrieve information from user-uploaded documents, with deployment facilitated through a web-based application utilizing Streamlit and FastAPI. Document text was embedded using MiniLM-L6 sentence transformer and stored in a Pinecone vector database, which was integrated for inference with Google Flan T5 model by leveraging the Langchain framework.
+• Online Sexism Detection (Python, PyTorch, HuggingFace): Analyzing over 80,000 bilingual tweets (in English and Spanish), instances of sexism were successfully detected, and the underlying intent behind them was classified using fine-tuned transformer-based RoBerta and RoBertuito models from the Huggingface framework, resulting in a notable F1 score of 0.745.
+TECHNICAL SKILLS
+• Programming Languages: Python, R, SQL, C#, C++, C, HTML, MATLAB
+• Machine Learning: Regression, SVM, k-means, Xg-boost, Random Forest, k-NN, Graph Neural Networks, LLM, NLP
+• Framework and Tools: PyTorch, Tensorflow, Keras, ONNX, DeepSpeed, Scikit Learn, REST, FLASK, JAX, Huggingface
+• Databases: MySQL, Google BigQuery, Google Cloud SQL, Oracle, MongoDB, Neo4j, PostgreSQL, MS SQL Server, Alteryx
+• Data Visualization: Python, Tableau, Power BI, Gephi, Google Charts, ggplot2, MS-Office
+• Project Management tools & Methodologies: JIRA, Azure Boards, Asana, Agile, Kanban
+• MLOPs Tools: DVC, Git, Kubeflow, MLFlow, Docker, CI/CD pipeline ACTIVITIES & ACHIEVEMENT
+• Recipient of Justice League Award: Awarded for successfully leading ICU notes digitization project as a technical lead at Quantiphi.
+• GCP certifications: GCP certified “Professional Machine Learning Engineer” and “Associate Cloud Engineer”
+• AWS certification: AWS certified “Solutions Architect Assosciate” EDUCATION
+MS in Data Science Indiana University Bloomington Bloomington, Indiana GPA: 3.65 Courses: Machine Learning, Advanced Database Concepts, Statistical Analysis and Inference, Network Science, Exploratory Data Analysis, Advanced NLP, Financial Econometrics, Econometrics-II. Aug 2022 – May 2024
+Bachelor of Engineering in Electronics Mumbai University Maharashtra, India GPA: 3.76 Courses: Object Oriented Programming, Computer Vision and Image Processing, Database Technologies, Financial Management, Data Compression and Encryption, Neural Networks. Aug 2016 – Jun 2020
+Contact this candidate

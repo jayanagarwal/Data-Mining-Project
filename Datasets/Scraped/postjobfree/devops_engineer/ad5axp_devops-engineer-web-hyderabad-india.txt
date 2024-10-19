@@ -1,0 +1,148 @@
+Ajay Kumar
+ad5axp@r.postjobfree.com
+856-***-****
+
+Professional Summary:
+
+●Over 8 years of IT experience as DevOps Engineer with expertise in managing various cloud platforms like AWS, Azure and GCP, container orchestration and management using Kubernetes.
+●Managed Amazon Web Services like EC2, S3, RDS, EBS, ELB, AMI, IAM, VPC, RDS, IAM, Route 53, Lambda Functions and automated using Terraform, Cloud Formation, Python/Boto3, AWS CLI.
+●Configured Amazon Virtual Private Cloud (Amazon VPC), created required subnets, security groups, network ACLs and firewall rules, IAM users, groups, roles and policies.
+●In depth knowledge of AWS cloud services like Compute, Network, Storage and Identity & access management. Hands-on Experience in configuration of Network architecture on AWS with VPC, Subnets, Internet gateway, NAT Gateway, Route tables, VPN and Direct Connect.
+●Experience using Terraform key features's core capabilities, including its execution plans, resource graphs, change automation, and extensively used auto-scaling configuration templates for launching Amazon EC2 instances while deploying microservices.
+●Extensively worked on Jenkins, Team city for continuous integration (CI) and for End-to-End automation for all builds and deployments. Experience working on Continuous Integration and Delivery platform as DevOps engineer.
+●Used Ansible and Ansible Tower to auto deploy servers rapidly as per the requirement. Implemented and designed AWS virtual servers by Ansible roles to ensure deployment of web applications.
+●Experience in working with Version Control Systems/ Source Code Repository tools like GIT, Bitbucket, Perforce maintaining/troubleshooting the CM tool in UNIX and Windows environment.
+●Experience in Linux/Unix System Administration, Network Administration and Application Support working on Red Hat Linux 5/6/7, SUSE Linux 10/11, Sun Solaris 8/9/10, IBM AIX environments.
+●Experience working on several Docker components like Docker Engine, Docker Hub, persistent volumes, creating Docker images.
+●Used Docker Compose docker Compose, Docker Registry for storing docker images.
+●Experience Setting up EKS Clusters, Managing Nodes, OIDC, Authentication and Authorization.
+●Proficient with HELM Charts Customization and Deployment.
+●Experience with tracking tools such as JIRA and Service now.
+●Experience in installing and configuring Kubernetes and supported it running on the top of the CoreOS also managed local deployments, creating local cluster and deploying application containers.
+●Good Experience in working with container-based deployments using Docker, Docker images, Docker file, Docker Hub, Docker Compose and Docker registries. Developed Docker files to create Images of the Build that are later used in the Task and service definitions to deploy tasks on AWS ECS clusters on AWS EC2 instances.
+●Created JIRA Workflows for multiple projects as per business needs using behaviors with groovy scripting and integrated JIRA projects with Confluence Pages and constructed Confluence pages.
+●Installed, Configured, Managed Monitoring Tools such as Splunk, Nagios for Resource Monitoring/Network Monitoring/Log Trace Monitoring.
+
+Certifications:
+
+AWS Certified Solutions Architect Associate
+HashiCorp Certified Terraform Associate
+
+Technical Skills:
+
+Operating Systems
+REHL/CentOS, Ubuntu/Debian,
+Version control Tools
+GIT, GitHub, Bitbucket
+Languages
+Shell, Golang, Python,
+Database
+MySQL, PostgreSQL, DynamoDB,
+Application Server
+Web Logic, Web Sphere,
+Continuous Integration Tool
+Jenkins, GitLab, GitHub Actions.
+Automation Tools
+Ansible, AWS CloudFormation, Terraform.
+Containers
+ECS, EKS, Dockers, Kubernetes.
+Cloud Computing
+AWS, Azure, GCP
+
+Education:
+
+Bachelors in engineering, Electronics and Communications, JNTUH April 2010 - June 2014
+
+Professional Experience
+
+Client: – Tencent, Santa Clara - CA June 2022 – Till date
+Role: Cloud DevOps Engineer
+
+Responsibilities:
+●Planned and executed the cloud migration to AWS for various applications.
+●Used terraform to automate the creation and management of AWS services/resources like IAM, VPC, EC2, EBS, RDS, KMS S3, Glacier, Lambda, ELB, Auto Scaling Groups, Elastic Beanstalk, Route 53, CloudFront, CloudWatch, CloudTrail, SQS and SNS, Lambda, EMR, EKS, Kinesis, DynamoDB, API Gateway, Network Firewall, EKS, ECS, ECR.
+●Expertise in writing Boto3 and lambda functions. Loaded raw data files from URLs to S3 Bucket.
+●Expertise in creating customized IAM policies, roles and user management.
+●Wrote custom policies for different groups of users, KMS and bucket policies.
+●Automated Application builds and releases and operational tasks with Ansible to improve the process and quality of operations.
+●Implemented terraform modules for most AWS services/resources and designed a multi-account strategy for Secure and Compliant Account Vending.
+●Created and managed kinesis data streams and configured logs to be sent to AWS CloudWatch.
+●Created Lambda function to consume events from kinesis data streams.
+●Gathered semi structured data from S3 and relational structured data from RDS, keeping data sets into a metadata catalog using AWS Glue and extracted the datasets and loaded them into kinesis streams.
+●Created Clusters using Kubernetes and worked on creating pods, replication controllers, replica sets, services, deployments, labels, health checks.
+●Implemented a production ready, highly available and fault tolerant Kubernetes infrastructure.
+●Used terraform to automatically deploy EKS clusters consisting of multiple node groups and services for all the microservice applications.
+●Managed Kubernetes with Helm Charts.
+●Implemented centralized logging with IAM, Elastic search, Kibana and log trail and monitored the Kubernetes dashboard, nodes with Prometheus, Grafana.
+●Established several pods and services using Master and Minion architecture of Kubernetes and developed micro services onboarding tools for creation and maintenance of build jobs and Kubernetes deploy services.
+●Created replication controllers, services, deployments, labels, Ingress by making use of YAML files by provisioning clusters using Kubernetes. Handled manifest files and releases of Helm charts.
+●Created metrics and monitoring reports for Prometheus and Grafana dashboards.
+●Automated EC2 instances, creation for multiple applications and created templates and deployed using Cloud Formation scripts.
+
+Client: Mercury Insurance, Los Angeles - CA April 2021 – May 2022
+Role: Cloud Engineer
+
+Responsibilities:
+Worked with various stakeholders like Managers, Resource owners, project managers, IT Auditors, external vendors, to understand application requirements and migrated them to AWS.
+Deployed and monitored AWS Resources with boto3 and terraform to decrease end-to-end deployment times, reduce downtime, and increase reliability.
+Performed call duties to manage alerts on PagerDuty and solved multiple production issues.
+Deployed Code updates into test, dev, and production environments.
+Evaluated Kubernetes for Docker container orchestration and managed Kubernetes charts using Helm and created reproducible builds of the Kubernetes applications, templatized Kubernetes manifests, provided a set of configuration parameters to customize the deployment and managed releases of Helm packages.
+Worked with AWS services like VPC, EC2, S3, ELB, Auto Scaling Groups (ASG), EBS, RDS, IAM, CloudFormation, Route 53, CloudWatch, CloudFront, and CloudTrail.
+Proficient in AWS services like VPC, EC2, S3, ELB, Auto Scaling Groups (ASG), EBS, RDS, IAM, CloudFormation, Route 53, CloudWatch, CloudFront, CloudTrail.
+Creating multiple VPC's and public, private subnets as per requirement and distributing them as groups into various availability zones of the VPC.
+Creating NAT gateways and instances to allow outbound communication from instances in private instances.
+Using security groups, network ACLs, internet gateways and route tables to ensure secure zone for organization in AWS public cloud.
+Configuring S3 buckets with various life cycle policies to archive infrequently accessed data to storage classes based on requirement.
+Using IAM for creating roles, users, groups and also implementing MFA to provide additional security to AWS account and its resources.
+Writing cloud formation templates in JSON to create custom VPC, subnets, NAT to ensure successful deployment of web applications.
+Implementing domain name service (DNS) through Route 53 to have highly available and scalable applications.
+Experienced in creating RDS instances to serve data through servers for responding to requests.
+Creating snapshots to take backups of the volumes and also images to store launch configurations of EC2 instances.
+Created an EKS Cluster with images in ECR.
+Writing Docker files and managing with Kubernetes.
+
+Client: Community Health Systems (CHS), Nashville - TN. Jan 2020 – March 2021
+Role: DevOps Engineer
+
+Responsibilities:
+
+Extensively worked on an Ansible, maintained a fully immutable server architecture and design that includes updating and patching servers and spin up an exact new server’s replica that contains the upgrades and security patches as per the current environment and proceed with taking care of the updated packages will not break or cause service disruption.
+Implemented a Continuous delivery framework using Jenkins, Ansible, Maven in Linux Environment.
+Designed highly available, cost effective and fault - tolerant systems using multiple EC2 instances, Auto Scaling Groups, Elastic Load Balancers and AMIs and Glacier for QA and UAT and Production environments.
+Created scripts for backing up and restoring GITHUB repositories.
+Implemented Microservices architecture to convert monolithic application into smaller applications.
+Extensively worked on Jenkins, Team city for continuous integration (CI) and for End-to-End automation for all builds and deployments.
+Designed AWS Cloud Formation templates to create custom sized VPCs, Subnets, NAT gateways to ensure successful deployment of Web applications and database templates.
+Expertise in architecting secure VPC Solutions in AWS with the help of Network ACLs, Security groups and public and private network configurations Network Firewalls.
+Working on AWS Auto Scaling for providing high availability of applications and EC2 instances based on the load of applications by using Cloud Watch metrics as triggers.
+Virtualized servers using Docker for test environments and dev environments needs, configured automation using Docker containers and implemented several Tomcat Instances using Docker engine for running several Containerized Applications.
+Worked on installing Docker, creating images using a Docker file.
+Worked on Docker container snapshots, removing images and managing Docker volumes. Experienced in building and maintaining Docker and Vagrant infrastructure in agile environment.
+Worked on databases of Amazon RDS and carried out functionalities for creating instances as per the requirements.
+
+Client: Accenture Solutions Pvt. Ltd. June 2014 – June 2018
+Role: Linux System Administrator
+
+Responsibilities:
+
+Installed, updated, and configured Red Hat Enterprise Linux versions 4 through 6.
+Responsible for the installation, integration, optimization, and troubleshooting of Apache, Tomcat, WebSphere, and WebLogic application servers.
+Established, configured, and managed NFS, NIS, and TCP/IP networks, enabling SSH and SCP communication between hosts.
+Oversaw the setup and administration of DNS, LDAP, NFS, NIS, and NIS+ on Red Hat Linux systems.
+Managed production servers across multiple data centers, ensuring their smooth operation.
+Implemented automated server provisioning using Kickstart for RHEL 6 and Jumpstart for Sun Solaris 10.
+Developed Bash shell scripts to automate routine tasks, streamlining operations.
+Conducted network diagnostics using commands like 'netstat' and 'ifconfig,' collaborating with vendors to resolve hardware and software issues.
+Effectively troubleshooted production servers and configured standalone servers for testing purposes.
+Established a Yum repository server to centralize package installations.
+Created local repositories to connect Linux servers to the RHEL site for package and patch downloads.
+Managed and configured DHCP servers on Linux for IP address leasing to production servers.
+Administered user accounts, groups, directories, file permissions, backup, and networking services on Red Hat Linux.
+Utilized LVM (Logical Volume Manager) to manage volume groups, logical and physical partitions, and incorporated new physical volumes.
+Configured and managed ESX VMs using VirtualCenter and VI Client.
+Conducted disk management tasks with LVM (Logical Volume Manager).
+Oversaw the configuration and administration of Apache Web Server and SSL.
+Implemented backup procedures through CRONTAB, ensuring backups aligned with client requirements.
+Provided 24/7 on-call support for Linux production servers, with a focus on maintaining security measures.
+Contact this candidate

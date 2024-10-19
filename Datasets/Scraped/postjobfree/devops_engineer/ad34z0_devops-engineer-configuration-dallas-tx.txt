@@ -1,0 +1,202 @@
+Anil Reddy Kashireddy
+Sr. DevOps Engineer Phone :732-***-****
+Email: ad34z0@r.postjobfree.com
+Professional Summary
+Around 12 years of experience in Configuration Management, Build and Release management involving extensive work towards code compilation, packaging, building, and debugging, automating, managing and deploying code across multiple environments.
+In-depth understanding of the principles and best practices of Software Configuration Management (SCM) in Agile, Scrum and Waterfall methodologies.
+Good experience on DevOps tools such as Chef, Puppet, Ansible, Jenkins, Maven, ANT, SVN, GIT, and Docker.
+DevOps/Agile operations process and tools area (Code review, unit test automation, Build & Release automation, Environment, Service, Incident and Change Management).
+Bash, Perl, Python, Ruby scripting on Linux. Automated the process of launching and stopping / terminating EC2 instances on Amazon AWS with BOTO.
+Using AWS Services like EC2, IAM, Subnets, VPC, Cloud Formation, AMI, S3, SNS, SES, RedShift, CloudWatch, SQS, Route53, CloudTrail, Lambda, Kinesis and RDS and obtaining High Availability and Fault Tolerance for AWS EC2 instances utilizing the services like Elastic IP, EBS and ELB.
+Expertise in building Jenkins jobs to create Azure Infrastructure by pulling Terraform code from GitHub repositories, ability to work closely with teams, to ensure high quality, timely delivery of builds & releases.
+Involved in Development and Implementation of Continuous Integration (CI) and Continuous Deployment (CD) pipeline involving Jenkins, Ansible, Terraform and Docker containers to complete the automation from commit to deployment.
+Experience with Terraform to build infrastructure as a code, Utilization of Terraform for automated infrastructure deployments (AWS ELB, AWS EC2, AWS Security Groups, AWS VPC, AWS Key Pairs, AWS IAM)
+Used Chef for server provisioning and automating infrastructure. Development and version control of Chef Cookbooks, testing of Cookbooks using Food critic and Test Kitchen and running recipes on nodes managed by on premise Chef Server.
+Administration of Production, Development and Test environment’s carrying Windows, Ubuntu, Red Hat Linux, and Centos servers.
+Created Terraform scripts to move existing on-premises applications to cloud, created Terraform templates along with Ansible modules to configure EC2 instances.
+Hands on experience in Azure Development, worked on Azure web application, App services, Azure storage, Azure SQL Database, Virtual machines, Fabric controller, Azure AD, Azure search, and notification hub.
+Designed and developed Cloud Service projects and deployed to Web Apps, PaaS, and IaaS.
+Configured SQL Server Master Data Services (MDS) in Windows Azure IaaS.
+Designed, configured and deployed Microsoft Azure for a multitude of applications utilizing the Azure stack (Including Compute, Web & Mobile, Blobs, Resource Groups, Azure SQL, Cloud Services, and ARM), focusing on high - availability, fault tolerance, and auto-scaling.
+Working on version control systems like Subversion, and GIT and used Source code management client tools like GitBash, GitHub, Git GUI and other command line applications etc.
+Design and Deploy Google cloud Platform Solutions using Google services like compute engine, cloud storage buckets, persistent disks, cloud load balancer, auto scaling groups, cloud deployment manager, stackdriver, cloud IAM and cloud DNS.
+Good understanding of Openshift platform in managing Docker containers and Kubernetes Clusters along with installing of Docker using Docker toolbox. Created Docker images using Docker file.
+Cluster management and orchestration features like Docker Engine, Hub, Machine, creating Docker images, compose, Docker registry and handling multiple images primarily for middleware installations and domain configurations.
+Deployed and configuration of Microservices into Kubernetes Clusters using Jenkins and ECO Pipeline. Extensively worked with Scheduling, deploying and managing container replicas onto a node cluster using Kubernetes. And worked with building Kubernetes run time environment of the CI/CD system to build, test and deploy in an open source platform.
+Hands on experience in setting up database in AWS using RDS, storage using S3 bucket and configuring instance backups to S3 bucket to ensure fault tolerance and high availability.
+Proficiently experienced in Amazon Web Services(AWS) cloud platform and its services like EC2, S3, RDS, Lambda, VPC, VPN, Dynamo, EBS, ELB, SNS, Glacier, Auto-Scaling, IAM, Route53, AMI, Security-Groups, CloudFront, CloudWatch, OpsWork, and CloudFormation through AWS management console and AWS CLI (Command Line Interface).
+Using build automation tools like Ant and Maven. Well versed with Open stack based cloud infrastructure. Implementing and administering monitoring tools Splunk and Nagios.
+Implemented Chef Recipes for Deployment on build on internal Data Centre Servers. Also re-used and modified same Chef Recipes to create a Deployment directly into Amazon EC2 instances.
+Deploying artifacts such as JAR, WAR using build automation tools like Ant, Maven and Gradle to write pom.xml and build.xml and used MAVEN repository using NEXUS Tool to share snapshots and releases.
+Installing, upgrading and configuring SUSE, Solaris, Dell, IBM and HP x 86 server, Centos, VXVM, SVM Red Hat Linux using Kickstart Servers and Virtualization with VMWare vSphere ESXi, vCenter.
+
+Technical Skills
+Operating System
+Redhat-Linux (5x, 6x& 7x), CentOS (5x, 6x and 7x), Ubuntu, Windows Server 2003/2008/2012
+Cloud Technologies
+AWS, Azure
+CI/CD
+ANT, Maven, Gradle, Jenkins, Bit Bucket, TFS, SVN, Nexus, Artifactory, SonarQube, Junit, Webhooks with Git/SVN, uDeploy, Bamboo
+Configuration Management
+Chef, Puppet, Ansible and Terraform
+Containerization/Virtual
+Docker, Apache Mesos, Kubernetes, VMware
+Database
+MySQL, MongoDB, Cassandra, PostgreSQL, SQL Server, CouchDB
+Web/App Servers
+Apache, IIS, HIS, Tomcat, WebSphere Application Server, JBoss
+Scripting
+Shell scripting, Python, Vagrant, Perl scripting
+Web Technologies
+HTML, CSS, and XML, Servlets, JSP
+Monitoring
+Splunk, Nagios, Monit, SolarWinds, Pandora FMS
+Tracking
+JIRA, Remedy, Clear Quest
+
+Education
+Bachelor of Engineering in Computer science & Information Technology from JNTU Hyderabad - 2008
+
+Work Experience
+
+Macy’s, Atlanta, GA March 2022 to Till Date
+DevOps/SRE Engineer
+
+Responsibilities:
+•Responsible for Continuous Integration (CI) and Continuous Delivery (CD) process implementation using Jenkins along with shell scripts to automate routine jobs in DEV, STAGE and PROD environments.
+•Created AWS Launch configurations based on customized AMI, used this launch configuration to configure auto scaling groups and Implemented AWS solutions using EC2, S3, RDS, DynamoDB, Route53, EBS, Elastic Load Balancer, Auto scaling groups.
+•Created various Terraform scripts to deploy Kubernetes, Dev, QA, and Pre-prod environments in AWS Cloud.
+•Implementing and setting up AWS security groups for instances, worked on setting up SSO and enabled TLS for secure DB communication.
+•Creating and Managing Virtual Machines in AWS and Setting up communication with the selected ports and worked on designing, building, and improving cloud environments on Amazon Web Services.
+•Managed Splunk user roles by mapping it to newly created AD and existing AD groups. Implemented the streamline process for the Splunk requests from the Users.
+•Responsible for delivering an end-to-end continuous integration - continuous delivery system for the products in an agile development approach using Ansible and Jenkins and Configuration deployment on cloud infrastructure using playbooks, roles and ad-hoc commands using Ansible.
+•Automated the entire Continuous Integration (CI) workflow to checkout code from SCM, baking the artifact, create docker images for every day builds using Cron jobs and quartz scheduler using shell scripts and Jenkins, spinnaker and finally pushing the docker images to Azure Container registry.
+•Integration of Automated Build with Deployment Pipeline. Installed Chef Server and clients to pick up the Build from Jenkins repository and deploy in target environments (Integration, QA, and Production).
+•Worked to ensure Splunk is actively and accurately running and monitoring on the current infrastructure.
+•Integrating with Python to automate the deployment for java-based applications. Achieved the Continuous Integration and Continuous deployment process using GIT, Jenkins. Built applications through Jenkins by taking source code from Git, compile using maven package.
+•Developed build and deployment scripts using ANT and MAVEN as build tools in Jenkins to move from one environment to other environments.
+•Installed Ansible and automated software provisioning, configuration management and application Deployment in RHEL and CentOS operating system.
+•Experience in server monitoring, application monitoring with the help of Sensu, Graphana, Cloud Watch, and New Relic.
+•Perform software installation and upgrade through infrastructure as code, configured the SSL certificates for EC2, database and Amazon cli servers.
+•Monitor system performance and capacity, report changes in usage, manage security administration and deployments through infrastructure as code.
+•Installed Splunk Enterprise, Splunk forwarder, Splunk Indexer, Apps in multiple servers. Worked on Splunk Enterprise Deployments and enabled continuous integration on as part of configuration management.
+•Identified and fixed performance issues Confidential instant of time by dynamic monitoring through catch point & New Relic tools in Dev & Stagging environment.
+•Deployment and orchestration of Docker containers on a cloud platform and creating Docker images using Ansible. Write Docker files and built Docker images, creating private repository.
+•Maintained and administered the source code repositories, including implementation of automated controls within GIT for all build related procedures.
+•Used Atlassian tools such as JIRA to track bugs and report tickets and used Confluence to document procedures that were created for POC’s.
+•Good experience on AWS provisioning and management, worked on AWS resources like VPC, EC2, S3, ELB, Route 53, Autoscaling, Cloud watch, RDS, SNS, EBS.
+•Managed different AWS accounts for business needs and provisioned cross account permissions in a secure way to access resources between accounts. Also created private links for cross account access to access AWS redshift endpoints.
+•Working on terraform scripts to manage and use azure pipelines to deploy AWS Infrastructure as needed. Also managed databricks workspaces and roles to access AWS resources using terraform scripts.
+•Working on Kubernetes to deploy containerized services as per business needs and scale them to desired state as needed. Implemented resource monitoring and auto scale resources as needed as data Onboarding increase.
+•Working on developing Azure DevOps pipelines to migrate the CI/CD process from Jenkins to Azure pipelines. Developed generic templates for common use case there by making them reusable across teams.
+•Working on scheduling and automating the validations to run databricks jobs using REST API calls from Jenkins if there are any changes in SCM and troubleshoot if there are any issues.
+•Worked on Configuration and management of DynamoDB NoSQL Database also deployed Plotly application dashboard which provide data insights for different data types as microservices.
+•Working on monitoring, performance tuning, query optimization and upgrade PostgreSQL database as needed for increased incoming data storage.
+•Worked on monitoring s3 usage and automated the process sending alerts to respective users to clean-up as needed. Also implemented TTL logic on DynamoDB to delete records that are older than 3months as per requirements.
+•Working on Integrating GitHub with issue tracking tool like JIRA to track the issues and report them when they are solved.
+•Worked on deployment and configuration of Airflow web servers using k8s and developed helm charts for airflow to use the helm packages across different teams as per workflow needs.
+•Developed docker images for different use cases and updated them as necessary. Developed Azure pipeline to automate the process of building and pushing docker images to AWS ECR or harbor registry.
+•Worked on implementing Kubernetes pod operator in Airflow to dedicate resource usage across teams and resource usage monitoring. Worked on develop and update the docker image that is used in Kubernetes pod operator.
+•Worked on Splunk Enterprise for monitoring to create dashboards and alerts if there are any data pipelines that failed to run. Also worked on creating dashboards from the data pipeline metrics results.
+
+Wells Fargo, NC May 2020 to Feb 2022
+DevOps Engineer/Web Systems Engineer6
+
+Responsibilities:
+Design, planning, integration, implementation, scalability, problem definition and resolution of Web and ecommerce engineering
+Installing Tomcat and Apache Web server binaries for different versions and related components across all environments.
+Continuous Deployment pipeline with Jenkins, Jfrog Artifactory, and application servers like Apache, Nginx.
+Attending daily meetings, collaborate with team members, business partners.
+Performing upgrades, automating processes & procedures, identifying & mitigating technical problems, developing documentation.
+Created performance measurements to monitor resources across Azure using Azure native monitoring tools like OMS utilizing ARM template. Upload and deploy Azure VM using custom images.
+Wrote PowerShell scripts for user validation in the Azure Active Directory which are developed Python scripts for getting user credentials in the Azure LDAP system to validate the user authentication.
+Configured VM networking with reserved IPs, Health Monitors, Firewall rules, VM scale sets and availability sets in the Azure Cloud. Worked with Bootstrap script for application automation and domain joining in the VM.
+Managing Docker containers and Kubernetes Clusters along with installing of Docker using Docker toolbox. Created Docker images using Docker file.
+Installing and configuring tomcat, automating processes & procedures, tuning & troubleshooting java applications running on Linux.
+Worked on creation of custom Docker images container images, tagging, and pushing the images. Worked on Docker containers and Docker consoles for managing the application life cycle.
+Experience working with Kubernetes Orchestration and Docker containerization, building Docker images at root of the repository, configuring the Docker containers, and creating Docker files for different environments.
+Working on Jira, Git, Artifactory, Jenkins and scripting experience using Shell Perl or Python.
+Writing Docker files, creating images and Docker containers and troubleshooting.
+Managed Kubernetes charts using Helm. Created reproducible builds of the Kubernetes applications, templatize Kubernetes manifests, provide a set of configuration parameters to customize the deployment and Managed releases of Helm packages.
+Working on HTTPD Webserver, Nginx, Confluent Kafka, Apache Storm, Oracle Java, Oracle Weblogic, Apache Tomcat, Kubernetes and Docker.
+Managed Kubernetes charts using Helm. Created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and releases of Helm packages.
+Worked on Prometheus for monitoring the containerized applications to monitor memory, CPU, and disk utilization to send alerts when they reach the thresholds.
+Implementing Tomcat Instances by using the Docker engine for running several Containerized AppServers.
+Writing Kubernetes yml files, checking the logs, troubleshooting and deploying the application
+
+BNSF, Fort Worth, TX March 2019 – April 2020
+Role: DevOps Engineer /Cloud Engineer
+
+Responsibilities:
+Experience in Server infrastructure development on AWS Cloud, extensive usage of Virtual Private Cloud (VPC), Cloud Formation, Lambda, Cloud Front, Cloud Watch, IAM, EBS, Security Group, Auto Scaling, Dynamo DB and Cloud Trail.
+Designed AWS Cloud Formation templates to create custom sized VPC, subnets, NAT to ensure successful deployment of Web applications and database templates. Maintained the user accounts (IAM), RDS, Route 53, VPC, RDB, Dynamo DB, SES, SQS and SNS services in AWS cloud.
+Worked on creation and managing IT infrastructure and application stack using AWS Cloud Formation and writing the template file using JSON.
+Installed and configured Kubernetes, Chef Server/workstation and nodes via CLI tools and wrote Docker files to create new images based on working environments for testing purposes before deployment.
+Worked on Creation of Pods and managed using Kubernetes. Utilized Kubernetes for the runtime environment of the CI/CD system to build test and deploy.
+Implementing a CI/CD (Continuous Integration /Continuous Delivery) framework using Jenkins, Maven & Artifactory in Linux environment and Integration of Maven/Nexus, Jenkins, Git, Confluence, Jira and Cloud Foundry
+Installed and configured Jenkins for Automating Deployments and providing a complete automation solution and involved in development of test environment on Docker containers and configuring the Docker containers using Kubernetes.
+Maintained build related scripts developed in ANT and shell. Modified build configuration files including Ant’s build.xml.
+Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing.
+Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+Used Kubernetes for automated deployments, scaling and management of containerized applications across clusters of hosts for application deployments of docker images.
+Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs and subnets
+Exposed Virtual machines and cloud services in the VNets to the Internet using Azure External Load Balancer
+Implemented high availability with Azure Classic and Azure Resource Manager deployment models.
+Used Jenkins pipelines to drive all micro services builds into Docker registry and then deployed to Kubernetes, Created Pods and managed using Kubernetes. Used Kubernetes to orchestrate the deployment, scaling and management of Docker Containers.
+Wrote Ansible playbooks, encrypted the data using Ansible Vault and maintained role-based access control by using Ansible Tower and Implemented IT orchestration using Ansible to run tasks in a sequence which can work on different servers.
+Wrote Ansible playbooks and securing a server with Ansible and Provisioning, deployment with Ansible and Worked on developing Ansible Go Scripts for automating regular tasks. Wrote Ansible playbooks for installing Tomcat, JBoss, Nginx, WebLogic, and WebSphere for configuring load balancers and fail over.
+Proficient with container systems like Docker and container orchestration like EC2 Container Service, Kubernetes, worked with Terraform.
+Worked with development team to migrate Ant scripts to Maven and Worked on authoring pom.xml files, performing releases with the Maven release plugin and managing Maven repositories.
+Worked on installing of Docker using Docker toolbox and worked on creation of Docker containers and Docker consoles for managing the application life cycle. Implemented several Tomcat Instances by using the Docker engine for running several Containerized AppServers.
+Created and maintained Python scripts for Automating Build and Deployment Process and Creating Web Based Application by Using Django Framework. Created scripts in Python which integrated with Amazon API to control instance operation
+Installed, Deployed Red Hat Enterprise Linux 6.x/7.x, CentOS and installation of packages and patches for Red Hat Linux Servers.
+
+Express Scripts, NJ April 2018 – March 2019
+DevOps AWS Cloud Platform Engineer
+
+Responsibilities:
+Setup and built AWS infrastructure resources like EC2, S3, IAM, EBS, Security Group, Auto Scaling, and RDS in Cloud Formation JSON templates.
+Used various services of AWS for this infrastructure. I used EC2 as virtual servers to host Git, Jenkins and configuration management tool like Ansible. Converted slow and manual procedures to dynamic API generated procedures.
+Created Docker containers for Testing environment to test the applications, built Docker images automatically with Jenkins pipeline by using the plugins like CloudBees, Docker pipeline, and Amazon EC2 Plugin.
+Integrated delivery (CI and CD process) Using Jenkins, created Local, Virtual Repositories in Artifactory for the project and release builds, repository management in Maven to share snapshots and releases of internal projects using JFrog Artifactory tool and Managed project dependencies by creating parent-child relationships between projects.
+Configured SSH, SMTP, Build Tools, and Source Control repositories in Jenkins. Installed multiple plugins to Jenkins. Configured Proxy to get auto updates.
+Integration of Automated Build with Deployment Pipeline installed Chef Server and clients to pick up the Build from Jenkins repository and deploy in target environments (Integration, QA, and Prod).
+Performed SVN to Git migration with careful analysis and migrated all branches, tags, along with commit history using Git -SVN utility.
+Installed and Configured Jenkins for Continuous Integration and performed continuous deployments with push button operation mechanisms and end to end automation of Continuous Deployment and Configuration Management.
+Utilizing EBS Volumes management and snapshots for backups using script. Worked in configuring Elastic Bean Stalk for developers to quickly deploy application for testing and pushing developed code for testing.
+Used Maven as a build tools on java projects for the development of build artifacts on the source code and developed/implemented Software Release Management strategies for various applications according to the agile process
+Coordinate/assist developers with establishing and applying appropriate branching, labeling/naming conventions using Subversion (SVN) and GIT source control.
+Installed, configured and maintained web servers like HTTP Web Server, Apache Web Server and WebSphere Application Server on Red Hat Linux.
+Used Kubernetes for automated deployments, scaling and management of containerized applications across clusters of hosts for application deployments of docker images.
+Administering and maintaining Atlassian products like JIRA, bamboo for tracking the releases, managing all the source code and integrating with Bamboo.
+
+Sonata Software Limited, Hyderabad April 2014 – July 2016
+Build and Release Engineer
+
+Responsibilities:
+Expertise in using built tool ANT for the building of deployable artifacts such as jar & war from source code with Java build/automaton tools such as ANT and Maven.
+Used Nexus for periodic archiving and storage of the source code for disaster recovery, sharing artifacts and handling dependency management within the company.
+Implemented Continuous Integration using Jenkins and GIT. Installed Jenkins/Plugins for GIT Repository, Setup SCM Polling for Immediate Build with ANT and ANT Repository (Nexus Artifactory) and Deployed the EARs and WARs in TOMCAT Application server using ANT script as a CI/CD Process.
+Integration of Automated Build with Deployment Pipeline. Installed puppet Server and clients to pick up the build from Jenkins repository and deploy in target environments (Integration, QA, and Production).
+Worked with Build & Release team to enhance the current process to implement a better software packaging and delivery by automation using Jenkins & puppet.
+Established Puppet Best practices approaches to systems deployment with other tools and managing Puppet as a unit of software deployment and independently version controlled.
+Implemented a Continuous Deployment pipeline with Jenkins, BitBucket, ANT, Jfrog Artifactory, and application servers like Apache, Nginx.
+Build scripts using ANT build tools in Jenkins to move from one environment to other environments also used ANT as a dependency management tool to manage all the dependencies that are required.
+Managed Git repository, code merging & production deployments. Assisted developers with, applying appropriate branching, establishing labeling conventions using Subversion, Git source control.
+Involved in setting up JIRA as defect tracking system and configured various workflows, customizations and plugins for the JIRA bug/issue tracker.
+
+Janya IT Technologies, Hyderabad, India August 2010 – March 2014
+Linux Administrator
+
+Responsibilities:
+Installing, configuring and updating Red Hat Linux 3/4/5 and CentOS on HP ProLiant /Dell servers using kickstart & support for various applications run on Linux environment, configuration, performance tuning, patching and maintenance. Monitoring, analyzing, and responding to security events utilizing security event management and reporting tools.
+Worked with outside vendors on implementation of network switches, load balancers and traffic generators within existing configuration, setup and implementation of new configurations and integration of new technology on HP ProLiant /Dell servers.
+Developed automated processes that run daily to check disk usage and perform cleanup of file systems on UNIX environments using shell scripting and CRON.
+Administration in VERITAS Volume Manager and VERITAS Cluster Server and Maintaining DNS, Network File Services (NFS), and DHCP, printing, mail, web, and FTP services for the enterprise.
+Performed tasks on F5 load balancer like installing and renewing SSL certificates and bouncing servers with performance issues after taking them out of the server pools.
+Configured LDAP clients on server test and troubleshoot for maintaining network and data security
+Scanning the newly assigned LUNs to the serves and assigning them to volume group and increasing the file system using Red Hat volume manager.
+Installation and support of VMWARE ESX/ESXi 3.5/4.x/5.x server which hosts the virtual servers for the test/dev/staging environment.
+Installation, configuration and support VMware vSphere including networking and storage configurations, Vcenter 4/5, Update Manager, and Administering VM's across 3 Datacenters running 1800+ VM's.
+Implemented Vcenter Operations supervisor and configured the infrastructure and integrated into the environment. Installation, Configuration, Maintenance and Administration of Red Hat Enterprise Linux 4/5/6 and SUSE Enterprise Linux.
+Contact this candidate

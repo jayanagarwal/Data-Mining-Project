@@ -1,0 +1,159 @@
+Khurram Shazad Khan 516-***-****
+ad8z5u@r.postjobfree.com
+
+Summary:
+Over the course of my career, I have worked as a Data Engineer, Architect, Developer, and an Analyst covering various sectors such as Defense, Automotive, Financial, Healthcare, Hospitals, Insurance, Entertainment, Retail, and eCommerce.
+
+Education:
+Masters, Information Systems Engineering, Western International University, AZ
+BS, Bachelor of Science, Purchase College, NY
+
+Technical Skills:
+ELT Technologies: Azure Synapse Analytics, db t, Alteryx, Databricks, Power Automate, Logic Apps, MS Functions, Informatica, SSIS, FiveTran, Hevo
+Database: Snowflake, MS SQL Server, Hive, Hadoop, Oracle, Teradata, DB2, SAP HANA, Redshift
+NoSQL Database: Cassandra, MongoDB, Redis, Couchbase, HBase
+Languages: SQL, Python, HTML, JavaScript, HANA XSJS, C#, PowerShell
+CI/CD Tools: Git, Azure DevOps, Bitbucket, GitHub
+IDE: Visual Studio, VS Code, PyCharm, PyDev, Thonny, NetBeans, Epic
+Container Technologies: Docker, Ansible, Terraform
+Operating Systems: Windows, Linux/Unix, MS DOS
+
+Professionals Summary:
+
+Client: Lithia Motors, Medford, Oregon Mar 2024 – Present
+Role: Sr. Data Engineer
+Project: Working in the Data Warehouse and Analytics team to design, implement, and maintain data pipelines for data ingestion, processing, and transformation (modern ELT) using Azure Synapse Analytics, db/Azure DevOps for CI/CD and Snowflake as backend.
+
+Responsibilities:
+Worked with all the Architects for the design, implementation, and maintenance of data pipelines for data ingestion, processing, and transformation using Azure Synapse Analytics.
+Worked in the DWH team to deliver modern data engineering models that follow DevOps principles and standards for continuous integration/ continuous delivery (CI/CD) using Azure DevOps with dbt.
+Part of Production support team to monitor and ensure the data pipelines from source systems are running daily and no failures.
+Leveraged Azure Data Factory (ADF) pipelines to optimize data integration processes.
+Extensive experience with Databricks technologies, ensuring rapid and accurate rapid and accurate data processing and analytics. Utilized Azure Synapse Analytics (PySpark)
+for advanced analytical operations, driving business insights from large data sets.
+Actively engaged and lead efforts of modernizing legacy systems, streamlining modern ELT processes and documenting all systems and processes.
+Worked with operation Architects to ensure that maintenance responsibilities are not part of data engineering day to day, including delivering easy to maintain and scalable data pipeline.
+Utilized dbt scripts and Git repos for automating the Loading and Transformations of development and UAT environment data models (Sales, Inventory, Service) into Snowflake DB.
+Led refactoring, remapping existing dataflow sources (Salesforce, SAP CPM, NG Cleas, Oracle DWH) into Lakehouse (Sidecar template), Databricks (PySpark) data transformation, deduplication, schema enforcing using Delta Lake before delivering to consumer applications (EDW, HANA, GSM, Data bus).
+Creation of Snowflake, Tables, Views, Store Proc as per data model requirements.
+Led the architecture of a plan for an Enterprise-wide Power Platform auditing system for auditing and monitoring the health of the entire ecosystem (tenet level).
+Creation and deployment of Executive level Power BI Dashboards for Director and VP of the organization.
+
+Client: Franklin Templeton, New York, NY Sep 2021 – Dec 2023
+Role: Sr. Data Engineer
+Project: Worked for different sales divisions of Franklin Templeton including 401K, Merger Acquisitions, etc. Working on moving Alteryx for on-prem to cloud deployment, set up high availability of Mongo DB. Making sure of administration and architecture for different tools.
+
+Responsibilities:
+Extract Transform and Load data from Sources Systems to Azure Data Storage services using a combination of Azure Data Factory, Databricks. Data Ingestion to one or more Azure Services - (Azure Data Lake, Azure Storage, Azure SQL, Azure DW) and processing the data in Azure Databricks.
+Met weekly with management team to discuss the roadmap, current scenarios, and future planning for many different tools that exist at the client.
+Assisted in determination of retirement and migration of existing and future state technologies, tools and the enterprise data warehouse.
+Led system and business analysis efforts to comprehend organizational requirements and align solutions accordingly.
+Designed, built, configure Azure infrastructure: Data Lake, Azure DWH, Data Catalog, Power BI, implemented data migration flow from on-premises (Oracle DWH) and cloud (Salesforce) sources to Azure using Data Factory, Logic app.
+Guide team members on Databricks Architecture, Services, Clustering best practices.
+Assist and develop Databricks notebooks, magic commands, utilities etc.
+Guidance to Jr developers on accessing Azure Data Lake from Databricks, difference between Keys, SAS Token, Service Principal, and Cluster Scoped Authentication.
+Provided POC to developers on proper mounting of Data Lake Container to Databricks, DBFS, mounting, and Gen2 Storage.
+Developed and optimized intricate data flow architectures utilizing SSIS, ensuring seamless ETL processes for data extraction, transformation, and loading.
+Utilized expertise in SAP BW on HANA to design efficient data models and optimize data extraction, ensuring high performance and data accuracy. Worked with SAP BW as the data source as well as many other data sources.
+Designed and implemented end-to-end business intelligence solutions, incorporating Hadoop, SQL Server, and Master Data systems.
+Designed, deployed, and improved complete business intelligence solutions that include complex clustering methods and AI-driven configuration for a variety of data sources, including SQL Server, and Oracle.
+Provided monthly update packages to the install center at FT to push updates to over 1,000 PBI company developers.
+Architected and Developed CRM system including the data modeling and development of ASP interfaces utilizing SQL queries. SSIS development for ETL, Multi-dimensional Cube in SSAS and SSRS report generation.
+Created POC for on-Prem .NET apps to be deployed to Azure cloud natively with use of advanced networking techniques and configurations of Gateways.
+Managed the integration and utilization of critical business intelligence tools and data platforms like SAP BW on HANA, Hadoop, and SQL Server Master Data, ensuring a cohesive and high-performance data environment for insightful analysis and strategic decision-making.
+Meet with key stakeholders to assess critical issues and then aid in Azure Architectural Road Map for the organization.
+Helped maintain Kafka based systems that were developed to rapidly stream data into mission critical apps.
+Modify update and develop new KPIs and Dashboards using APIs pertaining to Kafka ecosystem.
+Responsible to create calculated views to be used as many different data sets.
+Established skill in SAP BW calculated view architecture, utilizing sophisticated data transformations to provide advanced analytical capabilities and improved decision-making.
+Installed, upgraded, and configured Alteryx 2021.4 environment for enterprise usage.
+Alteryx embedded MongoDB backups and maintenance activities.
+Worked with internal customers via Service Now requests, handling managing, and creating requests.
+Created of ServiceNow Change Requests, Incidents, Catalog updates, orchestration, and many other days to day utilization of the ServiceNow.
+Used Snowpark, created POC for developers to be able to write transformations pipelines using python and run the code on Snowflake's virtual warehouses.
+Worked with many different software vendor support such as Microsoft, Quest, Tableau, Alteryx etc. on many ongoing discussion and issues that would arise due to various business units moving from BO or Tableau on to Power BI, from tools as well as varying different database from SQL Server to PostgreSQL, Redshift, Snowflake to many others.
+
+Client: Nexus Brands, Orange, CA May 2021 - Aug 2021
+Role: Data Engineer
+
+Responsibilities:
+Responsible for meeting weekly with the VP of IT and Director of BI team to understand their custom solutions needs as well as discuss future Data Warehouse Road map.
+Analyzed and dissected their existing iPaaS solutions and simplified the process.
+Meet with key stakeholders to assess critical issues and then aid in Azure Architectural Road Map for the organization.
+Analyzed the ETL solutions (FiveTran vs Hevo vs ADF), providing Pros and Cons to all tools evaluated, a consolidated roadmap for company development and process simplification.
+Assisted and guided company developers in Issues that have created roadblocks for major day to operations in various Azure areas, such as custom ADF pipeline development for REST APIs, Azure functions, Azure KeyStore and other Azure capabilities.
+Reviewed and updated customer solution architecture for Big Data and IoT initiatives, covering many devices, gateways, connectivity, apps, protocols, integration layers, security layers, and UI.
+Managed and showed Jr developers on how to configure Azure IoT hubs, devices, and modules during development.
+Displayed mastery in creating, maintaining, and providing robust support for Python code, contributing to advanced data-driven solutions and effectively bridging data analysis with actionable insights.
+Exhibited skillful creation and robust support of Python code, enriching data processes, analysis, and automation within the BI framework.
+Designed calculated views within SAP BW, leveraging advanced calculations and data modeling techniques to facilitate sophisticated analytics and actionable insights.
+Exhibited proficiency in crafting intricate calculated views within SAP BW, employing comprehensive data manipulation to drive nuanced analysis and support strategic decision-making.
+Conducted thorough system and business analysis to understand and define data requirements, integration needs, and reporting objectives.
+Designed and optimized data flow processes to ensure efficient extraction, transformation, and loading (ETL) using SSIS.
+Troubleshot and crafted performance-optimized TSQL scripts, ensuring smooth data ETL into SQL Server through SSIS and SQL Agent.
+Diagnosed and enhanced TSQL-based data ETL pipelines into SQL Server using SSIS and SQL Agent, ensuring smooth integration and optimal performance.
+Provided POC on Snowflake vs Azure for Nexus Data Warehouse, providing the Pros and Cons.
+Created ETL processes via SSIS to integrate data into Vendor Portal applications from client platforms with stored procedures, functions, and triggers, and implemented web services and API's.
+Provided Architecture of a custom web app (C# .NET Core) for Master Data consolidation effort for company MDM effort.
+
+Client: City of Hope Hospital, Duarte, CA Jul 2017 - May 2021
+Role: Sr. Data Engineer
+
+Responsibilities:
+Designed and architected scalable data processing and analytics solutions, including technical feasibility, integration, development for Data storage, processing and consumption of Azure data, analytics, business intelligence (Reporting Services, Power BI, Tableau), NoSQL, Data Factory, Event Hubs, Data Flows, Databricks, Azure synapse Analytics Notification Hubs Logic App, and Triggers.
+Designed and implemented database objects such as tables, views, stored procedures, and triggers, resulting in optimized data storage and retrieval processes.
+Developed and maintained data dictionaries and data models, ensuring accurate and consistent documentation of the organization's data assets.
+Evaluate problem statement and understand the business expectations of the project and perform data mining on the data sources to find required data using tools such as Spark-Scala, Python, SQL, HiveQL.
+Developed shell scripts to generate the Hive/Impala, create statements from the data and load the data into the table.
+Develop and maintain application code in Spark-Scala, Hive and Python by using appropriate data structures and algorithms for optimal performance and better storage that increase the speed and consistency of the application running on Linux.
+Develop reports and dashboards on an Adhoc basis for business users and maintain them in a centralized CAP portal that’s available to a user 24/7.
+Perform Root Cause Analysis (RCA) and implement and lead coding changes and development efforts based on the outcomes.
+Implement the process in object oriented to maintain the code in readability and TDD (Test Driven Development) manner.
+Responsible for troubleshooting the issues and bench marking the application services by collecting/analyzing the metrics.
+Take ownership of building scalable applications with high availability.
+Identify and recommend new ways to streamline the data centric applications and optimize the performance.
+Collaborate with big data platform cluster administrators to optimize the clusters for best
+resource utilization.
+Complete automation using Azure DevOps tools/ CICD process to build, deploy the components from lower to higher rings.
+Performing ongoing tasks monitoring, automation, and refinement of data engineering solutions.
+Build and meet project timelines and manage delivery commitments with proper communication to management.
+Experience working with an on-shore / off-shore model.
+
+CenturyLink/FirstGroup, Glen Ellyn, IL May 2016 to Mar 2017
+Data Engineer/Power BI
+
+Responsibilities:
+Designed, built, configure Azure BI infrastructure: Data Lake, Azure DWH, Data Catalog, Power BI, implemented data migration flow from on-premises (Oracle DWH) and cloud (Salesforce) sources to Azure using Data Factory, Logic app.
+Implemented CI\CD GitHub integration with Azure pipelines.
+Applied Data security principles: RBAC, firewalls, policies, encryption data in transit and at rest.
+Provisioned data backup/fail over, recovery models.
+Designed, built Snowflake DWH and implemented migration from on premises databases. Implemented data ELT processes (Spark).
+Designed and built Data Vault 2.0 as POC for Agile data warehouse solution.
+
+Client: Raytheon, Tucson, AZ Jun 2009 - May 2016
+Role: BI Architect/ DW developer
+
+Responsibilities:
+Implemented several DAX functions for various fact calculations for efficient data visualization in Power BI.
+Used Set Analysis and various QlikView and Qliksense functions in writing expressions for sheet objects
+Participated in building visualization and dashboard in JavaScript using D3.js library.
+Involved in ETL processes and develop source-to-target data mappings, integration workflows, and load processes.
+Created logging to check the status of each pipeline and Data is moved to Azure Data Warehouse from azure storage.
+Performed tuning of SQL queries and Stored Procedure for speedy extraction of data to resolve and troubleshoot issues in OLTP environment.
+Utilized Power BI Gateway to keep the dashboards and reports up to date
+Provided guidance and insight on data visualization and dashboard design best practices in Tableau.
+Participating in Daily stand up Agile/Scrum meetings to discuss regarding the enhancements to be made for the existing requirements.
+Created many complex Query's and used them in Power BI Reports directly to generate reports on the fly.
+Used Joins, correlated and non-correlated sub-queries for complex business queries involving multiple tables & calculations from different databases
+Scheduled and maintained nightly and weekly loads of data by creating the corresponding job tasks.
+Checking the code into TFS (Store Procedures, Views, Tables, Schema) for the deployment process for the production environment
+Published Power BI Reports in the required origination's and Made Power BI Dashboards available in Web clients and mobile apps.
+Wrote T-SQL (DDL and DML) queries, Store Procedures and used them to build packages and handled slowly changing dimensions to maintain the history of the data.
+Implement the SAP Business Objects reporting requirement.
+Responsible for deploying the application for the Integration, Functional and User Acceptance Testing.
+Adheres to department, organization and industry guidelines, standards, policies and procedures.
+Created Page Level Filters, Report Level Filters, Visual Level Filters in Power BI according to the requirements.
+Used One Drive for storing different versions of Power BI report.
+Used JIRA for Version Control needs, task check-ins.
+Responsible for complete maintenance and delivery of scheduled releases.
+Contact this candidate

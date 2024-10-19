@@ -1,0 +1,97 @@
+Cloud DevOps Engineer
+
+Name : Imdaduddin Qureshi Syed
+Email Id: ad6y99@r.postjobfree.com
+Contact Number: 803-***-****
+LinkedIn Id: www.linkedin.com/in/imdaduddin
+Professional Summary:
+An Accomplished IT Professional with 5 years of experience on DevOps Engineering prioritizing CI/CD, Automation of Infrastructure & Configuration Management, Cloud Resource Utilization, building cloud native applications and the use of a variety of tools, including Kubernetes, Terraform, Ansible, Docker, Chef, Jenkins, GIT, and Maven.
+Certifications:
+AWS Certified Developer - Associate certification
+Certified Kubernetes Administrator (CKA)
+Education Details:
+●CLEVELAND STATE UNIVERSITY Cleveland, Ohio
+Master’s in Information Systems Dec 2023
+●VAAGDEVI COLLEGE OF ENGINEERING Hyderabad, India
+Bachelor’s in Electrical & Electrical Engineering Apr 2018
+
+Technical skills:
+Cloud Platforms: Microsoft Azure, AWS Cloud.
+Version Control Tools: GIT, Bitbucket, GitHub, GitLab CI/CD, Jenkins, Azure DevOps Pipelines.
+Configuration Management Tools: Ansible, Chef.
+Container Platforms: Docker, Kubernetes, OpenShift, Helm.
+Monitoring Tools: Nagios, Splunk, Prometheus, Grafana, Datadog, Dynatrace.
+Languages: Python, Shell scripting.
+Web Servers: Nginx, Tomcat.
+Operating Systems: Microsoft Windows, Linux.
+Tracking Tools: Jira, Confluence.
+Code Scanning: SonarQube.
+Databases: RDS, MySQL, MongoDB, NoSQL, MariaDB
+Logging: CloudWatch, Azure Monitor.
+Automation: Terraform, Cloud Formation Templates, ARM.
+
+Professional Experience:
+Client: Albertsons, Phoenix-AZ Feb 2023 – present
+Role: Cloud DevOps Engineer
+Responsibilities:
+Monitored performance of 4+ systems in cloud-based computing environment, including overall system health, reliability, performance, and cost owned and operated 100% of all conﬁguration and release management governance.
+Created 5 Terraform scripts to Automate landing zone creation with multiple services. Expanded in Installing and Conﬁguring OpenShift(version 4.11, 4.12) Container Platform and 5 OpenShift Origin Clusters.
+Experience in converting existing Terraform modules that had version conflicts to utilize cloud formation during Terraform deployments to enable more control or missing capabilities.
+Developed 3 pipelines in Gitlab and OpenShift v4 for faster building and deploying of 180+ applications onto different platform for better customer experience.
+Built Jenkins jobs to create AWS infrastructure from GitHub repos containing Terraform code to deploy different Applications infrastructure for Dev, QA and Pre-prod based on the requirement from different teams.
+Developed and maintained CI/CD pipelines with Jenkins, GitLab, and Octopus Deploy, enabling rapid and reliable software deployment across multiple environments to enhance the overall customer experience.
+Deployed and managed PostgreSQL database clusters in production environments, ensuring high availability and data integrity.
+Integrated MongoDB with ETL pipelines and data processing frameworks to ingest and analyze large volumes of structured and unstructured data.
+Led the deployment of the company's content cloud platform on Amazon AWS, leveraging EC2, S3, and EBS, and driving automation through the evaluation and utilization of Ansible Playbooks and roles.
+Implemented AWS solutions using EC2, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups, Optimized volumes and EC2 instances. Also, used EC2 and S3 over Snowflake.
+Managed the company's AWS infrastructure as code (IaaS) using Terraform, demonstrating proficiency in writing Python scripts to enhance Terraform functionality and streamline build and deployment processes through Jenkins automation.
+Implemented cluster services using Kubernetes and Docker, managing local deployments and application containers to enhance scalability and resource efficiency.
+Implement automated security testing and scanning tools into the continuous integration and continuous deployment (CI/CD) pipelines.
+Implement security controls and best practices for infrastructure provisioning and configuration management using Terraform and Ansible.
+Secure cloud environments by configuring appropriate access controls, network security, and data encryption mechanisms.
+
+Client: Alpha Software Tech, Hyd, India Oct 2019 to Nov 2021
+Role: Azure DevOps Engineer/ SRE
+Responsibilities:
+Configured Azure cloud services, Azure Firewalls, Azure IAM (MFA/RBAC), Azure Active Directory (AD), Azure Resource Manager (ARM), Azure Storage, Blob Storage, Azure VMs, SQL Database, Azure Functions & Azure Monitor.
+Configured Azure Infrastructure Automation using Terraform scripts and launched various services like AKS, ACR, VM, VN..etc
+Designed Network Security Groups (NSGs) & Load Balancer to control inbound and outbound access to network interfaces (NICs), VMs and subnets.
+Worked on creating, configuring, and managing AKS clusters in Azure, including managing node pools, configuring networking, and setting up load balancing.
+A background in creating and coordinating whole deployment pipelines in Spinnaker, including build, test, deploy, and monitoring phases.
+Led migration projects from legacy database systems to MariaDB, including data migration, schema conversion, and compatibility testing.
+Managing the Azure Kubernetes Services (AKS) policies, providing access to different Azure resources and developing and improving the workflows that govern access.
+Worked on Databricks for data extraction, transformation, and aggregation from multiple file formats for analyzing & transforming the data to uncover insights into the customer usage patterns.
+Worked on Azure DevOps services such as Azure Repos, Azure Boards, and Azure Test Plans to plan work and collaborate on code development, built and deployed applications.
+Worked on implementing security measures within Databricks and Azure, including role-based access controls (RBAC), encryption, and compliance with data governance standards.
+Managed servers on the Microsoft Azure Platform Azure Virtual Machines instances using Ansible Configuration Management and created Ansible Playbooks, tasks, and roles to automate system operations.
+Scaled OpenShift routers and registries horizontally across availability zones in an Azure region for high availability.
+Worked with Terraform for automating VNET, NSG, AKS, ACR, VMs, and Storage accounts to replace the rest of our infrastructure.
+Implemented Infrastructure-as-Code solutions using Terraform and Azure Resource Manager (ARM) templates to provision Azure resources for .NET apps.
+Implemented custom RBAC roles and policies for access governance across different resource groups, subscriptions. Participated in designing RBAC strategy and policies to align with organizational standards.
+Setup autoscaling rules and load balancer for high availability of .NET apps running on Azure Kubernetes Service (AKS).
+Created Ansible roles in YAML and defined tasks, variables, files, handlers, and templates.
+Experience with administration and administration of Azure Active Directory (Azure AD).
+Knowledge of integrating infrastructure as code (IaC) with Terraform, building up and monitoring IaC integration using tools like Terraform and Kubernetes manifests to ensure synchronous.
+Worked with Terraform scripts to automate the Azure Iaas virtual machines using Terraform modules and deployed virtual machine scale sets in a production environment.
+Diagnosed and resolved issues related to TCP/IP, ensuring seamless communication within the network infrastructure.
+Developed and maintained CI/CD in Azure DevOps pipeline for multiple environments, enabling teams to safely deploy code in Azure Kubernetes Services (AKS) using YAML scripts and HELM charts.
+Worked on creating, configuring, and managing AKS clusters in Azure, including managing node pools, configuring networking, and setting up load balancing.
+Configured and installed Prometheus and Grafana using HELM charts within an AKS cluster for monitoring and visualization of Kubernetes workloads.
+Facilitated smooth migration of on-premises systems to Azure by creating dedicated project in Jira to track tasks, issues, and progress.
+Created and customized Jira workflows to implement agile processes including user story management, sprints, releases, and code deployments.
+
+Client: SparcTech, Hyd, India Mar 2018 to Sept 2019
+Role: DevOps Engineer
+Responsibilities:
+Drove automated infrastructure provisioning and management using Terraform scripts to allow for smooth deployments and scaling of AWS EC2 instances and virtual machine scale sets in production environments.
+Configure Kubernetes clusters on AWS EKS by deploying Prometheus and Grafana with Helm charts in order to get monitoring workload performance and visualization which will help resource allocation to be on track and ultimately improve the operations efficiency.
+Implemented strong CI/CD pipelines using Jenkins that allow seamlessly integration and deploying the updates of applications and so improve the communication between development and operations teams.
+Used AWS CloudFormation templates (JSON/YAML) to swiftly provision AWS services and preserve infrastructure consistency while enabling incremental deployments without compromising already-existing resources.
+Developed the customized AWS Lambda functions for automatic file transfers from on-premises servers to AWS S3 and RDS instances that would improve the quality of operations and data handling practices.
+Deployed .NET and Java microservices on AWS and increased the performance, scalability and reliability of applications making sure they work perfectly with other AWS services.
+Ansible, Python, and shell scripting were used to automate AWS infrastructure management tasks, guaranteeing adherence to set procedures and guidelines, and boosting productivity.
+Used Ansible playbooks for provisioning and configuring virtual and physical instances on AWS have made it possible to ensure the application of infrastructure standards and speed up the process of releases.
+Customized Amazon CloudWatch for real-time monitoring and logging of AWS resources, doing proactive detection and resolution of issues leading to high availability and reliability of the applications.
+Implementation of access controls based on IAM policies for Amazon EKS clusters to monitor resource governance and security compliance along with meeting the regulatory requirements.
+Embedding role-based access control (RBAC) models for AWS resources, the security risks are greatly reduced, and data integrity is maintained, while enhancing proper access control and security compliance across all applications.
+Contact this candidate

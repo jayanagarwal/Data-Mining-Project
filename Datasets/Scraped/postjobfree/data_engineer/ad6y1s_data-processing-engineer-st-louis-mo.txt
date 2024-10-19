@@ -1,0 +1,154 @@
+PROFESSIONAL SUMMARY
+
+Senior Data Engineer with over 9 years of experience specializing in designing data-intensive applications using the Hadoop Ecosystem, Big Data Analytics, Cloud Data Engineering, Data Warehousing, reporting, and Data quality solutions.
+Expert in building and managing distributed data systems on cloud platforms such as AWS and Azure, ensuring seamless data processing and storage.
+Hands-on experience with AWS cloud services including AWS S3, EMR, EC2, Lambda functions, Redshift, Athena, and AWS Glue, optimizing data storage and retrieval.
+Managed the deployment and lifecycle of AWS RDS instances, ensuring high availability and performance of relational databases.
+Demonstrated proficiency in integrating Apache NiFi with Azure services like Azure Data Lake, Blob Storage, and Azure SQL Database for secure and efficient data transfer.
+Automated and scheduled data workflows using Azure Data Bricks and Azure Data Factory, implementing triggers, schedules, and event-based pipelines for streamlined operations.
+Designed, developed, and implemented complex data integration workflows using Informatica Power Centre, extracting, transforming, and loading data from diverse sources.
+Strong programming skills in SQL, Scala, and Python, utilized Pandas, NumPy, and SciPy for data cleaning, transformation, and statistical analysis to provide actionable insights.
+Developed stored procedures using SQL and PL/SQL in relational databases such as MS SQL Server, ensuring efficient data processing and management.
+Proficient in SQL and PL-SQL with a focus on Oracle databases, optimizing database performance, and ensuring data integrity.
+Expertise in schema design and data modeling for NoSQL databases, PostgreSQL, and understanding of Hadoop architecture including distributed storage systems like HDFS and S3.
+Deep understanding of Kafka Streams and KSQL for real-time data processing and analytics, facilitating timely decision-making and insights.
+Extensive experience with Spark RDD, Data Frames, SQL, and Streaming API for large-scale data manipulation, analysis, and processing.
+Proven ability to integrate Kafka with big data processing frameworks such as Apache Hadoop, Apache Spark, and Apache Flink for comprehensive data processing solutions.
+Utilized Scala with Apache Spark for efficient and distributed data analysis, enabling faster insights and decision-making.
+Proficient in Kafka, Hive, MapReduce, HBase, Snowflake, Sqoop, Impala, and Yarn, leveraging these technologies for diverse data processing needs.
+Managed data workflows efficiently using Airflow, creating, scheduling, and monitoring complex data pipelines to ensure smooth operation.
+Leveraged Agile methodologies and Scrum frameworks to drive project success, enhance team collaboration, and deliver robust data solutions on time.
+Designed and implemented Dimensional Data Models including Star Schema and Snowflake Schema, optimizing data storage and retrieval efficiency.
+Created advanced calculated fields, parameters, and sets in Tableau for detailed data analysis and visualization, enhancing reporting capabilities.
+Developed interactive dashboards and reports in Power BI, enabling stakeholders to derive actionable insights and make informed decisions.
+Experienced in setting up and managing Kubernetes clusters for container orchestration, ensuring scalability and high availability of applications.
+Proficient in Linux-based environments, including scripting with Bash for automation, managing permissions, and performing system administration tasks to ensure efficient and secure data processing and storage.
+Utilized GitHub Actions for continuous integration and deployment (CI/CD) pipelines, automating testing and deployment processes to streamline development workflows.
+Implemented best practices to optimize data workflows and ensure data quality across multiple platforms and applications.
+Collaborated effectively with cross-functional teams to understand business requirements and deliver data-driven solutions that meet organizational objectives.
+
+TECHNICAL SKILLS:
+
+Programming Languages
+SQL, Scala, Python
+Data Integration Tools
+Apache NiFi, Informatica Power Centre, Informatica Power Exchange, DBT (Data Build Tool)
+Database Technologies
+MS SQL Server, Oracle, PostgreSQL, Snowflake, Hadoop (HDFS), HBase, Spark, Kafka, Map Reduce, Flink, Sqoop
+Cloud Platforms
+AWS, Azure
+AWS Services
+S3, EMR, EC2, Lambda, Redshift, Athena, Glue, RDS
+Azure Services
+Data Lake, Blob Storage, SQL Database, Data Bricks, Data Factory, Synapse SQL
+Workflow Orchestration
+Apache Airflow, Azure Data Factory
+Data Visualization Tools
+Tableau, Power BI
+Containerization& Orchestration
+Kubernetes, Docker
+Version Control & CI/CD
+GitHub, GitHub Actions, Jenkins
+Web Development Tools
+Plotly, Dash
+Data Storage Management
+ETL Processes, Data Lifecycle Management, Data Storage Optimization
+
+PROFESSIONAL EXPERIENCE:
+
+Client: GoodRx, Santa Monica, CA Dec 2020 – Present
+Role: Sr. Data Engineer
+Responsibilities:
+
+Designed and implemented complex data integration pipelines using Azure Data Factory and Azure Data Lake, ensuring seamless movement and transformation of pharmaceutical and healthcare data for analytics and reporting.
+Optimized data processing workflows with Azure Databricks and DBT (Data Build Tool) for faster transformations and model training, supporting efficient analysis and market insights.
+Developed and managed scalable data lake infrastructure on Azure Cloud, utilizing Azure Synapse SQL for efficient data analysis and reporting.
+Implemented Databricks notebooks in Python with PySpark to preprocess pharmaceutical and healthcare data for reporting and analytics, including data cleansing, enrichment, aggregation, and de-normalization.
+Utilized PostgreSQL's full-text search capabilities to improve application search functionality.
+Designed scalable data processing architectures leveraging Hadoop and Spark technologies to manage growing data volumes and user demands effectively.
+Implemented data governance strategies to ensure compliance with GDPR, HIPAA, and other regulatory requirements, safeguarding pharmaceutical data security and privacy.
+Engineered high-performance data ingestion frameworks with Scala and Apache Flink for real-time analytics and event processing.
+Built Spark-Streaming applications to process and store real-time pharmaceutical and healthcare data from Kafka topics into HBase, supporting operational analytics and insights.
+Implemented Data Vault 2.0 methodologies and automated DV packages for scalable data integration, ensuring robust data architecture and flexibility.
+Developed custom Kafka serializers and deserializers for efficient data processing across various pharmaceutical and healthcare data formats.
+Utilized Apache Kafka with Scala to construct and manage real-time data pipelines for reliable data transmission and processing.
+Configured Airflow with advanced security features for authentication, authorization, and encryption, protecting sensitive data and ensuring compliance with data privacy regulations.
+Led the development of advanced analytics models in Snowflake for risk assessment and strategic decision-making.
+Conducted rigorous data quality assessments using Snow SQL to maintain high-quality analytical warehouses and ensure the accuracy and reliability of pharmaceutical data insights.
+Implemented comprehensive unit testing and automation using PyTest and Unit Test for Python applications, ensuring code reliability and minimizing deployment risks.
+Applied Scrum and Agile methodologies to streamline data engineering projects, ensuring alignment with business objectives and timely delivery of data solutions.
+Utilized Power BI to create sophisticated visualizations and derive actionable insights from data.
+Integrated Power BI with Azure Synapse Analytics to support large-scale data processing and analytics initiatives.
+Implemented Kubernetes networking solutions such as Service Mesh and Ingress controllers to optimize communication for microservices and scalable infrastructure.
+Developed comprehensive project documentation and static websites using GitHub Pages, enhancing collaboration and knowledge sharing among teams and stakeholders.
+
+Environment: Azure (Data Factory, Data Lake, Data bricks, DBT, Synapse SQL), PySpark, PyTest, Unit test, PostgreSQL, Hadoop, Spark, HDFS, HBase, Flink, Scala, Spark, Kafka, Airflow, Snowflake, Snow SQL, Scrum, Agile, Tableau, GDPR, HIPAA, Power BI, Cognitive Services, Kubernetes, GitHub.
+
+Client: Ohio Department of Agriculture, Reynoldsburg, OH Jun 2017 – Nov 2020
+Role: Sr. Data Engineer
+Responsibilities:
+
+Designed and implemented end-to-end data solutions using AWS Glue, AWS S3, and AWS Redshift, optimizing data processing for agricultural data management.
+Integrated AWS into ETL workflows to extract, transform, and load agricultural data from various sources, ensuring alignment with business requirements.
+Developed and optimized Python-based ETL pipelines in both legacy and distributed environments, enhancing data processing efficiency.
+Utilized Spark with Python-based pipelines on AWS EMR for loading data to the Enterprise Data Lake (EDL) using AWS S3 as a storage layer.
+Developed and optimized NoSQL data models tailored for agricultural use cases, improving data retrieval performance and reducing storage costs.
+Integrated NoSQL databases with ETL pipelines to facilitate seamless data ingestion, transformation, and loading, ensuring enhanced data availability and accessibility.
+Employed NoSQL databases in real-time analytics and monitoring systems, enabling rapid processing and visualization of streaming agricultural data.
+Developed MapReduce/Spark Python modules for machine learning and predictive analytics in Hadoop on AWS, contributing to advanced agricultural data analysis.
+Optimized Hadoop MapReduce jobs and Spark applications to enhance data processing speed and resource utilization, resulting in significant cost savings.
+Designed and maintained scalable data processing pipelines using Scala and Apache Spark, enabling efficient batch and stream processing of large agricultural datasets.
+Designed and optimized data models in Snowflake to support advanced analytics, including predictive modeling and agricultural outcome analysis.
+Leveraged Snowflake for ETL pipelines and cloud data loading using stages and workflows, ensuring reliable and scalable agricultural data management.
+Implemented multi-cluster Kafka setups with Confluent Kafka to support geo-replication and ensure high availability of agricultural data across multiple regions.
+Integrated Scala-based applications with Apache Kafka for real-time data streaming, facilitating low-latency data processing and event-driven architectures.
+Designed and implemented complex data pipelines using Apache Airflow, orchestrating ETL processes, data transformations, and model training workflows for agricultural data insights.
+Developed Power BI data flows to centralize and streamline agricultural data preparation processes, ensuring consistency and reusability of data transformations.
+Utilized Power BI's data transformation capabilities in Power Query to clean, shape, and combine agricultural data from multiple sources, ensuring accurate and reliable data for analysis.
+Implemented Agile and Scrum best practices to enhance team productivity and successfully drive data engineering initiatives.
+Managed containerized workloads using Kubernetes, including deployment, scaling, and monitoring of microservices and agricultural data processing jobs.
+Utilized GitHub Packages to manage and distribute private and public packages, enhancing version control and dependency management for agricultural data applications.
+Collaborated with agricultural domain experts to understand data requirements and documented technical solutions and data workflows for transparency and knowledge sharing within the department.
+
+Environment: AWS (Glue, S3, Redshift, RDS), ETL, Informatica, CDC, Python, Spark, EMR, NoSQL, EDL, Hadoop, Map Reduce, Snowflake, Kafka, Confluent Kafka, Scala, Apache Airflow, Tableau Server, Power BI, Power Query, Scrum, Agile, Kubernetes, GitHub.
+
+Client: Mahindra Home Finance, Mumbai, India Oct 2015 – Apr 2017
+Role: Data Analytics Engineer
+Responsibilities:
+
+Designed and implemented ETL pipelines using Azure Databricks and Azure Data Factory to extract, transform, and load data from various sources for Mahindra Home Finance, supporting operational and analytical needs.
+Contributed to the development of an Azure cloud-based data centre on Azure Data Lake ensuring scalable and secure data storage solutions.
+Designed and implemented cloud data integration solutions using Informatica Cloud services facilitating seamless connectivity between on-premises and cloud-based platforms.
+Developed Python-based data pipelines for ETL tasks ensuring data quality and consistency in financial data processing.
+Created Python-based data visualization tools using Matplotlib, Seaborn, and Plotly providing insightful graphical representations of financial data.
+Utilized Apache Spark and Hadoop ecosystem tools (MapReduce, Hive) to develop scalable data processing solutions at Mahindra Home Finance, enabling efficient analysis of large financial datasets.
+Implemented SAS data processing and statistical analysis routines to derive actionable insights from financial data.
+Leveraged Python for machine learning tasks and predictive analytics, automating data workflows to enhance operational efficiency in financial analytics.
+Designed and deployed interactive dashboards and reports in Tableau enabling stakeholders to visualize and explore key financial metrics dynamically.
+Integrated streaming data pipelines with Apache Kafka and Spark Streaming for real-time financial data processing and analysis at Mahindra Home Finance, ensuring timely insights for decision-making.
+Conducted SQL query optimization and managed database systems (MySQL, PostgreSQL) to improve data retrieval performance and efficiency in financial data management.
+Collaborated within Agile teams using Scrum frameworks, adapting to project requirements and delivering robust data solutions and insights in financial analytics.
+Integrated GitHub with tools like Jenkins and Docker to enhance collaboration and automate workflows for efficient financial data management and analytics.
+Environment: Azure (Data bricks, Data Factory, Data Lake, SQL Data warehouse), SAS, Python, R, ETL, Apache Spark, Hadoop, Python, Pandas, TensorFlow, scikit-learn, NumPy, Apache Kafka, Spark, SQL, Tableau, Agile, Scrum, GitHub, Jenkins, Docker.
+
+Client: Canara HSBC life insurance, Gurgaon, India Jul 2014 – Sep 2015
+Role: Data Analyst
+Responsibilities:
+
+Utilized the Pandas library in Python to analyze large datasets, extract meaningful insights, and perform advanced statistical analysis, supporting data-driven decision-making processes.
+Excel expert proficient in advanced functions, pivot tables, and data manipulation and analysis visualizations, enhancing data analytics capabilities.
+Implemented data preprocessing, feature engineering, and model building using SAS, contributing to predictive analytics and business intelligence.
+Developed and maintained ETL processes using Alteryx, ensuring seamless data extraction, transformation, and loading for operational efficiency.
+Created professional presentations and reports in PowerPoint, effectively communicating data-driven insights to stakeholders.
+Designed and developed reports in SSRS, providing detailed insights for various business processes and operational areas.
+Strong experience gathering requirements from stakeholders and transforming business requirements into functional specifications.
+Automated data processing and reporting tasks using Excel and VB Macros, improving operational efficiency and data accuracy.
+Experience in performance tuning by identifying and enhancing the performance of dashboards and reports, optimizing data visualization and analysis.
+Actively participated in cross-functional teams, demonstrating strong teamwork skills and contributing to collaborative projects.
+Integrated Power with various data sources, including SQL Server APIs, to ensure comprehensive and up-to-date data representation in dashboards.
+
+Environment: Python, Pandas, Pivot tables, SAS, ETL, Alteryx, PowerPoint, SSRS, Excel, VB Macros, Power BI, SQL Server, API
+
+EDUCATION: Jawaharlal Nehru Technology University, Hyderabad, TS, India
+BTech in Computer Science and Engineering, June 2010 - May 2014
+Contact this candidate

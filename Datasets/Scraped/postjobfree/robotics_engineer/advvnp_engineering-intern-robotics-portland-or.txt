@@ -1,0 +1,29 @@
+Ritika Avadhanula
+Github: https://github.com/rtkartista Email: advvnp@r.postjobfree.com
+LinkedIn: linkedin.com/in/ritikaavadhanula/ Mobile: +1-541******* Education
+Oregon State University (OSU), Corvallis, United States September 2021 - 23 Masters of Science - Robotics
+Graduate Teaching Assistant: (ME 351, ROB 421, ENGR 101) Relevant Coursework: Mobile Robotics, Robotics and Artificial Intelligence, Multiple Robot Systems, Robot Motion Planning, Robot Kinematics, and Dynamics, Multi-sensor Fusion Indian Institute Of Technology, Kharagpur, India June 2016 - 20 Bachelors of Technology (Hons.) - Aerospace Engineering Relevant Coursework: Programming for Engineers, Automatic Flight Vehicle Controls, Probability, and Statistics Thesis: Performance Optimization Of The 6DOF de-Centralized Docking Controller Using Genetic Algorithms. Skills
+Languages: Python, C++, MATLAB, Embedded C
+Tools: ROS, GTest, Docker, GIT, OpenCV, Point Cloud Library, Moveit, Solidworks, Eigen, IPOPT Platforms: Linux, STM32, Arduino, Raspberry, Crazyflie 2.1, Turtlebot3 Domain Skills: Navigation, Path Planning, Control Systems, Autonomous Mobile Robots, Algorithms, Localization, Computer Vision Nanodegree Certificates: Robotics Software Engineer, Sensor Fusion Engineer Relevant Experience
+Student Researcher, Human Machine Teaming Lab, OSU OR, USA December 2021 - Ongoing
+Exhibited the working autonomy stack on the UAV hardware for distributed reactive collision avoidance with the loco positioning system for a group of 4 UAVs in indoor cluttered environments.
+Authored a literature review on existing collision avoidance algorithms for multiple UAVs running in a dynamic environment with substantial state estimation noise.
+Collaborated to perform experiments and estimate the loco positioning noise in an indoor setup for testbed setup. Robotics Engineering Intern, Asensus Surgical NC, USA June 2022 - August 2022
+Developed and presented a ROS2 package for an upcoming robot arm’s motion using moveit and ros_controls.
+Collaborated on a proposal for the development of the arm's usability in the pre-operative surgical flow. Robotics Engineer, Sirab Technologies Pvt. Ltd. India July 2020 - July 2021
+Demonstrated a platooning package in ROS for an autonomous vehicle with a higher-level motion commander and a low-level model predictive controller.
+Designed a monte-carlo localization package for an IMU and Radar-based vehicle localization.
+Collaborated on a state machine design proposal for a truck platooning use case. Projects
+Multiple Sensor Fusion for Self-driving Cars: Link1 Link2
+Developed a time to collide (TTC) by fusing 2-dimensional keypoints from camera images and lidar point clouds in C++.
+Formulated a vehicle detector employing an unscented Kalman filter on lidar and radar data in PCL.
+Filtering, segmentation, and clustering were performed on the data obtained from the lidar scans. Autonomy on Turtlebot3: Link1 Link2
+Simulated a real-time appearance-based SLAM, pick-up, and drop-off on a custom robot in ROS using move_base package.
+Implemented monte-carlo localization, occupancy grid mapping, and artificial potential field planner from scratch.
+Employed buffered Voronoi collision avoidance algorithm on the turtlebot3 hardware. Deep Q Learning-Based Robot Exploration: Report
+Presented a 100 times faster alternative to Dijkstra’s search in python using experience replay buffers as an input to the deep Q network (DQN).
+Image Segmentation: Report
+Demonstrated that real-time appearance-based SLAM and holistically edge detector detects vineyard branches better than lucas-kanade optical flow on a lab setup.
+Braille Generator: Link
+Built a working model of a braille character generator with inverse kinematics on a robot arm hardware.
+Contact this candidate

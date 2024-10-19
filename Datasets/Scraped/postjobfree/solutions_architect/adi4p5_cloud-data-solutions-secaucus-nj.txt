@@ -1,0 +1,236 @@
+SUMMARY
+Cloud, Data and Solutions Architect with 19+ years of overall IT experience with strong background in Cloud Architecture, Integration technologies, Security Architecture, Governance, Business Process Automation, Information Management, and Emerging Technologies.
+Experience in healthcare (Blue Cross Blue Shield, Kaiser Permanente), financial (Bank of America, Crédit Agricole Investment Bank), pharmaceutical (Bristol-Meyers Squibb), insurance (AIG), e-commerce, and transportation domains.
+Experience in data architecture covering all aspects of data including data strategy and roadmap, NewSQL, RDBMS, ODS, Graph, MDM, Big Data, Metadata, Data Governance, Data Security, Data Integration, Data Replication, and Data on Cloud.
+Experience in designing solutions on cloud using AWS / Azure / GCP. Experience designing scalable and vendor agnostic solutions using Kubernetes and containers, and terraform scripts for cloud.
+Experience in all aspects of integration including application integration, cloud integration, big data ingestion, bulk and real time streaming data integration between different systems, securing data in transit and rest.
+Experience in managing largescale projects and developing Governance and Integration standards and processes to enforce project managers to implement loosely coupled systems using the strategic SOA roadmap, API gateway and micro services blueprints.
+Experience in business process digitization, process automation using Pega PRPC, IBM BPM platforms and Robotics Process Automation using Pega RPA, UIPath.
+Provide thought leadership in tackling multiple, complex issues to create effective and lasting solutions. Instrumental in defining IT strategy, roadmaps / blueprints, reference architecture.
+Experience in evaluating vendor products by ranking them using scoring framework. Experience in bringing in new technologies and building confidence in teams for adoption by defining best practices, patterns, estimation models and standards.
+Strong experience delivering strategic business solutions to global clients with offshore and onsite models.
+
+TECHNICAL SUMMARY
+
+Health care
+FHIR, HL7, HIPAA, EDI, Claims, Eligibility, Plans, Benefits, Provider & Member, Clinical
+Information Domain
+Data Warehouse: Snowflake, Teradata, Netezza, Synapse, Redshift, AtScale, Hive
+Relational Database: Oracle, DB2, SQL Server, MySQL, AWS RDS, MariaDB
+Data Lake: Hadoop, Cloud Object Storage
+NoSQL: MongoDB, Cassandra, CouchDB, Marklogic, HBase, CosmosDB
+Cache/Key-Value: Redis, Memcache, DynamoDB
+NewSQL: MemSQL, CockroachDB, DB2 BLU, VoltDB, SAP HANA
+In-Memory – Hazelcast, GridGain/Ignite, Redis, MemSQL
+Graph: TigerGraph, Neo4j, Titan.
+Change Data Capture: Qlik/Attunity, Debezium
+Data Modeling: ErWin, Visio, EA Sparx.
+Metadata: Informatica, IBM, Oracle, Atlas
+Data Catalog: Alation, StreamSet, Trifacta.
+Data Governance: Collibra, IBM Data Governance
+MDM: IBM Infosphere, Informatica
+Analytics: Databrics, SAS, Python, R, Spark, numPy, spaCy, Tensorflow, Pig, Hive,
+Integration
+Azure APIM, MS BizTalk, IBM APIC, Datapower, Apigee, Axway, Kafka, Nifi, Flume, Sqoop
+Security
+SAML, XACML, OAuth, Data Encryption, Masking, TLS, PCI/PII,
+WS-Security, XML Firewall, Federation, SSO, AWS STS, Hashicorp Vault, CA Siteminder, Ping Federate, MS Forefront, Forgerock, SAML, Kerberos, I&AM, SSO, Protregriy, Immuta
+Cloud
+AWS Certified Professional, Azure (Azure SQL database, Data Factory, Azure Functions, CosmosDB, Data Lake Storage, DataBricks, Power BI, Machine Learning Studio, Event Hub, Event Grid, Storage Queue, App Service, Azure Search, Kubernetes) Snowflake, SkySQL, CockroachDB
+
+RELEVANT PROFESSIONAL EXPERIENCE
+
+Navy Federal Credit Union, Virginia (May 2020 - Present)
+Azure Cloud Architect
+Proposed cloud strategy with guidance on what applications are good candidates for moving to cloud.
+Designed solution to consolidate data ingestion and capture metadata using data catalogues, StreamSet and Trifacta.
+Define strategy for building Real time data hub and expose data as microservices
+Got design approved from Architecture Review Board, Integration board, Infrastructure & Security board.
+Recommended OpenShift to implement hybrid cloud and migrate web services to microservices using Docker containers. Used Azure EventGrid for messaging.
+Established patterns for reactive microservices to expose data as a service.
+Used Azure CosmosDB NoSQL database for cache and session management.
+Designed multiple business process digitization projects on Pivotal Kubernetes platform on Azure cloud. Lead migration efforts of Web applications to Tomcat/Azure SQL Server on Kubernetes container platform using Docker images. Choice of Web Server and DB was made based on production database size, type of DB, total number of users, number of concurrent users, total number of JVMs and type of JVM, types of integrations, custom WAR/EAR files. Monitoring of Kubernetes platform was done via Azure monitor. Used Helm charts for Kubernetes deployment. Azure DevOps pipeline Azure Repos was used for case attachments.
+Established integration patterns for transferring batch files from on-premise to Cloud and vice versa using GoAnywhere Managed File Transfer product.
+Assisted in defining strategy to migrate IBM BPM applications to Pega platform based on factors such as ROI, reusability, strategic alignment, complexity, and business buy in. Co-ordinated with Azure Cloud DevOps team for migration of application and building pipelines, and documenting configurations, DB validations etc. Product archives were stored in Azure JFrog repository which was integrated with Pega Deployment Manager. Azure pipelines were used for server restarts.
+Prepared checklist for evaluating Pega Robotics Automation opportunity. Workforce Intelligence was used by the end client to identify RDA opportunities.
+Designed RPA for searchable text contracts. Encryption, logging, alerting, monitoring, error and exception handling, credential management for retrieving contracts from repository, and reporting components were designed for the system.
+
+MVP Healthcare, New York (Jan 2018-Apr 2020)
+Data/Analytics/Cloud Solutions Architect
+Snowflake Data Warehouse
+Evaluated Azure Synapse and Snowflake. Prepared Snowflake adoption checklist and best practices for data storage, compute, workload isolation, security, data loading, data unloading, semi-structured data, data lifecycle management.
+Evaluated POCs for real-time analytics using Snowflake, for continuous data loading using snow-pipe for JSON stream ingestion, for analysis of large volumes of time-series data from IoT devices and respond in real time.
+Designed solutions for modernization of on-prem SQL server data warehouse to Snowflake.
+Designed solution for migration of 5PB SQL Server data warehouse to Azure Snowflake Data warehouse. Adopted ADLS Gen2 Blob storage as raw data layer. Curated data using Snowflake and Databricks was stored on data lake and transformed data into Common Data Model (CDM). Designed solutions for reuse of low latency data on data lake. Leveraged Cosmos DB for exposing data as API. Designed scripts/ETL pipelines in and out of data warehouse using combination of Python and SnowSQL. Used Snowpipe to ingest streaming data. Defined data sourcing strategy for cloud data lake, data warehouse and proposed cloud replication. Designed integration solution using data fabric. Attunity was used for replication.
+Prepared data migration plan from on-premise SQL Server to Snowflake. Evaluated database objects to migrate, data sources, methods available to load data into Snowflake, processes and tools that populate and pull data for data consumers, security roles, identified sensitive data sets and how they are secured. Prioritized data sets to migrate, identified process dependencies, impacts to downstream systems from re-engineering efforts, and identify and mitigate differences between MS SQL server and Snowflake.
+Established strategy for cost optimization in Snowflake by use of resource monitor, setting parameters, warehouse profiling, query profiling, storage profiling, and managing warehouse compute usage tracking through BI reporting for data size limits, query execution time by each user, and warehouse credits usage.
+CMS Interoperability
+Worked with Smile CDR FHIR server for architecting solution to support CMS Interoperability mandate. Established patterns for posting Clinical data, images and documents to FHIR server. Bulk of the work involved Mapping of existing data to FHIR data model using FHIR Mapper. Client was responsible for setting up relational ad non-relational DBs i.e. MongoDB cluster. Metadata was mapped to JSON and stored in MongoDB.
+Streaming/Batch Data Processing
+Designed AWS Cloud based system that ingested EDI data files from streaming and batch file intake channels, coordinated the data flow, processed the data (transform, validate, clean, standardize, enrich, integrate, aggregate, analyze, profile) and provided the resultant data to downstream target systems.
+Batch files were dropped from third parties into AWS S3 buckets. When client websites uploaded files into S3 bucket, S3 wrote events to SNS. Lambda event handler subscription to SNS S3 Topic initiated orchestration workflow (SWF). Workflow configuration was stored in DynamoDB.
+Modeled SWF with multiple data pipelines, and Metadata for every stage of the workflow was stored in DynamoDB. Workflow-launched data pipeline fetched the data from S3 bucket, pre-processed and transformed it on Elastic Map Reduce (EMR) cluster using Spark jobs. Final processed data was stored on S3 by the data pipeline and picked up by downstream systems.
+Streaming data was dropped by clients to an https endpoint. Implemented producer application using AWS API to ingest data streams into Amazon Kinesis Firehose. Data Transformation was done by Lambda functions and processed data was stored in S3 buckets.
+Set up monitoring by creating dashboards for IT and Business in Cloudwatch. Lambda, EMR (Spark processer, transformer, EC2 instances), Data Pipeline and S3 components of the application were monitored. Identified alarms for various components and identified alarms that required notifications.
+Analyzed performance for data ingestion, data pre-processing and data transformation of up to 1Million files on various Spark configurations. Defined Error Handling strategy for the System / Business / Validation errors at every level (Code, IaC components) Transactional / Business.
+IoT, Analytics & ETL
+Evaluated real-time analytics vendor products to process and analyze historical and streaming data in context with millisecond latency to provide insights at the speed of change. Recommended Swim.ai to continuously generate insights and actionable responses from real-time data streams. Swim platform integrates and aggregates static and streaming data, performs risk analysis, project outcomes, visualizes and responds in real time by continuously listening to changes in data to project outcomes. Insights derived from real-time data support a wide range of use cases from more timely dashboards and reports, to fraud detection and IoT edge decision engines. Recommended Singlestore for high concurrency, fast queries, fast ingestion, operational analytics with a strict SLA. Singlestore enables creation and operation of predictive AI and ML models at scale across streaming and historical data. MemSQL is ideal for use cases such as fraud detection, customer portfolio analysis, real-time reporting. Recommended MariaDB i.e. SkySQL DBaaS for distributed HTAP.
+Defined Logging Strategy for the Application i.e. structure of the log, capturing and centralized storing of log files into S3, how to write custom application logs and AWS pipeline logs together for analysis, Archival of log files, Analytics on Logs, Identifying the tools (Athena or Presto) that derive custom metrics out of these logs, how to push the metrics derived from Athena to Cloudwatch to get a single dashboard.
+Worked on AWS IoT to collect the data from devices and then ingest the data into an Amazon Kinesis stream. Streams were transformed by Lambda function are then sent to ElasticSearch in batches. Kibana is used for visualization. Python based Lambda function transforms data to combine fields, remove irrelevant records, aggregate field, and convert formats.
+Registered Data Sources and defined Glue Crawlers to construct the Glue Data Catalog. Ran Glue Jobs to extract, transform and load data (ETL) from source into target data on S3 that is searchable and queryable by Athena. Defined Glue Triggers to invoke jobs based on recurring schedules or invoked by event-driven Lambda functions.
+Handled Multi-tenancy by deploying application into isolated AWS accounts on a per customer basis.
+Setup of Infrastructure components (VPC, subnets, S3, security groups etc.) was automated using IaC Terraform scripts.
+
+Bank of America, North Carolina (Jun 2016-Dec 2017)
+Enterprise Information Architect
+Prepared data architecture covering all aspects of data including data strategy and roadmap, NewSQL, RDBMS, ODS, Graph, MDM, Big Data, Metadata, Data Governance, Data Security, Data Integration, Data Replication, and Data on Cloud. Defined data governance process and best practices for data quality.
+Prepared Data Modeling checklist, general best practices, data design patterns.
+Maintained Metadata Catalog in Collibra. Documented existing Data Sets, Reference Data Sources. Authored requirements for capturing metadata for onboarding new Data Sets.
+Prepared Security strategy and Architecture for business agnostic Big data platform to facilitate Data Science analytics supporting multiple tenants. Data storage was on Cloudera. C3.ai was used for machine learning, Anaconda, Pyspark were used for Data science toolsets, Data processing pipelines used StreamSets(for real-time data integration), QZ-feeds(for Reference Data, for writing non-relational data to HBase), DataRobot(for integrating relational databases to analytics platform), pySpark(for processing of derived datasets within HDFS cluster in batch manner)and Impala for virtualizing data from the big data platform, Tableau was used for Visualization.
+Designed solution for data ingestion for real time and bulk data on to the Big Data Platform. Used Sqoop to ingest bulk data from Teradata and Kafka for distributed messaging of real time events.
+Provided solution architecture to integrate data feeds from multiple systems into Hadoop as Data Lake.
+Implemented emerging patterns to consume JSON data in NoSQL databases as REST API.
+Defined roadmap for Integration using microservices and API Gateway. Exposed customer data as API for internal use via API gateway. Used OAuth for securing API calls.
+Evaluation of in-memory data grids and in-memory databases to address real time computing and big data needs, for faster processing of transactions and triggering real-time actions. Performed market analysis, arranged for vendor demos for product assessments, prioritized requirements for evaluation and scoring of vendor products.
+Used MemSQL as in-memory database. Built NoSQL Cassandra Cluster to store customer transactions.
+Built MDM architectural framework for analysis of data attributes federated across different systems. Oversaw implementation of Member MDM solution for Customer 360. Integrated feeds for updating 360 degree or single view of customer using MDM using IBM MDM, Big data and Marklogic. Integrated with Hadoop solution for personalization on big data cluster. Designed next generation Customer Experience Management solution built on CRM, MDM, customer likes and dislikes, social media interaction and multi-channel interaction.
+
+Highmark Blue Cross Blue Shield, Pennsylvania (Jun 2015 – Mar 2016)
+Solution Architect
+Performed the role of a Lead Architect on the Utilization Management implementation that was a multi-phase project initiated to process Authorization Requests for Inpatient, Outpatient and Pharmacy services
+Participated in Planning, Scope determination, Current State walkthroughs, Future State Design with Upstream/Downstream Systems integration. Engaged with LOB SMEs to discuss viable approaches for the solution in Pega and suggested alternatives to optimize the business processes. Provided Estimates, and Roadmaps.
+Designed End to End System Architecture and Data Model. Identified different Case Types, Roles, Portals, Reports required.
+Build out Enterprise Case Structure, Segregated Cases and Processes, Persistence of Cases in separate DB Tables based on Case Volumes and Correlations with other Case Types.
+Determined Interface mechanisms with all Upstream and Downstream systems. Used REST API, Email, SOAP/HTTPs, DB connectors for Staging Tables loading data on Data Pages. Build each interface in separate ruleset for reuse across different projects.
+Designed Custom Error Handling mechanism to generated daily report of Interface errors and mail to L1 Support team.
+Involved with design of staging DB schemas, DB Views, DB roles, naming convention for tables in Reporting database populated by BIX extract for BI reporting. Worked with Pega Development and ETL teams to derive logical data model for target DB, ER diagrams, data elements mapping, BIX extract rule, JNDI mappings, logic for identifying and removing duplicates before loading into BI DB Views for Terradata.
+Ensured code quality by ongoing Low Level Design Reviews, Code Reviews, Guardrail Compliance, Review of Alerts and Log files reviews, PAL tests etc. Worked with onshore and offshore development team to cleanup preflight warnings, analyze error and alert logs.
+Evaluated Performance considerations for Excel File uploads and mapping of excel worksheet elements to Case data asynchronously, for fetching large amounts of data through external interfaces, for reporting requirements, for restricting file size of attachments uploaded in external Document store (via REST APIs).
+Arranged Sprint end iterative Product demos with stakeholders for feedback and user acceptance.
+Handled team of up to 50 development resources, onshore/offshore using Agile Scrum methodology. Supervised development team and discussed design, scalability and maintainability impacts of design, clearly outlined assumptions, performance considerations, missed requirements, clarification of requirements, facilitate code reuse, foresee design issues, troubleshooting issues, recommended placement of rules in appropriate classes, integration strategies, error and exception handling, documentation of deployment artifacts
+
+Bristol-Myers Squibb, New Jersey (Dec 2014 – May 2015)
+Solution Architect
+Served as Portfolio architect for applications implementing Biologics Experimentation and focused on analyzing, building, and managing reusable framework and assets repository leveraged across different application portfolio.
+Oversaw Service Oriented design to interact with Content Authoring and Management system.
+Assisted in drafting process flows.
+Improved asynchronous integration design for automated re-tries and re-processing transactions.
+Set best practices for Implementation Partners to adhere to in order to have consistent development approach.
+Prepared documentation templates for high level design, code review reports, enterprise class structure, interface design, performance considerations, and implementation guidelines.
+Ensured the overall quality of technical deliverables. Performed Code & Technical artifacts reviews.
+Utilized JMS/SOAP Connectivity with different application systems on synchronous and asynchronous pattern.
+Enterprise level foundation for security functionality using SSO/SAML 2.0, Access groups, dashboards for role types.
+
+Bank of America, North Carolina (Jul 2013- Nov 2014)
+BPM Architect
+Primarily responsible for collaboratively designing and maintaining application configuration business controls for projects running Business Process Management solutions that fall under the Legacy Asset Servicing group
+Projects were focused on Cash Remittance, Card Processing, Foreclosure Referral Review, Foreclosure Postponements, Investor Delegation, and Physical Document Imaging programs
+Served as Portfolio Architect to provide architectural direction and technical oversight to the Business Process Management Center of Excellence (CoE) team during all phases of the project from inception, implementation, testing and transition.
+Engaged in various projects and different teams (Line of business, Application Development, User Acceptance Testing, Production Support teams) from start to completion to review technical artifacts such as high and low level design, architecture, requirements, portal UI design, test script reviews, deployments, testing, and track post-production enhancements. Coordinated with Release Planning teams during Go-Live weekend Releases
+Ensured that application architecture can handle the frequency and volume of configuration changes
+Coordinated with offshore teams and onsite resources to determine best fit of design for the CoE team
+Provided recommendations, best practices, and raised red flags
+Contributed to knowledge base articles and assisted with technical aids and self-help tools
+Developed Engagement Checklist document, Test Plan, Migration Plan, Assumptions, Risks, Constraints, Issues, Dependencies document, Portal User Guides, Templates for Configurations, Engagement Contracts for Line of Business and Technical teams.
+Mentored new resources to use Pega Platform. Held sessions to train team on Pega engagement and fundamentals
+Governance of established procedures and documentation on use of various Pega applications portal
+Maintained existing Pega processes and configurations
+Processed change controls and worked closely with technology to build necessary capability for the line of business to be self-sufficient
+Provided subject matter expertise support and issue resolution
+Use of Pega Survey and BIX for delegated rules maintenance
+Assisted with technical usage questions and served as an escalation point for difficult issues from users and worked with technology to determine the proper resolution path
+
+Patanjali Ayurveda Ltd, India (Apr 2013 – Jun 2013)
+SAP Architect – Advisory Role
+Responsible for overseeing implementation of SAP solution implemented by KPIT software solutions partner. Solution included Net weaver, App Portal and PI to integrate HR data feeds.
+Provided thought leadership and built roadmap to realize business vision. Included MDM and BO in scope for future releases. Suggested Best Practices using Solution Manager.
+Reviewed Capacity Planning and designed Infrastructure.
+Instrumental in reviewing bids and Implementation of high speed single mode Optical Fiber network.
+Reviewed business blue prints and functional requirements for all SAP modules includes HCM, PP, MM, FI, CO, SD and QM
+Reviewed Organization structure in SAP to allow for growth and expansion
+Provided recommendation for optimization and automation of business processes
+
+American International Group, New Jersey (Oct 2012 – Mar 2013)
+Integration Architect
+Served as an Advisory role during the Inception and Design phase of AIG’s Claim Transformation Initiative which intends to establish a Global Claims Platform that can be continuously enhanced to handle new Lines of Business and Geographies resulting in consistent claim handling across all lines of businesses and geographies, improved customer experience and improved operational efficiency
+Assisted with initial estimates and identify tasks for project plan, highlighting risks and assumptions
+Participated in environment Readiness activities involving non-functional requirements gathering and sizing of infrastructure
+Responsible for documentation of Current State and Future State Architectures for North American (US, Canada, Puerto Rico) operations
+Designed solution for SSO implementation using SAML tokens and Siteminder URLs, Integration with DataPower based web services.
+Present tactical and strategic options for Integrations of Claims PRPC application with miscellaneous Legacy systems and document integration design patterns after approval from AIG Architects
+Participation in Code Retrofitting activities for UK and APAC regions so as to have a functional baseline code for North American implementation migrated to Cloud DEV environment
+Coordinate with offshore teams and managed onsite developers to deliver proof of concept implementations
+
+Highmark Blue Cross Blue Shield, Pennsylvania (Feb 2012 – Oct 2012)
+Solutions Architect
+Served as Lead Architect on Customer Service project that was a multi-phase project initiated to replace Highmark’s existing PowerBuilder based CRM application.
+Set up of PRPC DCO, DEV, QA, TEST, and PROD environments for multiple releases and parallel development
+Educated business and offshore team on CPM-HC Architecture and OOTB features
+Coordinated with Integration Architects to design agile, scalable, and maintainable solutions
+Prepared High level Estimates, High Level Design documents addressing architectural and performance concerns
+Assisted developers to prepare Logical and Physical Design documents to guide offshore development - clearly outlined assumptions, justification for design decisions, provided details on rule location (applies to class, ruleset), called out rules to be overridden and new rules to be created, included unit test scripts, defined business and application level error and exception handling, application monitoring, outlining impacts on performance, scalability, and maintenance
+Contributed towards documentation of Coding Guidelines, Code Review Checklist and Developer Expectations to manage onshore and offshore team, Code Merge procedures to tackle parallel development, Requirements and PRPC rules Traceability using PRPC Data dictionary, Design Patterns, Build and Release procedures, Ruleset Management strategy, Configuration Management, Performance Load Testing procedures, Production User Guidelines for Rule Maintenance and Exception Handling procedures
+Designed solutions to interface with multiple intake channels - phone, email, letter, fax, portals via MQs and SOAP web service calls - to handle high volumes of up to 1 million interactions per month
+Setup of JMS, MQs for Member and Provider Portal intake
+Troubleshooting and schema validations for SOAP service integration
+Used BIX for extract to Terradata data warehouse and Informatica ETL tool processing
+Configured PegaCALL for CTI/IVR using Avaya server
+Designed and Build Utilities to handle cases in bulk
+Established Balancing, Monitoring, and Retry Mechanisms - communicating procedures to respective intake channels and reporting on failed and successfully processed intake messages
+Participated in Performance and load testing
+Provided technical expertise and ownership in the diagnosis and resolution of an issue, including the determination and provision of workaround solution or escalation to management/COE or opening tickets for Support Request
+Supported defect fixing in pre- and post-production phase
+Resolved AES action items to improve performance of application
+Participated in Upgrade Assessment from PRPC version 6.1 to 6.2
+
+Northwest Healthcare Administrators Inc., Washington (Mar 2011 - Dec 2011)
+Biztalk Architect
+Supported HIPAA 5010 Compliance Migration Project for claim processing services.
+Installation and configuration of Microsoft Biztalk Server (BTS) in virtualized PROD/TEST/DEV environments.
+Setup of Windows AD groups, service and user accounts for BTS configuration.
+Business Activity Monitoring portal installation and configuration.
+Documented procedures for Disaster Recovery.
+Analyzed the architecture of the current production environment in BTS2002 to propose how to setup a parallel feed of data to the new BTS 2010 system.
+Training of existing BTS 2002 resources to migrate to BTS with hands-on lab sessions demonstrating and practically implementing requirements.
+Processed compliant 837 I/P/D batch files in 5010 format and split into multiple 837 I/P/D files.
+Analyzed sample HIPAA and xml files provided by trading partners for modifications to be made for ingestion by BTS2009. Produced compliant 997 files.
+Design the data model and Create XSDs for a flat file schema in BizTalk for XSLT data transformation to internal application.
+Setting up trading partner agreements in BTS 2010 using configuration from BTS2002.
+
+Previous Relevant Positions:
+Kaiser Permanente
+BPM Architect
+Jul 2010 – Dec 2010
+TriWest Healthcare Alliance
+BPM Architect
+Feb 2010 – Jun 2010
+Nevada System of Higher Education
+SOA Architect
+Jan 2009- Jan2010
+Advent Inc.
+EDI Architect
+Apr 2008- Jan2009
+Calyon Investment Bank
+Biztalk Architect
+Feb 2008- Apr 2008
+PC Connection Inc.
+ESB/SOA/BizTalk Developer
+Oct 2007- Jan 2008
+Infrared Inc.
+Senior Research Scientist
+Mar 2005- Aug 2007
+International Game Technology
+Senior Firmware Engineer
+Mar 2002- Mar 2005
+XEROX Palo Alto Research Center
+Research & Development Engineer
+May 2001- Dec 2001
+
+EDUCATION:
+PhD in Computer Sci & Engg, University of Nevada, Reno (2010)
+MS in Computer Science, University of Nevada, Reno (2002)
+CERTIFICATION:
+AWS Professional Solution Architect, Pega Lead Systems Architect
+AI/ML PUBLICATIONS:
+19 Conference Publications, 4 Journal Publications, 1 Book Chapter
+Contact this candidate

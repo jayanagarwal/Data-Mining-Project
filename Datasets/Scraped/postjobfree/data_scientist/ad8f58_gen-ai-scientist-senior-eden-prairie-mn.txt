@@ -1,0 +1,155 @@
+PHILIP MARIAZIALE
+Contact: 218-***-**** Email: ad8f58@r.postjobfree.com
+
+DATA SCIENTIST ML ENGINEER GEN AI SCIENTIST
+Attuned to the latest trends and advancements in this field, I am consistently delivering impeccable results through my dedication to handling multiple functions and activities under high-pressure environment with tight deadlines
+
+EXECUTIVE SNAPSHOT
+
+•Experienced Gen AI Scientist & Full Stack Machine Learning Engineer with over 11+ years of experience in applying deep learning, artificial intelligence, and statistical methods to data science problems to increase understanding and enhance profits as well as market share of the company.
+
+•Brilliant in developing algorithms and implementing novel approaches to non-trivial business problems in a timely and efficient manner, possess experience in knowledge databases and language ontologies.
+
+•Good knowledge of executing solutions with common Generative AI and NLP frameworks and libraries in Python (Langchain, llamaindex, HuggingFace, NLTK, spaCy) or Vector Databases (Pinecone, FAISS). Familiarity with the application of Neural Networks, Support Vector Machines (SVM), and Random Forest.
+
+•Stays up to date with the current research in data science, operations research, and Natural Language Processing to ensure we are leveraging best-in-class techniques, algorithms, and technologies.
+
+•Possess knowledge of remote sensing, well versed in identifying/ creating the appropriate algorithm to discover patterns and validate their findings using an experimental and iterative approach.
+•Strong interpersonal & analytical skills, with abilities to multi-task & adapt, handling risks under high-pressure environments, creative problem solver, able to think logically and pay close attention to detail
+technical skills
+
+IDEs: Jupyter, Google Colab, PyCharm, R Studio
+Programming: Python, R, SQL, MatLab
+Python Libraries: Tensorflow, Pytorch, NLTK, Numpy, Pandas, OpenCV, Python Image Library, Scikit- Learn, Scipy, Matplotlib, Seaborn, HuggingFace
+Natural Language Processing: Sentiment Analysis, Sentiment Classification, Sequence to Sequence Model,
+Transformer, Bert, GPT 3.5
+Analytical Methods: Exploratory Data Analysis, Statistical Analysis, Regression Analysis, Time Series Analysis, Survival Analysis, Sentiment Analysis, Principal Component Analysis, Decision Trees, Random Forest
+Data Visualization: Matplotlib, Seaborn, Plotly, Folium
+Computer Vision: Convolutional Neural Network (CNN), HourGlass CNN, RCNNs, YOLO, Generative Adversarial Network (GAN)
+Regression Models: Linear Regression, Logistic Regression, Gradient Boosting Regression, L1 (Lasso), L2 (Ridge)
+Tree Algorithms: Decision Tree, Bagging, Random Forest, AdaBoost, Gradient Boost, XGBoost, Random Search and Grid Search
+Cloud Data Systems: AWS, GCP, Azure
+
+PROFESSIONAL EXPERIENCE
+
+Since Mar 2023-Present with United Health Group (Through Optum), Eden Prairie, Minnesota, U.S.
+As a Senior Data Scientist - MLOps
+
+•Leveraged Langchain and Azure OPENAI to build a full fledge scalable Generative AI application.
+•Build a Natural language Data Analytics and Text2SQL engine using Agentic workflow in langchain.
+•Integrating RAG (Retrieval Augmented Generation) with the Natural language Data analytics and Text2SQL engine to respond queries specific to the organization.
+•Leveraged Elasticsearch for RAG implementation and making it a source for few shots prompting to the Text2SQL engine.
+•Reducing the Analytics engine application latency using caching techniques.
+•Deploying the application using Fast API, docker containers and automated scaling using the Kubernetes framework.
+•Saving 30% LLM inference cost using Route LLM.
+•Leveraged advanced Large Language Models (LLMs) and transformer-based architectures to analyze patterns and trends within consumer comments and posts sourced from platforms like Yammer and Cultura. The primary objective was to capture real-time insights into sentiment and emerging trends.
+•Implemented classification algorithms to categorize consumer comments and posts under predefined topics. This enabled the identification of trending content and provided a deeper understanding of consumer sentiment on specific subjects.
+•Developed methods to automatically generate new topics from Yammer and Cultura posts and comments, enhancing the topic classification system with more relevant and dynamic categories.
+•Both processes were seamlessly deployed and managed through Azure Pipelines, ensuring automated, scalable, and efficient delivery.
+•Led a pivotal role in a team-oriented project, overseeing crucial stages such as the development of an unsupervised outlier identification algorithm and the implementation of the CI/CD pipeline
+•Executed unsupervised outlier detection through a unique approach, utilizing five distinct outlier detection methods to label the dataset and aggregating their findings to generate an outlier_percent column for streamlined filtering
+•Develop robust and scalable data science solutions using Python, including data preprocessing, feature engineering, and machine learning model development.
+•Write efficient and maintainable code for data analysis, model training, and deployment, adhering to best practices in software development.
+•Implement and optimize machine learning algorithms in Python, utilizing popular libraries such as TensorFlow, PyTorch, Scikit-Learn, and Pandas.
+•Spearheaded the design and implementation of the CI/CD pipeline, leveraging Azure Cloud, Snowflake, Databricks, Jenkins, Docker, and Kubernetes. The pipeline, hosted on Databricks, seamlessly pulled raw data from Snowflake, conducted ETL operations, identified outliers, and uploaded processed data to Azure Blob Storage
+•Design and deploy scalable machine learning solutions in Azure, leveraging services like Azure Machine Learning, Azure Databricks, and Azure Synapse Analytics.
+•Develop and manage data pipelines using Azure Data Factory and Azure Data Lake to support data science workflows.
+•Implement and optimize cloud-based infrastructure for data storage, processing, and model deployment.
+•Ensure the security and compliance of data science applications by configuring and managing Azure Identity and Access Management (IAM) roles, Key Vault, and encryption standards.
+•Monitor and optimize the performance of machine learning models in production using Azure Monitor and Application Insights.
+•Leverage transformer-based architectures like GPT, BERT, T5 to build and optimize models that understand and generate human-like text.
+•Design and implement NLP pipelines that preprocess, tokenize, and clean large text corpora for model training and inference.
+•Design and manage complex SQL queries for extracting, transforming, and loading (ETL) large datasets from relational databases, data warehouses, and cloud platforms.
+•Optimize SQL queries and database structures to improve the performance of data retrieval and analytics processes.
+•Conduct data validation, cleansing, and preparation using SQL to ensure data quality and integrity for machine learning models.
+•Orchestrated Jenkins tasks for data preparation, merging dataset files into a unified CSV, and storing it in the workspace's datastore with versioning. Subsequently, initiated the model training task in Azure, executing code on a Databricks cluster and saving the output as a new model in AzureML
+•Successfully deployed models using an Embedded Architecture approach, integrating models with the app within a Docker image for efficient deployment
+•Implemented creational design patterns in the CI/CD pipeline for reusability and behavioral patterns in algorithms and integrations for improved efficiency
+•Worked within a team structure led by a Data Science Manager, collaborating with 3 Data Scientists to achieve project objectives
+•Utilized tools such as Snowflake, Jenkins, Azure Cloud, Docker, Databricks, PySpark, and Twistloc to streamline various aspects of the project
+•Adopted a canary deployment release process, starting with limited access and gradually expanding over time to ensure a smooth and controlled deployment of models
+•Contributed significantly to the project's overarching goal: developing a workflow to personalize Medicare plan recommendations for members seeking new plans during annual enrollment
+
+Feb 2021-Mar 2023 with Regions Financial Bank, New York
+As a Senior AI Scientist
+
+•Developed a script for deploying updated Docker images to EC2 instances, ensuring efficient and timely updates.
+•Facilitated discussions with Lot18 representatives to address project progress, conceptual exploration, and resolution of blockers or errors.
+•Implemented A/B testing, confirming a 9% increase in repeat customers for populations using the recommender system.
+•Engineered a Hybrid Mixed recommender system by integrating collaborative filtering, content-based, and demographic recommender techniques.
+•Conducted A/B testing to optimize the most effective recommender system, addressing the "cold start" problem with a Demographic-based recommender system.
+•Utilized Pandas and NumPy for data preprocessing, cleaning, and feature engineering, employing Python for handling missing values in the dataset.
+•Implemented text preprocessing techniques such as stemming and lemmatization to streamline the corpus for efficient analysis.
+•Applied Keras and TensorFlow for developing predictive algorithms and solving analytical problems.
+•Constructed an NLP-based filter using embedding and BERT in TensorFlow and Keras for advanced text analysis.
+•Constructed an NLP-based filter utilizing embedding and BERT in Tensorflow and Keras
+
+May 2019 - Feb 2021 with Levi Strauss & Co. Company, San Francisco CA
+As an ML-Ops Engineer
+
+•Built a personalized in-session product recommendation engine
+•Wrote scripts in Python that automated text summarization and clustering.
+•Involved in Next-Best offer prediction and designed Microassortments for Next-Gen stores
+•Performed Anomaly Detection and Root Cause Analysis
+•Prepared data for collaboration with machine learning models
+•Unified consumer profile with probabilistic record linkage
+•Accountable for Visual search for similar and complementary products
+•Architected, built, maintained, and improved new and existing suite of algorithms and their underlying systems
+•Analyzed large data sets applied machine learning techniques and developed predictive models, statistical models, and developed and enhanced statistical models by leveraging best-in-class modeling techniques
+•Implemented end-to-end solutions for batch and real-time algorithms along with requisite tooling around monitoring, logging, automated testing, performance testing, and A/B testing
+•Worked closely with data scientists and analysts to create and deploy new product features on the e-commerce website, in-store portals, and the Levi's mobile app
+•Established scalable, efficient, automated processes for data analyses, model development, validation and implementation
+•Implemented deployment solutions using Tensorflow, Keras, Docker, and Elastic Kubernetes Service
+•Executed Model Drift Monitoring and Retraining Strategies
+
+Jul 2017 - May 2019 with Credit Suisse, New York City (REMOTE)
+As a Machine Learning Engineer
+
+•Develop a fraud detection system for financial transactions to enhance security
+•Utilize Pandas for data cleaning and transformation, ensuring accuracy and reliability. Store data on Amazon S3
+•Extract essential transaction features using Pandas and NumPy for model development
+•Implement advanced ML algorithms with Scikit-learn and TensorFlow, leveraging AWS SageMaker for scalable training
+•Optimize model performance using Scikit-learn and AWS SageMaker for hyperparameter tuning
+•Build a real-time alerting system using AWS Lambda and SNS for immediate notifications
+•Seamlessly integrate the model with the existing bank infrastructure using AWS Lambda and API Gateway
+•Design for efficiency and scalability using AWS ECS for container orchestration and AWS Lambda for serverless execution
+•Enhance transparency using SHAP (SHapley Additive exPlanations) and AWS XAI tools
+•Monitor precision, recall, and F1 score using Scikit-learn metrics and AWS CloudWatch
+•Establish a feedback loop using AWS Step Functions for model retraining and improvement
+•Create concise documentation using Jupyter Notebooks, Sphinx, and store on AWS S3 for effective knowledge transfer and collaboration
+
+Oct 2015 - Jul 2017 with New York Life Insurance, New York, New York
+As a Data Scientist
+
+•Engineered personalized product recommendations through the implementation of advanced machine learning algorithms, with a primary focus on Collaborative Filtering to cater to the unique needs of existing customers and drive the acquisition of new customers
+•Spearheaded the creation and deployment of a diverse set of ML algorithms, leveraging logistic regression, random forest, KNN, SVM, neural network, linear regression, lasso regression, and k-means for comprehensive and effective modeling
+•Pioneered the development of optimization algorithms tailored for data-driven models, extending their applicability to various machine learning paradigms, including supervised and unsupervised learning, as well as reinforcement machine learning
+•Conducted in-depth research on statistical machine learning methods, encompassing forecasting, supervised learning, classification, and Bayesian methods, ensuring the incorporation of cutting-edge techniques into the modeling framework
+•Advanced the technical sophistication of solutions by incorporating machine learning and other advanced technologies, contributing to the enhancement of overall model performance
+•Executed exploratory data analysis and crafted insightful data visualizations using R and Tableau, fostering a deeper understanding of the underlying data patterns
+•Collaborated seamlessly with data engineers to implement the ETL process, playing a crucial role in the optimization of SQL queries for efficient data extraction and merging from Oracle databases
+•Leveraged a versatile skill set in R, Python, and Spark to develop a wide array of models and algorithms, catering to diverse analytic requirements within the project
+•Ensured data integrity through meticulous data integrity checks, proficient data cleaning, exploratory analysis, and feature engineering employing a combination of R and Python to uphold data quality standards
+
+Jul 2012 – Oct 2015 with Lam Research, Fremont, CA
+As a Data Scientist
+
+•Engineered a Vectorizing function to embed facial features, enhancing the representation of key facial characteristics
+•Developed a specialized algorithm for efficient storage and comparison of vectorized features, streamlining the verification process
+•Implemented Convolutional Neural Networks (CNNs) using PyTorch and Python to enhance the depth of image analysis
+•Conducted comprehensive data cleaning on both image and tabular datasets to ensure data quality and accuracy
+•Applied image augmentation techniques to introduce rotational, motion, and scale invariance for robust model training
+•Devised statistical evaluation techniques to assess and validate the performance of the developed models
+•Orchestrated deployment using Flask and Pickle, ensuring seamless integration and accessibility of the models
+
+ACADEMIC CREDENTIALS
+
+Bachelors Degree in Computer Science
+University of New Orleans
+
+Certifications
+Machine Learning by Andrew Ng
+Deep Learning Specialization by Deeplearning.io
+
+PERSONAL DETAILS
+Contact this candidate

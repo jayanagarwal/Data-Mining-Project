@@ -1,0 +1,155 @@
+Professional Summary
+
+Close to * years of expert involvement in IT with knowledge of Data Mining, Machine Learning, Deep Learning with large datasets of structured & unstructured data, data acquisition & validation, and predictive modeling..
+...
+Hands-on experience with AWS data migration between database platforms Local SQL Servers to Amazon RDS and EMR HIVE. Well-versed in using AWS RDS Aurora for storage of historical relational data and AWS Athena for data profiling and infrequent queries.
+
+Successfully designed & developed data pipelines in an AWS environment using S3 storage buckets, proficient in applying transformation using AWS Lambda functions given a triggering event for event-driven architecture.
+
+Proficient in optimizing HiveQL analytics queries, creating tables/views, and writing custom queries and Hive-based exception processes, skilled in creating from scratch AWS glue jobs to transform the big scheduled amount of data.
+
+Good at managing the E.T.L. process of the pipeline using tools like Alteryx and Informatica, Successfully joined, manipulated, and drew actionable insights from large data sources using Python and Spark SQL.
+
+Expertise in using:
+oAWS Redshift to store large data on the Cloud.
+oSpark SQL and Data Frames API to load structured and semi-structured data into Spark Clusters.
+oAirflow tool with Bash and Python operators to automate pipeline process.
+
+Ability to develop new & advanced cutting-edge techniques and algorithms and conduct complex, advanced research projects in areas of interest to Business Units
+
+Possess experience in the:
+oApplication of Naïve Bayes, Analysis, Neural Networks/Deep Neural Networks, and Random Forest machine learning techniques.
+oAWS cloud computing, Spark (especially AWS EMR), Kinesis, Lambda, and Redshift.
+Good knowledge of applying statistical analysis, computer programming skills, and machine learning techniques to live data streams from big data sources using PySpark in Databricks, AWS Glue, and on-premises clusters for streaming and batch processing techniques.
+
+Excellent organizational as well as analytical skills with proven ability to manage multiple projects & responsibilities in a multi-disciplined team environment and adept at learning new tools and processes with ease.
+
+Technical Skills
+
+IDEs
+oRStudio, PyCharm, Google Colab, IntelliJ, Visual Studio Code, Jupyter Notebook, Sublime, Databricks.
+
+Programming/Scripting Languages
+oScala, SQL, Python, Shell, R.
+
+AWS Tools
+oS3, Lambda, Redshift, RDS, DynamoDB, EMR, SQS, SNS, Step Functions, Athena, Glue, EC2, Elastic Beanstalk.
+Machine Learning Methods:
+oApplying classification, regression, prediction, dimensionality reduction, and clustering to problems, predictions, and analytics that arise in retail, manufacturing, and market science.
+oMultiple Linear Regression, Logistic Regression, Ridge Regression, Lasso Regression, Support Vector Machines, Naive Bayes, Decision Tree, Random Forest, XGBoost, K-Nearest Neighbors, K-means, Gaussian Mixture Models, Hierichal Clustering, Bayesian Linear Regression, Poisson regression.
+
+Deep Learning Methods
+oArtificial Neural Networks, Gradient Descent variants (including ADAM), RNN, Regularization Methods, Training Acceleration with Momentum Techniques, NLP, Dirichlet Allocation, Computer Vision, GANs.
+oTensorFlow, PyTorch, Keras.
+Artificial Intelligence
+oText understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems, and analytics.
+Statistical Analysis
+oA/B Testing, ANOVA, Kruskal-Wallis, t-Test, Mann-Whitney test, Post hoc Test, normality tests, Model Selection, and Anomaly Detection.
+Timer series analysis
+oAR, MA, ARMA, ARIMA, LSTM, GARCH, Exponential GARCH, ADF Test, ACF, PACF. Time series descomposition.
+Web Development
+oDjango, Flask, R-Shiny, Vuejs.
+
+Databases and Data warehouses
+oPostgreSQL, MySQL, SQL Server, RDS, RedShift, MongoDB, DynamoDB, MS Excel, Snowflake, Firebase.
+
+Professional Experience
+
+Senior Data Engineer
+PNC Financial Services Group, Pittsburgh, PA 05/2021 to Present
+
+Contributed to a team of Data Architects, Data Engineers, Data Analysts, Data Scientists, and Visualization Experts in the Retail Lending Credit Intelligence department to develop data-driven solutions for Decision Management and Product Management. Created customized customer-focused solutions keeping in mind the risks associated with data-driven business logic adhered to and supported PNC's Enterprise Risk Management Framework. Worked in Fraud detection, default risk analysis, and expense segmentation problems across all product classes in Retail Lending
+
+Technical contributions:
+Implemented data gathering, data processing, feature engineering, data mining of large and complex datasets, and development of models using advanced statistical techniques, machine learning, and deep learning neural nets to predict business outcomes and recommend optimal actions to mana
+Contributed to serverless architectural design using AWS API, Lambda, S3, and Dynamo DB with optimized design with Auto scaling performance.
+Implemented usage of Amazon EMR for processing Big Data across the Hadoop Cluster of virtual servers on Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3).
+Executed Hadoop/Spark jobs on AWS EMR using program data stored in S3 Buckets.
+Produced AWS Cloud Formation templates to create a custom infrastructure for our pipeline.
+Wrote Unit tests for all code using PyTest for Python.
+Worked on the data lake on AWS S3 to integrate it with different applications and development projects.
+Presented business insights to management using visualization technologies and data storytelling
+Leveraged vast amounts of structured and unstructured data to extract actionable business insights
+Monitored model performance and maintenance through CI/CD pipeline tool
+Utilized tools such as Python, NumPy, Pandas, TensorFlow, Keras, Kubernetes, AWS Sagemaker
+
+Senior Data Engineer / Scientist
+BlueTab, an IBM Company, Remote 09/2019 to 05/2021
+
+Bluetab is an enterprise software and technical services company with offices in the UK, Mexico, and Spain. As a Senior Data Scientist, I managed a small team that worked on Bluetab’s FastCapture document data mining tool. Fastcapture uses Artificial Intelligence to perform a preprocessing of the documents to extract both the text and different characteristics of the document to classify it later using machine learning mechanisms. The solution is seamlessly integrated into the client’s existing workflows as a BPaaS Service (Business Process as a Service), providing their back-office teams with exceptional processing capacity, reducing processing times, improving quality, and lowering the costs of these teams.
+
+Technical contributions:
+Deployed algorithms and tools such as ELK stack and Grafana to Monitor batch schedules/jobs
+Migrated data from Hortonworks cluster to Amazon EMR cluster.
+Used Python Boto3 for developing Lambda functions in AWS.
+Implemented Spark ML jobs using Scala
+Used Control-M to schedule ETL pipelines
+Used Git and Bitbucket for version control and CI/CD pipeline using Jenkins
+Wrote and implemented Unit and Acceptance testLead the development team and implemented the complete solution.
+Wrote the code in Python and SQL to process data from different data sources.
+Designed the schema, cleaned up the input data, processed the records, wrote queries, and generated the output data using Redshift.
+Data modeling to define fact tables and dimension tables for the Enterprise Data Warehouse in Snowflake.
+Designed extensive automated test suites utilizing Selenium in Python.
+Created a new Data Lake ingesting data from on-prem and other clouds to S3, Redshift, and RDS.
+Developed Spark Applications by using Scala and Python, and Implemented Apache Spark data processing project to handle data from various RDBMS and streaming sources.
+Used Spark and PySpark for streaming and batch applications on many ETL jobs to and from data sources.
+Used NLP technics to sort and classify documents.
+Used AWS Redshift Data Warehouse and Boto 3 to access AWS Resources from Python.
+
+Data Engineer / Data Scientist
+Dominion Energy, Richmond, Virginia 09/2017 to 09/2019
+
+Worked as a Data Scientist and Deployment Specialist (ML-OPS) for a large American power and energy company headquartered in Richmond, Virginia that supplies electricity and natural gas to various states. Member of a small team of data scientists and analysts where we created numerous demand forecasting models from Dominion’s historical data hosted on Hadoop HDFS and Hive to estimate short-term demand peaks for optimizing economic load dispatch. Models were built using Time Series analysis using algorithms like ARIMA, SARIMA, ARIMAX, and Facebook Prophet. Once created and tested I lead a team to operationalize the models on AWS using elastic beanstalk and docker containers.
+
+Technical contributions:
+Designed Spark Python job to consume information from S3 Buckets using Boto3.
+Programmed Python classes to stack information from Kafka to DynamoDB according to the ideal model.
+Successfully built a Generalized Autoregressive Conditional Heteroskedasticity (GARCH) using PyFlux, to model the uncertainty of Dominion’s other time series, ensuring a ‘safety’ stock of generating units.
+Integrated Big Data Spark jobs with Databricks and glue to create ETL jobs for around 450 GB of data daily.
+Optimized Databricks jobs with delta lake based on the parquet file format to increase speeds and efficiency in ETL.
+Implemented AWS Step-Functions as orchestration and cloud watch events for automation of pipelines.
+Performed feature engineering with the use of NumPy, Pandas, and FeatureTools to engineer time-series features.
+Use AWS Lambda functions to trigger Databricks jobs for batch processing using the jobs API.
+Coordinated with facility engineers to understand the problem and ensure our predictions were beneficial.
+Participated in daily standups working under an Agile KanBan environment.
+Queried Hive by utilizing Spark in Databricks.
+
+Data Scientist / Statistician
+INMEGEN, Mexico City 07/2016 to 09/2017
+
+Dynamic statistical dashboards creation and implementation of supervised and unsupervised models for data analysis from a NoSQL source (Firebase)
+R Studio
+Shiny
+Maintenance and debugging of web applications for the institute’s databases.
+Vue
+Firebase
+Django
+
+Data Analyst
+INCAN, Mexico City 04/2015 to 07/2016
+
+Technical contributions:
+
+CAN Statistics analysis (Python, R) Implementation of regression models, classification, and survival analysis.
+oCaret
+oScikit-learn
+oMatplotlib
+oGgplot
+
+Web applications and statistical dashboards.
+oVue
+oShiny
+oMongoDB
+oVisual Studio Code
+
+Education
+Bachelor of Science in Mathematics – UNAM (Universidad Nacional Autonoma de Mexico)
+
+Certifications
+Correlation and Regression in R (2019) Data Manipulation with dplyr (2019) Data Manipulation with pandas (2021) Exploratory Data Analysis in R (2019) Generalized Linear Models in R (2019) Intermediate Importing Data in Python(2021) Intermediate Python (2019) Intermediate R (2019) Intro to Statistics with R: Student’s T-test (2019) Introduction to Data in R (2019) Introduction to Data Science in Python (2019) Introduction to PySpark (2021) Introduction to Python (2021) Introduction to Relational Databases in SQL (2021) Introduction to Scala(2021) Introduction to SQL Server (2021) Introduction to the Tidyverse (2019) Nonlinear Modeling in R with GAMs (2020) Intermediate SQL Server (2021) Python Data Science Toolbox (Part 1)(2019) Python Data Science Toolbox (Part 2)(2019) pandas Foundations (2019) Introduction to Python for Finance (2019) Statistical Thinking in Python (Part 1) (2019) Supervised Learning in R: Case Studies(2020) Supervised Learning in R: Classification (2020) Supervised Learning in R: Regression (2020) Tree-Based Models in R (2019)
+
+Scrum Master certificate (2021)
+
+Publications
+Contreras-Espinosa L, Alcaraz N, De La Rosa-Velázquez IA, Díaz-Chávez J, CabreraGaleana P, Rebollar-Vega R, Reynoso-Noverón N, Maldonado-Martínez HA, GonzálezBarrios R, Montiel-Manríquez R, Bautista-Sánchez D, Castro-Hernández C, AlvarezGomez RM, Jiménez-Trejo F, Tapia-Rodríguez M, García-Gordillo JA, Pérez-Rosas A, Bargallo-Rocha E, Arriaga-Canon C, Herrera LA. Transcriptome Analysis Identifies GATA3-AS1 as a Long Noncoding RNA Associated with Resistance to Neoadjuvant Chemotherapy in Locally Advanced Breast Cancer Patients. J Mol Diagn. 2021 Oct,23(10):1306-1323. doi: 10.1016/j.jmoldx.2021.07.014. Epub 2021 Aug 4. PMID: 34358678
+Contact this candidate

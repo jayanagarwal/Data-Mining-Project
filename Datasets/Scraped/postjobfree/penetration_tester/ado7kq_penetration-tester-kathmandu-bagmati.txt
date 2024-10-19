@@ -1,0 +1,125 @@
+Bijay Silwal
+Godavari **, Lalitpur. Nepal
+Ph. No: 984*-****** Email: ado7kq@r.postjobfree.com
+SUMMARY:
+Former bug bounty researcher specializing in web application pentesting. Discovered and disclosed security vulnerabilities led to accolades from Apple, Google, Huawei, Airship, BBC and many others. Solving TryHackMe/HackTheBox labs to broaden skills in internal and external network pentesting. Recently passed Practical Network Penetration Tester (PNPT) certification exam to prove my skill. Life-long learner and problem- solver who enjoys to be challenged and grow every day. Able to work well independently or in group settings. Motivated, focused and dependable.
+EXPERIENCE:
+Self Employed Security Researcher: Jun 2020 – Aug 2021
+• Bitdefender- Reported an email validation issue on their main website (which has been running bug bounty program for more than six years) although email validation was kept in place. The bug would allow to create a valid/verified account on bitdefender with anyone’s email address resulting in numerous spam account, damage customer trust and harm companies’ reputation.
+• Sophos- Found HTML code injection bug which could be used for website defacing, phishing and credential stuffing in Sophos’s website which has been running bug bounty program on Bugcrowd for more than five years.
+• UN- Reported multiple vulnerabilities ranging from MITM attack, clickjacking to XSS which could be used for credential harvesting, website defacing to tarnishing UN’s reputation.
+• UnderArmour- Reported a rate limit bug, that would allow to hit a millions/billions of likes in another user’s fitness post, basically questioning the website’s integrity and impacting UnderArmour’s fitness app reputation.
+• Overstock- Discovered and disclosed a Captcha bypass vulnerability on OverStock.com's primary website preventing servers from form overflood attack and avoiding office admins to reply with personal email to millions of forms.
+Tutor: Jun 2016 - Aug 2019
+• Taught mathematics, science for secondary to high schoolers during their board examinations.
+• Had time limitation to guide students within a couple of months to cover a year of academic courses.
+• Helped them understand the topic rather than guiding them just to pass the exam.
+• Built friendly relationship with students and maintaining a good rapport with their parents.
+• Regularly updated the parents regarding their child’s progress.
+• Learnt better time management in order to avoid class timing clashes. EDUCATION:
+Patan Multiple Campus (Tribhuvan University) Nov 2021 (Expected Graduation) Bachelor in Computer Science and Information Technology CERTIFICATION:
+Practical Network Penetration Tester (PNPT) Oct 2021 Certification number: 39929200
+Certificate provider: TheCyberMentor (TCM)
+Certificate link: shorturl.at/mstLS
+Achievements:
+Here is a comprehensive list of all the valid (patched and awarded for) bugs (web application based) that were submitted and rewarded during bug bounty hunting.
+Organization Bug Type Impact Triage
+date
+Apple Cross Origin Request
+Smuggling (CORS), Client-side
+template injection (CSTI), Rate
+limit bypass
+Sensitive internal data (relating to business-client data) leakage. Email flooding attack to overload
+server.
+Dec
+2020
+Huawei Internal/Open Jenkins
+Dashboard
+Internal logs leak, sensitive data leak, data
+leakage related to internal devops.
+Jan
+2021
+Google Iframe Injection Enable to start and end office meeting, send spam message to other users, disturb official meeting
+ultimately harming the company’s productivity.
+Jan
+2021
+BBC Hypertext Markup Language
+Injection (HTML) injection
+Enable to inject any malicious content/hyperlinks
+in BBC email that could be used for mass
+credential stuffing, phishing, defacement, or any
+other political/commercial gain.
+Feb
+2021
+Quora Indirect Object Reference
+(IDOR)
+Upvote/Downvote any number of
+answers/questions which would basically
+manipulate the algorithm to show different
+answers/questions.
+Feb
+2021
+Airship Server-Side Template Injection
+(SSTI)
+Handlebar template injection with possible
+remote code execution.
+May
+2021
+Dutch
+Government
+Cross Site Scripting (XSS) Website defacement to credential stuffing attack. Jan 2021
+ZOHO Rate limiting issue Form flooding attack to overload server. Aug 2020
+Infomedics.
+nl
+CAPTCHA bypass Email flooding attack making it nearly impossible to differentiate/reply the legitimate/spam
+requests/comments/questions.
+Apr
+2021
+AlwaysData Improper session handling Peculiar case of account takeover as session token was not invalidated after logout.
+Jun
+2021
+UnderArmo
+ur
+Indirect Object Reference
+(IDOR)
+Enable to see private picture of other users which would otherwise be visible to only the owner of
+picture.
+Mar
+2021
+Shapeshift Distributed Denial of Service
+(DDoS)
+Enable to lock account of any users indefinitely,
+disabling the user to access their own account.
+Jul
+2021
+F6S Cross Site Scripting (XSS) Website defacement, phishing to credentials stuffing attack.
+Feb
+2021
+-Top 3% in TryHackMe platform.
+-Solved 90% of portswigger lab.
+SKILLS & INTERESTS:
+• Scripting: Python, PowerShell.
+• Tools: Nmap, Metasploit, Mimikatz, Netcat, Burp Suite(Professional), Responder, mitm6, Hashcat, Johntheripper, Sqlmap, Waybackurls, Assetfinder, Arjun, wpscan, Sublist3r, FFUF, Impacket, Traceroute, nslookup, amass, subfinder, Gobuster
+• Skills: Active Directory Security Pentesting, Web application Pentesting, Owasp top 10, Linux, Virtualization, Docker
+• Interests and Hobbies: Red Teaming, Travel and explore new place, Driving motor bikes, Playing football, badminton
+• Language: Nepali, English, Hindi, French(B1)
+PROJECTS:
+Django web app:
+• Started learning python by writing codes in copy when I did not own computer.
+• Created a blog web app via Python Django to test my coding skill.
+• Used MySQL as a database.
+• Hosted it via Heroku.
+• Link to the webapp: https://pourtoiverisk.herokuapp.com/ Discord Bot and email auto reply bot:
+• Built a simple discord bot which will automatically reply when message of certain nature in sent on discord.
+• Created for self-study, tested and verified its proper executions.
+• Used https://replit.com/ as IDE for discord bot.
+• Built a simple email reply bot that would automatically reply a custom message once I receive mail from client.
+Web App Pentest:
+• Checked for web app vulnerabilities on the web app (Online food ordering app) created for my college project.
+• Tested and validated XSS, SQLi, IDOR and other security issues.
+• Recommended the options to mitigate the bugs, like sanitizing user input, proper user authentication for different services, etc.
+• Verified the mitigations, worked for bypasses and recommended the ways to patch the bypasses. Bugcrowd platform analysis and feedback:
+• Discussed about researcher’s experience and UI/UX of Bugcrowd platform.
+• Compared Bugcrowd with other bug bounty platform to pin point it’s strength and weakness.
+• Recommended for faster triage, triage transparency and effective communication with researchers to improve the researcher’s experience with the platform.
+Contact this candidate

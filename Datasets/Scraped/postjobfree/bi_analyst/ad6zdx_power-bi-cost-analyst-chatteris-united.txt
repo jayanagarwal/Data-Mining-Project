@@ -1,0 +1,173 @@
+Curriculum Vitae - Mr Kevin Neal
+
+Address: * ********* *** ***: 079**-******
+Ramsey Mereside
+Cambridge E-mail: ad6zdx@r.postjobfree.com
+PE26 2UJ
+
+EDUCATION:
+Peoples College, Nottingham 1993 - 1995 BTec. Nat Dip in Electronics and Computing
+Clarendon College Sept 1998 - Feb 1999 City and Guilds Level 1 in Desktop Publishing
+Basford Hall College November 2000 PC Maintenance
+Peoples College January 2001 NT Administration
+Azlan Training June 2003 A+
+ITIL Foundation 2009
+
+Marshall Aerospace Aug 2023 – Present
+Using Excel VBA, I was brought on to help improve the processes and develop automation within the department.
+One of my main duties is to look after the main Excel workbook template use by the team to A) Reduce the file size B) Fix issues C) Enhance with new functions and features (In doing so I managed to reduce the file size from 40Mb to 10Mb). Power BI is another tool I use to create dashboards and a digital whiteboard of all the current aircraft progressing through the hangers and others the team need to keep an eye on.
+To aid the bid process in winning new work, I created a Profiling workbook where the previous projects (by customer) are represented in a table by Labour and Materials. For each project, the weekly percentage is calculated based on the total value and the duration (for each activity type). Then another table is used to calculate the average duration of all the projects, with the values for each week placed against the corresponding percentage point (from each project for the new table) which creates the profiled flow of the Labour / Materials (The flow shows the peaks and troughs of the project over time). This flow is then converted from Weekly to Monthly usage and used on the Cost Model workbook to schedule the Labour / Materials per month using an estimate for the overall total.
+
+Perkins Engines Oct 2017 – Aug 2023
+CDM Analyst
+This role was mainly utilizing different systems to combine data to create a Flash File for engine testing and development. Working in Vector vCDM and Forcast (internally created) with supporting Excel workbooks, a database type file is exported from Forcast and imported into vCDM where a partial dataset is created. Calibration changes are made by the Calibration team which are collated in vCDM to create a full dataset which has data quality checked and then exported out of vCDM and imported into Forcast to update the project work order. Another team then uses this to create a flashfile that is flashed onto an engine ecu so it can run with the latest calibration changes.
+The team uses an intranet-based Issues list system (internally developed) to log changes needed to the calibration by hardware and software revision. A big part of my role was to learn how the system works and to make admin changes to make it easier to use along with new features like automation. To do this I setup a test environment so the changes could be developed then tested on real data records before being deployed to Production. After the first major set of changes that I made I arranged to present the different teams so as many people as possible had the opportunity to understand why the changes were made and how to use the new features before they were implemented.
+The whole Engineering department was tasked with transitioning over to a new BIQ defect system called DeFaCTo and I helped set it up and maintain it.
+I also used my VBA knowledge to help automate and improve the spreadsheets that different teams use to add new features and data quality checking.
+Working with the calibration leaders (L4) I helped my team take on more responsibility to ease the workload of L4 which in turn speed up several parts of the processes they follow. I also helped define the extent of the team’s authority within these new responsibilities to remove unnecessary duplication of approval seeking. ie if a piece of work was approved but not carried out correctly, the Analyst team would find this mistake and work with the calibrator to fix it.
+As a Content Data Manager I was responsible for the 900J product library. At first this was just to work on the 900J flash files, but I helped to expand this in to looking after the library structure for all programs. To help my colleagues with these changes I documented the logic flow and created new instructions on a KnowledgeSite which I developed and deployed.
+During the process documentation phase, I identified several areas for improvement, for which I wrote up several documents and flows to explain the opportunity and how I saw the changes working. For example, there was no process for archiving old releases, also the permissions that are used on each container are managed by adding and removing the individual’s name.
+
+CarillonAmey Oct 2016 - Apr 2017
+Assett Analyst
+I joined CarillionAmey on a short-term contract to perform analytical work for the CAAS SFA team and to help the Utilities team in processing Gas and Electricity bills to cover staff absence.
+CAAS SFA: This work involved receiving surveyors reports from Service Family housing stock, converting them to be compatibility with the main dataset and quality checking the data. Once the data was ok I would copy the data over from the relevant tabs on the Excel sheet. Then a macro had to be run to fill in formulae and apply formatting.
+This task had to be done as quickly and efficiently as possible as the data was required by other departments to see if there was a change in the rental income that the occupant needed to pay.
+The lead surveyor would often ask me to produce reports on certain data criteria to identify causes of issues or for publications to help with a PR campaign.
+Utilities: This involved working with large amounts of data on spreadsheets as well as paper bills. I would often have to contact the utility company for more information but usually the data was ok (compared to the data on the utilities logging sytem) and to log the details on the payment system so the bills could be added to the monthly payment run.
+
+To help with the work for both teams I wrote several macros to speed up a repetitive task or collate large amounts of data.
+
+Defence Infrastructure Organisation (DIO) August 2014 - Oct 2016
+Data Analyst - Security Cleared (SC) Dec 2014
+Working in a small team at RAF Wyton for SD Accommodation on a new centralized accommodation database and bed space booking tool. My first tasks were to make contact with all MOD units to gather their SLA data. Then the spreadsheet has to be checked for errors and modified in several aspects, so it is consistent, logical and conforms with the database data criteria. From this initial dataset several other spreadsheets are generated to capture more specific information.
+Once the data was ready it was entered on the IBM IMS TRIRIGA system either manually or through an auto load process.
+I quickly became responsible for several key areas which supported this project and developed a planning spreadsheet which allowed everyone involved to keep track of the data being worked on as well as special buttons for each of the managers to quickly see the aspects that they were interested in.
+I developed several macros for the templates that we use to help speed up our tasks and developed working processes to ensure a high-quality standard was maintained from each of the team members. I was also tasked with creating forms and documents for other people to use so they had to be as easy to use as possible.
+I also helped train and support new members of staff (Contractors) as well as a team of civil servants who will be managing the project after the rollout has completed.
+
+In June 2015 I was asked to help out on another project, CAAS SLA, to create an assessment tool which would be used to capture information and score these against set parameters to calculate the charging band which service personnel would be charged against for their accommodation.
+I built the assessment tool in Excel using a combination of formulae and VBA. I designed it to import the SLA data (from the IMS project) and to contain export functions to show how the assessment was conducted in case of a query or necessary update at either the bedroom or building level.
+The workbook consists of four summary tabs, two assessment tabs and 5 rank tier data holding tabs as well as other tabs containing pertinent information used in the lookup formulas.
+
+I assisted with the trial and pilot phases of the project by liaising and organizing the TFM staff who conducted the assessments and supported them with issues with both the workbook and the issued laptops. During and after these phases I received lots of feedback which helped shape the workbook to be more efficient and user friendly. After the Pilot phase I worked with the TFM staff to complete the assessments and I worked with an outside company who were commissioned to provide extrapolation and modeling services to the collected data. I also created my own modeling system which will be used in comparison to ensure their analysis is as expected.
+
+This was initially a 3 month contract, but it was extended several times.
+
+NIFES Consulting Group (Oct 2009 - May 2014)
+Technical Consultant (Joined as a Data Analyst, promoted after 2 years)
+
+Main duties:
+• Quality checking written reports • Develop templates with automation
+Further tasks:
+• IT support • Redesigned forms • Created marketing brochures • Designed special spreadsheets with macro functions •
+I researched using tablet computers to help perform surveying more efficiently.
+I also performed site Asset and Condition Surveying on several client sites and assisted with other surveying activities.
+I was made redundant
+
+Perceptive Informatics (Was ClinPhone Plc) (May 2006 - Aug 2009)
+Associate Systems Engineer
+
+I joined a small team resolving internal and external client issues on the night shift. I quickly gained responsibility for the internal knowledgebase which was developed using PHP programming (Based on WikiMedia).
+Main duties:
+• Answer phone calls and pages from the Data Centre monitoring and alerting software • Archiving studies off onto DVD • Checking the helpdesk system for active calls • Project work • Software tasks, hardware checks/fault finding on the rack mounted servers.
+
+I was made Redundant
+PCSC (PC Service Call) (July 2004-May 2006)
+Help Desk Support
+
+I joined PCSC, a company which is owned by Dixons Stores Group Ltd. This role was to answer incoming calls relating to primarily hardware faults/problems that DSG customers are experiencing.
+After a short time working there, I was assigned several new starters to teach them how to do the job.
+I often took on the role of the Team Leader in his absence.
+
+I left this role to widen my IT experiences
+
+RAF Waddington (June 2002-July 2004)
+
+I worked within a small team as an IT Engineer supporting 1,600+ users.
+My main role was to provide 1st and 2nd line technical support for all software and hardware requirements.
+On a daily basis I took care of users with varying technical ability from a new recruit through to Station Commander level of seniority.
+I was tasked with providing advice as to which hardware/software upgrades/replacements are required, much to the users delight when my suggestions improve their workload, work quality and overall performance significantly.
+
+The base often had Work Experience students, and whenever they are assigned to the computer section, they were assigned to me to look after and find work for them to do and to teach them as much as I could. The students often comment that the time with me and my section is one of the best they worked with.
+
+MOD security clearance November 2002.
+I was made Redundant
+Integris (Bull) Oct 2001-June 2002
+
+Starting in October 2001, I joined Integris, part of the Bull group, as a Computer Installation Engineer. My role was to travel all over the UK to different government offices. Once there I worked either in a small team or on my own to replace all of the designated computers & printers in the building. I also had the chance to help installing rack mounted servers.
+Although not in my job description, I was able to fix several computers when they went wrong, or were found to be DOA, saving time and money. Also I organised the team in the Team Leaders absence.
+
+Crown Prosecution Service security clearance Feb 2002.
+MOD security clearance March 2002.
+
+This was a 6 Month contract.
+
+EU interactive (Lawtel EU) March 2000-Oct 2001
+
+In March 2000 I joined EU interactive as Technical Support.
+My duties included:
+• Look after all IT equipment • Instigating and maintaining the back-up procedure • Microsoft Office training • Spicers.co.uk set-up and maintain.
+On a daily basis I had to download any new Legislation Official Journals, check they were not corrupt, and store them on a network hard drive. Also, I downloaded the daily European Commission news items, modifying them to fit the web site template, then e-mailing down to the London office for adding onto Lawtel.com.
+
+Extra tasks:
+• Company brochure design • Temp staff training and supervision
+
+I left this job because they closed the office.
+
+Faithful&Gould (July 1997-Feb 2000)
+
+Started work at Faithful&Gould as an office junior, performing all normal office tasks.
+After 6 Months I moved into the Graphics Dept where I learnt how to put together a newsletter from scratch and other DTP projects. I progressed myself into interactive CD-ROM authoring.
+
+I have had experience in designing, checking and taking to the printers.
+These projects include: Posters (A5-A2 sizes), Site signs, Newsletters (2-6 pages), Booklets, CD covers and labels, Business Cards, Business Card Holder, full proposal documents, Laminating, document binding, Photo manipulation, producing a company photo library and a booklet.
+I also worked on the company web pages to improve the looks and overall design.
+In addition, I gained IT support skills and knowledge.
+
+I left this job because they closed down the Marketing Dept, then later the Nottingham office.
+
+CCT Lighting (July 1995-July 1997)
+
+In July 1995 I joined CCT Lighting as office junior.
+Main duties:
+Preparing quotations for lighting systems, answering the telephone, faxing, dealing with customers enquiring, sales queries and after sales service. I progressed on to further office duties including creating purchase orders, input of daily mail, producing technical drawings by hand and using CAD, organizing and distributing brochures and lighting equipment.
+My role grew to perform important tests on new lanterns, designing a template for photometric data sheets, performing complex lighting tests and filling in the data sheets for company records. I also worked on the shop floor in production, packing and repair. I also became responsible for the cleanliness and presentation of the demonstration room and hire equipment. I also worked as an Engineers mate servicing a fire curtain and existing luminaires. I attended a trade show, primarily as a helper and secondly as a representative for the company.
+
+I was made Redundant from this job due to lack of company funds.
+
+Territorial Army Qualifications and Experience (1995-1999)
+
+Combat Engineer Level 3.
+HazMat (Hazardous Materials) theory based driving course.
+Passed written Driving exam entitling me to drive all TA staff cars, Land Rovers and Mini Buses.
+
+I left this because my day job took precedence.
+
+Other Qualifications
+
+I have held a full Driving License since June 1995 and I own a car & motorbike.
+I passed the Motorbike DSA tests in May 2009, then the IAM in 2012.
+
+I was a member of the Air Training Corps for 5 Years (Left at 18). I reached the rank of Sergeant.
+
+I am physically fit and do not smoke.
+
+Hobbies and Pastimes
+Helping others with IT problems (including local community and Keyworth Bowls Club members).
+Bujinkan Ninjutsu (Green belt 5th Kyu)
+
+Nottingham Advanced Motorcyclists (IAM):
+After passing the IAM test I stayed on in the club contributing with the following roles on the committee: Group Night Organiser, Newsletter Editor and Clothing Procurement.
+
+Seni Ki Ryu in which I achieved Black belt. I have also created several booklet style newsletters for the members to learn from and enjoy.
+
+Technical Skills:
+1St Line, 2nd Line & 3rd Line Support
+Teaching technical skills to nontechnical people
+Graphic Design: Desktop Publishing, Photo Manipulation
+New system build/upgrade from components
+Data Analysis, data profiling
+
+MS Office, Norton Ghost, Adobe Photoshop, Adobe InDesign, Quark Express, SQL 2005, Oracle SQL exposure, VBA (Excel mainly), html, php, to name but a few…
+Contact this candidate

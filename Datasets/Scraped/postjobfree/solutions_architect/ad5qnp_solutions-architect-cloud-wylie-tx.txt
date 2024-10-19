@@ -1,0 +1,106 @@
+M.K.Padhi
+**** ******* ****, *****, ** *****
+Phone: 972-***-****
+
+SUMMARY:
+Multi-cloud, Multi platform K8, experienced Dev SecOps Lead with AWS Solutions Architect/Principal Cloud Architect experience with a proven track record of designing and implementing scalable and secure cloud solutions, cloud migration, designing CI/CD pipelines using Harness, GitHub Action, GitLab etc., Developing Ansible Playbooks and above all using Terraform and AWS-CDK for creating cloud infrastructure. Adept at collaborating with cross-functional teams to deliver strategic IT initiatives aligned with business objectives. I am a Developer turned DevOps and still current on latest development technologies – such as Prompt Engineering and Generative AI.
+Certification : https://www.credly.com/badges/d479904a-dfbc-41ac-a508-e3a63bebe69a/public_url
+
+SKILLS:
+Multi Cloud Services: AWS (EC2, S3, RDS, EKS, Route53, AWS-SSO, AWS ORGs, Lambda, VPC, IAM, etc.). Similar experiences in Azure and GCP Cloud as well.
+Multiple Kubernetes Experiences: Rancher Kubernetes, microk8s, Charmed Kubernetes, AKS, EKS, GKE Architecture and Design
+Security and Compliance
+Dev Sec Ops and Automation
+Networking and Infrastructure
+Project Management
+Strong Communication and Collaboration
+Platform/Programming: C/C++, Java, JavaScript, TypeScript, NodeJs, PHP, Laravel, VueJs, Spring Boot, Python, Ansible, Terraform, CloudFormation, AWS- CDK, AWX-Ansible, Ansible Tower, Semaphore-Ansible, Sonar Ǫube,
+Prompt Engineering and Generative AI.
+
+TECHNICAL SKILLS:
+Jenkins, Azure DevOps, AWS Code Deploy, GitHub Action, GitLab, Harness.io, Juju.is for designing CI/CD
+Used both Legacy Jenkins and Modern Git Ops for AWS EKS build deployment for springboot java, nodejs - expressjs, vuejs 3.x, php.
+Used Rancher for creating and deploying into a localdev macbook environment.
+Setup CI/CD runners in both VMs and EKS Custer
+Integrated MongoDB Atlas with EKS Cluster with Sprint boot java, nodejs and PHP with Private Network VPC Peering Technology
+Integration of EKS nodes with MongoDB Atlas.
+Experience in using Rancher, Scaffol for localdev and GitLab for AWS with OIDC.
+Worked with both AWS Node Groups and Fargate deployments.
+Worked with Enterprise Cloud Security Tools: Wiz and its likes.
+Worked with Monitoring tools Dynatrace, Splunk, AppDynamics, Icinga2
+Developed Simple to Complex Ansible Playbooks for various automation activities.
+Automated using both GitHub Actions and Gitlab CI
+Designed Deployments with Rollback strategy.
+Worked with popular and widely used AWS Services such as AWS-SSO, AWS Organization, AWS Route53, AWS ALB, Route53, Ingress. Also worked on complex technologies as AWS AppMesh, AWS IAM with GitLab OIDC provider etc.
+Used Ansible with different flavors – Command line, AWX and Ansible Tower in complex projects.
+Completed a healthcare Pod using Prompt Engineering and Generative AI with Facebook Llama 2
+
+EDUCATION:
+BITS, PILANI, Rajasthan, India (06/2000 to 05/2002)
+M.S. (Software Systems)
+
+PERSONAL INTEREST
+PHP8.0/NodeJs/Laravel/VueJs/Prompt Engineering/Generative AI/Certification Quiz
+
+EXPERIENCE:
+02/2019 to INFOSYS, Richardson, TX
+Present Lead Consultant - DevOps/ Cloud Solutions Architect/Cloud Architect
+Lead the design and implementation of cloud and DevOps solutions for clients, optimizing performance, scalability, and cost efficiency.
+Conduct cloud assessments and develop migration strategies to transition on- premises applications to AWS.
+Collaborate with clients to understand business requirements and align technical solutions with organizational goals.
+Provide technical guidance to development teams, ensuring adherence to best practices and AWS architecture standards.
+Worked with clients to define cloud adoption strategies and develop roadmaps for AWS migration.
+Implemented AWS services, including EC2, S3, RDS, EKS, Route53, Lambda, VPC, and IAM, to meet client requirements.
+Implemented AWX with Azure Kubernetes.
+Conducted architecture reviews and implemented security best practices to ensure a robust and compliant AWS environment.
+Collaborated with DevOps teams to automate infrastructure provisioning and deployment processes.
+Worked with about 8 Enterprise clients over 5 years where I got greenfield experience on Multi-Cloud and Multi-Platform K8s in addition to different flavor of CI/CD tools.
+
+05/2017 to Client: VERIZON WIRELESS, Southlake, TX
+02/2019 as DevOps SME - DevOps PaaS Architect with Diversant LLC.
+Containerized Icinga2 distributed master-satellite solution for Verizon Wireless for their 10000 servers spread across 50 data centers.
+Created Docker Swarm Infrastructure for hosting the Verizon Cloud Platform.
+Worked on a pilot project to create Kubernetes 1.12 infrastructure in OpenStack VMs using Ansible Playbook.
+As Cloud Architect – Written IaC scripts in Ansible to create Kubernetes clusters in Openstack environments.
+As Application programmer: created Laravel/PHP/MySQL application for IP Management system for monitoring team to manage 10000 servers with LDAP integration.
+Created PoC for Jenkins CI/CD in containerized environment when company decided to move away from CircleCI.
+Several small PoCs using Nomad, Consul, etcd, PowerDNS, Galera Cluster in Docker Swarm etc.
+
+03/2013 to NOKIA, Plano, TX
+04/2017 Integration Professional/ DevOps CICD Engineer
+Worked on DevOps Solution Integrator for Custom Solution Deployments like Personal Ring back Tone Servers, Surepay pre-paid solutions for AT&T and Verizon.
+Worked on application migration strategy to Cloud as customers demanded a SaaS cloud operation model instead of buying server frames.
+Migrated several legacy shell/perl/python based command line scripting to Jenkins based Automation.
+Was involved in containerizing solutions.
+
+07/2000 to TECH MAHINDRA, Richardson, TX
+08/2008 Software Design Lead
+
+08/2008 to NU INFO SYSTEMS, Florida
+03/2013 Systems Analyst
+[Worked as a consultant for the company Alcatel-Lucent from 2000 to 2013 as a developer and DevOps – that would be acquired by Nokia in 2013.]
+
+DEVELOPMENT EXPERIENCE:
+2000-2002: Axes Technologies India (P) Limited – Chennai, acquired by ech Mahindra in 2006
+Conversion from Z8000 Assembly Language to C for Alcatel’s MegaHub STP (Signaling Transfer Point). Coded both non-resident programs like MMIs (Man Machine Interface) and Resident Programs like YNSLM (Signaling Link Management).
+Conversion from CEKOS to LynxOS RTOS in C language for the above STP switch.
+2002-2007: Worked as a developer on Alcatel-Lucent projects on Java/C++ with Waterfall development model and Clear case. The Alcatel-Lucent had a toll-free services platform that was deployed with Allstream, Canada (then AT&T Canada). For 5 years they had requested features and we kept developing in Java/C++ like, Automatic Code Gapping, Implementing Call center logic to existing routing mechanism.
+2019-2020: CBOL – Citibank Online modernization project. Onboarded with about 30 engineers of Infosys to refactor legacy login/auth code to springboot. Worked on backend.
+Currently working on NuxtJs3/Vue3 with Springboot on Live Engineering project of Infosys where we pull data from various devops tools APIs using token and present in a dashboard format for developer productivity kind of tool.
+
+PROJECTS:
+Cloud migration road map from PCF to AWS/Azure after gathering requirements from various multi-country teams and discussing with the chief architect (Client: Solera, Westlake, TX)
+Chef to Ansible Migration for client Capital Group, Irvine with coordinating with about 20 cross functional teams.
+Worked with CBOL project for CITI Bank where reliability of lower environments was a big issue because of poorly defined API versioning where 100 plus micro-services were deployed by 20 plus teams.
+Worked Harness.Io pilot project for Wells-Fargo bank.
+Designed EKS infrastructure for Charter communications, Denver for deploying their Telecom Solutions.
+Worked with Security Framework Wiz after evaluating a few others for cloud security management.
+Testing pilot project for Dynatrace by installing Dynatrace agents on Windows and Linux VMs.
+Designed CI/CD systems where Terraform/AWS-CDK based IaC code tools were used for creating infrastructure automatically.
+Analyzed Cloud expenses and optimized resources for reducing costs.
+Since Transitioned from Developer to DevOps, it becomes easy to understand developers and offer solutions they need.
+Started career as a C/C++/Java/Embedded RTOS Programmer and kept up with latest programming languages NodeJs/TypeScript/JavaScript/VueJs/NuxtJs etc.
+Worked on Waterfall, Agile and SAFe Agile environments.
+
+REFERENCES: Available upon request.
+Contact this candidate

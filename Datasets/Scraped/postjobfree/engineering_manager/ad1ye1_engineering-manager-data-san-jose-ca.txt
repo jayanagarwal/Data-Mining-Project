@@ -1,0 +1,33 @@
+San Jose, CA
+Gongjing Cao gongjing.cao@(***) gmail.304-9485 com
+Summary
+Experienced Engineering Manager with a robust technical background in data platforms,NLP,and foundation models,applied to healthcare,financial and other sectors.Proven leadership in orchestrating complexsystemreleasesfrom concept to general availability.Demonstrated ability in fostering high-performance,outcome-driven teams with consistent velocity and productivity.Adept in efficient communication and collaboration with stakeholders and cross-functional teams.
+EXPERIENCE
+Invitae, Palo Alto, CA— Sr. Engineering Manager
+Invitae is a leading healthcare and genetics company,trusted by millions of patients.Its mission is to makegeneticinformationaccessibleandactionable for healthcare providers and individuals,empowering more informed medical decisions and personalized healthcare.
+Sept 2021 - PRESENT
+● Promote to Sr. Engineering manager within 6 months after acquisition.
+● Upgrade the data platform by adopting:Netflix Conductor framework,FHIR datamodel,advancedAImodels,recommendationbasedonvectorDBsimilarity
+, and LLM-based entity extraction.
+● Manage migrationofthedataplatformfromCiitizenCloudtoInvitaeCloud: unstructured data pipeline for pdf,images etc.,structured data pipeline for CCD(xml),FHIR(json),PACS for clinical imaging(DICOM).Manage three groups of about 20 people at peak.
+Ciitizen, Palo Alto, CA(acquired by Invitae)— TechnicalManager Ciitizenisapatient-centrichealthcaredataplatformthatemploysNLPanddeep learningmodelstoextractpatienthealthprofilesfromunstructuredreportsand documents.
+Dec 2018 - Sept 2021
+● Joined as one of the early hires,initiallyasaseniorsoftwareengineer, and played a instrumental role in transforming the monolithic prototype system into microservices architecture platform,featuring:queue-based asynchronous data processing and modularized the system for scalable processing, in-house NLP foundation model to extract clinical info.
+● Promotedtotechnicalmanagerwithinoneyearofjoining.Managedateamof 5engineersand2datascientiststodeveloptheunstructureddatapipeline, and a set of tools for pipeline monitoring,workflow visualization, operations, reinforce feedback of human review etc
+● Led multiple iterations ofCiitizenPlatform:newNLPmodels,orchestration of theplatformtoaccommodatethecapabilitiesofAIresults,provideAPIs through SaaS platform, AWS API gateway etc.
+● Techniques:Java,AWS,Kubernates,container,docker,postgres, elasticsearch, NLP/AI, JWT, auth0, Kafka, gRPC,protobuf, mongoDB, redis etc. Quisk, Sunnyvale, CA— Tech Lead
+June 2017 - Oct 2018
+● Quisk Audit Log Framework:Lead and implement with teammates to audit log all essential operations/transactions.Myrole:Combthroughthewholecode base,convinceCTOwithasounddesignandmigrationplan,leadtheteamto consolidate the old inconsistent audit ways into one standard andscalable framework.
+● Various Portals and backend APIs:admin portal,Merchant Portal,Payers Portal.My Role:analyzing/refining business requirements,design/develop and manage work among API development,UI development,DB development,QA testing, etc.
+● Upgrade the message system from ActiveMQ to Kafka,system-wise,e.g. Registration/Authentication/Payment/Risk services.
+● Techniques: RESTful, Java, JSON, Oracle DB, Kafka, Couchbase, Redis, etc. eBay, San Jose, CA— Sr.Software Engineer
+July 2016 - Dec 2016
+● Risk Management System:providesdetailedsellers’riskinformationtoeBay Customer Service and sellers globally,aiming to guide sellers to improve the healthiness of their accounts.My role:service owner of subsystems - Risk Decision Outcome Service and Ship to Fund Audit Service,including design and implementation, deployment, monitor etc.
+● Techniques:Java,Eclipse,Tomcat,Hibernate,Maven,Jenkins,Oracle DB, JSON, unit test, GIT, Agile SCRUM
+University of California, Davis, CA— Software Engineer April 2009 - June 2012
+● Google Cloud Services Module on Kepler Scientific Workflow Platform: providesanewmoduletoenabletheplatformtointeractwithGoogleCloud, offloading tasks toGoogleCloud,andretrievingresultsfromGoogleCloud. My role:sole engineer to design the module,implement the functionality, integrate with Google Cloud API.
+● Techniques:Java,GoogleservicesAPIsincludingOAuthAPI,GoogleDocAPI, Google Spreadsheets API, and Gmail API etc., JSON, etc. EDUCATION
+M.S in Computer Science, Florida International University, Miami, FL
+M.S in Management Science and Engineering, National University of Defense Technology, China
+M.S in Information System Engineering, National University of Defense Technology, China
+Contact this candidate

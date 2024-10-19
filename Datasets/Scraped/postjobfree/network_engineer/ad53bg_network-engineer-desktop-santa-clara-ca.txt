@@ -1,0 +1,161 @@
+Jason Aquino
+**** ******* ******
+Santa Clara CA 95050
+Cell: 408-***-****
+ad53bg@r.postjobfree.com
+
+Network Engineer / Datacenter operations.
+
+Experience & Employment History.
+
+•Routing, switching and firewalls.
+•Network design principles/OSI model.
+•GRE-IPSEC VPN via Cisco firewalls and routers.
+•IPv4 subnetting.
+•Redistribution.
+•TCP/IP, Data-Plane. Control-Plane.
+•OSPF, EIGRP, MPLS, BGP, VRF.
+•STP, VLANS, SVI, Ether Channel, ARP, DTP, VTP. MAC/CAM table (datalink).
+•NAT/PAT, DNS, DHCP
+•HSRP, GLBP, VRRP, FHRP.
+•ACLS and basic security fundamentals.
+•Wireless networking.
+•Telnet, SSH.
+•VMware ESXI, VMware player Pro, Hyper-V and Citrix.
+•Linux operating systems.
+•Desktop support/IT Technician.
+•Python programming fundamentals.
+•Build networking labs via GNS3 and EVE-NG.
+
+01/09/2023 – Present (Contract) LinkedIn.
+
+•Responsible for over a thousand servers and switches for multiple locations.
+•Servers:
+•Supermicro Fat Twin Skylake or CXL Server Module.
+•Dell EMC C6400/6525 series.
+•Inspur i24M5 CXL Dense Chassis
+•Supermicro SKL/CXL Software Define Storage node with 25G SFP+.
+•Skylake/Cascade Lake liquid nodes.
+•SM 4U AMD based inference workload.
+•Lenovo SR655 storage servers.
+•ASUS and Supermicro liquid servers.
+•Switches:
+•Seastone DX010.
+•Juniper MX240.
+•Cisco Nexus 3232C.
+•Cisco 3615
+•Arista 7280CR2K-30-F.
+•Fiber cabling, testing and management.
+•EXFO FTB-2 PRO cabling and optic testing.
+•OS2 8F MTP F-4CS QSFP breakout.
+•12FSM-OFF-B MPO-MPO.
+•MTP-LC QSFP.
+•MTP and MPO fiber cleaning.
+•Optics
+•Cisco SFP 10G-LR-S.
+•AOI QSFP 400G DR4.
+•Intel QSFP 400G DR4.
+•Inno Light QSFP TR type 100G.
+•TR and FR 0ptic types.
+•QSFP 100G to 25G SFP+ breakout cables.
+•Rack and cable servers and switches.
+•Configure and troubleshoot Dell iDRAC console configurations, VLAN and IP addressing.
+•Configure and troubleshoot Supermicro BMC configurations, VLAN and IP addressing.
+•Work in a /26 IPv4 address block, using subnetting to determine gateways, for console setup.
+•Router Ethernet cable for console and switch management.
+•Troubleshoot switchports that are reporting errors or are down.
+•Work with Centos Linux VM, to SSH into servers and switches daily.
+•Setup and troubleshoot SSH keys.
+•Install and mount NVME SSD drives, updating the ticket via Jira for verification.
+•Asset management via InOPS software.
+•Server imaging via PXE boot and proprietary LinkedIn software for auto builds.
+•Use LinkedIn proprietary tools for server diagnostics, verification and logs.
+•Server break-fix and upgrades, memory, CPU, NIC, NVME interlock controllers.
+•Work with Dell via Tech-Direct web portal to create tickets and resolve issues.
+•Work with Supermicro tech support and resolve issues.
+•Assist with research and development labs.
+•Built a LinkedIn client base, that depends on me for assistance with R&D.
+•Use Slack for internal communications.
+•Decommission out-of-warranty hardware via InOPS.
+•Use crash carts to investigate server issues, via the BIOS and POST process.
+•Escort technicians into the data center from multiple vendors.
+•Work with IXIA XGS12 devices for speed testing, at 100G and 400G.
+•Use IMPICFG tools to update motherboard serial number to match InOPS for server imaging.
+•Upgrade Dell CM chip firmware and BIOS.
+•Use traffic shifting tools to bring switchports back up automatically after troubleshooting.
+•Create TSR reports via Dell iDRAC console to identify issues.
+•Patch panel installations and cabling via breakout fiber cables to MPO connections.
+
+02/21/2022– 01/06/2023 (Contract) Waste Management
+
+•Resolve tickets via Service-Now.
+•DFSU proprietary WM tool:
+•Image machines.
+•Active Directory user administration.
+•Asset management.
+•Software deployment.
+•Remote tools for machine administration.
+•Dameware/RDP remote:
+•Troubleshoot customer machines.
+•Install software and drivers.
+•Microsoft Office support.
+•Printer setup.
+•CE Premier Line call center support.
+•Customer service support via email, phone, Microsoft Teams, onsite.
+•PC hardware builds and laptops.
+•Docking station setup and troubleshoot.
+•Collaborate with DFS team to resolve customer tickets.
+•Software licensing.
+•Virtual machine support. (VDI)
+•Fast Lane/CAT ET support.
+
+2018 – 2019 David Weise and Associates
+
+•Consult on software technology solutions.
+•Manage and build virtual machines via VMWARE/ESXI
+•Active Directory administration.
+•Exchange Administration.
+•HP Switch management.
+•Network documentation.
+•Windows 10 support.
+
+2017 – 2018 7 Layer IT Solutions
+
+•Deployed and managed IPSEC/SLL VPN builds, via Cisco ASA 5506x/55012 firewalls.
+•Provision Cisco switches, configuring and verifying the necessary requirements.
+•Configure Barracuda Web filters, making exceptions, allow, and deny policies.
+•Respond to trouble tickets and manage client accounts via Connectwise.
+•Configure and install wireless Cisco SDN networks.
+•Microsoft 365 provisioning and management.
+•Support Active Directory, managing client user accounts.
+•Install network, server and cabling hardware on customer premise.
+•Manage client email accounts via Appriver
+•Support customer requests via phone and remote access.
+•Data backup support via Datto technologies.
+
+2015 – 2016: RackAlley (Contract)
+
+•Senior data center administrator responsible for administrating and managing over 500 collocation and dedicated servers.
+•Rack and stack servers, routers, switches and firewalls.
+•Manage power via APC, installations configurations and security access.
+•Extensive cabling experience via Ethernet and Fiber.
+•Monitor the data center in real-time using PRTG.
+•Provision Dell and Cisco switches via the CLI.
+
+2009 – 2014: Ed Hardy
+
+•Senior network engineer tasked with implementing a secure and large VPN communications network.
+•Designed and implemented a Cisco VPN hub and spoke network infrastructure.
+•Configured a GRE/IPSEC/VPN to facilitate network connectivity from company headquarters to their branch offices nationwide.
+•EIGRP implemented to dynamically learn the routes from the branch office to head quarters.
+•Redistribution via OSPF and EIGRP between a Sonicwall and Cisco routers
+
+Degree & Certifications
+
+•Bachelor’s Degree – Computer Science 2005 – 2008
+•Neumont University – Salt Lake, UT.
+
+•Cisco Certification – CCNA (Expired) 2009 – 2012
+
+•Comptia Certifications – A+ 2001 – Present
+Contact this candidate

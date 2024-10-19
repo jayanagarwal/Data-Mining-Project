@@ -1,0 +1,161 @@
+Summary
+Experienced AWS & Azure DevOps and Cloud Solutions Architect with 8+ years of experience in designing and implementing large-scale, highly available systems.
+Proficient in using Amazon & Azure Cloud Services including EC2/VME, S3/Storage, Load Balancing, CloudWatch/Monitor, Networking with VPC, SG/NSG, CloudFront/CDN, and Terraform/CloudFormation/Azure Resource Manager, Route53/DNS.
+SQL and NoSQL databases including Postgres, MySQL, SQL Server, MariaDB, MongoDB, DynamoDB.
+Security with Identity and Access Management (IAM), CloudTrails, Active Directory (AD), Azure Active Directory (AAD), Sentinel, and AWS Directory Service for Microsoft Active Directory.
+Well-versed in applying DevOps methodologies, such as Continuous Integration (CI) and Continuous Deployment/Delivery (CD), leveraging industry standard CI tools like Jenkins, Travis Ansible, Puppet, Chef, CodePipeline and Azure DevOps.
+Install and set up monitoring tools such as CloudWatch, Monitor, Prometheus, Datadog, Grafana, SPLUNK, and Nagios tools for monitoring logs and managing infrastructure in a highly accessible configuration.
+Work on infrastructure as code (IaC) including Terraform, CloudFormation, and Azure Resource Manager with versioning.
+Expertise in scripting with Bash, Groovy, Python, and Go.
+Excellent understanding of SDLC methodologies such as Agile/Scrum, and Waterfall.
+Acquired experience with containerization tools like Docker and Kubernetes.
+Utilize AWS Serverless Application Repository and Lambda functions to deploy applications.
+Successfully developed web applications using Flask and deploy them to AWS.
+Work with version control systems such as GitHub, GitLab, and Bitbucket.
+Proven ability to improve delivery processes, increase efficiency, and reduce cost while maintaining high levels of security and compliance.
+Detail-oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy.
+
+Technical Skills
+Platform: AWS, Azure, VMware, Hyper-V
+Automation: Terraform, Cloud Formation, Azure Source Manager, Ansible, Travis.
+Containerization: ECS/ACS, EKS/AKS, Fargate, Kubernetes, Docker.
+Programming Languages: Python, Bash, C/C++, Java, C#, PHP, JavaScript.
+Networking: Route53, ELB, VPN, VPC, Subnets, NACL, SG/NSG.
+AWS Services: EC2, RDS, Lambda, SQS, SNS, CloudFront.
+Databases: DynamoDB, MySQL, SQL Server, PostgreSQL, MongoDB, Amazon Aurora.
+
+Professional Experience
+Sr. AWS & Azure DevOps & Cloud Engineer
+ECS Federal, Indianapolis – Oct’22 to Present
+(ECS Federal is the provider of system engineering and information technology services. The company delivers cyber security, cloud, DevOps, IT modernization, and advanced science and engineering services, enabling customers in the United States.)
+
+Architected and configured Dev/Stage/QA environments in AWS integrated with VPC, subnets, security groups, EC2 instances, load balancer, RDS, Redis & Route53, Cloud Formation, Cloud Watch, SQS, IAM, and S3.
+Later supported Azure with VPCs, Subnets, Express Route, Load Balancer, VMEs, RDS
+Used Site Reliability Engineering (SRE) to implement and maintained highly available multi-tier architecture which resulted in 99.95% uptime
+Automated deployment and scaling of applications using Terraform, Cloud Formation, and ECS/ACS, reducing deployment time by 50%
+Implemented CICD pipeline using CodePipeline and CodeBuild which enhanced the frequency of releases by 70%
+Reduced infrastructure costs by 30% by leveraging spot instances as well as reserved instances
+Implemented security best practices in including MFA, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies, ACLs and NACLs
+Created Python scripts to Automate AWS services such as web servers, ELB, CloudFront and CDN Distribution, Database, Virtual Machines, and Database security groups
+Applied AWS serverless services Lambda, API Gateway, SNS, SQS, and DynamoDB
+Built a new CI pipeline and tested and deployed automation with Selenium, Docker, Kubernetes, and Jenkins
+Monitored Infrastructure with CloudWatch, Azure Monitor, ELK, Prometheus, Grafana, Nagios, Dynatrace, and Splunk, Wrote and executed several Lambda functions to automate infrastructure tasks
+Reviewed existing systems and made recommendations for improvements.
+Developed strategy to migrate Dev/Test/Production from an enterprise VMware infrastructure to the IaaS Cloud environment
+Created detailed documentation of complex build and release processes for post-release activities using JIRA workflow and Release notes.
+Evaluated Ansible framework, playbooks, and tools to automate the Cloud deployment and operations.
+
+AWS DevOps & Cloud Engineer
+Paycom Software, Inc., San Antonio – Jan 2021 – Oct 2022
+Paycom, is an American online payroll and human resource technology provider based in Oklahoma City, Oklahoma with offices throughout the United States. It is attributed to being one of the first fully online payroll providers. It has been recognized by Fortune and Forbes as one of the fastest-growing publicly traded companies in the world and as one of the World's Most Innovative Enterprise Companies by Fast Company in 2022.
+
+Planning, deploying, monitoring, and maintaining Amazon AWS cloud infrastructure consisting of multiple EC2 nodes and VMWare VMs as required in the environment.
+Used security groups, network ACLs, Internet Gateways, NAT instances, and Route53 tables to ensure a secure zone for organizations in AWS public cloud.
+Onboarded and migrated test and staging use cases for applications to AWS cloud with public and private IP ranges to increase development productivity by reducing test-run times.
+Created monitors, alarms, and notifications for EC2 hosts using CloudWatch.
+Implemented and maintained Chef Configuration management spanning several environments in VMware and the AWS cloud.
+Worked on Multiple AWS instances, set the security groups, Elastic Load Balancer (ELB) and AMIs, and Auto scaling to design cost-effective, fault-tolerant, and highly available systems.
+Creating S3 buckets and managing policies for S3 buckets and utilizing S3 bucket and Glacier for Archival storage and backup on AWS.
+Creating public and private subnets within the VPC and attaching them to the EC2 instances based on the requirement.
+Designed AWS CloudFormation templates to create custom-sized VPC, subnets, and NAT to ensure successful deployment of Web applications and database templates.
+Utilize AWS CLI to automate backups of ephemeral data stores to S3 buckets, and EBS and create nightly AMIs for mission-critical production servers as backups.
+Containerized the services using the Docker for the test environments and dev-environment needs as well as configuration automation using Docker.
+Created Docker images using a Dockerfile, worked on Docker container snapshots, removed images, and managed Docker volumes.
+Written Chef Cookbooks for various DB configurations to modularize and optimize product configuration, converting production support scripts to Chef Recipes and AWS server provisioning using Chef Recipes.
+Used Nagios as a monitoring tool to identify and resolve infrastructure problems before they affect critical processes and worked on Nagios Event handlers in case of automatic restart of failed applications and services.
+Expert Knowledge in Bash Shell Scripting and automation using cron Jobs.
+Implemented Continuous Integration using Jenkins and Git.
+Developed build and deployment scripts using Ant, Maven, and Gradle as build tools in Jenkins to move from one environment to another environments.
+Deployment and management of web services with Tomcat and JBoss provided end-user straining for all Tortoise SVN, and JIRA users to effectively use the tool.
+
+AWS Solutions Architect
+Advent Software, New Jersey- Jan 2019 – Jan 2021
+Advent Software is the provider of investment services to investment management organizations. The Company offers software and services that automate workflows and data across investment management organizations, as well as the information flows between an investment management organization and external parties.
+
+Automated infrastructure using Terraform, system manager while reducing deployment time by 60%
+Implemented AWS Far-gate for serverless computing which improved scalability and reliability
+Implemented Prometheus, AWS X-Ray, and Grafana for monitoring while alerting and improving visibility as well as initiated robust troubleshooting
+Configured security using Guard Rails, Cloud Trail, Guard Duty, Cloud Watch, Config & SNS for architectural designs
+Customized images with docker server, docker-compose with multiple local containers
+Migrated high-availability web servers and databases to AWS EC2 and RDS with minimal downtime
+Mentored team, sharing skills and expertise and encouraged each member to bring forward ideas and suggestions for improvement.
+
+DevOps/ Cloud Engineer
+General Dynamics, Reston, Virginia – Feb 2017 – Dec 2018
+General Dynamics is a Global Aerospace & Defense Company which is headquartered in Virginia.
+
+Responsible for day-to-day Build and deployments in pre-production and production environments.
+Deployed Puppet Dashboard for configuration management to existing infrastructure.
+Designed and coded Business logic and Database layers in C#, C++, and Python.
+Creating Private networks and sub-networks and bringing instances under them based on the requirement.
+Built DNS system in Route53 and managed all DNS-related tasks.
+Managed the configuration of the applications using Chef.
+Using Jenkins and AWS Code Deploy plugin to deploy to AWS.
+Build servers using AWS, importing volumes, launching EC2, RDS, creating security groups, auto-scaling, and load balancers (ELBs) in the defined virtual private connection.
+Install and configure Amazon command line (CLI) interface tools Performed migrations of virtual servers from Ubuntu Open VZ physical servers to AWS EC2.
+Creating snapshots and Amazon Machine Images (AMIs) of the instances for backup and creating clone instances.
+To achieve the Continuous Delivery goal in the highly scalable environment, used Docker coupled with the load-balancing tool Nginx.
+Developed GIT hooks for the local repository, code commit, remote repository, code push functionality, and Git Hub.
+Deployed J2EE applications to J2EE application servers in an agile continuous integration environment and automated the whole process.
+Build scripts using Ant and Maven build tools in Jenkins and passing SonarQube to move from one environment to another environments.
+Setting up private networks and sub-networks using the virtual private cloud (VPC) and creating security groups to associate with the networks.
+Developing automation scripts in Bash using AWS CLI commands.
+Managed the configurations of the instances using OpsWorks.
+Written and modified various Cookbooks/Recipes for better management of the systems.
+
+Build & Release Engineer
+Fiserv, Brookfield, WI – Jan 2015 – Jan 2017
+Fiserv is a company that specializes in financial services technology. It operates through three segments: First Data, Payments & Industry Products, and Financial Institution Services.
+Primary responsibilities include building and Deployment Java applications into different environments like Dev, Integration, and UAT.
+Installed Jenkins on a Linux machine and created a primary and subsidiary configuration through a build farm for the implementation of multiple parallel builds.
+Generated scripts in Maven, Perl & Bash Shell for build activities in QA, Staging, and Production environments.
+Able to create scripts for system administration using languages such as Bash and Python.
+Coordinate/assist developers with establishing and applying appropriate branching, labeling/naming conventions using Git source control.
+Analyze and resolve conflicts related to the merging of source code for Git.
+Dependency management in Maven to share snapshots and releases of internal projects using the Nexus tool.
+Set up and maintain a continuous automated build system with Jenkins, ClearCase, and Perl/Python scripting.
+Merged release branches to the trunk after the production release and resolved the conflicts raised during the merger in both Subversion Proposed branching strategies & implemented them.
+Management of Users and Groups in Subversion (SVN) and troubleshooting client spec issues and user issues.
+Deployment of build artifacts like wars and ears into a WebLogic app server by integrating the WLST scripts to Shell Scripts.
+Maintained all the Linux environments for deployments and Implemented Configuration Management, Change Management policies, and procedures.
+Directed the Release Management Calls to synchronize with the Developers, Testers, and DBA teams for successful Release.
+Designed and implemented Subversion (SVN) metadata including elements, labels, attributes, triggers, and hyperlinks.
+Coordinated Release efforts amongst various teams (Integration, Testing, and Business Users) in geographically separated environments.
+Attended the Minor/Major Event change control meetings to get necessary approvals for the deployment request.
+
+Linux Administrator
+Teamware Solutions, Austin, TX – Jan 2010 – Dec 2014
+Teamware Solutions offers industry solutions for deriving business value for its clients' IT initiatives. The company provides consulting services and expertise in banking, financial services, insurance, oil and gas, infrastructure, manufacturing, retail, telecom, and healthcare industries.
+
+Installation, configuration, and administration of red hat Linux servers and support for servers.
+Planned and performed the upgrades to Linux (RHEL 4x, 5x, suse 10, 11, centos) operating systems and hardware maintenance like changing memory modules, and replacing disk drives.
+Provided support for building servers, patching, user administration tasks, deployment, software installation, performance tuning & troubleshooting, and KVM.
+Installation and configuration of Oracle 7.
+Handling NFS, Auto Mount, DNS, and IDAP-related issues.
+Monitoring CPU, memory, physical disk, hardware, and software raid, multipath, file systems, and network using the tools Nagios 4.0 monitoring.
+Performing failover and integrity tests on new servers before rolling them out to production.
+Deployment and configuration of application server Tomcat deploying java and web application.
+Writing shell scripts for automation of daily tasks, documenting the changes that happen in the environment and each server, analyzing the error logs, analyzing the user logs, and analyzing the /var/log/syslog.
+Planned, scheduled, and implemented OS patches on Linux boxes as a part of proactive maintenance.
+Identify, troubleshoot, and resolve problems with OS build failures.
+Installation, configuration, and customization of services send mail, Apache, and FTP servers to meet the user's needs and requirements.
+Performing kernel and database configuration optimization such that it limits i/o resource utilization on disks.
+Backing up and restoring files across the network.
+Wrote Technical documentation for various projects and worked with technical writers to finalize the documents.
+
+Academic Credentials
+Bachelor of Science in Computer Engineering
+Informatic Science University, La Habana, Cuba
+Excellent academic credentials, completed Bachelor of Science in Computer Engineering along with various courses like AWS Cloud Fundamentals, Angular 4 Course, Django Course, Git and GitHub Professional, C++, Advanced Data Structure Course, and certifications - UL and IPC.
+AWS Cloud Practitioner
+
+Courses
+Docker Fundamentals Course
+Angular 4 Course
+Django Course
+Git and GitHub Professional Course
+C++ Course
+Advanced-Data Structure Course
+UL Certification
+IPC Certification
+Contact this candidate

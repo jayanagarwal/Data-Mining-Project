@@ -1,0 +1,163 @@
+Tirumal S
+409-***-****
+adyssn@r.postjobfree.com
+https://www.linkedin.com/in/tirumal-s-69b3b2250/
+
+PROFESSIONAL SUMMARY:
+
+Around 7 years of experience in the field of Information Technology, dedicated to the optimization DevOps Build/Release Management, AWS, Change/Incident Management and Cloud Management. Linux System Administration working on server-based operating systems.
+Created infrastructure which consists of following services in AWS such as EC2 instances, EBS, Security group, Subnet, VPC, S3 storage buckets, Elastic File Storage (EFS) systems, Elastic Load Balancers (ELB), Application load balancers, Auto scaling groups, High availability zones, Route53, IAM roles, AWS Lambda.
+Configuring Azure web apps, Azure App services, Azure Application insights, Azure Application gateway, Azure DNS, Azure Traffic manager, Azure Network Watcher, Azure storage, Azure Active Directory, and Azure Resource Manager (ARM).
+Orchestrated and migrated CI/CD processes using Cloud Formation, Terraform templates and containerized
+the infrastructure using Docker setup in AWS and Amazon VPCs.
+Participated in Harness tool migration that served as alternative to Jenkins and created a infra provisioners and work flow pipelines in Harness.
+Implemented services on google cloud platform (GCP) services like compute engine, cloud load balancing, cloud storage, cloud SQL, stack driver monitoring and cloud deployment.
+Implemented Azure webapps and migrated on-premises servers to Azure cloud using various Azure cloud services.
+Developed Kubernetes Pod definitions, Deployments, Helm Charts to version control deployment strategies.
+Worked with the MongoDB database concepts such as locking, transactions, indexes, Sharing, replication, schema design.
+Implemented the Jenkins CI/CD Pipeline job using the Groovy Script and injected groovy scripts in Jenkins for dashboard and customized emails Implemented scripts for MongoDB import, export, dump and restore.
+Experience in managing MongoDB environments from availability, performance, and scalability perspectives.
+Configured and installed Splunk on the EC2 Linux instances with ansible automation and created indexes and generated reports and used it for monitoring the network bandwidth and hard disk status.
+Written Perl and Groovy scripting in automating many Jenkins, Urban Code Deploy activities with cloud foundry.
+Configured Oracle WebLogic Server forms part of Oracle Fusion Middleware portfolio which supports Oracle, and other JDBC-compliant databases.
+
+TECHNICAL SKILLS:
+
+Cloud Platform
+Azure, AWS and GCP
+Tracking Tools & Monitoring
+Jira, Service Now, Cloud watch, Splunk and Nagios, Prometheus and Grafana, New Relic
+Build Tools
+Ant, Maven and Gradle
+Containerization and Orchestration
+Docker, Docker Swarm, EKS, Kubernetes
+Cluster and AWS ECS
+Application Servers
+JBoss, Apache Tomcat, Nginx and Web logic
+Continuous Integration
+Jenkins, Teamcity, Azure DevOps and Harness
+Configuration Management tools
+Chef, Ansible, Ansible Tower and Puppet
+Web Technologies
+JavaScript, XML, HTML, Groovy, Shell script, Ruby and Python
+Operating Systems
+Linux (Red Hat 5/6), Ubuntu, CentOS, Windows and Unix
+Scripting Languages
+Shell, Bash, Groovy and Python Scripting
+Databases
+MySQL, PostgreSQL, MongoDB, Oracle DB 10g, 11g, 12 C
+Infrastructure Spin-up Tools
+Terraform, AWS Cloud formation, Azure ARM
+Code Analysis & SAST
+SonarQube, Veracode, Check Marx, Blackduck
+
+PROFESSIONAL EXPERIENCE:
+
+Client: NC Fast, Raleigh, NC JAN 2022 – PRESENT
+Role: AWS/DevOps Engineer
+
+●Created complex infrastructure which consists of following services in AWS such as EC2 instances, EBS, Security groups, Subnet, VPC, S3 storage buckets, Elastic File Storage (EFS) systems, Elastic Load Balancers (ELB), Application load balancers, Auto scaling groups, High availability zones, Route53, IAM roles, AWS Lambda, AWS Elastic Beanstalk, Private Endpoint & AWS Cognito authentication to quickly deploy and manage the applications Using Terraform.
+●Proficient on AWS Cloud Formation templates to create custom sized VPC, subnets, EC2 instances, ELB, security groups and tagging standard for proper identification and ownership of EC2 instances and other AWS Services like Cloud Front, CloudWatch, OpsWork, RDS, ELB, EBS, S3, glacier, Route53, SNS, SQS, KMS, Cloud Trail, and IAM and created and managed the AWS AMI’s using the Hashi corp packer.
+●Used Terraform modules for two tier Architecture which includes AWS resources VPC, Subnets, Security groups, Ec2, Load Balancers, Auto scaling group, Cloud watch Alarms, ECS clusters, S3 buckets for logs.
+●Orchestrated and migrated CI/CD processes using Cloud Formation, terraform templates and containerized the infrastructure using Docker setup in AWS and Amazon VPCs.
+●Managed the Ansible playbooks with the Ansible modules. Implemented the CD automation using the Ansible and managing the existing servers and build/configuration of the new servers.
+●Performed Ansible to run ad-hoc commands and playbooks to automate tasks and written playbooks.
+●Responsible for delivering an end-to-end Continuous Integration-Continuous Delivery system for the products is an agile development approach using Ansible and Jenkins and shell scripts.
+●Experience in designing Kubernetes cluster using AWS-Kops (EKS) configuring and deploying the Kubernetes dashboard to access the cluster via its web-based user interface.
+●Proficient on creating a pipeline to automate application deployment on Kubernetes using Jenkins Deployed and administered EKS clusters on AWS native services.
+●Involved in the functional usage and the deployment applications of the Tomcat and WebLogic Server
+●Setting up the Continuous Integration process which includes Continuous scan, Continuous build, and Continuous test in NexGen and then also developed the Continuous deployment in the current Gen using blue-green deployment strategy and canary deployment strategy in Harness.
+●Participated in Harness tool migration that served as alternative to Jenkins and created a infra provisioners and work flow pipelines in harness.
+●Built pipelines for application to deploy any changes from Dev to Prod at one go for uniformity. Successfully was able to implement this across multiple applications in Harness.
+●Also creating the CD pipelines on top of AWS cloud triggering some of the deployments. Where I have been scheduled the deployments env level and also creating infrastructure definitions.
+●Configured and Deployed applications packages on the tomcat server and Coordinated with the development teams and QA teams.
+●Creation, configuration, and monitoring Shards sets. Analysis of the data to be shared, choosing a shard Key to distribute data evenly. Architecture and Capacity planning for MongoDB clusters. Implemented scripts for mongo DB import, export, dump and restore.
+●Created MYSQL database objects like schemas, Table, views, stored procedures, indexes, (clusters/Non clusters), buffer pools, user roles and functions.
+●Configured and installed Splunk on the EC2 Linux instances with ansible automation and created indexes and generated reports and used it for monitoring the network bandwidth and hard disk status.
+●Written python scripts for automated build and monitoring and deployed processes.
+●Experience working the Service mesh like Istio for advanced service discovery of microservices running on cluster.
+●Implemented and managed the Service mesh architecture to enhance microservice communication.
+●Configured the traffic routing strategies using service mesh, including the canary and blue green deployments and setting up the Observability tools within the service mesh, enabling the real-time metrics collection tracing and distributed tracing.
+
+Environment: Jenkins, Kubernetes, Ansible, Ansible Tower, Terraform, Docker, Jfrog, GitHub, Tomcat, MongoDB, Python Script, snowflake, Airflow, Maven, GCP, EC2, S3, Elastic load balancer, RDS, EBS, Harness, Splunk, Jira,
+Client: GrayMatterAnalytics, Chicago, IL AUG 2021 – JAN 2022
+Role: Site Reliability Engineer.
+
+●Configuring Azure web apps, Azure App services, Azure Application insights, Azure Application gateway, Azure DNS, Azure Traffic manager, Azure Network Watcher, Azure storage, Azure Active Directory, and Azure Resource Manager (ARM), App service environment, key Vaults and Azure Data Factories.
+● Managed Azure Infrastructure Azure Web Roles, Worker Roles, VM Role, Azure SQL, Azure Storage, Azure AD Licenses, Virtual Machine Backup and Recover from a Recovery Services Vault using Azure PowerShell and Azure Portal.
+●Performed Managing, Monitoring and troubleshooting of the VMWare ESX Servers and created the virtual Machines from the templates and deployed onto these servers.
+●Developed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets managed and optimized the CI (Continuous Integration) tools like Azure DevOps.
+●Implemented Azure webapps and migrated on-premises servers to Azure cloud using various Azure cloud services.
+●Created Azure Site Recovery and Azure Backup- Deployed Instances on Azure environments and in Data centers and migrating to Azure using Azure Site Recovery and collecting data from all Azure Resources using Log Analytics and analyzed the data to resolve issues.
+●Involved in authoring Terraform scripts to automate and deploy Azure cloud services and developed Terraform templates that can spin up infrastructure for multi-tier application and provisioned boot strapped software on Cloud with Terraform.
+●Implemented Terraform module to Created keyvault and keys in Azure for Encryption and Decryption of instances.
+●Implemented container-based deployments using Docker, working with Docker images, Docker Hub, Docker Compose, Docker-registries and Kubernetes.
+●Developed Kubernetes Pod definitions, Deployments, Helm Charts to version control deployment strategies.
+●Creating Ansible Playbooks, to Deploy VM and install the Components as per requirement
+●Proficient in using Ansible Tower, which provides an easy-to-use dashboard and role-based access control, so that it is easier to allow individual teams access to use Ansible for their deployments. Integrated Jenkins CI/CD pipeline with various DevOps tools such as GIT, Nexus, SonarQube, Ansible
+●Experience in building the Docker images from the GITLAB and setting up the repository for the Build automation
+●Creating Ansible playbooks to configure systems to a specified state and using Ansible templates to create customized configuration files for hosts.
+●Provided the Operational and Application support to the Oracle Database and SQL Databases and implemented the UNIX and shell scripts and SQL scripts for database task automation.
+●Configured and managed the monitoring tools like Splunk and Nagios for Resource Monitoring/Network Monitoring/Log Trace Monitoring and Cloud Watch and ELK to monitor OS metrics, server health checks, file system usage etc.
+●Written Perl and Groovy scripting in automating many Jenkins, Urban Code Deploy activities with cloud foundry.
+●Implemented in setting up Baselines, Branching, Merging and Automation Processes using Shell, Perl, Ruby, Python, GOlang and Bash Scripts and packaging the files and placing them in Artifactory such as Nexus, JFrog and SonarQube.
+●Used Istio service mesh to implement dynamic discovery and traffic management including the traffic shadowing and traffic splitting and service-to-service communication.
+●Leveraged CI/CD pipelines to automate the deployment and management of the service mesh ensuring consistent updates and reduced manual intervention optimized application performance by configuring load balancing algorithms and policies within service mesh.
+●Conducted fault injection tests using service mesh features to simulate real world scenarios and evaluate system resilience.
+●Implemented Jira that handles DCR (Defect change Request) and MR(Maintenance Request).
+
+Environment: Kubernetes, Jenkins, Azure Cloud, Ansible, Ansible Tower, GIT, Nexus, SonarQube, GITLAB, Perl, Ruby, Jfrog, JIRA, Nagios, Splunk, Docker, GO Lang,Bash Scripting.
+
+Client: Neustar.INC, Reston, VA NOV 2018 – JULY 2021
+Role: AWS DevOps Engineer
+
+●Responsible for Setup and build AWS infrastructure using resources VPC, EC2, S3, RDS, DynamoDB, LAM, EBS, Route53, SNS, SES, SQS, CloudWatch, CloudTrail, Security Group, Autoscaling and RDS using CloudFormation templates.
+●Deployed and monitored scalable infrastructure on Amazon web services (AWS) and configuration management instances and Managed servers on the Amazon Web Services using chef automation services.
+● Implemented Cloud formation to automate AWS environment creation along with the ability to deploy AWS using bill scripts (boto3 and AWS CLI) and automate solutions using python and shell scripting.
+●Designed AWS Cloud Formation templates to create custom sized VPC, to set up IAM policies for users, subnets, NAT to ensure successful deployment of Web Applications, database templates and Security groups.
+●Worked with the Docker compose, Kubernetes for Orchestrating and with container-based deployments using the Docker, working with the Docker Images, Docker hub.
+●Proficient in utilizing Docker to virtualize servers, operate Docker Swarm, use Docker Engine and Docker Machine to develop micro services-oriented environments, and automate configuration using Docker containers.
+●Configured chef workstation, chef Nodes and Chef Repos and developed the chef recipes to maintain, configure and deploy software components of the existing infrastructure and created chef cookbooks using multiple recipes to automate the operations.
+●Deployed the WAR, JAR and J2EE files to the tomcat server using the Jenkins and involved in setting up the Jenkins jobs/pipeline that contained the bash scripting utilizing the AWS CLI to automate the infrastructure provisioning.
+●Worked with the MongoDB database concepts such as locking, transactions, indexes, Sharing, replication, schema design.
+●Built Microservices using Golang, JSON, Docker, and MongoDB.
+●Written Python, Golang, Shell Script for Data Analysis and Algorithm Development and Model Optimization.
+●Implemented scripts for MongoDB import, export, dump and restore. Experience in managing MongoDB environments from availability, performance, and scalability perspectives.
+●Installed, configured, and administered Splunk Enterprise Server and Splunk Forwarder on Red Hat Linux and Windows servers. Creating, maintaining, supporting, repairing, customizing System & Splunk applications, search queries and dashboards.
+●Implemented the Jenkins CI/CD Pipeline job using the Groovy Script and injected groovy scripts in Jenkins for dashboard and customized emails.
+Environments: VPC, S3, EC2, RDS, Auto Scaling, Cloud Formation, Jenkins, Docker, Docker Swarm, Linux, Mongo DB, J2EE, Tomcat, Nexus, Ngnix, Splunk, Groovy Script, AWS cloud, Chef.
+Client: I-Exceed Technologies Private limited, Bangalore JUNE 2016 – NOV 2018
+Role: Java/DevOps Engineer
+
+●Proficient in Core Java, Enterprise technologies such as ELB, Spring Framework, JMS, JTA, Hibernate, Java Web Service, SOAP, REST Services, Java Thread, Java Socket Servlet, JSP, JDBC.
+●implemented JMS (java Messaging service) for asynchronous communication between different modules.
+●Involved in developing code for obtaining the Bean references in spring framework using dependency injection or inversion of control using the annotation.
+●Proficiency in Integrated Development Environments like Eclipse, Developer, & NetBeans with good insight of the following protocols like HTTPS, TCP/IP, FTP, & SOAP.
+●Used Maven building tool and for creating EAR file to be deployed in application servers
+●Setting up and building the Java Project for Jenkins and Maven and Involved in CICD process using GIT, Nexus, Jenkins job creation, Maven build Create docker image and deployment in AWS environment.
+●Involved in configuring the Puppet tool that included the installation puppet master, agent nodes and admin control workstation and configuring the multiple platforms using puppet.
+●Built, configured, and troubleshoot MSSQL servers containing Center and VMware Update Manager Databases.
+●Deployed, configured and Managed the VMware vSphere 5.1 environment, as well as Red Hat(5.x and 6.x) and Oracle Enterprise Linux(OEL) and installed the packages and binaries.
+● Experience in deployment of applications on Boss Application Server 7.0, IBM WebSphere Application Server 8.5, Oracle WebLogic Application Server 12.1.3 and Apache Tomcat Web Server 8.0.2.
+●Created various MongoDB collections and wrote services to store and retrieve the user data from application and devices and used Mongoose API in order to access the MongoDB from NodeJS.
+Environment: VM Ware, HTML5, CSS3, Jenkins, Maven, Spring Framework, SOAP, Red Hat, OEL, IBM WebSphere, Tomcat, Node JS, Nexus, Nginx, Mongo DB, GIT, Puppet, MYSQL.
+
+Client: Next set Software, Hyderabad APRIL 2015 – JUNE 2016
+Role: J2EE Developer
+
+●Proficient in full-stack J2EE development using the Spring Framework and Hibernate and Followed Agile (Scrum) methodologies for SDLC of the project.
+●Implemented different design patterns, including the singleton, factory, MVC, business delegate, session facade, and DAO design patterns, have been implemented.
+● Implemented JPA (JAVA PERSISTENCE API) for Object Mapping for the backend data persistency
+●Functioned with the project manager and the product development teams to build and implement projects using the tracking technology JIRA for Agile Scrum performance estimation and capacity planning.
+● Developed front-end web pages using JSP2.0, JSON, Angular 4, Bootstrap, CSS, JavaScript, and Spring TLD.
+● Developed Angular components, modules, pipes, services using Typescript and Angular material components like models, dialogs, data table to develop UI.
+●We used Spring Boot to implement our application and used Spring Security to handle authentication, authorization, and access control functionality.
+●Configured Oracle WebLogic Server forms part of Oracle Fusion Middleware portfolio which supports Oracle, and other JDBC-compliant databases.
+●Focused on Test Driven Development thereby creating detailed JUnit tests for every single piece of functionality before writing the functionality.
+Environment: Jira, HTML5, CSS3, jQuery, Angular JS, Bootstrap, XML.J2EE, SDLC, Junit, JSON, Rest web Services, Oracle WebLogic server, Junit, Angular JS, Typescript, Spring TLD.
+CERTIFICATION:
+Microsoft certified: Designing and Implementing Microsoft DevOps Solutions (AZ -400) JAN 2023
+EDUCATION:
+Master’s in Computer Science from University of Central Missouri.
+Bachelor’s in Computer Science and Engineering from JNTU, Hyderabad.
+Contact this candidate

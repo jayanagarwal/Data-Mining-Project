@@ -1,0 +1,26 @@
+TRAN KIM BANG - DevOps Engineer Fresher
++**: 037-***-**** ad8amm@r.postjobfree.com tranbang maverick8899 OBJECTIVE
+I am passionate about setting up and managing IT systems, aspiring to become an expert in operating and optimizing large-scale systems within a DevOps environment. I am committed to continuously learning and applying the latest techniques to ensure systems operate efficiently, securely, and reliably. EDUCATION
+THE OPEN UNIVERSITY HO CHI MINH CITY Oct 2021 – Present Major: Information Technology
+RELEVANT EXPERIENCE
+Solid understanding of networking concepts, network protocols, the OSI model, and web system operations.
+Familiar with deployment strategies including Canary deployments, Blue/Green deployments, Traffic Mirroring, and A/B testing.
+Proficient in Kubernetes deployment and familiar with service meshes, RBAC, and related technologies. PROJECTS
+Kubernetes To-Do List App with Observability Dec 2023 – Feb 2024 Description: A to-do list application developed for storing tasks. The project involves containerizing the application with Docker and leveraging Helm to deploy it to a Kubernetes cluster. Comprehensive logging, monitoring, and alerting systems have been implemented to ensure effective management and observability. Technologies:
+o Web: Nodejs, Reactjs, MongoDB.
+o Deployment: Docker, Kubernetes, ELK, prometheus, grafana. Source: github.com/techmaverick89/Kubernetes-Observability Demo: youtube.com/playlist?list=PL-5TwCMojc32_Coh-atCZYwYpA5lbHKIB
+Automated Web Application Deployment on Docker Swarm Apr – Jul 2024 Description: An Apartment Management project that focuses on deploying a web application using Docker Swarm. The project features comprehensive logging, monitoring, and alerting systems. The entire infrastructure is automated with Vagrant, Ansible, and Terraform, along with Jenkins handles setup and configuration jobs, and GitLab manages the CI/CD pipeline.
+Technologies:
+o Web: Spring MVC, Reactjs, MySQL, Traefik.
+o Deployment: Docker, ELK, Prometheus, Grafana, Vagrant, Ansible, Terraform, GitlabCICD, Jenkins. Source: github.com/maverick8899/ApexApartments
+Demo: youtube.com/playlist?list=PL-5TwCMojc33diITKt5oJtTSzHmv0cvpG
+CI/CD Optimized Chat App on Kubernetes Feb 2024 – Present Description: A chat application developed for online communication. It is containerized using Docker and leverages Helm and Kustomize for configuration management to deploy optimally to a Kubernetes cluster. The architecture utilizes PM2, Redis Cluster, and MongoDB-Shard to ensure high availability and scalability. The source code is managed through GitLab and integrated with Jenkins and ArgoCD to establish a CI/CD pipeline that optimizes the development process. Technologies:
+o Web: Nodejs, Reactjs, Redis, MongoDB, Traefik, SocketIO. o Deployment: Docker, Kubernetes, Ansible, Terraform, GitLab, Jenkins, ArgoCD. Source: github.com/maverick8899/ChatAPP
+TECHNICAL SKILLS
+CI/CD & IAC: Jenkins, GitlabCI/CD, ArgoCD, Argo rollout, Ansible. Containerization-Orchestrator: Docker, Kubernetes. Monitoring-Logging: Prometheus, Grafana, ELK.
+Version Control: GitHub, GitLab.
+Cloud Platforms: AWS.
+Programming Languages: JavaScript, Python, Java.
+Framework: ReactJS, Node.js, SpringMVC.
+Database: MySQL, MongoDB, SQL Server, Redis.
+Contact this candidate

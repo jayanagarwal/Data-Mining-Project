@@ -1,0 +1,177 @@
+Having **+ years of experience into Performance Engineering, Resiliency Engineering, DevOps Engineer, and Site Reliability Engineering in optimizing and maintaining high-availability systems. Expertise in Performance Tools such as OpenText LoadRunner, Apache JMeter, Tricentis Neo-load Expertise in APM tools such as AppDynamics, Wily, Dynatrace, New Relic, Data Dog and Splunk etc., and comprehensive knowledge of Finance, Insurance, Retail, Healthcare, and Telecom domains. Skilled in designing test cases, Load Test plans, and strategies. Demonstrated ability to lead and collaborate effectively, possessing strong communication and interpersonal skills.
+
+SUMMARY
+
+Exhibiting extensive expertise in Performance Testing and Engineering, covering Monolithic, SOA, and Distributed applications, actively involved throughout all stages of the software development lifecycle
+Address the alarms/services while oncall, identify the problem, mitigate, and root cause the issue by reviewing at the logs in the Splunk.
+Designed and implemented system architectures to meet reliability, scalability, and performance requirements while adhering to best practices and industry standards, ensuring the high availability of critical applications and services.
+Collaborated with incident response teams to develop incident management processes and playbooks for rapid resolution of system outages and issues.
+Maintained a deep understanding of enterprise Service Level Objectives (SLOs) and ensured systems aligned with them.
+Hands-on experience in writing shell scripts (Bash), Groovy, YAML, and Python for automating the tasks.
+Develop strategies and practices to ensure the reliability and availability of systems, and monitoring.
+Analyze the performance objectives and review the performance inputs given by the client.
+Execute different types of performance tests like Load test, Stress test, failover test, spike test and Endurance test.
+Having good experience in reading AWR reports and SQL profilers.
+Helped to improve application performance for multiple products through key recommendations and hotspot elimination via rigorous iterative performance testing and tuning exercises in collaboration with development and design teams.
+Had prior experience into Java development and good at core java
+Proficient in interacting with various databases including Oracle, SQL Server, OnBase, Progress, DB2, Sybase DB, & Mongo DB. Skilled in writing SQL queries within scripts for querying databases and query tuning.
+Possess good knowledge of JVM tuning/GC Heap and Thread dump analysis.
+Hands on Experience in implementing ALM tools like Dynatrace, AppDynamics and Wily Introscope., etc.
+Capable of working across multi-platform environments such as Windows and UNIX, with a clear understanding of file systems, environment variables, and file transfer protocols (FTP).
+Provided support in both Prod and Non-Prod environments, aiding App-Dev, QA, and DBA teams to resolve issues with minimal business impact.
+Demonstrated excellent interpersonal abilities, problem-solving skills, analytical skills, and leadership qualities.
+Collaborated closely with Off-Shore and On-Shore Teams to achieve project objectives and meet deadlines effectively.
+
+TECHNICAL SKILLS
+
+Operating Systems
+AIX, HP-UX, Solaris, Windows XP, 2003, 2000, Vista, NT Linux, Red hat Linux, Unix.
+Languages
+C, JAVA/J2EE, .NET, VB Scripts, XML, UNIX - Shell Scripting, Python Scripting.
+Databases
+Oracle, Progress, Casandra, DB2, SQL Server, MS Access, MySQL, OnBase, Mongo DB.
+GUI
+VB 6.0/5.0, JSP, Java Applets, ASP, HTML
+Web Related
+DHTML, XML, VBScript, JavaScript, Applets, Perl, JAVA, JDBC, Servlets, Json, Rest Client.
+Web/App Servers
+Apache 2.x, Tomcat 5.x, Web logic 8.x,9.x, Web Sphere 7.x/8.x, IIS5.x, 6.x
+Testing Tools
+Quality Center, qTest, Jira, Rally, Performance Center, Load runner, Apace JMeter, Neo-load.
+Monitoring Tools
+CA Wily Introscope, AppDynamics, Dynatrace, IBM Tivoli, HP SiteScope, Splunk, HP Diagnostics, Nmon, Perfmon,
+J-Visual, New-Relic. Grafana, Datadog
+
+PROFESSIONAL EXPERIENCE
+
+Systems Performance Engineer Lead., Anthem Inc/Elevance Health, Atlanta, GA Oct 2017 – Till Date
+Contributed to PI planning by crafting Performance Test Plans tailored to Business Requirements, incorporating inputs from various teams (Business/Dev/QA) for both new applications and existing ones, utilizing Production Stats. Enhanced the existing Regression suite by introducing new Business scenarios and conducted thorough regression testing for every enterprise release.
+Hands on experience on Medicare/Medicaid Line of business on HealthCare Industry.
+Developed Load Runner Vugen Scripts utilizing Web (HTTP/HTML) and Web Services Protocols, enriching Load Runner Scripts with custom codes to optimize performance.
+Proficient in scripting, scenario creation, and execution across all available versions of Load Runner, Performance Center, Apace JMeter/Blazemeter, and Neoload from Tricentis.
+Extensive experience with Tricentis NeoLoad modules Design, Runtime and Analysis. Neo-Load Project development, Virtual User profile design, Scenario creation, Population creation, Load Profile design.
+Gather test results in real time as well as collate average/90 th percentile response times, throughput, hits per second, errors data after test execution in Analyze module of NeoLoad.
+Oversee migration between QA infrastructures from Microfocus Performance Center to Tricentis Neo-Load.
+Perform integration of NeoLoad tool with existing projects and aide in transition from Performance Center. Neo Load scripting, design, and execution of load test. Involved in NeoLoad performance testing tool installation, license management and hardware configuration.
+Successfully integrated Grafana, Prometheus DB, WMI, and Apace JMeter to monitor tests executed through Apace JMeter, collecting crucial metrics such as Average Response Time, Request count, Throughput, and CPU/Memory Utilization for the Apace JMeter Server Machine.
+Led migration efforts from Pega to Open-Source Java Angular JS/Mongo DB, overseeing deployments, environment maintenance, and application issue analysis, culminating in comprehensive End-to-End Performance tests.
+Spearheaded the setup of Splunk Dashboards, continuously enhancing content across different environments to manage system/Application/OS level logs effectively, identifying Errors, Exceptions, HTTP Failures, Requests per min, and more. Augmented Splunk search criteria with tags for multiple supported apps.
+Extensive expertise with Log Monitoring tools like Splunk & Datadog and manual log analysis with YAML log file
+Configured J-Visual/Oracle In-flight recorder Parameters in Prod/Perf environments to pinpoint performance bottlenecks in the application, aiding the Dev team in code refactoring to reduce Response Times for key transactions under SLA.
+Orchestrated Database Server Configuration and Performance Tuning, conducting SQL profiling, Trace Analysis, Query Plan Analysis, Contention/Locking Analysis, Buffer sizing, I/O analysis and distribution, Bottleneck analysis, and Database tuning.
+Executed multiple Pre-Post Performance Tests for OS Level Upgrades/Framework upgrades/Mongo DB Version Upgrades/Application Config changes/Indexes Applied/JVM Heap Tunings/AWS Migrations, generating comparison reports and guiding management decisions based on performance test outcomes.
+Utilized monitoring tools like Willy Introscope, IBM Tivoli, Dynatrace, New-Relic, Datadog, Perfmon & Nmon to monitor Application server, collecting diverse application metrics such as Average response times, CPU Utilization, Memory Usages, Stall Counts, Concurrent Invocations & Heap Size.
+Managed all changes (config, Heap, Memory, Indexes Applied & Application related) during the testing phase, promoting these changes to the Production environment.
+Provided essential Production Support and assistance to App-Dev/QA/Systems Team, resolving issues with minimal Business Impact.
+Hands-on experience in analyzing and understanding Production Issues, replicating them in Non-Prod/Pre-Prod Environments, identifying root causes, deploying code changes, and re-testing to ensure no further issues arise in Production.
+Developed enhancements for Bamboo Build plans to restore non-Prod environments with Production Data for both Oracle and Mongo DB, aligning with requirement changes to conduct Production defect validations and execute performance testing on Production data.
+Proficient in creating pods and clusters in Kubernetes, deploying them using OpenShift, and monitoring Kubernetes cluster (Pod/Node/Name space) Level resource utilization via Grafana Monitoring tools.
+Collaborated with App-Dev and Dev-Ops teams, offering required assistance in onboarding Legacy apps to AWS and integrating CI/CD pipeline with Azure pipelines executions using ADO, while monitoring app insights and datadog for performance engineering.
+Extensive expertise with Kubernetes monitoring using Rancher, ELK, Grafana & Prometheus
+Utilized AWS EC2 to deploy and manage load generator servers across diverse geographical regions, ensuring comprehensive performance testing coverage. Leveraged AWS S3 for efficient content management, optimizing data access and storage during performance tests.
+Utilized AWS CloudWatch to monitor API performance metrics, enabling proactive identification and resolution of bottlenecks, ensuring robust API availability and responsiveness.
+Managed development, testing, staging, and production environments in Azure, ensuring consistency and alignment with defined configurations using Azure DevTest Labs or Azure Automation, collaborating with security teams to address vulnerabilities and enforce security measures within the Azure environment.
+Pioneered innovative approaches such as enabling auto start of application servers post-patching activity and modifying Build plans to reduce deployment time in Production and Pre-Production environments.
+Enhanced Dev-Ops Tools developed build plans using bamboo for newly onboarded applications and supported day-to-day activities for Systems Team to ensure high system availability.
+Assisted peers in performing day-to-day Regression Testing Activities for Lower Environments to ensure expected Code Quality in Functional aspects.
+Contributed insights in weekly meetings with Management Teams, participating in decision-making processes for final application launch.
+
+Environment: HP Load runner, Performance Center, HP Vugen, HP ALM, Apace JMeter, Blazemeter, Neoload, Jira, Bamboo, Bitbucket, HP BSM, CA Willy Introscope, Dynatrace, IBM Tivoli, Splunk, J-Visual, Oracle In-flight recorder, Datadog, Perfmon, Nmon, New-Relic, Grafana, Oracle DB, Mongo DB, AIX, Tomcat, Red hat Linux, Windows 2000/XP, Java, J2EE, Angular JS, Open Shift, Rest client, Json, Shell & Python Scripting, Kubernetes. Azure
+
+Sr. Performance Analyst, Verizon Wireless, Warren, NJ Jun 2015 – Sep 2017
+Drafted Performance Test Plans in alignment with Business Requirements, incorporating inputs from diverse teams (Business/Dev/QA) and leveraging insights from Production Stats for Existing applications.
+Conducted comprehensive Backend Testing, meticulously crafting test scenarios to ensure thorough coverage.
+Developed test scenarios for load, stress, endurance, and regression tests, ensuring robust testing coverage.
+Created LoadRunner Vugen Scripts using Web (HTTP/HTML) and Web Services Protocols, optimizing performance testing efforts.
+Crafted Apace JMeter test scripts for all java-based web services, utilizing them for smoke testing and as a Health Check Tool.
+Enhanced existing Regression suite by incorporating new Business scenarios and conducted regression testing for every enterprise release.
+Identified and resolved Performance bottlenecks, offering recommendations for optimization. Executed multiple tests post-deploying code fixes to ensure adherence to SLA-defined response times before promoting code to Production.
+Led the Oracle upgrade project, conducting meticulous performance comparisons to validate the efficacy of the new DB.
+Conducted Pre and Post Tests for Different Patch/OS Level/Application-Level Upgrades.
+Executed End-to-End Pre and Post Performance Tests for AWS Migration initiatives.
+Demonstrated proficiency in JUnit testing methodologies.
+Performed Performance tests in Production Environment for All read APIs to pinpoint Middleware level issues and address Production Bottlenecks.
+Leveraged Wily to monitor Application server metrics such as Average response times, CPU Utilization, Stall Counts, Concurrent Invocations & Heap Size.
+Proficient in utilizing APM tool Dynatrace, AppDynamics to monitor business transactions across all tiers (web/app/DB) of applications.
+Analyzed application Garbage Collection logs from the server using IBM Heap Analyzer tool.
+Actively participated in weekly meetings with the management team and conducted walkthroughs to ensure alignment and transparency.
+
+Environment: Load runner 12.50/12.00, Performance Center 12.50/12.00, ALM 12.20/12.00, Willy Introscope 10.5, AppDynamics 4.2, IBM MQ Explorer, Oracle DB 11g/12c, Web Sphere, AIX, Tomcat, Cassandra DB, AWS, Apace JMeter 2.13, Java, JIRA, Data Stax 1.5, Json, Rest client.
+
+Sr. Performance Engineer, JPMorgan Chase, Tampa, FL Mar 2013 – May 2015
+Led the gathering of business requirements from App-Dev and Business Teams, ensuring alignment with project objectives.
+Formulated comprehensive Test Plans and Test Cases based on specified business requirements, ensuring thorough coverage of testing scenarios.
+Developed Vugen scripts using various protocols including Web (HTTP/HTML), Web Services, RTE, ODBC, and Silver Light Protocols.
+Customized Load Runner scripts using C language, incorporating string manipulation techniques, and leveraging C libraries for enhanced functionality.
+Conducted analysis of requirements for each release and updated existing End-to-End workflows, accordingly, ensuring alignment with project milestones.
+Played a pivotal role in load, stress, sizing, scalability, and capacity planning for various client products, utilizing Controller and Performance Center.
+Identified critical bottlenecks in applications, provided recommendations, and collaborated with the app Dev team to resolve them, ensuring optimal performance.
+Analyzed results after each test run, preparing comparison reports for response times to ensure compliance with required SLAs.
+Employed Dynatrace, Wily Introscope, and IBM Tivoli tools to monitor Application server metrics, collecting data on Average response times, CPU Utilization, and more.
+Utilized perfmon & Nmon tools to monitor various OS level metrics such as CPU Utilization, Memory leaks, and Load Average.
+Maintained meticulous records of all changes made during the testing phase, ensuring seamless promotion to the Production environment.
+
+Environment: Wily Introscope 8.1, Dynatrace, IBM Tivoli, HP Controller, HP Load Generators, Performance Center, LR 12.0, JIRA, Oracle, MS SQL Server, Progress DB, OnBase DB, Web sphere, Web logic 10.3, Tomcat 7.0, JAVA, Red-hat Linux 5.8, Windows 2000/XP.
+
+Apps Systems Engineer, Wells Fargo, Phoenix, AZ May 2012 – Feb 2013
+Spearheaded the development and implementation of Performance test strategies aimed at replicating Production Environments.
+Leveraged Wily Introscope to monitor Tomcat and WebLogic application servers, in addition to backend databases, ensuring optimal performance.
+Managed and worked closely with application teams deploying new applications in the WebLogic hosting environment(s), facilitating changes with administrators and product vendors as needed to resolve technical configuration or application issues.
+Collaborated with customers (application teams and/or testing teams) on a daily basis, providing Middleware and Java support, and serving as a J2EE architect to recommend best practices in application development.
+Developed Apache JMeter as a smoke Testing tool for Java based web-services prior to execution of Performance Testing.
+Conducted testing on applications built using client/server architecture, Java-based web services, J2EE, XML, and web protocols.
+Analyzed test results to ensure adherence to required SLAs, meticulously scrutinizing all response times.
+Identified and addressed performance bottlenecks, providing recommendations for improvement.
+Developed Vugen scripts using Web Services and Web (HTTP/HTML) protocols, ensuring comprehensive testing coverage.
+Made significant contributions to level 2 production support by promptly troubleshooting issues identified in the Production Environment and delivering timely resolutions. Offered on-call support and maintained flexible working hours to guarantee uninterrupted service availability.
+Regularly monitored different profiles in BAC, proactively addressing alerts from production support emails, and collaborating with various teams to resolve production issues.
+Utilized Cacti and Infrared 360 tools to monitor Data Power instances and MQ series, respectively, ensuring optimal system performance.
+
+Environment: CA Wily Introscope 8.1, Performance Center, Web sphere App Server, HP OVPM 9.01.100, Apace JMeter, Cacti, Infrared 360, JIRA, BAC 8.07(General Nelson), Oracle, MS SQL Server, Web logic 10.3, Tomcat 7.0, JAVA, Pac 2000, Red-hat Linux 5.8, Windows 2000/XP.
+
+Performance Engineer, Ascension Health, St. Louis, MI Dec 2011 – April 2012
+Engaged in the comprehensive process of gathering business requirements, meticulously studying the application, and gathering information from both developers and business stakeholders.
+Prepared detailed Test Plans and Test Cases aligned with functional specifications, ensuring thorough coverage of testing scenarios.
+Developed Vugen scripts utilizing Web (HTTP/HTML) protocols, with a keen focus on identifying, analyzing, documenting, tracking, and resolving quality issues in ALM.
+Conducted test executions and closely monitored system performance using SiteScope and LoadRunner Controller.
+Worked extensively on various modules within PeopleSoft, including HR, FIN, and SCM.
+Held accountable for the development and execution of performance, stress, and volume tests, ensuring the robustness of the system under different loads.
+Analyzed, interpreted, and meticulously documented comprehensive Performance Test Reports, providing valuable insights into system performance.
+Employed optimization techniques to identify and enhance queries that were causing performance bottlenecks, thereby improving overall system performance.
+
+Environment: Load runner 11.00, Performance Center 11.00, ALM 11.00, SiteScope, PeopleSoft Tools 8.5, HRMS 9.10, Windows 2000/XP.
+
+Performance Engineer, AIG, Fort Worth, TX Aug 2011- Nov 2011
+Formulated performance goals and objectives in alignment with client requirements and input.
+Spearheaded the establishment of a robust Performance Test Environment.
+Demonstrated proficiency in utilizing Web, SAP Web, SAP GUI, and Web Services protocols, with a meticulous approach to identifying, analyzing, documenting, tracking, and resolving quality issues in Quality Center.
+Successfully managed the Oracle upgrade from 9i to 10g, conducting thorough comparisons to validate the performance of the new database.
+Executed tests and diligently monitored system performance using SiteScope and LoadRunner Controller.
+Held accountable for the development and execution of performance and volume tests, ensuring system reliability under varying loads.
+Crafted test scenarios designed to thoroughly stress the system in a controlled lab environment, adeptly monitoring and troubleshooting performance and stability issues.
+Collaborated with DBAs to optimize UNIX servers for efficient data querying in SQL and script execution.
+Engaged in the analysis, interpretation, and synthesis of meaningful and pertinent results, culminating in comprehensive Performance Test Reports.
+Collaborated closely with software developers, actively contributing to the assurance of software components meeting stringent quality standards.
+
+Environment: Load runner 9.5, Performance Center, Apace JMeter, Sitescope, Oracle, Citrix, MS SQL server, Web logic, JAVA, Quality Center 10, J2EE Diagnostic Tool, web, Windows 2000/XP.
+
+Performance Engineer, Lowes Home Improvement, Mooresville, NC Jan 2011 – July 2011
+Participated in requirements gathering for performance testing, focusing on the Front-End iPhone Application.
+Analyzed the applications and devised testing strategies accordingly.
+Obtained data from Production Support regarding application usage and load rates, identifying critical transactions under load.
+Developed OpenText LoadRunner scripts utilizing web, SAP web, and web services protocols.
+Formulated the Performance Testing Plan/Strategy based on business specifications and user requirements.
+Enhanced Vugen scripts by incorporating proper content checks and custom code.
+Executed all tests through Performance Center, configuring scenarios for load, stress, and baseline tests.
+Validated testing infrastructure, ensuring connectivity and scripting/protocol compatibility with SAPGUI, SAP Web, and hardware capacity for virtual users.
+Leveraged Python scripts to update database content and manipulate files, providing insights to the development team to fortify defenses against failures.
+Participated in walkthroughs and meetings with the Test Team to address related issues.
+Parameterized unique IDs and stored dynamic content in variables for submitting data under HTTP protocols.
+Monitored Oracle DB performance, scrutinizing indexes, sessions, connections, poorly written SQL queries, and deadlocks for each component of the WSJ application.
+
+Environment: Load Runner, Performance Center, Wily Introscope, Quality Center, .net, Java, J2EE, SAP, Windows, HTML, XML, iPhone App, Python, Oracle app, WSJ.
+
+EDUCATION
+
+Masters in mechanical engineering, University of Bridgeport – CT Aug 2008 – July 2010
+Contact this candidate

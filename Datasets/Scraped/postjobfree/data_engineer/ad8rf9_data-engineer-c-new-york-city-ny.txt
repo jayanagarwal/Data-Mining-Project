@@ -1,0 +1,28 @@
+JAYANTH RAJARAM SASTRY
++1-347-***-**** New York, NY
+ad8rf9@r.postjobfree.com linkedin github
+EDUCATION
+Master of Science in Computer Engineering, New York University Aug2022 - May2024 GPA:3.767 BTECH in Computer Science and Engineering, SASTRA University Jun2016 - Jun2020 CGPA:7.67 SKILLS
+Languages C,C++,python,verilog,vhdl,system verilog,ARM assembly,RISCV assembly,TCL,unix Methodologies OOPS,agile,scrum
+Databases MongoDB,MySql,NEO4J graph db, netezza,oracle, greenplum,MSSQL,bigquery,PostgreSQL Tools JIRA,Microsoft Excel Macros,Matlab,GIT,GCP
+EXPERIENCE
+Course Assistant Digital Logic and State Machine Design NYU Brooklyn,NY Sep 2023 - May 2024
+• Led lab sessions and delivered demonstrations focusing on RTL coding of combinational and sequential circuits FPGA Verification Engineer Alpha Numero Technologies Endicott,NY Jun 2023 - Sep 2023
+• Understood the timing requirements related to different pins and output pins of the 6 FPGAS used in Boeing 777’s integrated flight control electronics and accordingly prepared the verification cases and test procedures which contain the necessary steps to be taken and stimulus to be applied for fpga verification. Data Engineer Tata Consultancy Services Chennai, India Sep 2020 - Jul 2022 Relevant Experience
+– Migration of client data from different databases like netezza,oracle and hive to cloud through ETL
+– Compliance to European Electronics compliance code through Data transformation using ETL from different client databases (netezza, oracle and MS SQL) for a team that was working on reports & data visualizations
+– Secure client data used in fraud detection using Cryptographic algorithms & encrypted transfer
+– Integrated newly acquired customer data to the main customer database using ETL Highlights
+– Wrote and deployed Oracle stored procedures as part of the data pipeline
+– Automated testing and deployment with SQL Queries and UNIX shell scripts.
+– Used jenkins CI/CD pipeline to automate the deployment of different DDL and stored procedures to higher environments.
+– Scheduled and monitored the Ab Initio and Informatica ETL jobs using control M.
+– Optimized the Ab Initio ETL pipeline by an order of a million seconds by preparing SQL queries as part of the wrapper component inside the pipeline.
+– Enabled security by leveraging cryptographic algorithms and encryption libraries in sql and linux command line encryptions for ETL
+– Troubleshooting live deployments
+Analytics and Insights Intern Tata Consultancy Services Mumbai, India Jan 2020 - May 2022
+• Used Operations research techniques to build own warehouse simulator in python PROJECTS
+GPU Performance Optimization of GANS Took 2 different image restoration models a Progressive Generative Network followed by a LSTM and a Probabilistic Diverse GAN. Used pytorch profilers to identify bottlenecks and used mixed precision training to increase bandwidth by 4x,speedup by 3.67 and reduce energy consumption by 33.95%
+VMIPS Simulator Developed a Python-based functional and timing simulator for the Vector ISA,simulating a VMIPS processor.Employed pipelining banked memory,adjustable pipeline depth,seperate instruction and compute queues,partitoned ALU’s with multiple lanes and a busy board to mange data hazards in the decode stage.Evaluated perfromance using dot product and a fully connected convoultional layer coded in RISCV assembly.Conducted design space exploration by varying parameters such as queue length,pipeline depth and number of memory banks.Optimized the performance of the simulator using chaining
+OpenROAD:Automatic Clock Gating Created a C++ Plugin which does automatic clock gating in the Open- ROAD flow post netlist generation. Also evaluated the effectiveness of this algorithm by designing a tapeout ready chip for the AES algorithm and calculated the power performance and area metrics
+Contact this candidate

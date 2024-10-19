@@ -1,0 +1,52 @@
+James (Longzhuang) Li
+Mobile Phone: 361-***-**** Email: ad5ezm@r.postjobfree.com Nationality: US citizen LinkedIn: https://www.linkedin.com/in/longzhuang-li-77157135/ WORK EXPERIENCE
+[1] 01/2022 – 01/2024: Machine Learning Engineer/Data Scientist, Data Science Team, Iodine Software, Austin, TX
+[2] 09/2002 – 12/2021: Professor in Dept. of Computing Sciences at Texas A&M University-Corpus Christi, Corpus Christi, TX. SPECIALTY AND EXPERTISES
+● Deep Learning, Machine Learning, Large Language Models, NLP, data mining
+● Artificial Intelligence, Image Processing, Information Retrieval on the Internet Major Projects (leader) 01/2022—01/2024 at Iodine Software 1. Develop the large language models (LLM) to classify our medical models and predict the patients’ illness. (LLM) This is an on-going project and is planned as follows: (1) Investigate the existing methods to handle long sequences, such as Longnet and RetNet (retentive network), (2) Integrate the medical domain knowledge in the self-attention, (3) Implement and train a LLM to classify the medical models. Another way to deal with the issue is to fully retrain/fine-tune an existing LLM, such as Mistral 7B, that can handle long sequences. 2. Fine-tune the large language models (LLM) to generate the discharge summary. (GenAI) In the experiments, the training data was collected from the patients with depression illness. The generated discharge summary was divided into four segments, history of present illness, diagnosis, procedure name, and medications. The preliminary results demonstrated the feasibility to produce the discharge summary by fine-tuning the open-source LLMs.
+3. Extract key phrases to boost the performance of medical models to predict the patient illness based on large language models (LLM). (NLP) In the project, the key phrases related to ICD10 definition are extracted from the patient’s medical documents in three steps, (1) vectorize documents to get candidate keywords, (2) use a LLM sentence transformer to embed candidate keywords and ICD10 description, (3) compute the cosine similarity between the two embedding vectors. The newly discovered key phrases are added to CUI (Concept Unique Identifier) library. (The existing prediction models have benefited from the new key phrases in production) 4. Designed and configured four medical prediction models, hypercalcemia, hypocalcemia, dementia, fluidOverload. (High dimensional tabular data) The project consists of the following iterative processes, (1) select features based on the ICD10 codes given by clinical personnel, (2) pull data from databases to test the model’s performance based on F1 score from the machine learning algorithm, (3) change selected features according to prediction errors, (4) if F1 score is greater than certain thresholds, deploy the model for client beta testing. The four models have been successfully deployed in production.
+5. Proposed and developed an image-based method for the medical prediction models. (CNN and RNN) The new method consists of three steps, first the tabular data is converted to images based on Pearson’s correlation coefficient or Euclidean distance, then an unsupervised deep learning method is employed to extract the features of the minority class, and finally a supervised deep learning method is used to classify the imbalanced images. The new method can significantly boost the F1 values by around 10%.
+6. Investigated three different methods to classify clinical time series. (CNN and RNN) They are the feature-based method using Python library TSFEL and TSFRESH, the data mining method Rocket, the deep learning method BRITS (Bidirectional Recurrent Imputation for Time Series). The BRITS method produces the best F1 scores and outperforms our existing best results by an average of about 6%. The hyperparameters of the BRITS are optimized by Optuna. Other Projects (contributor) 01/2022—01/2024 at Iodine Software 1. Patient discharge summary. (GenAI) In the project, the patient’s in-hospital information, such as doctor’s notes and progress reports, is first converted to vector data based on RAG (retrieval augmented generation), and then submitted to GPT 3.5/GPT4 in a specific template and prompt. 2. Patient document segmentation. (NLP) In the project, we manually labeled about 2,000 documents from patients and trained the data on the gradient boosting machine (GBM) model. Working Experience 09/2002—12/2021 in Academia
+1. Leadership and collaboration
+● The interim department chair of Computer Science for half a year
+● The program coordinator of Computer Science Department for five years
+● Collaboration with faculty members from different departments and colleges
+● Mentor of junior faculty members
+● Chair/member of Ph.D. dissertation, Master thesis/projects 2. Short list of peer reviewed journal & conference publications (Total 108 publications)
+● L. Ale, N. Zhang, X. Fang, X. Chen, S. Wu, and L. Li, “Delay-aware and energy-efficient computation offloading in mobile edge computing using deep reinforcement learning,” accepted by IEEE Transactions on Cognitive Communications and Networking, vol. 7, issue 3, pp 881 – 892, 2021. (impact factor: 4.574)
+● F. Pulukool, L. Li, and C. Liu, “Using deep learning and machine learning methods to diagnose hailstorms from large-scale thermodynamic environments”, Special Issue on Machine Learning and AI Technology for Sustainability, MDPI Sustainability, 2020, 12, 10499. (impact factor: 2.576)
+● W. Zhang, L. Li, N. Zhang, and S. Wang, “Air-ground integrated mobile edge networks: A survey,” IEEE Access, Vol. 8, pp. 125***-******, 2020. (impact factor: 4.098)
+● L. Li, F. Tian, Y. Liu, and S. Mao, “Approximate top-k answering under uncertain schema mappings,” Data and Knowledge Engineering, Elsevier, Vol. 118, pp. 71-91, November 2018.
+(impact factor: 1.583) https://www.sciencedirect.com/science/article/pii/S0169023X17305773
+● W. Zhang, T. Liu, X. Xie, L. Li, D. Kar, and C. Pan, “Energy harvesting aware multi-hop routing policy in distributed IoT system based on multi-agent reinforcement learning”, in The 27th Asia and South Pacific Design Automation Conference(ASP-DAC), January 17-20, 2022 (acceptance rate: 36.5%).
+● S. Pingili and L. Li, “Target-based sentiment analysis using a BERT embedded model,” in IEEE 32th International Conference on Tools with Artificial Intelligence, 11/9-11/11, 2020.
+(Acceptance rate: 25%)
+● L. Ale, L. Li, D. Kar, N. Zhang, and A. Palikhe, “Few-shot learning to classify Android malwares,” in IEEE 5th International Conference on Signal and Image Processing (ICSIP 2020), Nanjing, China, 10/23-10/25, 2020.
+3. Short list of funded research grants
+● Co-PI, REU Site: Applied Computing Research in Unmanned Aerial Systems. National Science Foundation. PI, Dulal Kar, Co-PI, Scott King. (06/01/2022 - 05/31/2025) (Awarded $406K)
+● Co-PI, REU Site: Applied Computing Research in Unmanned Aerial Systems. National Science Foundation. PI, Dulal Kar, Co-PIs, Ajay Katangur, Alaa Sheta. (06/01/2018 - 05/31/2021)
+(Awarded $370K)
+● PI, MRI: Acquisition of a High Performance Computing Cluster to Support Multidisciplinary Big Data Analysis and Modeling, the NSF MRI Program, $400K, January 23, 2014. (Co-PIs: Christopher Bird, Ruizhi Chen, Lihong Su, Feiqing Xie). (9/2014 – 8/2017)
+● PI, High-Order Tensor Decomposition for Large-Scale Data Analysis in the Cloud Computing Environment. The extension grant of the Air force Summer Faculty Fellowship Program, $9,992, 2013. (Awarded for 8/15/2013-10/31/2013)
+● Co-PI, REU Site: Applied Computing Research in Wireless Sensing of Marine Data. National Science Foundation. PI, Dulal Kar, Co-PI, Ahmed Mardy. (09/01/2010 - 08/31/2013) (Awarded
+$330K)
+● PI, “CRI: Planning A Massive and Heterogeneous Data Repository for Computing Research on the Gulf of Mexico”, National Science Foundation (NSF). Co-PIs: Thomas Shirley, Gary Jeffress, John Fernandez, Philippe Tissot. (9/2007-8/2009) (awarded $49,982) EDUCATION
+[1] 01/98 -- 08/02: Ph.D. in Computer Engineering and Computer Science, University of Missouri-Columbia (MU), MO, USA.
+[2] 09/92 -- 03/95: MS in Electrical Engineering, Northwestern Polytechnic University (NPU), China.
+[3] 09/88 -- 07/92: BS in Computer Science and Engineering, Northwestern Polytechnic University (NPU), China.
+PROGRAMMING SKILLS AND TOOLS
+Have passion for clean code and continuous improvement
+● Python (6 years+), C++ (10 years+), Java
+● Tensorflow, PyTorch, Keras, Scikit-learn, Git, Matlab, PostgreSQL KEY STRENGTHS
+● 8+ years’ experience from both industry and academia in developing machine learning, natural language processing, and deep learning models, published many papers in the above areas.
+● Tech leadership experience in both industry and academia.
+● 2 years’ industrial experience on applying AI/ML techniques for healthcare.
+● 2 years’ industrial experience with CI/CD concepts and tools.
+● Ability to collaborate with other people to develop new products and algorithms.
+● Knowledge of GPU computing (CUDA).
+● “End-to-end” experience building ML production systems, including feature engineering.
+● Good knowledge and experience with large language models (LLMs) (SFT, RLHF, etc.), such as LLaMA and OpenAPI GPT, and GenAI.
+● Experience with Docker, Kubernetes, and AWS SageMaker.
+● Experience with LLM frameworks, such as LangChain and LlamaIndex.
+● Knowledge of SQL and vector databases, such as Pgvector and Pinecore.
+Contact this candidate

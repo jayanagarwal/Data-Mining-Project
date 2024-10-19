@@ -1,0 +1,136 @@
+Mahesh Neeladri
+Sr DevOps Engineer
+Phone: 314-***-****
+Email: ad6jfz@r.postjobfree.com
+LinkedIn: www.linkedin.com/in/mahesh-neeladri-752616187
+
+EDUCATION
+Master’s in information technology management - INDIANA WESLEYAN UNIVERSITY
+
+PROFESSIONAL SUMMARY:
+Over eight years of robust professional background in Agile Generated processes encompassing SDLC phases, I have honed my skills in automating, configuring, and deploying instances on AWS. I possess expertise in crafting Terraform scripts to establish AWS Infrastructure tailored for Lambda, S3, Kinesis, DMS, SNS, EC2, and CloudWatch resources. Furthermore, I have designed, constructed, and Led a Streamlined build and release CI/CD pipeline leveraging Git, Jenkins, and Maven. My proficiency extends to applications and tools implemented using Python and scripting in Bash. I am adept at testing infrastructure using Terratest within a Go Environment. Additionally, I have orchestrated CI/CD processes utilizing Git and Jenkins, ensuring seamless Engineered cycles. In addition, I am well-versed in interfacing with Spark using Python and pyspark.
+
+TECHNICAL SKILLS:
+AWS Services
+EC2, VPC, IAM, EBS, S3, ELB, Auto Scaling, Elastic Cache, API Gateway, Route 53, CloudWatch, SQS, SNS, SWF, AWS Database, AWS LEX, Migration Service, AWS Application Migration Service, AWS Glue, AWS Lambda
+Infrastructure as Code (IAC)
+Terraform, AWS CloudFormation
+Source Code Management
+SVN, Git, GitHub, GitLab, Bitbucket, AWS Code Commit.
+Build Tools
+Maven, Ant, Gradle,
+CI/CD
+Jenkins, GitHub Actions, GitOps, Argo CD.
+Artifactory
+Jfrog and Nexus
+Code Scanning
+Sonar Qube, Jfrog X-ray, ECR Inspector
+Container Orchestration
+Docker, Kubernetes, Open-Shift, Helm, EKS, AKS.
+Configuration Management Tools
+Ansible, Chef, Puppet
+Web Servers
+Nginx, Tomcat
+Application Servers
+JBoss, Oracle WebLogic Server, IBM WebSphere Application Server.
+Logging
+Cloud Watch, Cloud Trail.
+Monitoring Tools
+Nagios, Splunk, Grafana, Prometheus, ELK, New Relic, Datadog, Dynatrace
+Databases
+SQL, MySQL, PostgreSQL, Grafana. Amazon RDS, Amazon DynamoDB, Hive, Amazon Aurora, Amazon Redshift, Cassandra, Grafana Loki
+Scripting Languages
+Python, Shell scripting, Groovy, oracle, Bash, YAML
+Operating Systems
+Windows, Linux, UNIX.
+Tracking Tools
+Jira, ServiceNow & Remedy.
+Programming Languages
+Python, java
+Kubernetes Tools & Components
+ArgoCD, ArgoWorkflows, Helm Charts, CoreDNS
+Content Delivery Networks (CDN) & DNS
+Akamai CDN, Route53
+
+CERTIFICATIONS:
+AWS Certified Developer – Associate
+AWS Certified DevOps Engineer - Professional
+
+PROJECT SUMMARY:
+Role: AWS DevOps Cloud Engineer July 2022 – Current
+Client: Incedo INC (Verizon SOW), Dallas Texas
+Environment: Terraform, Spinnaker, CI/CD, Git, Jenkins, Python, Ruby, Shell scripts, SDLC, Agile, Virtual Machines, PaaS, PowerShell, Auto Scaling, Active Directory, Saas, Backup, Grafana, IaaS, Grafana Loki, Ansible, Kubernetes, GitLab, GitHub, Linux, Kubernetes, Docker, Ansible, Python, Jenkins, Prometheus, S3, Glue
+Responsibilities:
+Fostered Jenkins jobs and pipelines to enhance the CI/CD setup through automation.
+Actively maintained, enhanced, and monitored AWS cloud infrastructure for S3, Lambda, Kinesis, and SNS services.
+Architected robust data pipelines leveraging AWS services such as S3, Glue, and EMR2
+Engineered and maintained Python and SQL scripts for data processing and transformation
+Operate Grafana modules with other observability strategies to identify and improve the reliability of different SaaS product sites.
+To enhance the storage and retrieval of data, AWS database services like DynamoDB and RDS are used.
+Handled Glue3 version control system for multiple projects, ensuring accurate tracking of changes and smooth collaboration among Launched teams.
+Demonstrated proficiency in AWS native services like CloudWatch, S3, Lambda, Kinesis, DMS, RDS, EC2, SNS, IAM, Route53, and DynamoDB.
+working familiarity with containerization (Docker), cloud-native technologies, and container orchestration (ECS or EKS)
+In real Grafana Loki and its components using various methods like Docker, Helm, or direct binaries.
+Configure Loki with appropriate storage backends (e.g., local filesystem, cloud storage).
+Employ LogQL, Loki's query language, to perform complex searches and analyze log data.
+Formulated scripts and automation tools for deploying and administering Loki instances.
+Automate the setup of alerts and dashboards in Grafana based on specific log patterns.
+Administrated GitHub repositories and permissions, including branching and tagging.
+Automated build and deployment procedures leveraging Jenkins and Maven.
+Consolidated Git repositories into a single pipeline, eliminating the dependency on Jenkins files to support internal tools.
+Crafted shell scripts to authenticate S3 buckets across different AWS regions and accounts using AWS CLI commands.
+Apply DynamoDB tables to extract data for enrichment purposes.
+Utilized Amazon Polly to provide realistic text-to-speech capabilities within chatbots
+Designed, developed, and deployed conversational interfaces using AWS Lex for various applications
+Proficient in API calls and testing using tools like Postman.
+Mobilized Contrived Jenkins pipelines for automating AWS resource management.
+
+Role: Site Reliability Engineer February 2019 – October 2021
+CYIENT, India
+Environment: Terraform, Spinnaker, CI/CD, Docker, Git, Jenkins, Python, Ruby, Shell scripts, SDLC, Agile, Virtual Machines, PaaS, PowerShell, Auto Scaling, IaC, AWS, Grafana, SQL, Maven, SonarQube, Kubernetes
+Responsibilities:
+Employed Terraform for Infrastructure as Code (IaC) to automate routine tasks like infrastructure provisioning, scaling, and configuration, facilitating auto-provisioning, code deployments, and software installations.
+Defined AWS Security Groups as virtual firewalls to effectively manage traffic access to multiple instances.
+Deploying applications, governing storage, Scaling infrastructure, Disaster recovery, configuring networks, and creating and provisioning servers
+Configured Grafana dashboards to monitor key performance indicators (KPIs) and system metrics.
+Overhauled custom plugins and integrations to extend Grafana's functionality.
+Collaborated with cross-functional teams to gather requirements and design effective monitoring solutions.
+Conducted performance tuning and optimization of Grafana instances for improved efficiency.
+Provided technical support and troubleshooting for Grafana-related issues.
+Optimized AWS CloudFormation templates to configure custom VPCs, subnets, and NAT configurations, ensuring seamless deployment of web applications and database templates.
+Packaged applications and their dependencies into Docker images, leveraging Docker to create containers.
+Employed Maven to build deployable artifacts such as .war, .jar, and. .ear from source code.
+Installed docker-maven-plugin in maven pom.xml to generate docker images for all microservices, later utilizing Docker file to build immutable Docker Images from java jar/war files.
+Originated Docker images with microservices, pushing them to Elastic Container Registry for efficient application lifecycle management.
+Conceived private clouds using Kubernetes Helm packages, facilitating application scaling.
+Pioneered Kubernetes to orchestrate deployment and scaling, including load balancers and management of Docker Containers with multiple name-spaced versions via Helm charts.
+Configured Jenkins pipelines to manage the building of all microservices, pushing them to the Docker registry and deploying them to Kubernetes through Pod creation.
+Managed S3 buckets, Configured policies, and catalyzed Glacier for storage and backups.
+Designated backup mechanisms for data restoration in case of system failures, thoroughly documenting the entire process along with Environmental Configurations, Deployment Strategy, Troubleshooting Guidelines, Contact Information, Versioning, and Rollback Plans.
+
+Role: AWS Cloud Engineer November 2017 – January 2019
+Datadot Labs, India
+Environment: Terraform, GO, Spark, Spinnaker, CI/CD, Docker, Git, Jenkins, Python, SDLC, Agile, Virtual Machines, PaaS, PowerShell, Auto Scaling, IaC, AWS, Grafana, SQL, AWS, PySpark
+Responsibilities:
+Crafted Terraform scripts to automate the setup of AWS infrastructure.
+cultivated Python scripts to instantiate Lambda resources for capturing CDC (Change Data Capture) events.
+Conducted testing of Terraform in a Go Environment utilizing Terratest.
+Devised pipelines using Jenkins for the automation of AWS resources.
+Conceptualized shell scripts to generate S3 buckets across various AWS regions and accounts utilizing AWS CLI commands.
+Engaged in streaming data platform tasks, facilitating the seamless data flow from producer to consumer.
+Designed, constructed, and launched new data processes in production using Spark and PySpark.
+Designed comprehensive solutions encompassing near real-time and batch data pipelines using Kafka and Spark streaming.
+Analyzed and monitored intricate datasets to uncover valuable insights while Enhancing Computerized reporting for teams.
+Leveraged Spark SQL on data frames to access Hive tables within Spark, enhancing data processing efficiency.
+
+Role: DevOps Engineer February 2015 – October 2017
+Qualcomm, India
+Environment: Python, MySQL, Restful API, Jenkins, HTML,
+Responsibilities:
+Crafted Python scripts for L2 Automation to efficiently manage bulk ticket loads.
+Conducted troubleshooting, rectified, and deployed numerous Python bug fixes for applications, catering to external customers and internal customer service teams.
+Executed diverse MYSQL database queries from Python utilizing Python-MySQL connector and MySQL dB package.
+concocted Python scripts for parsing XML documents and importing data into databases, creating web-based applications using Python, CSS, and HTML.
+Utilized CI/CD tools like Jenkins for deploying JAR files.
+Operated within Agile Methodology, ensuring optimal performance delivery of applications.
+Contact this candidate

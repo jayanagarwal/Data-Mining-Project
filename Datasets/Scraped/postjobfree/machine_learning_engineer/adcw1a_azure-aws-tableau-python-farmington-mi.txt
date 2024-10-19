@@ -1,0 +1,81 @@
+Summary:
+
+Over * years of experience working with several machine learning algorithms like Linear Regression, Logistic Regression, SVM, k-means Clustering, Decision Tree, Random forest, KNN, Neural Network, Market Basket analysis, Data Mining, Deep Learning, Time series Analysis
+Experience in implementing spark operations on RDD and optimizing transformations and actions in spark.
+Experience on data governance, Data Collection, Data Validation, Data Transformations and skilled at Missing value analysis, Predictive Analytics, Machine Learning, Model Validation, Deployment.
+Experience in Building the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+Professional in loading large sets of structured, semi-structured and unstructured data coming from UNIX, NoSQL and a variety of portfolios.
+Strong experience in architecting real time streaming applications and batch style large scale distributed computing applications using tools like Spark Streaming, Spark SQL, Kafka, Flume, Map reduce, Hive etc
+Strong foundation in data mining and statistical concepts like Descriptive and inferential statistics, Data collection, hypothesis testing, measuring significance, Data distributions, confidence intervals and probability distributions
+Proven knowledge in data mining, machine learning and deep learning skills such as Computer Vision, Recommender systems and Natural Language Processing
+Hands-on experience with IBM cloud and worked on many Watson services like Knowledge studio, Watson Assistant, Watson Studio, IBM Cognos Dashboard, Natural Language Understanding, Machine Learning, Functions and API’s
+Ability to interact with peers and stakeholders to define and drive product and business impact
+
+Education:
+
+Bowling Green University, OH, USA
+Master of Science, Analytics
+National Institute of Technology, Agartala, India
+Bachelor of Technology in Civil Engineering
+
+Technical Skills:
+
+Languages : Python, SQL, R
+Cloud : Google Cloud Platform, AWS, Azure, IBM cloud
+BI tools : Tableau, PowerBI, Advanced Excel
+Databases : SQL server, MySql
+Big Data : Spark, Scala, Hive, MongoDB
+Operating Systems : Windows, Linux
+
+Work Experience:
+
+Miracle Software Systems September 2018 – Till Date
+Client- Nationwide June 2019 –October 2019
+Position- Data Scientist
+
+Responsibilities
+Strong experience in architecting real time streaming applications and batch style large scale distributed computing applications using tools like Spark Streaming, Spark SQL, Kafka, Flume, Map reduce, Hive etc.
+Developed an employee friendly chat-bot using IBM Watson Assistant and connected it with SQL server. Any questions asked to chat-bot are answered by the chat-bot by leveraging data from the SQL Server Database. Used Python, It helps in on-boarding new employees
+Used CNN, LSTM and tesseract to perform text recognition. Trained model on hundreds of handwritten texts to correctly recognize English text. Converted historic records and documents into PDF’s. Used Python
+Worked on Preventive Maintenance to predict machine failure. The machine learning model identifies different readings of the machine and predicts it’s estimated time before failure based on the data it receives from different sensors. The costs of the maintenance and any other future measures can be arranged based on status of the machine.
+Built a Digital Model Predictor to perform machine learning without coding. Built machine learning modules for all the major machine learning algorithms which can be deployed by a click. Also built pre-processing techniques which work based on the datasets.
+Built a cohesive CBM report and replaced multiple reports from 6 disparate vendors. Acquired data from multiple vendors in csv’s, excel and PDF formats and loaded them into business one drive. Used logic apps to get data from one drive to ADLS and then to azure Synapsis. Built data-pipelines and tableau reports by using data from Azure synapsis.
+Used Machine Learning to identify credit card thefts. Created data pipelines using Spark structured streaming and loaded the data into hive tables via Kafka. Used machine learning algorithms from MLlib to identify fraudulent transactions real time
+Built real streaming pipelines using spark structured streaming to transfer logs from microservices to SQL Server. Converted unstructured log data to structured data and extracted meaningful information from logs. Performed different functions like watermarking, stream-stream joins, aggregations, window functions etc.
+Performed CDC from SQL server to data bricks delta lake and merged incoming new data to sql server. Also transferred incoming streaming transactions data to delta lake and used spark to perform ad-hoc analysis on the transaction data
+Used arrow to transfer data between different formats and systems and converted python pandas code to vectorized UDF to use Pandas rich functionality
+performed transformations like map, flatMap, filter, groupByKey, reduceByKey, sample, union, distinct and actions like Collect, take(n), count, max, min, sum, variance, stdev, Reduce in Pyspark
+Optimized performance of spark programs by adjusting partitions size, number of partitions, building UDF's and performed salting to resolve data skewness, optimized joins
+Performed unit testing, system integrated testing, unit integration testing. Used apache airflow to schedule and monitor the data flows. Used spark local to test programs and deployed to spark on cluster and monitored spark jobs in spark UI
+Performed speeding up of file loading from s3 using partition pruning, partition discovery, better schema inference
+used coalesce, compaction, repartition to manage output file partition, controlled count of partition in shuffle partition
+Built reports from ServiceNow data for team members to track their tickets, requests and due days remaining. Sent remainders to manager on the open requests past due date
+Assigned permissions to groups and people as a viewer, editor, interactor or publisher and provided a story and actionable insights to clients
+Used data catalog and crawlers which are used by Athena redshift, EMR for serverless jobs in AWS Glue
+Orchestrated, scheduled, monitored using CloudWatch and also used python shell for external integration of multiple services in AWS Glue
+Employed different functions like any, all, stopped, timeout, failed, job delay for monitoring the jobs in AWS Glue
+Built tables with partition key attribute, optional sort key attribute and restricted access of attributes and tables in DynamoDB, used reverse lookup GSI on multiple access patterns
+Made tables either eventually consistent or strongly consisted based on the demand and built local secondary indexes for sorting which are strongly consistent and global secondary indexes for grouping which are eventual consistent in DynamoDB
+Used DynamoDB streams and invocation role and execution role for lambda and performed aggregation on streams using lambda similar to stored procedures like operations
+Used DynamoDB transact Api for synchronous update, put, delete, check, conditional checks, conditional batch inserts/updates
+Environment: Spark, Pyspark, Python, Spark streaming, SparkSQL, Hive, Kafka, Flume, AWS Glue, DynamoDB
+
+Project:
+July 2017 – August 2018
+BGSU, MS in Analytics
+
+Responsibilities
+Conducted Associative Analysis to provide product recommendations to customers based on their purchase history. Implemented Market Basket Analysis to identify products which are brought together by users and recommending them to new users purchasing them.
+Developed an employee friendly chat-bot using IBM Watson Assistant and connected it with SQL server. Any questions asked to chat-bot are answered by the chat-bot by leveraging data from the SQL Server Database. Used Python, It helps in on-boarding new employees
+Used CNN, LSTM and tesseract to perform text recognition. Trained model on hundreds of handwritten texts to correctly recognize English text. Converted historic records and documents into PDF’s. Used Python
+Worked on Preventive Maintenance to predict machine failure. The machine learning model identifies different readings of the machine and predicts it’s estimated time before failure based on the data it receives from different sensors. The costs of the maintenance and any other future measures can be arranged based on status of the machine.
+Built a Digital Model Predictor to perform machine learning without coding. Built machine learning modules for all the major machine learning algorithms which can be deployed by a click. Also built pre-processing techniques which work based on the datasets.
+Built a cohesive CBM report and replaced multiple reports from 6 disparate vendors. Acquired data from multiple vendors in csv’s, excel and PDF formats and loaded them into business one drive. Used logic apps to get data from one drive to ADLS and then to azure Synapsis. Built data-pipelines and tableau reports by using data from Azure synapsis.
+Used Machine Learning to identify credit card thefts. Created data pipelines using Spark structured streaming and loaded the data into hive tables via Kafka. Used machine learning algorithms from MLlib to identify fraudulent transactions real time
+Used Pyspark, cloud data lab in GCP to conduct Associative Analysis, market basket analysis and provided product recommendations to customers based on their purchase history.
+Performed sentiment analysis of Amazon product reviews. Built tables in hive to query and perform visualization on the data. Used spark to perform sentiment analysis to identify key words. Created word cloud in tableau by using the key words
+Performed time series analysis on Face book stock price data from May 2017 to October 2017 to forecast future stock price of Face book. Forecasted Facebook stock price and predicted an ROI of 3% for the next two days in the month of May in the future. Obtained a 99% accuracy in the ROI for the stock prices predicted.
+Used Random Forest to predict the variables influencing flight cancellations on a Kaggle Dataset.
+Developed a Machine Learning Model to predict airlines delay time like predictions done by Google Flights.
+Identified patients who may be affected by lung cancer in future by analyzing their scans from past one month. Accurately predicted Cancer by identifying cancerous tissues from CT scan.
+Contact this candidate

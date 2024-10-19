@@ -1,0 +1,123 @@
+Richard Des Jardins
+
+SUMMARY
+
+Accomplished Microsoft Architect and C# / VB .NET, and MVC .NET Solutions Architect and Application developer with demonstrated web/Internet/Intranet and client-side expertise in delivering e-commerce solutions, as well as a wide array of business applications and process automation: Highly skilled in development, scope analysis, and architecture as well as teaching and mentoring: I have a strong knowledge and focus on Security OWASP top 10 Best practices with experience in Security Code review and remediation. I have Extensive experience with SQL Language with SQL Server 2000 and SQL Server 2005 as well as SQL Server 2008 using T-SQL and Stored Procedures. I have strong experience with Visual Basic 6.0, VB.NET, C#.NET, XML, JQuery and general operating systems. I am Experienced with Crystal Reports and SQL Reporting Services. I have experience with programming against Active Directory (LDAP). I have experience building Data Warehouses and Data Marts, and ETL (Extract, Transform, and load) Development as well as Dashboards for KPIs. I use Mobile Optimized best practices on all web-based solutions, mobile application development with HTML5, JQuery, and Restful Services.
+
+TECHNICAL SKILLS
+
+Microsoft Certified Professional (MCP)
+70-306
+
+Technical Courses
+M64559 – Visual Studio 2008
+I3530 – SharePoint 2007
+2784A - Tuning and Optimizing Queries
+2576A – Implementing and Administrating Microsoft Internet Information Services (IIS) 6.0
+Windows Mobile 7 Application Development
+iPhone Programming
+
+Management Courses:
+Mini MBA – 40 course / lab time
+Lead Like Jesus
+Advanced Management Strategies – 40 hours
+
+Languages: C# Dot NET, VB.NET, Visual Basic 6.0, C++, JavaScript, PHP, ASP, HTML. XHTML, CSS, XML, JQuery, HTML5
+
+Databases: MS SQL Server 2000, 2005, 2008, and 2012, MySQL, MS Dynamics / Great Plaines
+
+Development Tools / Platforms: Visual Studio. NET 2003, 2005, and 2008, 2010, and 2012, and 2013, Visual SourceSafe, Team Foundation Server, Expression Studio, Crystal Reports, Dream Weaver, Ektron CMS 400 - Content Management, NHybernate, Entity Framework, AJAX, Razor, JQuery, Telerik, KnockoutJS, Kendo UI, Infragistics, AngularJS, HTML5, Bootstrap, Restful Services
+Reporting Services: Crystal Reports XI, SQL Reporting Services, and Dundas Charts
+Project Types:
+ASP.NET Web Applications
+MVC.NET Web Applications
+Windows Desk Top Applications (Win Forms)
+XML Web Services
+Windows Communication Foundation Services (WCF)
+Windows Services
+Reporting Services (SQL Reporting Services and Crystal Reporting Services XI)
+SharePoint (3.0 and 4.0)
+
+PROFESSIONAL EXPERIENCE
+
+Consulting Chicago & WebVunerabilityRemediation.com 2001 – (Present)
+Sr. Programmer/Application Developer/Application Architect
+This is my Business Alias (DBA) which is used to promote my Independent contractor work as a Solutions Architect and Lead Application Developer. I have developed many projects and solutions using Desktop Applications (Win-Forms), ASP.NET Application (Web Applications), XML Web Services, Windows Services, Windows Communication Foundation Services (WCF), AJAX, JQuery, HTML5, XHTML Compliant Markup Language, JavaScript, Cascading Style Sheets (CSS), HTML, XML, PERL, PHP, MySQL, SQL Server (2000, 2005, 2008, and 2012). I have been involved in the full life-cycle of all these projects and solutions as well as acting as lead developer and mentor overseeing a wide range of development teams. Integration with Microsoft Dynamics
+Clients: GTL, UNL Insurance, ITW Angle Board, Signode, Deloitte, Randstad Technologies, State of Illinois, Lion’s Club International, Pan American Bank, Three Source Inc., Black Industrial Supply, Ohio State University, Covenant Security, Alaron, Lyme Disease Association, Synovate, God’s Guiding Light Ministries, Custom Medical Stock Photo, New Life Lutheran Church, Perl Coder’s Group
+
+Recent Projects for Consulting Chicago
+Guarantee Trust Life Insurance (GTL) Jun 15 - (Present)
+Business Analyst - Solutions Architect – Lead Developer
+(Sub-contractor with Consulting Chicago)
+I have been multitasking providing technical guidance and development for a variety of solutions that include Modernizing their Agent Portal, converting a public website to a content management solution using MVC.NET, HTML5, and Restful services, while building in a very secure infrastructure for security concerns.
+
+I have been tasked with solving a very complex problem requiring cutting edge technology and innovative architectures: They require an agent portal application that will replace the existing agent portal that will work as a parent site to a mobile release version of the application. The mobile versions need to run on all device types, however the core application must share a common code base that can be used on all applications and devices. All the agent portal applications need to be able to Authenticate and be functional in OFF-LINE mode. I created an architecture that meets all these needs that also complies with ALL of OWASP top Mobile and web security concerns. I am now working with a team building out the solution with an AGILE development process.
+
+Mobile / Web Technologies:
+1.MVC.NET for Parent Web application that exposes restful service via controllers that is used for data Sync processes.
+2.HTML5 with embedded databases for cross-platform code base. There is a data access layer that can toggle between SQLite and IndexedDB as there is current a change in the W3C standards.
+3.JQuery: JQuery is used to make async calls to restful services to manage synchronizing data.
+4.Cryptography: all data needs to be stored in the embedded databases to support complete offline functionality. All data needs to be encrypted using leading industry standards while passing hash to and from the servers to the client. The encryption from the .NET platform will be decrypted on the client with JavaScript and vice versa.
+Authentication: We require an online and off line authentication mode that will authenticate against Active Directory. This will be using a two-factor authentication using an Authentication service to send simple verification codes to the registered devices for online mode. For offline mode, this service is packed with critical features. The log in form will create an encryption of the credentials and open the default SMS application with the encrypted text and number prefilled. All encrypted message are received from a GPRS Modem attached to the secure authentication service server that has listeners on the com port to receive messages and decrypt them and call the restful service methods on the public website that will marshal the authentication to the secure backend service that will authenticate against active directory and return a response object with success status and additional information that will be sent back to the device. One of the returned items is a session key that will be used to encrypt the data in the embedded databases. These keys are session only and never stored on the device. Only a reference to the identifier is stored. Encrypted values and encryption keys cannot be stored on the same device. Once Authenticated, the Agents can work under a token that has an expiration policy set to a configurable duration. Typical is one day.
+Authentication Technologies:
+1. .NET Windows Services (C#.NET)
+2.AT Command programming to communicate with the GPRS Modem(s)
+
+ITW Angle Board Jan 15 - (Present)
+Business Analyst - Solutions Architect – Lead Developer
+(Sub-contractor with Consulting Chicago)
+I have been providing on-going support and development supporting financial systems and reporting services and building new solutions leveraging the latest .NET Stack. I am working now full-time doing a complete rewrite to .NET 4.5 and SQL Reporting Services.
+
+Signode Dec 14 – Jan 15
+Business Analyst - Solutions Architect – Lead Developer
+(Sub-contractor with Consulting Chicago)
+Architected a solution for synchronizing Employee information with a third party Learning / Training site by developing a Data Mapping and ELT process the Feeds data to Active Directory from an HR Management Solution and an ETL process that Extracts from Active Directory and Transforms the Information to a SFTP upload to a third party Training Management Site. The data required additional lookup methods and sub queries to get all the required hierarchy data. The solution included a robust validation engine and notification process for reporting employee records that are not complete enough to be submitted. This solution was designed to be run on a schedule or ad hoc. I leveraged .NET 4.5 framework as a console application.
+
+Deloitte July 14 – Dec 14
+HCSC – Blue Cross Blue Shield
+Microsoft .NET Senior Application Developer / Team Lead / Business Analyst
+(Sub-contractor with Consulting Chicago)
+I was brought on to architect a solution to create a reusable framework for task automation around Customer Service Insurance Policy updates and lead a team in developing the framework and well as two task automation processes. Team size was 14 people and we were tasked with a great deal of work on a very limited timeframe. We leveraged MVC.NET 4.5 framework and a Service Oriented Architecture using Windows Communication Services and .NET 4.5. The Service layer encapsulated the Business and the Data Access Layers. Following a successful deployment, I was moved to another very high profile assignment involving Automation and Validation for Insurance policy renewals and updates for 2015.
+
+Randstad Technology Sept 12 –Sept 13
+Solutions Architect – Sr. Application Developer
+(Sub-contractor with Consulting Chicago)
+I was part of a team that re-architected the entire Enterprise solution for TaxNet and Supporting Applications and services. We added various new features to TaxNet including Monthly Reporting Module and Off-Line Processing and queuing for extremely large upload files. We introduced modern technologies for presentation using JQuery and AJAX and C# .net 4.0. Developed many batch processes to sync data between existing mainframe system and SQL DB backend for TaxNet. I added Penalty Calculation Engine to support various penalty algorithms for Late or Unsupported media types. Added Validation Engine
+Client: State of Illinois - IDES
+
+W2 Employment History
+
+Transportation Solutions Enterprises (TSE) Aug 13 – July 14
+Solutions Architect – Lead Application Developer
+TSE is the parent Corporation for various companies specializing in all aspects of Logistic. I have been brought on to facilitate taking their already state of the art technology to the next level. Our team built and supported many applications for internal use as well as many service offerings to outside clients. One main focus deals with Data Mapping and Queuing solutions as a middleware Software as a Service offering for other Transportation companies and brokerages.
+
+Robert Half Technology July 11 – Sept 12
+Salaried Professional
+(Solutions Architect, Sr. Application Developer, Business Analyst)
+Focused on new technologies and current changes, I provide leading edge solutions for various complex problems for Internal and external facing Applications using ASP.NET, Microsoft MVC 4.0, Visual Studio 2012, and third party tools such as Telerik tools. My latest lead assignment was to lead a Security Remediation team to update over 150 applications that were flagged as having security issues with their code base. I taught and mentored developers very inexperienced with Microsoft technologies on OWASP top 10 Security issues and how to recognize and remediate these issues.
+Clients: Protiviti – (Schwans, Virgin American, American Petroleum Institute), True Value, Potbelly Corporation
+
+Bible League International May 2010 – July 11
+Supervisor of Solutions Development
+My primary role was that of Enterprise Architect and Technical Analyst as we built an integrated solution for Data Storage and sharing from many individual applications. I led the IT programming efforts that support a very large enterprise of data systems including Web Application for the Internet as well as intranet, Desk top applications, Windows Services, XML Web Services, and Windows Communication Foundation Services (WCF). As a supervisor, I was very involved with training, mentoring application developers from in-house staff as well as groups of contractors. I was very involved with code review, testing, and guiding in areas of best practices.
+Technologies: VB.NET, C#.NET, ADO.NET, HTML, JavaScript, CSS, SharePoint, Great Plaines / Microsoft Dynamics
+
+Next Step Technology March 2008 – Feb 2010
+Solutions Architect – Lead Application Developer
+(Worked in Partnership with Consulting Chicago)
+Clients: American Society of Anesthesiology, Pan American Bank
+ASP.NET Web Development – XML Web Services Development – Base Class Library Development – Windows Services Development - eCommerce – POS – Win-Forms Desktop Applications, Classic ASP conversion to .NET
+SharePoint Development – Built various SharePoint portals to manage client projects and to help facilitate project collaboration and document sharing. I also built various Web Parts leveraging .NET Technologies exposed through SharePoint.
+
+As Lead application developer, I was responsible for training and best practices documentation as well as ongoing mentoring and hands on development. We were involved with complete life cycle development for various clients using Microsoft technologies that included VB.NET, C#.NET, Web Services, Windows Services, ASP.NET Web Applications, ETL Processes, Data Warehouses, and reporting features.
+
+WMH - Tool Group March 2007 – March 2008
+Sr. Programmer/Application Developer/Application Architect
+ASP.NET Web Development – Manufacturing
+I was involved with Migrating ALL Company websites to .NET (8 complete websites) with focus on e-commerce business model that included linking to Product Inventory and pricing. I was Sole Architect of many in-house business applications built as both ASP.NET Applications and well as Desktop Applications (Win-Forms), which I fully scoped and developed using N-tier business model with strong emphasis on data level and security. I acted as the Senior .NET Developer in a team of 5 programmers. I mentored and taught as well as programmed complex solutions: Gathered information requirements for full scope development and developed complete architecture of new solutions:
+
+EDUCATION:
+Kaplan University (2004): Graduated with straight “A” average from Kaplan University with IT Certificate – Programming Emphasis. Studied HTML, Database Interaction, C++, Visual Basic, VB.NET, and Visual Studio .NET.
+
+Work History Notes: I have been working full-time as a programmer since 2001 with a mix of project work with Consulting Chicago and Full-Time Employment work. Sometimes there were overlaps where I was working full-time roles while working part-time on Consulting Chicago clients.
+Contact this candidate

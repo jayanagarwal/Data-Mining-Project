@@ -1,0 +1,82 @@
+WILLIAM G. MCGAIR
+**** * ****** ****** ********, OR 97217
+503-***-**** ad2t38@r.postjobfree.com
+DEVOPS PROFESSIONAL
+Experienced DevOps engineer adept at working closely with development teams to rapidly deliver code to production. Years of experience with on-prem and cloud-native network and infrastructure design. Years of experience ensuring uptime of business critical, customer facing 24/7 applications.
+Organized, results driven DevOps professional with more than 20 years experience in Linux, cloud, and containerization technologies in high volume production environments.
+Excels at collaborating with development teams, implementing continuous delivery solutions, maximizing reliability, and managing costs.
+Skilled developer of operational processes, tooling, and CI/CD workflows. Leadership: Experienced in both managing and collaborating with disparate technical teams. Strengths include team building, mentoring, developer support, vendor relationship management, and interfacing with and supporting non-technical internal clients. Technologies: AWS, Azure, Terraform, various CI/CD tools, Kubernetes, Ansible, Chef, databases (mysql, postgres), Linux/Unix, Datadog, New Relic, Splunk, Ruby, Python, Bash. EXPERIENCE
+EVEROPS LLC – SAN FRANCISCO, CA
+DevOps Engineer 2/2022–6/2023
+Contract DevOps engineer maintaining infrastructure for a large CRM vendor
+Supervised and completed an enterprise migration from Rollbar to Sentry for APM and error tracking.
+Wrote a python layer to sync resources to Sentry from the customer’s internal tooling via GA workflows since Sentry did not yet have a terraform provider.
+Wrote and deployed code to dynamically rotate secrets on subscriber nodes using hashicorp vault
+Managed updates to customer’s global infrastructure using Terraform, Atlantis, and GA workflows
+Assisted in migrating from Chef to Terraform
+DRIVEWAY.COM – PORTLAND, OR
+DevOps Engineer 4/2019–2/2022
+Built infrastructure to rollout Lithia Motor’s online car sales platform to
+Built ci/cd pipelines to deploy code with azure pipelines
+Built and maintained infrastructure as code using Terraform to provision and deploy Azure resources using AzureDevops and AzureRM providers.
+RIDEWITHGPS – PORTLAND, OR
+DevOps Engineer 1/2019–3/2019
+Brought on to migrate RideWitGPS’s self-hosted Rails app and its attendant technologies to bare metal kubernetes
+Added a monitoring using Sensu-go to monitor and grafana to visualize various aspects of the application.
+Containerized several of the ancillary applications that are used by RidewithGPS’s monolithic Rails application.
+Managed and upgraded bare metal Ubuntu servers.
+Added ELK log aggregation and search solution to both containerized dev environments and production.
+Rebuilt internal Jenkins instance from VM to container INSIDETRACK INC. – PORTLAND, OR
+William McGair 2
+Senior DevOps Engineer 3/2015–12/2019
+Brought on to support a team of 30 engineers creating an online SOA to deliver InsideTrack's student data driven application. Migrated services from long running instances to AMI per commit infrastructure, and then again to containerized infrastructure. Reworked the CI/CD pipeline to produce “universal” containers which can be deployed to arbitrary environments. Built infrastructure to create and deploy arbitrary environments.
+Migrated development environments to Kubernetes. Migrated Insidetrack’s SOA architecture from “AMI” based deployments to container deployments running on kubernetes clusters at AWS. Enabled faster deployments, faster scaling, easier environment spin up, and cost savings, while maintaining service level commitments.
+Deployed Kubernetes/KOPS infrastructure at AWS.
+Supported SOA services written in multiple frameworks. Including Rails, Node, and Elixir.
+Re-architected AWS public cloud infrastructure to a multi-az, single region VPC based topology, which is idempotently maintained in Ansible and CloudFormation.
+Migrated the CI/CD pipeline from an architecture that deployed new code to long running instances, to one that creates an AMI artifact of each commit, simplifying horizontal scaling and disaster recovery.
+Automated AWS continuous deployments using fault tolerant blue/green methodology.
+Implemented log aggregation for ephemeral instances with an ELK based solution, saving thousands on third party logging.
+Monitor service health with a combination of New Relic, Honey Badger, ELK, and AWS metrics.
+Brought RabbitMQ and ElasticSearch service clusters in house.
+Implemented scalable ChatOps infrastructure which allows engineers to monitor and control services from slack.
+Migrated standalone databases to RDS with minimal downtime. CROSSFIT INC. – SANTA CRUZ, CA
+Senior Sysadmin/Cloud Infrastructure Engineer, 2/2007–2/2015 Built online delivery platform for company's training, media, and competition products. Migrated all company data services, both internal and customer facing, to AWS. Designed and maintained scalable operational infrastructure for all company platforms, including The CrossFit Games, an online competition featuring over 350,000 competitors. Built a continuous delivery pipeline which allowed developers to speed their release times from bi-weekly to multiple releases per day.
+Top Contributions:
+Enabled company to scale from 10,000 to 3 million/month unique users, migrated all hosted services to Amazon Web Services, added various caching schemes and CDNs to scale rapidly.
+Designed and managed the scalable infrastructure that hosted and scored the CrossFit Open, CrossFit’s yearly real time global fitness competition servicing some 350,000 athlete-customers.
+Built a continuous integration pipeline using GitHub, Jenkins, and AWS CodeDeploy to eliminate variability in deployments.
+Migrated compute services from hosted bare-metal solution to AWS, and then (when it became available) from AWS classic to VPC.
+Eliminated deployment wait times by creating a “ChatOps” bot, which enabled developers to initiate deployments and receive feedback via Slack chat.
+Automated the build and deployment of servers in AWS using the AWS SDK, Chef, and CloudFormation.
+Implemented monitoring, redundancy, and auto-scaling solutions that drastically increased uptime and user satisfaction while keeping costs manageable.
+Designed and implemented a live video streaming solution to deliver countless hours of live sporting competitions to CrossFit fans worldwide.
+William McGair 3
+Partnered with YouTube to deliver advertising-free HD streaming, brought content delivery costs down again by participating in YouTube’s HD enterprise account Beta, and migrating both our canned and live content to their HD platform.
+Maintained PCI compliance and eliminated scope by isolating the company’s payment servers and migrating necessary pages to Direct Post.
+Designed and deployed all LAN, Wifi, Firewall, and routing infrastructure at company’s three offices. PHEEDO INC – PORTLAND, OR
+Senior Unix System Administrator, 01/2005–02/2006
+Unix sysadmin at a startup based in Portland and Emeryville CA that delivered RSS feed management tools which enabled bloggers, podcasters, and other web-based content publishers to monetize their content. Top Contributions:
+Designed and deployed new network and server infrastructure, and at the direction of the CEO, migrated the company’s services from on premises to a remote collocation facility.
+Maintained 24/7 uptime of all Servers, SANs, VPNs, Load balancers, Firewalls
+Supported a team of 20 developers and salespeople on disparate platforms, in multiple offices.
+Managed and deployed Unix services DNS, DHCP, LDAP, NFS, Samba, Subversion, etc. IE LOGIC/ULTIMATE BET INC – PORTLAND, OR
+Senior Unix System Administrator, 2002–2005
+Maintained all aspects of a 24/7 real-time interactive online gaming application running on hundreds of RedHat and Solaris 8 servers.
+Top Contributions:
+Designed a deployment process to version, package, and roll out application and OS code to stage and production systems.
+Specified, purchased, and deployed F5 load balancer solutions to replace initial single server architecture.
+Supported growth by continuously deploying new hardware to remote (non-US) server farm.
+Migrated Terabytes of MySQL data to Oracle Rac solution on Sun hardware.
+Supported real-time, real-money game play for hundreds of simultaneous users 24/7. FLATROCK LLC – PORTLAND, OR
+Software Engineer, 2006–2007
+Software Engineer, 2002-2003
+Brought in after second round of funding to build a release management process for the company’s hardware firewall traversal device. Built a customized, minimal, Debian-based Linux distribution to support the device. Leveraged Open Source packaging and deployment systems to create a process that generated a versionable golden image of the software for the device. Introducing new development and test environments that fueled rapid production and streamlined the update process for both developers and customers. Top Contributions:
+Introduced new version control procedures and products. Migrated developers from RCS to Subversion.
+Leveraged CFEngine (an early open source CM system) and Debian Package Manager to create a versionable release of company’s code.
+Created a process to remotely patch and update software on units in the field.
+Built Test Farm which allowed developers to rapidly deploy and test their code to all versions of the company’s hardware.
+Updated development methodology to speed release times. ADDITIONAL EXPERIENCE
+Unix Team Manager, Amdocs – Hillsboro, OR 1999–2002 William McGair 4
+Oversaw technical infrastructure at Amdocs Inc's Hillsboro development office for telecom fraud detection products. Supported development and testing environments for two separate development teams targeting Solaris, HP/UX and NT servers. Assisted in large-scale installations of company fraud products in enterprise telco call centers. Senior UNIX System Administrator, SHN/WebMD. – Portland, OR 1995–1999 Led a team of 4 system administrators at an early stage Internet healthcare startup, which was then acquired by WebMD.
+Contact this candidate
